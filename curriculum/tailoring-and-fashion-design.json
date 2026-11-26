@@ -1,1714 +1,1714 @@
 {
- "course": {
-  "id": "tailoring-and-fashion-design",
-  "title": "Tailoring and Fashion Design",
-  "level": "Beginner",
-  "tagline": "Cut, sew and finish clothes that fit beautifully, from measurements to a finished outfit.",
-  "duration_days": 30
- },
- "days": [
-  {
-   "day": 1,
-   "week": 1,
-   "title": "Your Tools and Workspace",
-   "goal": "Set up a sewing workspace and identify every basic tailoring tool.",
-   "video": {
-    "youtube_id": "cBOsmKiotw8",
-    "title": "Beginner Fashion Designing Course",
-    "channel": "Priya Avalfashion"
-   },
-   "steps": [
-    "Clear a flat table at least 1m wide and set your machine on the left, iron on the right.",
-    "Lay out scissors, tape measure, pins, chalk, seam ripper and hand needles and name each one.",
-    "Thread your machine once slowly, following the numbered thread path in its manual.",
-    "Sew three straight lines on scrap cotton and check the stitch length."
-   ],
-   "task": "Photograph your set-up workspace with every tool labelled on paper.",
-   "challenge": "Sew a perfectly straight 30cm seam without the fabric drifting.",
-   "quiz": [
-    {
-     "q": "What is the first thing to do before threading a sewing machine?",
-     "options": [
-      "Oil the needle",
-      "Raise the presser foot and follow the thread path",
-      "Wind a bobbin",
-      "Change the needle"
-     ],
-     "answer": 1,
-     "explain": "Raising the presser foot opens the tension discs so the thread seats correctly."
-    },
-    {
-     "q": "Which tool is used to remove stitches?",
-     "options": [
-      "Seam ripper",
-      "Chalk",
-      "Thimble",
-      "Bobbin"
-     ],
-     "answer": 0,
-     "explain": "A seam ripper has a sharp point and blade made for cutting stitches without tearing fabric."
-    },
-    {
-     "q": "Why do you press seams as you sew?",
-     "options": [
-      "It makes the fabric softer",
-      "It sets the stitches and gives a professional finish",
-      "It stops the machine jamming",
-      "It shrinks the fabric"
-     ],
-     "answer": 1,
-     "explain": "Pressing as you go sets stitches flat and keeps the garment shaping correctly."
-    }
-   ],
-   "project": null
+  "course": {
+    "id": "tailoring-and-fashion-design",
+    "title": "Tailoring and Fashion Design",
+    "level": "Beginner",
+    "tagline": "Cut, sew and finish clothes that fit beautifully, from measurements to a finished outfit.",
+    "duration_days": 30
   },
-  {
-   "day": 2,
-   "week": 1,
-   "title": "Know Your Fabrics",
-   "goal": "Tell cotton, Ankara, linen, chiffon and denim apart by look and feel.",
-   "video": {
-    "youtube_id": "cBOsmKiotw8",
-    "title": "Beginner Fashion Designing Course",
-    "channel": "Priya Avalfashion"
-   },
-   "steps": [
-    "Collect five small fabric swatches from a market or old clothes.",
-    "Hold each up to the light and note which are sheer, stiff or stretchy.",
-    "Pull each swatch gently both ways to test stretch and to see which way the threads run (this is called the grain).",
-    "Write the name, feel and best use of each swatch on a card."
-   ],
-   "task": "Label five swatches with fabric name and one garment each suits.",
-   "challenge": "Identify an unknown fabric from a friend's wardrobe by feel alone.",
-   "quiz": [
+  "days": [
     {
-     "q": "What is the first thing to do before threading a sewing machine?",
-     "options": [
-      "Oil the needle",
-      "Raise the presser foot and follow the thread path",
-      "Wind a bobbin",
-      "Change the needle"
-     ],
-     "answer": 1,
-     "explain": "Raising the presser foot opens the tension discs so the thread seats correctly."
+      "day": 1,
+      "week": 1,
+      "title": "Your Tools and Workspace",
+      "goal": "Set up a sewing workspace and identify every basic tailoring tool.",
+      "video": {
+        "youtube_id": "cBOsmKiotw8",
+        "title": "Beginner Fashion Designing Course",
+        "channel": "Priya Avalfashion"
+      },
+      "steps": [
+        "Clear a flat table at least 1m wide and set your machine on the left, iron on the right.",
+        "Lay out scissors, tape measure, pins, chalk, seam ripper and hand needles and name each one.",
+        "Thread your machine once slowly, following the numbered thread path in its manual.",
+        "Sew three straight lines on scrap cotton and check the stitch length."
+      ],
+      "task": "Photograph your set-up workspace with every tool labelled on paper.",
+      "challenge": "Sew a perfectly straight 30cm seam without the fabric drifting.",
+      "quiz": [
+        {
+          "q": "What is the first thing to do before threading a sewing machine?",
+          "options": [
+            "Oil the needle",
+            "Raise the presser foot and follow the thread path",
+            "Wind a bobbin",
+            "Change the needle"
+          ],
+          "answer": 1,
+          "explain": "Raising the presser foot opens the tension discs so the thread seats correctly."
+        },
+        {
+          "q": "Which tool is used to remove stitches?",
+          "options": [
+            "Seam ripper",
+            "Chalk",
+            "Thimble",
+            "Bobbin"
+          ],
+          "answer": 0,
+          "explain": "A seam ripper has a sharp point and blade made for cutting stitches without tearing fabric."
+        },
+        {
+          "q": "Why do you press seams as you sew?",
+          "options": [
+            "It makes the fabric softer",
+            "It sets the stitches and gives a professional finish",
+            "It stops the machine jamming",
+            "It shrinks the fabric"
+          ],
+          "answer": 1,
+          "explain": "Pressing as you go sets stitches flat and keeps the garment shaping correctly."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "Which tool is used to remove stitches?",
-     "options": [
-      "Seam ripper",
-      "Chalk",
-      "Thimble",
-      "Bobbin"
-     ],
-     "answer": 0,
-     "explain": "A seam ripper has a sharp point and blade made for cutting stitches without tearing fabric."
+      "day": 2,
+      "week": 1,
+      "title": "Know Your Fabrics",
+      "goal": "Tell cotton, Ankara, linen, chiffon and denim apart by look and feel.",
+      "video": {
+        "youtube_id": "cBOsmKiotw8",
+        "title": "Beginner Fashion Designing Course",
+        "channel": "Priya Avalfashion"
+      },
+      "steps": [
+        "Collect five small fabric swatches from a market or old clothes.",
+        "Hold each up to the light and note which are sheer, stiff or stretchy.",
+        "Pull each swatch gently both ways to test stretch and to see which way the threads run (this is called the grain).",
+        "Write the name, feel and best use of each swatch on a card."
+      ],
+      "task": "Label five swatches with fabric name and one garment each suits.",
+      "challenge": "Identify an unknown fabric from a friend's wardrobe by feel alone.",
+      "quiz": [
+        {
+          "q": "How can you tell fabrics apart?",
+          "options": [
+            "By price only.",
+            "By look and feel.",
+            "By colour only.",
+            "By the shop they came from."
+          ],
+          "answer": 1,
+          "explain": "Tell cotton, Ankara, linen, chiffon and denim apart by look and feel."
+        },
+        {
+          "q": "What does it mean when a fabric is sheer?",
+          "options": [
+            "It is very heavy.",
+            "It never stretches.",
+            "You can see light through it.",
+            "It is always white."
+          ],
+          "answer": 2,
+          "explain": "Hold each swatch up to the light and note which are sheer, stiff or stretchy."
+        },
+        {
+          "q": "What is the grain of a fabric?",
+          "options": [
+            "The colour of the fabric.",
+            "The price of the fabric.",
+            "The size of the swatch.",
+            "The direction the threads run."
+          ],
+          "answer": 3,
+          "explain": "Pull each swatch gently both ways to test stretch and to see which way the threads run (this is called the grain)."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "Why do you press seams as you sew?",
-     "options": [
-      "It makes the fabric softer",
-      "It sets the stitches and gives a professional finish",
-      "It stops the machine jamming",
-      "It shrinks the fabric"
-     ],
-     "answer": 1,
-     "explain": "Pressing as you go sets stitches flat and keeps the garment shaping correctly."
+      "day": 3,
+      "week": 1,
+      "title": "Take Accurate Body Measurements",
+      "goal": "Measure bust, waist, hip, shoulder and length correctly on a real person.",
+      "video": {
+        "youtube_id": "cBOsmKiotw8",
+        "title": "Beginner Fashion Designing Course",
+        "channel": "Priya Avalfashion"
+      },
+      "steps": [
+        "Tie a ribbon around the natural waist so you can find it every time.",
+        "Measure bust, waist and hips snugly, keeping the tape level all round.",
+        "Record shoulder width, back length and sleeve length on a measurement sheet.",
+        "Repeat every measurement once and keep the second reading if it differs."
+      ],
+      "task": "Complete a full measurement sheet for yourself or a willing model.",
+      "challenge": "Measure someone in under five minutes with no errors on re-check.",
+      "quiz": [
+        {
+          "q": "Where do you tie a ribbon before you measure?",
+          "options": [
+            "Around the natural waist.",
+            "Around the neck.",
+            "Around the ankle.",
+            "Around the wrist."
+          ],
+          "answer": 0,
+          "explain": "Tie a ribbon around the natural waist so you can find it every time."
+        },
+        {
+          "q": "Which measurements do you take around the body?",
+          "options": [
+            "Neck, wrist and ankle.",
+            "Bust, waist and hips.",
+            "Shoulder, elbow and knee.",
+            "Head, hand and foot."
+          ],
+          "answer": 1,
+          "explain": "Measure bust, waist and hips snugly, keeping the tape level all round."
+        },
+        {
+          "q": "What should you do if your second measurement is different from the first?",
+          "options": [
+            "Use the first one always.",
+            "Guess a number in between.",
+            "Keep the second reading.",
+            "Skip measuring that part."
+          ],
+          "answer": 2,
+          "explain": "Repeat every measurement once and keep the second reading if it differs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Pattern Paper and Marking Tools",
+      "goal": "Prepare pattern paper and mark grainlines, notches and seam allowances correctly.",
+      "video": {
+        "youtube_id": "7qFAsmUeb4E",
+        "title": "Pattern Making & Draping | Complete Fashion Design Tutorials for Beginners & Professionals",
+        "channel": "Farahnaz Pattern School"
+      },
+      "steps": [
+        "Tape brown paper or newspaper sheets together into a 1m by 1m drafting surface.",
+        "Draw a straight arrow to show the grain (the direction the threads run) and a 90-degree cross line with a set square.",
+        "Mark 1.5cm of extra fabric for the seam (called the seam allowance) around a rectangle and cut it out cleanly.",
+        "Label the piece with its name, size, grainline and number of pieces to cut."
+      ],
+      "task": "Draft and label one marked pattern piece with grainline and seam allowance.",
+      "challenge": "Draw a perfect right angle and parallel grainline freehand with a ruler.",
+      "quiz": [
+        {
+          "q": "What is a grainline on a pattern piece?",
+          "options": [
+            "The fold of the fabric",
+            "An arrow showing the direction of the fabric grain",
+            "The seam allowance edge",
+            "The cutting line"
+          ],
+          "answer": 1,
+          "explain": "The grainline arrow must run parallel to the selvedge so the garment hangs correctly."
+        },
+        {
+          "q": "How much extra fabric do you mark for the seam allowance?",
+          "options": [
+            "5cm.",
+            "10cm.",
+            "No extra fabric.",
+            "1.5cm."
+          ],
+          "answer": 3,
+          "explain": "Mark 1.5cm of extra fabric for the seam (called the seam allowance) around a rectangle."
+        },
+        {
+          "q": "What should you write on a pattern piece?",
+          "options": [
+            "Its name, size, grainline and number of pieces to cut.",
+            "Only the colour.",
+            "Only the price.",
+            "Nothing at all."
+          ],
+          "answer": 0,
+          "explain": "Label the piece with its name, size, grainline and number of pieces to cut."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Draft a Straight Skirt Block",
+      "goal": "Draft a basic straight skirt pattern (called a block) from real waist and hip measurements.",
+      "video": {
+        "youtube_id": "7qFAsmUeb4E",
+        "title": "Pattern Making & Draping | Complete Fashion Design Tutorials for Beginners & Professionals",
+        "channel": "Farahnaz Pattern School"
+      },
+      "steps": [
+        "Divide your hip measurement by four and add 1cm of extra room (this extra room is called ease) for the quarter block.",
+        "Draw the waist, hip and hem lines on pattern paper using your measurements.",
+        "Shape the side seam with a gentle curve from hip to waist.",
+        "Add darts at the back waist, 1.5cm wide and 10cm long."
+      ],
+      "task": "Finish a labelled straight skirt block on paper, ready to cut.",
+      "challenge": "Draft the same block from a friend's measurements without help.",
+      "quiz": [
+        {
+          "q": "How do you work out the quarter block from your hip measurement?",
+          "options": [
+            "Divide the hip by two.",
+            "Divide the hip by four and add 1cm of ease.",
+            "Add 10cm to the hip.",
+            "Use the hip number as it is."
+          ],
+          "answer": 1,
+          "explain": "Divide your hip measurement by four and add 1cm of extra room (this extra room is called ease) for the quarter block."
+        },
+        {
+          "q": "How wide and long are the darts on the skirt block?",
+          "options": [
+            "5cm wide and 20cm long.",
+            "3cm wide and 3cm long.",
+            "1.5cm wide and 10cm long.",
+            "10cm wide and 1cm long."
+          ],
+          "answer": 2,
+          "explain": "Add darts at the back waist, 1.5cm wide and 10cm long."
+        },
+        {
+          "q": "Why add ease to a pattern block?",
+          "options": [
+            "To use more fabric",
+            "So the garment allows movement and breathing",
+            "To make sewing faster",
+            "To hide mistakes"
+          ],
+          "answer": 1,
+          "explain": "Ease is the extra room beyond body measurements that lets a garment move comfortably."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Reading a Commercial Pattern",
+      "goal": "Read a shop-bought pattern envelope and cut the right size and pieces.",
+      "video": {
+        "youtube_id": "7qFAsmUeb4E",
+        "title": "Pattern Making & Draping | Complete Fashion Design Tutorials for Beginners & Professionals",
+        "channel": "Farahnaz Pattern School"
+      },
+      "steps": [
+        "Find the size chart on a pattern envelope and match it to your measurements.",
+        "Identify the cutting layout diagram for your fabric width.",
+        "Trace one pattern piece, transferring all notches and dots.",
+        "Check the finished garment measurements printed on the tissue."
+      ],
+      "task": "Trace and label one full pattern piece from a commercial pattern.",
+      "challenge": "Explain what every symbol on a pattern piece means to a friend.",
+      "quiz": [
+        {
+          "q": "What do you check first on a pattern envelope?",
+          "options": [
+            "The price only.",
+            "The picture only.",
+            "The paper colour.",
+            "The size chart, to match it to your measurements."
+          ],
+          "answer": 3,
+          "explain": "Find the size chart on a pattern envelope and match it to your measurements."
+        },
+        {
+          "q": "What does the cutting layout diagram show you?",
+          "options": [
+            "How to place the pieces on your fabric width.",
+            "How to sew the zip.",
+            "How to press the seams.",
+            "How to wash the fabric."
+          ],
+          "answer": 0,
+          "explain": "Identify the cutting layout diagram for your fabric width."
+        },
+        {
+          "q": "What should you move onto the traced piece?",
+          "options": [
+            "Only the colour.",
+            "All notches and dots.",
+            "Only the size number.",
+            "Nothing."
+          ],
+          "answer": 1,
+          "explain": "Trace one pattern piece, transferring all notches and dots."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project: Sew a Simple Straight Skirt",
+      "goal": "Cut and sew a wearable straight skirt from your own block.",
+      "video": {
+        "youtube_id": "mrVdtrz8reg",
+        "title": "How to Draft A Bodice From Measurements",
+        "channel": "Let's Learn to Sew"
+      },
+      "steps": [
+        "Pin your skirt block to fabric, matching the grainline to the fabric grain.",
+        "Cut both front and back pieces plus a waistband, adding seam allowances.",
+        "Sew the side seams, insert the zip, then attach the waistband.",
+        "Hem the skirt evenly and press every seam flat."
+      ],
+      "task": "Finish a straight skirt you can try on and wear.",
+      "challenge": "Sew the skirt with no visible puckering at the waistband.",
+      "quiz": [
+        {
+          "q": "What do you pin to the fabric first when you sew the skirt?",
+          "options": [
+            "The zip only.",
+            "The waistband only.",
+            "Your skirt block, matching the grainline to the fabric grain.",
+            "A photo of the skirt."
+          ],
+          "answer": 2,
+          "explain": "Pin your skirt block to fabric, matching the grainline to the fabric grain."
+        },
+        {
+          "q": "What do you sew after the side seams on the skirt?",
+          "options": [
+            "The hem first, then the zip.",
+            "The buttons first.",
+            "Nothing else.",
+            "The zip, then the waistband."
+          ],
+          "answer": 3,
+          "explain": "Sew the side seams, insert the zip, then attach the waistband."
+        },
+        {
+          "q": "What is the last step before you try the skirt on?",
+          "options": [
+            "Hem the skirt evenly and press every seam flat.",
+            "Cut the fabric again.",
+            "Wash the skirt.",
+            "Buy new fabric."
+          ],
+          "answer": 0,
+          "explain": "Hem the skirt evenly and press every seam flat."
+        }
+      ],
+      "project": {
+        "title": "Sew a Simple Straight Skirt",
+        "brief": "Cut and sew a straight skirt from your own drafted block, with a zip and waistband.",
+        "checks": [
+          "Block drafted from real measurements",
+          "Cut on grain with seam allowances",
+          "Zip inserted neatly",
+          "Waistband attached and pressed",
+          "Hem even all round",
+          "Fits and can be worn"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Machine Basics: Threading and Tension",
+      "goal": "Thread any sewing machine correctly and fix skipped or loopy stitches.",
+      "video": {
+        "youtube_id": "mrVdtrz8reg",
+        "title": "How to Draft A Bodice From Measurements",
+        "channel": "Let's Learn to Sew"
+      },
+      "steps": [
+        "Re-thread the top thread and bobbin from scratch, step by step.",
+        "Sew a test line and inspect top and bottom for loops or tight puckers.",
+        "Adjust the tension dial one number at a time until both sides look even.",
+        "Clean lint from the bobbin area with a small brush."
+      ],
+      "task": "Produce a test strip with balanced stitches on top and underneath.",
+      "challenge": "Diagnose and fix a looping stitch problem in under five minutes.",
+      "quiz": [
+        {
+          "q": "What should you do first when your stitches look loopy?",
+          "options": [
+            "Change the fabric.",
+            "Re-thread the top thread and bobbin from scratch.",
+            "Sew faster.",
+            "Oil the needle."
+          ],
+          "answer": 1,
+          "explain": "Re-thread the top thread and bobbin from scratch, step by step."
+        },
+        {
+          "q": "How should you change the tension dial?",
+          "options": [
+            "Turn it all the way up at once.",
+            "Turn it all the way down at once.",
+            "One number at a time, until both sides look even.",
+            "Never touch it."
+          ],
+          "answer": 2,
+          "explain": "Adjust the tension dial one number at a time until both sides look even."
+        },
+        {
+          "q": "What should you clean from the bobbin area?",
+          "options": [
+            "Thread only.",
+            "Oil only.",
+            "Nothing.",
+            "Lint, with a small brush."
+          ],
+          "answer": 3,
+          "explain": "Clean lint from the bobbin area with a small brush."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Seam Finishes That Last",
+      "goal": "Sew plain, French and overlocked-style seams that do not fray.",
+      "video": {
+        "youtube_id": "mrVdtrz8reg",
+        "title": "How to Draft A Bodice From Measurements",
+        "channel": "Let's Learn to Sew"
+      },
+      "steps": [
+        "Sew a plain seam on cotton and press it open.",
+        "Sew the same seam as a French seam, which folds the cut (raw) edges inside so they cannot fray.",
+        "Finish a raw edge with a zigzag stitch close to the edge.",
+        "Compare all three seams after a firm tug and note which frays least."
+      ],
+      "task": "Make a 15cm sample of each seam finish, labelled.",
+      "challenge": "Sew a French seam on chiffon without the fabric slipping.",
+      "quiz": [
+        {
+          "q": "What is a French seam?",
+          "options": [
+            "A seam that folds the raw edges inside so they cannot fray.",
+            "A seam with no stitching.",
+            "A seam made with glue.",
+            "A seam on the outside only."
+          ],
+          "answer": 0,
+          "explain": "Sew the same seam as a French seam, which folds the cut (raw) edges inside so they cannot fray."
+        },
+        {
+          "q": "How do you finish a raw edge so it does not fray?",
+          "options": [
+            "By leaving it raw.",
+            "With a zigzag stitch close to the edge.",
+            "By cutting it with plain scissors.",
+            "By ironing it only."
+          ],
+          "answer": 1,
+          "explain": "Finish a raw edge with a zigzag stitch close to the edge."
+        },
+        {
+          "q": "How do you compare the three seam finishes?",
+          "options": [
+            "Look at the colour only.",
+            "Weigh them.",
+            "Give each a firm tug and note which frays least.",
+            "Wash them and throw them away."
+          ],
+          "answer": 2,
+          "explain": "Compare all three seams after a firm tug and note which frays least."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Cutting Fabric Accurately",
+      "goal": "Lay out, pin and cut fabric on grain with clean, accurate edges.",
+      "video": {
+        "youtube_id": "u48ztvpGG0I",
+        "title": "Pattern Making \u2022 Cutting \u2022 Sewing | Complete Garment Tutorial | All Levels",
+        "channel": "Farahnaz Pattern School"
+      },
+      "steps": [
+        "Fold the fabric so the finished edges (called selvedges) meet and the grain runs straight.",
+        "Pin pattern pieces with the grain arrow running the same way as the finished edge of the fabric (the selvedge).",
+        "Cut with long smooth strokes, keeping the scissors flat on the table.",
+        "Mark all notches with small snips and darts with chalk."
+      ],
+      "task": "Cut a full skirt front and back accurately on grain.",
+      "challenge": "Cut a slippery fabric without it shifting off the line.",
+      "quiz": [
+        {
+          "q": "What does \"cut on grain\" mean?",
+          "options": [
+            "Cut along the selvedge direction",
+            "Cut across the fabric diagonally",
+            "Cut with the grainline arrow parallel to the selvedge",
+            "Cut through two layers only"
+          ],
+          "answer": 2,
+          "explain": "Cutting on grain keeps the garment hanging straight instead of twisting."
+        },
+        {
+          "q": "Why mark notches on cut pieces?",
+          "options": [
+            "To decorate the edge",
+            "To match pieces correctly when sewing",
+            "To show the fabric type",
+            "To mark the hem"
+          ],
+          "answer": 1,
+          "explain": "Notches are alignment marks that show which edges join and where."
+        },
+        {
+          "q": "What is a seam allowance?",
+          "options": [
+            "The fabric left between the stitching line and the cut edge",
+            "The width of the zip",
+            "The hem depth",
+            "The dart intake"
+          ],
+          "answer": 0,
+          "explain": "Seam allowance, usually 1.5cm, is the fabric between the stitch line and the raw edge."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Darts, Gathers and Pleats",
+      "goal": "Shape flat fabric to the body with darts, gathers and knife pleats.",
+      "video": {
+        "youtube_id": "u48ztvpGG0I",
+        "title": "Pattern Making \u2022 Cutting \u2022 Sewing | Complete Garment Tutorial | All Levels",
+        "channel": "Farahnaz Pattern School"
+      },
+      "steps": [
+        "Mark a waist dart on fabric and sew it from the wide end to a point.",
+        "Press the dart toward the centre back and check it lies flat.",
+        "Gather a 30cm strip by sewing two rows of long stitches and pulling the threads.",
+        "Fold and press three even knife pleats on a practice strip."
+      ],
+      "task": "Make a sample strip showing one dart, one gather and one pleat.",
+      "challenge": "Sew a dart that ends in a smooth point with no pucker.",
+      "quiz": [
+        {
+          "q": "How do you sew a waist dart?",
+          "options": [
+            "From the point to the wide end.",
+            "In a circle.",
+            "Across the whole fabric.",
+            "From the wide end to a point."
+          ],
+          "answer": 3,
+          "explain": "Mark a waist dart on fabric and sew it from the wide end to a point."
+        },
+        {
+          "q": "How do you gather a strip of fabric?",
+          "options": [
+            "Sew two rows of long stitches and pull the threads.",
+            "Cut it into small pieces.",
+            "Iron it flat only.",
+            "Glue the edges together."
+          ],
+          "answer": 0,
+          "explain": "Gather a 30cm strip by sewing two rows of long stitches and pulling the threads."
+        },
+        {
+          "q": "How many knife pleats do you press on the practice strip?",
+          "options": [
+            "One pleat.",
+            "Three even knife pleats.",
+            "Ten pleats.",
+            "No pleats."
+          ],
+          "answer": 1,
+          "explain": "Fold and press three even knife pleats on a practice strip."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Necklines: Round, V and Square",
+      "goal": "Cut and finish three neckline shapes cleanly with facings.",
+      "video": {
+        "youtube_id": "u48ztvpGG0I",
+        "title": "Pattern Making \u2022 Cutting \u2022 Sewing | Complete Garment Tutorial | All Levels",
+        "channel": "Farahnaz Pattern School"
+      },
+      "steps": [
+        "Draw round, V and square necklines on paper and compare their depth.",
+        "Cut a facing (a shaped piece of fabric that finishes the neckline edge) for a round neckline and sew it right sides together.",
+        "Clip the curves, turn the facing inside and press it flat.",
+        "Topstitch 3mm from the edge to hold the facing in place."
+      ],
+      "task": "Finish one round neckline with a facing that sits flat.",
+      "challenge": "Cut a V-neck that meets in a sharp, clean point.",
+      "quiz": [
+        {
+          "q": "What is a facing?",
+          "options": [
+            "A type of zip.",
+            "A kind of button.",
+            "A shaped piece of fabric that finishes the neckline edge.",
+            "A measuring tool."
+          ],
+          "answer": 2,
+          "explain": "Cut a facing (a shaped piece of fabric that finishes the neckline edge) for a round neckline and sew it right sides together."
+        },
+        {
+          "q": "What should you do after sewing a facing to a round neckline?",
+          "options": [
+            "Cut the facing off.",
+            "Leave it loose.",
+            "Iron it with high heat only.",
+            "Clip the curves, turn it inside and press it flat."
+          ],
+          "answer": 3,
+          "explain": "Clip the curves, turn the facing inside and press it flat."
+        },
+        {
+          "q": "How far from the edge do you topstitch the facing?",
+          "options": [
+            "3mm from the edge.",
+            "3cm from the edge.",
+            "10cm from the edge.",
+            "Right on the edge."
+          ],
+          "answer": 0,
+          "explain": "Topstitch 3mm from the edge to hold the facing in place."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Sleeves: The Set-In Sleeve",
+      "goal": "Set a sleeve into an armhole without puckers or twisting.",
+      "video": {
+        "youtube_id": "NAKtR91E8Ms",
+        "title": "Beginner Sewing: Simple Dress from Rectangles and Elastic, No Pattern",
+        "channel": "Time to Waste Vintage"
+      },
+      "steps": [
+        "Measure the armhole curve and compare it with the curved top of the sleeve (called the sleeve cap).",
+        "Ease the sleeve cap with two rows of gathering stitches.",
+        "Pin the sleeve to the armhole, matching notches and the shoulder mark.",
+        "Sew slowly, easing the fullness in as you go, then press."
+      ],
+      "task": "Set one sleeve into a practice bodice smoothly.",
+      "challenge": "Set a sleeve with zero puckers on the first try.",
+      "quiz": [
+        {
+          "q": "What do you compare before you set a sleeve?",
+          "options": [
+            "The hem and the waistband.",
+            "The armhole curve and the sleeve cap.",
+            "The zip and the buttons.",
+            "The collar and the cuff."
+          ],
+          "answer": 1,
+          "explain": "Measure the armhole curve and compare it with the curved top of the sleeve (called the sleeve cap)."
+        },
+        {
+          "q": "How do you ease the sleeve cap?",
+          "options": [
+            "By cutting it shorter.",
+            "By ironing it flat.",
+            "With two rows of gathering stitches.",
+            "By adding a zip."
+          ],
+          "answer": 2,
+          "explain": "Ease the sleeve cap with two rows of gathering stitches."
+        },
+        {
+          "q": "What should you match when you pin the sleeve to the armhole?",
+          "options": [
+            "The colour only.",
+            "The price tags.",
+            "Nothing.",
+            "The notches and the shoulder mark."
+          ],
+          "answer": 3,
+          "explain": "Pin the sleeve to the armhole, matching notches and the shoulder mark."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project: Sew a Fitted Bodice Top",
+      "goal": "Make a fitted bodice top with darts, a neckline facing and a zip.",
+      "video": {
+        "youtube_id": "NAKtR91E8Ms",
+        "title": "Beginner Sewing: Simple Dress from Rectangles and Elastic, No Pattern",
+        "channel": "Time to Waste Vintage"
+      },
+      "steps": [
+        "Cut the bodice front, back and facing from your drafted block.",
+        "Sew the darts, shoulder and side seams, then press them.",
+        "Attach the facing and insert an invisible zip at the back.",
+        "Hem the bottom evenly and try the top on for fit."
+      ],
+      "task": "Finish a fitted bodice top that fits at bust, waist and shoulders.",
+      "challenge": "Fit the top on a model and fix one fit issue on the spot.",
+      "quiz": [
+        {
+          "q": "What do you sew first on the bodice top?",
+          "options": [
+            "The darts, shoulder and side seams, then press them.",
+            "The hem first.",
+            "The zip first.",
+            "The buttons first."
+          ],
+          "answer": 0,
+          "explain": "Sew the darts, shoulder and side seams, then press them."
+        },
+        {
+          "q": "Where does the invisible zip go on the bodice top?",
+          "options": [
+            "At the front.",
+            "At the back.",
+            "On the sleeve.",
+            "On the hem."
+          ],
+          "answer": 1,
+          "explain": "Attach the facing and insert an invisible zip at the back."
+        },
+        {
+          "q": "What should you check when you try the bodice top on?",
+          "options": [
+            "The colour only.",
+            "The price only.",
+            "The fit at bust, waist and shoulders.",
+            "The fabric shop."
+          ],
+          "answer": 2,
+          "explain": "Finish a fitted bodice top that fits at bust, waist and shoulders."
+        }
+      ],
+      "project": {
+        "title": "Sew a Fitted Bodice Top",
+        "brief": "Make a fitted bodice top with darts, a faced neckline and an invisible zip.",
+        "checks": [
+          "Bodice cut from your block",
+          "Darts sewn to smooth points",
+          "Neckline facing lies flat",
+          "Invisible zip disappears",
+          "Side seams match at the waist",
+          "Top fits at bust and waist"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Zips: Invisible and Lapped",
+      "goal": "Insert an invisible zip and a lapped zip neatly.",
+      "video": {
+        "youtube_id": "NAKtR91E8Ms",
+        "title": "Beginner Sewing: Simple Dress from Rectangles and Elastic, No Pattern",
+        "channel": "Time to Waste Vintage"
+      },
+      "steps": [
+        "Press the seam where the zip will go and mark the zip length.",
+        "Pin the invisible zip face down on one side and stitch with a zipper foot.",
+        "Repeat on the other side and close the seam below the zip.",
+        "Insert a lapped zip on a practice piece, overlapping one side by 3mm."
+      ],
+      "task": "Insert one invisible zip that disappears into the seam.",
+      "challenge": "Insert a zip in under 15 minutes with no wavy fabric.",
+      "quiz": [
+        {
+          "q": "What should you do before you insert a zip?",
+          "options": [
+            "Cut the zip in half.",
+            "Sew the hem first.",
+            "Wash the fabric.",
+            "Press the seam and mark the zip length."
+          ],
+          "answer": 3,
+          "explain": "Press the seam where the zip will go and mark the zip length."
+        },
+        {
+          "q": "How do you sew an invisible zip?",
+          "options": [
+            "Pin it face down on one side and stitch with a zipper foot.",
+            "Glue it on.",
+            "Sew it on the outside.",
+            "Pin it and leave it loose."
+          ],
+          "answer": 0,
+          "explain": "Pin the invisible zip face down on one side and stitch with a zipper foot."
+        },
+        {
+          "q": "How much does one side overlap on a lapped zip?",
+          "options": [
+            "3cm.",
+            "3mm.",
+            "10cm.",
+            "Nothing."
+          ],
+          "answer": 1,
+          "explain": "Insert a lapped zip on a practice piece, overlapping one side by 3mm."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Buttons, Buttonholes and Hooks",
+      "goal": "Sew strong buttons, machine buttonholes and hook-and-eye closures.",
+      "video": {
+        "youtube_id": "nSqwKXf91iA",
+        "title": "How to Hand Sew Like a Machine",
+        "channel": "mary sewing room"
+      },
+      "steps": [
+        "Mark button positions evenly on a shirt front, starting below the bust.",
+        "Sew a button with a thread shank so it sits above the fabric.",
+        "Make a machine buttonhole on scrap, then cut it open carefully.",
+        "Sew a hook and eye so the edges meet exactly without gaping."
+      ],
+      "task": "Make a placket sample with two buttons and two buttonholes.",
+      "challenge": "Sew a buttonhole on thick fabric without the machine jamming.",
+      "quiz": [
+        {
+          "q": "Where do you start marking button positions on a shirt front?",
+          "options": [
+            "At the collar only.",
+            "At the hem only.",
+            "Below the bust, evenly spaced.",
+            "On the back."
+          ],
+          "answer": 2,
+          "explain": "Mark button positions evenly on a shirt front, starting below the bust."
+        },
+        {
+          "q": "Why sew a button with a thread shank?",
+          "options": [
+            "So it falls off.",
+            "So it hides.",
+            "So it matches the zip.",
+            "So it sits above the fabric."
+          ],
+          "answer": 3,
+          "explain": "Sew a button with a thread shank so it sits above the fabric."
+        },
+        {
+          "q": "What should you do after you make a machine buttonhole?",
+          "options": [
+            "Cut it open carefully.",
+            "Leave it closed.",
+            "Iron over it.",
+            "Sew it shut."
+          ],
+          "answer": 0,
+          "explain": "Make a machine buttonhole on scrap, then cut it open carefully."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Dress Construction Order",
+      "goal": "Plan the correct order for building a dress from pieces to finish.",
+      "video": {
+        "youtube_id": "nSqwKXf91iA",
+        "title": "How to Hand Sew Like a Machine",
+        "channel": "mary sewing room"
+      },
+      "steps": [
+        "List every step of making a simple dress, from cutting to hemming.",
+        "Sew darts and seams first, then join the bodice to the skirt.",
+        "Insert the zip before attaching the neckline facing.",
+        "Leave hemming and pressing until the very end."
+      ],
+      "task": "Write a step-by-step build order for a dress and follow it on paper.",
+      "challenge": "Reorder a jumbled set of dress-making steps correctly.",
+      "quiz": [
+        {
+          "q": "What do you sew first when you build a dress?",
+          "options": [
+            "The hem first.",
+            "Darts and seams first, then join the bodice to the skirt.",
+            "The zip first.",
+            "The facing first."
+          ],
+          "answer": 1,
+          "explain": "Sew darts and seams first, then join the bodice to the skirt."
+        },
+        {
+          "q": "When do you insert the zip when you build a dress?",
+          "options": [
+            "After hemming.",
+            "Before cutting.",
+            "Insert the zip before attaching the neckline facing.",
+            "Never."
+          ],
+          "answer": 2,
+          "explain": "Insert the zip before attaching the neckline facing."
+        },
+        {
+          "q": "What do you leave until the very end when you build a dress?",
+          "options": [
+            "Cutting.",
+            "Sewing darts.",
+            "Inserting the zip.",
+            "Hemming and pressing."
+          ],
+          "answer": 3,
+          "explain": "Leave hemming and pressing until the very end."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Lining a Bodice",
+      "goal": "Line a bodice so the inside looks as clean as the outside.",
+      "video": {
+        "youtube_id": "nSqwKXf91iA",
+        "title": "How to Hand Sew Like a Machine",
+        "channel": "mary sewing room"
+      },
+      "steps": [
+        "Cut the lining pieces slightly smaller than the shell pieces.",
+        "Sew the lining bodice together exactly like the outer bodice.",
+        "Join lining and shell at the neckline, right sides together.",
+        "Turn, press and hand-stitch the lining to the zip tapes."
+      ],
+      "task": "Line a practice bodice with no lining showing at the neckline.",
+      "challenge": "Line a bodice so it hangs without pulling the outer fabric.",
+      "quiz": [
+        {
+          "q": "How should lining pieces compare in size to the shell pieces?",
+          "options": [
+            "Slightly smaller.",
+            "Much bigger.",
+            "Exactly the same.",
+            "Half the size."
+          ],
+          "answer": 0,
+          "explain": "Cut the lining pieces slightly smaller than the shell pieces."
+        },
+        {
+          "q": "Where do lining and shell join?",
+          "options": [
+            "At the hem only.",
+            "At the neckline, right sides together.",
+            "At the zip only.",
+            "They never join."
+          ],
+          "answer": 1,
+          "explain": "Join lining and shell at the neckline, right sides together."
+        },
+        {
+          "q": "What should you hand-stitch the lining to?",
+          "options": [
+            "The buttons.",
+            "The hem only.",
+            "The zip tapes.",
+            "The outside of the dress."
+          ],
+          "answer": 2,
+          "explain": "Turn, press and hand-stitch the lining to the zip tapes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Choosing Styles for Body Shapes",
+      "goal": "Match neckline, sleeve and skirt styles to different body shapes.",
+      "video": {
+        "youtube_id": "wa7OkSb3wCY",
+        "title": "2 DRESSES IN 1 VIDEO! Easy Patternless Girls' Dress Sewing Tutorial",
+        "channel": "Cut & Craft"
+      },
+      "steps": [
+        "Sketch three body shapes and note where each carries width.",
+        "Pair each shape with a flattering neckline and skirt style.",
+        "Explain why an A-line skirt suits a pear shape.",
+        "Pick a style for a real client based on their measurements."
+      ],
+      "task": "Write style recommendations for three different body shapes.",
+      "challenge": "Style a full outfit for a client from measurements alone.",
+      "quiz": [
+        {
+          "q": "What should you note first when you sketch body shapes?",
+          "options": [
+            "The person's age.",
+            "The person's height only.",
+            "Where each shape carries width.",
+            "The fabric price."
+          ],
+          "answer": 2,
+          "explain": "Sketch three body shapes and note where each carries width."
+        },
+        {
+          "q": "What do you pair each body shape with?",
+          "options": [
+            "The same style for everyone.",
+            "Only a colour.",
+            "Only a price.",
+            "A flattering neckline and skirt style."
+          ],
+          "answer": 3,
+          "explain": "Pair each shape with a flattering neckline and skirt style."
+        },
+        {
+          "q": "What should you base a style pick for a real client on?",
+          "options": [
+            "Their measurements.",
+            "Their age only.",
+            "The latest fashion only.",
+            "The cheapest fabric."
+          ],
+          "answer": 0,
+          "explain": "Pick a style for a real client based on their measurements."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Working with Ankara and Prints",
+      "goal": "Cut and match printed and Ankara fabrics so patterns line up.",
+      "video": {
+        "youtube_id": "wa7OkSb3wCY",
+        "title": "2 DRESSES IN 1 VIDEO! Easy Patternless Girls' Dress Sewing Tutorial",
+        "channel": "Cut & Craft"
+      },
+      "steps": [
+        "Identify the repeat in an Ankara print and mark it with pins.",
+        "Cut two matching pieces so the motif lines up at the side seam.",
+        "Match a stripe or check across a centre seam.",
+        "Press Ankara on the wrong side to protect the print."
+      ],
+      "task": "Cut and sew a seam where the print matches across it.",
+      "challenge": "Match a bold print across a bodice and skirt join.",
+      "quiz": [
+        {
+          "q": "What should you do with the repeat in an Ankara print?",
+          "options": [
+            "Ignore it.",
+            "Identify it and mark it with pins.",
+            "Cut through it anywhere.",
+            "Wash it out."
+          ],
+          "answer": 1,
+          "explain": "Identify the repeat in an Ankara print and mark it with pins."
+        },
+        {
+          "q": "How do you cut two matching pieces in Ankara?",
+          "options": [
+            "So the motifs never match.",
+            "At random.",
+            "So the motif lines up at the side seam.",
+            "Only on the fold."
+          ],
+          "answer": 2,
+          "explain": "Cut two matching pieces so the motif lines up at the side seam."
+        },
+        {
+          "q": "Which side should you press Ankara on?",
+          "options": [
+            "The right side with high heat.",
+            "You never press Ankara.",
+            "Both sides with steam only.",
+            "The wrong side, to protect the print."
+          ],
+          "answer": 3,
+          "explain": "Press Ankara on the wrong side to protect the print."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project: Sew a Complete Simple Dress",
+      "goal": "Sew a complete dress with bodice, skirt, zip and finished hem.",
+      "video": {
+        "youtube_id": "wa7OkSb3wCY",
+        "title": "2 DRESSES IN 1 VIDEO! Easy Patternless Girls' Dress Sewing Tutorial",
+        "channel": "Cut & Craft"
+      },
+      "steps": [
+        "Cut bodice and skirt pieces from one fabric, matching prints at the waist.",
+        "Assemble the bodice, attach the skirt, then insert the zip.",
+        "Finish the neckline with a facing and the armholes cleanly.",
+        "Hem, press and try the dress on, noting any fit fixes."
+      ],
+      "task": "Finish a complete dress, pressed and ready to wear.",
+      "challenge": "Complete the dress with no unfinished raw edges inside.",
+      "quiz": [
+        {
+          "q": "What do you do first when you sew the complete dress?",
+          "options": [
+            "Cut bodice and skirt pieces from one fabric, matching prints at the waist.",
+            "Sew the hem first.",
+            "Insert the zip first.",
+            "Press the finished dress."
+          ],
+          "answer": 0,
+          "explain": "Cut bodice and skirt pieces from one fabric, matching prints at the waist."
+        },
+        {
+          "q": "What comes after you attach the skirt to the bodice?",
+          "options": [
+            "Hem the dress.",
+            "Insert the zip.",
+            "Cut the fabric.",
+            "Take the photo."
+          ],
+          "answer": 1,
+          "explain": "Assemble the bodice, attach the skirt, then insert the zip."
+        },
+        {
+          "q": "What should you note when you try the dress on?",
+          "options": [
+            "The price of the fabric only.",
+            "The colour of the thread only.",
+            "Any fit fixes needed.",
+            "Nothing."
+          ],
+          "answer": 2,
+          "explain": "Hem, press and try the dress on, noting any fit fixes."
+        }
+      ],
+      "project": {
+        "title": "Sew a Complete Simple Dress",
+        "brief": "Build a full dress: bodice, skirt, zip, facing and hem, pressed and wearable.",
+        "checks": [
+          "Bodice and skirt joined cleanly",
+          "Zip and facing finished",
+          "Print matched at the waist",
+          "No raw edges inside",
+          "Hem even and pressed",
+          "Dress fits and photographs well"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Sew with the Simple Turn-Through Method",
+      "goal": "Make a neat flat item using the simple sew-turn-topstitch method.",
+      "video": {
+        "youtube_id": "2Wad2FZn-0k",
+        "title": "One Simple Technique = Countless Easy Sewing Projects | Beginner Friendly",
+        "channel": "Sewing Report"
+      },
+      "steps": [
+        "Place two pieces of fabric right sides together and pin them.",
+        "Sew all round the edge, leaving a 10cm gap on one side.",
+        "Turn the piece right side out through the gap and poke the corners out gently.",
+        "Press it flat, tuck the gap edges in, and topstitch close to the edge."
+      ],
+      "task": "Make a small flat item (a placemat or cushion cover) with the turn-through method.",
+      "challenge": "Make the same item in a second fabric without looking at the video.",
+      "quiz": [
+        {
+          "q": "What is the simple turn-through technique?",
+          "options": [
+            "Sewing two pieces right sides together, leaving a gap, then turning them out",
+            "Sewing with one hand",
+            "Ironing fabric flat",
+            "Cutting without measuring"
+          ],
+          "answer": 0,
+          "explain": "You sew around the edge, leave a gap, turn the piece right side out and topstitch it closed."
+        },
+        {
+          "q": "Why leave a gap when you sew around the piece?",
+          "options": [
+            "To save thread",
+            "So you can turn the fabric right side out through it",
+            "To make it bigger",
+            "To add a pocket"
+          ],
+          "answer": 1,
+          "explain": "The gap is the opening you pull the fabric through to turn it the right way round."
+        },
+        {
+          "q": "What should you do after turning the piece right side out?",
+          "options": [
+            "Cut it open",
+            "Press it flat and topstitch around the edge",
+            "Throw it away",
+            "Soak it in water"
+          ],
+          "answer": 1,
+          "explain": "Pressing flat and topstitching closes the gap and gives a neat, strong edge."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Fitting and Common Fit Fixes",
+      "goal": "Diagnose pulling, gaping and sagging, and fix each one.",
+      "video": {
+        "youtube_id": "2Wad2FZn-0k",
+        "title": "One Simple Technique = Countless Easy Sewing Projects | Beginner Friendly",
+        "channel": "Sewing Report"
+      },
+      "steps": [
+        "Try a garment on inside out and pin out the excess at the side seams.",
+        "Fix a gaping neckline by taking in the shoulder seam.",
+        "Fix a tight bust by letting out the side seams.",
+        "Fix a sagging back by shortening the back waist."
+      ],
+      "task": "Fit a garment on a model and correct two fit problems.",
+      "challenge": "Fix a gaping armhole without remaking the sleeve.",
+      "quiz": [
+        {
+          "q": "How do you try a garment on to find fit problems?",
+          "options": [
+            "Right side out with no pins.",
+            "On a hanger only.",
+            "Without trying it on.",
+            "Inside out, then pin out the excess at the side seams."
+          ],
+          "answer": 3,
+          "explain": "Try a garment on inside out and pin out the excess at the side seams."
+        },
+        {
+          "q": "How do you fix a gaping neckline?",
+          "options": [
+            "Take in the shoulder seam.",
+            "Let out the side seams.",
+            "Shorten the back waist.",
+            "Add a zip."
+          ],
+          "answer": 0,
+          "explain": "Fix a gaping neckline by taking in the shoulder seam."
+        },
+        {
+          "q": "How do you fix a tight bust?",
+          "options": [
+            "Take in the shoulder seam.",
+            "Let out the side seams.",
+            "Shorten the back waist.",
+            "Add a facing."
+          ],
+          "answer": 1,
+          "explain": "Fix a tight bust by letting out the side seams."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Alterations: Taking In and Letting Out",
+      "goal": "Alter ready-made clothes to fit a customer properly.",
+      "video": {
+        "youtube_id": "2Wad2FZn-0k",
+        "title": "One Simple Technique = Countless Easy Sewing Projects | Beginner Friendly",
+        "channel": "Sewing Report"
+      },
+      "steps": [
+        "Take in a shirt at the side seams by 2cm on each side.",
+        "Shorten a pair of trousers keeping the original hem look.",
+        "Let out a skirt waist by moving the zip and waistband.",
+        "Taper a dress from the waist down for a slimmer fit."
+      ],
+      "task": "Alter one ready-made garment to fit its owner.",
+      "challenge": "Take in a garment and keep both side seams even.",
+      "quiz": [
+        {
+          "q": "How much do you take in a shirt at each side seam?",
+          "options": [
+            "10cm on each side.",
+            "1mm on each side.",
+            "2cm on each side.",
+            "Nothing."
+          ],
+          "answer": 2,
+          "explain": "Take in a shirt at the side seams by 2cm on each side."
+        },
+        {
+          "q": "How do you let out a skirt waist?",
+          "options": [
+            "Cut the skirt shorter.",
+            "Add a facing.",
+            "Sew the side seams tighter.",
+            "Move the zip and waistband."
+          ],
+          "answer": 3,
+          "explain": "Let out a skirt waist by moving the zip and waistband."
+        },
+        {
+          "q": "How do you taper a dress for a slimmer fit?",
+          "options": [
+            "Taper it from the waist down.",
+            "Taper it from the hem up.",
+            "Add fabric at the waist.",
+            "Shorten the sleeves."
+          ],
+          "answer": 0,
+          "explain": "Taper a dress from the waist down for a slimmer fit."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Custom Fit Adjustments",
+      "goal": "Adjust a block for a full bust, narrow shoulder or long torso.",
+      "video": {
+        "youtube_id": "WpmKmebh05s",
+        "title": "How to Draft a Custom Fit Bodice Pattern",
+        "channel": "Let's Learn to Sew"
+      },
+      "steps": [
+        "Compare a client's measurements with the standard block.",
+        "Add a full-bust adjustment by slashing and spreading the front pattern.",
+        "Shorten a shoulder seam for a narrow-shouldered client.",
+        "Lengthen the bodice for a long torso, adding at the waist line."
+      ],
+      "task": "Adjust a bodice block for one real body difference.",
+      "challenge": "Draft a block that fits a client with two different adjustments.",
+      "quiz": [
+        {
+          "q": "How do you draft a custom fit bodice?",
+          "options": [
+            "Use a standard size and hope",
+            "Draft from the wearer's own measurements",
+            "Copy a shop dress",
+            "Add 5cm everywhere"
+          ],
+          "answer": 1,
+          "explain": "A custom fit block starts from real body measurements, not a standard size chart."
+        },
+        {
+          "q": "What is a full bust adjustment?",
+          "options": [
+            "Adding length to the bodice",
+            "Adding room across the bust without changing the shoulders",
+            "Narrowing the waist",
+            "Shortening the sleeve"
+          ],
+          "answer": 1,
+          "explain": "A full bust adjustment slashes and spreads the front pattern to add bust room only."
+        },
+        {
+          "q": "Why fit a toile before cutting good fabric?",
+          "options": [
+            "To waste time",
+            "To test the fit cheaply and fix errors before cutting expensive cloth",
+            "To practise ironing",
+            "To check the colour"
+          ],
+          "answer": 1,
+          "explain": "A toile in cheap fabric catches fit mistakes before they cost good fabric."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Pressing and Professional Finishing",
+      "goal": "Press seams, hems and garments to a shop-quality finish.",
+      "video": {
+        "youtube_id": "WpmKmebh05s",
+        "title": "How to Draft a Custom Fit Bodice Pattern",
+        "channel": "Let's Learn to Sew"
+      },
+      "steps": [
+        "Press every seam as you sew, never waiting until the end.",
+        "Use a pressing cloth on Ankara and delicate fabrics.",
+        "Press darts toward the centre and hems upward from the inside.",
+        "Hang the finished garment for 30 minutes before the final check."
+      ],
+      "task": "Press a finished garment to a shop-ready standard.",
+      "challenge": "Remove a shine mark from pressing without damaging fabric.",
+      "quiz": [
+        {
+          "q": "When should you press seams?",
+          "options": [
+            "Only at the very end.",
+            "As you sew, never waiting until the end.",
+            "Only before cutting.",
+            "Never."
+          ],
+          "answer": 1,
+          "explain": "Press every seam as you sew, never waiting until the end."
+        },
+        {
+          "q": "What should you use when you press Ankara and delicate fabrics?",
+          "options": [
+            "High heat with no cloth.",
+            "Cold water only.",
+            "A pressing cloth.",
+            "A flat iron with no cloth."
+          ],
+          "answer": 2,
+          "explain": "Use a pressing cloth on Ankara and delicate fabrics."
+        },
+        {
+          "q": "Which way do you press darts?",
+          "options": [
+            "Toward the side seam.",
+            "Upward only.",
+            "You do not press darts.",
+            "Toward the centre."
+          ],
+          "answer": 3,
+          "explain": "Press darts toward the centre and hems upward from the inside."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Costing and Pricing Your Work",
+      "goal": "Price a garment from fabric, time and profit so the hustle pays.",
+      "video": {
+        "youtube_id": "WpmKmebh05s",
+        "title": "How to Draft a Custom Fit Bodice Pattern",
+        "channel": "Let's Learn to Sew"
+      },
+      "steps": [
+        "Add up fabric, thread, zip and lining costs for one dress.",
+        "Time yourself sewing it and value your hours at a fair rate.",
+        "Add 20 percent profit and round to a clean selling price.",
+        "Compare your price with two tailors in your area."
+      ],
+      "task": "Produce a written price for one dress with the full costing shown.",
+      "challenge": "Price a rush-order dress fairly for a same-week deadline.",
+      "quiz": [
+        {
+          "q": "What costs do you add up for one dress?",
+          "options": [
+            "Fabric, thread, zip and lining.",
+            "Only the fabric.",
+            "Only the zip.",
+            "Fabric and photos only."
+          ],
+          "answer": 0,
+          "explain": "Add up fabric, thread, zip and lining costs for one dress."
+        },
+        {
+          "q": "How much profit do you add to the cost?",
+          "options": [
+            "5 percent.",
+            "20 percent.",
+            "50 percent.",
+            "No profit."
+          ],
+          "answer": 1,
+          "explain": "Add 20 percent profit and round to a clean selling price."
+        },
+        {
+          "q": "What should you compare your price with?",
+          "options": [
+            "The price of food.",
+            "The price of a house.",
+            "Two tailors in your area.",
+            "Nothing."
+          ],
+          "answer": 2,
+          "explain": "Compare your price with two tailors in your area."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Photographing Garments and Taking Orders",
+      "goal": "Present finished work and take clear, paid orders from customers.",
+      "video": {
+        "youtube_id": "adFeOQ-y76I",
+        "title": "Sure Fit Designs Introduction",
+        "channel": "Sure Fit Designs"
+      },
+      "steps": [
+        "Photograph a garment on a hanger against a plain wall in daylight.",
+        "Take front, back and detail shots plus one worn shot.",
+        "Write an order form: style, fabric, measurements, price and date.",
+        "Ask for a 50 percent deposit before cutting any fabric."
+      ],
+      "task": "Create an order form and a three-photo set for one garment.",
+      "challenge": "Get a paying order using only photos of your past work.",
+      "quiz": [
+        {
+          "q": "How should you photograph a garment for a customer?",
+          "options": [
+            "On the floor in the dark.",
+            "Crumpled in a bag.",
+            "Only from the back.",
+            "On a hanger against a plain wall in daylight."
+          ],
+          "answer": 3,
+          "explain": "Photograph a garment on a hanger against a plain wall in daylight."
+        },
+        {
+          "q": "What should your order form list?",
+          "options": [
+            "Style, fabric, measurements, price and date.",
+            "Only the price.",
+            "Only the style.",
+            "Only the date."
+          ],
+          "answer": 0,
+          "explain": "Write an order form: style, fabric, measurements, price and date."
+        },
+        {
+          "q": "Why keep a client measurement book?",
+          "options": [
+            "For decoration",
+            "So repeat orders are fast and consistent",
+            "To show friends",
+            "It is required by law"
+          ],
+          "answer": 1,
+          "explain": "Saved measurements mean the next order starts from correct numbers, not a fresh measuring session."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Capstone Planning",
+      "goal": "Choose your capstone outfit, fabric and schedule for the final two days.",
+      "video": {
+        "youtube_id": "adFeOQ-y76I",
+        "title": "Sure Fit Designs Introduction",
+        "channel": "Sure Fit Designs"
+      },
+      "steps": [
+        "Pick a two-piece outfit or dress that shows off your best skills.",
+        "Buy or choose the fabric and all notions today.",
+        "Cut every piece and label them in build order.",
+        "Write a two-day build plan with time for fitting and pressing."
+      ],
+      "task": "Have all capstone pieces cut, labelled and ready to sew.",
+      "challenge": "Plan a capstone outfit that uses at least three skills from the month.",
+      "quiz": [
+        {
+          "q": "What should your capstone outfit show off?",
+          "options": [
+            "Your cheapest fabric.",
+            "Your best skills.",
+            "Only one skill.",
+            "Nothing."
+          ],
+          "answer": 1,
+          "explain": "Pick a two-piece outfit or dress that shows off your best skills."
+        },
+        {
+          "q": "What should you buy or choose today for the capstone?",
+          "options": [
+            "Only the thread.",
+            "Only the buttons.",
+            "The fabric and all notions.",
+            "Nothing yet."
+          ],
+          "answer": 2,
+          "explain": "Buy or choose the fabric and all notions today."
+        },
+        {
+          "q": "What should you write for the final two days?",
+          "options": [
+            "A shopping list only.",
+            "A price list only.",
+            "Nothing.",
+            "A two-day build plan with time for fitting and pressing."
+          ],
+          "answer": 3,
+          "explain": "Write a two-day build plan with time for fitting and pressing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone: Build and Present",
+      "goal": "Sew, fit, press and present your finished capstone outfit.",
+      "video": {
+        "youtube_id": "adFeOQ-y76I",
+        "title": "Sure Fit Designs Introduction",
+        "channel": "Sure Fit Designs"
+      },
+      "steps": [
+        "Sew the outfit following your build plan, pressing as you go.",
+        "Fit it on the wearer and fix any issue before hemming.",
+        "Press the finished outfit and photograph it front, back and detail.",
+        "Present it with your costing sheet and a care note for the wearer."
+      ],
+      "task": "Present a finished, fitted capstone outfit with photos and costing.",
+      "challenge": "Finish the outfit a full hour early and use the time for a final press.",
+      "quiz": [
+        {
+          "q": "What should you do first on capstone day?",
+          "options": [
+            "Sew the outfit following your build plan, pressing as you go.",
+            "Cut the fabric.",
+            "Buy the fabric.",
+            "Take photos first."
+          ],
+          "answer": 0,
+          "explain": "Sew the outfit following your build plan, pressing as you go."
+        },
+        {
+          "q": "What is the most important final step before delivering a garment?",
+          "options": [
+            "Adding a label",
+            "Pressing and a final fit check",
+            "Taking a photo",
+            "Folding it"
+          ],
+          "answer": 1,
+          "explain": "A final press and fit check catch loose threads and fit issues before the client sees it."
+        },
+        {
+          "q": "What should you present with the finished outfit?",
+          "options": [
+            "Only the photos.",
+            "Your costing sheet and a care note for the wearer.",
+            "Only the fabric.",
+            "Nothing."
+          ],
+          "answer": 1,
+          "explain": "Present it with your costing sheet and a care note for the wearer."
+        }
+      ],
+      "project": null
     }
-   ],
-   "project": null
-  },
-  {
-   "day": 3,
-   "week": 1,
-   "title": "Take Accurate Body Measurements",
-   "goal": "Measure bust, waist, hip, shoulder and length correctly on a real person.",
-   "video": {
-    "youtube_id": "cBOsmKiotw8",
-    "title": "Beginner Fashion Designing Course",
-    "channel": "Priya Avalfashion"
-   },
-   "steps": [
-    "Tie a ribbon around the natural waist so you can find it every time.",
-    "Measure bust, waist and hips snugly, keeping the tape level all round.",
-    "Record shoulder width, back length and sleeve length on a measurement sheet.",
-    "Repeat every measurement once and keep the second reading if it differs."
-   ],
-   "task": "Complete a full measurement sheet for yourself or a willing model.",
-   "challenge": "Measure someone in under five minutes with no errors on re-check.",
-   "quiz": [
-    {
-     "q": "What is the first thing to do before threading a sewing machine?",
-     "options": [
-      "Oil the needle",
-      "Raise the presser foot and follow the thread path",
-      "Wind a bobbin",
-      "Change the needle"
-     ],
-     "answer": 1,
-     "explain": "Raising the presser foot opens the tension discs so the thread seats correctly."
-    },
-    {
-     "q": "Which tool is used to remove stitches?",
-     "options": [
-      "Seam ripper",
-      "Chalk",
-      "Thimble",
-      "Bobbin"
-     ],
-     "answer": 0,
-     "explain": "A seam ripper has a sharp point and blade made for cutting stitches without tearing fabric."
-    },
-    {
-     "q": "Why do you press seams as you sew?",
-     "options": [
-      "It makes the fabric softer",
-      "It sets the stitches and gives a professional finish",
-      "It stops the machine jamming",
-      "It shrinks the fabric"
-     ],
-     "answer": 1,
-     "explain": "Pressing as you go sets stitches flat and keeps the garment shaping correctly."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 4,
-   "week": 1,
-   "title": "Pattern Paper and Marking Tools",
-   "goal": "Prepare pattern paper and mark grainlines, notches and seam allowances correctly.",
-   "video": {
-    "youtube_id": "7qFAsmUeb4E",
-    "title": "Pattern Making & Draping | Complete Fashion Design Tutorials for Beginners & Professionals",
-    "channel": "Farahnaz Pattern School"
-   },
-   "steps": [
-    "Tape brown paper or newspaper sheets together into a 1m by 1m drafting surface.",
-    "Draw a straight arrow to show the grain (the direction the threads run) and a 90-degree cross line with a set square.",
-    "Mark 1.5cm of extra fabric for the seam (called the seam allowance) around a rectangle and cut it out cleanly.",
-    "Label the piece with its name, size, grainline and number of pieces to cut."
-   ],
-   "task": "Draft and label one marked pattern piece with grainline and seam allowance.",
-   "challenge": "Draw a perfect right angle and parallel grainline freehand with a ruler.",
-   "quiz": [
-    {
-     "q": "What is a grainline on a pattern piece?",
-     "options": [
-      "The fold of the fabric",
-      "An arrow showing the direction of the fabric grain",
-      "The seam allowance edge",
-      "The cutting line"
-     ],
-     "answer": 1,
-     "explain": "The grainline arrow must run parallel to the selvedge so the garment hangs correctly."
-    },
-    {
-     "q": "What is pattern draping?",
-     "options": [
-      "Cutting paper patterns",
-      "Shaping fabric directly on a dress form",
-      "Ironing a finished garment",
-      "Tracing a commercial pattern"
-     ],
-     "answer": 1,
-     "explain": "Draping shapes muslin on a form to create a pattern from the body itself."
-    },
-    {
-     "q": "Why add ease to a pattern block?",
-     "options": [
-      "To use more fabric",
-      "So the garment allows movement and breathing",
-      "To make sewing faster",
-      "To hide mistakes"
-     ],
-     "answer": 1,
-     "explain": "Ease is the extra room beyond body measurements that lets a garment move comfortably."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 5,
-   "week": 1,
-   "title": "Draft a Straight Skirt Block",
-   "goal": "Draft a basic straight skirt pattern (called a block) from real waist and hip measurements.",
-   "video": {
-    "youtube_id": "7qFAsmUeb4E",
-    "title": "Pattern Making & Draping | Complete Fashion Design Tutorials for Beginners & Professionals",
-    "channel": "Farahnaz Pattern School"
-   },
-   "steps": [
-    "Divide your hip measurement by four and add 1cm of extra room (this extra room is called ease) for the quarter block.",
-    "Draw the waist, hip and hem lines on pattern paper using your measurements.",
-    "Shape the side seam with a gentle curve from hip to waist.",
-    "Add darts at the back waist, 1.5cm wide and 10cm long."
-   ],
-   "task": "Finish a labelled straight skirt block on paper, ready to cut.",
-   "challenge": "Draft the same block from a friend's measurements without help.",
-   "quiz": [
-    {
-     "q": "What is a grainline on a pattern piece?",
-     "options": [
-      "The fold of the fabric",
-      "An arrow showing the direction of the fabric grain",
-      "The seam allowance edge",
-      "The cutting line"
-     ],
-     "answer": 1,
-     "explain": "The grainline arrow must run parallel to the selvedge so the garment hangs correctly."
-    },
-    {
-     "q": "What is pattern draping?",
-     "options": [
-      "Cutting paper patterns",
-      "Shaping fabric directly on a dress form",
-      "Ironing a finished garment",
-      "Tracing a commercial pattern"
-     ],
-     "answer": 1,
-     "explain": "Draping shapes muslin on a form to create a pattern from the body itself."
-    },
-    {
-     "q": "Why add ease to a pattern block?",
-     "options": [
-      "To use more fabric",
-      "So the garment allows movement and breathing",
-      "To make sewing faster",
-      "To hide mistakes"
-     ],
-     "answer": 1,
-     "explain": "Ease is the extra room beyond body measurements that lets a garment move comfortably."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 6,
-   "week": 1,
-   "title": "Reading a Commercial Pattern",
-   "goal": "Read a shop-bought pattern envelope and cut the right size and pieces.",
-   "video": {
-    "youtube_id": "7qFAsmUeb4E",
-    "title": "Pattern Making & Draping | Complete Fashion Design Tutorials for Beginners & Professionals",
-    "channel": "Farahnaz Pattern School"
-   },
-   "steps": [
-    "Find the size chart on a pattern envelope and match it to your measurements.",
-    "Identify the cutting layout diagram for your fabric width.",
-    "Trace one pattern piece, transferring all notches and dots.",
-    "Check the finished garment measurements printed on the tissue."
-   ],
-   "task": "Trace and label one full pattern piece from a commercial pattern.",
-   "challenge": "Explain what every symbol on a pattern piece means to a friend.",
-   "quiz": [
-    {
-     "q": "What is a grainline on a pattern piece?",
-     "options": [
-      "The fold of the fabric",
-      "An arrow showing the direction of the fabric grain",
-      "The seam allowance edge",
-      "The cutting line"
-     ],
-     "answer": 1,
-     "explain": "The grainline arrow must run parallel to the selvedge so the garment hangs correctly."
-    },
-    {
-     "q": "What is pattern draping?",
-     "options": [
-      "Cutting paper patterns",
-      "Shaping fabric directly on a dress form",
-      "Ironing a finished garment",
-      "Tracing a commercial pattern"
-     ],
-     "answer": 1,
-     "explain": "Draping shapes muslin on a form to create a pattern from the body itself."
-    },
-    {
-     "q": "Why add ease to a pattern block?",
-     "options": [
-      "To use more fabric",
-      "So the garment allows movement and breathing",
-      "To make sewing faster",
-      "To hide mistakes"
-     ],
-     "answer": 1,
-     "explain": "Ease is the extra room beyond body measurements that lets a garment move comfortably."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 7,
-   "week": 1,
-   "title": "Project: Sew a Simple Straight Skirt",
-   "goal": "Cut and sew a wearable straight skirt from your own block.",
-   "video": {
-    "youtube_id": "mrVdtrz8reg",
-    "title": "How to Draft A Bodice From Measurements",
-    "channel": "Let's Learn to Sew"
-   },
-   "steps": [
-    "Pin your skirt block to fabric, matching the grainline to the fabric grain.",
-    "Cut both front and back pieces plus a waistband, adding seam allowances.",
-    "Sew the side seams, insert the zip, then attach the waistband.",
-    "Hem the skirt evenly and press every seam flat."
-   ],
-   "task": "Finish a straight skirt you can try on and wear.",
-   "challenge": "Sew the skirt with no visible puckering at the waistband.",
-   "quiz": [
-    {
-     "q": "Which measurement divides by four for a quarter bodice block?",
-     "options": [
-      "Shoulder length",
-      "Bust circumference",
-      "Back length",
-      "Neck circumference"
-     ],
-     "answer": 1,
-     "explain": "The bodice is drafted in quarters, so bust, waist and hip are each divided by four."
-    },
-    {
-     "q": "What is a dart for?",
-     "options": [
-      "Decorating the hem",
-      "Shaping flat fabric to fit curves of the body",
-      "Joining two seams",
-      "Marking the grainline"
-     ],
-     "answer": 1,
-     "explain": "Darts take in fullness so flat fabric follows the bust, waist and hip curves."
-    },
-    {
-     "q": "Where do you measure the natural waist?",
-     "options": [
-      "At the navel",
-      "At the narrowest point of the torso",
-      "At the hip bone",
-      "Just under the bust"
-     ],
-     "answer": 1,
-     "explain": "The natural waist is the narrowest point, usually a couple of centimetres above the navel."
-    }
-   ],
-   "project": {
-    "title": "Sew a Simple Straight Skirt",
-    "brief": "Cut and sew a straight skirt from your own drafted block, with a zip and waistband.",
-    "checks": [
-     "Block drafted from real measurements",
-     "Cut on grain with seam allowances",
-     "Zip inserted neatly",
-     "Waistband attached and pressed",
-     "Hem even all round",
-     "Fits and can be worn"
-    ]
-   }
-  },
-  {
-   "day": 8,
-   "week": 2,
-   "title": "Machine Basics: Threading and Tension",
-   "goal": "Thread any sewing machine correctly and fix skipped or loopy stitches.",
-   "video": {
-    "youtube_id": "mrVdtrz8reg",
-    "title": "How to Draft A Bodice From Measurements",
-    "channel": "Let's Learn to Sew"
-   },
-   "steps": [
-    "Re-thread the top thread and bobbin from scratch, step by step.",
-    "Sew a test line and inspect top and bottom for loops or tight puckers.",
-    "Adjust the tension dial one number at a time until both sides look even.",
-    "Clean lint from the bobbin area with a small brush."
-   ],
-   "task": "Produce a test strip with balanced stitches on top and underneath.",
-   "challenge": "Diagnose and fix a looping stitch problem in under five minutes.",
-   "quiz": [
-    {
-     "q": "Which measurement divides by four for a quarter bodice block?",
-     "options": [
-      "Shoulder length",
-      "Bust circumference",
-      "Back length",
-      "Neck circumference"
-     ],
-     "answer": 1,
-     "explain": "The bodice is drafted in quarters, so bust, waist and hip are each divided by four."
-    },
-    {
-     "q": "What is a dart for?",
-     "options": [
-      "Decorating the hem",
-      "Shaping flat fabric to fit curves of the body",
-      "Joining two seams",
-      "Marking the grainline"
-     ],
-     "answer": 1,
-     "explain": "Darts take in fullness so flat fabric follows the bust, waist and hip curves."
-    },
-    {
-     "q": "Where do you measure the natural waist?",
-     "options": [
-      "At the navel",
-      "At the narrowest point of the torso",
-      "At the hip bone",
-      "Just under the bust"
-     ],
-     "answer": 1,
-     "explain": "The natural waist is the narrowest point, usually a couple of centimetres above the navel."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 9,
-   "week": 2,
-   "title": "Seam Finishes That Last",
-   "goal": "Sew plain, French and overlocked-style seams that do not fray.",
-   "video": {
-    "youtube_id": "mrVdtrz8reg",
-    "title": "How to Draft A Bodice From Measurements",
-    "channel": "Let's Learn to Sew"
-   },
-   "steps": [
-    "Sew a plain seam on cotton and press it open.",
-    "Sew the same seam as a French seam, which folds the cut (raw) edges inside so they cannot fray.",
-    "Finish a raw edge with a zigzag stitch close to the edge.",
-    "Compare all three seams after a firm tug and note which frays least."
-   ],
-   "task": "Make a 15cm sample of each seam finish, labelled.",
-   "challenge": "Sew a French seam on chiffon without the fabric slipping.",
-   "quiz": [
-    {
-     "q": "Which measurement divides by four for a quarter bodice block?",
-     "options": [
-      "Shoulder length",
-      "Bust circumference",
-      "Back length",
-      "Neck circumference"
-     ],
-     "answer": 1,
-     "explain": "The bodice is drafted in quarters, so bust, waist and hip are each divided by four."
-    },
-    {
-     "q": "What is a dart for?",
-     "options": [
-      "Decorating the hem",
-      "Shaping flat fabric to fit curves of the body",
-      "Joining two seams",
-      "Marking the grainline"
-     ],
-     "answer": 1,
-     "explain": "Darts take in fullness so flat fabric follows the bust, waist and hip curves."
-    },
-    {
-     "q": "Where do you measure the natural waist?",
-     "options": [
-      "At the navel",
-      "At the narrowest point of the torso",
-      "At the hip bone",
-      "Just under the bust"
-     ],
-     "answer": 1,
-     "explain": "The natural waist is the narrowest point, usually a couple of centimetres above the navel."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 10,
-   "week": 2,
-   "title": "Cutting Fabric Accurately",
-   "goal": "Lay out, pin and cut fabric on grain with clean, accurate edges.",
-   "video": {
-    "youtube_id": "u48ztvpGG0I",
-    "title": "Pattern Making • Cutting • Sewing | Complete Garment Tutorial | All Levels",
-    "channel": "Farahnaz Pattern School"
-   },
-   "steps": [
-    "Fold the fabric so the finished edges (called selvedges) meet and the grain runs straight.",
-    "Pin pattern pieces with the grain arrow running the same way as the finished edge of the fabric (the selvedge).",
-    "Cut with long smooth strokes, keeping the scissors flat on the table.",
-    "Mark all notches with small snips and darts with chalk."
-   ],
-   "task": "Cut a full skirt front and back accurately on grain.",
-   "challenge": "Cut a slippery fabric without it shifting off the line.",
-   "quiz": [
-    {
-     "q": "What does \"cut on grain\" mean?",
-     "options": [
-      "Cut along the selvedge direction",
-      "Cut across the fabric diagonally",
-      "Cut with the grainline arrow parallel to the selvedge",
-      "Cut through two layers only"
-     ],
-     "answer": 2,
-     "explain": "Cutting on grain keeps the garment hanging straight instead of twisting."
-    },
-    {
-     "q": "Why mark notches on cut pieces?",
-     "options": [
-      "To decorate the edge",
-      "To match pieces correctly when sewing",
-      "To show the fabric type",
-      "To mark the hem"
-     ],
-     "answer": 1,
-     "explain": "Notches are alignment marks that show which edges join and where."
-    },
-    {
-     "q": "What is a seam allowance?",
-     "options": [
-      "The fabric left between the stitching line and the cut edge",
-      "The width of the zip",
-      "The hem depth",
-      "The dart intake"
-     ],
-     "answer": 0,
-     "explain": "Seam allowance, usually 1.5cm, is the fabric between the stitch line and the raw edge."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 11,
-   "week": 2,
-   "title": "Darts, Gathers and Pleats",
-   "goal": "Shape flat fabric to the body with darts, gathers and knife pleats.",
-   "video": {
-    "youtube_id": "u48ztvpGG0I",
-    "title": "Pattern Making • Cutting • Sewing | Complete Garment Tutorial | All Levels",
-    "channel": "Farahnaz Pattern School"
-   },
-   "steps": [
-    "Mark a waist dart on fabric and sew it from the wide end to a point.",
-    "Press the dart toward the centre back and check it lies flat.",
-    "Gather a 30cm strip by sewing two rows of long stitches and pulling the threads.",
-    "Fold and press three even knife pleats on a practice strip."
-   ],
-   "task": "Make a sample strip showing one dart, one gather and one pleat.",
-   "challenge": "Sew a dart that ends in a smooth point with no pucker.",
-   "quiz": [
-    {
-     "q": "What does \"cut on grain\" mean?",
-     "options": [
-      "Cut along the selvedge direction",
-      "Cut across the fabric diagonally",
-      "Cut with the grainline arrow parallel to the selvedge",
-      "Cut through two layers only"
-     ],
-     "answer": 2,
-     "explain": "Cutting on grain keeps the garment hanging straight instead of twisting."
-    },
-    {
-     "q": "Why mark notches on cut pieces?",
-     "options": [
-      "To decorate the edge",
-      "To match pieces correctly when sewing",
-      "To show the fabric type",
-      "To mark the hem"
-     ],
-     "answer": 1,
-     "explain": "Notches are alignment marks that show which edges join and where."
-    },
-    {
-     "q": "What is a seam allowance?",
-     "options": [
-      "The fabric left between the stitching line and the cut edge",
-      "The width of the zip",
-      "The hem depth",
-      "The dart intake"
-     ],
-     "answer": 0,
-     "explain": "Seam allowance, usually 1.5cm, is the fabric between the stitch line and the raw edge."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 12,
-   "week": 2,
-   "title": "Necklines: Round, V and Square",
-   "goal": "Cut and finish three neckline shapes cleanly with facings.",
-   "video": {
-    "youtube_id": "u48ztvpGG0I",
-    "title": "Pattern Making • Cutting • Sewing | Complete Garment Tutorial | All Levels",
-    "channel": "Farahnaz Pattern School"
-   },
-   "steps": [
-    "Draw round, V and square necklines on paper and compare their depth.",
-    "Cut a facing (a shaped piece of fabric that finishes the neckline edge) for a round neckline and sew it right sides together.",
-    "Clip the curves, turn the facing inside and press it flat.",
-    "Topstitch 3mm from the edge to hold the facing in place."
-   ],
-   "task": "Finish one round neckline with a facing that sits flat.",
-   "challenge": "Cut a V-neck that meets in a sharp, clean point.",
-   "quiz": [
-    {
-     "q": "What does \"cut on grain\" mean?",
-     "options": [
-      "Cut along the selvedge direction",
-      "Cut across the fabric diagonally",
-      "Cut with the grainline arrow parallel to the selvedge",
-      "Cut through two layers only"
-     ],
-     "answer": 2,
-     "explain": "Cutting on grain keeps the garment hanging straight instead of twisting."
-    },
-    {
-     "q": "Why mark notches on cut pieces?",
-     "options": [
-      "To decorate the edge",
-      "To match pieces correctly when sewing",
-      "To show the fabric type",
-      "To mark the hem"
-     ],
-     "answer": 1,
-     "explain": "Notches are alignment marks that show which edges join and where."
-    },
-    {
-     "q": "What is a seam allowance?",
-     "options": [
-      "The fabric left between the stitching line and the cut edge",
-      "The width of the zip",
-      "The hem depth",
-      "The dart intake"
-     ],
-     "answer": 0,
-     "explain": "Seam allowance, usually 1.5cm, is the fabric between the stitch line and the raw edge."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 13,
-   "week": 2,
-   "title": "Sleeves: The Set-In Sleeve",
-   "goal": "Set a sleeve into an armhole without puckers or twisting.",
-   "video": {
-    "youtube_id": "NAKtR91E8Ms",
-    "title": "Beginner Sewing: Simple Dress from Rectangles and Elastic, No Pattern",
-    "channel": "Time to Waste Vintage"
-   },
-   "steps": [
-    "Measure the armhole curve and compare it with the curved top of the sleeve (called the sleeve cap).",
-    "Ease the sleeve cap with two rows of gathering stitches.",
-    "Pin the sleeve to the armhole, matching notches and the shoulder mark.",
-    "Sew slowly, easing the fullness in as you go, then press."
-   ],
-   "task": "Set one sleeve into a practice bodice smoothly.",
-   "challenge": "Set a sleeve with zero puckers on the first try.",
-   "quiz": [
-    {
-     "q": "How do you make a dress with no paper pattern?",
-     "options": [
-      "Guess the size",
-      "Cut rectangles from your body measurements and sew them together",
-      "Trace a shop dress",
-      "Use a bedsheet only"
-     ],
-     "answer": 1,
-     "explain": "Rectangles cut to your measurements can become a dress without a paper pattern."
-    },
-    {
-     "q": "What does elastic do in a rectangle dress?",
-     "options": [
-      "It decorates the hem",
-      "It pulls the waist in so the dress fits without a zip",
-      "It makes the dress longer",
-      "It stops the fabric fraying"
-     ],
-     "answer": 1,
-     "explain": "Elastic in a casing gathers the waist to your size, so no zip or shaping is needed."
-    },
-    {
-     "q": "Why add extra fabric for seams and hems when you cut rectangles?",
-     "options": [
-      "To waste fabric",
-      "So the finished dress is the right size after sewing",
-      "To make it heavier",
-      "For pockets"
-     ],
-     "answer": 1,
-     "explain": "Seam and hem allowances are used up in sewing, so you must add them when you cut."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 14,
-   "week": 2,
-   "title": "Project: Sew a Fitted Bodice Top",
-   "goal": "Make a fitted bodice top with darts, a neckline facing and a zip.",
-   "video": {
-    "youtube_id": "NAKtR91E8Ms",
-    "title": "Beginner Sewing: Simple Dress from Rectangles and Elastic, No Pattern",
-    "channel": "Time to Waste Vintage"
-   },
-   "steps": [
-    "Cut the bodice front, back and facing from your drafted block.",
-    "Sew the darts, shoulder and side seams, then press them.",
-    "Attach the facing and insert an invisible zip at the back.",
-    "Hem the bottom evenly and try the top on for fit."
-   ],
-   "task": "Finish a fitted bodice top that fits at bust, waist and shoulders.",
-   "challenge": "Fit the top on a model and fix one fit issue on the spot.",
-   "quiz": [
-    {
-     "q": "How do you make a dress with no paper pattern?",
-     "options": [
-      "Guess the size",
-      "Cut rectangles from your body measurements and sew them together",
-      "Trace a shop dress",
-      "Use a bedsheet only"
-     ],
-     "answer": 1,
-     "explain": "Rectangles cut to your measurements can become a dress without a paper pattern."
-    },
-    {
-     "q": "What does elastic do in a rectangle dress?",
-     "options": [
-      "It decorates the hem",
-      "It pulls the waist in so the dress fits without a zip",
-      "It makes the dress longer",
-      "It stops the fabric fraying"
-     ],
-     "answer": 1,
-     "explain": "Elastic in a casing gathers the waist to your size, so no zip or shaping is needed."
-    },
-    {
-     "q": "Why add extra fabric for seams and hems when you cut rectangles?",
-     "options": [
-      "To waste fabric",
-      "So the finished dress is the right size after sewing",
-      "To make it heavier",
-      "For pockets"
-     ],
-     "answer": 1,
-     "explain": "Seam and hem allowances are used up in sewing, so you must add them when you cut."
-    }
-   ],
-   "project": {
-    "title": "Sew a Fitted Bodice Top",
-    "brief": "Make a fitted bodice top with darts, a faced neckline and an invisible zip.",
-    "checks": [
-     "Bodice cut from your block",
-     "Darts sewn to smooth points",
-     "Neckline facing lies flat",
-     "Invisible zip disappears",
-     "Side seams match at the waist",
-     "Top fits at bust and waist"
-    ]
-   }
-  },
-  {
-   "day": 15,
-   "week": 3,
-   "title": "Zips: Invisible and Lapped",
-   "goal": "Insert an invisible zip and a lapped zip neatly.",
-   "video": {
-    "youtube_id": "NAKtR91E8Ms",
-    "title": "Beginner Sewing: Simple Dress from Rectangles and Elastic, No Pattern",
-    "channel": "Time to Waste Vintage"
-   },
-   "steps": [
-    "Press the seam where the zip will go and mark the zip length.",
-    "Pin the invisible zip face down on one side and stitch with a zipper foot.",
-    "Repeat on the other side and close the seam below the zip.",
-    "Insert a lapped zip on a practice piece, overlapping one side by 3mm."
-   ],
-   "task": "Insert one invisible zip that disappears into the seam.",
-   "challenge": "Insert a zip in under 15 minutes with no wavy fabric.",
-   "quiz": [
-    {
-     "q": "How do you make a dress with no paper pattern?",
-     "options": [
-      "Guess the size",
-      "Cut rectangles from your body measurements and sew them together",
-      "Trace a shop dress",
-      "Use a bedsheet only"
-     ],
-     "answer": 1,
-     "explain": "Rectangles cut to your measurements can become a dress without a paper pattern."
-    },
-    {
-     "q": "What does elastic do in a rectangle dress?",
-     "options": [
-      "It decorates the hem",
-      "It pulls the waist in so the dress fits without a zip",
-      "It makes the dress longer",
-      "It stops the fabric fraying"
-     ],
-     "answer": 1,
-     "explain": "Elastic in a casing gathers the waist to your size, so no zip or shaping is needed."
-    },
-    {
-     "q": "Why add extra fabric for seams and hems when you cut rectangles?",
-     "options": [
-      "To waste fabric",
-      "So the finished dress is the right size after sewing",
-      "To make it heavier",
-      "For pockets"
-     ],
-     "answer": 1,
-     "explain": "Seam and hem allowances are used up in sewing, so you must add them when you cut."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 16,
-   "week": 3,
-   "title": "Buttons, Buttonholes and Hooks",
-   "goal": "Sew strong buttons, machine buttonholes and hook-and-eye closures.",
-   "video": {
-    "youtube_id": "nSqwKXf91iA",
-    "title": "How to Hand Sew Like a Machine",
-    "channel": "mary sewing room"
-   },
-   "steps": [
-    "Mark button positions evenly on a shirt front, starting below the bust.",
-    "Sew a button with a thread shank so it sits above the fabric.",
-    "Make a machine buttonhole on scrap, then cut it open carefully.",
-    "Sew a hook and eye so the edges meet exactly without gaping."
-   ],
-   "task": "Make a placket sample with two buttons and two buttonholes.",
-   "challenge": "Sew a buttonhole on thick fabric without the machine jamming.",
-   "quiz": [
-    {
-     "q": "Why sew hand stitches the same length as machine stitches?",
-     "options": [
-      "To save thread",
-      "So hand sewing looks even and strong like machine sewing",
-      "To sew faster",
-      "To avoid using a thimble"
-     ],
-     "answer": 1,
-     "explain": "Even, regular hand stitches are both stronger and neater."
-    },
-    {
-     "q": "What is a backstitch used for?",
-     "options": [
-      "Temporary basting",
-      "A strong permanent hand seam",
-      "Decorative edging",
-      "Gathering fabric"
-     ],
-     "answer": 1,
-     "explain": "Backstitch overlaps each stitch, making it the strongest hand stitch for seams."
-    },
-    {
-     "q": "When should you use a thimble?",
-     "options": [
-      "Only for thick fabric",
-      "Whenever pushing a needle through fabric to protect your finger",
-      "Only for embroidery",
-      "Never, it slows you down"
-     ],
-     "answer": 1,
-     "explain": "A thimble protects the middle finger and gives power to push the needle through."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 17,
-   "week": 3,
-   "title": "Dress Construction Order",
-   "goal": "Plan the correct order for building a dress from pieces to finish.",
-   "video": {
-    "youtube_id": "nSqwKXf91iA",
-    "title": "How to Hand Sew Like a Machine",
-    "channel": "mary sewing room"
-   },
-   "steps": [
-    "List every step of making a simple dress, from cutting to hemming.",
-    "Sew darts and seams first, then join the bodice to the skirt.",
-    "Insert the zip before attaching the neckline facing.",
-    "Leave hemming and pressing until the very end."
-   ],
-   "task": "Write a step-by-step build order for a dress and follow it on paper.",
-   "challenge": "Reorder a jumbled set of dress-making steps correctly.",
-   "quiz": [
-    {
-     "q": "Why sew hand stitches the same length as machine stitches?",
-     "options": [
-      "To save thread",
-      "So hand sewing looks even and strong like machine sewing",
-      "To sew faster",
-      "To avoid using a thimble"
-     ],
-     "answer": 1,
-     "explain": "Even, regular hand stitches are both stronger and neater."
-    },
-    {
-     "q": "What is a backstitch used for?",
-     "options": [
-      "Temporary basting",
-      "A strong permanent hand seam",
-      "Decorative edging",
-      "Gathering fabric"
-     ],
-     "answer": 1,
-     "explain": "Backstitch overlaps each stitch, making it the strongest hand stitch for seams."
-    },
-    {
-     "q": "When should you use a thimble?",
-     "options": [
-      "Only for thick fabric",
-      "Whenever pushing a needle through fabric to protect your finger",
-      "Only for embroidery",
-      "Never, it slows you down"
-     ],
-     "answer": 1,
-     "explain": "A thimble protects the middle finger and gives power to push the needle through."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 18,
-   "week": 3,
-   "title": "Lining a Bodice",
-   "goal": "Line a bodice so the inside looks as clean as the outside.",
-   "video": {
-    "youtube_id": "nSqwKXf91iA",
-    "title": "How to Hand Sew Like a Machine",
-    "channel": "mary sewing room"
-   },
-   "steps": [
-    "Cut the lining pieces slightly smaller than the shell pieces.",
-    "Sew the lining bodice together exactly like the outer bodice.",
-    "Join lining and shell at the neckline, right sides together.",
-    "Turn, press and hand-stitch the lining to the zip tapes."
-   ],
-   "task": "Line a practice bodice with no lining showing at the neckline.",
-   "challenge": "Line a bodice so it hangs without pulling the outer fabric.",
-   "quiz": [
-    {
-     "q": "Why sew hand stitches the same length as machine stitches?",
-     "options": [
-      "To save thread",
-      "So hand sewing looks even and strong like machine sewing",
-      "To sew faster",
-      "To avoid using a thimble"
-     ],
-     "answer": 1,
-     "explain": "Even, regular hand stitches are both stronger and neater."
-    },
-    {
-     "q": "What is a backstitch used for?",
-     "options": [
-      "Temporary basting",
-      "A strong permanent hand seam",
-      "Decorative edging",
-      "Gathering fabric"
-     ],
-     "answer": 1,
-     "explain": "Backstitch overlaps each stitch, making it the strongest hand stitch for seams."
-    },
-    {
-     "q": "When should you use a thimble?",
-     "options": [
-      "Only for thick fabric",
-      "Whenever pushing a needle through fabric to protect your finger",
-      "Only for embroidery",
-      "Never, it slows you down"
-     ],
-     "answer": 1,
-     "explain": "A thimble protects the middle finger and gives power to push the needle through."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 19,
-   "week": 3,
-   "title": "Choosing Styles for Body Shapes",
-   "goal": "Match neckline, sleeve and skirt styles to different body shapes.",
-   "video": {
-    "youtube_id": "wa7OkSb3wCY",
-    "title": "2 DRESSES IN 1 VIDEO! Easy Patternless Girls' Dress Sewing Tutorial",
-    "channel": "Cut & Craft"
-   },
-   "steps": [
-    "Sketch three body shapes and note where each carries width.",
-    "Pair each shape with a flattering neckline and skirt style.",
-    "Explain why an A-line skirt suits a pear shape.",
-    "Pick a style for a real client based on their measurements."
-   ],
-   "task": "Write style recommendations for three different body shapes.",
-   "challenge": "Style a full outfit for a client from measurements alone.",
-   "quiz": [
-    {
-     "q": "What is a patternless dress?",
-     "options": [
-      "A dress with no seams",
-      "A dress cut directly from body measurements without a paper pattern",
-      "A dress made from one piece of fabric",
-      "A dress with no zip"
-     ],
-     "answer": 1,
-     "explain": "Patternless cutting drafts the shape straight onto the fabric using measurements."
-    },
-    {
-     "q": "Why cut two dresses in one video lesson?",
-     "options": [
-      "To waste fabric",
-      "To show the method works for different sizes and styles",
-      "To practise twice",
-      "To sell both"
-     ],
-     "answer": 1,
-     "explain": "Repeating the method on a second dress proves the technique, not the luck."
-    },
-    {
-     "q": "What should you check before cutting a dress without a pattern?",
-     "options": [
-      "The fabric colour only",
-      "Measurements, grain and enough fabric for both pieces",
-      "The weather",
-      "The price of thread"
-     ],
-     "answer": 1,
-     "explain": "Without a pattern there is no second chance, so measurements and fabric must be checked first."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 20,
-   "week": 3,
-   "title": "Working with Ankara and Prints",
-   "goal": "Cut and match printed and Ankara fabrics so patterns line up.",
-   "video": {
-    "youtube_id": "wa7OkSb3wCY",
-    "title": "2 DRESSES IN 1 VIDEO! Easy Patternless Girls' Dress Sewing Tutorial",
-    "channel": "Cut & Craft"
-   },
-   "steps": [
-    "Identify the repeat in an Ankara print and mark it with pins.",
-    "Cut two matching pieces so the motif lines up at the side seam.",
-    "Match a stripe or check across a centre seam.",
-    "Press Ankara on the wrong side to protect the print."
-   ],
-   "task": "Cut and sew a seam where the print matches across it.",
-   "challenge": "Match a bold print across a bodice and skirt join.",
-   "quiz": [
-    {
-     "q": "What is a patternless dress?",
-     "options": [
-      "A dress with no seams",
-      "A dress cut directly from body measurements without a paper pattern",
-      "A dress made from one piece of fabric",
-      "A dress with no zip"
-     ],
-     "answer": 1,
-     "explain": "Patternless cutting drafts the shape straight onto the fabric using measurements."
-    },
-    {
-     "q": "Why cut two dresses in one video lesson?",
-     "options": [
-      "To waste fabric",
-      "To show the method works for different sizes and styles",
-      "To practise twice",
-      "To sell both"
-     ],
-     "answer": 1,
-     "explain": "Repeating the method on a second dress proves the technique, not the luck."
-    },
-    {
-     "q": "What should you check before cutting a dress without a pattern?",
-     "options": [
-      "The fabric colour only",
-      "Measurements, grain and enough fabric for both pieces",
-      "The weather",
-      "The price of thread"
-     ],
-     "answer": 1,
-     "explain": "Without a pattern there is no second chance, so measurements and fabric must be checked first."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 21,
-   "week": 3,
-   "title": "Project: Sew a Complete Simple Dress",
-   "goal": "Sew a complete dress with bodice, skirt, zip and finished hem.",
-   "video": {
-    "youtube_id": "wa7OkSb3wCY",
-    "title": "2 DRESSES IN 1 VIDEO! Easy Patternless Girls' Dress Sewing Tutorial",
-    "channel": "Cut & Craft"
-   },
-   "steps": [
-    "Cut bodice and skirt pieces from one fabric, matching prints at the waist.",
-    "Assemble the bodice, attach the skirt, then insert the zip.",
-    "Finish the neckline with a facing and the armholes cleanly.",
-    "Hem, press and try the dress on, noting any fit fixes."
-   ],
-   "task": "Finish a complete dress, pressed and ready to wear.",
-   "challenge": "Complete the dress with no unfinished raw edges inside.",
-   "quiz": [
-    {
-     "q": "What is a patternless dress?",
-     "options": [
-      "A dress with no seams",
-      "A dress cut directly from body measurements without a paper pattern",
-      "A dress made from one piece of fabric",
-      "A dress with no zip"
-     ],
-     "answer": 1,
-     "explain": "Patternless cutting drafts the shape straight onto the fabric using measurements."
-    },
-    {
-     "q": "Why cut two dresses in one video lesson?",
-     "options": [
-      "To waste fabric",
-      "To show the method works for different sizes and styles",
-      "To practise twice",
-      "To sell both"
-     ],
-     "answer": 1,
-     "explain": "Repeating the method on a second dress proves the technique, not the luck."
-    },
-    {
-     "q": "What should you check before cutting a dress without a pattern?",
-     "options": [
-      "The fabric colour only",
-      "Measurements, grain and enough fabric for both pieces",
-      "The weather",
-      "The price of thread"
-     ],
-     "answer": 1,
-     "explain": "Without a pattern there is no second chance, so measurements and fabric must be checked first."
-    }
-   ],
-   "project": {
-    "title": "Sew a Complete Simple Dress",
-    "brief": "Build a full dress: bodice, skirt, zip, facing and hem, pressed and wearable.",
-    "checks": [
-     "Bodice and skirt joined cleanly",
-     "Zip and facing finished",
-     "Print matched at the waist",
-     "No raw edges inside",
-     "Hem even and pressed",
-     "Dress fits and photographs well"
-    ]
-   }
-  },
-  {
-   "day": 22,
-   "week": 4,
-   "title": "Sew with the Simple Turn-Through Method",
-   "goal": "Make a neat flat item using the simple sew-turn-topstitch method.",
-   "video": {
-    "youtube_id": "2Wad2FZn-0k",
-    "title": "One Simple Technique = Countless Easy Sewing Projects | Beginner Friendly",
-    "channel": "Sewing Report"
-   },
-   "steps": [
-    "Place two pieces of fabric right sides together and pin them.",
-    "Sew all round the edge, leaving a 10cm gap on one side.",
-    "Turn the piece right side out through the gap and poke the corners out gently.",
-    "Press it flat, tuck the gap edges in, and topstitch close to the edge."
-   ],
-   "task": "Make a small flat item (a placemat or cushion cover) with the turn-through method.",
-   "challenge": "Make the same item in a second fabric without looking at the video.",
-   "quiz": [
-    {
-     "q": "What is the simple turn-through technique?",
-     "options": [
-      "Sewing two pieces right sides together, leaving a gap, then turning them out",
-      "Sewing with one hand",
-      "Ironing fabric flat",
-      "Cutting without measuring"
-     ],
-     "answer": 0,
-     "explain": "You sew around the edge, leave a gap, turn the piece right side out and topstitch it closed."
-    },
-    {
-     "q": "Why leave a gap when you sew around the piece?",
-     "options": [
-      "To save thread",
-      "So you can turn the fabric right side out through it",
-      "To make it bigger",
-      "To add a pocket"
-     ],
-     "answer": 1,
-     "explain": "The gap is the opening you pull the fabric through to turn it the right way round."
-    },
-    {
-     "q": "What should you do after turning the piece right side out?",
-     "options": [
-      "Cut it open",
-      "Press it flat and topstitch around the edge",
-      "Throw it away",
-      "Soak it in water"
-     ],
-     "answer": 1,
-     "explain": "Pressing flat and topstitching closes the gap and gives a neat, strong edge."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 23,
-   "week": 4,
-   "title": "Fitting and Common Fit Fixes",
-   "goal": "Diagnose pulling, gaping and sagging, and fix each one.",
-   "video": {
-    "youtube_id": "2Wad2FZn-0k",
-    "title": "One Simple Technique = Countless Easy Sewing Projects | Beginner Friendly",
-    "channel": "Sewing Report"
-   },
-   "steps": [
-    "Try a garment on inside out and pin out the excess at the side seams.",
-    "Fix a gaping neckline by taking in the shoulder seam.",
-    "Fix a tight bust by letting out the side seams.",
-    "Fix a sagging back by shortening the back waist."
-   ],
-   "task": "Fit a garment on a model and correct two fit problems.",
-   "challenge": "Fix a gaping armhole without remaking the sleeve.",
-   "quiz": [
-    {
-     "q": "What is the simple turn-through technique?",
-     "options": [
-      "Sewing two pieces right sides together, leaving a gap, then turning them out",
-      "Sewing with one hand",
-      "Ironing fabric flat",
-      "Cutting without measuring"
-     ],
-     "answer": 0,
-     "explain": "You sew around the edge, leave a gap, turn the piece right side out and topstitch it closed."
-    },
-    {
-     "q": "Why leave a gap when you sew around the piece?",
-     "options": [
-      "To save thread",
-      "So you can turn the fabric right side out through it",
-      "To make it bigger",
-      "To add a pocket"
-     ],
-     "answer": 1,
-     "explain": "The gap is the opening you pull the fabric through to turn it the right way round."
-    },
-    {
-     "q": "What should you do after turning the piece right side out?",
-     "options": [
-      "Cut it open",
-      "Press it flat and topstitch around the edge",
-      "Throw it away",
-      "Soak it in water"
-     ],
-     "answer": 1,
-     "explain": "Pressing flat and topstitching closes the gap and gives a neat, strong edge."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 24,
-   "week": 4,
-   "title": "Alterations: Taking In and Letting Out",
-   "goal": "Alter ready-made clothes to fit a customer properly.",
-   "video": {
-    "youtube_id": "2Wad2FZn-0k",
-    "title": "One Simple Technique = Countless Easy Sewing Projects | Beginner Friendly",
-    "channel": "Sewing Report"
-   },
-   "steps": [
-    "Take in a shirt at the side seams by 2cm on each side.",
-    "Shorten a pair of trousers keeping the original hem look.",
-    "Let out a skirt waist by moving the zip and waistband.",
-    "Taper a dress from the waist down for a slimmer fit."
-   ],
-   "task": "Alter one ready-made garment to fit its owner.",
-   "challenge": "Take in a garment and keep both side seams even.",
-   "quiz": [
-    {
-     "q": "What is the simple turn-through technique?",
-     "options": [
-      "Sewing two pieces right sides together, leaving a gap, then turning them out",
-      "Sewing with one hand",
-      "Ironing fabric flat",
-      "Cutting without measuring"
-     ],
-     "answer": 0,
-     "explain": "You sew around the edge, leave a gap, turn the piece right side out and topstitch it closed."
-    },
-    {
-     "q": "Why leave a gap when you sew around the piece?",
-     "options": [
-      "To save thread",
-      "So you can turn the fabric right side out through it",
-      "To make it bigger",
-      "To add a pocket"
-     ],
-     "answer": 1,
-     "explain": "The gap is the opening you pull the fabric through to turn it the right way round."
-    },
-    {
-     "q": "What should you do after turning the piece right side out?",
-     "options": [
-      "Cut it open",
-      "Press it flat and topstitch around the edge",
-      "Throw it away",
-      "Soak it in water"
-     ],
-     "answer": 1,
-     "explain": "Pressing flat and topstitching closes the gap and gives a neat, strong edge."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 25,
-   "week": 4,
-   "title": "Custom Fit Adjustments",
-   "goal": "Adjust a block for a full bust, narrow shoulder or long torso.",
-   "video": {
-    "youtube_id": "WpmKmebh05s",
-    "title": "How to Draft a Custom Fit Bodice Pattern",
-    "channel": "Let's Learn to Sew"
-   },
-   "steps": [
-    "Compare a client's measurements with the standard block.",
-    "Add a full-bust adjustment by slashing and spreading the front pattern.",
-    "Shorten a shoulder seam for a narrow-shouldered client.",
-    "Lengthen the bodice for a long torso, adding at the waist line."
-   ],
-   "task": "Adjust a bodice block for one real body difference.",
-   "challenge": "Draft a block that fits a client with two different adjustments.",
-   "quiz": [
-    {
-     "q": "How do you draft a custom fit bodice?",
-     "options": [
-      "Use a standard size and hope",
-      "Draft from the wearer's own measurements",
-      "Copy a shop dress",
-      "Add 5cm everywhere"
-     ],
-     "answer": 1,
-     "explain": "A custom fit block starts from real body measurements, not a standard size chart."
-    },
-    {
-     "q": "What is a full bust adjustment?",
-     "options": [
-      "Adding length to the bodice",
-      "Adding room across the bust without changing the shoulders",
-      "Narrowing the waist",
-      "Shortening the sleeve"
-     ],
-     "answer": 1,
-     "explain": "A full bust adjustment slashes and spreads the front pattern to add bust room only."
-    },
-    {
-     "q": "Why fit a toile before cutting good fabric?",
-     "options": [
-      "To waste time",
-      "To test the fit cheaply and fix errors before cutting expensive cloth",
-      "To practise ironing",
-      "To check the colour"
-     ],
-     "answer": 1,
-     "explain": "A toile in cheap fabric catches fit mistakes before they cost good fabric."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 26,
-   "week": 4,
-   "title": "Pressing and Professional Finishing",
-   "goal": "Press seams, hems and garments to a shop-quality finish.",
-   "video": {
-    "youtube_id": "WpmKmebh05s",
-    "title": "How to Draft a Custom Fit Bodice Pattern",
-    "channel": "Let's Learn to Sew"
-   },
-   "steps": [
-    "Press every seam as you sew, never waiting until the end.",
-    "Use a pressing cloth on Ankara and delicate fabrics.",
-    "Press darts toward the centre and hems upward from the inside.",
-    "Hang the finished garment for 30 minutes before the final check."
-   ],
-   "task": "Press a finished garment to a shop-ready standard.",
-   "challenge": "Remove a shine mark from pressing without damaging fabric.",
-   "quiz": [
-    {
-     "q": "How do you draft a custom fit bodice?",
-     "options": [
-      "Use a standard size and hope",
-      "Draft from the wearer's own measurements",
-      "Copy a shop dress",
-      "Add 5cm everywhere"
-     ],
-     "answer": 1,
-     "explain": "A custom fit block starts from real body measurements, not a standard size chart."
-    },
-    {
-     "q": "What is a full bust adjustment?",
-     "options": [
-      "Adding length to the bodice",
-      "Adding room across the bust without changing the shoulders",
-      "Narrowing the waist",
-      "Shortening the sleeve"
-     ],
-     "answer": 1,
-     "explain": "A full bust adjustment slashes and spreads the front pattern to add bust room only."
-    },
-    {
-     "q": "Why fit a toile before cutting good fabric?",
-     "options": [
-      "To waste time",
-      "To test the fit cheaply and fix errors before cutting expensive cloth",
-      "To practise ironing",
-      "To check the colour"
-     ],
-     "answer": 1,
-     "explain": "A toile in cheap fabric catches fit mistakes before they cost good fabric."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 27,
-   "week": 4,
-   "title": "Costing and Pricing Your Work",
-   "goal": "Price a garment from fabric, time and profit so the hustle pays.",
-   "video": {
-    "youtube_id": "WpmKmebh05s",
-    "title": "How to Draft a Custom Fit Bodice Pattern",
-    "channel": "Let's Learn to Sew"
-   },
-   "steps": [
-    "Add up fabric, thread, zip and lining costs for one dress.",
-    "Time yourself sewing it and value your hours at a fair rate.",
-    "Add 20 percent profit and round to a clean selling price.",
-    "Compare your price with two tailors in your area."
-   ],
-   "task": "Produce a written price for one dress with the full costing shown.",
-   "challenge": "Price a rush-order dress fairly for a same-week deadline.",
-   "quiz": [
-    {
-     "q": "How do you draft a custom fit bodice?",
-     "options": [
-      "Use a standard size and hope",
-      "Draft from the wearer's own measurements",
-      "Copy a shop dress",
-      "Add 5cm everywhere"
-     ],
-     "answer": 1,
-     "explain": "A custom fit block starts from real body measurements, not a standard size chart."
-    },
-    {
-     "q": "What is a full bust adjustment?",
-     "options": [
-      "Adding length to the bodice",
-      "Adding room across the bust without changing the shoulders",
-      "Narrowing the waist",
-      "Shortening the sleeve"
-     ],
-     "answer": 1,
-     "explain": "A full bust adjustment slashes and spreads the front pattern to add bust room only."
-    },
-    {
-     "q": "Why fit a toile before cutting good fabric?",
-     "options": [
-      "To waste time",
-      "To test the fit cheaply and fix errors before cutting expensive cloth",
-      "To practise ironing",
-      "To check the colour"
-     ],
-     "answer": 1,
-     "explain": "A toile in cheap fabric catches fit mistakes before they cost good fabric."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 28,
-   "week": 4,
-   "title": "Photographing Garments and Taking Orders",
-   "goal": "Present finished work and take clear, paid orders from customers.",
-   "video": {
-    "youtube_id": "adFeOQ-y76I",
-    "title": "Sure Fit Designs Introduction",
-    "channel": "Sure Fit Designs"
-   },
-   "steps": [
-    "Photograph a garment on a hanger against a plain wall in daylight.",
-    "Take front, back and detail shots plus one worn shot.",
-    "Write an order form: style, fabric, measurements, price and date.",
-    "Ask for a 50 percent deposit before cutting any fabric."
-   ],
-   "task": "Create an order form and a three-photo set for one garment.",
-   "challenge": "Get a paying order using only photos of your past work.",
-   "quiz": [
-    {
-     "q": "What is a fitting system like Sure Fit Designs for?",
-     "options": [
-      "Selling patterns",
-      "Drafting a pattern that fits your exact measurements",
-      "Ironing garments",
-      "Choosing fabric colours"
-     ],
-     "answer": 1,
-     "explain": "Fitting systems draft a personal block from your measurements for a reliable fit."
-    },
-    {
-     "q": "What is the most important final step before delivering a garment?",
-     "options": [
-      "Adding a label",
-      "Pressing and a final fit check",
-      "Taking a photo",
-      "Folding it"
-     ],
-     "answer": 1,
-     "explain": "A final press and fit check catch loose threads and fit issues before the client sees it."
-    },
-    {
-     "q": "Why keep a client measurement book?",
-     "options": [
-      "For decoration",
-      "So repeat orders are fast and consistent",
-      "To show friends",
-      "It is required by law"
-     ],
-     "answer": 1,
-     "explain": "Saved measurements mean the next order starts from correct numbers, not a fresh measuring session."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 29,
-   "week": 5,
-   "title": "Capstone Planning",
-   "goal": "Choose your capstone outfit, fabric and schedule for the final two days.",
-   "video": {
-    "youtube_id": "adFeOQ-y76I",
-    "title": "Sure Fit Designs Introduction",
-    "channel": "Sure Fit Designs"
-   },
-   "steps": [
-    "Pick a two-piece outfit or dress that shows off your best skills.",
-    "Buy or choose the fabric and all notions today.",
-    "Cut every piece and label them in build order.",
-    "Write a two-day build plan with time for fitting and pressing."
-   ],
-   "task": "Have all capstone pieces cut, labelled and ready to sew.",
-   "challenge": "Plan a capstone outfit that uses at least three skills from the month.",
-   "quiz": [
-    {
-     "q": "What is a fitting system like Sure Fit Designs for?",
-     "options": [
-      "Selling patterns",
-      "Drafting a pattern that fits your exact measurements",
-      "Ironing garments",
-      "Choosing fabric colours"
-     ],
-     "answer": 1,
-     "explain": "Fitting systems draft a personal block from your measurements for a reliable fit."
-    },
-    {
-     "q": "What is the most important final step before delivering a garment?",
-     "options": [
-      "Adding a label",
-      "Pressing and a final fit check",
-      "Taking a photo",
-      "Folding it"
-     ],
-     "answer": 1,
-     "explain": "A final press and fit check catch loose threads and fit issues before the client sees it."
-    },
-    {
-     "q": "Why keep a client measurement book?",
-     "options": [
-      "For decoration",
-      "So repeat orders are fast and consistent",
-      "To show friends",
-      "It is required by law"
-     ],
-     "answer": 1,
-     "explain": "Saved measurements mean the next order starts from correct numbers, not a fresh measuring session."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 30,
-   "week": 5,
-   "title": "Capstone: Build and Present",
-   "goal": "Sew, fit, press and present your finished capstone outfit.",
-   "video": {
-    "youtube_id": "adFeOQ-y76I",
-    "title": "Sure Fit Designs Introduction",
-    "channel": "Sure Fit Designs"
-   },
-   "steps": [
-    "Sew the outfit following your build plan, pressing as you go.",
-    "Fit it on the wearer and fix any issue before hemming.",
-    "Press the finished outfit and photograph it front, back and detail.",
-    "Present it with your costing sheet and a care note for the wearer."
-   ],
-   "task": "Present a finished, fitted capstone outfit with photos and costing.",
-   "challenge": "Finish the outfit a full hour early and use the time for a final press.",
-   "quiz": [
-    {
-     "q": "What is a fitting system like Sure Fit Designs for?",
-     "options": [
-      "Selling patterns",
-      "Drafting a pattern that fits your exact measurements",
-      "Ironing garments",
-      "Choosing fabric colours"
-     ],
-     "answer": 1,
-     "explain": "Fitting systems draft a personal block from your measurements for a reliable fit."
-    },
-    {
-     "q": "What is the most important final step before delivering a garment?",
-     "options": [
-      "Adding a label",
-      "Pressing and a final fit check",
-      "Taking a photo",
-      "Folding it"
-     ],
-     "answer": 1,
-     "explain": "A final press and fit check catch loose threads and fit issues before the client sees it."
-    },
-    {
-     "q": "Why keep a client measurement book?",
-     "options": [
-      "For decoration",
-      "So repeat orders are fast and consistent",
-      "To show friends",
-      "It is required by law"
-     ],
-     "answer": 1,
-     "explain": "Saved measurements mean the next order starts from correct numbers, not a fresh measuring session."
-    }
-   ],
-   "project": null
-  }
- ],
- "capstone": {
-  "title": "Sew a Complete Two-Piece Outfit",
-  "brief": "Design, cut and sew a complete two-piece outfit (top and skirt, or a dress with a jacket) for a real wearer, fitted, pressed and presented with a costing sheet.",
-  "checks": [
-   "Outfit designed and cut from your own measurements or a client's",
-   "Bodice or top fits at bust, waist and shoulders",
-   "Skirt or second piece fits and matches the top",
-   "Zip, facing and hems finished cleanly with no raw edges",
-   "Garment pressed to a shop-ready finish",
-   "Photos taken: front, back and detail",
-   "Costing sheet shows fabric, notions, time and selling price"
   ],
-  "deliverables": [
-   "Finished two-piece outfit, pressed and wearable",
-   "Measurement sheet for the wearer",
-   "Costing and pricing sheet",
-   "Three photos: front, back and detail",
-   "Short care note for the wearer"
-  ]
- }
+  "capstone": {
+    "title": "Sew a Complete Two-Piece Outfit",
+    "brief": "Design, cut and sew a complete two-piece outfit (top and skirt, or a dress with a jacket) for a real wearer, fitted, pressed and presented with a costing sheet.",
+    "checks": [
+      "Outfit designed and cut from your own measurements or a client's",
+      "Bodice or top fits at bust, waist and shoulders",
+      "Skirt or second piece fits and matches the top",
+      "Zip, facing and hems finished cleanly with no raw edges",
+      "Garment pressed to a shop-ready finish",
+      "Photos taken: front, back and detail",
+      "Costing sheet shows fabric, notions, time and selling price"
+    ],
+    "deliverables": [
+      "Finished two-piece outfit, pressed and wearable",
+      "Measurement sheet for the wearer",
+      "Costing and pricing sheet",
+      "Three photos: front, back and detail",
+      "Short care note for the wearer"
+    ]
+  }
 }

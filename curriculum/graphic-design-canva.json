@@ -423,15 +423,15 @@
       "challenge": "Make three text logos and pick the best one.",
       "quiz": [
         {
-          "q": "What size should a YouTube thumbnail be?",
+          "q": "What should you type in a simple text logo?",
           "options": [
-            "1280 by 720 pixels",
-            "100 by 100 pixels",
-            "5000 by 5000 pixels",
-            "Any size works the same"
+            "The business name in big letters",
+            "A long story",
+            "Random letters",
+            "Nothing at all"
           ],
           "answer": 0,
-          "explain": "A YouTube thumbnail should be 1280 by 720 pixels. Canva has this size ready for you."
+          "explain": "Type the business name in big letters."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a simple logo\"?",
@@ -533,15 +533,15 @@
       "challenge": "Make two designs with the same three colors.",
       "quiz": [
         {
-          "q": "What size should a YouTube thumbnail be?",
+          "q": "How many colors should you save for a brand?",
           "options": [
-            "1280 by 720 pixels",
-            "100 by 100 pixels",
-            "5000 by 5000 pixels",
-            "Any size works the same"
+            "Three",
+            "Ten",
+            "One",
+            "Twenty"
           ],
           "answer": 0,
-          "explain": "A YouTube thumbnail should be 1280 by 720 pixels. Canva has this size ready for you."
+          "explain": "Save three colors for a brand."
         },
         {
           "q": "What is the main goal of today's lesson, \"Your brand colors\"?",
@@ -753,15 +753,15 @@
       "challenge": "Ask a friend to pick the best post in your set.",
       "quiz": [
         {
-          "q": "What size should a YouTube thumbnail be?",
+          "q": "What should the three posts in a set for a business cover?",
           "options": [
-            "1280 by 720 pixels",
-            "100 by 100 pixels",
-            "5000 by 5000 pixels",
-            "Any size works the same"
+            "One about the product, one about the price, one about the shop",
+            "Three posts about the same product",
+            "Three random pictures",
+            "Three posts in different colors and fonts"
           ],
           "answer": 0,
-          "explain": "A YouTube thumbnail should be 1280 by 720 pixels. Canva has this size ready for you."
+          "explain": "Plan three posts: one about the product, one about the price, one about the shop."
         },
         {
           "q": "What is the main goal of today's lesson, \"Design a 3-post set for a business\"?",

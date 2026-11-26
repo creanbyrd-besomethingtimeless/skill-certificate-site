@@ -1,1744 +1,1744 @@
 {
-  "course": {
-    "id": "hair-braiding",
-    "title": "Hair Braiding",
-    "level": "Beginner",
-    "tagline": "Braid neat, lasting styles: cornrows, knotless braids and twists, from parting to finish.",
-    "duration_days": 30
-  },
-  "days": [
+ "course": {
+  "id": "hair-braiding",
+  "title": "Hair Braiding",
+  "level": "Beginner",
+  "tagline": "Braid neat, lasting styles: cornrows, knotless braids and twists, from parting to finish.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Welcome to Braiding",
+   "goal": "By the end of today you can explain and practise: Your kit is a rat-tail comb, clips, braiding hair, gel, spray bottle and a mannequin head.",
+   "video": {
+    "youtube_id": "eS64yozs10U",
+    "title": "How to Do Knotless Braids at Home: Step-by-Step Tutorial",
+    "channel": "Knotless Braids Tutorial"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A rat-tail comb is the key tool for clean, straight partings.",
+    "Your kit is a rat-tail comb, clips, braiding hair, gel, spray bottle and a practice head. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise welcome to braiding on a model or a practice head. Your kit is a rat-tail comb, clips, braiding hair, gel, spray bottle and a practice head. Take a photo of your work.",
+   "challenge": "Do welcome to braiding two times today. Make the second try neater than the first.",
+   "quiz": [
     {
-      "day": 1,
-      "week": 1,
-      "title": "Welcome to Braiding",
-      "goal": "By the end of today you can explain and practise: Your kit is a rat-tail comb, clips, braiding hair, gel, spray bottle and a mannequin head.",
-      "video": {
-        "youtube_id": "eS64yozs10U",
-        "title": "How to Do Knotless Braids at Home: Step-by-Step Tutorial",
-        "channel": "Knotless Braids Tutorial"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A rat-tail comb is the key tool for clean, straight partings.",
-        "Your kit is a rat-tail comb, clips, braiding hair, gel, spray bottle and a practice head. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise welcome to braiding on a model or a practice head. Your kit is a rat-tail comb, clips, braiding hair, gel, spray bottle and a practice head. Take a photo of your work.",
-      "challenge": "Do welcome to braiding two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on welcome to braiding?",
-          "options": [
-            "You should rush through the technique to save time.",
-            "A rat-tail comb is the key tool for clean, straight partings.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
-          ],
-          "answer": 1,
-          "explain": "A rat-tail comb is the key tool for clean, straight partings."
-        },
-        {
-          "q": "Which tool is most essential for welcome to braiding?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "rat-tail comb",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The rat-tail comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on welcome to braiding?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never braid too tightly at the edges"
-          ],
-          "answer": 3,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
+     "q": "Which of these is true about braiding?",
+     "options": [
+      "A rat-tail comb is used only to dry hair.",
+      "A rat-tail comb is the key tool for clean, straight partings.",
+      "Clean partings need no comb at all.",
+      "A rat-tail comb makes partings messy and crooked."
+     ],
+     "answer": 1,
+     "explain": "A rat-tail comb is the key tool for clean, straight partings."
     },
     {
-      "day": 2,
-      "week": 1,
-      "title": "Hair Prep for Braids",
-      "goal": "By the end of today you can explain and practise: Wash, deep condition, detangle and blow-dry the hair before any braiding starts.",
-      "video": {
-        "youtube_id": "oDFfsEkVVdA",
-        "title": "Knotless Braids Tutorial for Beginners",
-        "channel": "Knotless Braid"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Braids last longer when the hair is clean and detangled first.",
-        "Wash, deep condition, detangle and blow-dry the hair before any braiding starts. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise hair prep for braids on a model or a practice head. Wash, deep condition, detangle and blow-dry the hair before any braiding starts. Take a photo of your work.",
-      "challenge": "Do hair prep for braids two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on hair prep for braids?",
-          "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Braids last longer when the hair is clean and detangled first.",
-            "Using dirty tools gives the same result as clean ones."
-          ],
-          "answer": 2,
-          "explain": "Braids last longer when the hair is clean and detangled first."
-        },
-        {
-          "q": "Which tool is most essential for hair prep for braids?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "braiding hair"
-          ],
-          "answer": 3,
-          "explain": "The braiding hair is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on hair prep for braids?",
-          "options": [
-            "check for scalp sensitivity before starting",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 0,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
+     "q": "What do you use to make clean, straight partings?",
+     "options": [
+      "braiding hair",
+      "edge control",
+      "rat-tail comb",
+      "spray bottle"
+     ],
+     "answer": 2,
+     "explain": "A rat-tail comb makes clean, straight partings."
     },
     {
-      "day": 3,
-      "week": 1,
-      "title": "Parting Like a Pro",
-      "goal": "By the end of today you can explain and practise: Use the tail of the comb to draw straight, even lines; neat parts make neat braids.",
-      "video": {
-        "youtube_id": "ZrcKG_UGPxw",
-        "title": "Beginner's Guide to Knotless Braids",
-        "channel": "Knotless Beauty Bar"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Neat, straight parts are the foundation of neat braids.",
-        "Use the tail of the comb to draw straight, even lines; neat parts make neat braids. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise parting like a pro on a model or a practice head. Use the tail of the comb to draw straight, even lines; neat parts make neat braids. Take a photo of your work.",
-      "challenge": "Do parting like a pro two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on parting like a pro?",
-          "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Neat, straight parts are the foundation of neat braids."
-          ],
-          "answer": 3,
-          "explain": "Neat, straight parts are the foundation of neat braids."
-        },
-        {
-          "q": "Which tool is most essential for parting like a pro?",
-          "options": [
-            "edge control",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The edge control is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on parting like a pro?",
-          "options": [
-            "disinfect your clippers between clients",
-            "keep the client's hair moisturised during braiding",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 1,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 4,
-      "week": 1,
-      "title": "The Three-Strand Braid",
-      "goal": "By the end of today you can explain and practise: Cross right over middle, then left over middle, keeping even tension all the way down.",
-      "video": {
-        "youtube_id": "AOSkWaaiYaY",
-        "title": "How to Cornrow for Beginners",
-        "channel": "GlamFam Hair & Beauty"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A three-strand braid crosses side strands over the middle one.",
-        "Cross right over middle, then left over middle, keeping even tension all the way down. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise the three-strand braid on a model or a practice head. Cross right over middle, then left over middle, keeping even tension all the way down. Take a photo of your work.",
-      "challenge": "Do the three-strand braid two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on the three-strand braid?",
-          "options": [
-            "A three-strand braid crosses side strands over the middle one.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
-          ],
-          "answer": 0,
-          "explain": "A three-strand braid crosses side strands over the middle one."
-        },
-        {
-          "q": "Which tool is most essential for the three-strand braid?",
-          "options": [
-            "clipper with guards",
-            "spray bottle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The spray bottle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on the three-strand braid?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never braid too tightly at the edges",
-            "check the client for cuts before starting"
-          ],
-          "answer": 2,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 5,
-      "week": 1,
-      "title": "Two-Strand Twists",
-      "goal": "By the end of today you can explain and practise: Split hair in two and twist each strand, then twist them around each other to the ends.",
-      "video": {
-        "youtube_id": "6jWKUJrpR0Q",
-        "title": "How to Make Cornrows as a Beginner",
-        "channel": "Hairdo Lab"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Two-strand twists are made by twisting two strands around each other.",
-        "Split hair in two and twist each strand, then twist them around each other to the ends. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise two-strand twists on a model or a practice head. Split hair in two and twist each strand, then twist them around each other to the ends. Take a photo of your work.",
-      "challenge": "Do two-strand twists two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on two-strand twists?",
-          "options": [
-            "The client's comfort does not matter during the service.",
-            "Two-strand twists are made by twisting two strands around each other.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
-          ],
-          "answer": 1,
-          "explain": "Two-strand twists are made by twisting two strands around each other."
-        },
-        {
-          "q": "Which tool is most essential for two-strand twists?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "rat-tail comb",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The rat-tail comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on two-strand twists?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "check for scalp sensitivity before starting"
-          ],
-          "answer": 3,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 6,
-      "week": 1,
-      "title": "Cornrows: The Underhand Stitch",
-      "goal": "By the end of today you can explain and practise: Cross strands UNDER the middle while picking up hair, so the braid sits on top of the scalp.",
-      "video": {
-        "youtube_id": "7-4bPXH2dlI",
-        "title": "How to Do Hair for Dads Part 3: Beginners Braiding Tutorial - Cornrow Braid",
-        "channel": "Hair for Dads"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Cornrows use an underhand stitch so the braid sits raised on the scalp.",
-        "Cross strands UNDER the middle while picking up hair, so the braid sits on top of the scalp. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise cornrows: the underhand stitch on a model or a practice head. Cross strands UNDER the middle while picking up hair, so the braid sits on top of the scalp. Take a photo of your work.",
-      "challenge": "Do cornrows: the underhand stitch two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on cornrows: the underhand stitch?",
-          "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Cornrows use an underhand stitch so the braid sits raised on the scalp.",
-            "The best result comes from skipping the preparation step."
-          ],
-          "answer": 2,
-          "explain": "Cornrows use an underhand stitch so the braid sits raised on the scalp."
-        },
-        {
-          "q": "Which tool is most essential for cornrows: the underhand stitch?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "braiding hair"
-          ],
-          "answer": 3,
-          "explain": "The braiding hair is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on cornrows: the underhand stitch?",
-          "options": [
-            "keep the client's hair moisturised during braiding",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 0,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 7,
-      "week": 1,
-      "title": "Straight-Back Cornrows",
-      "goal": "By the end of today you can explain and practise: Part straight rows from front to nape and braid each row evenly to the ends.",
-      "video": {
-        "youtube_id": "PnKNYI7xnOE",
-        "title": "How to Cornrow Hair: A Comprehensive Guide for Beginners",
-        "channel": "The Cognitive Orbit"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Straight-back cornrows run in parallel rows from the front to the back of the neck.",
-        "Part straight rows from the front to the back of the neck and braid each row evenly to the ends. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise straight-back cornrows on a model or a practice head. Part straight rows from the front to the back of the neck and braid each row evenly to the ends. Take a photo of your work.",
-      "challenge": "Do straight-back cornrows two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on straight-back cornrows?",
-          "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Straight-back cornrows run in parallel rows from the front to the back of the neck."
-          ],
-          "answer": 3,
-          "explain": "Straight-back cornrows run in parallel rows from the front to the back of the neck."
-        },
-        {
-          "q": "Which tool is most essential for straight-back cornrows?",
-          "options": [
-            "edge control",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The edge control is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on straight-back cornrows?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never braid too tightly at the edges",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 1,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": {
-        "title": "Week 1 Project: Straight-Back Cornrows",
-        "brief": "Practise everything from week 1: Part straight rows from the front to the back of the neck and braid each row evenly to the ends. Show the finished work and ask for feedback.",
-        "checks": [
-          "Follow the week's steps in order",
-          "Use clean, disinfected tools",
-          "Work slowly and check your work as you go",
-          "Take before-and-after photos",
-          "Ask a friend or model for honest feedback",
-          "Write down what to improve next week"
-        ]
-      }
-    },
-    {
-      "day": 8,
-      "week": 2,
-      "title": "Week 1 Project: Six Straight-Back Cornrows",
-      "goal": "By the end of today you can explain and practise: Braid six even straight-back cornrows on a mannequin head.",
-      "video": {
-        "youtube_id": "spdmhk2najs",
-        "title": "How to Create Jumbo Box Braids",
-        "channel": "BelleTag"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Six even cornrows show straight parts and even tension.",
-        "Braid six even straight-back cornrows on a practice head. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise week 1 project: six straight-back cornrows on a model or a practice head. Braid six even straight-back cornrows on a practice head. Take a photo of your work.",
-      "challenge": "Do week 1 project: six straight-back cornrows two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on week 1 project: six straight-back cornrows?",
-          "options": [
-            "Six even cornrows show straight parts and even tension.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
-          ],
-          "answer": 0,
-          "explain": "Six even cornrows show straight parts and even tension."
-        },
-        {
-          "q": "Which tool is most essential for week 1 project: six straight-back cornrows?",
-          "options": [
-            "clipper with guards",
-            "spray bottle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The spray bottle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on week 1 project: six straight-back cornrows?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check for scalp sensitivity before starting",
-            "check the client for cuts before starting"
-          ],
-          "answer": 2,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 9,
-      "week": 2,
-      "title": "Feeding In Extension Hair",
-      "goal": "By the end of today you can explain and practise: Add small pieces of extension hair gradually so the braid grows thicker without a bump.",
-      "video": {
-        "youtube_id": "wMq4pK827u0",
-        "title": "How to Pull Off Bohemian Box Braids",
-        "channel": "BelleTag"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Feed-in hair is added in small pieces for a smooth, bump-free braid.",
-        "Add small pieces of extension hair gradually so the braid grows thicker without a bump. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise feeding in extension hair on a model or a practice head. Add small pieces of extension hair gradually so the braid grows thicker without a bump. Take a photo of your work.",
-      "challenge": "Do feeding in extension hair two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on feeding in extension hair?",
-          "options": [
-            "You never need to check your work until the very end.",
-            "Feed-in hair is added in small pieces for a smooth, bump-free braid.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
-          ],
-          "answer": 1,
-          "explain": "Feed-in hair is added in small pieces for a smooth, bump-free braid."
-        },
-        {
-          "q": "Which tool is most essential for feeding in extension hair?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "rat-tail comb",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The rat-tail comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on feeding in extension hair?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "keep the client's hair moisturised during braiding"
-          ],
-          "answer": 3,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 10,
-      "week": 2,
-      "title": "Knotless Braids: The Start",
-      "goal": "By the end of today you can explain and practise: Braid the natural hair first for two or three stitches, then feed in extension hair.",
-      "video": {
-        "youtube_id": "KC_c9bs2LxU",
-        "title": "Creating Short Box Braids",
-        "channel": "BelleTag"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Knotless braids start with natural hair only, no knot at the root.",
-        "Braid the natural hair first for two or three stitches, then feed in extension hair. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise knotless braids: the start on a model or a practice head. Braid the natural hair first for two or three stitches, then feed in extension hair. Take a photo of your work.",
-      "challenge": "Do knotless braids: the start two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on knotless braids: the start?",
-          "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Knotless braids start with natural hair only, no knot at the root.",
-            "You should always use the strongest product available."
-          ],
-          "answer": 2,
-          "explain": "Knotless braids start with natural hair only, no knot at the root."
-        },
-        {
-          "q": "Which tool is most essential for knotless braids: the start?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "braiding hair"
-          ],
-          "answer": 3,
-          "explain": "The braiding hair is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on knotless braids: the start?",
-          "options": [
-            "never braid too tightly at the edges",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 0,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 11,
-      "week": 2,
-      "title": "Knotless Braids: Full Head",
-      "goal": "By the end of today you can explain and practise: Work row by row, keep boxes even, and seal the ends in hot water.",
-      "video": {
-        "youtube_id": "4SCsLhGJ2Bk",
-        "title": "Making Two-Toned Box Braids",
-        "channel": "BelleTag"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Knotless braids are sealed by dipping the ends in hot water.",
-        "Work row by row, keep the parts even, and dip the ends in hot water to seal them. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise knotless braids: full head on a model or a practice head. Work row by row, keep the parts even, and dip the ends in hot water to seal them. Take a photo of your work.",
-      "challenge": "Do knotless braids: full head two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on knotless braids: full head?",
-          "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Knotless braids are sealed by dipping the ends in hot water."
-          ],
-          "answer": 3,
-          "explain": "Knotless braids are sealed by dipping the ends in hot water."
-        },
-        {
-          "q": "Which tool is most essential for knotless braids: full head?",
-          "options": [
-            "edge control",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The edge control is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on knotless braids: full head?",
-          "options": [
-            "disinfect your clippers between clients",
-            "check for scalp sensitivity before starting",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 1,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 12,
-      "week": 2,
-      "title": "Box Braids with a Knot",
-      "goal": "By the end of today you can explain and practise: Anchor the extension with a small knot at the root, then braid down in three strands.",
-      "video": {
-        "youtube_id": "m011FD1vs9M",
-        "title": "How to Do Box Braids in 6 Easy Steps",
-        "channel": "Hair.com by L'Oreal"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Classic box braids start with a knot that anchors the extension.",
-        "Anchor the extension with a small knot at the root, then braid down in three strands. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise box braids with a knot on a model or a practice head. Anchor the extension with a small knot at the root, then braid down in three strands. Take a photo of your work.",
-      "challenge": "Do box braids with a knot two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on box braids with a knot?",
-          "options": [
-            "Classic box braids start with a knot that anchors the extension.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
-          ],
-          "answer": 0,
-          "explain": "Classic box braids start with a knot that anchors the extension."
-        },
-        {
-          "q": "Which tool is most essential for box braids with a knot?",
-          "options": [
-            "clipper with guards",
-            "spray bottle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The spray bottle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on box braids with a knot?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "keep the client's hair moisturised during braiding",
-            "check the client for cuts before starting"
-          ],
-          "answer": 2,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 13,
-      "week": 2,
-      "title": "Boho and Curly Ends",
-      "goal": "By the end of today you can explain and practise: Leave curly ends out of the braid and curl them with a rod for a boho finish.",
-      "video": {
-        "youtube_id": "JyySpsWTr-8",
-        "title": "Beautiful Box Braids: Easy DIY Tutorial",
-        "channel": "Ogle School"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Boho braids leave curly ends loose for a soft finish.",
-        "Leave curly ends out of the braid and curl them with a rod for a boho finish. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise boho and curly ends on a model or a practice head. Leave curly ends out of the braid and curl them with a rod for a boho finish. Take a photo of your work.",
-      "challenge": "Do boho and curly ends two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on boho and curly ends?",
-          "options": [
-            "You should rush through the technique to save time.",
-            "Boho braids leave curly ends loose for a soft finish.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
-          ],
-          "answer": 1,
-          "explain": "Boho braids leave curly ends loose for a soft finish."
-        },
-        {
-          "q": "Which tool is most essential for boho and curly ends?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "rat-tail comb",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The rat-tail comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on boho and curly ends?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never braid too tightly at the edges"
-          ],
-          "answer": 3,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 14,
-      "week": 2,
-      "title": "Jumbo Braids",
-      "goal": "By the end of today you can explain and practise: Use large sections and thick bundles for fast, chunky braids.",
-      "video": {
-        "youtube_id": "h7spCXYLndY",
-        "title": "How to Do Box Braids Step by Step",
-        "channel": "StyleCraze"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Jumbo braids use large sections for a chunky look.",
-        "Use large sections and thick bundles for fast, chunky braids. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise jumbo braids on a model or a practice head. Use large sections and thick bundles for fast, chunky braids. Take a photo of your work.",
-      "challenge": "Do jumbo braids two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on jumbo braids?",
-          "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Jumbo braids use large sections for a chunky look.",
-            "Using dirty tools gives the same result as clean ones."
-          ],
-          "answer": 2,
-          "explain": "Jumbo braids use large sections for a chunky look."
-        },
-        {
-          "q": "Which tool is most essential for jumbo braids?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "braiding hair"
-          ],
-          "answer": 3,
-          "explain": "The braiding hair is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on jumbo braids?",
-          "options": [
-            "check for scalp sensitivity before starting",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 0,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": {
-        "title": "Week 2 Project: Jumbo Braids",
-        "brief": "Practise everything from week 2: Use large sections and thick bundles for fast, chunky braids. Show the finished work and ask for feedback.",
-        "checks": [
-          "Follow the week's steps in order",
-          "Use clean, disinfected tools",
-          "Work slowly and check your work as you go",
-          "Take before-and-after photos",
-          "Ask a friend or model for honest feedback",
-          "Write down what to improve next week"
-        ]
-      }
-    },
-    {
-      "day": 15,
-      "week": 3,
-      "title": "Week 2 Project: Knotless Bob Braids",
-      "goal": "By the end of today you can explain and practise: Install a full head of shoulder-length knotless braids.",
-      "video": {
-        "youtube_id": "_l8Z0j-zcxE",
-        "title": "Easy Box Braids Tutorial: Master Every Step",
-        "channel": "StyleCraze"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A knotless bob is even, neat and shoulder length.",
-        "Install a full head of shoulder-length knotless braids. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise week 2 project: knotless bob braids on a model or a practice head. Install a full head of shoulder-length knotless braids. Take a photo of your work.",
-      "challenge": "Do week 2 project: knotless bob braids two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on week 2 project: knotless bob braids?",
-          "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A knotless bob is even, neat and shoulder length."
-          ],
-          "answer": 3,
-          "explain": "A knotless bob is even, neat and shoulder length."
-        },
-        {
-          "q": "Which tool is most essential for week 2 project: knotless bob braids?",
-          "options": [
-            "edge control",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The edge control is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on week 2 project: knotless bob braids?",
-          "options": [
-            "disinfect your clippers between clients",
-            "keep the client's hair moisturised during braiding",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 1,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 16,
-      "week": 3,
-      "title": "Feed-In Cornrows",
-      "goal": "By the end of today you can explain and practise: Feed extension hair into cornrows for length and a fuller, raised look.",
-      "video": {
-        "youtube_id": "Fl_cui1MhoA",
-        "title": "How to Do Box Braids: A Detailed Guide",
-        "channel": "Hermosa Hair"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Feed-in cornrows add length and fullness to cornrows.",
-        "Feed extension hair into cornrows for length and a fuller, raised look. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise feed-in cornrows on a model or a practice head. Feed extension hair into cornrows for length and a fuller, raised look. Take a photo of your work.",
-      "challenge": "Do feed-in cornrows two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on feed-in cornrows?",
-          "options": [
-            "Feed-in cornrows add length and fullness to cornrows.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
-          ],
-          "answer": 0,
-          "explain": "Feed-in cornrows add length and fullness to cornrows."
-        },
-        {
-          "q": "Which tool is most essential for feed-in cornrows?",
-          "options": [
-            "clipper with guards",
-            "spray bottle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The spray bottle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on feed-in cornrows?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never braid too tightly at the edges",
-            "check the client for cuts before starting"
-          ],
-          "answer": 2,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 17,
-      "week": 3,
-      "title": "Stitch Braids",
-      "goal": "By the end of today you can explain and practise: Use the pinky to feed hair in tiny, even stitches for a clean stitched look.",
-      "video": {
-        "youtube_id": "eS64yozs10U",
-        "title": "How to Do Knotless Braids at Home: Step-by-Step Tutorial",
-        "channel": "Knotless Braids Tutorial"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Stitch braids use tiny, even feed-in stitches.",
-        "Use your little finger to feed hair in tiny, even stitches for a clean stitched look. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise stitch braids on a model or a practice head. Use your little finger to feed hair in tiny, even stitches for a clean stitched look. Take a photo of your work.",
-      "challenge": "Do stitch braids two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on stitch braids?",
-          "options": [
-            "The client's comfort does not matter during the service.",
-            "Stitch braids use tiny, even feed-in stitches.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
-          ],
-          "answer": 1,
-          "explain": "Stitch braids use tiny, even feed-in stitches."
-        },
-        {
-          "q": "Which tool is most essential for stitch braids?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "rat-tail comb",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The rat-tail comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on stitch braids?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "check for scalp sensitivity before starting"
-          ],
-          "answer": 3,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 18,
-      "week": 3,
-      "title": "Goddess and Boho Cornrows",
-      "goal": "By the end of today you can explain and practise: Add curly pieces along the cornrows for a soft goddess effect.",
-      "video": {
-        "youtube_id": "oDFfsEkVVdA",
-        "title": "Knotless Braids Tutorial for Beginners",
-        "channel": "Knotless Braid"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Goddess braids mix curly pieces into cornrows.",
-        "Add curly pieces along the cornrows for a soft goddess effect. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise goddess and boho cornrows on a model or a practice head. Add curly pieces along the cornrows for a soft goddess effect. Take a photo of your work.",
-      "challenge": "Do goddess and boho cornrows two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on goddess and boho cornrows?",
-          "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Goddess braids mix curly pieces into cornrows.",
-            "The best result comes from skipping the preparation step."
-          ],
-          "answer": 2,
-          "explain": "Goddess braids mix curly pieces into cornrows."
-        },
-        {
-          "q": "Which tool is most essential for goddess and boho cornrows?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "braiding hair"
-          ],
-          "answer": 3,
-          "explain": "The braiding hair is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on goddess and boho cornrows?",
-          "options": [
-            "keep the client's hair moisturised during braiding",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 0,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 19,
-      "week": 3,
-      "title": "Braided Ponytails",
-      "goal": "By the end of today you can explain and practise: Gather braids into a high ponytail, wrap a braid around the base, and secure.",
-      "video": {
-        "youtube_id": "ZrcKG_UGPxw",
-        "title": "Beginner's Guide to Knotless Braids",
-        "channel": "Knotless Beauty Bar"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A braided ponytail is secured by wrapping a braid around its base.",
-        "Gather braids into a high ponytail, wrap a braid around the base, and secure. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise braided ponytails on a model or a practice head. Gather braids into a high ponytail, wrap a braid around the base, and secure. Take a photo of your work.",
-      "challenge": "Do braided ponytails two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on braided ponytails?",
-          "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A braided ponytail is secured by wrapping a braid around its base."
-          ],
-          "answer": 3,
-          "explain": "A braided ponytail is secured by wrapping a braid around its base."
-        },
-        {
-          "q": "Which tool is most essential for braided ponytails?",
-          "options": [
-            "edge control",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The edge control is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on braided ponytails?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never braid too tightly at the edges",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 1,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 20,
-      "week": 3,
-      "title": "Edges and Baby Hairs",
-      "goal": "By the end of today you can explain and practise: Use edge control and a small brush to swoop baby hairs into soft waves.",
-      "video": {
-        "youtube_id": "AOSkWaaiYaY",
-        "title": "How to Cornrow for Beginners",
-        "channel": "GlamFam Hair & Beauty"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Edge control and a small brush shape baby hairs.",
-        "Use a smoothing gel and a small brush to swoop baby hairs into soft waves. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise edges and baby hairs on a model or a practice head. Use a smoothing gel and a small brush to swoop baby hairs into soft waves. Take a photo of your work.",
-      "challenge": "Do edges and baby hairs two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on edges and baby hairs?",
-          "options": [
-            "Edge control and a small brush shape baby hairs.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
-          ],
-          "answer": 0,
-          "explain": "Edge control and a small brush shape baby hairs."
-        },
-        {
-          "q": "Which tool is most essential for edges and baby hairs?",
-          "options": [
-            "clipper with guards",
-            "spray bottle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The spray bottle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on edges and baby hairs?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check for scalp sensitivity before starting",
-            "check the client for cuts before starting"
-          ],
-          "answer": 2,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 21,
-      "week": 3,
-      "title": "Week 3 Project: Stitch Braids with a Design",
-      "goal": "By the end of today you can explain and practise: Create stitch braids in a curved or zigzag pattern.",
-      "video": {
-        "youtube_id": "6jWKUJrpR0Q",
-        "title": "How to Make Cornrows as a Beginner",
-        "channel": "Hairdo Lab"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A designed stitch braid pattern shows clean, curved partings.",
-        "Create stitch braids in a curved or zigzag pattern. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise week 3 project: stitch braids with a design on a model or a practice head. Create stitch braids in a curved or zigzag pattern. Take a photo of your work.",
-      "challenge": "Do week 3 project: stitch braids with a design two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on week 3 project: stitch braids with a design?",
-          "options": [
-            "You never need to check your work until the very end.",
-            "A designed stitch braid pattern shows clean, curved partings.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
-          ],
-          "answer": 1,
-          "explain": "A designed stitch braid pattern shows clean, curved partings."
-        },
-        {
-          "q": "Which tool is most essential for week 3 project: stitch braids with a design?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "rat-tail comb",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The rat-tail comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on week 3 project: stitch braids with a design?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "keep the client's hair moisturised during braiding"
-          ],
-          "answer": 3,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": {
-        "title": "Week 3 Project: Week 3 Project: Stitch Braids with a Design",
-        "brief": "Practise everything from week 3: Create stitch braids in a curved or zigzag pattern. Show the finished work and ask for feedback.",
-        "checks": [
-          "Follow the week's steps in order",
-          "Use clean, disinfected tools",
-          "Work slowly and check your work as you go",
-          "Take before-and-after photos",
-          "Ask a friend or model for honest feedback",
-          "Write down what to improve next week"
-        ]
-      }
-    },
-    {
-      "day": 22,
-      "week": 4,
-      "title": "Braid Care and Maintenance",
-      "goal": "By the end of today you can explain and practise: Teach clients to oil the scalp, wear a bonnet at night, and wash braids gently.",
-      "video": {
-        "youtube_id": "7-4bPXH2dlI",
-        "title": "How to Do Hair for Dads Part 3: Beginners Braiding Tutorial - Cornrow Braid",
-        "channel": "Hair for Dads"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A satin bonnet at night protects braids from frizz.",
-        "Teach clients to oil the scalp, wear a bonnet at night, and wash braids gently. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise braid care and maintenance on a model or a practice head. Teach clients to oil the scalp, wear a bonnet at night, and wash braids gently. Take a photo of your work.",
-      "challenge": "Do braid care and maintenance two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on braid care and maintenance?",
-          "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A satin bonnet at night protects braids from frizz.",
-            "You should always use the strongest product available."
-          ],
-          "answer": 2,
-          "explain": "A satin bonnet at night protects braids from frizz."
-        },
-        {
-          "q": "Which tool is most essential for braid care and maintenance?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "braiding hair"
-          ],
-          "answer": 3,
-          "explain": "The braiding hair is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on braid care and maintenance?",
-          "options": [
-            "never braid too tightly at the edges",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 0,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 23,
-      "week": 4,
-      "title": "Removing Braids Safely",
-      "goal": "By the end of today you can explain and practise: Cut the extension below the natural hair, unravel gently, and detangle before washing.",
-      "video": {
-        "youtube_id": "PnKNYI7xnOE",
-        "title": "How to Cornrow Hair: A Comprehensive Guide for Beginners",
-        "channel": "The Cognitive Orbit"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Never pull braids out; cut the extension first, then unravel.",
-        "Cut the extension below the natural hair, unravel gently, and detangle before washing. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise removing braids safely on a model or a practice head. Cut the extension below the natural hair, unravel gently, and detangle before washing. Take a photo of your work.",
-      "challenge": "Do removing braids safely two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on removing braids safely?",
-          "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Never pull braids out; cut the extension first, then unravel."
-          ],
-          "answer": 3,
-          "explain": "Never pull braids out; cut the extension first, then unravel."
-        },
-        {
-          "q": "Which tool is most essential for removing braids safely?",
-          "options": [
-            "edge control",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The edge control is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on removing braids safely?",
-          "options": [
-            "disinfect your clippers between clients",
-            "check for scalp sensitivity before starting",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 1,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 24,
-      "week": 4,
-      "title": "Braid Sizes and Timing",
-      "goal": "By the end of today you can explain and practise: Small braids take longer and last longer; price by size and time.",
-      "video": {
-        "youtube_id": "spdmhk2najs",
-        "title": "How to Create Jumbo Box Braids",
-        "channel": "BelleTag"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Smaller braids take more time and last longer.",
-        "Small braids take longer and last longer; price by size and time. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise braid sizes and timing on a model or a practice head. Small braids take longer and last longer; price by size and time. Take a photo of your work.",
-      "challenge": "Do braid sizes and timing two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on braid sizes and timing?",
-          "options": [
-            "Smaller braids take more time and last longer.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
-          ],
-          "answer": 0,
-          "explain": "Smaller braids take more time and last longer."
-        },
-        {
-          "q": "Which tool is most essential for braid sizes and timing?",
-          "options": [
-            "clipper with guards",
-            "spray bottle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The spray bottle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on braid sizes and timing?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "keep the client's hair moisturised during braiding",
-            "check the client for cuts before starting"
-          ],
-          "answer": 2,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 25,
-      "week": 4,
-      "title": "Colour and Ombre Braids",
-      "goal": "By the end of today you can explain and practise: Mix two colours of braiding hair for an ombre effect.",
-      "video": {
-        "youtube_id": "wMq4pK827u0",
-        "title": "How to Pull Off Bohemian Box Braids",
-        "channel": "BelleTag"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Ombre braids blend two colours from dark to light.",
-        "Mix two colours of braiding hair for an ombre effect. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise colour and ombre braids on a model or a practice head. Mix two colours of braiding hair for an ombre effect. Take a photo of your work.",
-      "challenge": "Do colour and ombre braids two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on colour and ombre braids?",
-          "options": [
-            "You should rush through the technique to save time.",
-            "Ombre braids blend two colours from dark to light.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
-          ],
-          "answer": 1,
-          "explain": "Ombre braids blend two colours from dark to light."
-        },
-        {
-          "q": "Which tool is most essential for colour and ombre braids?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "rat-tail comb",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The rat-tail comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on colour and ombre braids?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never braid too tightly at the edges"
-          ],
-          "answer": 3,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 26,
-      "week": 4,
-      "title": "Client Consultation for Braids",
-      "goal": "By the end of today you can explain and practise: Ask about allergies, scalp sensitivity, desired length and how long they will keep the style.",
-      "video": {
-        "youtube_id": "KC_c9bs2LxU",
-        "title": "Creating Short Box Braids",
-        "channel": "BelleTag"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A braid consultation checks allergies and scalp sensitivity.",
-        "Ask about allergies, scalp sensitivity, desired length and how long they will keep the style. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise client consultation for braids on a model or a practice head. Ask about allergies, scalp sensitivity, desired length and how long they will keep the style. Take a photo of your work.",
-      "challenge": "Do client consultation for braids two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on client consultation for braids?",
-          "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A braid consultation checks allergies and scalp sensitivity.",
-            "Using dirty tools gives the same result as clean ones."
-          ],
-          "answer": 2,
-          "explain": "A braid consultation checks allergies and scalp sensitivity."
-        },
-        {
-          "q": "Which tool is most essential for client consultation for braids?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "braiding hair"
-          ],
-          "answer": 3,
-          "explain": "The braiding hair is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on client consultation for braids?",
-          "options": [
-            "check for scalp sensitivity before starting",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 0,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 27,
-      "week": 4,
-      "title": "Pricing Braids",
-      "goal": "By the end of today you can explain and practise: Charge by style, size and length, and take a deposit before booking.",
-      "video": {
-        "youtube_id": "4SCsLhGJ2Bk",
-        "title": "Making Two-Toned Box Braids",
-        "channel": "BelleTag"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A deposit secures a braiding appointment.",
-        "Charge by style, size and length, and take a deposit before booking. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise pricing braids on a model or a practice head. Charge by style, size and length, and take a deposit before booking. Take a photo of your work.",
-      "challenge": "Do pricing braids two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on pricing braids?",
-          "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A deposit secures a braiding appointment."
-          ],
-          "answer": 3,
-          "explain": "A deposit secures a braiding appointment."
-        },
-        {
-          "q": "Which tool is most essential for pricing braids?",
-          "options": [
-            "edge control",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The edge control is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on pricing braids?",
-          "options": [
-            "disinfect your clippers between clients",
-            "keep the client's hair moisturised during braiding",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 1,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 28,
-      "week": 4,
-      "title": "Braiding Business Basics",
-      "goal": "By the end of today you can explain and practise: Keep a photo portfolio, post finished styles, and ask happy clients for referrals.",
-      "video": {
-        "youtube_id": "m011FD1vs9M",
-        "title": "How to Do Box Braids in 6 Easy Steps",
-        "channel": "Hair.com by L'Oreal"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A photo portfolio brings in new braiding clients.",
-        "Keep a photo portfolio, post finished styles, and ask happy clients for referrals. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise braiding business basics on a model or a practice head. Keep a photo portfolio, post finished styles, and ask happy clients for referrals. Take a photo of your work.",
-      "challenge": "Do braiding business basics two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on braiding business basics?",
-          "options": [
-            "A photo portfolio brings in new braiding clients.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
-          ],
-          "answer": 0,
-          "explain": "A photo portfolio brings in new braiding clients."
-        },
-        {
-          "q": "Which tool is most essential for braiding business basics?",
-          "options": [
-            "clipper with guards",
-            "spray bottle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The spray bottle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on braiding business basics?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never braid too tightly at the edges",
-            "check the client for cuts before starting"
-          ],
-          "answer": 2,
-          "explain": "Never braid too tightly at the edges."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 29,
-      "week": 5,
-      "title": "Aftercare Advice",
-      "goal": "By the end of today you can explain and practise: Give the client a written aftercare card: oil, bonnet, no heavy pulling.",
-      "video": {
-        "youtube_id": "JyySpsWTr-8",
-        "title": "Beautiful Box Braids: Easy DIY Tutorial",
-        "channel": "Ogle School"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: Written aftercare helps braids last and protects the hair.",
-        "Give the client a written aftercare card: oil, bonnet, no heavy pulling. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise aftercare advice on a model or a practice head. Give the client a written aftercare card: oil, bonnet, no heavy pulling. Take a photo of your work.",
-      "challenge": "Do aftercare advice two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on aftercare advice?",
-          "options": [
-            "The client's comfort does not matter during the service.",
-            "Written aftercare helps braids last and protects the hair.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
-          ],
-          "answer": 1,
-          "explain": "Written aftercare helps braids last and protects the hair."
-        },
-        {
-          "q": "Which tool is most essential for aftercare advice?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "rat-tail comb",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The rat-tail comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on aftercare advice?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "check for scalp sensitivity before starting"
-          ],
-          "answer": 3,
-          "explain": "You should always check for scalp sensitivity before starting."
-        }
-      ],
-      "project": null
-    },
-    {
-      "day": 30,
-      "week": 5,
-      "title": "Capstone Week: A Full Braided Style",
-      "goal": "By the end of today you can explain and practise: Install a full braided style on a real client, from prep to edges and photos.",
-      "video": {
-        "youtube_id": "h7spCXYLndY",
-        "title": "How to Do Box Braids Step by Step",
-        "channel": "StyleCraze"
-      },
-      "steps": [
-        "Get your tools ready: rat-tail comb, braiding hair and edge control.",
-        "Watch the video. It explains the main point in simple steps: A capstone braided style covers prep, install, edges and photos.",
-        "Install a full braided style on a real client, from prep to edges and photos. Go slowly. Practise on a model or a practice head.",
-        "Do the same move three times. Check your work in a mirror or a photo after each try.",
-        "Write down what went well, what was hard, and one thing to do better tomorrow."
-      ],
-      "task": "Practise capstone week: a full braided style on a model or a practice head. Install a full braided style on a real client, from prep to edges and photos. Take a photo of your work.",
-      "challenge": "Do capstone week: a full braided style two times today. Make the second try neater than the first.",
-      "quiz": [
-        {
-          "q": "What is the key point of today's lesson on capstone week: a full braided style?",
-          "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A capstone braided style covers prep, install, edges and photos.",
-            "The best result comes from skipping the preparation step."
-          ],
-          "answer": 2,
-          "explain": "A capstone braided style covers prep, install, edges and photos."
-        },
-        {
-          "q": "Which tool is most essential for capstone week: a full braided style?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "braiding hair"
-          ],
-          "answer": 3,
-          "explain": "The braiding hair is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on capstone week: a full braided style?",
-          "options": [
-            "keep the client's hair moisturised during braiding",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 0,
-          "explain": "You should always keep the client's hair moisturised during braiding."
-        }
-      ],
-      "project": null
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid the edges as tightly as you can",
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid",
+      "never braid too tightly at the edges"
+     ],
+     "answer": 3,
+     "explain": "Never braid too tightly at the edges."
     }
-  ],
-  "capstone": {
-    "title": "A Full Braided Style",
-    "brief": "Install a complete braided style on a real client, from hair prep to edges, with photos and aftercare advice.",
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Hair Prep for Braids",
+   "goal": "By the end of today you can explain and practise: Wash, deep condition, detangle and blow-dry the hair before any braiding starts.",
+   "video": {
+    "youtube_id": "oDFfsEkVVdA",
+    "title": "Knotless Braids Tutorial for Beginners",
+    "channel": "Knotless Braid"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Braids last longer when the hair is clean and detangled first.",
+    "Wash, deep condition, detangle and blow-dry the hair before any braiding starts. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise hair prep for braids on a model or a practice head. Wash, deep condition, detangle and blow-dry the hair before any braiding starts. Take a photo of your work.",
+   "challenge": "Do hair prep for braids two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about hair prep for braids?",
+     "options": [
+      "Braids last longer on dirty, tangled hair.",
+      "Washing hair first makes braids fall out faster.",
+      "Braids last longer when the hair is clean and detangled first.",
+      "Detangling before braiding weakens the braids."
+     ],
+     "answer": 2,
+     "explain": "Braids last longer when the hair is clean and detangled first."
+    },
+    {
+     "q": "What do you add to make braids longer and fuller?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 3,
+     "explain": "Braiding hair makes braids longer and fuller."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "check for scalp sensitivity before starting",
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid",
+      "pull hard on the hair to make it neat"
+     ],
+     "answer": 0,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Parting Like a Pro",
+   "goal": "By the end of today you can explain and practise: Use the tail of the comb to draw straight, even lines; neat parts make neat braids.",
+   "video": {
+    "youtube_id": "ZrcKG_UGPxw",
+    "title": "Beginner's Guide to Knotless Braids",
+    "channel": "Knotless Beauty Bar"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Neat, straight parts are the foundation of neat braids.",
+    "Use the tail of the comb to draw straight, even lines; neat parts make neat braids. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise parting like a pro on a model or a practice head. Use the tail of the comb to draw straight, even lines; neat parts make neat braids. Take a photo of your work.",
+   "challenge": "Do parting like a pro two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about parting like a pro?",
+     "options": [
+      "Crooked parts make the neatest braids.",
+      "Parts do not matter for neat braids.",
+      "Neat braids start with messy, uneven parts.",
+      "Neat, straight parts are the foundation of neat braids."
+     ],
+     "answer": 3,
+     "explain": "Neat, straight parts are the foundation of neat braids."
+    },
+    {
+     "q": "What do you use to smooth the edges and baby hairs?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 0,
+     "explain": "Edge control smooths the edges and baby hairs."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "let the hair dry out while you braid",
+      "keep the client's hair moisturised during braiding",
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin"
+     ],
+     "answer": 1,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "The Three-Strand Braid",
+   "goal": "By the end of today you can explain and practise: Cross right over middle, then left over middle, keeping even tension all the way down.",
+   "video": {
+    "youtube_id": "AOSkWaaiYaY",
+    "title": "How to Cornrow for Beginners",
+    "channel": "GlamFam Hair & Beauty"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A three-strand braid crosses side strands over the middle one.",
+    "Cross right over middle, then left over middle, keeping even tension all the way down. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise the three-strand braid on a model or a practice head. Cross right over middle, then left over middle, keeping even tension all the way down. Take a photo of your work.",
+   "challenge": "Do the three-strand braid two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about the three-strand braid?",
+     "options": [
+      "A three-strand braid crosses side strands over the middle one.",
+      "A three-strand braid crosses the middle strand over the sides.",
+      "A three-strand braid uses only two strands.",
+      "A three-strand braid never crosses any strands."
+     ],
+     "answer": 0,
+     "explain": "A three-strand braid crosses side strands over the middle one."
+    },
+    {
+     "q": "What do you use to keep the hair damp while you braid?",
+     "options": [
+      "rat-tail comb",
+      "spray bottle",
+      "braiding hair",
+      "edge control"
+     ],
+     "answer": 1,
+     "explain": "A spray bottle keeps the hair damp while you braid."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin",
+      "never braid too tightly at the edges",
+      "use dirty tools on the client's hair"
+     ],
+     "answer": 2,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Two-Strand Twists",
+   "goal": "By the end of today you can explain and practise: Split hair in two and twist each strand, then twist them around each other to the ends.",
+   "video": {
+    "youtube_id": "6jWKUJrpR0Q",
+    "title": "How to Make Cornrows as a Beginner",
+    "channel": "Hairdo Lab"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Two-strand twists are made by twisting two strands around each other.",
+    "Split hair in two and twist each strand, then twist them around each other to the ends. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise two-strand twists on a model or a practice head. Split hair in two and twist each strand, then twist them around each other to the ends. Take a photo of your work.",
+   "challenge": "Do two-strand twists two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about two-strand twists?",
+     "options": [
+      "Two-strand twists are made with three strands.",
+      "Two-strand twists are made by twisting two strands around each other.",
+      "Two-strand twists use no twisting at all.",
+      "Two-strand twists are made by plaiting five strands."
+     ],
+     "answer": 1,
+     "explain": "Two-strand twists are made by twisting two strands around each other."
+    },
+    {
+     "q": "What do you use to make clean, straight partings?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 2,
+     "explain": "A rat-tail comb makes clean, straight partings."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid over sore or damaged skin",
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can",
+      "check for scalp sensitivity before starting"
+     ],
+     "answer": 3,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Cornrows: The Underhand Stitch",
+   "goal": "By the end of today you can explain and practise: Cross strands UNDER the middle while picking up hair, so the braid sits on top of the scalp.",
+   "video": {
+    "youtube_id": "7-4bPXH2dlI",
+    "title": "How to Do Hair for Dads Part 3: Beginners Braiding Tutorial - Cornrow Braid",
+    "channel": "Hair for Dads"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Cornrows use an underhand stitch so the braid sits raised on the scalp.",
+    "Cross strands UNDER the middle while picking up hair, so the braid sits on top of the scalp. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise cornrows: the underhand stitch on a model or a practice head. Cross strands UNDER the middle while picking up hair, so the braid sits on top of the scalp. Take a photo of your work.",
+   "challenge": "Do cornrows: the underhand stitch two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about cornrows?",
+     "options": [
+      "Cornrows use an overhand stitch so the braid sits flat.",
+      "Cornrows sit under the scalp, not on top of it.",
+      "Cornrows use an underhand stitch so the braid sits raised on the scalp.",
+      "Cornrows use no stitch at all."
+     ],
+     "answer": 2,
+     "explain": "Cornrows use an underhand stitch so the braid sits raised on the scalp."
+    },
+    {
+     "q": "What do you add to make braids longer and fuller?",
+     "options": [
+      "spray bottle",
+      "rat-tail comb",
+      "edge control",
+      "braiding hair"
+     ],
+     "answer": 3,
+     "explain": "Braiding hair makes braids longer and fuller."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "keep the client's hair moisturised during braiding",
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can",
+      "start braiding without checking the scalp"
+     ],
+     "answer": 0,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Straight-Back Cornrows",
+   "goal": "By the end of today you can explain and practise: Part straight rows from front to nape and braid each row evenly to the ends.",
+   "video": {
+    "youtube_id": "AOSkWaaiYaY",
+    "title": "How to Cornrow for Beginners",
+    "channel": "GlamFam Hair & Beauty"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Straight-back cornrows run in parallel rows from the front to the back of the neck.",
+    "Part straight rows from the front to the back of the neck and braid each row evenly to the ends. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise straight-back cornrows on a model or a practice head. Part straight rows from the front to the back of the neck and braid each row evenly to the ends. Take a photo of your work.",
+   "challenge": "Do straight-back cornrows two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about straight-back cornrows?",
+     "options": [
+      "Straight-back cornrows run in circles around the head.",
+      "Straight-back cornrows run from the back to the front only.",
+      "Straight-back cornrows cross over each other in the middle.",
+      "Straight-back cornrows run in parallel rows from the front to the back of the neck."
+     ],
+     "answer": 3,
+     "explain": "Straight-back cornrows run in parallel rows from the front to the back of the neck."
+    },
+    {
+     "q": "What do you use to smooth the edges and baby hairs?",
+     "options": [
+      "edge control",
+      "rat-tail comb",
+      "braiding hair",
+      "spray bottle"
+     ],
+     "answer": 0,
+     "explain": "Edge control smooths the edges and baby hairs."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid the edges as tightly as you can",
+      "never braid too tightly at the edges",
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid"
+     ],
+     "answer": 1,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": {
+    "title": "Week 1 Project: Straight-Back Cornrows",
+    "brief": "Practise everything from week 1: Part straight rows from the front to the back of the neck and braid each row evenly to the ends. Show the finished work and ask for feedback.",
     "checks": [
-      "Prep the hair: wash, condition and detangle",
-      "Part the hair neatly and evenly",
-      "Install the braids with even tension",
-      "Finish the ends and edges neatly",
-      "Take photos from four angles",
-      "Give written aftercare advice",
-      "Collect client feedback"
-    ],
-    "deliverables": [
-      "A consultation record",
-      "Photos of the finished braids",
-      "A close-up of the partings",
-      "A written aftercare card",
-      "A price list for braid styles"
+     "Follow the week's steps in order",
+     "Use clean, disinfected tools",
+     "Work slowly and check your work as you go",
+     "Take before-and-after photos",
+     "Ask a friend or model for honest feedback",
+     "Write down what to improve next week"
     ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Week 1 Project: Six Straight-Back Cornrows",
+   "goal": "By the end of today you can explain and practise: Braid six even straight-back cornrows on a mannequin head.",
+   "video": {
+    "youtube_id": "spdmhk2najs",
+    "title": "How to Create Jumbo Box Braids",
+    "channel": "BelleTag"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Six even cornrows show straight parts and even tension.",
+    "Braid six even straight-back cornrows on a practice head. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise week 1 project: six straight-back cornrows on a model or a practice head. Braid six even straight-back cornrows on a practice head. Take a photo of your work.",
+   "challenge": "Do week 1 project: six straight-back cornrows two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about six straight-back cornrows?",
+     "options": [
+      "Six even cornrows show straight parts and even tension.",
+      "Six even cornrows show crooked parts and loose tension.",
+      "Even cornrows need uneven tension to look right.",
+      "Six cornrows are judged by messy parts."
+     ],
+     "answer": 0,
+     "explain": "Six even cornrows show straight parts and even tension."
+    },
+    {
+     "q": "What do you use to keep the hair damp while you braid?",
+     "options": [
+      "braiding hair",
+      "spray bottle",
+      "edge control",
+      "rat-tail comb"
+     ],
+     "answer": 1,
+     "explain": "A spray bottle keeps the hair damp while you braid."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid",
+      "check for scalp sensitivity before starting",
+      "pull hard on the hair to make it neat"
+     ],
+     "answer": 2,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Feeding In Extension Hair",
+   "goal": "By the end of today you can explain and practise: Add small pieces of extension hair gradually so the braid grows thicker without a bump.",
+   "video": {
+    "youtube_id": "wMq4pK827u0",
+    "title": "How to Pull Off Bohemian Box Braids",
+    "channel": "BelleTag"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Feed-in hair is added in small pieces for a smooth, bump-free braid.",
+    "Add small pieces of extension hair gradually so the braid grows thicker without a bump. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise feeding in extension hair on a model or a practice head. Add small pieces of extension hair gradually so the braid grows thicker without a bump. Take a photo of your work.",
+   "challenge": "Do feeding in extension hair two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about feeding in extension hair?",
+     "options": [
+      "Feed-in hair is added in one big chunk for a smooth braid.",
+      "Feed-in hair is added in small pieces for a smooth, bump-free braid.",
+      "Adding hair in small pieces causes big bumps.",
+      "Feed-in hair is never added to a braid."
+     ],
+     "answer": 1,
+     "explain": "Feed-in hair is added in small pieces for a smooth, bump-free braid."
+    },
+    {
+     "q": "What do you use to make clean, straight partings?",
+     "options": [
+      "spray bottle",
+      "braiding hair",
+      "rat-tail comb",
+      "edge control"
+     ],
+     "answer": 2,
+     "explain": "A rat-tail comb makes clean, straight partings."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "let the hair dry out while you braid",
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin",
+      "keep the client's hair moisturised during braiding"
+     ],
+     "answer": 3,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Knotless Braids: The Start",
+   "goal": "By the end of today you can explain and practise: Braid the natural hair first for two or three stitches, then feed in extension hair.",
+   "video": {
+    "youtube_id": "KC_c9bs2LxU",
+    "title": "Creating Short Box Braids",
+    "channel": "BelleTag"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Knotless braids start with natural hair only, no knot at the root.",
+    "Braid the natural hair first for two or three stitches, then feed in extension hair. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise knotless braids: the start on a model or a practice head. Braid the natural hair first for two or three stitches, then feed in extension hair. Take a photo of your work.",
+   "challenge": "Do knotless braids: the start two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about knotless braids?",
+     "options": [
+      "Knotless braids start with a big knot at the root.",
+      "Knotless braids start with extension hair only.",
+      "Knotless braids start with natural hair only, no knot at the root.",
+      "Knotless braids always have a knot at the root."
+     ],
+     "answer": 2,
+     "explain": "Knotless braids start with natural hair only, no knot at the root."
+    },
+    {
+     "q": "What do you add to make braids longer and fuller?",
+     "options": [
+      "rat-tail comb",
+      "edge control",
+      "spray bottle",
+      "braiding hair"
+     ],
+     "answer": 3,
+     "explain": "Braiding hair makes braids longer and fuller."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "never braid too tightly at the edges",
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin",
+      "use dirty tools on the client's hair"
+     ],
+     "answer": 0,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Knotless Braids: Full Head",
+   "goal": "By the end of today you can explain and practise: Work row by row, keep boxes even, and seal the ends in hot water.",
+   "video": {
+    "youtube_id": "4SCsLhGJ2Bk",
+    "title": "Making Two-Toned Box Braids",
+    "channel": "BelleTag"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Knotless braids are sealed by dipping the ends in hot water.",
+    "Work row by row, keep the parts even, and dip the ends in hot water to seal them. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise knotless braids: full head on a model or a practice head. Work row by row, keep the parts even, and dip the ends in hot water to seal them. Take a photo of your work.",
+   "challenge": "Do knotless braids: full head two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about finishing knotless braids?",
+     "options": [
+      "Knotless braids are sealed by cutting the ends short.",
+      "Knotless braids need no sealing at all.",
+      "Knotless braids are sealed with cold water only.",
+      "Knotless braids are sealed by dipping the ends in hot water."
+     ],
+     "answer": 3,
+     "explain": "Knotless braids are sealed by dipping the ends in hot water."
+    },
+    {
+     "q": "What do you use to smooth the edges and baby hairs?",
+     "options": [
+      "edge control",
+      "braiding hair",
+      "spray bottle",
+      "rat-tail comb"
+     ],
+     "answer": 0,
+     "explain": "Edge control smooths the edges and baby hairs."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid over sore or damaged skin",
+      "check for scalp sensitivity before starting",
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can"
+     ],
+     "answer": 1,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Box Braids with a Knot",
+   "goal": "By the end of today you can explain and practise: Anchor the extension with a small knot at the root, then braid down in three strands.",
+   "video": {
+    "youtube_id": "m011FD1vs9M",
+    "title": "How to Do Box Braids in 6 Easy Steps",
+    "channel": "Hair.com by L'Oreal"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Classic box braids start with a knot that anchors the extension.",
+    "Anchor the extension with a small knot at the root, then braid down in three strands. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise box braids with a knot on a model or a practice head. Anchor the extension with a small knot at the root, then braid down in three strands. Take a photo of your work.",
+   "challenge": "Do box braids with a knot two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about box braids with a knot?",
+     "options": [
+      "Classic box braids start with a knot that anchors the extension.",
+      "Classic box braids start with no knot at all.",
+      "Classic box braids anchor the extension with glue.",
+      "Classic box braids start at the ends, not the root."
+     ],
+     "answer": 0,
+     "explain": "Classic box braids start with a knot that anchors the extension."
+    },
+    {
+     "q": "What do you use to keep the hair damp while you braid?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 1,
+     "explain": "A spray bottle keeps the hair damp while you braid."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can",
+      "keep the client's hair moisturised during braiding",
+      "start braiding without checking the scalp"
+     ],
+     "answer": 2,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Boho and Curly Ends",
+   "goal": "By the end of today you can explain and practise: Leave curly ends out of the braid and curl them with a rod for a boho finish.",
+   "video": {
+    "youtube_id": "JyySpsWTr-8",
+    "title": "Beautiful Box Braids: Easy DIY Tutorial",
+    "channel": "Ogle School"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Boho braids leave curly ends loose for a soft finish.",
+    "Leave curly ends out of the braid and curl them with a rod for a boho finish. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise boho and curly ends on a model or a practice head. Leave curly ends out of the braid and curl them with a rod for a boho finish. Take a photo of your work.",
+   "challenge": "Do boho and curly ends two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about boho and curly ends?",
+     "options": [
+      "Boho braids tuck all the ends away neatly.",
+      "Boho braids leave curly ends loose for a soft finish.",
+      "Boho braids have straight, stiff ends.",
+      "Boho braids never leave any curls loose."
+     ],
+     "answer": 1,
+     "explain": "Boho braids leave curly ends loose for a soft finish."
+    },
+    {
+     "q": "What do you use to make clean, straight partings?",
+     "options": [
+      "braiding hair",
+      "edge control",
+      "rat-tail comb",
+      "spray bottle"
+     ],
+     "answer": 2,
+     "explain": "A rat-tail comb makes clean, straight partings."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid the edges as tightly as you can",
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid",
+      "never braid too tightly at the edges"
+     ],
+     "answer": 3,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Jumbo Braids",
+   "goal": "By the end of today you can explain and practise: Use large sections and thick bundles for fast, chunky braids.",
+   "video": {
+    "youtube_id": "h7spCXYLndY",
+    "title": "How to Do Box Braids Step by Step",
+    "channel": "StyleCraze"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Jumbo braids use large sections for a chunky look.",
+    "Use large sections and thick bundles for fast, chunky braids. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise jumbo braids on a model or a practice head. Use large sections and thick bundles for fast, chunky braids. Take a photo of your work.",
+   "challenge": "Do jumbo braids two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about jumbo braids?",
+     "options": [
+      "Jumbo braids use tiny sections for a chunky look.",
+      "Jumbo braids use large sections for a thin look.",
+      "Jumbo braids use large sections for a chunky look.",
+      "Jumbo braids are the smallest braid size."
+     ],
+     "answer": 2,
+     "explain": "Jumbo braids use large sections for a chunky look."
+    },
+    {
+     "q": "What do you add to make braids longer and fuller?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 3,
+     "explain": "Braiding hair makes braids longer and fuller."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "check for scalp sensitivity before starting",
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid",
+      "pull hard on the hair to make it neat"
+     ],
+     "answer": 0,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": {
+    "title": "Week 2 Project: Jumbo Braids",
+    "brief": "Practise everything from week 2: Use large sections and thick bundles for fast, chunky braids. Show the finished work and ask for feedback.",
+    "checks": [
+     "Follow the week's steps in order",
+     "Use clean, disinfected tools",
+     "Work slowly and check your work as you go",
+     "Take before-and-after photos",
+     "Ask a friend or model for honest feedback",
+     "Write down what to improve next week"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Week 2 Project: Knotless Bob Braids",
+   "goal": "By the end of today you can explain and practise: Install a full head of shoulder-length knotless braids.",
+   "video": {
+    "youtube_id": "_l8Z0j-zcxE",
+    "title": "Easy Box Braids Tutorial: Master Every Step",
+    "channel": "StyleCraze"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A knotless bob is even, neat and shoulder length.",
+    "Install a full head of shoulder-length knotless braids. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise week 2 project: knotless bob braids on a model or a practice head. Install a full head of shoulder-length knotless braids. Take a photo of your work.",
+   "challenge": "Do week 2 project: knotless bob braids two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about a knotless bob?",
+     "options": [
+      "A knotless bob is uneven and waist length.",
+      "A knotless bob is messy and very long.",
+      "A knotless bob reaches the floor.",
+      "A knotless bob is even, neat and shoulder length."
+     ],
+     "answer": 3,
+     "explain": "A knotless bob is even, neat and shoulder length."
+    },
+    {
+     "q": "What do you use to smooth the edges and baby hairs?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 0,
+     "explain": "Edge control smooths the edges and baby hairs."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "let the hair dry out while you braid",
+      "keep the client's hair moisturised during braiding",
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin"
+     ],
+     "answer": 1,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Feed-In Cornrows",
+   "goal": "By the end of today you can explain and practise: Feed extension hair into cornrows for length and a fuller, raised look.",
+   "video": {
+    "youtube_id": "Fl_cui1MhoA",
+    "title": "How to Do Box Braids: A Detailed Guide",
+    "channel": "Hermosa Hair"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Feed-in cornrows add length and fullness to cornrows.",
+    "Feed extension hair into cornrows for length and a fuller, raised look. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise feed-in cornrows on a model or a practice head. Feed extension hair into cornrows for length and a fuller, raised look. Take a photo of your work.",
+   "challenge": "Do feed-in cornrows two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about feed-in cornrows?",
+     "options": [
+      "Feed-in cornrows add length and fullness to cornrows.",
+      "Feed-in cornrows make cornrows shorter and thinner.",
+      "Feed-in cornrows add no length at all.",
+      "Feed-in cornrows remove hair from the cornrows."
+     ],
+     "answer": 0,
+     "explain": "Feed-in cornrows add length and fullness to cornrows."
+    },
+    {
+     "q": "What do you use to keep the hair damp while you braid?",
+     "options": [
+      "rat-tail comb",
+      "spray bottle",
+      "braiding hair",
+      "edge control"
+     ],
+     "answer": 1,
+     "explain": "A spray bottle keeps the hair damp while you braid."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin",
+      "never braid too tightly at the edges",
+      "use dirty tools on the client's hair"
+     ],
+     "answer": 2,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Stitch Braids",
+   "goal": "By the end of today you can explain and practise: Use the pinky to feed hair in tiny, even stitches for a clean stitched look.",
+   "video": {
+    "youtube_id": "eS64yozs10U",
+    "title": "How to Do Knotless Braids at Home: Step-by-Step Tutorial",
+    "channel": "Knotless Braids Tutorial"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Stitch braids use tiny, even feed-in stitches.",
+    "Use your little finger to feed hair in tiny, even stitches for a clean stitched look. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise stitch braids on a model or a practice head. Use your little finger to feed hair in tiny, even stitches for a clean stitched look. Take a photo of your work.",
+   "challenge": "Do stitch braids two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about stitch braids?",
+     "options": [
+      "Stitch braids use big, uneven stitches.",
+      "Stitch braids use tiny, even feed-in stitches.",
+      "Stitch braids use no feed-in hair at all.",
+      "Stitch braids are made with one thick stitch."
+     ],
+     "answer": 1,
+     "explain": "Stitch braids use tiny, even feed-in stitches."
+    },
+    {
+     "q": "What do you use to make clean, straight partings?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 2,
+     "explain": "A rat-tail comb makes clean, straight partings."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid over sore or damaged skin",
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can",
+      "check for scalp sensitivity before starting"
+     ],
+     "answer": 3,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Goddess and Boho Cornrows",
+   "goal": "By the end of today you can explain and practise: Add curly pieces along the cornrows for a soft goddess effect.",
+   "video": {
+    "youtube_id": "oDFfsEkVVdA",
+    "title": "Knotless Braids Tutorial for Beginners",
+    "channel": "Knotless Braid"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Goddess braids mix curly pieces into cornrows.",
+    "Add curly pieces along the cornrows for a soft goddess effect. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise goddess and boho cornrows on a model or a practice head. Add curly pieces along the cornrows for a soft goddess effect. Take a photo of your work.",
+   "challenge": "Do goddess and boho cornrows two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about goddess and boho cornrows?",
+     "options": [
+      "Goddess braids use only straight pieces.",
+      "Goddess braids never mix curls into cornrows.",
+      "Goddess braids mix curly pieces into cornrows.",
+      "Goddess braids remove all curls from the style."
+     ],
+     "answer": 2,
+     "explain": "Goddess braids mix curly pieces into cornrows."
+    },
+    {
+     "q": "What do you add to make braids longer and fuller?",
+     "options": [
+      "spray bottle",
+      "rat-tail comb",
+      "edge control",
+      "braiding hair"
+     ],
+     "answer": 3,
+     "explain": "Braiding hair makes braids longer and fuller."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "keep the client's hair moisturised during braiding",
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can",
+      "start braiding without checking the scalp"
+     ],
+     "answer": 0,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Braided Ponytails",
+   "goal": "By the end of today you can explain and practise: Gather braids into a high ponytail, wrap a braid around the base, and secure.",
+   "video": {
+    "youtube_id": "ZrcKG_UGPxw",
+    "title": "Beginner's Guide to Knotless Braids",
+    "channel": "Knotless Beauty Bar"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A braided ponytail is secured by wrapping a braid around its base.",
+    "Gather braids into a high ponytail, wrap a braid around the base, and secure. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise braided ponytails on a model or a practice head. Gather braids into a high ponytail, wrap a braid around the base, and secure. Take a photo of your work.",
+   "challenge": "Do braided ponytails two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about braided ponytails?",
+     "options": [
+      "A braided ponytail is secured with glue only.",
+      "A braided ponytail needs nothing at its base.",
+      "A braided ponytail is secured by cutting the base braid off.",
+      "A braided ponytail is secured by wrapping a braid around its base."
+     ],
+     "answer": 3,
+     "explain": "A braided ponytail is secured by wrapping a braid around its base."
+    },
+    {
+     "q": "What do you use to smooth the edges and baby hairs?",
+     "options": [
+      "edge control",
+      "rat-tail comb",
+      "braiding hair",
+      "spray bottle"
+     ],
+     "answer": 0,
+     "explain": "Edge control smooths the edges and baby hairs."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid the edges as tightly as you can",
+      "never braid too tightly at the edges",
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid"
+     ],
+     "answer": 1,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Edges and Baby Hairs",
+   "goal": "By the end of today you can explain and practise: Use edge control and a small brush to swoop baby hairs into soft waves.",
+   "video": {
+    "youtube_id": "AOSkWaaiYaY",
+    "title": "How to Cornrow for Beginners",
+    "channel": "GlamFam Hair & Beauty"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Edge control and a small brush shape baby hairs.",
+    "Use a smoothing gel and a small brush to swoop baby hairs into soft waves. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise edges and baby hairs on a model or a practice head. Use a smoothing gel and a small brush to swoop baby hairs into soft waves. Take a photo of your work.",
+   "challenge": "Do edges and baby hairs two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about edges and baby hairs?",
+     "options": [
+      "Edge control and a small brush shape baby hairs.",
+      "Edge control makes baby hairs stick straight up.",
+      "Baby hairs should never be shaped at all.",
+      "Edge control and a brush ruin baby hairs."
+     ],
+     "answer": 0,
+     "explain": "Edge control and a small brush shape baby hairs."
+    },
+    {
+     "q": "What do you use to keep the hair damp while you braid?",
+     "options": [
+      "braiding hair",
+      "spray bottle",
+      "edge control",
+      "rat-tail comb"
+     ],
+     "answer": 1,
+     "explain": "A spray bottle keeps the hair damp while you braid."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid",
+      "check for scalp sensitivity before starting",
+      "pull hard on the hair to make it neat"
+     ],
+     "answer": 2,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Week 3 Project: Stitch Braids with a Design",
+   "goal": "By the end of today you can explain and practise: Create stitch braids in a curved or zigzag pattern.",
+   "video": {
+    "youtube_id": "6jWKUJrpR0Q",
+    "title": "How to Make Cornrows as a Beginner",
+    "channel": "Hairdo Lab"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A designed stitch braid pattern shows clean, curved partings.",
+    "Create stitch braids in a curved or zigzag pattern. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise week 3 project: stitch braids with a design on a model or a practice head. Create stitch braids in a curved or zigzag pattern. Take a photo of your work.",
+   "challenge": "Do week 3 project: stitch braids with a design two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about stitch braids with a design?",
+     "options": [
+      "A designed stitch braid pattern shows messy, straight partings.",
+      "A designed stitch braid pattern shows clean, curved partings.",
+      "Stitch braid designs use no partings at all.",
+      "A stitch braid design should hide the partings."
+     ],
+     "answer": 1,
+     "explain": "A designed stitch braid pattern shows clean, curved partings."
+    },
+    {
+     "q": "What do you use to make clean, straight partings?",
+     "options": [
+      "spray bottle",
+      "braiding hair",
+      "rat-tail comb",
+      "edge control"
+     ],
+     "answer": 2,
+     "explain": "A rat-tail comb makes clean, straight partings."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "let the hair dry out while you braid",
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin",
+      "keep the client's hair moisturised during braiding"
+     ],
+     "answer": 3,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": {
+    "title": "Week 3 Project: Week 3 Project: Stitch Braids with a Design",
+    "brief": "Practise everything from week 3: Create stitch braids in a curved or zigzag pattern. Show the finished work and ask for feedback.",
+    "checks": [
+     "Follow the week's steps in order",
+     "Use clean, disinfected tools",
+     "Work slowly and check your work as you go",
+     "Take before-and-after photos",
+     "Ask a friend or model for honest feedback",
+     "Write down what to improve next week"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Braid Care and Maintenance",
+   "goal": "By the end of today you can explain and practise: Teach clients to oil the scalp, wear a bonnet at night, and wash braids gently.",
+   "video": {
+    "youtube_id": "7-4bPXH2dlI",
+    "title": "How to Do Hair for Dads Part 3: Beginners Braiding Tutorial - Cornrow Braid",
+    "channel": "Hair for Dads"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A satin bonnet at night protects braids from frizz.",
+    "Teach clients to oil the scalp, wear a bonnet at night, and wash braids gently. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise braid care and maintenance on a model or a practice head. Teach clients to oil the scalp, wear a bonnet at night, and wash braids gently. Take a photo of your work.",
+   "challenge": "Do braid care and maintenance two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about braid care and maintenance?",
+     "options": [
+      "A satin bonnet at night causes frizz in braids.",
+      "Braids should be left uncovered every night.",
+      "A satin bonnet at night protects braids from frizz.",
+      "A cotton towel at night protects braids best."
+     ],
+     "answer": 2,
+     "explain": "A satin bonnet at night protects braids from frizz."
+    },
+    {
+     "q": "What do you add to make braids longer and fuller?",
+     "options": [
+      "rat-tail comb",
+      "edge control",
+      "spray bottle",
+      "braiding hair"
+     ],
+     "answer": 3,
+     "explain": "Braiding hair makes braids longer and fuller."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "never braid too tightly at the edges",
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin",
+      "use dirty tools on the client's hair"
+     ],
+     "answer": 0,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Removing Braids Safely",
+   "goal": "By the end of today you can explain and practise: Cut the extension below the natural hair, unravel gently, and detangle before washing.",
+   "video": {
+    "youtube_id": "2DFKD4BYoKM",
+    "title": "HOW TO REMOVE BOX BRAIDS; NO BREAKAGE!",
+    "channel": "Grow african hair long (Gahl)"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Never pull braids out; cut the extension first, then unravel.",
+    "Cut the extension below the natural hair, unravel gently, and detangle before washing. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise removing braids safely on a model or a practice head. Cut the extension below the natural hair, unravel gently, and detangle before washing. Take a photo of your work.",
+   "challenge": "Do removing braids safely two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about removing braids safely?",
+     "options": [
+      "Pull braids out hard to remove them fast.",
+      "Cut the natural hair first, then pull the extension.",
+      "Yank the braids out in one go to save time.",
+      "Never pull braids out; cut the extension first, then unravel."
+     ],
+     "answer": 3,
+     "explain": "Never pull braids out; cut the extension first, then unravel."
+    },
+    {
+     "q": "What do you use to smooth the edges and baby hairs?",
+     "options": [
+      "edge control",
+      "braiding hair",
+      "spray bottle",
+      "rat-tail comb"
+     ],
+     "answer": 0,
+     "explain": "Edge control smooths the edges and baby hairs."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid over sore or damaged skin",
+      "check for scalp sensitivity before starting",
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can"
+     ],
+     "answer": 1,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Braid Sizes and Timing",
+   "goal": "By the end of today you can explain and practise: Small braids take longer and last longer; price by size and time.",
+   "video": {
+    "youtube_id": "spdmhk2najs",
+    "title": "How to Create Jumbo Box Braids",
+    "channel": "BelleTag"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Smaller braids take more time and last longer.",
+    "Small braids take longer and last longer; price by size and time. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise braid sizes and timing on a model or a practice head. Small braids take longer and last longer; price by size and time. Take a photo of your work.",
+   "challenge": "Do braid sizes and timing two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about braid sizes and timing?",
+     "options": [
+      "Smaller braids take more time and last longer.",
+      "Smaller braids take less time and last a shorter time.",
+      "Braid size makes no difference to time or how long they last.",
+      "Bigger braids always last longer than small ones."
+     ],
+     "answer": 0,
+     "explain": "Smaller braids take more time and last longer."
+    },
+    {
+     "q": "What do you use to keep the hair damp while you braid?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 1,
+     "explain": "A spray bottle keeps the hair damp while you braid."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can",
+      "keep the client's hair moisturised during braiding",
+      "start braiding without checking the scalp"
+     ],
+     "answer": 2,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Colour and Ombre Braids",
+   "goal": "By the end of today you can explain and practise: Mix two colours of braiding hair for an ombre effect.",
+   "video": {
+    "youtube_id": "wMq4pK827u0",
+    "title": "How to Pull Off Bohemian Box Braids",
+    "channel": "BelleTag"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Ombre braids blend two colours from dark to light.",
+    "Mix two colours of braiding hair for an ombre effect. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise colour and ombre braids on a model or a practice head. Mix two colours of braiding hair for an ombre effect. Take a photo of your work.",
+   "challenge": "Do colour and ombre braids two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about colour and ombre braids?",
+     "options": [
+      "Ombre braids use only one solid colour.",
+      "Ombre braids blend two colours from dark to light.",
+      "Ombre braids blend from light to dark at the roots.",
+      "Ombre braids never blend colours at all."
+     ],
+     "answer": 1,
+     "explain": "Ombre braids blend two colours from dark to light."
+    },
+    {
+     "q": "What do you use to make clean, straight partings?",
+     "options": [
+      "braiding hair",
+      "edge control",
+      "rat-tail comb",
+      "spray bottle"
+     ],
+     "answer": 2,
+     "explain": "A rat-tail comb makes clean, straight partings."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid the edges as tightly as you can",
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid",
+      "never braid too tightly at the edges"
+     ],
+     "answer": 3,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Client Consultation for Braids",
+   "goal": "By the end of today you can explain and practise: Ask about allergies, scalp sensitivity, desired length and how long they will keep the style.",
+   "video": {
+    "youtube_id": "KC_c9bs2LxU",
+    "title": "Creating Short Box Braids",
+    "channel": "BelleTag"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A braid consultation checks allergies and scalp sensitivity.",
+    "Ask about allergies, scalp sensitivity, desired length and how long they will keep the style. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise client consultation for braids on a model or a practice head. Ask about allergies, scalp sensitivity, desired length and how long they will keep the style. Take a photo of your work.",
+   "challenge": "Do client consultation for braids two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about a client consultation for braids?",
+     "options": [
+      "A braid consultation never asks about allergies.",
+      "A braid consultation only asks about the price.",
+      "A braid consultation checks allergies and scalp sensitivity.",
+      "A braid consultation skips the scalp check."
+     ],
+     "answer": 2,
+     "explain": "A braid consultation checks allergies and scalp sensitivity."
+    },
+    {
+     "q": "What do you add to make braids longer and fuller?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 3,
+     "explain": "Braiding hair makes braids longer and fuller."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "check for scalp sensitivity before starting",
+      "start braiding without checking the scalp",
+      "let the hair dry out while you braid",
+      "pull hard on the hair to make it neat"
+     ],
+     "answer": 0,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Pricing Braids",
+   "goal": "By the end of today you can explain and practise: Charge by style, size and length, and take a deposit before booking.",
+   "video": {
+    "youtube_id": "4SCsLhGJ2Bk",
+    "title": "Making Two-Toned Box Braids",
+    "channel": "BelleTag"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A deposit secures a braiding appointment.",
+    "Charge by style, size and length, and take a deposit before booking. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise pricing braids on a model or a practice head. Charge by style, size and length, and take a deposit before booking. Take a photo of your work.",
+   "challenge": "Do pricing braids two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about pricing braids?",
+     "options": [
+      "A deposit cancels a braiding appointment.",
+      "No deposit is ever needed to secure a booking.",
+      "A deposit is paid after the style is finished.",
+      "A deposit secures a braiding appointment."
+     ],
+     "answer": 3,
+     "explain": "A deposit secures a braiding appointment."
+    },
+    {
+     "q": "What do you use to smooth the edges and baby hairs?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 0,
+     "explain": "Edge control smooths the edges and baby hairs."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "let the hair dry out while you braid",
+      "keep the client's hair moisturised during braiding",
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin"
+     ],
+     "answer": 1,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Braiding Business Basics",
+   "goal": "By the end of today you can explain and practise: Keep a photo portfolio, post finished styles, and ask happy clients for referrals.",
+   "video": {
+    "youtube_id": "m011FD1vs9M",
+    "title": "How to Do Box Braids in 6 Easy Steps",
+    "channel": "Hair.com by L'Oreal"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A photo portfolio brings in new braiding clients.",
+    "Keep a photo portfolio, post finished styles, and ask happy clients for referrals. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise braiding business basics on a model or a practice head. Keep a photo portfolio, post finished styles, and ask happy clients for referrals. Take a photo of your work.",
+   "challenge": "Do braiding business basics two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about braiding business basics?",
+     "options": [
+      "A photo portfolio brings in new braiding clients.",
+      "A photo portfolio puts new clients off booking.",
+      "Clients never look at photos before booking.",
+      "A portfolio should be kept hidden from clients."
+     ],
+     "answer": 0,
+     "explain": "A photo portfolio brings in new braiding clients."
+    },
+    {
+     "q": "What do you use to keep the hair damp while you braid?",
+     "options": [
+      "rat-tail comb",
+      "spray bottle",
+      "braiding hair",
+      "edge control"
+     ],
+     "answer": 1,
+     "explain": "A spray bottle keeps the hair damp while you braid."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "pull hard on the hair to make it neat",
+      "braid over sore or damaged skin",
+      "never braid too tightly at the edges",
+      "use dirty tools on the client's hair"
+     ],
+     "answer": 2,
+     "explain": "Never braid too tightly at the edges."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Aftercare Advice",
+   "goal": "By the end of today you can explain and practise: Give the client a written aftercare card: oil, bonnet, no heavy pulling.",
+   "video": {
+    "youtube_id": "JyySpsWTr-8",
+    "title": "Beautiful Box Braids: Easy DIY Tutorial",
+    "channel": "Ogle School"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: Written aftercare helps braids last and protects the hair.",
+    "Give the client a written aftercare card: oil, bonnet, no heavy pulling. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise aftercare advice on a model or a practice head. Give the client a written aftercare card: oil, bonnet, no heavy pulling. Take a photo of your work.",
+   "challenge": "Do aftercare advice two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about aftercare advice?",
+     "options": [
+      "Written aftercare makes braids fall out faster.",
+      "Written aftercare helps braids last and protects the hair.",
+      "Clients should get no aftercare advice at all.",
+      "Aftercare cards damage the hair."
+     ],
+     "answer": 1,
+     "explain": "Written aftercare helps braids last and protects the hair."
+    },
+    {
+     "q": "What do you use to make clean, straight partings?",
+     "options": [
+      "edge control",
+      "spray bottle",
+      "rat-tail comb",
+      "braiding hair"
+     ],
+     "answer": 2,
+     "explain": "A rat-tail comb makes clean, straight partings."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "braid over sore or damaged skin",
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can",
+      "check for scalp sensitivity before starting"
+     ],
+     "answer": 3,
+     "explain": "You should always check for scalp sensitivity before starting."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone Week: A Full Braided Style",
+   "goal": "By the end of today you can explain and practise: Install a full braided style on a real client, from prep to edges and photos.",
+   "video": {
+    "youtube_id": "h7spCXYLndY",
+    "title": "How to Do Box Braids Step by Step",
+    "channel": "StyleCraze"
+   },
+   "steps": [
+    "Get your tools ready: rat-tail comb, braiding hair and edge control.",
+    "Watch the video. It explains the main point in simple steps: A capstone braided style covers prep, install, edges and photos.",
+    "Install a full braided style on a real client, from prep to edges and photos. Go slowly. Practise on a model or a practice head.",
+    "Do the same move three times. Check your work in a mirror or a photo after each try.",
+    "Write down what went well, what was hard, and one thing to do better tomorrow."
+   ],
+   "task": "Practise capstone week: a full braided style on a model or a practice head. Install a full braided style on a real client, from prep to edges and photos. Take a photo of your work.",
+   "challenge": "Do capstone week: a full braided style two times today. Make the second try neater than the first.",
+   "quiz": [
+    {
+     "q": "Which of these is true about a full braided style?",
+     "options": [
+      "A capstone style skips prep and goes straight to braiding.",
+      "A capstone style needs no photos at all.",
+      "A capstone braided style covers prep, install, edges and photos.",
+      "A capstone style is only about the edges."
+     ],
+     "answer": 2,
+     "explain": "A capstone braided style covers prep, install, edges and photos."
+    },
+    {
+     "q": "What do you add to make braids longer and fuller?",
+     "options": [
+      "spray bottle",
+      "rat-tail comb",
+      "edge control",
+      "braiding hair"
+     ],
+     "answer": 3,
+     "explain": "Braiding hair makes braids longer and fuller."
+    },
+    {
+     "q": "What should you always do when braiding hair?",
+     "options": [
+      "keep the client's hair moisturised during braiding",
+      "use dirty tools on the client's hair",
+      "braid the edges as tightly as you can",
+      "start braiding without checking the scalp"
+     ],
+     "answer": 0,
+     "explain": "You should always keep the client's hair moisturised during braiding."
+    }
+   ],
+   "project": null
   }
+ ],
+ "capstone": {
+  "title": "A Full Braided Style",
+  "brief": "Install a complete braided style on a real client, from hair prep to edges, with photos and aftercare advice.",
+  "checks": [
+   "Prep the hair: wash, condition and detangle",
+   "Part the hair neatly and evenly",
+   "Install the braids with even tension",
+   "Finish the ends and edges neatly",
+   "Take photos from four angles",
+   "Give written aftercare advice",
+   "Collect client feedback"
+  ],
+  "deliverables": [
+   "A consultation record",
+   "Photos of the finished braids",
+   "A close-up of the partings",
+   "A written aftercare card",
+   "A price list for braid styles"
+  ]
+ }
 }

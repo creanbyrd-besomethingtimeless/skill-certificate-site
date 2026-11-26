@@ -409,9 +409,9 @@
       "title": "Arrays",
       "goal": "Store many items in an array and read, add and remove them.",
       "video": {
-        "youtube_id": "XNyGDWCqBVc",
-        "title": "Events | JavaScript Course",
-        "channel": "Full Stack Masterclass"
+        "youtube_id": "LkqP8qiUe44",
+        "title": "JavaScript Arrays: Index, push, pop, slice, splice (Beginners #8)",
+        "channel": "Codesarray"
       },
       "steps": [
         "Make an array of five foods and log the whole array.",
@@ -970,9 +970,9 @@
       "title": "Timers: setTimeout and setInterval",
       "goal": "Run code after a delay or on a repeating schedule.",
       "video": {
-        "youtube_id": "XNyGDWCqBVc",
-        "title": "Events | JavaScript Course",
-        "channel": "Full Stack Masterclass"
+        "youtube_id": "Fku_cRb6odc",
+        "title": "Asynchronous JavaScript 1 of 3: setTimeout, setInterval, clearInterval",
+        "channel": "CJ Avilla (cjav_dev)"
       },
       "steps": [
         "Use setTimeout() to log a message after 3 seconds.",
@@ -1531,9 +1531,9 @@
       "title": "Debugging in the Browser",
       "goal": "Find and fix bugs using the browser's developer tools.",
       "video": {
-        "youtube_id": "XNyGDWCqBVc",
-        "title": "Events | JavaScript Course",
-        "channel": "Full Stack Masterclass"
+        "youtube_id": "geIztShEk6I",
+        "title": "How To Debug JavaScript In Chrome",
+        "channel": "Code With Bubb"
       },
       "steps": [
         "Open a page with a bug, press F12 and read the error in the Console.",

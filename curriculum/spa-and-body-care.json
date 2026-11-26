@@ -28,36 +28,36 @@
       "challenge": "Do welcome to spa and body care two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to spa and body care?",
+          "q": "What is essential for every spa treatment?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Clean towels and fresh products are essential for every spa treatment.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "No towels at all",
+            "Only strong perfume",
+            "Clean towels and fresh products",
+            "Dirty towels and old products"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Clean towels and fresh products are essential for every spa treatment."
         },
         {
-          "q": "Which tool is most essential for welcome to spa and body care?",
+          "q": "Which of these is in your basic spa kit?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "body scrub",
-            "foil shaver"
+            "A toothbrush",
+            "A body scrub",
+            "A hairdryer",
+            "A pair of scissors"
           ],
-          "answer": 2,
-          "explain": "The body scrub is the essential tool for this work."
+          "answer": 1,
+          "explain": "Your kit is scrubs, oils, towels, bowls, a basin and clean sheets."
         },
         {
-          "q": "What should you always do when working on welcome to spa and body care?",
+          "q": "What should you never put spa products on?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never use products on broken skin"
+            "Broken skin",
+            "Clean, healthy skin",
+            "Dry elbows",
+            "The back and shoulders"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Never use products on broken skin."
         }
       ],
@@ -84,36 +84,36 @@
       "challenge": "Do spa hygiene and safety two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on spa hygiene and safety?",
+          "q": "What should you never do with spa products?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Never apply spa products to broken or irritated skin.",
-            "Using dirty tools gives the same result as clean ones."
+            "Put them on broken or irritated skin",
+            "Use them on clean, healthy skin",
+            "Store them in a clean place",
+            "Wash your hands first"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Never apply spa products to broken or irritated skin."
         },
         {
-          "q": "Which tool is most essential for spa hygiene and safety?",
+          "q": "What should you always do with your hands before a treatment?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "massage oil"
+            "Cover them in oil",
+            "Skip washing if they look clean",
+            "Dry them on a used towel",
+            "Wash them"
           ],
           "answer": 3,
-          "explain": "The massage oil is the essential tool for this work."
+          "explain": "Wash hands, disinfect bowls, and never use a product on broken skin."
         },
         {
-          "q": "What should you always do when working on spa hygiene and safety?",
+          "q": "What should you do before every treatment?",
           "options": [
-            "wash hands before every treatment",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use the same towel for every client",
+            "Skip washing",
+            "Wash your hands",
+            "Put on strong perfume"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "You should always wash hands before every treatment."
         }
       ],
@@ -140,36 +140,36 @@
       "challenge": "Do body scrub basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on body scrub basics?",
+          "q": "How do body scrubs remove dead skin?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Body scrubs remove dead skin with gentle circular motions."
+            "With hot water only",
+            "With strong chemicals",
+            "With gentle circular motions",
+            "With hard scrubbing"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Body scrubs remove dead skin with gentle circular motions."
         },
         {
-          "q": "Which tool is most essential for body scrub basics?",
+          "q": "What do you use to scrub the body?",
           "options": [
-            "clean towels",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The clean towels is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on body scrub basics?",
-          "options": [
-            "disinfect your clippers between clients",
-            "check for allergies before applying products",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "A pair of scissors",
+            "A body scrub",
+            "A hot stone",
+            "A face mask"
           ],
           "answer": 1,
+          "explain": "A body scrub removes dead skin with gentle circular motions."
+        },
+        {
+          "q": "What should you check before you put a new product on a client?",
+          "options": [
+            "If they are allergic to anything in it",
+            "Their favourite colour",
+            "How much the product cost",
+            "What the bottle looks like"
+          ],
+          "answer": 0,
           "explain": "You should always check for allergies before applying products."
         }
       ],
@@ -196,34 +196,34 @@
       "challenge": "Do sugar scrubs two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on sugar scrubs?",
+          "q": "Which scrub is gentler, sugar or salt?",
           "options": [
-            "Sugar scrubs are gentler than salt scrubs.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Sugar scrubs",
+            "Salt scrubs",
+            "They are the same",
+            "Neither is gentle"
           ],
           "answer": 0,
           "explain": "Sugar scrubs are gentler than salt scrubs."
         },
         {
-          "q": "Which tool is most essential for sugar scrubs?",
+          "q": "What do you mix sugar with to make a sugar scrub?",
           "options": [
-            "clipper with guards",
-            "body butter",
-            "trimmer",
-            "foil shaver"
+            "Oil",
+            "Strong acid",
+            "Hot wax",
+            "Water only"
           ],
-          "answer": 1,
-          "explain": "The body butter is the essential tool for this work."
+          "answer": 0,
+          "explain": "Mix sugar with oil for a gentle scrub that suits most skin types."
         },
         {
-          "q": "What should you always do when working on sugar scrubs?",
+          "q": "What kind of skin should you never scrub?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never use products on broken skin",
-            "check the client for cuts before starting"
+            "Dry elbows",
+            "Rough heels",
+            "Broken skin",
+            "Healthy skin"
           ],
           "answer": 2,
           "explain": "Never use products on broken skin."
@@ -252,36 +252,36 @@
       "challenge": "Do salt scrubs two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on salt scrubs?",
+          "q": "Which scrub suits rough skin like feet?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Salt scrubs are stronger and suit rough skin.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "A face mask",
+            "Plain water",
+            "A sugar scrub",
+            "A salt scrub"
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Salt scrubs are stronger and suit rough skin."
         },
         {
-          "q": "Which tool is most essential for salt scrubs?",
+          "q": "What do you mix sea salt with for a salt scrub?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "body scrub",
-            "foil shaver"
+            "Only water",
+            "Oil",
+            "Strong acid",
+            "Hot wax"
           ],
-          "answer": 2,
-          "explain": "The body scrub is the essential tool for this work."
+          "answer": 1,
+          "explain": "Mix sea salt with oil for a stronger scrub on rough skin like feet."
         },
         {
-          "q": "What should you always do when working on salt scrubs?",
+          "q": "What should you do before you start a salt scrub treatment?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "wash hands before every treatment"
+            "Wash your hands",
+            "Skip washing",
+            "Use a dirty towel",
+            "Put on strong perfume"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "You should always wash hands before every treatment."
         }
       ],
@@ -308,36 +308,36 @@
       "challenge": "Do coffee scrubs two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on coffee scrubs?",
+          "q": "What do you mix coffee grounds with for a coffee scrub?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Coffee scrubs use grounds mixed with oil.",
-            "The best result comes from skipping the preparation step."
+            "Water only",
+            "Oil",
+            "Strong acid",
+            "Milk"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Coffee scrubs use grounds mixed with oil."
         },
         {
-          "q": "Which tool is most essential for coffee scrubs?",
+          "q": "What does a coffee scrub do for the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "massage oil"
+            "It puts the skin to sleep",
+            "It dries the skin out",
+            "It removes all the oil",
+            "It wakes up the skin"
           ],
           "answer": 3,
-          "explain": "The massage oil is the essential tool for this work."
+          "explain": "Mix coffee grounds with oil for a scrub that wakes up the skin."
         },
         {
-          "q": "What should you always do when working on coffee scrubs?",
+          "q": "Before you use a coffee scrub on a client, what should you check?",
           "options": [
-            "check for allergies before applying products",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "How much the scrub cost",
+            "What the bowl looks like",
+            "If they are allergic to anything in it",
+            "Their favourite drink"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "You should always check for allergies before applying products."
         }
       ],
@@ -364,36 +364,36 @@
       "challenge": "Do body polish two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on body polish?",
+          "q": "What does body polishing leave the skin feeling like?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Body polishing leaves skin soft and glowing."
+            "Sore and red",
+            "Sticky and dull",
+            "Soft and glowing",
+            "Rough and dry"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Body polishing leaves skin soft and glowing."
         },
         {
-          "q": "Which tool is most essential for body polish?",
+          "q": "What do you polish the skin with?",
           "options": [
-            "clean towels",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The clean towels is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on body polish?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never use products on broken skin",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Plain soap only",
+            "A fine scrub and oil",
+            "A rough brush and hot water",
+            "A strong acid"
           ],
           "answer": 1,
+          "explain": "Polish the skin with a fine scrub and oil for a soft, glowing finish."
+        },
+        {
+          "q": "What should you never polish?",
+          "options": [
+            "Broken skin",
+            "Healthy skin",
+            "Dry elbows",
+            "The arms and legs"
+          ],
+          "answer": 0,
           "explain": "Never use products on broken skin."
         }
       ],
@@ -431,34 +431,34 @@
       "challenge": "Do week 1 project: a full body scrub two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: a full body scrub?",
+          "q": "What does a full body scrub leave the skin like?",
           "options": [
-            "A full body scrub leaves skin smooth all over.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "Smooth all over",
+            "Rough in places",
+            "Sore and red",
+            "Dry and flaky"
           ],
           "answer": 0,
           "explain": "A full body scrub leaves skin smooth all over."
         },
         {
-          "q": "Which tool is most essential for week 1 project: a full body scrub?",
+          "q": "What is the main product you use for a full body scrub?",
           "options": [
-            "clipper with guards",
-            "body butter",
-            "trimmer",
-            "foil shaver"
+            "A body scrub",
+            "A face mask",
+            "A hair product",
+            "Massage oil only"
           ],
-          "answer": 1,
-          "explain": "The body butter is the essential tool for this work."
+          "answer": 0,
+          "explain": "Give a full body scrub treatment to a model. A body scrub removes dead skin and leaves skin smooth all over."
         },
         {
-          "q": "What should you always do when working on week 1 project: a full body scrub?",
+          "q": "Before you start a full body scrub, what should you do?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "wash hands before every treatment",
-            "check the client for cuts before starting"
+            "Use a used towel",
+            "Put on strong perfume",
+            "Wash your hands",
+            "Skip washing"
           ],
           "answer": 2,
           "explain": "You should always wash hands before every treatment."
@@ -487,36 +487,36 @@
       "challenge": "Do body wraps two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on body wraps?",
+          "q": "How long do you let a body wrap work?",
           "options": [
-            "You never need to check your work until the very end.",
-            "A body wrap lets a mask work under warmth for 20 minutes.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "2 hours",
+            "All day",
+            "20 minutes",
+            "2 minutes"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "A body wrap lets a mask work under warmth for 20 minutes."
         },
         {
-          "q": "Which tool is most essential for body wraps?",
+          "q": "What do you wrap around the body after you apply the mask?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "body scrub",
-            "foil shaver"
+            "A wet towel only",
+            "Film",
+            "A woollen blanket",
+            "A plastic bag of ice"
           ],
-          "answer": 2,
-          "explain": "The body scrub is the essential tool for this work."
+          "answer": 1,
+          "explain": "Apply a mask to the body, wrap in film, and let it work for 20 minutes."
         },
         {
-          "q": "What should you always do when working on body wraps?",
+          "q": "Before a body wrap, what should you check?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "check for allergies before applying products"
+            "If the client is allergic to the mask",
+            "The colour of the film",
+            "The price of the wrap",
+            "The client's favourite food"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "You should always check for allergies before applying products."
         }
       ],
@@ -543,36 +543,36 @@
       "challenge": "Do clay body masks two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on clay body masks?",
+          "q": "What do clay masks do to the skin?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Clay masks draw impurities out of the skin.",
-            "You should always use the strongest product available."
+            "They draw impurities out of the skin",
+            "They push dirt deeper in",
+            "They dry the skin out for good",
+            "They make the skin oily"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Clay masks draw impurities out of the skin."
         },
         {
-          "q": "Which tool is most essential for clay body masks?",
+          "q": "What do you use a clay mask for?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "massage oil"
+            "To cut the hair",
+            "To colour the skin",
+            "To make the skin shine for one hour",
+            "To draw out impurities from the skin"
           ],
           "answer": 3,
-          "explain": "The massage oil is the essential tool for this work."
+          "explain": "Use clay masks to draw out impurities from the skin."
         },
         {
-          "q": "What should you always do when working on clay body masks?",
+          "q": "What kind of skin should you never put a clay mask on?",
           "options": [
-            "never use products on broken skin",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Oily skin",
+            "Dry skin",
+            "Broken skin",
+            "Healthy skin"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Never use products on broken skin."
         }
       ],
@@ -599,36 +599,36 @@
       "challenge": "Do moisturising body treatments two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on moisturising body treatments?",
+          "q": "What locks in moisture after you scrub away dead skin?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Body butter locks in moisture after scrubbing away dead skin."
+            "A rough towel",
+            "Hot air",
+            "Body butter",
+            "Plain water"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Body butter locks in moisture after scrubbing away dead skin."
         },
         {
-          "q": "Which tool is most essential for moisturising body treatments?",
+          "q": "How should you apply body butter?",
           "options": [
-            "clean towels",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The clean towels is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on moisturising body treatments?",
-          "options": [
-            "disinfect your clippers between clients",
-            "wash hands before every treatment",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Only on the hands",
+            "In long strokes",
+            "In hard circles",
+            "Only on the face"
           ],
           "answer": 1,
+          "explain": "Apply body butter in long strokes after exfoliation to lock in moisture."
+        },
+        {
+          "q": "What should you do before a moisturising treatment?",
+          "options": [
+            "Wash your hands",
+            "Use a dirty bowl",
+            "Skip washing",
+            "Share one towel"
+          ],
+          "answer": 0,
           "explain": "You should always wash hands before every treatment."
         }
       ],
@@ -655,34 +655,34 @@
       "challenge": "Do aromatherapy body oils two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on aromatherapy body oils?",
+          "q": "What are aromatherapy oils made of?",
           "options": [
-            "Aromatherapy oils are essential oils diluted in a carrier oil.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Essential oils diluted in a carrier oil",
+            "Pure essential oils, never diluted",
+            "Only water and perfume",
+            "Cooking oil alone"
           ],
           "answer": 0,
           "explain": "Aromatherapy oils are essential oils diluted in a carrier oil."
         },
         {
-          "q": "Which tool is most essential for aromatherapy body oils?",
+          "q": "What do you blend essential oils into?",
           "options": [
-            "clipper with guards",
-            "body butter",
-            "trimmer",
-            "foil shaver"
+            "Hot water",
+            "A strong acid",
+            "Plain soap",
+            "A carrier oil"
           ],
-          "answer": 1,
-          "explain": "The body butter is the essential tool for this work."
+          "answer": 3,
+          "explain": "Blend essential oils into a carrier oil for a relaxing body treatment."
         },
         {
-          "q": "What should you always do when working on aromatherapy body oils?",
+          "q": "Before you use a new aromatherapy oil on a client, what should you check?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check for allergies before applying products",
-            "check the client for cuts before starting"
+            "The price of the oil",
+            "The colour of the bottle",
+            "If they are allergic to anything in it",
+            "Their favourite smell only"
           ],
           "answer": 2,
           "explain": "You should always check for allergies before applying products."
@@ -711,36 +711,36 @@
       "challenge": "Do hot stone basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hot stone basics?",
+          "q": "Where do you place warm stones to relax muscles?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Hot stones are warmed and placed on the back to relax muscles.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "On the feet only",
+            "On the hair",
+            "On the back",
+            "On the face only"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Hot stones are warmed and placed on the back to relax muscles."
         },
         {
-          "q": "Which tool is most essential for hot stone basics?",
+          "q": "What do you do to the stones before you place them on the back?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "body scrub",
-            "foil shaver"
+            "Leave them dusty",
+            "Warm them",
+            "Freeze them",
+            "Soak them in cold water"
           ],
-          "answer": 2,
-          "explain": "The body scrub is the essential tool for this work."
+          "answer": 1,
+          "explain": "Warm smooth stones and place them on the back to relax muscles."
         },
         {
-          "q": "What should you always do when working on hot stone basics?",
+          "q": "What should you never place a hot stone on?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never use products on broken skin"
+            "Broken skin",
+            "A healthy back",
+            "Relaxed muscles",
+            "Clean skin"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Never use products on broken skin."
         }
       ],
@@ -767,36 +767,36 @@
       "challenge": "Do head spa basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on head spa basics?",
+          "q": "What does a head spa do?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A head spa washes and massages the scalp.",
-            "Using dirty tools gives the same result as clean ones."
+            "It washes and massages the scalp",
+            "It cuts the hair",
+            "It colours the hair",
+            "It dries the hair with heat only"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A head spa washes and massages the scalp."
         },
         {
-          "q": "Which tool is most essential for head spa basics?",
+          "q": "Which part of the body does a head spa treat?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "massage oil"
+            "The feet",
+            "The back",
+            "The hands",
+            "The scalp"
           ],
           "answer": 3,
-          "explain": "The massage oil is the essential tool for this work."
+          "explain": "A head spa washes and massages the scalp."
         },
         {
-          "q": "What should you always do when working on head spa basics?",
+          "q": "What should you do before a head spa treatment?",
           "options": [
-            "wash hands before every treatment",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use a used towel",
+            "Put on strong perfume",
+            "Wash your hands",
+            "Skip washing"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "You should always wash hands before every treatment."
         }
       ],
@@ -834,36 +834,36 @@
       "challenge": "Do week 2 project: a head spa treatment two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: a head spa treatment?",
+          "q": "What does a full head spa cover?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A head spa covers wash, massage and treatment."
+            "Only massage",
+            "Only drying",
+            "Wash, massage and treatment",
+            "Only washing"
+          ],
+          "answer": 2,
+          "explain": "A head spa covers wash, massage and treatment."
+        },
+        {
+          "q": "What is the first step of a head spa treatment?",
+          "options": [
+            "Drying",
+            "Treatment",
+            "Massage",
+            "Wash"
           ],
           "answer": 3,
           "explain": "A head spa covers wash, massage and treatment."
         },
         {
-          "q": "Which tool is most essential for week 2 project: a head spa treatment?",
+          "q": "Before a head spa, what should you check about the products you will use?",
           "options": [
-            "clean towels",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "If the client is allergic to anything in them",
+            "Their favourite colour",
+            "The price of the products",
+            "The shape of the bottles"
           ],
           "answer": 0,
-          "explain": "The clean towels is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on week 2 project: a head spa treatment?",
-          "options": [
-            "disinfect your clippers between clients",
-            "check for allergies before applying products",
-            "never cut broken skin",
-            "check the client for cuts before starting"
-          ],
-          "answer": 1,
           "explain": "You should always check for allergies before applying products."
         }
       ],
@@ -890,34 +890,34 @@
       "challenge": "Do facial treatments in the spa two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on facial treatments in the spa?",
+          "q": "What order does a spa facial follow?",
           "options": [
-            "A spa facial follows cleanse, scrub away dead skin, mask and moisturise.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Cleanse, scrub away dead skin, mask and moisturise",
+            "Moisturise, mask, scrub, cleanse",
+            "Scrub, cleanse, moisturise, mask",
+            "Mask, moisturise, cleanse, scrub"
           ],
           "answer": 0,
           "explain": "A spa facial follows cleanse, scrub away dead skin, mask and moisturise."
         },
         {
-          "q": "Which tool is most essential for facial treatments in the spa?",
+          "q": "What is the last step of a spa facial?",
           "options": [
-            "clipper with guards",
-            "body butter",
-            "trimmer",
-            "foil shaver"
+            "Scrub away dead skin",
+            "Mask",
+            "Moisturise",
+            "Cleanse"
           ],
-          "answer": 1,
-          "explain": "The body butter is the essential tool for this work."
+          "answer": 2,
+          "explain": "Cleanse, exfoliate, mask and moisturise the face as part of a spa visit."
         },
         {
-          "q": "What should you always do when working on facial treatments in the spa?",
+          "q": "What kind of skin should you never put spa facial products on?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never use products on broken skin",
-            "check the client for cuts before starting"
+            "Oily skin",
+            "Dry skin",
+            "Broken skin",
+            "Healthy skin"
           ],
           "answer": 2,
           "explain": "Never use products on broken skin."
@@ -946,36 +946,36 @@
       "challenge": "Do hand and foot treatments two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hand and foot treatments?",
+          "q": "What three steps cover spa hand and foot care?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Spa hand and foot care covers soak, scrub and moisturise.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Wash, paint and file only",
+            "Scrub, peel and bleach",
+            "Soak, scrub and moisturise",
+            "Cut, colour and dry"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Spa hand and foot care covers soak, scrub and moisturise."
         },
         {
-          "q": "Which tool is most essential for hand and foot treatments?",
+          "q": "What do you do first for hands and feet in the spa?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "body scrub",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The body scrub is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on hand and foot treatments?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "wash hands before every treatment"
+            "Massage with oil",
+            "Moisturise",
+            "Scrub",
+            "Soak"
           ],
           "answer": 3,
+          "explain": "Soak, scrub and moisturise hands and feet for a spa finish."
+        },
+        {
+          "q": "What should you do before a hand and foot treatment?",
+          "options": [
+            "Wash your hands",
+            "Skip washing",
+            "Share one towel",
+            "Use a dirty bowl"
+          ],
+          "answer": 0,
           "explain": "You should always wash hands before every treatment."
         }
       ],
@@ -1002,36 +1002,36 @@
       "challenge": "Do back treatments two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on back treatments?",
+          "q": "What does a back treatment do?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Back treatments cleanse and scrub away dead skin hard-to-reach skin.",
-            "The best result comes from skipping the preparation step."
+            "It cleanses and scrubs away dead skin on hard-to-reach skin",
+            "It only massages the shoulders",
+            "It only warms the back",
+            "It colours the skin"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Back treatments cleanse and scrub away dead skin hard-to-reach skin."
         },
         {
-          "q": "Which tool is most essential for back treatments?",
+          "q": "What do you massage into the back after cleansing and scrubbing?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "massage oil"
+            "A strong acid",
+            "Hot wax",
+            "Plain water",
+            "Moisturiser"
           ],
           "answer": 3,
-          "explain": "The massage oil is the essential tool for this work."
+          "explain": "Cleanse and exfoliate the back, then massage in moisturiser."
         },
         {
-          "q": "What should you always do when working on back treatments?",
+          "q": "Before a back treatment, what should you check?",
           "options": [
-            "check for allergies before applying products",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "The price of the oil",
+            "The size of the room",
+            "If the client is allergic to the products",
+            "Their favourite colour"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "You should always check for allergies before applying products."
         }
       ],
@@ -1058,36 +1058,36 @@
       "challenge": "Do relaxation techniques two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on relaxation techniques?",
+          "q": "What relaxes spa clients?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Slow strokes and soft music relax spa clients."
+            "Cold water and bright lights",
+            "Rushing the treatment",
+            "Slow strokes and soft music",
+            "Fast, hard strokes and loud music"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Slow strokes and soft music relax spa clients."
         },
         {
-          "q": "Which tool is most essential for relaxation techniques?",
+          "q": "What else helps a client relax during a treatment?",
           "options": [
-            "clean towels",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The clean towels is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on relaxation techniques?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never use products on broken skin",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "A cold room",
+            "Calm breathing",
+            "Loud talking",
+            "Bright lights"
           ],
           "answer": 1,
+          "explain": "Use slow strokes, soft music and calm breathing to relax the client."
+        },
+        {
+          "q": "What should you never do during a relaxing treatment?",
+          "options": [
+            "Use products on broken skin",
+            "Use slow strokes",
+            "Play soft music",
+            "Let the client breathe calmly"
+          ],
+          "answer": 0,
           "explain": "Never use products on broken skin."
         }
       ],
@@ -1114,34 +1114,34 @@
       "challenge": "Do setting up a spa room two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on setting up a spa room?",
+          "q": "How should a spa room feel?",
           "options": [
-            "A spa room must be warm, clean and calm.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "Warm, clean and calm",
+            "Cold, dirty and noisy",
+            "Hot, messy and loud",
+            "Dark and cold"
           ],
           "answer": 0,
           "explain": "A spa room must be warm, clean and calm."
         },
         {
-          "q": "Which tool is most essential for setting up a spa room?",
+          "q": "What should you always have ready in the spa room?",
           "options": [
-            "clipper with guards",
-            "body butter",
-            "trimmer",
-            "foil shaver"
+            "Dirty towels",
+            "No towels",
+            "Only one towel for everyone",
+            "Fresh towels"
           ],
-          "answer": 1,
-          "explain": "The body butter is the essential tool for this work."
+          "answer": 3,
+          "explain": "Keep the room warm, clean and calm with fresh towels ready."
         },
         {
-          "q": "What should you always do when working on setting up a spa room?",
+          "q": "What should you do before every treatment in your spa room?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "wash hands before every treatment",
-            "check the client for cuts before starting"
+            "Share towels",
+            "Use dirty bowls",
+            "Wash your hands",
+            "Skip washing"
           ],
           "answer": 2,
           "explain": "You should always wash hands before every treatment."
@@ -1170,36 +1170,36 @@
       "challenge": "Do week 3 project: a 60-minute spa session two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: a 60-minute spa session?",
+          "q": "What does a 60-minute spa session combine?",
           "options": [
-            "You never need to check your work until the very end.",
-            "A 60-minute spa session combines scrub, wrap and massage.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Only massage",
+            "Only wrapping",
+            "Scrub, wrap and massage",
+            "Only scrubbing"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "A 60-minute spa session combines scrub, wrap and massage."
         },
         {
-          "q": "Which tool is most essential for week 3 project: a 60-minute spa session?",
+          "q": "How long is the full spa session in this project?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "body scrub",
-            "foil shaver"
+            "30 minutes",
+            "60 minutes",
+            "20 minutes",
+            "10 minutes"
           ],
-          "answer": 2,
-          "explain": "The body scrub is the essential tool for this work."
+          "answer": 1,
+          "explain": "Run a full 60-minute spa session with scrub, wrap and massage."
         },
         {
-          "q": "What should you always do when working on week 3 project: a 60-minute spa session?",
+          "q": "Before a full 60-minute session, what should you check?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "check for allergies before applying products"
+            "If the client is allergic to any product you will use",
+            "Their favourite music only",
+            "The price of the session",
+            "The colour of the towels"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "You should always check for allergies before applying products."
         }
       ],
@@ -1237,36 +1237,36 @@
       "challenge": "Do spa packages two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on spa packages?",
+          "q": "What is a spa package?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Spa packages bundle treatments at one price.",
-            "You should always use the strongest product available."
+            "Treatments bundled at one price",
+            "One treatment at full price",
+            "A single towel",
+            "A room with no treatments"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Spa packages bundle treatments at one price."
         },
         {
-          "q": "Which tool is most essential for spa packages?",
+          "q": "Which treatments can you bundle into one package?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "massage oil"
+            "Only one scrub",
+            "A haircut and a shave",
+            "Only a foot soak",
+            "A scrub, facial and massage"
           ],
           "answer": 3,
-          "explain": "The massage oil is the essential tool for this work."
+          "explain": "Bundle a scrub, facial and massage into one package price."
         },
         {
-          "q": "What should you always do when working on spa packages?",
+          "q": "What should you never include in a package for a client with broken skin?",
           "options": [
-            "never use products on broken skin",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Clean towels",
+            "Soft music",
+            "Products on the broken skin",
+            "A gentle massage on healthy skin"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Never use products on broken skin."
         }
       ],
@@ -1293,36 +1293,36 @@
       "challenge": "Do client consultation for spa two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on client consultation for spa?",
+          "q": "What does a spa consultation check?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A spa consultation checks allergies and skin conditions."
+            "Only the price",
+            "Only the time of day",
+            "Allergies and skin conditions",
+            "Only the client's age"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "A spa consultation checks allergies and skin conditions."
         },
         {
-          "q": "Which tool is most essential for client consultation for spa?",
+          "q": "What should you ask the client before their visit?",
           "options": [
-            "clean towels",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The clean towels is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on client consultation for spa?",
-          "options": [
-            "disinfect your clippers between clients",
-            "wash hands before every treatment",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Their job title",
+            "What they want from the visit",
+            "Their shoe size",
+            "Their favourite TV show"
           ],
           "answer": 1,
+          "explain": "Ask about allergies, skin conditions and what the client wants from the visit."
+        },
+        {
+          "q": "What should you do before every spa treatment?",
+          "options": [
+            "Wash your hands",
+            "Skip washing",
+            "Use a used towel",
+            "Put on strong perfume"
+          ],
+          "answer": 0,
           "explain": "You should always wash hands before every treatment."
         }
       ],
@@ -1349,34 +1349,34 @@
       "challenge": "Do pricing spa treatments two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on pricing spa treatments?",
+          "q": "What keeps regular spa clients booking?",
           "options": [
-            "Spa packages keep regular clients booking.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Spa packages",
+            "Very high prices",
+            "No rebooking",
+            "One treatment only"
           ],
           "answer": 0,
           "explain": "Spa packages keep regular clients booking."
         },
         {
-          "q": "Which tool is most essential for pricing spa treatments?",
+          "q": "How should you charge for spa treatments?",
           "options": [
-            "clipper with guards",
-            "body butter",
-            "trimmer",
-            "foil shaver"
+            "The same price for everything",
+            "By the client's age",
+            "By how busy the day is",
+            "By treatment and time"
           ],
-          "answer": 1,
-          "explain": "The body butter is the essential tool for this work."
+          "answer": 3,
+          "explain": "Charge by treatment and time, and offer packages for regulars."
         },
         {
-          "q": "What should you always do when working on pricing spa treatments?",
+          "q": "Before you use a new product on a regular client, what should you still check?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check for allergies before applying products",
-            "check the client for cuts before starting"
+            "Only the price",
+            "Only the smell",
+            "If they are allergic to anything in it",
+            "Nothing, because you know them"
           ],
           "answer": 2,
           "explain": "You should always check for allergies before applying products."
@@ -1405,36 +1405,36 @@
       "challenge": "Do spa business basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on spa business basics?",
+          "q": "What keeps the spa full?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Rebooking before the client leaves keeps the spa full.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Forgetting the booking list",
+            "Running out of products",
+            "Rebooking before the client leaves",
+            "Letting clients leave without rebooking"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Rebooking before the client leaves keeps the spa full."
         },
         {
-          "q": "Which tool is most essential for spa business basics?",
+          "q": "What should you do before the client leaves?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "body scrub",
-            "foil shaver"
+            "Sell them a product they do not need",
+            "Rebook them",
+            "Forget their name",
+            "Throw away their notes"
           ],
-          "answer": 2,
-          "explain": "The body scrub is the essential tool for this work."
+          "answer": 1,
+          "explain": "Keep a booking list, stock products, and rebook before the client leaves."
         },
         {
-          "q": "What should you always do when working on spa business basics?",
+          "q": "What should you never do, even for a regular client?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never use products on broken skin"
+            "Use products on broken skin",
+            "Wash your hands",
+            "Use clean towels",
+            "Check for allergies"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Never use products on broken skin."
         }
       ],
@@ -1461,36 +1461,36 @@
       "challenge": "Do aftercare for spa clients two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on aftercare for spa clients?",
+          "q": "What should clients drink after a spa treatment?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Drinking water after a spa treatment helps the body recover.",
-            "Using dirty tools gives the same result as clean ones."
+            "Water",
+            "Strong coffee only",
+            "Alcohol",
+            "Sugary drinks only"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Drinking water after a spa treatment helps the body recover."
         },
         {
-          "q": "Which tool is most essential for aftercare for spa clients?",
+          "q": "What should you tell clients to do after a treatment?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "massage oil"
+            "Go running at once",
+            "Skip water for a day",
+            "Sit in strong sun",
+            "Drink water, rest, and moisturise"
           ],
           "answer": 3,
-          "explain": "The massage oil is the essential tool for this work."
+          "explain": "Tell clients to drink water, rest, and moisturise after treatments."
         },
         {
-          "q": "What should you always do when working on aftercare for spa clients?",
+          "q": "What should you do before every treatment?",
           "options": [
-            "wash hands before every treatment",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use a dirty bowl",
+            "Share one towel",
+            "Wash your hands",
+            "Skip washing"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "You should always wash hands before every treatment."
         }
       ],
@@ -1517,36 +1517,36 @@
       "challenge": "Do building a spa portfolio two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on building a spa portfolio?",
+          "q": "What builds trust for a spa business?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Client reviews build trust for a spa business."
+            "Hiding your work",
+            "No reviews",
+            "Client reviews",
+            "No photos at all"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Client reviews build trust for a spa business."
         },
         {
-          "q": "Which tool is most essential for building a spa portfolio?",
+          "q": "What should you photograph for your portfolio?",
           "options": [
-            "clean towels",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The clean towels is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on building a spa portfolio?",
-          "options": [
-            "disinfect your clippers between clients",
-            "check for allergies before applying products",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Other people's work",
+            "Your setup and treatments",
+            "Only the outside of the building",
+            "Nothing at all"
           ],
           "answer": 1,
+          "explain": "Photograph your setup and treatments, and collect client reviews."
+        },
+        {
+          "q": "Before you treat a new client for your portfolio, what should you check?",
+          "options": [
+            "If they are allergic to any product",
+            "Their favourite colour",
+            "The price of the session",
+            "The brand of your phone"
+          ],
+          "answer": 0,
           "explain": "You should always check for allergies before applying products."
         }
       ],
@@ -1573,34 +1573,34 @@
       "challenge": "Do home spa services two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on home spa services?",
+          "q": "What does mobile spa work need?",
           "options": [
-            "Mobile spa work needs a full kit that travels well.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "A full kit that travels well",
+            "Only one towel",
+            "No products at all",
+            "A fixed room only"
           ],
           "answer": 0,
           "explain": "Mobile spa work needs a full kit that travels well."
         },
         {
-          "q": "Which tool is most essential for home spa services?",
+          "q": "What should you bring for a home spa visit?",
           "options": [
-            "clipper with guards",
-            "body butter",
-            "trimmer",
-            "foil shaver"
+            "Only a towel",
+            "Only one oil",
+            "Nothing, the client provides all",
+            "All your products and towels"
           ],
-          "answer": 1,
-          "explain": "The body butter is the essential tool for this work."
+          "answer": 3,
+          "explain": "Offer mobile spa treatments and bring all your products and towels."
         },
         {
-          "q": "What should you always do when working on home spa services?",
+          "q": "At a client's home, what should you never put products on?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never use products on broken skin",
-            "check the client for cuts before starting"
+            "Dry elbows",
+            "The back",
+            "Broken skin",
+            "Healthy skin"
           ],
           "answer": 2,
           "explain": "Never use products on broken skin."
@@ -1629,36 +1629,36 @@
       "challenge": "Do self-care for therapists two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on self-care for therapists?",
+          "q": "What keeps a therapist's energy up?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Rest between clients keeps a therapist's energy up.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Skipping meals",
+            "Standing all day without rest",
+            "Rest between clients",
+            "Working without any break"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Rest between clients keeps a therapist's energy up."
         },
         {
-          "q": "Which tool is most essential for self-care for therapists?",
+          "q": "What should you do between clients?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "body scrub",
-            "foil shaver"
+            "Work through the pain",
+            "Rest and stretch",
+            "Rush to the next client",
+            "Skip water"
           ],
-          "answer": 2,
-          "explain": "The body scrub is the essential tool for this work."
+          "answer": 1,
+          "explain": "Rest between clients, stretch, and keep your own energy up."
         },
         {
-          "q": "What should you always do when working on self-care for therapists?",
+          "q": "What should you do before every treatment, even when you are tired?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "wash hands before every treatment"
+            "Wash your hands",
+            "Skip washing",
+            "Use a used towel",
+            "Rush in without washing"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "You should always wash hands before every treatment."
         }
       ],
@@ -1685,36 +1685,36 @@
       "challenge": "Do capstone week: a paying spa client two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: a paying spa client?",
+          "q": "What does a paying spa client cover?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A paying spa client covers consultation, session and feedback.",
-            "The best result comes from skipping the preparation step."
+            "Consultation, session and feedback",
+            "Only the session",
+            "Only the feedback",
+            "Only the payment"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A paying spa client covers consultation, session and feedback."
         },
         {
-          "q": "Which tool is most essential for capstone week: a paying spa client?",
+          "q": "What should you collect from a paying client at the end?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "massage oil"
+            "Nothing",
+            "Their towel",
+            "Their money only",
+            "Feedback"
           ],
           "answer": 3,
-          "explain": "The massage oil is the essential tool for this work."
+          "explain": "Run a full spa session for a paying client and collect feedback."
         },
         {
-          "q": "What should you always do when working on capstone week: a paying spa client?",
+          "q": "Before a paying client's session, what should you check?",
           "options": [
-            "check for allergies before applying products",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "The price of the session",
+            "What they had for lunch",
+            "If they are allergic to any product you will use",
+            "Their favourite colour"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "You should always check for allergies before applying products."
         }
       ],

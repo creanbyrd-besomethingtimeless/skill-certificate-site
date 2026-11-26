@@ -28,36 +28,36 @@
       "challenge": "Do welcome to skincare two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to skincare?",
+          "q": "Which product in your kit is the most important for preventing damage to the skin?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Sunscreen is the most important skincare product for preventing damage.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Cotton pads",
+            "A toner",
+            "A headband",
+            "Sunscreen"
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Sunscreen is the most important skincare product for preventing damage."
         },
         {
-          "q": "Which tool is most essential for welcome to skincare?",
+          "q": "Which of these is part of your basic skincare kit?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "cleanser",
-            "foil shaver"
+            "A toothbrush",
+            "A hairdryer",
+            "A cleanser",
+            "A pair of scissors"
           ],
           "answer": 2,
-          "explain": "The cleanser is the essential tool for this work."
+          "explain": "A cleanser is part of your basic kit, along with toner, moisturiser, sunscreen, cotton pads and a headband."
         },
         {
-          "q": "What should you always do when working on welcome to skincare?",
+          "q": "What should you do before you use a new product on a client for the first time?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test every new product"
+            "Use a lot of it at once",
+            "Patch test it on a small area of skin",
+            "Mix it with another new product",
+            "Skip the test and wait for a rash"
           ],
-          "answer": 3,
+          "answer": 1,
           "explain": "You should always patch test every new product."
         }
       ],
@@ -84,36 +84,36 @@
       "challenge": "Do know the skin layers two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on know the skin layers?",
+          "q": "Which layer of skin is on the outside?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "The epidermis is the outermost layer of the skin.",
-            "Using dirty tools gives the same result as clean ones."
+            "The hypodermis",
+            "The dermis",
+            "The epidermis",
+            "The muscle layer"
           ],
           "answer": 2,
           "explain": "The epidermis is the outermost layer of the skin."
         },
         {
-          "q": "Which tool is most essential for know the skin layers?",
+          "q": "Which tool helps you look closely at the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "magnifying lamp"
+            "A facial steamer",
+            "Cotton pads",
+            "A magnifying lamp",
+            "A headband"
           ],
-          "answer": 3,
-          "explain": "The magnifying lamp is the essential tool for this work."
+          "answer": 2,
+          "explain": "A magnifying lamp helps you look closely at the skin so you can see pores and dry patches."
         },
         {
-          "q": "What should you always do when working on know the skin layers?",
+          "q": "What should you do with a red, sore, swollen spot?",
           "options": [
-            "never extract inflamed spots",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Scrub it with a rough brush",
+            "Cover it with a strong peel",
+            "Leave it alone and do not squeeze it",
+            "Squeeze it hard until it pops"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Never extract inflamed spots."
         }
       ],
@@ -140,34 +140,34 @@
       "challenge": "Do skin types explained two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on skin types explained?",
+          "q": "How can you tell skin is oily?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Oily skin looks shiny and has larger pores."
+            "It looks pale and thin",
+            "It never shines at all",
+            "It looks shiny and has larger pores",
+            "It feels tight and flakes"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Oily skin looks shiny and has larger pores."
         },
         {
-          "q": "Which tool is most essential for skin types explained?",
+          "q": "Which tool helps you see the skin clearly when you check skin type?",
           "options": [
-            "facial steamer",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "A headband",
+            "A magnifying lamp",
+            "A cleanser",
+            "A toner"
           ],
-          "answer": 0,
-          "explain": "The facial steamer is the essential tool for this work."
+          "answer": 1,
+          "explain": "A magnifying lamp helps you see the skin clearly so you can tell the skin type."
         },
         {
-          "q": "What should you always do when working on skin types explained?",
+          "q": "What should you always do after a facial?",
           "options": [
-            "disinfect your clippers between clients",
-            "always apply sunscreen after a facial",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Tell the client to sit in strong sun",
+            "Apply sunscreen",
+            "Put on heavy makeup right away",
+            "Scrub the skin again"
           ],
           "answer": 1,
           "explain": "Always apply sunscreen after a facial."
@@ -196,36 +196,36 @@
       "challenge": "Do reading skin conditions two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on reading skin conditions?",
+          "q": "What does dehydrated skin lack?",
           "options": [
-            "Dehydrated skin lacks water, not oil.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Oil",
+            "Water",
+            "Makeup",
+            "Sunlight"
           ],
-          "answer": 0,
+          "answer": 1,
           "explain": "Dehydrated skin lacks water, not oil."
         },
         {
-          "q": "Which tool is most essential for reading skin conditions?",
+          "q": "Which tool helps you look closely at spots and dry patches?",
           "options": [
-            "clipper with guards",
-            "sunscreen",
-            "trimmer",
-            "foil shaver"
+            "A magnifying lamp",
+            "A sunscreen",
+            "A headband",
+            "A facial steamer"
           ],
-          "answer": 1,
-          "explain": "The sunscreen is the essential tool for this work."
+          "answer": 0,
+          "explain": "A magnifying lamp helps you look closely at the skin so you can spot acne, dry patches and dark marks."
         },
         {
-          "q": "What should you always do when working on reading skin conditions?",
+          "q": "Before you try a new product on a client, what should you test first?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "patch test every new product",
-            "check the client for cuts before starting"
+            "The price of the product",
+            "The colour of the bottle",
+            "How it smells",
+            "A small patch of their skin"
           ],
-          "answer": 2,
+          "answer": 3,
           "explain": "You should always patch test every new product."
         }
       ],
@@ -252,36 +252,36 @@
       "challenge": "Do cleansing done right two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on cleansing done right?",
+          "q": "How long should cleansing last for a proper clean?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Cleansing should last about 60 seconds for a proper clean.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "About 10 minutes",
+            "About 1 second",
+            "About 5 seconds",
+            "About 60 seconds"
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Cleansing should last about 60 seconds for a proper clean."
         },
         {
-          "q": "Which tool is most essential for cleansing done right?",
+          "q": "What do you use to clean the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "cleanser",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The cleanser is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on cleansing done right?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never extract inflamed spots"
+            "A toner",
+            "A moisturiser",
+            "A sunscreen",
+            "A cleanser"
           ],
           "answer": 3,
+          "explain": "A cleanser is what you use to clean the skin, with lukewarm water."
+        },
+        {
+          "q": "Which spots should you never squeeze?",
+          "options": [
+            "Loose blackheads that come out easily",
+            "Red, sore, swollen spots",
+            "Dry flakes on the nose",
+            "A little dust on the cheek"
+          ],
+          "answer": 1,
           "explain": "Never extract inflamed spots."
         }
       ],
@@ -308,34 +308,34 @@
       "challenge": "Do exfoliation basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on exfoliation basics?",
+          "q": "How often should you scrub away dead skin?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Scrubbing away dead skin should be done once or twice a week, not daily.",
-            "The best result comes from skipping the preparation step."
+            "Every day",
+            "Once or twice a week",
+            "Once a month",
+            "Three times a day"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "Scrubbing away dead skin should be done once or twice a week, not daily."
         },
         {
-          "q": "Which tool is most essential for exfoliation basics?",
+          "q": "What removes dead skin from the surface?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "magnifying lamp"
+            "A moisturiser",
+            "A toner",
+            "A sunscreen",
+            "A gentle exfoliant"
           ],
           "answer": 3,
-          "explain": "The magnifying lamp is the essential tool for this work."
+          "explain": "A gentle exfoliant removes dead skin from the surface of the skin."
         },
         {
-          "q": "What should you always do when working on exfoliation basics?",
+          "q": "After a facial, what protects the fresh skin from the sun?",
           "options": [
-            "always apply sunscreen after a facial",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Sunscreen",
+            "Heavy makeup",
+            "A scrub",
+            "A strong peel"
           ],
           "answer": 0,
           "explain": "Always apply sunscreen after a facial."
@@ -364,36 +364,36 @@
       "challenge": "Do toning and hydration two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on toning and hydration?",
+          "q": "When do toner and serum work best?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Toner and serum work best on damp skin."
+            "On dirty skin",
+            "On skin covered in makeup",
+            "On damp skin",
+            "On very dry skin"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Toner and serum work best on damp skin."
         },
         {
-          "q": "Which tool is most essential for toning and hydration?",
+          "q": "What adds water back into the skin?",
           "options": [
-            "facial steamer",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "An exfoliant",
+            "A cleanser",
+            "A hydrating serum",
+            "A sunscreen"
           ],
-          "answer": 0,
-          "explain": "The facial steamer is the essential tool for this work."
+          "answer": 2,
+          "explain": "A hydrating serum adds water back into the skin and locks in moisture."
         },
         {
-          "q": "What should you always do when working on toning and hydration?",
+          "q": "What should you do with a new toner or serum before using it on a client?",
           "options": [
-            "disinfect your clippers between clients",
-            "patch test every new product",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Patch test it first",
+            "Pour it on all at once",
+            "Mix it with three other new products",
+            "Use it without checking"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "You should always patch test every new product."
         }
       ],
@@ -431,34 +431,34 @@
       "challenge": "Do week 1 project: build a routine two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: build a routine?",
+          "q": "What are the four steps of a full skincare routine?",
           "options": [
-            "A full routine covers cleanse, treat, moisturise and protect.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "Cleanse, treat, moisturise and protect",
+            "Scrub, peel, bleach and powder",
+            "Wash, dry, powder and perfume",
+            "Steam, sleep, mask and shine"
           ],
           "answer": 0,
           "explain": "A full routine covers cleanse, treat, moisturise and protect."
         },
         {
-          "q": "Which tool is most essential for week 1 project: build a routine?",
+          "q": "What is the last step of a full routine?",
           "options": [
-            "clipper with guards",
-            "sunscreen",
-            "trimmer",
-            "foil shaver"
+            "Treat",
+            "Moisturise",
+            "Protect with sunscreen",
+            "Cleanse"
           ],
-          "answer": 1,
-          "explain": "The sunscreen is the essential tool for this work."
+          "answer": 2,
+          "explain": "Protect is the last step of a full routine: cleanse, treat, moisturise and protect."
         },
         {
-          "q": "What should you always do when working on week 1 project: build a routine?",
+          "q": "During a routine, what should you never do to a sore, swollen spot?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never extract inflamed spots",
-            "check the client for cuts before starting"
+            "Scrub it hard",
+            "Peel the skin off it",
+            "Squeeze it until it pops",
+            "Leave it alone and do not squeeze it"
           ],
           "answer": 2,
           "explain": "Never extract inflamed spots."
@@ -487,36 +487,36 @@
       "challenge": "Do moisturisers and barrier care two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on moisturisers and barrier care?",
+          "q": "What helps repair the skin barrier?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Ceramides help repair the skin barrier.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Strong scrubs",
+            "Heavy makeup",
+            "Ceramides",
+            "Hot water"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Ceramides help repair the skin barrier."
         },
         {
-          "q": "Which tool is most essential for moisturisers and barrier care?",
+          "q": "Which product seals moisture into the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "cleanser",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The cleanser is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on moisturisers and barrier care?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "always apply sunscreen after a facial"
+            "An exfoliant",
+            "A cleanser",
+            "A toner",
+            "A moisturiser"
           ],
           "answer": 3,
+          "explain": "A moisturiser seals moisture into the skin and helps repair the barrier."
+        },
+        {
+          "q": "What should you put on the skin after a facial to protect it?",
+          "options": [
+            "A rough scrub",
+            "Sunscreen",
+            "A strong acid peel",
+            "Heavy powder"
+          ],
+          "answer": 1,
           "explain": "Always apply sunscreen after a facial."
         }
       ],
@@ -543,36 +543,36 @@
       "challenge": "Do sunscreen and sun protection two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on sunscreen and sun protection?",
+          "q": "How strong should your sunscreen be, and how often should you put it on again outside?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Sunscreen should be SPF 30 or higher and reapplied outdoors.",
-            "You should always use the strongest product available."
+            "SPF 30 or higher, every two hours outdoors",
+            "SPF 5, once a week",
+            "SPF 10, once a day only",
+            "Any SPF, never again after morning"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Sunscreen should be SPF 30 or higher and reapplied outdoors."
         },
         {
-          "q": "Which tool is most essential for sunscreen and sun protection?",
+          "q": "What protects the skin from sun damage?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "magnifying lamp"
+            "A toner",
+            "Sunscreen",
+            "A face mask",
+            "A cleanser"
           ],
-          "answer": 3,
-          "explain": "The magnifying lamp is the essential tool for this work."
+          "answer": 1,
+          "explain": "Sunscreen protects the skin from sun damage. Use SPF 30 or higher."
         },
         {
-          "q": "What should you always do when working on sunscreen and sun protection?",
+          "q": "What should you do before a client tries a new sunscreen?",
           "options": [
-            "patch test every new product",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Put it on broken skin",
+            "Skip the test",
+            "Patch test it on a small area",
+            "Rub it in their eyes"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "You should always patch test every new product."
         }
       ],
@@ -599,34 +599,34 @@
       "challenge": "Do serums and active ingredients two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on serums and active ingredients?",
+          "q": "When do you use vitamin C, and when do you use retinol?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Vitamin C is used in the morning; retinol is used at night."
+            "Both only at noon",
+            "Both only once a week",
+            "Vitamin C at night, retinol in the morning",
+            "Vitamin C in the morning, retinol at night"
           ],
           "answer": 3,
           "explain": "Vitamin C is used in the morning; retinol is used at night."
         },
         {
-          "q": "Which tool is most essential for serums and active ingredients?",
+          "q": "Which product do you use in the morning to brighten the skin?",
           "options": [
-            "facial steamer",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "A scrub",
+            "Retinol",
+            "Vitamin C serum",
+            "A strong peel"
           ],
-          "answer": 0,
-          "explain": "The facial steamer is the essential tool for this work."
+          "answer": 2,
+          "explain": "Vitamin C serum is used in the morning; retinol is used at night."
         },
         {
-          "q": "What should you always do when working on serums and active ingredients?",
+          "q": "What should you never do to an inflamed spot when using strong products?",
           "options": [
-            "disinfect your clippers between clients",
-            "never extract inflamed spots",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Leave it alone",
+            "Squeeze it",
+            "Wash it gently",
+            "Moisturise it"
           ],
           "answer": 1,
           "explain": "Never extract inflamed spots."
@@ -655,34 +655,34 @@
       "challenge": "Do treating acne two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on treating acne?",
+          "q": "What happens if you squeeze spots?",
           "options": [
-            "Squeezing spots causes scarring and infection.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "They heal faster",
+            "It causes scarring and infection",
+            "The skin gets stronger",
+            "Nothing at all"
           ],
-          "answer": 0,
+          "answer": 1,
           "explain": "Squeezing spots causes scarring and infection."
         },
         {
-          "q": "Which tool is most essential for treating acne?",
+          "q": "Which product helps with blackheads?",
           "options": [
-            "clipper with guards",
-            "sunscreen",
-            "trimmer",
-            "foil shaver"
+            "A rough scrub",
+            "Your fingernails",
+            "Heavy makeup",
+            "Salicylic acid"
           ],
-          "answer": 1,
-          "explain": "The sunscreen is the essential tool for this work."
+          "answer": 3,
+          "explain": "Use salicylic acid for blackheads and benzoyl peroxide for spots, and never squeeze."
         },
         {
-          "q": "What should you always do when working on treating acne?",
+          "q": "After treating acne, what protects the skin from the sun?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "always apply sunscreen after a facial",
-            "check the client for cuts before starting"
+            "A peel",
+            "Makeup",
+            "Sunscreen",
+            "A scrub"
           ],
           "answer": 2,
           "explain": "Always apply sunscreen after a facial."
@@ -711,36 +711,36 @@
       "challenge": "Do hyperpigmentation care two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hyperpigmentation care?",
+          "q": "What stops dark marks from getting darker?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Sunscreen stops dark marks from getting darker.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Hot water",
+            "Skipping moisturiser",
+            "Sunscreen",
+            "Scrubbing hard"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Sunscreen stops dark marks from getting darker."
         },
         {
-          "q": "Which tool is most essential for hyperpigmentation care?",
+          "q": "Which products help dark marks fade?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "cleanser",
-            "foil shaver"
+            "Heavy powder",
+            "Niacinamide and vitamin C",
+            "Soap and hot water",
+            "A rough scrub"
           ],
-          "answer": 2,
-          "explain": "The cleanser is the essential tool for this work."
+          "answer": 1,
+          "explain": "Use niacinamide and vitamin C, and protect with sunscreen so dark marks fade."
         },
         {
-          "q": "What should you always do when working on hyperpigmentation care?",
+          "q": "Before you use a new brightening product on a client, what should you do?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test every new product"
+            "Patch test it first",
+            "Use a large amount at once",
+            "Mix it with another new product",
+            "Skip the test"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "You should always patch test every new product."
         }
       ],
@@ -767,36 +767,36 @@
       "challenge": "Do facial step by step two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on facial step by step?",
+          "q": "What order does a facial follow?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A facial follows the order cleanse, scrub away dead skin, steam, mask, moisturise.",
-            "Using dirty tools gives the same result as clean ones."
+            "Moisturise, mask, steam, scrub, cleanse",
+            "Cleanse, scrub away dead skin, steam, mask, moisturise",
+            "Steam, cleanse, moisturise, scrub, mask",
+            "Mask, cleanse, steam, moisturise, scrub"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "A facial follows the order cleanse, scrub away dead skin, steam, mask, moisturise."
         },
         {
-          "q": "Which tool is most essential for facial step by step?",
+          "q": "Which tool makes steam to open the pores?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "magnifying lamp"
-          ],
-          "answer": 3,
-          "explain": "The magnifying lamp is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on facial step by step?",
-          "options": [
-            "never extract inflamed spots",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "A facial steamer",
+            "A cleanser",
+            "A headband",
+            "A magnifying lamp"
           ],
           "answer": 0,
+          "explain": "A facial steamer makes steam that opens the pores before gentle extraction."
+        },
+        {
+          "q": "When you extract during a facial, which spots do you leave alone?",
+          "options": [
+            "Dry flakes",
+            "A little dirt on the chin",
+            "Loose blackheads",
+            "Red, sore, swollen spots"
+          ],
+          "answer": 3,
           "explain": "Never extract inflamed spots."
         }
       ],
@@ -834,34 +834,34 @@
       "challenge": "Do week 2 project: a full facial two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: a full facial?",
+          "q": "What does a full facial cover?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A full facial covers every step from cleanse to moisturise."
+            "Every step from cleanse to moisturise",
+            "Only steaming",
+            "Only cleansing",
+            "Only moisturising"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "A full facial covers every step from cleanse to moisturise."
         },
         {
-          "q": "Which tool is most essential for week 2 project: a full facial?",
+          "q": "What is the first step of a full facial?",
           "options": [
-            "facial steamer",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "Mask",
+            "Moisturise",
+            "Steam",
+            "Cleanse"
           ],
-          "answer": 0,
-          "explain": "The facial steamer is the essential tool for this work."
+          "answer": 3,
+          "explain": "A full facial starts with cleansing and covers every step through to moisturiser."
         },
         {
-          "q": "What should you always do when working on week 2 project: a full facial?",
+          "q": "What is the last thing to do after a full facial?",
           "options": [
-            "disinfect your clippers between clients",
-            "always apply sunscreen after a facial",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Scrub the skin again",
+            "Apply sunscreen",
+            "Sit in strong sun",
+            "Put on heavy makeup"
           ],
           "answer": 1,
           "explain": "Always apply sunscreen after a facial."
@@ -890,34 +890,34 @@
       "challenge": "Do facial massage two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on facial massage?",
+          "q": "Which way should facial massage strokes go?",
           "options": [
-            "Facial massage uses upward strokes to lift the skin.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Downward",
+            "Side to side",
+            "Upward",
+            "In hard circles"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Facial massage uses upward strokes to lift the skin."
         },
         {
-          "q": "Which tool is most essential for facial massage?",
+          "q": "What does facial massage with light pressure help to do?",
           "options": [
-            "clipper with guards",
-            "sunscreen",
-            "trimmer",
-            "foil shaver"
+            "It removes the top layer of skin",
+            "It dries the skin out",
+            "It makes the skin sore",
+            "It boosts circulation and relaxes the face"
           ],
-          "answer": 1,
-          "explain": "The sunscreen is the essential tool for this work."
+          "answer": 3,
+          "explain": "Massage upward with light pressure to boost circulation and relax the face."
         },
         {
-          "q": "What should you always do when working on facial massage?",
+          "q": "Before you massage a new oil into a client's face, what should you do?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "patch test every new product",
-            "check the client for cuts before starting"
+            "Use a large amount",
+            "Skip the test",
+            "Patch test it first",
+            "Rub it in hard"
           ],
           "answer": 2,
           "explain": "You should always patch test every new product."
@@ -946,36 +946,36 @@
       "challenge": "Do steam and extraction two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on steam and extraction?",
+          "q": "Why do you steam before extraction?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Steam opens pores before gentle extraction.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "To dry the skin out",
+            "To cool the skin down",
+            "To close the pores",
+            "To open the pores"
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Steam opens pores before gentle extraction."
         },
         {
-          "q": "Which tool is most essential for steam and extraction?",
+          "q": "How long should you steam for?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "cleanser",
-            "foil shaver"
+            "1 hour",
+            "5 to 10 minutes",
+            "1 minute",
+            "30 minutes"
           ],
-          "answer": 2,
-          "explain": "The cleanser is the essential tool for this work."
+          "answer": 1,
+          "explain": "Steam for 5 to 10 minutes to open pores, then extract only loose blackheads."
         },
         {
-          "q": "What should you always do when working on steam and extraction?",
+          "q": "After steaming, which spots should you never try to extract?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never extract inflamed spots"
+            "Loose blackheads",
+            "Inflamed spots",
+            "Dry flakes",
+            "Loose dirt"
           ],
-          "answer": 3,
+          "answer": 1,
           "explain": "Never extract inflamed spots."
         }
       ],
@@ -1002,36 +1002,36 @@
       "challenge": "Do face masks two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on face masks?",
+          "q": "Which mask suits oily skin, and which suits dry skin?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Clay masks suit oily skin; hydrating masks suit dry skin.",
-            "The best result comes from skipping the preparation step."
+            "Clay for oily skin, hydrating for dry skin",
+            "Hydrating for oily skin, clay for dry skin",
+            "Clay for all skin",
+            "Hydrating for all skin"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Clay masks suit oily skin; hydrating masks suit dry skin."
         },
         {
-          "q": "Which tool is most essential for face masks?",
+          "q": "What do you put on the face after cleansing and steaming in a facial?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "magnifying lamp"
+            "A sunscreen first",
+            "A scrub again",
+            "A strong peel",
+            "A face mask"
           ],
           "answer": 3,
-          "explain": "The magnifying lamp is the essential tool for this work."
+          "explain": "Choose a clay mask for oily skin and a hydrating mask for dry skin."
         },
         {
-          "q": "What should you always do when working on face masks?",
+          "q": "After a face mask, what protects the skin outside?",
           "options": [
-            "always apply sunscreen after a facial",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Hot water",
+            "Heavy powder",
+            "Sunscreen",
+            "A rough scrub"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Always apply sunscreen after a facial."
         }
       ],
@@ -1058,36 +1058,36 @@
       "challenge": "Do skin analysis two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on skin analysis?",
+          "q": "What helps you analyse the skin properly?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A magnifying lamp helps you analyse the skin properly."
+            "A headband",
+            "A mirror alone",
+            "A magnifying lamp",
+            "A towel"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "A magnifying lamp helps you analyse the skin properly."
         },
         {
-          "q": "Which tool is most essential for skin analysis?",
+          "q": "What do you check with the magnifying lamp before you recommend products?",
           "options": [
-            "facial steamer",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The facial steamer is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on skin analysis?",
-          "options": [
-            "disinfect your clippers between clients",
-            "patch test every new product",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "The colour of the towels",
+            "Pores, hydration and pigmentation",
+            "The client's age",
+            "The price of products"
           ],
           "answer": 1,
+          "explain": "Use a magnifying lamp to check pores, hydration and pigmentation before recommending products."
+        },
+        {
+          "q": "After you analyse the skin, what should you do before you recommend a new product?",
+          "options": [
+            "Patch test it",
+            "Tell the client to buy the strongest one",
+            "Skip the test",
+            "Mix three new products"
+          ],
+          "answer": 0,
           "explain": "You should always patch test every new product."
         }
       ],
@@ -1114,34 +1114,34 @@
       "challenge": "Do sensitive skin care two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on sensitive skin care?",
+          "q": "Why is patch testing important for sensitive skin?",
           "options": [
-            "Patch testing prevents reactions on sensitive skin.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "It prevents reactions",
+            "It makes the skin redder",
+            "It saves product",
+            "It makes the skin oilier"
           ],
           "answer": 0,
           "explain": "Patch testing prevents reactions on sensitive skin."
         },
         {
-          "q": "Which tool is most essential for sensitive skin care?",
+          "q": "Which products should you use on sensitive skin?",
           "options": [
-            "clipper with guards",
-            "sunscreen",
-            "trimmer",
-            "foil shaver"
+            "Strong perfumed products",
+            "Rough scrubs",
+            "Strong peels",
+            "Fragrance-free products"
           ],
-          "answer": 1,
-          "explain": "The sunscreen is the essential tool for this work."
+          "answer": 3,
+          "explain": "Use fragrance-free products, patch test everything, and introduce actives slowly."
         },
         {
-          "q": "What should you always do when working on sensitive skin care?",
+          "q": "What should you never do to sore, swollen skin?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never extract inflamed spots",
-            "check the client for cuts before starting"
+            "Wash it gently",
+            "Moisturise it",
+            "Squeeze it",
+            "Leave it alone"
           ],
           "answer": 2,
           "explain": "Never extract inflamed spots."
@@ -1170,36 +1170,36 @@
       "challenge": "Do week 3 project: a skin analysis and plan two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: a skin analysis and plan?",
+          "q": "What does a good skin plan do?",
           "options": [
-            "You never need to check your work until the very end.",
-            "A skin plan matches products to the client's skin type and goals.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "It skips the skin check",
+            "It uses the strongest products",
+            "It matches products to the client's skin type and goals",
+            "It gives everyone the same products"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "A skin plan matches products to the client's skin type and goals."
         },
         {
-          "q": "Which tool is most essential for week 3 project: a skin analysis and plan?",
+          "q": "What do you do first when you build a four-week plan for a client?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "cleanser",
-            "foil shaver"
+            "Copy another client's plan",
+            "Analyse their skin",
+            "Buy the most expensive products",
+            "Skip the consultation"
           ],
-          "answer": 2,
-          "explain": "The cleanser is the essential tool for this work."
+          "answer": 1,
+          "explain": "Analyse a client's skin and write a four-week routine plan for them."
         },
         {
-          "q": "What should you always do when working on week 3 project: a skin analysis and plan?",
+          "q": "What should a client's home plan always include for daytime?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "always apply sunscreen after a facial"
+            "Sunscreen",
+            "A strong peel every day",
+            "Scrubbing every day",
+            "No moisturiser"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Always apply sunscreen after a facial."
         }
       ],
@@ -1237,36 +1237,36 @@
       "challenge": "Do anti-ageing basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on anti-ageing basics?",
+          "q": "What are the two core products for anti-ageing care?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Retinol and sunscreen are the core of anti-ageing care.",
-            "You should always use the strongest product available."
+            "Retinol and sunscreen",
+            "Scrub and hot water",
+            "Makeup and powder",
+            "Soap and steam"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Retinol and sunscreen are the core of anti-ageing care."
         },
         {
-          "q": "Which tool is most essential for anti-ageing basics?",
+          "q": "When should you use retinol?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "magnifying lamp"
-          ],
-          "answer": 3,
-          "explain": "The magnifying lamp is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on anti-ageing basics?",
-          "options": [
-            "patch test every new product",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "At night",
+            "Only once a month",
+            "Only in summer",
+            "In the morning"
           ],
           "answer": 0,
+          "explain": "Use retinol, peptides and sunscreen to keep skin firm and smooth. Retinol is used at night."
+        },
+        {
+          "q": "Before you start a client on retinol, what should you do?",
+          "options": [
+            "Mix it with other strong actives",
+            "Skip the test",
+            "Patch test it first",
+            "Use the strongest one at once"
+          ],
+          "answer": 2,
           "explain": "You should always patch test every new product."
         }
       ],
@@ -1293,34 +1293,34 @@
       "challenge": "Do skincare for men two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on skincare for men?",
+          "q": "How is men's skin different?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Men's skin is thicker and often oilier than women's."
+            "It never gets oily",
+            "It needs no care",
+            "It is thicker and often oilier",
+            "It is thinner and drier"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Men's skin is thicker and often oilier than women's."
         },
         {
-          "q": "Which tool is most essential for skincare for men?",
+          "q": "What kind of routine suits men's skin best?",
           "options": [
-            "facial steamer",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "No routine at all",
+            "A simple, steady routine",
+            "A long routine with many strong products",
+            "A new product every day"
           ],
-          "answer": 0,
-          "explain": "The facial steamer is the essential tool for this work."
+          "answer": 1,
+          "explain": "Men's skin is thicker and oilier; keep the routine simple and consistent."
         },
         {
-          "q": "What should you always do when working on skincare for men?",
+          "q": "What should a man never do to a sore, swollen spot?",
           "options": [
-            "disinfect your clippers between clients",
-            "never extract inflamed spots",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Leave it alone",
+            "Squeeze it",
+            "Wash it gently",
+            "Moisturise around it"
           ],
           "answer": 1,
           "explain": "Never extract inflamed spots."
@@ -1349,34 +1349,34 @@
       "challenge": "Do seasonal skincare two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on seasonal skincare?",
+          "q": "What protects skin in dry harmattan weather?",
           "options": [
-            "Richer creams protect skin in dry harmattan weather.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Richer creams",
+            "Lighter gels",
+            "No cream at all",
+            "Cold water only"
           ],
           "answer": 0,
           "explain": "Richer creams protect skin in dry harmattan weather."
         },
         {
-          "q": "Which tool is most essential for seasonal skincare?",
+          "q": "What should you use in hot, humid weather?",
           "options": [
-            "clipper with guards",
-            "sunscreen",
-            "trimmer",
-            "foil shaver"
+            "Lighter gels",
+            "Heavy oils",
+            "Thick butter",
+            "Richer creams"
           ],
-          "answer": 1,
-          "explain": "The sunscreen is the essential tool for this work."
+          "answer": 0,
+          "explain": "Use richer creams in harmattan and lighter gels in hot, humid weather."
         },
         {
-          "q": "What should you always do when working on seasonal skincare?",
+          "q": "In hot, sunny weather, what should you always put on after a facial?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "always apply sunscreen after a facial",
-            "check the client for cuts before starting"
+            "A peel",
+            "Heavy makeup",
+            "Sunscreen",
+            "A scrub"
           ],
           "answer": 2,
           "explain": "Always apply sunscreen after a facial."
@@ -1405,36 +1405,36 @@
       "challenge": "Do product ingredients to know two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on product ingredients to know?",
+          "q": "What does hyaluronic acid do?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Hyaluronic acid draws water into the skin.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "It removes colour from the skin",
+            "It makes skin oily",
+            "It draws water into the skin",
+            "It dries the skin out"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "Hyaluronic acid draws water into the skin."
         },
         {
-          "q": "Which tool is most essential for product ingredients to know?",
+          "q": "Which ingredient should you look for on a label for dry skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "cleanser",
-            "foil shaver"
+            "Niacinamide",
+            "Hyaluronic acid",
+            "Salicylic acid",
+            "Retinol"
           ],
-          "answer": 2,
-          "explain": "The cleanser is the essential tool for this work."
+          "answer": 1,
+          "explain": "Read labels for niacinamide, hyaluronic acid, salicylic acid and retinol. Hyaluronic acid draws water into the skin."
         },
         {
-          "q": "What should you always do when working on product ingredients to know?",
+          "q": "Before you use a product with a new ingredient on a client, what should you do?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test every new product"
+            "Patch test it first",
+            "Use a large amount",
+            "Mix it with other new products",
+            "Skip the test"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "You should always patch test every new product."
         }
       ],
@@ -1461,36 +1461,36 @@
       "challenge": "Do client consultation for skin two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on client consultation for skin?",
+          "q": "What should a skin consultation ask about?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A skin consultation asks about products, allergies and goals.",
-            "Using dirty tools gives the same result as clean ones."
+            "Products, allergies and goals",
+            "Only the client's age",
+            "Only the price",
+            "Only the weather"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A skin consultation asks about products, allergies and goals."
         },
         {
-          "q": "Which tool is most essential for client consultation for skin?",
+          "q": "What should you ask about before you recommend any product?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "magnifying lamp"
+            "Their favourite colour",
+            "Their shoe size",
+            "Their job title",
+            "Their current products and allergies"
           ],
           "answer": 3,
-          "explain": "The magnifying lamp is the essential tool for this work."
+          "explain": "Ask about current products, allergies, diet and goals before recommending anything."
         },
         {
-          "q": "What should you always do when working on client consultation for skin?",
+          "q": "During a consultation, what should you tell a client never to do to a sore, swollen spot?",
           "options": [
-            "never extract inflamed spots",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Wash it gently",
+            "Cover it with moisturiser",
+            "Squeeze it",
+            "Leave it alone"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Never extract inflamed spots."
         }
       ],
@@ -1517,36 +1517,36 @@
       "challenge": "Do pricing skincare services two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on pricing skincare services?",
+          "q": "What keeps skincare clients coming back?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Facial packages keep skincare clients coming back."
+            "No rebooking",
+            "The strongest products",
+            "Facial packages",
+            "One very expensive facial"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "Facial packages keep skincare clients coming back."
         },
         {
-          "q": "Which tool is most essential for pricing skincare services?",
+          "q": "How should you charge for skincare services?",
           "options": [
-            "facial steamer",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 0,
-          "explain": "The facial steamer is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on pricing skincare services?",
-          "options": [
-            "disinfect your clippers between clients",
-            "always apply sunscreen after a facial",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "By how busy the shop is",
+            "By treatment time and products used",
+            "The same price for everything",
+            "By the client's age"
           ],
           "answer": 1,
+          "explain": "Charge by treatment time and products used, and offer packages for regular facials."
+        },
+        {
+          "q": "After a facial, what should you remind the client to use every morning?",
+          "options": [
+            "Sunscreen",
+            "A scrub",
+            "A strong peel",
+            "Heavy makeup"
+          ],
+          "answer": 0,
           "explain": "Always apply sunscreen after a facial."
         }
       ],
@@ -1573,34 +1573,34 @@
       "challenge": "Do skincare business basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on skincare business basics?",
+          "q": "Why should you keep client skin records?",
           "options": [
-            "Client skin records help you track progress over time.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "They help you track progress over time",
+            "They take up space",
+            "They are only for show",
+            "They replace the consultation"
           ],
           "answer": 0,
           "explain": "Client skin records help you track progress over time."
         },
         {
-          "q": "Which tool is most essential for skincare business basics?",
+          "q": "What should you do after each facial to keep the client coming back?",
           "options": [
-            "clipper with guards",
-            "sunscreen",
-            "trimmer",
-            "foil shaver"
+            "Forget their name",
+            "Throw away their record",
+            "Change their products every time",
+            "Rebook them"
           ],
-          "answer": 1,
-          "explain": "The sunscreen is the essential tool for this work."
+          "answer": 3,
+          "explain": "Keep client skin records, track what works, and rebook after each facial."
         },
         {
-          "q": "What should you always do when working on skincare business basics?",
+          "q": "When you try a new product on a regular client, what should you still do?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "patch test every new product",
-            "check the client for cuts before starting"
+            "Use a large amount",
+            "Mix it with another new product",
+            "Patch test it first",
+            "Skip the test because you know them"
           ],
           "answer": 2,
           "explain": "You should always patch test every new product."
@@ -1629,36 +1629,36 @@
       "challenge": "Do aftercare and home routines two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on aftercare and home routines?",
+          "q": "What should clients avoid for a day after a facial?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "After a facial, clients should avoid heavy makeup for a day.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Washing their face gently",
+            "Moisturiser",
+            "Heavy makeup",
+            "Drinking water"
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "After a facial, clients should avoid heavy makeup for a day."
         },
         {
-          "q": "Which tool is most essential for aftercare and home routines?",
+          "q": "What should you give the client to take home?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "cleanser",
-            "foil shaver"
+            "A rough scrub",
+            "A written routine",
+            "Nothing at all",
+            "A strong peel"
           ],
-          "answer": 2,
-          "explain": "The cleanser is the essential tool for this work."
+          "answer": 1,
+          "explain": "Give the client a written routine and tell them what to avoid after a facial."
         },
         {
-          "q": "What should you always do when working on aftercare and home routines?",
+          "q": "What should you tell a client never to do to a sore spot at home?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never extract inflamed spots"
+            "Squeeze it",
+            "Leave it alone",
+            "Wash it gently",
+            "Moisturise it"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Never extract inflamed spots."
         }
       ],
@@ -1685,36 +1685,36 @@
       "challenge": "Do capstone week: your first facial client two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: your first facial client?",
+          "q": "What does a paying facial client cover?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A paying facial client covers analysis, treatment and a home plan.",
-            "The best result comes from skipping the preparation step."
+            "Only the treatment",
+            "Analysis, treatment and a home plan",
+            "Only the home plan",
+            "Only the analysis"
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "A paying facial client covers analysis, treatment and a home plan."
         },
         {
-          "q": "Which tool is most essential for capstone week: your first facial client?",
+          "q": "What is the first part of a full facial for a paying client?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "magnifying lamp"
+            "The treatment",
+            "The skin analysis",
+            "The payment",
+            "The home plan"
           ],
-          "answer": 3,
-          "explain": "The magnifying lamp is the essential tool for this work."
+          "answer": 1,
+          "explain": "A paying facial client covers analysis, treatment and a home plan."
         },
         {
-          "q": "What should you always do when working on capstone week: your first facial client?",
+          "q": "What should you always do at the end of a facial for a paying client?",
           "options": [
-            "always apply sunscreen after a facial",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Send them into strong sun",
+            "Put on heavy makeup",
+            "Apply sunscreen",
+            "Scrub the skin again"
           ],
-          "answer": 0,
+          "answer": 2,
           "explain": "Always apply sunscreen after a facial."
         }
       ],

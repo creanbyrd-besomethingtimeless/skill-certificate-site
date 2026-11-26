@@ -1,1714 +1,1714 @@
 {
- "course": {
-  "id": "tiling",
-  "title": "Tiling",
-  "level": "Beginner",
-  "tagline": "Lay floor and wall tiles straight, level and lasting.",
-  "duration_days": 30
- },
- "days": [
-  {
-   "day": 1,
-   "week": 1,
-   "title": "Tiling Tools and Materials",
-   "goal": "Know the tiling tools and materials.",
-   "video": {
-    "youtube_id": "-3YQaSQUMdk",
-    "title": "How to Tile a Floor",
-    "channel": "Flooring Inc"
-   },
-   "steps": [
-    "Lay out a tile cutter, notched trowel, spacers, level, sponge and bucket.",
-    "Learn the materials: tiles, adhesive (the glue), grout (the filler between tiles) and spacers.",
-    "A notched trowel is the flat tool with teeth that spreads adhesive evenly.",
-    "Set up a clean flat work area."
-   ],
-   "task": "Label every tiling tool and material on your bench.",
-   "challenge": "Name every tiling tool without looking.",
-   "quiz": [
-    {
-     "q": "What is tile adhesive?",
-     "options": [
-      "Paint",
-      "The glue that sticks tiles to the floor or wall",
-      "Grout",
-      "A tile type"
-     ],
-     "answer": 1,
-     "explain": "Adhesive is the glue that bonds tiles to the surface."
-    },
-    {
-     "q": "What is grout?",
-     "options": [
-      "The glue",
-      "The paste that fills gaps between tiles",
-      "A tile cutter",
-      "A spacer"
-     ],
-     "answer": 1,
-     "explain": "Grout fills the joints between tiles and seals them."
-    },
-    {
-     "q": "What does a notched trowel do?",
-     "options": [
-      "Cuts tiles",
-      "Spreads adhesive in even ridges",
-      "Mixes grout",
-      "Levels tiles"
-     ],
-     "answer": 1,
-     "explain": "The notches leave even ridges so tiles sit flat."
-    }
-   ],
-   "project": null
+  "course": {
+    "id": "tiling",
+    "title": "Tiling",
+    "level": "Beginner",
+    "tagline": "Lay floor and wall tiles straight, level and lasting.",
+    "duration_days": 30
   },
-  {
-   "day": 2,
-   "week": 1,
-   "title": "Plan a Tile Layout",
-   "goal": "Plan where tiles go so cuts are even and the pattern is straight.",
-   "video": {
-    "youtube_id": "-3YQaSQUMdk",
-    "title": "How to Tile a Floor",
-    "channel": "Flooring Inc"
-   },
-   "steps": [
-    "Measure the floor and work out how many tiles you need.",
-    "Dry-lay tiles (lay them without glue) to check the pattern.",
-    "Plan so cut tiles at the edges are the same size both sides.",
-    "Mark the centre lines on the floor with chalk."
-   ],
-   "task": "Draw a tile layout plan for a small floor.",
-   "challenge": "Plan a floor so no cut tile is thinner than half a tile.",
-   "quiz": [
+  "days": [
     {
-     "q": "What is tile adhesive?",
-     "options": [
-      "Paint",
-      "The glue that sticks tiles to the floor or wall",
-      "Grout",
-      "A tile type"
-     ],
-     "answer": 1,
-     "explain": "Adhesive is the glue that bonds tiles to the surface."
+      "day": 1,
+      "week": 1,
+      "title": "Tiling Tools and Materials",
+      "goal": "Know the tiling tools and materials.",
+      "video": {
+        "youtube_id": "-3YQaSQUMdk",
+        "title": "How to Tile a Floor",
+        "channel": "Flooring Inc"
+      },
+      "steps": [
+        "Lay out a tile cutter, notched trowel, spacers, level, sponge and bucket.",
+        "Learn the materials: tiles, adhesive (the glue), grout (the filler between tiles) and spacers.",
+        "A notched trowel is the flat tool with teeth that spreads adhesive evenly.",
+        "Set up a clean flat work area."
+      ],
+      "task": "Label every tiling tool and material on your bench.",
+      "challenge": "Name every tiling tool without looking.",
+      "quiz": [
+        {
+          "q": "What is tile adhesive?",
+          "options": [
+            "Paint",
+            "The glue that sticks tiles to the floor or wall",
+            "Grout",
+            "A tile type"
+          ],
+          "answer": 1,
+          "explain": "Adhesive is the glue that bonds tiles to the surface."
+        },
+        {
+          "q": "What is grout?",
+          "options": [
+            "The glue",
+            "The paste that fills gaps between tiles",
+            "A tile cutter",
+            "A spacer"
+          ],
+          "answer": 1,
+          "explain": "Grout fills the joints between tiles and seals them."
+        },
+        {
+          "q": "What does a notched trowel do?",
+          "options": [
+            "Cuts tiles",
+            "Spreads adhesive in even ridges",
+            "Mixes grout",
+            "Levels tiles"
+          ],
+          "answer": 1,
+          "explain": "The notches leave even ridges so tiles sit flat."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "What is grout?",
-     "options": [
-      "The glue",
-      "The paste that fills gaps between tiles",
-      "A tile cutter",
-      "A spacer"
-     ],
-     "answer": 1,
-     "explain": "Grout fills the joints between tiles and seals them."
+      "day": 2,
+      "week": 1,
+      "title": "Plan a Tile Layout",
+      "goal": "Plan where tiles go so cuts are even and the pattern is straight.",
+      "video": {
+        "youtube_id": "-3YQaSQUMdk",
+        "title": "How to Tile a Floor",
+        "channel": "Flooring Inc"
+      },
+      "steps": [
+        "Measure the floor and work out how many tiles you need.",
+        "Dry-lay tiles (lay them without glue) to check the pattern.",
+        "Plan so cut tiles at the edges are the same size both sides.",
+        "Mark the centre lines on the floor with chalk."
+      ],
+      "task": "Draw a tile layout plan for a small floor.",
+      "challenge": "Plan a floor so no cut tile is thinner than half a tile.",
+      "quiz": [
+        {
+          "q": "What should you work out before you lay any tiles?",
+          "options": [
+            "How many tiles you need.",
+            "The colour of the grout only.",
+            "The price of the spacers.",
+            "Nothing."
+          ],
+          "answer": 0,
+          "explain": "Measure the floor and work out how many tiles you need."
+        },
+        {
+          "q": "What is dry-laying?",
+          "options": [
+            "Laying tiles with glue.",
+            "Laying tiles without glue to check the pattern.",
+            "Cutting tiles.",
+            "Washing tiles."
+          ],
+          "answer": 1,
+          "explain": "Dry-lay tiles (lay them without glue) to check the pattern."
+        },
+        {
+          "q": "How should cut tiles at the edges look?",
+          "options": [
+            "Big on one side and tiny on the other.",
+            "Different on every edge.",
+            "The same size on both sides.",
+            "It does not matter."
+          ],
+          "answer": 2,
+          "explain": "Plan so cut tiles at the edges are the same size both sides."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "What does a notched trowel do?",
-     "options": [
-      "Cuts tiles",
-      "Spreads adhesive in even ridges",
-      "Mixes grout",
-      "Levels tiles"
-     ],
-     "answer": 1,
-     "explain": "The notches leave even ridges so tiles sit flat."
+      "day": 3,
+      "week": 1,
+      "title": "Prepare the Surface",
+      "goal": "Get a floor or wall clean, flat and ready for tiles.",
+      "video": {
+        "youtube_id": "-3YQaSQUMdk",
+        "title": "How to Tile a Floor",
+        "channel": "Flooring Inc"
+      },
+      "steps": [
+        "Remove old tiles, glue and dust.",
+        "Fill holes and level dips with levelling compound.",
+        "Check the surface is flat with a long level.",
+        "Prime dusty surfaces so adhesive sticks."
+      ],
+      "task": "Prepare a small floor area ready for tiling.",
+      "challenge": "Check a floor is flat enough to tile.",
+      "quiz": [
+        {
+          "q": "What should you remove before you tile a surface?",
+          "options": [
+            "Only the dust.",
+            "Only the old tiles.",
+            "Nothing.",
+            "Old tiles, glue and dust."
+          ],
+          "answer": 3,
+          "explain": "Remove old tiles, glue and dust."
+        },
+        {
+          "q": "What do you use to fill holes and level dips?",
+          "options": [
+            "Levelling compound.",
+            "Grout.",
+            "Paint.",
+            "Water."
+          ],
+          "answer": 0,
+          "explain": "Fill holes and level dips with levelling compound."
+        },
+        {
+          "q": "What should you do to a dusty surface so adhesive sticks?",
+          "options": [
+            "Wet it with dirty water.",
+            "Prime it.",
+            "Leave it dusty.",
+            "Cover it with paper."
+          ],
+          "answer": 1,
+          "explain": "Prime dusty surfaces so adhesive sticks."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Cut Tiles Straight",
+      "goal": "Cut tiles cleanly with a tile cutter.",
+      "video": {
+        "youtube_id": "qs03sgG8wu0",
+        "title": "DIY Tile Floor",
+        "channel": "DIYTyler"
+      },
+      "steps": [
+        "Mark the cut line on the tile with a pencil.",
+        "Score the tile once with the cutter wheel.",
+        "Snap the tile along the score line.",
+        "Smooth the cut edge with a rubbing stone."
+      ],
+      "task": "Cut five tiles straight with no chips.",
+      "challenge": "Cut a tile to an exact size first try.",
+      "quiz": [
+        {
+          "q": "What is the first step when you cut a tile?",
+          "options": [
+            "Hit the tile.",
+            "Snap the tile first.",
+            "Mark the cut line with a pencil.",
+            "Soak the tile."
+          ],
+          "answer": 2,
+          "explain": "Mark the cut line on the tile with a pencil."
+        },
+        {
+          "q": "How do you score a tile with a cutter?",
+          "options": [
+            "Score it ten times.",
+            "Press hard until it breaks.",
+            "Score the back only.",
+            "Score it once with the cutter wheel."
+          ],
+          "answer": 3,
+          "explain": "Score the tile once with the cutter wheel."
+        },
+        {
+          "q": "What should you do to the cut edge after you snap the tile?",
+          "options": [
+            "Smooth it with a rubbing stone.",
+            "Leave it sharp.",
+            "Paint it.",
+            "Glue it."
+          ],
+          "answer": 0,
+          "explain": "Smooth the cut edge with a rubbing stone."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Mix Adhesive",
+      "goal": "Mix tile adhesive to the right thickness.",
+      "video": {
+        "youtube_id": "qs03sgG8wu0",
+        "title": "DIY Tile Floor",
+        "channel": "DIYTyler"
+      },
+      "steps": [
+        "Pour clean water in a bucket first, then add the powder.",
+        "Mix with a paddle until it is like thick peanut butter.",
+        "Let it rest for five minutes, then mix again.",
+        "Only mix as much as you can use in 30 minutes."
+      ],
+      "task": "Mix a bucket of adhesive to the right thickness.",
+      "challenge": "Mix adhesive that holds a ridge without slumping.",
+      "quiz": [
+        {
+          "q": "What goes in the bucket first when you mix adhesive?",
+          "options": [
+            "The powder, then water.",
+            "Clean water, then the powder.",
+            "Grout first.",
+            "Sand first."
+          ],
+          "answer": 1,
+          "explain": "Pour clean water in a bucket first, then add the powder."
+        },
+        {
+          "q": "How thick should mixed adhesive be?",
+          "options": [
+            "Like water.",
+            "Like sand.",
+            "Like thick peanut butter.",
+            "Like soup."
+          ],
+          "answer": 2,
+          "explain": "Mix with a paddle until it is like thick peanut butter."
+        },
+        {
+          "q": "How much adhesive should you mix at once?",
+          "options": [
+            "A whole week's worth.",
+            "One spoonful.",
+            "As much as the bucket holds.",
+            "Only as much as you can use in 30 minutes."
+          ],
+          "answer": 3,
+          "explain": "Only mix as much as you can use in 30 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Spread Adhesive with a Notched Trowel",
+      "goal": "Spread adhesive evenly so tiles stick flat.",
+      "video": {
+        "youtube_id": "qs03sgG8wu0",
+        "title": "DIY Tile Floor",
+        "channel": "DIYTyler"
+      },
+      "steps": [
+        "Scoop adhesive onto the floor with the flat side of the trowel.",
+        "Comb it with the notched side to make even ridges.",
+        "Hold the trowel at 45 degrees.",
+        "Spread only as much as you can tile in 15 minutes."
+      ],
+      "task": "Spread adhesive in even ridges over one square metre.",
+      "challenge": "Spread adhesive with ridges all the same height.",
+      "quiz": [
+        {
+          "q": "Which side of the trowel do you scoop adhesive with?",
+          "options": [
+            "The flat side.",
+            "The notched side.",
+            "The handle.",
+            "The edge only."
+          ],
+          "answer": 0,
+          "explain": "Scoop adhesive onto the floor with the flat side of the trowel."
+        },
+        {
+          "q": "What angle should you hold the trowel at?",
+          "options": [
+            "90 degrees.",
+            "45 degrees.",
+            "Flat on the floor.",
+            "Upside down."
+          ],
+          "answer": 1,
+          "explain": "Hold the trowel at 45 degrees."
+        },
+        {
+          "q": "How much adhesive should you spread at once?",
+          "options": [
+            "The whole floor.",
+            "One tile's worth.",
+            "Only as much as you can tile in 15 minutes.",
+            "As much as possible."
+          ],
+          "answer": 2,
+          "explain": "Spread only as much as you can tile in 15 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project: Tile a Small Floor Area",
+      "goal": "Tile a small floor area from layout to finished tiles.",
+      "video": {
+        "youtube_id": "utrqOHzDi24",
+        "title": "How to Lay Floor Tiles",
+        "channel": "Orientbell"
+      },
+      "steps": [
+        "Dry-lay the tiles to check the pattern.",
+        "Spread adhesive and lay the tiles with spacers.",
+        "Check each tile is level with its neighbours.",
+        "Leave the tiles to set overnight before walking on them."
+      ],
+      "task": "Finish a small tiled floor area, straight and level.",
+      "challenge": "Lay tiles with no lips (edges sticking up) between them.",
+      "quiz": [
+        {
+          "q": "What should you do before you glue tiles in the project?",
+          "options": [
+            "Glue them straight away.",
+            "Cut them all first.",
+            "Dry-lay them to check the pattern.",
+            "Paint them."
+          ],
+          "answer": 2,
+          "explain": "Dry-lay the tiles to check the pattern."
+        },
+        {
+          "q": "What keeps the gaps even as you lay the tiles?",
+          "options": [
+            "Glue.",
+            "Water.",
+            "Sand.",
+            "Spacers."
+          ],
+          "answer": 3,
+          "explain": "Spread adhesive and lay the tiles with spacers."
+        },
+        {
+          "q": "When can you walk on the new tiles?",
+          "options": [
+            "After they set overnight.",
+            "Right away.",
+            "After one hour.",
+            "After a week."
+          ],
+          "answer": 0,
+          "explain": "Leave the tiles to set overnight before walking on them."
+        }
+      ],
+      "project": {
+        "title": "Tile a Small Floor Area",
+        "brief": "Tile a small floor area from layout to finished set tiles.",
+        "checks": [
+          "Layout planned with even cuts",
+          "Adhesive spread evenly",
+          "Tiles straight with even gaps",
+          "Tiles level with no lips",
+          "Faces cleaned",
+          "Left to set overnight"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Tile Spacers and Straight Lines",
+      "goal": "Use spacers to keep grout gaps even.",
+      "video": {
+        "youtube_id": "utrqOHzDi24",
+        "title": "How to Lay Floor Tiles",
+        "channel": "Orientbell"
+      },
+      "steps": [
+        "Spacers are small plastic crosses that hold tiles apart.",
+        "Put spacers at every corner where tiles meet.",
+        "Check the lines stay straight with a long level.",
+        "Remove spacers before the adhesive sets hard."
+      ],
+      "task": "Lay a row of tiles with perfectly even gaps.",
+      "challenge": "Lay tiles so the grout lines are straight in both directions.",
+      "quiz": [
+        {
+          "q": "What are spacers?",
+          "options": [
+            "Tools for cutting tiles.",
+            "Small plastic crosses that hold tiles apart.",
+            "Bags of grout.",
+            "Types of tile."
+          ],
+          "answer": 1,
+          "explain": "Spacers are small plastic crosses that hold tiles apart."
+        },
+        {
+          "q": "Where do you put spacers?",
+          "options": [
+            "Only in the middle of the floor.",
+            "Under the tiles.",
+            "Put spacers at every corner where tiles meet.",
+            "On top of the tiles."
+          ],
+          "answer": 2,
+          "explain": "Put spacers at every corner where tiles meet."
+        },
+        {
+          "q": "When should you remove spacers?",
+          "options": [
+            "After grouting.",
+            "Never.",
+            "After a week.",
+            "Before the adhesive sets hard."
+          ],
+          "answer": 3,
+          "explain": "Remove spacers before the adhesive sets hard."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Check Tiles Are Level",
+      "goal": "Check tiles as you lay them so the floor is flat.",
+      "video": {
+        "youtube_id": "utrqOHzDi24",
+        "title": "How to Lay Floor Tiles",
+        "channel": "Orientbell"
+      },
+      "steps": [
+        "Press each tile down firmly and evenly.",
+        "Tap high tiles down gently with a rubber mallet.",
+        "Check with a level across two tiles at a time.",
+        "Lift and re-lay any tile that sits too high or low."
+      ],
+      "task": "Lay six tiles perfectly level with each other.",
+      "challenge": "Find and fix a tile that sits too high.",
+      "quiz": [
+        {
+          "q": "How should you press each tile down?",
+          "options": [
+            "Firmly and evenly.",
+            "Lightly on one corner.",
+            "With your foot.",
+            "Not at all."
+          ],
+          "answer": 0,
+          "explain": "Press each tile down firmly and evenly."
+        },
+        {
+          "q": "What should you do to a tile that sits too high?",
+          "options": [
+            "Hit it hard with a hammer.",
+            "Tap it down gently with a rubber mallet.",
+            "Leave it high.",
+            "Cover it with grout."
+          ],
+          "answer": 1,
+          "explain": "Tap high tiles down gently with a rubber mallet."
+        },
+        {
+          "q": "How do you check tiles are level?",
+          "options": [
+            "By looking from far away.",
+            "By stepping on them.",
+            "With a level across two tiles at a time.",
+            "You cannot check."
+          ],
+          "answer": 2,
+          "explain": "Check with a level across two tiles at a time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Lay Floor Tiles Step by Step",
+      "goal": "Lay a full floor of tiles in the right order.",
+      "video": {
+        "youtube_id": "fd96jtYcl94",
+        "title": "How to Tile a Floor",
+        "channel": "Johnson Tiles"
+      },
+      "steps": [
+        "Start from the centre lines and work outward.",
+        "Lay full tiles first, then cut the edge tiles.",
+        "Keep checking level and straight lines.",
+        "Clean adhesive off tile faces as you go."
+      ],
+      "task": "Lay a full small floor of tiles.",
+      "challenge": "Lay a floor with no adhesive left on the tile faces.",
+      "quiz": [
+        {
+          "q": "Where do you start laying floor tiles?",
+          "options": [
+            "From a corner.",
+            "From the door.",
+            "Anywhere.",
+            "From the centre lines, working outward."
+          ],
+          "answer": 3,
+          "explain": "Start from the centre lines and work outward."
+        },
+        {
+          "q": "Which tiles do you lay first?",
+          "options": [
+            "Lay full tiles first, then cut the edge tiles.",
+            "Edge tiles first.",
+            "Broken tiles first.",
+            "The smallest tiles first."
+          ],
+          "answer": 0,
+          "explain": "Lay full tiles first, then cut the edge tiles."
+        },
+        {
+          "q": "What should you clean off tile faces as you go?",
+          "options": [
+            "Grout.",
+            "Adhesive.",
+            "Water.",
+            "Dust only."
+          ],
+          "answer": 1,
+          "explain": "Clean adhesive off tile faces as you go."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Cut Tiles Around Pipes and Corners",
+      "goal": "Cut tiles to fit around pipes, corners and door frames.",
+      "video": {
+        "youtube_id": "fd96jtYcl94",
+        "title": "How to Tile a Floor",
+        "channel": "Johnson Tiles"
+      },
+      "steps": [
+        "Mark the pipe position on the tile.",
+        "Drill or nibble the hole with tile nippers.",
+        "Cut L-shapes for corners with two straight cuts.",
+        "Test the fit before you glue the tile down."
+      ],
+      "task": "Cut a tile to fit around a pipe.",
+      "challenge": "Cut an L-shaped tile that fits a corner exactly.",
+      "quiz": [
+        {
+          "q": "What should you do first when a tile must fit around a pipe?",
+          "options": [
+            "Guess the position.",
+            "Cut the tile in half.",
+            "Mark the pipe position on the tile.",
+            "Glue the tile first."
+          ],
+          "answer": 2,
+          "explain": "Mark the pipe position on the tile."
+        },
+        {
+          "q": "What tool makes the hole for a pipe?",
+          "options": [
+            "A trowel.",
+            "A sponge.",
+            "A level.",
+            "Tile nippers to nibble the hole (or a drill)."
+          ],
+          "answer": 3,
+          "explain": "Drill or nibble the hole with tile nippers."
+        },
+        {
+          "q": "How do you cut an L-shape for a corner?",
+          "options": [
+            "With two straight cuts.",
+            "With one curved cut.",
+            "By breaking the tile.",
+            "With a hammer."
+          ],
+          "answer": 0,
+          "explain": "Cut L-shapes for corners with two straight cuts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Tile a Floor Like a Pro",
+      "goal": "Finish a floor with neat edges and clean grout lines.",
+      "video": {
+        "youtube_id": "fd96jtYcl94",
+        "title": "How to Tile a Floor",
+        "channel": "Johnson Tiles"
+      },
+      "steps": [
+        "Lay the last edge tiles and check they fit.",
+        "Clean all adhesive from the joints.",
+        "Leave the floor to set for 24 hours.",
+        "Walk on it gently and check nothing moves."
+      ],
+      "task": "Finish a floor ready for grouting.",
+      "challenge": "Lay a floor with even cuts at every edge.",
+      "quiz": [
+        {
+          "q": "What should you do with the last edge tiles?",
+          "options": [
+            "Skip them.",
+            "Lay them and check they fit.",
+            "Glue them without checking.",
+            "Paint them."
+          ],
+          "answer": 1,
+          "explain": "Lay the last edge tiles and check they fit."
+        },
+        {
+          "q": "What should you clean from the joints before grouting?",
+          "options": [
+            "Nothing.",
+            "All adhesive.",
+            "Water only.",
+            "The tiles themselves."
+          ],
+          "answer": 1,
+          "explain": "Clean all adhesive from the joints."
+        },
+        {
+          "q": "How long should the floor set before you walk on it?",
+          "options": [
+            "1 hour.",
+            "1 week.",
+            "24 hours.",
+            "Right away."
+          ],
+          "answer": 2,
+          "explain": "Leave the floor to set for 24 hours."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Tile a Bathroom Floor",
+      "goal": "Tile a bathroom floor, working around the toilet and bath.",
+      "video": {
+        "youtube_id": "tlKPWRX6dMw",
+        "title": "How to Tile a Bathroom Floor",
+        "channel": "Lowe's"
+      },
+      "steps": [
+        "Remove the toilet or work around its base.",
+        "Plan the layout so cuts are hidden under the bath.",
+        "Lay tiles with waterproof adhesive.",
+        "Seal the edges where tiles meet the bath and toilet."
+      ],
+      "task": "Tile a bathroom floor area neatly.",
+      "challenge": "Tile around a toilet base with neat cuts.",
+      "quiz": [
+        {
+          "q": "What should you do with the toilet before you tile a bathroom floor?",
+          "options": [
+            "Tile over it.",
+            "Ignore it.",
+            "Remove it or work around its base.",
+            "Paint it."
+          ],
+          "answer": 2,
+          "explain": "Remove the toilet or work around its base."
+        },
+        {
+          "q": "Where should you hide cut tiles in a bathroom?",
+          "options": [
+            "In the middle of the floor.",
+            "Next to the door.",
+            "On the wall.",
+            "Under the bath."
+          ],
+          "answer": 3,
+          "explain": "Plan the layout so cuts are hidden under the bath."
+        },
+        {
+          "q": "What kind of adhesive should you use in a bathroom?",
+          "options": [
+            "Waterproof adhesive.",
+            "Normal adhesive.",
+            "Glue from a tube.",
+            "No adhesive."
+          ],
+          "answer": 0,
+          "explain": "Lay tiles with waterproof adhesive."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project: Tile a Bathroom Floor Section",
+      "goal": "Tile a section of bathroom floor from prep to set tiles.",
+      "video": {
+        "youtube_id": "tlKPWRX6dMw",
+        "title": "How to Tile a Bathroom Floor",
+        "channel": "Lowe's"
+      },
+      "steps": [
+        "Prepare the surface and plan the layout.",
+        "Lay the tiles with spacers and check level.",
+        "Cut tiles neatly around fittings.",
+        "Leave to set and clean the tile faces."
+      ],
+      "task": "Finish a bathroom floor section, level and neat.",
+      "challenge": "Tile the section with no lipped tiles.",
+      "quiz": [
+        {
+          "q": "What are tile spacers for?",
+          "options": [
+            "Decoration",
+            "Keeping grout gaps even between tiles",
+            "Cutting tiles",
+            "Mixing grout"
+          ],
+          "answer": 1,
+          "explain": "Spacers hold tiles apart evenly so grout lines are straight."
+        },
+        {
+          "q": "What should you do after you lay the bathroom floor tiles?",
+          "options": [
+            "Walk on them right away.",
+            "Leave them to set and clean the tile faces.",
+            "Grout them right away.",
+            "Paint them."
+          ],
+          "answer": 1,
+          "explain": "Leave to set and clean the tile faces."
+        },
+        {
+          "q": "How do you fix a tile that sits too high?",
+          "options": [
+            "Hit it hard",
+            "Lift it, add or remove adhesive, and re-lay it",
+            "Ignore it",
+            "Grind it down"
+          ],
+          "answer": 1,
+          "explain": "Lifting and re-laying is the only way to level a high tile."
+        }
+      ],
+      "project": {
+        "title": "Tile a Bathroom Floor Section",
+        "brief": "Tile a section of bathroom floor, level and neat.",
+        "checks": [
+          "Surface prepared",
+          "Layout planned",
+          "Tiles level with spacers",
+          "Cuts neat around fittings",
+          "Faces cleaned",
+          "Ready for grouting"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Tile a Bathroom Wall",
+      "goal": "Tile a wall straight, starting from a level line.",
+      "video": {
+        "youtube_id": "tlKPWRX6dMw",
+        "title": "How to Tile a Bathroom Floor",
+        "channel": "Lowe's"
+      },
+      "steps": [
+        "Mark a level starting line on the wall.",
+        "Fix a batten (a straight wooden strip) to support the first row.",
+        "Spread adhesive and lay tiles upward from the batten.",
+        "Use spacers and check level often."
+      ],
+      "task": "Tile one wall section straight and level.",
+      "challenge": "Tile a wall with no tiles slipping down.",
+      "quiz": [
+        {
+          "q": "What are tile spacers for?",
+          "options": [
+            "Decoration",
+            "Keeping grout gaps even between tiles",
+            "Cutting tiles",
+            "Mixing grout"
+          ],
+          "answer": 1,
+          "explain": "Spacers hold tiles apart evenly so grout lines are straight."
+        },
+        {
+          "q": "What holds up the first row of wall tiles?",
+          "options": [
+            "Spacers only.",
+            "Glue only.",
+            "A batten, a straight wooden strip.",
+            "A rope."
+          ],
+          "answer": 2,
+          "explain": "Fix a batten (a straight wooden strip) to support the first row."
+        },
+        {
+          "q": "How do you fix a tile that sits too high?",
+          "options": [
+            "Hit it hard",
+            "Lift it, add or remove adhesive, and re-lay it",
+            "Ignore it",
+            "Grind it down"
+          ],
+          "answer": 1,
+          "explain": "Lifting and re-laying is the only way to level a high tile."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Tile Around a Shower",
+      "goal": "Tile a shower area with waterproof prep.",
+      "video": {
+        "youtube_id": "FtJsP4Xu-tY",
+        "title": "How to Tile a Bathroom Wall",
+        "channel": "Victorian Plumbing"
+      },
+      "steps": [
+        "Learn that shower walls need a waterproof layer behind the tiles.",
+        "Use waterproof adhesive and grout.",
+        "Seal corners with silicone, not grout.",
+        "Check the tiles slope slightly toward the drain on the floor."
+      ],
+      "task": "Tile a shower wall section with waterproof prep.",
+      "challenge": "Seal a shower corner with neat silicone.",
+      "quiz": [
+        {
+          "q": "What must shower walls have behind the tiles?",
+          "options": [
+            "Paint only.",
+            "Nothing.",
+            "A waterproof layer.",
+            "Wallpaper."
+          ],
+          "answer": 2,
+          "explain": "Shower walls need a waterproof layer behind the tiles."
+        },
+        {
+          "q": "What should you seal shower corners with?",
+          "options": [
+            "Grout.",
+            "Adhesive.",
+            "Silicone, not grout.",
+            "Paint."
+          ],
+          "answer": 2,
+          "explain": "Seal corners with silicone, not grout."
+        },
+        {
+          "q": "How should a shower floor slope?",
+          "options": [
+            "Away from the drain.",
+            "Flat with no slope.",
+            "Slightly toward the drain.",
+            "Toward the wall."
+          ],
+          "answer": 2,
+          "explain": "Check the tiles slope slightly toward the drain on the floor."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Wall Tile Patterns",
+      "goal": "Lay wall tiles in brick, straight and herringbone patterns.",
+      "video": {
+        "youtube_id": "FtJsP4Xu-tY",
+        "title": "How to Tile a Bathroom Wall",
+        "channel": "Victorian Plumbing"
+      },
+      "steps": [
+        "A brick pattern staggers each row by half a tile.",
+        "A straight pattern lines tiles up in a grid.",
+        "Herringbone lays tiles at 45 degrees in a zigzag.",
+        "Practise each pattern on a board."
+      ],
+      "task": "Lay three patterns on a practice board.",
+      "challenge": "Lay a brick pattern with even joints.",
+      "quiz": [
+        {
+          "q": "How does a brick pattern work?",
+          "options": [
+            "Tiles line up in a grid.",
+            "Each row is staggered by half a tile.",
+            "Tiles lay at 45 degrees in a zigzag.",
+            "Tiles are placed at random."
+          ],
+          "answer": 1,
+          "explain": "A brick pattern staggers each row by half a tile."
+        },
+        {
+          "q": "How does a straight pattern work?",
+          "options": [
+            "Each row is staggered by half a tile.",
+            "Tiles lay at 45 degrees.",
+            "Tiles line up in a grid.",
+            "Tiles overlap each other."
+          ],
+          "answer": 2,
+          "explain": "A straight pattern lines tiles up in a grid."
+        },
+        {
+          "q": "How does a herringbone pattern work?",
+          "options": [
+            "Tiles line up in a grid.",
+            "Tiles are stacked in rows.",
+            "Tiles are cut in circles.",
+            "Tiles lay at 45 degrees in a zigzag."
+          ],
+          "answer": 3,
+          "explain": "Herringbone lays tiles at 45 degrees in a zigzag."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Tile a Shower Wall",
+      "goal": "Tile a full shower wall from prep to finish.",
+      "video": {
+        "youtube_id": "FtJsP4Xu-tY",
+        "title": "How to Tile a Bathroom Wall",
+        "channel": "Victorian Plumbing"
+      },
+      "steps": [
+        "Check the waterproof layer is sound.",
+        "Plan the layout so cuts are at the edges.",
+        "Lay tiles from the bottom up with spacers.",
+        "Leave to set before grouting."
+      ],
+      "task": "Finish a shower wall, straight and waterproof-ready.",
+      "challenge": "Tile a shower wall with no hollow tiles.",
+      "quiz": [
+        {
+          "q": "What should you check before you tile a shower wall?",
+          "options": [
+            "The colour of the grout only.",
+            "The price of the tiles.",
+            "That the waterproof layer is sound.",
+            "Nothing."
+          ],
+          "answer": 2,
+          "explain": "Check the waterproof layer is sound."
+        },
+        {
+          "q": "Where should cuts go on a shower wall layout?",
+          "options": [
+            "In the middle.",
+            "At the top only.",
+            "Anywhere.",
+            "At the edges."
+          ],
+          "answer": 3,
+          "explain": "Plan the layout so cuts are at the edges."
+        },
+        {
+          "q": "Which way do you lay tiles on a shower wall?",
+          "options": [
+            "From the bottom up, with spacers.",
+            "From the top down.",
+            "From side to side only.",
+            "In any order."
+          ],
+          "answer": 0,
+          "explain": "Lay tiles from the bottom up with spacers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Project: Tile a Bathroom Wall",
+      "goal": "Tile a bathroom wall section from prep to set tiles.",
+      "video": {
+        "youtube_id": "VVNxXfW_zXY",
+        "title": "How to Tile a Shower | Tile Prep and Installation",
+        "channel": "Lowe's"
+      },
+      "steps": [
+        "Prepare the wall and mark level lines.",
+        "Lay tiles with spacers, checking level.",
+        "Cut tiles neatly around taps and fittings.",
+        "Clean the faces and leave to set."
+      ],
+      "task": "Finish a bathroom wall section, straight and level.",
+      "challenge": "Tile the wall with even grout lines.",
+      "quiz": [
+        {
+          "q": "What should you do to the wall first in the project?",
+          "options": [
+            "Glue tiles straight away.",
+            "Prepare it and mark level lines.",
+            "Paint it.",
+            "Grout it."
+          ],
+          "answer": 1,
+          "explain": "Prepare the wall and mark level lines."
+        },
+        {
+          "q": "What should you cut tiles around on a bathroom wall?",
+          "options": [
+            "The floor.",
+            "The ceiling.",
+            "Taps and fittings.",
+            "Nothing."
+          ],
+          "answer": 2,
+          "explain": "Cut tiles neatly around taps and fittings."
+        },
+        {
+          "q": "What should you do after you lay the wall tiles?",
+          "options": [
+            "Walk on them.",
+            "Grout right away.",
+            "Clean the faces and leave them to set.",
+            "Paint them."
+          ],
+          "answer": 2,
+          "explain": "Clean the faces and leave to set."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Grout Tiles",
+      "goal": "Fill the gaps between tiles with grout.",
+      "video": {
+        "youtube_id": "VVNxXfW_zXY",
+        "title": "How to Tile a Shower | Tile Prep and Installation",
+        "channel": "Lowe's"
+      },
+      "steps": [
+        "Grout is the paste that fills the gaps between tiles.",
+        "Mix grout to a thick paste.",
+        "Push it into the joints with a grout float (a flat rubber tool).",
+        "Wipe the tiles clean with a damp sponge."
+      ],
+      "task": "Grout a small tiled area cleanly.",
+      "challenge": "Grout tiles with no grout haze left on the faces.",
+      "quiz": [
+        {
+          "q": "What is grout?",
+          "options": [
+            "The glue under tiles.",
+            "A tool for cutting.",
+            "The paste that fills the gaps between tiles.",
+            "A type of tile."
+          ],
+          "answer": 2,
+          "explain": "Grout is the paste that fills the gaps between tiles."
+        },
+        {
+          "q": "How should you mix grout?",
+          "options": [
+            "Very runny like water.",
+            "Dry with no water.",
+            "Like sand.",
+            "To a thick paste."
+          ],
+          "answer": 3,
+          "explain": "Mix grout to a thick paste."
+        },
+        {
+          "q": "What tool pushes grout into the joints?",
+          "options": [
+            "A grout float, a flat rubber tool.",
+            "A trowel.",
+            "A sponge.",
+            "A brush."
+          ],
+          "answer": 0,
+          "explain": "Push it into the joints with a grout float (a flat rubber tool)."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Grout Colours and Sealing",
+      "goal": "Pick grout colours and seal grout so it stays clean.",
+      "video": {
+        "youtube_id": "VVNxXfW_zXY",
+        "title": "How to Tile a Shower | Tile Prep and Installation",
+        "channel": "Lowe's"
+      },
+      "steps": [
+        "Pick a grout colour that suits the tiles.",
+        "Seal grout in wet areas so water cannot soak in.",
+        "Learn that white grout shows dirt; grey hides it.",
+        "Apply sealer with a small brush along the joints."
+      ],
+      "task": "Seal the grout on a tiled area.",
+      "challenge": "Pick a grout colour for a bathroom floor.",
+      "quiz": [
+        {
+          "q": "What should you think about when you pick a grout colour?",
+          "options": [
+            "Pick the cheapest colour.",
+            "Pick a grout colour that suits the tiles.",
+            "Pick any colour at random.",
+            "Colour does not matter."
+          ],
+          "answer": 1,
+          "explain": "Pick a grout colour that suits the tiles."
+        },
+        {
+          "q": "Why seal grout in wet areas?",
+          "options": [
+            "To change the colour.",
+            "To make it dry faster.",
+            "So water cannot soak into the grout.",
+            "To make it softer."
+          ],
+          "answer": 2,
+          "explain": "Seal grout in wet areas so water cannot soak in."
+        },
+        {
+          "q": "Which grout colour shows dirt more?",
+          "options": [
+            "Grey shows dirt; white hides it.",
+            "Both hide dirt the same.",
+            "Colour makes no difference.",
+            "White grout shows dirt; grey hides it."
+          ],
+          "answer": 3,
+          "explain": "Learn that white grout shows dirt; grey hides it."
+        }
+      ],
+      "project": {
+        "title": "Tile a Bathroom Wall",
+        "brief": "Tile a bathroom wall section from prep to set tiles.",
+        "checks": [
+          "Wall prepared and level lines marked",
+          "Tiles straight with spacers",
+          "Cuts neat around taps",
+          "Level checked often",
+          "Faces cleaned",
+          "Left to set before grouting"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Clean Grout Haze",
+      "goal": "Remove the cloudy haze grout leaves on tiles.",
+      "video": {
+        "youtube_id": "DhZPzhIlwsA",
+        "title": "How to Grout Tiles",
+        "channel": "Victorian Plumbing"
+      },
+      "steps": [
+        "Wait until the grout is firm, then wipe with a damp sponge.",
+        "Change the rinse water often.",
+        "Buff the tiles with a dry cloth.",
+        "Use a haze remover for stubborn cloudiness."
+      ],
+      "task": "Clean a grouted area until the tiles shine.",
+      "challenge": "Remove haze without scratching the tiles.",
+      "quiz": [
+        {
+          "q": "When should you wipe the grout haze off the tiles?",
+          "options": [
+            "When the grout is firm, with a damp sponge.",
+            "Right away while the grout is wet.",
+            "After a week.",
+            "Never."
+          ],
+          "answer": 0,
+          "explain": "Wait until the grout is firm, then wipe with a damp sponge."
+        },
+        {
+          "q": "Why wipe tiles with a damp sponge after grouting?",
+          "options": [
+            "To dry them",
+            "To remove grout from the tile faces before it hardens",
+            "To shine them",
+            "To cool them"
+          ],
+          "answer": 1,
+          "explain": "Grout left on faces hardens into a haze that is hard to remove."
+        },
+        {
+          "q": "What is grout haze?",
+          "options": [
+            "A colour",
+            "The cloudy film grout leaves on tile faces",
+            "A tool",
+            "A tile type"
+          ],
+          "answer": 1,
+          "explain": "Haze is the thin cloudy film left if grout is not wiped off."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Fix a Loose Tile",
+      "goal": "Find and fix a loose or hollow tile.",
+      "video": {
+        "youtube_id": "DhZPzhIlwsA",
+        "title": "How to Grout Tiles",
+        "channel": "Victorian Plumbing"
+      },
+      "steps": [
+        "Tap tiles: a hollow sound means the adhesive failed.",
+        "Lift the loose tile carefully.",
+        "Clean off old adhesive and re-stick it.",
+        "Grout the joints again and leave to set."
+      ],
+      "task": "Fix a loose tile so it sounds solid.",
+      "challenge": "Find a hollow tile by tapping.",
+      "quiz": [
+        {
+          "q": "How do you find a loose tile?",
+          "options": [
+            "Look at it.",
+            "Tap it: a hollow sound means the adhesive failed.",
+            "Push it.",
+            "Smell it."
+          ],
+          "answer": 1,
+          "explain": "Tap tiles: a hollow sound means the adhesive failed."
+        },
+        {
+          "q": "What should you do after you lift a loose tile?",
+          "options": [
+            "Throw the tile away.",
+            "Glue it back dirty.",
+            "Clean off old adhesive and re-stick it.",
+            "Leave the hole empty."
+          ],
+          "answer": 2,
+          "explain": "Clean off old adhesive and re-stick it."
+        },
+        {
+          "q": "What should you do after you re-stick the tile?",
+          "options": [
+            "Walk on it right away.",
+            "Paint it.",
+            "Nothing.",
+            "Grout the joints again and leave it to set."
+          ],
+          "answer": 3,
+          "explain": "Grout the joints again and leave to set."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Silicone Seals",
+      "goal": "Seal edges with silicone for a waterproof finish.",
+      "video": {
+        "youtube_id": "DhZPzhIlwsA",
+        "title": "How to Grout Tiles",
+        "channel": "Victorian Plumbing"
+      },
+      "steps": [
+        "Cut the silicone tube nozzle at an angle.",
+        "Apply a smooth bead along the joint.",
+        "Smooth it with a wet finger in one pass.",
+        "Let it dry fully before using the shower."
+      ],
+      "task": "Seal a bath edge with neat silicone.",
+      "challenge": "Apply silicone in one smooth bead with no gaps.",
+      "quiz": [
+        {
+          "q": "How should you cut a silicone tube nozzle?",
+          "options": [
+            "At an angle.",
+            "Straight across.",
+            "You do not cut it.",
+            "In half."
+          ],
+          "answer": 0,
+          "explain": "Cut the silicone tube nozzle at an angle."
+        },
+        {
+          "q": "How do you smooth a silicone bead?",
+          "options": [
+            "With a dry cloth.",
+            "With a wet finger in one pass.",
+            "With a hammer.",
+            "You do not smooth it."
+          ],
+          "answer": 1,
+          "explain": "Smooth it with a wet finger in one pass."
+        },
+        {
+          "q": "When can you use the shower after sealing?",
+          "options": [
+            "Right away.",
+            "After one minute.",
+            "After the silicone dries fully.",
+            "Never."
+          ],
+          "answer": 2,
+          "explain": "Let it dry fully before using the shower."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Bonding Ceramic Tiles",
+      "goal": "Know how ceramic tiles bond to different surfaces.",
+      "video": {
+        "youtube_id": "IemPfDtmNw0",
+        "title": "How to Grout Tiles",
+        "channel": "lets-do-diy"
+      },
+      "steps": [
+        "Ceramic tiles need the right adhesive for the surface.",
+        "Learn that wood, concrete and plaster need different prep.",
+        "Use flexible adhesive on floors that move slightly.",
+        "Test a tile bond by trying to lift it after setting."
+      ],
+      "task": "Bond tiles to two different surfaces and test them.",
+      "challenge": "Pick the right adhesive for a wooden floor.",
+      "quiz": [
+        {
+          "q": "What do ceramic tiles need for different surfaces?",
+          "options": [
+            "The same glue for everything.",
+            "No adhesive.",
+            "The right adhesive for the surface.",
+            "Nails."
+          ],
+          "answer": 2,
+          "explain": "Ceramic tiles need the right adhesive for the surface."
+        },
+        {
+          "q": "Which surfaces need different prep?",
+          "options": [
+            "Only wood.",
+            "Only concrete.",
+            "None.",
+            "Wood, concrete and plaster."
+          ],
+          "answer": 3,
+          "explain": "Learn that wood, concrete and plaster need different prep."
+        },
+        {
+          "q": "What kind of adhesive should you use on floors that move slightly?",
+          "options": [
+            "Flexible adhesive.",
+            "Normal adhesive.",
+            "No adhesive.",
+            "Paint."
+          ],
+          "answer": 0,
+          "explain": "Use flexible adhesive on floors that move slightly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Price a Tiling Job",
+      "goal": "Price a tiling job from tiles, adhesive, time and profit.",
+      "video": {
+        "youtube_id": "IemPfDtmNw0",
+        "title": "How to Grout Tiles",
+        "channel": "lets-do-diy"
+      },
+      "steps": [
+        "Measure the area and work out tiles needed, plus 10 percent spare.",
+        "Add adhesive, grout and spacers to the cost.",
+        "Time the job and value your hours fairly.",
+        "Write a simple quote a customer can understand."
+      ],
+      "task": "Write a clear quote for tiling a bathroom floor.",
+      "challenge": "Price a kitchen wall job fairly.",
+      "quiz": [
+        {
+          "q": "How many spare tiles should you buy for a job?",
+          "options": [
+            "No spares.",
+            "10 percent spare.",
+            "50 percent spare.",
+            "One spare tile."
+          ],
+          "answer": 1,
+          "explain": "Measure the area and work out tiles needed, plus 10 percent spare."
+        },
+        {
+          "q": "What should you add to the tile cost in a quote?",
+          "options": [
+            "Only the tiles.",
+            "Only the grout.",
+            "Adhesive, grout and spacers.",
+            "Nothing."
+          ],
+          "answer": 2,
+          "explain": "Add adhesive, grout and spacers to the cost."
+        },
+        {
+          "q": "What should a tiling quote include?",
+          "options": [
+            "Only the tile price",
+            "Tiles, adhesive, grout, time and profit",
+            "Your name only",
+            "The date only"
+          ],
+          "answer": 1,
+          "explain": "A real quote covers materials, time and profit."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Grout a Floor Like a Pro",
+      "goal": "Grout a tiled floor cleanly with even joints.",
+      "video": {
+        "youtube_id": "IemPfDtmNw0",
+        "title": "How to Grout Tiles",
+        "channel": "lets-do-diy"
+      },
+      "steps": [
+        "Mix grout to a thick paste, like peanut butter.",
+        "Push grout into the joints with a rubber float.",
+        "Wipe the tiles with a damp sponge at an angle.",
+        "Let it dry, then buff off the haze with a dry cloth."
+      ],
+      "task": "Grout a small floor area with even joints.",
+      "challenge": "Grout a floor with no haze left on the tiles.",
+      "quiz": [
+        {
+          "q": "How thick should you mix grout for a floor?",
+          "options": [
+            "Like water.",
+            "Like sand.",
+            "Like soup.",
+            "Like peanut butter."
+          ],
+          "answer": 3,
+          "explain": "Mix grout to a thick paste, like peanut butter."
+        },
+        {
+          "q": "How should you wipe the tiles after grouting?",
+          "options": [
+            "With a damp sponge at an angle.",
+            "With a dry cloth only.",
+            "With a wet mop.",
+            "You do not wipe them."
+          ],
+          "answer": 0,
+          "explain": "Wipe the tiles with a damp sponge at an angle."
+        },
+        {
+          "q": "What should you do after the grout dries?",
+          "options": [
+            "Wash the floor with soap.",
+            "Buff off the haze with a dry cloth.",
+            "Paint the grout.",
+            "Nothing."
+          ],
+          "answer": 1,
+          "explain": "Let it dry, then buff off the haze with a dry cloth."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Bond Ceramic Tiles to a Wall",
+      "goal": "Stick ceramic tiles to a wall with the right adhesive.",
+      "video": {
+        "youtube_id": "YJKg0B_i6m0",
+        "title": "Bonding Ceramic Tiles",
+        "channel": "Staenis"
+      },
+      "steps": [
+        "Choose adhesive made for ceramic tiles.",
+        "Spread it with a notched trowel.",
+        "Press each tile firmly and check it is level.",
+        "Leave the tiles to set before you grout."
+      ],
+      "task": "Bond ceramic tiles to a wall section.",
+      "challenge": "Stick tiles that stay put and level.",
+      "quiz": [
+        {
+          "q": "What holds ceramic tiles to a wall?",
+          "options": [
+            "Glue from a tube",
+            "Tile adhesive spread with a notched trowel",
+            "Nails",
+            "Tape"
+          ],
+          "answer": 1,
+          "explain": "Tile adhesive bonds tiles to the wall; the notched trowel spreads it evenly."
+        },
+        {
+          "q": "Why press each tile firmly?",
+          "options": [
+            "For looks",
+            "So the adhesive grips the tile fully",
+            "It is faster",
+            "To save adhesive"
+          ],
+          "answer": 1,
+          "explain": "Firm pressure pushes the tile into the adhesive so it bonds well."
+        },
+        {
+          "q": "When can you grout a tiled wall?",
+          "options": [
+            "Right away",
+            "After the adhesive has set fully",
+            "Before tiling",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Grouting before the adhesive sets can move the tiles out of place."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Capstone Planning",
+      "goal": "Choose your capstone tiling job, buy tiles and plan the days.",
+      "video": {
+        "youtube_id": "YJKg0B_i6m0",
+        "title": "Bonding Ceramic Tiles",
+        "channel": "Staenis"
+      },
+      "steps": [
+        "Pick a real floor or wall that needs tiling.",
+        "Choose tiles with the owner and buy them plus 10 percent spare.",
+        "Plan the layout on paper first.",
+        "Write a two-day plan with setting and grouting time."
+      ],
+      "task": "Have all capstone tiles bought and the layout planned.",
+      "challenge": "Plan a capstone job that uses floor or wall tiling plus grout.",
+      "quiz": [
+        {
+          "q": "What should you pick first for your capstone?",
+          "options": [
+            "The grout colour only.",
+            "The tools only.",
+            "A real floor or wall that needs tiling.",
+            "Nothing."
+          ],
+          "answer": 2,
+          "explain": "Pick a real floor or wall that needs tiling."
+        },
+        {
+          "q": "What should you plan on paper first for the capstone?",
+          "options": [
+            "The grout colour only.",
+            "The price only.",
+            "Nothing.",
+            "The layout."
+          ],
+          "answer": 3,
+          "explain": "Plan the layout on paper first."
+        },
+        {
+          "q": "What should you write before you start the capstone?",
+          "options": [
+            "A shopping list only.",
+            "Nothing.",
+            "A two-day plan with setting and grouting time.",
+            "A price list only."
+          ],
+          "answer": 2,
+          "explain": "Write a two-day plan with setting and grouting time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone: Tile a Real Floor or Wall",
+      "goal": "Tile a real floor or wall, grout it and present it.",
+      "video": {
+        "youtube_id": "YJKg0B_i6m0",
+        "title": "Bonding Ceramic Tiles",
+        "channel": "Staenis"
+      },
+      "steps": [
+        "Prepare, lay and grout following your plan.",
+        "Check level and straight lines as you work.",
+        "Clean up fully and show the owner the result.",
+        "Present your quote, tiles used and care notes."
+      ],
+      "task": "Present a finished tiled floor or wall with photos and quote.",
+      "challenge": "Finish with time left for a final clean and check.",
+      "quiz": [
+        {
+          "q": "What should you do as you tile the capstone job?",
+          "options": [
+            "Work as fast as possible with no checks.",
+            "Skip the plan.",
+            "Check level and straight lines as you work.",
+            "Grout before the tiles set."
+          ],
+          "answer": 2,
+          "explain": "Check level and straight lines as you work."
+        },
+        {
+          "q": "What should you do when the capstone tiling is done?",
+          "options": [
+            "Leave the mess.",
+            "Walk away.",
+            "Clean up fully and show the owner the result.",
+            "Paint the tiles."
+          ],
+          "answer": 2,
+          "explain": "Clean up fully and show the owner the result."
+        },
+        {
+          "q": "What should you present with the finished job?",
+          "options": [
+            "Only the photos.",
+            "Only the bill.",
+            "Nothing.",
+            "Your quote, tiles used and care notes."
+          ],
+          "answer": 3,
+          "explain": "Present your quote, tiles used and care notes."
+        }
+      ],
+      "project": null
     }
-   ],
-   "project": null
-  },
-  {
-   "day": 3,
-   "week": 1,
-   "title": "Prepare the Surface",
-   "goal": "Get a floor or wall clean, flat and ready for tiles.",
-   "video": {
-    "youtube_id": "-3YQaSQUMdk",
-    "title": "How to Tile a Floor",
-    "channel": "Flooring Inc"
-   },
-   "steps": [
-    "Remove old tiles, glue and dust.",
-    "Fill holes and level dips with levelling compound.",
-    "Check the surface is flat with a long level.",
-    "Prime dusty surfaces so adhesive sticks."
-   ],
-   "task": "Prepare a small floor area ready for tiling.",
-   "challenge": "Check a floor is flat enough to tile.",
-   "quiz": [
-    {
-     "q": "What is tile adhesive?",
-     "options": [
-      "Paint",
-      "The glue that sticks tiles to the floor or wall",
-      "Grout",
-      "A tile type"
-     ],
-     "answer": 1,
-     "explain": "Adhesive is the glue that bonds tiles to the surface."
-    },
-    {
-     "q": "What is grout?",
-     "options": [
-      "The glue",
-      "The paste that fills gaps between tiles",
-      "A tile cutter",
-      "A spacer"
-     ],
-     "answer": 1,
-     "explain": "Grout fills the joints between tiles and seals them."
-    },
-    {
-     "q": "What does a notched trowel do?",
-     "options": [
-      "Cuts tiles",
-      "Spreads adhesive in even ridges",
-      "Mixes grout",
-      "Levels tiles"
-     ],
-     "answer": 1,
-     "explain": "The notches leave even ridges so tiles sit flat."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 4,
-   "week": 1,
-   "title": "Cut Tiles Straight",
-   "goal": "Cut tiles cleanly with a tile cutter.",
-   "video": {
-    "youtube_id": "qs03sgG8wu0",
-    "title": "DIY Tile Floor",
-    "channel": "DIYTyler"
-   },
-   "steps": [
-    "Mark the cut line on the tile with a pencil.",
-    "Score the tile once with the cutter wheel.",
-    "Snap the tile along the score line.",
-    "Smooth the cut edge with a rubbing stone."
-   ],
-   "task": "Cut five tiles straight with no chips.",
-   "challenge": "Cut a tile to an exact size first try.",
-   "quiz": [
-    {
-     "q": "Why dry-lay tiles before gluing?",
-     "options": [
-      "To waste time",
-      "To check the pattern and where cuts will fall",
-      "To clean them",
-      "To count them"
-     ],
-     "answer": 1,
-     "explain": "Dry-laying shows the pattern and cut sizes before glue makes it permanent."
-    },
-    {
-     "q": "Why plan so edge cuts are even?",
-     "options": [
-      "For looks",
-      "So the floor looks balanced, not lopsided",
-      "To save tiles",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Even cuts on both edges make the floor look planned and neat."
-    },
-    {
-     "q": "What should you do if a floor is not flat?",
-     "options": [
-      "Tile over it",
-      "Level it first with levelling compound",
-      "Use more adhesive",
-      "Ignore it"
-     ],
-     "answer": 1,
-     "explain": "Tiles on a bumpy floor crack and sit unevenly."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 5,
-   "week": 1,
-   "title": "Mix Adhesive",
-   "goal": "Mix tile adhesive to the right thickness.",
-   "video": {
-    "youtube_id": "qs03sgG8wu0",
-    "title": "DIY Tile Floor",
-    "channel": "DIYTyler"
-   },
-   "steps": [
-    "Pour clean water in a bucket first, then add the powder.",
-    "Mix with a paddle until it is like thick peanut butter.",
-    "Let it rest for five minutes, then mix again.",
-    "Only mix as much as you can use in 30 minutes."
-   ],
-   "task": "Mix a bucket of adhesive to the right thickness.",
-   "challenge": "Mix adhesive that holds a ridge without slumping.",
-   "quiz": [
-    {
-     "q": "Why dry-lay tiles before gluing?",
-     "options": [
-      "To waste time",
-      "To check the pattern and where cuts will fall",
-      "To clean them",
-      "To count them"
-     ],
-     "answer": 1,
-     "explain": "Dry-laying shows the pattern and cut sizes before glue makes it permanent."
-    },
-    {
-     "q": "Why plan so edge cuts are even?",
-     "options": [
-      "For looks",
-      "So the floor looks balanced, not lopsided",
-      "To save tiles",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Even cuts on both edges make the floor look planned and neat."
-    },
-    {
-     "q": "What should you do if a floor is not flat?",
-     "options": [
-      "Tile over it",
-      "Level it first with levelling compound",
-      "Use more adhesive",
-      "Ignore it"
-     ],
-     "answer": 1,
-     "explain": "Tiles on a bumpy floor crack and sit unevenly."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 6,
-   "week": 1,
-   "title": "Spread Adhesive with a Notched Trowel",
-   "goal": "Spread adhesive evenly so tiles stick flat.",
-   "video": {
-    "youtube_id": "qs03sgG8wu0",
-    "title": "DIY Tile Floor",
-    "channel": "DIYTyler"
-   },
-   "steps": [
-    "Scoop adhesive onto the floor with the flat side of the trowel.",
-    "Comb it with the notched side to make even ridges.",
-    "Hold the trowel at 45 degrees.",
-    "Spread only as much as you can tile in 15 minutes."
-   ],
-   "task": "Spread adhesive in even ridges over one square metre.",
-   "challenge": "Spread adhesive with ridges all the same height.",
-   "quiz": [
-    {
-     "q": "Why dry-lay tiles before gluing?",
-     "options": [
-      "To waste time",
-      "To check the pattern and where cuts will fall",
-      "To clean them",
-      "To count them"
-     ],
-     "answer": 1,
-     "explain": "Dry-laying shows the pattern and cut sizes before glue makes it permanent."
-    },
-    {
-     "q": "Why plan so edge cuts are even?",
-     "options": [
-      "For looks",
-      "So the floor looks balanced, not lopsided",
-      "To save tiles",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Even cuts on both edges make the floor look planned and neat."
-    },
-    {
-     "q": "What should you do if a floor is not flat?",
-     "options": [
-      "Tile over it",
-      "Level it first with levelling compound",
-      "Use more adhesive",
-      "Ignore it"
-     ],
-     "answer": 1,
-     "explain": "Tiles on a bumpy floor crack and sit unevenly."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 7,
-   "week": 1,
-   "title": "Project: Tile a Small Floor Area",
-   "goal": "Tile a small floor area from layout to finished tiles.",
-   "video": {
-    "youtube_id": "utrqOHzDi24",
-    "title": "How to Lay Floor Tiles",
-    "channel": "Orientbell"
-   },
-   "steps": [
-    "Dry-lay the tiles to check the pattern.",
-    "Spread adhesive and lay the tiles with spacers.",
-    "Check each tile is level with its neighbours.",
-    "Leave the tiles to set overnight before walking on them."
-   ],
-   "task": "Finish a small tiled floor area, straight and level.",
-   "challenge": "Lay tiles with no lips (edges sticking up) between them.",
-   "quiz": [
-    {
-     "q": "How do you cut a tile with a tile cutter?",
-     "options": [
-      "Hit it",
-      "Score once, then snap along the line",
-      "Saw it",
-      "Bend it"
-     ],
-     "answer": 1,
-     "explain": "One firm score and a snap gives a clean straight cut."
-    },
-    {
-     "q": "Why mix adhesive with water first in the bucket?",
-     "options": [
-      "It is faster",
-      "So the powder mixes evenly with no lumps",
-      "To save water",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Water first stops dry lumps forming in the mix."
-    },
-    {
-     "q": "How thick should mixed adhesive be?",
-     "options": [
-      "Like water",
-      "Like thick peanut butter",
-      "Like sand",
-      "Like soup"
-     ],
-     "answer": 1,
-     "explain": "Thick adhesive holds ridges and supports the tile."
-    }
-   ],
-   "project": {
-    "title": "Tile a Small Floor Area",
-    "brief": "Tile a small floor area from layout to finished set tiles.",
-    "checks": [
-     "Layout planned with even cuts",
-     "Adhesive spread evenly",
-     "Tiles straight with even gaps",
-     "Tiles level with no lips",
-     "Faces cleaned",
-     "Left to set overnight"
-    ]
-   }
-  },
-  {
-   "day": 8,
-   "week": 2,
-   "title": "Tile Spacers and Straight Lines",
-   "goal": "Use spacers to keep grout gaps even.",
-   "video": {
-    "youtube_id": "utrqOHzDi24",
-    "title": "How to Lay Floor Tiles",
-    "channel": "Orientbell"
-   },
-   "steps": [
-    "Spacers are small plastic crosses that hold tiles apart.",
-    "Put spacers at every corner where tiles meet.",
-    "Check the lines stay straight with a long level.",
-    "Remove spacers before the adhesive sets hard."
-   ],
-   "task": "Lay a row of tiles with perfectly even gaps.",
-   "challenge": "Lay tiles so the grout lines are straight in both directions.",
-   "quiz": [
-    {
-     "q": "How do you cut a tile with a tile cutter?",
-     "options": [
-      "Hit it",
-      "Score once, then snap along the line",
-      "Saw it",
-      "Bend it"
-     ],
-     "answer": 1,
-     "explain": "One firm score and a snap gives a clean straight cut."
-    },
-    {
-     "q": "Why mix adhesive with water first in the bucket?",
-     "options": [
-      "It is faster",
-      "So the powder mixes evenly with no lumps",
-      "To save water",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Water first stops dry lumps forming in the mix."
-    },
-    {
-     "q": "How thick should mixed adhesive be?",
-     "options": [
-      "Like water",
-      "Like thick peanut butter",
-      "Like sand",
-      "Like soup"
-     ],
-     "answer": 1,
-     "explain": "Thick adhesive holds ridges and supports the tile."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 9,
-   "week": 2,
-   "title": "Check Tiles Are Level",
-   "goal": "Check tiles as you lay them so the floor is flat.",
-   "video": {
-    "youtube_id": "utrqOHzDi24",
-    "title": "How to Lay Floor Tiles",
-    "channel": "Orientbell"
-   },
-   "steps": [
-    "Press each tile down firmly and evenly.",
-    "Tap high tiles down gently with a rubber mallet.",
-    "Check with a level across two tiles at a time.",
-    "Lift and re-lay any tile that sits too high or low."
-   ],
-   "task": "Lay six tiles perfectly level with each other.",
-   "challenge": "Find and fix a tile that sits too high.",
-   "quiz": [
-    {
-     "q": "How do you cut a tile with a tile cutter?",
-     "options": [
-      "Hit it",
-      "Score once, then snap along the line",
-      "Saw it",
-      "Bend it"
-     ],
-     "answer": 1,
-     "explain": "One firm score and a snap gives a clean straight cut."
-    },
-    {
-     "q": "Why mix adhesive with water first in the bucket?",
-     "options": [
-      "It is faster",
-      "So the powder mixes evenly with no lumps",
-      "To save water",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Water first stops dry lumps forming in the mix."
-    },
-    {
-     "q": "How thick should mixed adhesive be?",
-     "options": [
-      "Like water",
-      "Like thick peanut butter",
-      "Like sand",
-      "Like soup"
-     ],
-     "answer": 1,
-     "explain": "Thick adhesive holds ridges and supports the tile."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 10,
-   "week": 2,
-   "title": "Lay Floor Tiles Step by Step",
-   "goal": "Lay a full floor of tiles in the right order.",
-   "video": {
-    "youtube_id": "fd96jtYcl94",
-    "title": "How to Tile a Floor",
-    "channel": "Johnson Tiles"
-   },
-   "steps": [
-    "Start from the centre lines and work outward.",
-    "Lay full tiles first, then cut the edge tiles.",
-    "Keep checking level and straight lines.",
-    "Clean adhesive off tile faces as you go."
-   ],
-   "task": "Lay a full small floor of tiles.",
-   "challenge": "Lay a floor with no adhesive left on the tile faces.",
-   "quiz": [
-    {
-     "q": "Why hold the trowel at 45 degrees?",
-     "options": [
-      "For fun",
-      "To make even ridges of the right height",
-      "To save adhesive",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "The angle controls the ridge height for even coverage."
-    },
-    {
-     "q": "How long can you leave spread adhesive before tiling?",
-     "options": [
-      "All day",
-      "About 15 minutes before it skins over",
-      "One hour",
-      "One minute"
-     ],
-     "answer": 1,
-     "explain": "Adhesive skins over quickly; spread only what you can tile fast."
-    },
-    {
-     "q": "What happens if you spread too much adhesive?",
-     "options": [
-      "Nothing",
-      "It dries before you lay the tiles",
-      "It gets stronger",
-      "It saves time"
-     ],
-     "answer": 1,
-     "explain": "Dried adhesive will not bond tiles properly."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 11,
-   "week": 2,
-   "title": "Cut Tiles Around Pipes and Corners",
-   "goal": "Cut tiles to fit around pipes, corners and door frames.",
-   "video": {
-    "youtube_id": "fd96jtYcl94",
-    "title": "How to Tile a Floor",
-    "channel": "Johnson Tiles"
-   },
-   "steps": [
-    "Mark the pipe position on the tile.",
-    "Drill or nibble the hole with tile nippers.",
-    "Cut L-shapes for corners with two straight cuts.",
-    "Test the fit before you glue the tile down."
-   ],
-   "task": "Cut a tile to fit around a pipe.",
-   "challenge": "Cut an L-shaped tile that fits a corner exactly.",
-   "quiz": [
-    {
-     "q": "Why hold the trowel at 45 degrees?",
-     "options": [
-      "For fun",
-      "To make even ridges of the right height",
-      "To save adhesive",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "The angle controls the ridge height for even coverage."
-    },
-    {
-     "q": "How long can you leave spread adhesive before tiling?",
-     "options": [
-      "All day",
-      "About 15 minutes before it skins over",
-      "One hour",
-      "One minute"
-     ],
-     "answer": 1,
-     "explain": "Adhesive skins over quickly; spread only what you can tile fast."
-    },
-    {
-     "q": "What happens if you spread too much adhesive?",
-     "options": [
-      "Nothing",
-      "It dries before you lay the tiles",
-      "It gets stronger",
-      "It saves time"
-     ],
-     "answer": 1,
-     "explain": "Dried adhesive will not bond tiles properly."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 12,
-   "week": 2,
-   "title": "Tile a Floor Like a Pro",
-   "goal": "Finish a floor with neat edges and clean grout lines.",
-   "video": {
-    "youtube_id": "fd96jtYcl94",
-    "title": "How to Tile a Floor",
-    "channel": "Johnson Tiles"
-   },
-   "steps": [
-    "Lay the last edge tiles and check they fit.",
-    "Clean all adhesive from the joints.",
-    "Leave the floor to set for 24 hours.",
-    "Walk on it gently and check nothing moves."
-   ],
-   "task": "Finish a floor ready for grouting.",
-   "challenge": "Lay a floor with even cuts at every edge.",
-   "quiz": [
-    {
-     "q": "Why hold the trowel at 45 degrees?",
-     "options": [
-      "For fun",
-      "To make even ridges of the right height",
-      "To save adhesive",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "The angle controls the ridge height for even coverage."
-    },
-    {
-     "q": "How long can you leave spread adhesive before tiling?",
-     "options": [
-      "All day",
-      "About 15 minutes before it skins over",
-      "One hour",
-      "One minute"
-     ],
-     "answer": 1,
-     "explain": "Adhesive skins over quickly; spread only what you can tile fast."
-    },
-    {
-     "q": "What happens if you spread too much adhesive?",
-     "options": [
-      "Nothing",
-      "It dries before you lay the tiles",
-      "It gets stronger",
-      "It saves time"
-     ],
-     "answer": 1,
-     "explain": "Dried adhesive will not bond tiles properly."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 13,
-   "week": 2,
-   "title": "Tile a Bathroom Floor",
-   "goal": "Tile a bathroom floor, working around the toilet and bath.",
-   "video": {
-    "youtube_id": "tlKPWRX6dMw",
-    "title": "How to Tile a Bathroom Floor",
-    "channel": "Lowe's"
-   },
-   "steps": [
-    "Remove the toilet or work around its base.",
-    "Plan the layout so cuts are hidden under the bath.",
-    "Lay tiles with waterproof adhesive.",
-    "Seal the edges where tiles meet the bath and toilet."
-   ],
-   "task": "Tile a bathroom floor area neatly.",
-   "challenge": "Tile around a toilet base with neat cuts.",
-   "quiz": [
-    {
-     "q": "What are tile spacers for?",
-     "options": [
-      "Decoration",
-      "Keeping grout gaps even between tiles",
-      "Cutting tiles",
-      "Mixing grout"
-     ],
-     "answer": 1,
-     "explain": "Spacers hold tiles apart evenly so grout lines are straight."
-    },
-    {
-     "q": "When should you remove spacers?",
-     "options": [
-      "After grouting",
-      "Before the adhesive sets hard",
-      "Never",
-      "After a week"
-     ],
-     "answer": 1,
-     "explain": "Spacers left in hard adhesive can show through grout."
-    },
-    {
-     "q": "How do you fix a tile that sits too high?",
-     "options": [
-      "Hit it hard",
-      "Lift it, add or remove adhesive, and re-lay it",
-      "Ignore it",
-      "Grind it down"
-     ],
-     "answer": 1,
-     "explain": "Lifting and re-laying is the only way to level a high tile."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 14,
-   "week": 2,
-   "title": "Project: Tile a Bathroom Floor Section",
-   "goal": "Tile a section of bathroom floor from prep to set tiles.",
-   "video": {
-    "youtube_id": "tlKPWRX6dMw",
-    "title": "How to Tile a Bathroom Floor",
-    "channel": "Lowe's"
-   },
-   "steps": [
-    "Prepare the surface and plan the layout.",
-    "Lay the tiles with spacers and check level.",
-    "Cut tiles neatly around fittings.",
-    "Leave to set and clean the tile faces."
-   ],
-   "task": "Finish a bathroom floor section, level and neat.",
-   "challenge": "Tile the section with no lipped tiles.",
-   "quiz": [
-    {
-     "q": "What are tile spacers for?",
-     "options": [
-      "Decoration",
-      "Keeping grout gaps even between tiles",
-      "Cutting tiles",
-      "Mixing grout"
-     ],
-     "answer": 1,
-     "explain": "Spacers hold tiles apart evenly so grout lines are straight."
-    },
-    {
-     "q": "When should you remove spacers?",
-     "options": [
-      "After grouting",
-      "Before the adhesive sets hard",
-      "Never",
-      "After a week"
-     ],
-     "answer": 1,
-     "explain": "Spacers left in hard adhesive can show through grout."
-    },
-    {
-     "q": "How do you fix a tile that sits too high?",
-     "options": [
-      "Hit it hard",
-      "Lift it, add or remove adhesive, and re-lay it",
-      "Ignore it",
-      "Grind it down"
-     ],
-     "answer": 1,
-     "explain": "Lifting and re-laying is the only way to level a high tile."
-    }
-   ],
-   "project": {
-    "title": "Tile a Bathroom Floor Section",
-    "brief": "Tile a section of bathroom floor, level and neat.",
-    "checks": [
-     "Surface prepared",
-     "Layout planned",
-     "Tiles level with spacers",
-     "Cuts neat around fittings",
-     "Faces cleaned",
-     "Ready for grouting"
-    ]
-   }
-  },
-  {
-   "day": 15,
-   "week": 3,
-   "title": "Tile a Bathroom Wall",
-   "goal": "Tile a wall straight, starting from a level line.",
-   "video": {
-    "youtube_id": "tlKPWRX6dMw",
-    "title": "How to Tile a Bathroom Floor",
-    "channel": "Lowe's"
-   },
-   "steps": [
-    "Mark a level starting line on the wall.",
-    "Fix a batten (a straight wooden strip) to support the first row.",
-    "Spread adhesive and lay tiles upward from the batten.",
-    "Use spacers and check level often."
-   ],
-   "task": "Tile one wall section straight and level.",
-   "challenge": "Tile a wall with no tiles slipping down.",
-   "quiz": [
-    {
-     "q": "What are tile spacers for?",
-     "options": [
-      "Decoration",
-      "Keeping grout gaps even between tiles",
-      "Cutting tiles",
-      "Mixing grout"
-     ],
-     "answer": 1,
-     "explain": "Spacers hold tiles apart evenly so grout lines are straight."
-    },
-    {
-     "q": "When should you remove spacers?",
-     "options": [
-      "After grouting",
-      "Before the adhesive sets hard",
-      "Never",
-      "After a week"
-     ],
-     "answer": 1,
-     "explain": "Spacers left in hard adhesive can show through grout."
-    },
-    {
-     "q": "How do you fix a tile that sits too high?",
-     "options": [
-      "Hit it hard",
-      "Lift it, add or remove adhesive, and re-lay it",
-      "Ignore it",
-      "Grind it down"
-     ],
-     "answer": 1,
-     "explain": "Lifting and re-laying is the only way to level a high tile."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 16,
-   "week": 3,
-   "title": "Tile Around a Shower",
-   "goal": "Tile a shower area with waterproof prep.",
-   "video": {
-    "youtube_id": "FtJsP4Xu-tY",
-    "title": "How to Tile a Bathroom Wall",
-    "channel": "Victorian Plumbing"
-   },
-   "steps": [
-    "Learn that shower walls need a waterproof layer behind the tiles.",
-    "Use waterproof adhesive and grout.",
-    "Seal corners with silicone, not grout.",
-    "Check the tiles slope slightly toward the drain on the floor."
-   ],
-   "task": "Tile a shower wall section with waterproof prep.",
-   "challenge": "Seal a shower corner with neat silicone.",
-   "quiz": [
-    {
-     "q": "How do you cut a tile around a pipe?",
-     "options": [
-      "Guess",
-      "Mark the position, drill or nibble the hole",
-      "Break it",
-      "Use a hammer"
-     ],
-     "answer": 1,
-     "explain": "Marking and nibbling gives a neat hole that fits the pipe."
-    },
-    {
-     "q": "What are tile nippers used for?",
-     "options": [
-      "Cutting straight lines",
-      "Nibbling small pieces off a tile edge",
-      "Mixing grout",
-      "Spreading adhesive"
-     ],
-     "answer": 1,
-     "explain": "Nippers bite small pieces off to shape curves and holes."
-    },
-    {
-     "q": "Why test a cut tile before gluing?",
-     "options": [
-      "To waste time",
-      "To check it fits before glue makes it permanent",
-      "To clean it",
-      "To count it"
-     ],
-     "answer": 1,
-     "explain": "A dry test catches a bad cut before it is glued down."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 17,
-   "week": 3,
-   "title": "Wall Tile Patterns",
-   "goal": "Lay wall tiles in brick, straight and herringbone patterns.",
-   "video": {
-    "youtube_id": "FtJsP4Xu-tY",
-    "title": "How to Tile a Bathroom Wall",
-    "channel": "Victorian Plumbing"
-   },
-   "steps": [
-    "A brick pattern staggers each row by half a tile.",
-    "A straight pattern lines tiles up in a grid.",
-    "Herringbone lays tiles at 45 degrees in a zigzag.",
-    "Practise each pattern on a board."
-   ],
-   "task": "Lay three patterns on a practice board.",
-   "challenge": "Lay a brick pattern with even joints.",
-   "quiz": [
-    {
-     "q": "How do you cut a tile around a pipe?",
-     "options": [
-      "Guess",
-      "Mark the position, drill or nibble the hole",
-      "Break it",
-      "Use a hammer"
-     ],
-     "answer": 1,
-     "explain": "Marking and nibbling gives a neat hole that fits the pipe."
-    },
-    {
-     "q": "What are tile nippers used for?",
-     "options": [
-      "Cutting straight lines",
-      "Nibbling small pieces off a tile edge",
-      "Mixing grout",
-      "Spreading adhesive"
-     ],
-     "answer": 1,
-     "explain": "Nippers bite small pieces off to shape curves and holes."
-    },
-    {
-     "q": "Why test a cut tile before gluing?",
-     "options": [
-      "To waste time",
-      "To check it fits before glue makes it permanent",
-      "To clean it",
-      "To count it"
-     ],
-     "answer": 1,
-     "explain": "A dry test catches a bad cut before it is glued down."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 18,
-   "week": 3,
-   "title": "Tile a Shower Wall",
-   "goal": "Tile a full shower wall from prep to finish.",
-   "video": {
-    "youtube_id": "FtJsP4Xu-tY",
-    "title": "How to Tile a Bathroom Wall",
-    "channel": "Victorian Plumbing"
-   },
-   "steps": [
-    "Check the waterproof layer is sound.",
-    "Plan the layout so cuts are at the edges.",
-    "Lay tiles from the bottom up with spacers.",
-    "Leave to set before grouting."
-   ],
-   "task": "Finish a shower wall, straight and waterproof-ready.",
-   "challenge": "Tile a shower wall with no hollow tiles.",
-   "quiz": [
-    {
-     "q": "How do you cut a tile around a pipe?",
-     "options": [
-      "Guess",
-      "Mark the position, drill or nibble the hole",
-      "Break it",
-      "Use a hammer"
-     ],
-     "answer": 1,
-     "explain": "Marking and nibbling gives a neat hole that fits the pipe."
-    },
-    {
-     "q": "What are tile nippers used for?",
-     "options": [
-      "Cutting straight lines",
-      "Nibbling small pieces off a tile edge",
-      "Mixing grout",
-      "Spreading adhesive"
-     ],
-     "answer": 1,
-     "explain": "Nippers bite small pieces off to shape curves and holes."
-    },
-    {
-     "q": "Why test a cut tile before gluing?",
-     "options": [
-      "To waste time",
-      "To check it fits before glue makes it permanent",
-      "To clean it",
-      "To count it"
-     ],
-     "answer": 1,
-     "explain": "A dry test catches a bad cut before it is glued down."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 19,
-   "week": 3,
-   "title": "Project: Tile a Bathroom Wall",
-   "goal": "Tile a bathroom wall section from prep to set tiles.",
-   "video": {
-    "youtube_id": "VVNxXfW_zXY",
-    "title": "How to Tile a Shower | Tile Prep and Installation",
-    "channel": "Lowe's"
-   },
-   "steps": [
-    "Prepare the wall and mark level lines.",
-    "Lay tiles with spacers, checking level.",
-    "Cut tiles neatly around taps and fittings.",
-    "Clean the faces and leave to set."
-   ],
-   "task": "Finish a bathroom wall section, straight and level.",
-   "challenge": "Tile the wall with even grout lines.",
-   "quiz": [
-    {
-     "q": "Why use waterproof adhesive in a bathroom?",
-     "options": [
-      "It is cheaper",
-      "So water cannot loosen the tiles",
-      "It dries faster",
-      "It looks better"
-     ],
-     "answer": 1,
-     "explain": "Bathrooms are wet; normal adhesive can fail with water."
-    },
-    {
-     "q": "What should you seal shower corners with?",
-     "options": [
-      "Grout",
-      "Silicone",
-      "Adhesive",
-      "Paint"
-     ],
-     "answer": 1,
-     "explain": "Silicone flexes with movement; grout would crack in corners."
-    },
-    {
-     "q": "Why slope a shower floor slightly?",
-     "options": [
-      "For looks",
-      "So water runs to the drain",
-      "To save tiles",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "A slight slope sends water to the drain instead of pooling."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 20,
-   "week": 3,
-   "title": "Grout Tiles",
-   "goal": "Fill the gaps between tiles with grout.",
-   "video": {
-    "youtube_id": "VVNxXfW_zXY",
-    "title": "How to Tile a Shower | Tile Prep and Installation",
-    "channel": "Lowe's"
-   },
-   "steps": [
-    "Grout is the paste that fills the gaps between tiles.",
-    "Mix grout to a thick paste.",
-    "Push it into the joints with a grout float (a flat rubber tool).",
-    "Wipe the tiles clean with a damp sponge."
-   ],
-   "task": "Grout a small tiled area cleanly.",
-   "challenge": "Grout tiles with no grout haze left on the faces.",
-   "quiz": [
-    {
-     "q": "Why use waterproof adhesive in a bathroom?",
-     "options": [
-      "It is cheaper",
-      "So water cannot loosen the tiles",
-      "It dries faster",
-      "It looks better"
-     ],
-     "answer": 1,
-     "explain": "Bathrooms are wet; normal adhesive can fail with water."
-    },
-    {
-     "q": "What should you seal shower corners with?",
-     "options": [
-      "Grout",
-      "Silicone",
-      "Adhesive",
-      "Paint"
-     ],
-     "answer": 1,
-     "explain": "Silicone flexes with movement; grout would crack in corners."
-    },
-    {
-     "q": "Why slope a shower floor slightly?",
-     "options": [
-      "For looks",
-      "So water runs to the drain",
-      "To save tiles",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "A slight slope sends water to the drain instead of pooling."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 21,
-   "week": 3,
-   "title": "Grout Colours and Sealing",
-   "goal": "Pick grout colours and seal grout so it stays clean.",
-   "video": {
-    "youtube_id": "VVNxXfW_zXY",
-    "title": "How to Tile a Shower | Tile Prep and Installation",
-    "channel": "Lowe's"
-   },
-   "steps": [
-    "Pick a grout colour that suits the tiles.",
-    "Seal grout in wet areas so water cannot soak in.",
-    "Learn that white grout shows dirt; grey hides it.",
-    "Apply sealer with a small brush along the joints."
-   ],
-   "task": "Seal the grout on a tiled area.",
-   "challenge": "Pick a grout colour for a bathroom floor.",
-   "quiz": [
-    {
-     "q": "Why use waterproof adhesive in a bathroom?",
-     "options": [
-      "It is cheaper",
-      "So water cannot loosen the tiles",
-      "It dries faster",
-      "It looks better"
-     ],
-     "answer": 1,
-     "explain": "Bathrooms are wet; normal adhesive can fail with water."
-    },
-    {
-     "q": "What should you seal shower corners with?",
-     "options": [
-      "Grout",
-      "Silicone",
-      "Adhesive",
-      "Paint"
-     ],
-     "answer": 1,
-     "explain": "Silicone flexes with movement; grout would crack in corners."
-    },
-    {
-     "q": "Why slope a shower floor slightly?",
-     "options": [
-      "For looks",
-      "So water runs to the drain",
-      "To save tiles",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "A slight slope sends water to the drain instead of pooling."
-    }
-   ],
-   "project": {
-    "title": "Tile a Bathroom Wall",
-    "brief": "Tile a bathroom wall section from prep to set tiles.",
-    "checks": [
-     "Wall prepared and level lines marked",
-     "Tiles straight with spacers",
-     "Cuts neat around taps",
-     "Level checked often",
-     "Faces cleaned",
-     "Left to set before grouting"
-    ]
-   }
-  },
-  {
-   "day": 22,
-   "week": 4,
-   "title": "Clean Grout Haze",
-   "goal": "Remove the cloudy haze grout leaves on tiles.",
-   "video": {
-    "youtube_id": "DhZPzhIlwsA",
-    "title": "How to Grout Tiles",
-    "channel": "Victorian Plumbing"
-   },
-   "steps": [
-    "Wait until the grout is firm, then wipe with a damp sponge.",
-    "Change the rinse water often.",
-    "Buff the tiles with a dry cloth.",
-    "Use a haze remover for stubborn cloudiness."
-   ],
-   "task": "Clean a grouted area until the tiles shine.",
-   "challenge": "Remove haze without scratching the tiles.",
-   "quiz": [
-    {
-     "q": "What tool pushes grout into joints?",
-     "options": [
-      "A trowel",
-      "A grout float",
-      "A sponge",
-      "A brush"
-     ],
-     "answer": 1,
-     "explain": "A grout float is a flat rubber tool that presses grout into joints."
-    },
-    {
-     "q": "Why wipe tiles with a damp sponge after grouting?",
-     "options": [
-      "To dry them",
-      "To remove grout from the tile faces before it hardens",
-      "To shine them",
-      "To cool them"
-     ],
-     "answer": 1,
-     "explain": "Grout left on faces hardens into a haze that is hard to remove."
-    },
-    {
-     "q": "What is grout haze?",
-     "options": [
-      "A colour",
-      "The cloudy film grout leaves on tile faces",
-      "A tool",
-      "A tile type"
-     ],
-     "answer": 1,
-     "explain": "Haze is the thin cloudy film left if grout is not wiped off."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 23,
-   "week": 4,
-   "title": "Fix a Loose Tile",
-   "goal": "Find and fix a loose or hollow tile.",
-   "video": {
-    "youtube_id": "DhZPzhIlwsA",
-    "title": "How to Grout Tiles",
-    "channel": "Victorian Plumbing"
-   },
-   "steps": [
-    "Tap tiles: a hollow sound means the adhesive failed.",
-    "Lift the loose tile carefully.",
-    "Clean off old adhesive and re-stick it.",
-    "Grout the joints again and leave to set."
-   ],
-   "task": "Fix a loose tile so it sounds solid.",
-   "challenge": "Find a hollow tile by tapping.",
-   "quiz": [
-    {
-     "q": "What tool pushes grout into joints?",
-     "options": [
-      "A trowel",
-      "A grout float",
-      "A sponge",
-      "A brush"
-     ],
-     "answer": 1,
-     "explain": "A grout float is a flat rubber tool that presses grout into joints."
-    },
-    {
-     "q": "Why wipe tiles with a damp sponge after grouting?",
-     "options": [
-      "To dry them",
-      "To remove grout from the tile faces before it hardens",
-      "To shine them",
-      "To cool them"
-     ],
-     "answer": 1,
-     "explain": "Grout left on faces hardens into a haze that is hard to remove."
-    },
-    {
-     "q": "What is grout haze?",
-     "options": [
-      "A colour",
-      "The cloudy film grout leaves on tile faces",
-      "A tool",
-      "A tile type"
-     ],
-     "answer": 1,
-     "explain": "Haze is the thin cloudy film left if grout is not wiped off."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 24,
-   "week": 4,
-   "title": "Silicone Seals",
-   "goal": "Seal edges with silicone for a waterproof finish.",
-   "video": {
-    "youtube_id": "DhZPzhIlwsA",
-    "title": "How to Grout Tiles",
-    "channel": "Victorian Plumbing"
-   },
-   "steps": [
-    "Cut the silicone tube nozzle at an angle.",
-    "Apply a smooth bead along the joint.",
-    "Smooth it with a wet finger in one pass.",
-    "Let it dry fully before using the shower."
-   ],
-   "task": "Seal a bath edge with neat silicone.",
-   "challenge": "Apply silicone in one smooth bead with no gaps.",
-   "quiz": [
-    {
-     "q": "What tool pushes grout into joints?",
-     "options": [
-      "A trowel",
-      "A grout float",
-      "A sponge",
-      "A brush"
-     ],
-     "answer": 1,
-     "explain": "A grout float is a flat rubber tool that presses grout into joints."
-    },
-    {
-     "q": "Why wipe tiles with a damp sponge after grouting?",
-     "options": [
-      "To dry them",
-      "To remove grout from the tile faces before it hardens",
-      "To shine them",
-      "To cool them"
-     ],
-     "answer": 1,
-     "explain": "Grout left on faces hardens into a haze that is hard to remove."
-    },
-    {
-     "q": "What is grout haze?",
-     "options": [
-      "A colour",
-      "The cloudy film grout leaves on tile faces",
-      "A tool",
-      "A tile type"
-     ],
-     "answer": 1,
-     "explain": "Haze is the thin cloudy film left if grout is not wiped off."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 25,
-   "week": 4,
-   "title": "Bonding Ceramic Tiles",
-   "goal": "Know how ceramic tiles bond to different surfaces.",
-   "video": {
-    "youtube_id": "IemPfDtmNw0",
-    "title": "How to Grout Tiles",
-    "channel": "lets-do-diy"
-   },
-   "steps": [
-    "Ceramic tiles need the right adhesive for the surface.",
-    "Learn that wood, concrete and plaster need different prep.",
-    "Use flexible adhesive on floors that move slightly.",
-    "Test a tile bond by trying to lift it after setting."
-   ],
-   "task": "Bond tiles to two different surfaces and test them.",
-   "challenge": "Pick the right adhesive for a wooden floor.",
-   "quiz": [
-    {
-     "q": "How do you find a loose tile?",
-     "options": [
-      "Look at it",
-      "Tap it: a hollow sound means the adhesive failed",
-      "Push it",
-      "Smell it"
-     ],
-     "answer": 1,
-     "explain": "A solid tile sounds dull; a loose one sounds hollow."
-    },
-    {
-     "q": "Why seal grout in wet areas?",
-     "options": [
-      "For colour",
-      "So water cannot soak into the grout",
-      "To make it shiny",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Sealed grout resists water and stains in wet rooms."
-    },
-    {
-     "q": "What should a tiling quote include?",
-     "options": [
-      "Only the tile price",
-      "Tiles, adhesive, grout, time and profit",
-      "Your name only",
-      "The date only"
-     ],
-     "answer": 1,
-     "explain": "A real quote covers materials, time and profit."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 26,
-   "week": 4,
-   "title": "Price a Tiling Job",
-   "goal": "Price a tiling job from tiles, adhesive, time and profit.",
-   "video": {
-    "youtube_id": "IemPfDtmNw0",
-    "title": "How to Grout Tiles",
-    "channel": "lets-do-diy"
-   },
-   "steps": [
-    "Measure the area and work out tiles needed, plus 10 percent spare.",
-    "Add adhesive, grout and spacers to the cost.",
-    "Time the job and value your hours fairly.",
-    "Write a simple quote a customer can understand."
-   ],
-   "task": "Write a clear quote for tiling a bathroom floor.",
-   "challenge": "Price a kitchen wall job fairly.",
-   "quiz": [
-    {
-     "q": "How do you find a loose tile?",
-     "options": [
-      "Look at it",
-      "Tap it: a hollow sound means the adhesive failed",
-      "Push it",
-      "Smell it"
-     ],
-     "answer": 1,
-     "explain": "A solid tile sounds dull; a loose one sounds hollow."
-    },
-    {
-     "q": "Why seal grout in wet areas?",
-     "options": [
-      "For colour",
-      "So water cannot soak into the grout",
-      "To make it shiny",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Sealed grout resists water and stains in wet rooms."
-    },
-    {
-     "q": "What should a tiling quote include?",
-     "options": [
-      "Only the tile price",
-      "Tiles, adhesive, grout, time and profit",
-      "Your name only",
-      "The date only"
-     ],
-     "answer": 1,
-     "explain": "A real quote covers materials, time and profit."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 27,
-   "week": 4,
-   "title": "Grout a Floor Like a Pro",
-   "goal": "Grout a tiled floor cleanly with even joints.",
-   "video": {
-    "youtube_id": "IemPfDtmNw0",
-    "title": "How to Grout Tiles",
-    "channel": "lets-do-diy"
-   },
-   "steps": [
-    "Mix grout to a thick paste, like peanut butter.",
-    "Push grout into the joints with a rubber float.",
-    "Wipe the tiles with a damp sponge at an angle.",
-    "Let it dry, then buff off the haze with a dry cloth."
-   ],
-   "task": "Grout a small floor area with even joints.",
-   "challenge": "Grout a floor with no haze left on the tiles.",
-   "quiz": [
-    {
-     "q": "How do you find a loose tile?",
-     "options": [
-      "Look at it",
-      "Tap it: a hollow sound means the adhesive failed",
-      "Push it",
-      "Smell it"
-     ],
-     "answer": 1,
-     "explain": "A solid tile sounds dull; a loose one sounds hollow."
-    },
-    {
-     "q": "Why seal grout in wet areas?",
-     "options": [
-      "For colour",
-      "So water cannot soak into the grout",
-      "To make it shiny",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Sealed grout resists water and stains in wet rooms."
-    },
-    {
-     "q": "What should a tiling quote include?",
-     "options": [
-      "Only the tile price",
-      "Tiles, adhesive, grout, time and profit",
-      "Your name only",
-      "The date only"
-     ],
-     "answer": 1,
-     "explain": "A real quote covers materials, time and profit."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 28,
-   "week": 4,
-   "title": "Bond Ceramic Tiles to a Wall",
-   "goal": "Stick ceramic tiles to a wall with the right adhesive.",
-   "video": {
-    "youtube_id": "YJKg0B_i6m0",
-    "title": "Bonding Ceramic Tiles",
-    "channel": "Staenis"
-   },
-   "steps": [
-    "Choose adhesive made for ceramic tiles.",
-    "Spread it with a notched trowel.",
-    "Press each tile firmly and check it is level.",
-    "Leave the tiles to set before you grout."
-   ],
-   "task": "Bond ceramic tiles to a wall section.",
-   "challenge": "Stick tiles that stay put and level.",
-   "quiz": [
-    {
-     "q": "What holds ceramic tiles to a wall?",
-     "options": [
-      "Glue from a tube",
-      "Tile adhesive spread with a notched trowel",
-      "Nails",
-      "Tape"
-     ],
-     "answer": 1,
-     "explain": "Tile adhesive bonds tiles to the wall; the notched trowel spreads it evenly."
-    },
-    {
-     "q": "Why press each tile firmly?",
-     "options": [
-      "For looks",
-      "So the adhesive grips the tile fully",
-      "It is faster",
-      "To save adhesive"
-     ],
-     "answer": 1,
-     "explain": "Firm pressure pushes the tile into the adhesive so it bonds well."
-    },
-    {
-     "q": "When can you grout a tiled wall?",
-     "options": [
-      "Right away",
-      "After the adhesive has set fully",
-      "Before tiling",
-      "Never"
-     ],
-     "answer": 1,
-     "explain": "Grouting before the adhesive sets can move the tiles out of place."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 29,
-   "week": 5,
-   "title": "Capstone Planning",
-   "goal": "Choose your capstone tiling job, buy tiles and plan the days.",
-   "video": {
-    "youtube_id": "YJKg0B_i6m0",
-    "title": "Bonding Ceramic Tiles",
-    "channel": "Staenis"
-   },
-   "steps": [
-    "Pick a real floor or wall that needs tiling.",
-    "Choose tiles with the owner and buy them plus 10 percent spare.",
-    "Plan the layout on paper first.",
-    "Write a two-day plan with setting and grouting time."
-   ],
-   "task": "Have all capstone tiles bought and the layout planned.",
-   "challenge": "Plan a capstone job that uses floor or wall tiling plus grout.",
-   "quiz": [
-    {
-     "q": "What holds ceramic tiles to a wall?",
-     "options": [
-      "Glue from a tube",
-      "Tile adhesive spread with a notched trowel",
-      "Nails",
-      "Tape"
-     ],
-     "answer": 1,
-     "explain": "Tile adhesive bonds tiles to the wall; the notched trowel spreads it evenly."
-    },
-    {
-     "q": "Why press each tile firmly?",
-     "options": [
-      "For looks",
-      "So the adhesive grips the tile fully",
-      "It is faster",
-      "To save adhesive"
-     ],
-     "answer": 1,
-     "explain": "Firm pressure pushes the tile into the adhesive so it bonds well."
-    },
-    {
-     "q": "When can you grout a tiled wall?",
-     "options": [
-      "Right away",
-      "After the adhesive has set fully",
-      "Before tiling",
-      "Never"
-     ],
-     "answer": 1,
-     "explain": "Grouting before the adhesive sets can move the tiles out of place."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 30,
-   "week": 5,
-   "title": "Capstone: Tile a Real Floor or Wall",
-   "goal": "Tile a real floor or wall, grout it and present it.",
-   "video": {
-    "youtube_id": "YJKg0B_i6m0",
-    "title": "Bonding Ceramic Tiles",
-    "channel": "Staenis"
-   },
-   "steps": [
-    "Prepare, lay and grout following your plan.",
-    "Check level and straight lines as you work.",
-    "Clean up fully and show the owner the result.",
-    "Present your quote, tiles used and care notes."
-   ],
-   "task": "Present a finished tiled floor or wall with photos and quote.",
-   "challenge": "Finish with time left for a final clean and check.",
-   "quiz": [
-    {
-     "q": "What holds ceramic tiles to a wall?",
-     "options": [
-      "Glue from a tube",
-      "Tile adhesive spread with a notched trowel",
-      "Nails",
-      "Tape"
-     ],
-     "answer": 1,
-     "explain": "Tile adhesive bonds tiles to the wall; the notched trowel spreads it evenly."
-    },
-    {
-     "q": "Why press each tile firmly?",
-     "options": [
-      "For looks",
-      "So the adhesive grips the tile fully",
-      "It is faster",
-      "To save adhesive"
-     ],
-     "answer": 1,
-     "explain": "Firm pressure pushes the tile into the adhesive so it bonds well."
-    },
-    {
-     "q": "When can you grout a tiled wall?",
-     "options": [
-      "Right away",
-      "After the adhesive has set fully",
-      "Before tiling",
-      "Never"
-     ],
-     "answer": 1,
-     "explain": "Grouting before the adhesive sets can move the tiles out of place."
-    }
-   ],
-   "project": null
-  }
- ],
- "capstone": {
-  "title": "Tile a Real Floor or Wall",
-  "brief": "Tile a real floor or wall, grout it and seal it, and present it with the quote and tiles used.",
-  "checks": [
-   "Surface prepared flat and clean",
-   "Layout planned with even cuts",
-   "Tiles straight, level and firmly stuck",
-   "Grout even and clean with no haze",
-   "Edges sealed with silicone where needed",
-   "Area clean and tidy on handover",
-   "Quote, tiles and care notes presented"
   ],
-  "deliverables": [
-   "Finished tiled floor or wall",
-   "Quote with tiles, materials, time and price",
-   "List of tiles and materials used",
-   "Before and after photos",
-   "Care note for the owner"
-  ]
- }
+  "capstone": {
+    "title": "Tile a Real Floor or Wall",
+    "brief": "Tile a real floor or wall, grout it and seal it, and present it with the quote and tiles used.",
+    "checks": [
+      "Surface prepared flat and clean",
+      "Layout planned with even cuts",
+      "Tiles straight, level and firmly stuck",
+      "Grout even and clean with no haze",
+      "Edges sealed with silicone where needed",
+      "Area clean and tidy on handover",
+      "Quote, tiles and care notes presented"
+    ],
+    "deliverables": [
+      "Finished tiled floor or wall",
+      "Quote with tiles, materials, time and price",
+      "List of tiles and materials used",
+      "Before and after photos",
+      "Care note for the owner"
+    ]
+  }
 }

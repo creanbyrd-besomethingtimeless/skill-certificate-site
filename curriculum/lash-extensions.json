@@ -28,33 +28,33 @@
       "challenge": "Do welcome to lash extensions two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to lash extensions?",
+          "q": "What do under-eye pads do during a lash application?",
           "options": [
-            "You should rush through the technique to save time.",
+            "Under-eye pads hold the top lashes out of the way.",
             "Under-eye pads protect the lower lashes during application.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Under-eye pads glue the extensions in place.",
+            "Under-eye pads curl the natural lashes."
           ],
           "answer": 1,
           "explain": "Under-eye pads protect the lower lashes during application."
         },
         {
-          "q": "Which tool is most essential for welcome to lash extensions?",
+          "q": "Which tool do you use to pick up and separate one natural lash at a time?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "lash adhesive",
+            "under-eye pads",
             "isolation tweezers",
-            "foil shaver"
+            "lash tray"
           ],
           "answer": 2,
-          "explain": "The isolation tweezers is the essential tool for this work."
+          "explain": "Isolation tweezers pick up and separate one natural lash at a time."
         },
         {
-          "q": "What should you always do when working on welcome to lash extensions?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Apply lashes even if the client's eyes are red and sore.",
+            "Apply lashes to irritated eyes and hope it gets better.",
+            "Ignore redness and carry on with the set.",
             "never apply lashes to irritated eyes"
           ],
           "answer": 3,
@@ -84,34 +84,34 @@
       "challenge": "Do lash anatomy and growth two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash anatomy and growth?",
+          "q": "How long is the natural lash growth cycle?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Lashes shed and regrow in a cycle of about 1 to 2 weeks.",
+            "Lashes shed and regrow in a cycle of about 6 to 8 months.",
             "Lashes naturally shed and regrow in a cycle of about 6 to 8 weeks.",
-            "Using dirty tools gives the same result as clean ones."
+            "Lashes never shed once they have grown."
           ],
           "answer": 2,
           "explain": "Lashes naturally shed and regrow in a cycle of about 6 to 8 weeks."
         },
         {
-          "q": "Which tool is most essential for lash anatomy and growth?",
+          "q": "What sticks the extension to the natural lash?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "isolation tweezers",
+            "under-eye pads",
+            "lash tray",
             "lash adhesive"
           ],
           "answer": 3,
-          "explain": "The lash adhesive is the essential tool for this work."
+          "explain": "Lash adhesive sticks the extension to the natural lash."
         },
         {
-          "q": "What should you always do when working on lash anatomy and growth?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
             "patch test adhesive on new clients",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Skip the patch test to save time.",
+            "Use the strongest adhesive with no test.",
+            "Test the adhesive on the client's eye directly."
           ],
           "answer": 0,
           "explain": "You should always patch test adhesive on new clients."
@@ -140,34 +140,34 @@
       "challenge": "Do hygiene and safety two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hygiene and safety?",
+          "q": "When should you never apply lash extensions?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "When the client's eyes are healthy and clean.",
+            "When the client has never had lashes before.",
+            "When the client arrives early for the appointment.",
             "Never apply lash extensions to irritated or infected eyes."
           ],
           "answer": 3,
           "explain": "Never apply lash extensions to irritated or infected eyes."
         },
         {
-          "q": "Which tool is most essential for hygiene and safety?",
+          "q": "What do you place under the client's eyes to hold down the bottom lashes?",
           "options": [
             "under-eye pads",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "isolation tweezers",
+            "lash adhesive",
+            "lash tray"
           ],
           "answer": 0,
-          "explain": "The under-eye pads is the essential tool for this work."
+          "explain": "Under-eye pads hold down the bottom lashes during application."
         },
         {
-          "q": "What should you always do when working on hygiene and safety?",
+          "q": "Where must lash adhesive never go?",
           "options": [
-            "disinfect your clippers between clients",
+            "Let a drop of adhesive fall into the client's eye.",
             "keep adhesive away from the client's eyes",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Wipe adhesive on the client's eyelid.",
+            "Apply adhesive right on the skin of the eyelid."
           ],
           "answer": 1,
           "explain": "You should always keep adhesive away from the client's eyes."
@@ -196,34 +196,34 @@
       "challenge": "Do classic lashes explained two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on classic lashes explained?",
+          "q": "What is the ratio for classic lashes?",
           "options": [
             "Classic lashes use a one-to-one ratio of extension to natural lash.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Classic lashes use two extensions on every natural lash.",
+            "Classic lashes use one extension for every three natural lashes.",
+            "Classic lashes use three extensions on every natural lash."
           ],
           "answer": 0,
           "explain": "Classic lashes use a one-to-one ratio of extension to natural lash."
         },
         {
-          "q": "Which tool is most essential for classic lashes explained?",
+          "q": "Where do the loose lash extensions sit ready for you to pick up?",
           "options": [
-            "clipper with guards",
+            "isolation tweezers",
             "lash tray",
-            "trimmer",
-            "foil shaver"
+            "lash adhesive",
+            "under-eye pads"
           ],
           "answer": 1,
-          "explain": "The lash tray is the essential tool for this work."
+          "explain": "The lash tray holds the loose extensions ready for you to pick up."
         },
         {
-          "q": "What should you always do when working on classic lashes explained?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Apply lashes even if the client's eyes are red and sore.",
+            "Apply lashes to irritated eyes and hope it gets better.",
             "never apply lashes to irritated eyes",
-            "check the client for cuts before starting"
+            "Ignore redness and carry on with the set."
           ],
           "answer": 2,
           "explain": "Never apply lashes to irritated eyes."
@@ -252,33 +252,33 @@
       "challenge": "Do lash mapping two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash mapping?",
+          "q": "What does lash mapping do?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Lash mapping picks the glue for the whole set.",
             "Lash mapping plans the lengths across the eye.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Lash mapping counts how many lashes the client has.",
+            "Lash mapping chooses the client's eye colour."
           ],
           "answer": 1,
           "explain": "Lash mapping plans the lengths across the eye."
         },
         {
-          "q": "Which tool is most essential for lash mapping?",
+          "q": "Which tool do you use to pick up and separate one natural lash at a time?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "lash adhesive",
+            "under-eye pads",
             "isolation tweezers",
-            "foil shaver"
+            "lash tray"
           ],
           "answer": 2,
-          "explain": "The isolation tweezers is the essential tool for this work."
+          "explain": "Isolation tweezers pick up and separate one natural lash at a time."
         },
         {
-          "q": "What should you always do when working on lash mapping?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Skip the patch test to save time.",
+            "Use the strongest adhesive with no test.",
+            "Test the adhesive on the client's eye directly.",
             "patch test adhesive on new clients"
           ],
           "answer": 3,
@@ -308,34 +308,34 @@
       "challenge": "Do isolation technique two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on isolation technique?",
+          "q": "Why is isolation important when lashing?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Isolation makes lashes stick together for a fuller look.",
+            "Isolation means you skip cleaning the lashes.",
             "Isolation stops lashes from sticking together.",
-            "The best result comes from skipping the preparation step."
+            "Isolation means you glue several lashes at once."
           ],
           "answer": 2,
           "explain": "Isolation stops lashes from sticking together."
         },
         {
-          "q": "Which tool is most essential for isolation technique?",
+          "q": "What sticks the extension to the natural lash?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "isolation tweezers",
+            "under-eye pads",
+            "lash tray",
             "lash adhesive"
           ],
           "answer": 3,
-          "explain": "The lash adhesive is the essential tool for this work."
+          "explain": "Lash adhesive sticks the extension to the natural lash."
         },
         {
-          "q": "What should you always do when working on isolation technique?",
+          "q": "Where must lash adhesive never go?",
           "options": [
             "keep adhesive away from the client's eyes",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Let a drop of adhesive fall into the client's eye.",
+            "Wipe adhesive on the client's eyelid.",
+            "Apply adhesive right on the skin of the eyelid."
           ],
           "answer": 0,
           "explain": "You should always keep adhesive away from the client's eyes."
@@ -364,34 +364,34 @@
       "challenge": "Do applying a classic set two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on applying a classic set?",
+          "q": "How far from the eyelid skin should extensions sit?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Extensions are placed right on the eyelid skin.",
+            "Extensions are placed about 5mm away from the eyelid skin.",
+            "Extensions are placed about 10mm away from the eyelid skin.",
             "Extensions are placed about 1mm away from the eyelid skin."
           ],
           "answer": 3,
           "explain": "Extensions are placed about 1mm away from the eyelid skin."
         },
         {
-          "q": "Which tool is most essential for applying a classic set?",
+          "q": "What do you place under the client's eyes to hold down the bottom lashes?",
           "options": [
             "under-eye pads",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "isolation tweezers",
+            "lash adhesive",
+            "lash tray"
           ],
           "answer": 0,
-          "explain": "The under-eye pads is the essential tool for this work."
+          "explain": "Under-eye pads hold down the bottom lashes during application."
         },
         {
-          "q": "What should you always do when working on applying a classic set?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
-            "disinfect your clippers between clients",
+            "Apply lashes even if the client's eyes are red and sore.",
             "never apply lashes to irritated eyes",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Apply lashes to irritated eyes and hope it gets better.",
+            "Ignore redness and carry on with the set."
           ],
           "answer": 1,
           "explain": "Never apply lashes to irritated eyes."
@@ -431,34 +431,34 @@
       "challenge": "Do week 1 project: a classic set on a mannequin two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: a classic set on a mannequin?",
+          "q": "What does a good classic set on a practice head show?",
           "options": [
             "A classic set on a practice head shows even spacing and clean isolation.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "A classic set on a practice head shows uneven spacing.",
+            "A classic set on a practice head shows lashes stuck together.",
+            "A classic set on a practice head shows gaps with no lashes."
           ],
           "answer": 0,
           "explain": "A classic set on a practice head shows even spacing and clean isolation."
         },
         {
-          "q": "Which tool is most essential for week 1 project: a classic set on a mannequin?",
+          "q": "Where do the loose lash extensions sit ready for you to pick up?",
           "options": [
-            "clipper with guards",
+            "isolation tweezers",
             "lash tray",
-            "trimmer",
-            "foil shaver"
+            "lash adhesive",
+            "under-eye pads"
           ],
           "answer": 1,
-          "explain": "The lash tray is the essential tool for this work."
+          "explain": "The lash tray holds the loose extensions ready for you to pick up."
         },
         {
-          "q": "What should you always do when working on week 1 project: a classic set on a mannequin?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Skip the patch test to save time.",
+            "Use the strongest adhesive with no test.",
             "patch test adhesive on new clients",
-            "check the client for cuts before starting"
+            "Test the adhesive on the client's eye directly."
           ],
           "answer": 2,
           "explain": "You should always patch test adhesive on new clients."
@@ -487,33 +487,33 @@
       "challenge": "Do adhesive and humidity two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on adhesive and humidity?",
+          "q": "At what humidity does lash adhesive cure best?",
           "options": [
-            "You never need to check your work until the very end.",
+            "Lash adhesive cures best at 10 to 20 percent humidity.",
             "Lash adhesive cures best at 40 to 60 percent humidity.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Lash adhesive cures best at 80 to 90 percent humidity.",
+            "Lash adhesive cures best with no humidity at all."
           ],
           "answer": 1,
           "explain": "Lash adhesive cures best at 40 to 60 percent humidity."
         },
         {
-          "q": "Which tool is most essential for adhesive and humidity?",
+          "q": "Which tool do you use to pick up and separate one natural lash at a time?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "lash adhesive",
+            "under-eye pads",
             "isolation tweezers",
-            "foil shaver"
+            "lash tray"
           ],
           "answer": 2,
-          "explain": "The isolation tweezers is the essential tool for this work."
+          "explain": "Isolation tweezers pick up and separate one natural lash at a time."
         },
         {
-          "q": "What should you always do when working on adhesive and humidity?",
+          "q": "Where must lash adhesive never go?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Let a drop of adhesive fall into the client's eye.",
+            "Wipe adhesive on the client's eyelid.",
+            "Apply adhesive right on the skin of the eyelid.",
             "keep adhesive away from the client's eyes"
           ],
           "answer": 3,
@@ -543,34 +543,34 @@
       "challenge": "Do volume lashes: making fans two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on volume lashes: making fans?",
+          "q": "How many fine lashes are in one volume fan?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "A volume fan holds 1 or 2 fine lashes.",
+            "A volume fan holds 10 to 12 fine lashes in one fan.",
             "A volume fan holds 3 to 6 fine lashes in one fan.",
-            "You should always use the strongest product available."
+            "A volume fan holds 20 fine lashes in one fan."
           ],
           "answer": 2,
           "explain": "A volume fan holds 3 to 6 fine lashes in one fan."
         },
         {
-          "q": "Which tool is most essential for volume lashes: making fans?",
+          "q": "What sticks the extension to the natural lash?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "isolation tweezers",
+            "under-eye pads",
+            "lash tray",
             "lash adhesive"
           ],
           "answer": 3,
-          "explain": "The lash adhesive is the essential tool for this work."
+          "explain": "Lash adhesive sticks the extension to the natural lash."
         },
         {
-          "q": "What should you always do when working on volume lashes: making fans?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
             "never apply lashes to irritated eyes",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Apply lashes even if the client's eyes are red and sore.",
+            "Apply lashes to irritated eyes and hope it gets better.",
+            "Ignore redness and carry on with the set."
           ],
           "answer": 0,
           "explain": "Never apply lashes to irritated eyes."
@@ -599,34 +599,34 @@
       "challenge": "Do volume lash application two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on volume lash application?",
+          "q": "How light must volume fans be?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Volume fans must be heavy enough to weigh the lash down.",
+            "Volume fans must be as heavy as classic lashes.",
+            "Volume fans must be heavy so they last longer.",
             "Volume fans must be light enough not to damage the natural lash."
           ],
           "answer": 3,
           "explain": "Volume fans must be light enough not to damage the natural lash."
         },
         {
-          "q": "Which tool is most essential for volume lash application?",
+          "q": "What do you place under the client's eyes to hold down the bottom lashes?",
           "options": [
             "under-eye pads",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "isolation tweezers",
+            "lash adhesive",
+            "lash tray"
           ],
           "answer": 0,
-          "explain": "The under-eye pads is the essential tool for this work."
+          "explain": "Under-eye pads hold down the bottom lashes during application."
         },
         {
-          "q": "What should you always do when working on volume lash application?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
-            "disinfect your clippers between clients",
+            "Skip the patch test to save time.",
             "patch test adhesive on new clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use the strongest adhesive with no test.",
+            "Test the adhesive on the client's eye directly."
           ],
           "answer": 1,
           "explain": "You should always patch test adhesive on new clients."
@@ -655,34 +655,34 @@
       "challenge": "Do hybrid lashes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hybrid lashes?",
+          "q": "What do hybrid lashes combine?",
           "options": [
             "Hybrid lashes combine classic singles and volume fans.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Hybrid lashes combine cluster lashes and strip lashes.",
+            "Hybrid lashes combine only classic singles.",
+            "Hybrid lashes combine only volume fans."
           ],
           "answer": 0,
           "explain": "Hybrid lashes combine classic singles and volume fans."
         },
         {
-          "q": "Which tool is most essential for hybrid lashes?",
+          "q": "Where do the loose lash extensions sit ready for you to pick up?",
           "options": [
-            "clipper with guards",
+            "isolation tweezers",
             "lash tray",
-            "trimmer",
-            "foil shaver"
+            "lash adhesive",
+            "under-eye pads"
           ],
           "answer": 1,
-          "explain": "The lash tray is the essential tool for this work."
+          "explain": "The lash tray holds the loose extensions ready for you to pick up."
         },
         {
-          "q": "What should you always do when working on hybrid lashes?",
+          "q": "Where must lash adhesive never go?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Let a drop of adhesive fall into the client's eye.",
+            "Wipe adhesive on the client's eyelid.",
             "keep adhesive away from the client's eyes",
-            "check the client for cuts before starting"
+            "Apply adhesive right on the skin of the eyelid."
           ],
           "answer": 2,
           "explain": "You should always keep adhesive away from the client's eyes."
@@ -711,33 +711,33 @@
       "challenge": "Do lash styles: cat eye two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash styles: cat eye?",
+          "q": "Where do the longest lashes go in a cat-eye style?",
           "options": [
-            "You should rush through the technique to save time.",
+            "A cat-eye style puts the longest lashes in the centre.",
             "A cat-eye style puts the longest lashes at the outer corner.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "A cat-eye style puts the longest lashes at the inner corner.",
+            "A cat-eye style puts the longest lashes all the same length."
           ],
           "answer": 1,
           "explain": "A cat-eye style puts the longest lashes at the outer corner."
         },
         {
-          "q": "Which tool is most essential for lash styles: cat eye?",
+          "q": "Which tool do you use to pick up and separate one natural lash at a time?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "lash adhesive",
+            "under-eye pads",
             "isolation tweezers",
-            "foil shaver"
+            "lash tray"
           ],
           "answer": 2,
-          "explain": "The isolation tweezers is the essential tool for this work."
+          "explain": "Isolation tweezers pick up and separate one natural lash at a time."
         },
         {
-          "q": "What should you always do when working on lash styles: cat eye?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Apply lashes even if the client's eyes are red and sore.",
+            "Apply lashes to irritated eyes and hope it gets better.",
+            "Ignore redness and carry on with the set.",
             "never apply lashes to irritated eyes"
           ],
           "answer": 3,
@@ -767,34 +767,34 @@
       "challenge": "Do lash styles: doll eye two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash styles: doll eye?",
+          "q": "Where do the longest lashes go in a doll-eye style?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "A doll-eye style puts the longest lashes at the outer corner.",
+            "A doll-eye style puts the longest lashes at the inner corner.",
             "A doll-eye style puts the longest lashes in the centre.",
-            "Using dirty tools gives the same result as clean ones."
+            "A doll-eye style puts the longest lashes all the same length."
           ],
           "answer": 2,
           "explain": "A doll-eye style puts the longest lashes in the centre."
         },
         {
-          "q": "Which tool is most essential for lash styles: doll eye?",
+          "q": "What sticks the extension to the natural lash?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "isolation tweezers",
+            "under-eye pads",
+            "lash tray",
             "lash adhesive"
           ],
           "answer": 3,
-          "explain": "The lash adhesive is the essential tool for this work."
+          "explain": "Lash adhesive sticks the extension to the natural lash."
         },
         {
-          "q": "What should you always do when working on lash styles: doll eye?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
             "patch test adhesive on new clients",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Skip the patch test to save time.",
+            "Use the strongest adhesive with no test.",
+            "Test the adhesive on the client's eye directly."
           ],
           "answer": 0,
           "explain": "You should always patch test adhesive on new clients."
@@ -834,34 +834,34 @@
       "challenge": "Do week 2 project: a volume set two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: a volume set?",
+          "q": "What does a good volume set look like?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "A volume set shows uneven fans and a sparse look.",
+            "A volume set shows fans stuck together.",
+            "A volume set shows short, thin lashes.",
             "A volume set shows even fans and a full, fluffy look."
           ],
           "answer": 3,
           "explain": "A volume set shows even fans and a full, fluffy look."
         },
         {
-          "q": "Which tool is most essential for week 2 project: a volume set?",
+          "q": "What do you place under the client's eyes to hold down the bottom lashes?",
           "options": [
             "under-eye pads",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "isolation tweezers",
+            "lash adhesive",
+            "lash tray"
           ],
           "answer": 0,
-          "explain": "The under-eye pads is the essential tool for this work."
+          "explain": "Under-eye pads hold down the bottom lashes during application."
         },
         {
-          "q": "What should you always do when working on week 2 project: a volume set?",
+          "q": "Where must lash adhesive never go?",
           "options": [
-            "disinfect your clippers between clients",
+            "Let a drop of adhesive fall into the client's eye.",
             "keep adhesive away from the client's eyes",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Wipe adhesive on the client's eyelid.",
+            "Apply adhesive right on the skin of the eyelid."
           ],
           "answer": 1,
           "explain": "You should always keep adhesive away from the client's eyes."
@@ -890,34 +890,34 @@
       "challenge": "Do lash fills two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash fills?",
+          "q": "How often are lash fills needed?",
           "options": [
             "Lash fills are needed every two to three weeks.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Lash fills are needed every day.",
+            "Lash fills are needed every two to three months.",
+            "Lash fills are needed once a year."
           ],
           "answer": 0,
           "explain": "Lash fills are needed every two to three weeks."
         },
         {
-          "q": "Which tool is most essential for lash fills?",
+          "q": "Where do the loose lash extensions sit ready for you to pick up?",
           "options": [
-            "clipper with guards",
+            "isolation tweezers",
             "lash tray",
-            "trimmer",
-            "foil shaver"
+            "lash adhesive",
+            "under-eye pads"
           ],
           "answer": 1,
-          "explain": "The lash tray is the essential tool for this work."
+          "explain": "The lash tray holds the loose extensions ready for you to pick up."
         },
         {
-          "q": "What should you always do when working on lash fills?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Apply lashes even if the client's eyes are red and sore.",
+            "Apply lashes to irritated eyes and hope it gets better.",
             "never apply lashes to irritated eyes",
-            "check the client for cuts before starting"
+            "Ignore redness and carry on with the set."
           ],
           "answer": 2,
           "explain": "Never apply lashes to irritated eyes."
@@ -946,33 +946,33 @@
       "challenge": "Do lash removal two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash removal?",
+          "q": "What does gel remover do to lash extensions?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Gel remover glues extensions on tighter.",
             "Gel remover dissolves adhesive so extensions slide off safely.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Gel remover pulls extensions off the natural lash.",
+            "Gel remover dries the adhesive harder."
           ],
           "answer": 1,
           "explain": "Gel remover dissolves adhesive so extensions slide off safely."
         },
         {
-          "q": "Which tool is most essential for lash removal?",
+          "q": "Which tool do you use to pick up and separate one natural lash at a time?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "lash adhesive",
+            "under-eye pads",
             "isolation tweezers",
-            "foil shaver"
+            "lash tray"
           ],
           "answer": 2,
-          "explain": "The isolation tweezers is the essential tool for this work."
+          "explain": "Isolation tweezers pick up and separate one natural lash at a time."
         },
         {
-          "q": "What should you always do when working on lash removal?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Skip the patch test to save time.",
+            "Use the strongest adhesive with no test.",
+            "Test the adhesive on the client's eye directly.",
             "patch test adhesive on new clients"
           ],
           "answer": 3,
@@ -1002,34 +1002,34 @@
       "challenge": "Do aftercare for lashes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on aftercare for lashes?",
+          "q": "What must clients avoid on new lashes for 24 hours?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Clients must avoid brushing new lashes for 24 hours.",
+            "Clients must avoid sleeping on new lashes for 24 hours.",
             "Clients must avoid water on new lashes for 24 hours.",
-            "The best result comes from skipping the preparation step."
+            "Clients must avoid opening their eyes for 24 hours."
           ],
           "answer": 2,
           "explain": "Clients must avoid water on new lashes for 24 hours."
         },
         {
-          "q": "Which tool is most essential for aftercare for lashes?",
+          "q": "What sticks the extension to the natural lash?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "isolation tweezers",
+            "under-eye pads",
+            "lash tray",
             "lash adhesive"
           ],
           "answer": 3,
-          "explain": "The lash adhesive is the essential tool for this work."
+          "explain": "Lash adhesive sticks the extension to the natural lash."
         },
         {
-          "q": "What should you always do when working on aftercare for lashes?",
+          "q": "Where must lash adhesive never go?",
           "options": [
             "keep adhesive away from the client's eyes",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Let a drop of adhesive fall into the client's eye.",
+            "Wipe adhesive on the client's eyelid.",
+            "Apply adhesive right on the skin of the eyelid."
           ],
           "answer": 0,
           "explain": "You should always keep adhesive away from the client's eyes."
@@ -1058,34 +1058,34 @@
       "challenge": "Do allergic reactions two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on allergic reactions?",
+          "q": "What should you do if a client has redness and swelling after lashing?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Tell the client the redness will pass and leave the lashes on.",
+            "Add more lashes to cover the redness.",
+            "Tell the client to rub the eyes until it stops.",
             "Redness and swelling after lashing needs the extensions removed."
           ],
           "answer": 3,
           "explain": "Redness and swelling after lashing needs the extensions removed."
         },
         {
-          "q": "Which tool is most essential for allergic reactions?",
+          "q": "What do you place under the client's eyes to hold down the bottom lashes?",
           "options": [
             "under-eye pads",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "isolation tweezers",
+            "lash adhesive",
+            "lash tray"
           ],
           "answer": 0,
-          "explain": "The under-eye pads is the essential tool for this work."
+          "explain": "Under-eye pads hold down the bottom lashes during application."
         },
         {
-          "q": "What should you always do when working on allergic reactions?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
-            "disinfect your clippers between clients",
+            "Apply lashes even if the client's eyes are red and sore.",
             "never apply lashes to irritated eyes",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Apply lashes to irritated eyes and hope it gets better.",
+            "Ignore redness and carry on with the set."
           ],
           "answer": 1,
           "explain": "Never apply lashes to irritated eyes."
@@ -1114,34 +1114,34 @@
       "challenge": "Do patch testing two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on patch testing?",
+          "q": "What does a patch test check before a full set?",
           "options": [
             "A patch test checks for adhesive allergy before a full set.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "A patch test checks the length of the natural lashes.",
+            "A patch test checks the client's eye colour.",
+            "A patch test checks how curly the lashes are."
           ],
           "answer": 0,
           "explain": "A patch test checks for adhesive allergy before a full set."
         },
         {
-          "q": "Which tool is most essential for patch testing?",
+          "q": "Where do the loose lash extensions sit ready for you to pick up?",
           "options": [
-            "clipper with guards",
+            "isolation tweezers",
             "lash tray",
-            "trimmer",
-            "foil shaver"
+            "lash adhesive",
+            "under-eye pads"
           ],
           "answer": 1,
-          "explain": "The lash tray is the essential tool for this work."
+          "explain": "The lash tray holds the loose extensions ready for you to pick up."
         },
         {
-          "q": "What should you always do when working on patch testing?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Skip the patch test to save time.",
+            "Use the strongest adhesive with no test.",
             "patch test adhesive on new clients",
-            "check the client for cuts before starting"
+            "Test the adhesive on the client's eye directly."
           ],
           "answer": 2,
           "explain": "You should always patch test adhesive on new clients."
@@ -1170,33 +1170,33 @@
       "challenge": "Do week 3 project: a hybrid set with mapping two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: a hybrid set with mapping?",
+          "q": "What does a hybrid set show?",
           "options": [
-            "You never need to check your work until the very end.",
+            "A hybrid set shows only classic technique.",
             "A hybrid set shows both classic and volume techniques.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "A hybrid set shows only volume technique.",
+            "A hybrid set shows neither classic nor volume technique."
           ],
           "answer": 1,
           "explain": "A hybrid set shows both classic and volume techniques."
         },
         {
-          "q": "Which tool is most essential for week 3 project: a hybrid set with mapping?",
+          "q": "Which tool do you use to pick up and separate one natural lash at a time?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "lash adhesive",
+            "under-eye pads",
             "isolation tweezers",
-            "foil shaver"
+            "lash tray"
           ],
           "answer": 2,
-          "explain": "The isolation tweezers is the essential tool for this work."
+          "explain": "Isolation tweezers pick up and separate one natural lash at a time."
         },
         {
-          "q": "What should you always do when working on week 3 project: a hybrid set with mapping?",
+          "q": "Where must lash adhesive never go?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Let a drop of adhesive fall into the client's eye.",
+            "Wipe adhesive on the client's eyelid.",
+            "Apply adhesive right on the skin of the eyelid.",
             "keep adhesive away from the client's eyes"
           ],
           "answer": 3,
@@ -1237,34 +1237,34 @@
       "challenge": "Do lash lifts explained two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash lifts explained?",
+          "q": "What does a lash lift do?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "A lash lift straightens the natural lashes for weeks.",
+            "A lash lift removes the natural lashes for weeks.",
             "A lash lift curls the natural lashes for weeks.",
-            "You should always use the strongest product available."
+            "A lash lift colours the natural lashes for weeks."
           ],
           "answer": 2,
           "explain": "A lash lift curls the natural lashes for weeks."
         },
         {
-          "q": "Which tool is most essential for lash lifts explained?",
+          "q": "What sticks the extension to the natural lash?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "isolation tweezers",
+            "under-eye pads",
+            "lash tray",
             "lash adhesive"
           ],
           "answer": 3,
-          "explain": "The lash adhesive is the essential tool for this work."
+          "explain": "Lash adhesive sticks the extension to the natural lash."
         },
         {
-          "q": "What should you always do when working on lash lifts explained?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
             "never apply lashes to irritated eyes",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Apply lashes even if the client's eyes are red and sore.",
+            "Apply lashes to irritated eyes and hope it gets better.",
+            "Ignore redness and carry on with the set."
           ],
           "answer": 0,
           "explain": "Never apply lashes to irritated eyes."
@@ -1293,34 +1293,34 @@
       "challenge": "Do cluster lashes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on cluster lashes?",
+          "q": "What kind of look do cluster lashes give?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Cluster lashes give a slow, permanent full look.",
+            "Cluster lashes give a natural look that lasts months.",
+            "Cluster lashes give a look that lasts a year.",
             "Cluster lashes give a quick, temporary full look."
           ],
           "answer": 3,
           "explain": "Cluster lashes give a quick, temporary full look."
         },
         {
-          "q": "Which tool is most essential for cluster lashes?",
+          "q": "What do you place under the client's eyes to hold down the bottom lashes?",
           "options": [
             "under-eye pads",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "isolation tweezers",
+            "lash adhesive",
+            "lash tray"
           ],
           "answer": 0,
-          "explain": "The under-eye pads is the essential tool for this work."
+          "explain": "Under-eye pads hold down the bottom lashes during application."
         },
         {
-          "q": "What should you always do when working on cluster lashes?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
-            "disinfect your clippers between clients",
+            "Skip the patch test to save time.",
             "patch test adhesive on new clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use the strongest adhesive with no test.",
+            "Test the adhesive on the client's eye directly."
           ],
           "answer": 1,
           "explain": "You should always patch test adhesive on new clients."
@@ -1349,34 +1349,34 @@
       "challenge": "Do correcting mistakes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on correcting mistakes?",
+          "q": "How should you separate lashes that are stuck together?",
           "options": [
             "Stuck lashes are separated gently with tweezers, never pulled.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Stuck lashes are pulled apart quickly.",
+            "Stuck lashes are cut apart with scissors.",
+            "Stuck lashes are left stuck together."
           ],
           "answer": 0,
           "explain": "Stuck lashes are separated gently with tweezers, never pulled."
         },
         {
-          "q": "Which tool is most essential for correcting mistakes?",
+          "q": "Where do the loose lash extensions sit ready for you to pick up?",
           "options": [
-            "clipper with guards",
+            "isolation tweezers",
             "lash tray",
-            "trimmer",
-            "foil shaver"
+            "lash adhesive",
+            "under-eye pads"
           ],
           "answer": 1,
-          "explain": "The lash tray is the essential tool for this work."
+          "explain": "The lash tray holds the loose extensions ready for you to pick up."
         },
         {
-          "q": "What should you always do when working on correcting mistakes?",
+          "q": "Where must lash adhesive never go?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Let a drop of adhesive fall into the client's eye.",
+            "Wipe adhesive on the client's eyelid.",
             "keep adhesive away from the client's eyes",
-            "check the client for cuts before starting"
+            "Apply adhesive right on the skin of the eyelid."
           ],
           "answer": 2,
           "explain": "You should always keep adhesive away from the client's eyes."
@@ -1405,33 +1405,33 @@
       "challenge": "Do client consultation for lashes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on client consultation for lashes?",
+          "q": "What does a lash consultation check?",
           "options": [
-            "You should rush through the technique to save time.",
+            "A lash consultation checks the client's favourite lash style only.",
             "A lash consultation checks allergies and eye health.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "A lash consultation checks the client's budget only.",
+            "A lash consultation checks the client's age only."
           ],
           "answer": 1,
           "explain": "A lash consultation checks allergies and eye health."
         },
         {
-          "q": "Which tool is most essential for client consultation for lashes?",
+          "q": "Which tool do you use to pick up and separate one natural lash at a time?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "lash adhesive",
+            "under-eye pads",
             "isolation tweezers",
-            "foil shaver"
+            "lash tray"
           ],
           "answer": 2,
-          "explain": "The isolation tweezers is the essential tool for this work."
+          "explain": "Isolation tweezers pick up and separate one natural lash at a time."
         },
         {
-          "q": "What should you always do when working on client consultation for lashes?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Apply lashes even if the client's eyes are red and sore.",
+            "Apply lashes to irritated eyes and hope it gets better.",
+            "Ignore redness and carry on with the set.",
             "never apply lashes to irritated eyes"
           ],
           "answer": 3,
@@ -1461,34 +1461,34 @@
       "challenge": "Do pricing lash services two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on pricing lash services?",
+          "q": "How do fills compare in price to full lash sets?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Fills cost more than full lash sets.",
+            "Fills cost the same as full lash sets.",
             "Fills cost less than full lash sets.",
-            "Using dirty tools gives the same result as clean ones."
+            "Fills are always free."
           ],
           "answer": 2,
           "explain": "Fills cost less than full lash sets."
         },
         {
-          "q": "Which tool is most essential for pricing lash services?",
+          "q": "What sticks the extension to the natural lash?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "isolation tweezers",
+            "under-eye pads",
+            "lash tray",
             "lash adhesive"
           ],
           "answer": 3,
-          "explain": "The lash adhesive is the essential tool for this work."
+          "explain": "Lash adhesive sticks the extension to the natural lash."
         },
         {
-          "q": "What should you always do when working on pricing lash services?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
             "patch test adhesive on new clients",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Skip the patch test to save time.",
+            "Use the strongest adhesive with no test.",
+            "Test the adhesive on the client's eye directly."
           ],
           "answer": 0,
           "explain": "You should always patch test adhesive on new clients."
@@ -1517,34 +1517,34 @@
       "challenge": "Do lash business basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash business basics?",
+          "q": "What builds a lash portfolio?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Keeping your prices secret builds a lash portfolio.",
+            "Working without photos builds a lash portfolio.",
+            "Deleting photos of your sets builds a lash portfolio.",
             "Photos of every set build a lash portfolio."
           ],
           "answer": 3,
           "explain": "Photos of every set build a lash portfolio."
         },
         {
-          "q": "Which tool is most essential for lash business basics?",
+          "q": "What do you place under the client's eyes to hold down the bottom lashes?",
           "options": [
             "under-eye pads",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "isolation tweezers",
+            "lash adhesive",
+            "lash tray"
           ],
           "answer": 0,
-          "explain": "The under-eye pads is the essential tool for this work."
+          "explain": "Under-eye pads hold down the bottom lashes during application."
         },
         {
-          "q": "What should you always do when working on lash business basics?",
+          "q": "Where must lash adhesive never go?",
           "options": [
-            "disinfect your clippers between clients",
+            "Let a drop of adhesive fall into the client's eye.",
             "keep adhesive away from the client's eyes",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Wipe adhesive on the client's eyelid.",
+            "Apply adhesive right on the skin of the eyelid."
           ],
           "answer": 1,
           "explain": "You should always keep adhesive away from the client's eyes."
@@ -1573,34 +1573,34 @@
       "challenge": "Do lash room setup two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lash room setup?",
+          "q": "What makes lashing easier in your lash room?",
           "options": [
             "Good light and a comfortable bed make lashing easier.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Dim light and a hard chair make lashing easier.",
+            "A noisy room and a low bed make lashing easier.",
+            "Working in the dark makes lashing easier."
           ],
           "answer": 0,
           "explain": "Good light and a comfortable bed make lashing easier."
         },
         {
-          "q": "Which tool is most essential for lash room setup?",
+          "q": "Where do the loose lash extensions sit ready for you to pick up?",
           "options": [
-            "clipper with guards",
+            "isolation tweezers",
             "lash tray",
-            "trimmer",
-            "foil shaver"
+            "lash adhesive",
+            "under-eye pads"
           ],
           "answer": 1,
-          "explain": "The lash tray is the essential tool for this work."
+          "explain": "The lash tray holds the loose extensions ready for you to pick up."
         },
         {
-          "q": "What should you always do when working on lash room setup?",
+          "q": "When should you refuse to apply lashes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Apply lashes even if the client's eyes are red and sore.",
+            "Apply lashes to irritated eyes and hope it gets better.",
             "never apply lashes to irritated eyes",
-            "check the client for cuts before starting"
+            "Ignore redness and carry on with the set."
           ],
           "answer": 2,
           "explain": "Never apply lashes to irritated eyes."
@@ -1629,33 +1629,33 @@
       "challenge": "Do aftercare cards two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on aftercare cards?",
+          "q": "Why give clients a written aftercare card?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Written aftercare makes lashes fall out faster.",
             "Written aftercare keeps lashes lasting longer.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Written aftercare is only for new clients.",
+            "Written aftercare means clients never come back."
           ],
           "answer": 1,
           "explain": "Written aftercare keeps lashes lasting longer."
         },
         {
-          "q": "Which tool is most essential for aftercare cards?",
+          "q": "Which tool do you use to pick up and separate one natural lash at a time?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "lash adhesive",
+            "under-eye pads",
             "isolation tweezers",
-            "foil shaver"
+            "lash tray"
           ],
           "answer": 2,
-          "explain": "The isolation tweezers is the essential tool for this work."
+          "explain": "Isolation tweezers pick up and separate one natural lash at a time."
         },
         {
-          "q": "What should you always do when working on aftercare cards?",
+          "q": "What should you do for a new client before a full set?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Skip the patch test to save time.",
+            "Use the strongest adhesive with no test.",
+            "Test the adhesive on the client's eye directly.",
             "patch test adhesive on new clients"
           ],
           "answer": 3,
@@ -1685,34 +1685,34 @@
       "challenge": "Do capstone week: a paying lash client two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: a paying lash client?",
+          "q": "What does working with a paying lash client cover?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A paying lash client covers only the lash set.",
+            "A paying lash client covers only the consultation.",
             "A paying lash client covers consultation, mapping, set and aftercare.",
-            "The best result comes from skipping the preparation step."
+            "A paying lash client covers only the aftercare."
           ],
           "answer": 2,
           "explain": "A paying lash client covers consultation, mapping, set and aftercare."
         },
         {
-          "q": "Which tool is most essential for capstone week: a paying lash client?",
+          "q": "What sticks the extension to the natural lash?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "isolation tweezers",
+            "under-eye pads",
+            "lash tray",
             "lash adhesive"
           ],
           "answer": 3,
-          "explain": "The lash adhesive is the essential tool for this work."
+          "explain": "Lash adhesive sticks the extension to the natural lash."
         },
         {
-          "q": "What should you always do when working on capstone week: a paying lash client?",
+          "q": "Where must lash adhesive never go?",
           "options": [
             "keep adhesive away from the client's eyes",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Let a drop of adhesive fall into the client's eye.",
+            "Wipe adhesive on the client's eyelid.",
+            "Apply adhesive right on the skin of the eyelid."
           ],
           "answer": 0,
           "explain": "You should always keep adhesive away from the client's eyes."

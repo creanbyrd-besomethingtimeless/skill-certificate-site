@@ -28,33 +28,33 @@
       "challenge": "Do welcome to hairdressing two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to hairdressing?",
+          "q": "What must you do before any hot tool touches hair?",
           "options": [
-            "You should rush through the technique to save time.",
+            "Apply heat protectant after you finish styling.",
             "Heat protectant must be applied before any hot tool touches hair.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Use a hot tool on wet hair to save time.",
+            "Skip heat protectant if the hair looks healthy."
           ],
           "answer": 1,
           "explain": "Heat protectant must be applied before any hot tool touches hair."
         },
         {
-          "q": "Which tool is most essential for welcome to hairdressing?",
+          "q": "Which tool helps you smooth and shape hair while you blow-dry it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "hair dryer",
+            "flat iron",
             "round brush",
-            "foil shaver"
+            "sectioning clips"
           ],
           "answer": 2,
-          "explain": "The round brush is the essential tool for this work."
+          "explain": "A round brush smooths and shapes the hair as you blow-dry it."
         },
         {
-          "q": "What should you always do when working on welcome to hairdressing?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Turn the iron to the highest heat for every client.",
+            "Use a hot tool on hair that is still wet.",
+            "Skip the heat protectant to save time.",
             "always use heat protectant before hot tools"
           ],
           "answer": 3,
@@ -84,34 +84,34 @@
       "challenge": "Do hair types and texture two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hair types and texture?",
+          "q": "Which hair type shrinks the most when it dries?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Straight hair shrinks the most when it dries.",
+            "All hair types shrink the same amount when they dry.",
             "Coily hair shrinks the most when it dries.",
-            "Using dirty tools gives the same result as clean ones."
+            "Wavy hair shrinks more than coily hair."
           ],
           "answer": 2,
           "explain": "Coily hair shrinks the most when it dries."
         },
         {
-          "q": "Which tool is most essential for hair types and texture?",
+          "q": "Which tool blows hot air to dry hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "round brush",
+            "flat iron",
+            "sectioning clips",
             "hair dryer"
           ],
           "answer": 3,
-          "explain": "The hair dryer is the essential tool for this work."
+          "explain": "A hair dryer blows hot air to dry the hair."
         },
         {
-          "q": "What should you always do when working on hair types and texture?",
+          "q": "What should you never do with a hot tool?",
           "options": [
             "never use a hot tool on soaking wet hair",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Dry soaking wet hair with a flat iron.",
+            "Use a hot tool before the hair is fully dry.",
+            "Press wet hair with the iron to straighten it faster."
           ],
           "answer": 0,
           "explain": "Never use a hot tool on soaking wet hair."
@@ -140,34 +140,34 @@
       "challenge": "Do hygiene and salon safety two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hygiene and salon safety?",
+          "q": "What should you never do with a hot tool?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Use a hot tool on hair that is only a little damp.",
+            "Use a hot tool on dry hair with heat protectant.",
+            "Wait until the hair is fully dry before using a hot tool.",
             "Hot tools should never be used on soaking wet hair."
           ],
           "answer": 3,
           "explain": "Hot tools should never be used on soaking wet hair."
         },
         {
-          "q": "Which tool is most essential for hygiene and salon safety?",
+          "q": "Which tool straightens hair between two hot plates?",
           "options": [
             "flat iron",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "round brush",
+            "hair dryer",
+            "sectioning clips"
           ],
           "answer": 0,
-          "explain": "The flat iron is the essential tool for this work."
+          "explain": "A flat iron straightens hair between two hot plates."
         },
         {
-          "q": "What should you always do when working on hygiene and salon safety?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "Test the iron on the client's scalp first.",
             "test the iron temperature on a strand first",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Start on the highest heat with no test.",
+            "Run the iron through all the hair at once."
           ],
           "answer": 1,
           "explain": "You should always test the iron temperature on a strand first."
@@ -196,34 +196,34 @@
       "challenge": "Do shampooing like a pro two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on shampooing like a pro?",
+          "q": "Where does conditioner go when you wash hair?",
           "options": [
             "Shampoo cleans the scalp; conditioner goes on mid-lengths and ends.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Conditioner goes on the scalp only.",
+            "Shampoo goes on the ends and conditioner on the scalp.",
+            "Conditioner goes on the roots and nowhere else."
           ],
           "answer": 0,
           "explain": "Shampoo cleans the scalp; conditioner goes on mid-lengths and ends."
         },
         {
-          "q": "Which tool is most essential for shampooing like a pro?",
+          "q": "Which tool holds sections of hair out of the way while you work?",
           "options": [
-            "clipper with guards",
+            "round brush",
             "sectioning clips",
-            "trimmer",
-            "foil shaver"
+            "hair dryer",
+            "flat iron"
           ],
           "answer": 1,
-          "explain": "The sectioning clips is the essential tool for this work."
+          "explain": "Sectioning clips hold sections of hair out of the way while you work."
         },
         {
-          "q": "What should you always do when working on shampooing like a pro?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Turn the iron to the highest heat for every client.",
+            "Use a hot tool on hair that is still wet.",
             "always use heat protectant before hot tools",
-            "check the client for cuts before starting"
+            "Skip the heat protectant to save time."
           ],
           "answer": 2,
           "explain": "Always use heat protectant before hot tools."
@@ -252,33 +252,33 @@
       "challenge": "Do sectioning and parting two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on sectioning and parting?",
+          "q": "How does four-quadrant sectioning help your styling?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "It makes styling uneven and hard to control.",
             "Four-quadrant sectioning keeps styling even and controlled.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "It only works for very short hair.",
+            "It means you skip parting the hair altogether."
           ],
           "answer": 1,
           "explain": "Four-quadrant sectioning keeps styling even and controlled."
         },
         {
-          "q": "Which tool is most essential for sectioning and parting?",
+          "q": "Which tool helps you smooth and shape hair while you blow-dry it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "hair dryer",
+            "flat iron",
             "round brush",
-            "foil shaver"
+            "sectioning clips"
           ],
           "answer": 2,
-          "explain": "The round brush is the essential tool for this work."
+          "explain": "A round brush smooths and shapes the hair as you blow-dry it."
         },
         {
-          "q": "What should you always do when working on sectioning and parting?",
+          "q": "What should you never do with a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Dry soaking wet hair with a flat iron.",
+            "Use a hot tool before the hair is fully dry.",
+            "Press wet hair with the iron to straighten it faster.",
             "never use a hot tool on soaking wet hair"
           ],
           "answer": 3,
@@ -308,34 +308,34 @@
       "challenge": "Do blow-drying basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on blow-drying basics?",
+          "q": "Which way should you point the dryer nozzle to smooth hair?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Point the nozzle up the hair shaft to lift the outer layer.",
+            "Point the nozzle at the scalp only.",
             "Point the dryer nozzle down the hair shaft to smooth the outer layer of the hair.",
-            "The best result comes from skipping the preparation step."
+            "Hold the nozzle far away so no air touches the hair."
           ],
           "answer": 2,
           "explain": "Point the dryer nozzle down the hair shaft to smooth the outer layer of the hair."
         },
         {
-          "q": "Which tool is most essential for blow-drying basics?",
+          "q": "Which tool blows hot air to dry hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "round brush",
+            "flat iron",
+            "sectioning clips",
             "hair dryer"
           ],
           "answer": 3,
-          "explain": "The hair dryer is the essential tool for this work."
+          "explain": "A hair dryer blows hot air to dry the hair."
         },
         {
-          "q": "What should you always do when working on blow-drying basics?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
             "test the iron temperature on a strand first",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Test the iron on the client's scalp first.",
+            "Start on the highest heat with no test.",
+            "Run the iron through all the hair at once."
           ],
           "answer": 0,
           "explain": "You should always test the iron temperature on a strand first."
@@ -364,34 +364,34 @@
       "challenge": "Do the classic blowout two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on the classic blowout?",
+          "q": "What does a blowout use to create volume and shine?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "A blowout uses a flat iron and clips to create volume and shine.",
+            "A blowout uses cold water and a towel to create volume and shine.",
+            "A blowout uses only your fingers to create volume and shine.",
             "A blowout uses a round brush and dryer to create volume and shine."
           ],
           "answer": 3,
           "explain": "A blowout uses a round brush and dryer to create volume and shine."
         },
         {
-          "q": "Which tool is most essential for the classic blowout?",
+          "q": "Which tool straightens hair between two hot plates?",
           "options": [
             "flat iron",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "round brush",
+            "hair dryer",
+            "sectioning clips"
           ],
           "answer": 0,
-          "explain": "The flat iron is the essential tool for this work."
+          "explain": "A flat iron straightens hair between two hot plates."
         },
         {
-          "q": "What should you always do when working on the classic blowout?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
+            "Turn the iron to the highest heat for every client.",
             "always use heat protectant before hot tools",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use a hot tool on hair that is still wet.",
+            "Skip the heat protectant to save time."
           ],
           "answer": 1,
           "explain": "Always use heat protectant before hot tools."
@@ -416,9 +416,9 @@
       "title": "Week 1 Project: A Salon Blowout",
       "goal": "By the end of today you can explain and practise: Give a full blowout on a model: wash, rough-dry, brush-dry and finish.",
       "video": {
-        "youtube_id": "weetlzjDhsc",
-        "title": "One-Step Hair Dryer: How to Salon Style Blowout",
-        "channel": "Adina Sha"
+        "youtube_id": "UwMqdR_FE3s",
+        "title": "How to: At Home Blowout Routine",
+        "channel": "Luxy Hair"
       },
       "steps": [
         "Get your tools ready: round brush, hair dryer and flat iron.",
@@ -431,34 +431,34 @@
       "challenge": "Do week 1 project: a salon blowout two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: a salon blowout?",
+          "q": "How should a finished blowout look from every angle?",
           "options": [
             "A finished blowout is smooth, bouncy and shiny from every angle.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "A finished blowout is flat and dull from every angle.",
+            "A finished blowout is smooth on top but rough underneath.",
+            "A finished blowout is frizzy at the ends."
           ],
           "answer": 0,
           "explain": "A finished blowout is smooth, bouncy and shiny from every angle."
         },
         {
-          "q": "Which tool is most essential for week 1 project: a salon blowout?",
+          "q": "Which tool holds sections of hair out of the way while you work?",
           "options": [
-            "clipper with guards",
+            "round brush",
             "sectioning clips",
-            "trimmer",
-            "foil shaver"
+            "hair dryer",
+            "flat iron"
           ],
           "answer": 1,
-          "explain": "The sectioning clips is the essential tool for this work."
+          "explain": "Sectioning clips hold sections of hair out of the way while you work."
         },
         {
-          "q": "What should you always do when working on week 1 project: a salon blowout?",
+          "q": "What should you never do with a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Dry soaking wet hair with a flat iron.",
+            "Use a hot tool before the hair is fully dry.",
             "never use a hot tool on soaking wet hair",
-            "check the client for cuts before starting"
+            "Press wet hair with the iron to straighten it faster."
           ],
           "answer": 2,
           "explain": "Never use a hot tool on soaking wet hair."
@@ -487,33 +487,33 @@
       "challenge": "Do round brush technique two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on round brush technique?",
+          "q": "What sets the shape of a section when you use a round brush?",
           "options": [
-            "You never need to check your work until the very end.",
+            "Pulling the section off the brush while it is still hot sets its shape.",
             "Letting a section cool on the brush sets its shape.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Brushing the section quickly with no heat sets its shape.",
+            "Combing the section out straight away sets its shape."
           ],
           "answer": 1,
           "explain": "Letting a section cool on the brush sets its shape."
         },
         {
-          "q": "Which tool is most essential for round brush technique?",
+          "q": "Which tool helps you smooth and shape hair while you blow-dry it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "hair dryer",
+            "flat iron",
             "round brush",
-            "foil shaver"
+            "sectioning clips"
           ],
           "answer": 2,
-          "explain": "The round brush is the essential tool for this work."
+          "explain": "A round brush smooths and shapes the hair as you blow-dry it."
         },
         {
-          "q": "What should you always do when working on round brush technique?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Test the iron on the client's scalp first.",
+            "Start on the highest heat with no test.",
+            "Run the iron through all the hair at once.",
             "test the iron temperature on a strand first"
           ],
           "answer": 3,
@@ -543,34 +543,34 @@
       "challenge": "Do straightening with a flat iron two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on straightening with a flat iron?",
+          "q": "How do you get a smooth silk press with a flat iron?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Several fast passes with no comb give a smooth silk press.",
+            "Pressing the same spot many times gives a smooth silk press.",
             "One slow pass with a comb chase gives a smooth silk press.",
-            "You should always use the strongest product available."
+            "One quick pass with no comb chase gives a smooth silk press."
           ],
           "answer": 2,
           "explain": "One slow pass with a comb chase gives a smooth silk press."
         },
         {
-          "q": "Which tool is most essential for straightening with a flat iron?",
+          "q": "Which tool blows hot air to dry hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "round brush",
+            "flat iron",
+            "sectioning clips",
             "hair dryer"
           ],
           "answer": 3,
-          "explain": "The hair dryer is the essential tool for this work."
+          "explain": "A hair dryer blows hot air to dry the hair."
         },
         {
-          "q": "What should you always do when working on straightening with a flat iron?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
             "always use heat protectant before hot tools",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Turn the iron to the highest heat for every client.",
+            "Use a hot tool on hair that is still wet.",
+            "Skip the heat protectant to save time."
           ],
           "answer": 0,
           "explain": "Always use heat protectant before hot tools."
@@ -599,34 +599,34 @@
       "challenge": "Do silk press step by step two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on silk press step by step?",
+          "q": "What does a silk press start with?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A silk press starts with dirty, dry hair.",
+            "A silk press starts with oiled, unwashed hair.",
+            "A silk press starts with wet hair and no conditioner.",
             "A silk press starts with clean, deep-conditioned hair."
           ],
           "answer": 3,
           "explain": "A silk press starts with clean, deep-conditioned hair."
         },
         {
-          "q": "Which tool is most essential for silk press step by step?",
+          "q": "Which tool straightens hair between two hot plates?",
           "options": [
             "flat iron",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "round brush",
+            "hair dryer",
+            "sectioning clips"
           ],
           "answer": 0,
-          "explain": "The flat iron is the essential tool for this work."
+          "explain": "A flat iron straightens hair between two hot plates."
         },
         {
-          "q": "What should you always do when working on silk press step by step?",
+          "q": "What should you never do with a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
+            "Dry soaking wet hair with a flat iron.",
             "never use a hot tool on soaking wet hair",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use a hot tool before the hair is fully dry.",
+            "Press wet hair with the iron to straighten it faster."
           ],
           "answer": 1,
           "explain": "Never use a hot tool on soaking wet hair."
@@ -655,34 +655,34 @@
       "challenge": "Do curls with a curling iron two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on curls with a curling iron?",
+          "q": "What should you do after making curls with a curling iron?",
           "options": [
             "Let curls cool before touching them so they hold.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Touch the curls right away so they fall into place.",
+            "Brush the curls out while they are still hot.",
+            "Spray the curls with water while they are hot."
           ],
           "answer": 0,
           "explain": "Let curls cool before touching them so they hold."
         },
         {
-          "q": "Which tool is most essential for curls with a curling iron?",
+          "q": "Which tool holds sections of hair out of the way while you work?",
           "options": [
-            "clipper with guards",
+            "round brush",
             "sectioning clips",
-            "trimmer",
-            "foil shaver"
+            "hair dryer",
+            "flat iron"
           ],
           "answer": 1,
-          "explain": "The sectioning clips is the essential tool for this work."
+          "explain": "Sectioning clips hold sections of hair out of the way while you work."
         },
         {
-          "q": "What should you always do when working on curls with a curling iron?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Test the iron on the client's scalp first.",
+            "Start on the highest heat with no test.",
             "test the iron temperature on a strand first",
-            "check the client for cuts before starting"
+            "Run the iron through all the hair at once."
           ],
           "answer": 2,
           "explain": "You should always test the iron temperature on a strand first."
@@ -711,33 +711,33 @@
       "challenge": "Do waves and beach texture two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on waves and beach texture?",
+          "q": "How are beach waves made with a flat iron?",
           "options": [
-            "You should rush through the technique to save time.",
+            "Beach waves are made by pressing hair flat in straight lines.",
             "Beach waves are made by bending hair in S-shapes with a flat iron.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Beach waves are made by curling only the ends of the hair.",
+            "Beach waves are made by twisting hair into tight curls."
           ],
           "answer": 1,
           "explain": "Beach waves are made by bending hair in S-shapes with a flat iron."
         },
         {
-          "q": "Which tool is most essential for waves and beach texture?",
+          "q": "Which tool helps you smooth and shape hair while you blow-dry it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "hair dryer",
+            "flat iron",
             "round brush",
-            "foil shaver"
+            "sectioning clips"
           ],
           "answer": 2,
-          "explain": "The round brush is the essential tool for this work."
+          "explain": "A round brush smooths and shapes the hair as you blow-dry it."
         },
         {
-          "q": "What should you always do when working on waves and beach texture?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Turn the iron to the highest heat for every client.",
+            "Use a hot tool on hair that is still wet.",
+            "Skip the heat protectant to save time.",
             "always use heat protectant before hot tools"
           ],
           "answer": 3,
@@ -767,34 +767,34 @@
       "challenge": "Do the one-length cut two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on the one-length cut?",
+          "q": "What elevation do you use for a one-length cut?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "A one-length cut uses high elevation for a level line.",
+            "A one-length cut uses a different elevation on each side.",
             "A one-length cut uses zero elevation for a level line.",
-            "Using dirty tools gives the same result as clean ones."
+            "A one-length cut uses the highest elevation at the back."
           ],
           "answer": 2,
           "explain": "A one-length cut uses zero elevation for a level line."
         },
         {
-          "q": "Which tool is most essential for the one-length cut?",
+          "q": "Which tool blows hot air to dry hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "round brush",
+            "flat iron",
+            "sectioning clips",
             "hair dryer"
           ],
           "answer": 3,
-          "explain": "The hair dryer is the essential tool for this work."
+          "explain": "A hair dryer blows hot air to dry the hair."
         },
         {
-          "q": "What should you always do when working on the one-length cut?",
+          "q": "What should you never do with a hot tool?",
           "options": [
             "never use a hot tool on soaking wet hair",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Dry soaking wet hair with a flat iron.",
+            "Use a hot tool before the hair is fully dry.",
+            "Press wet hair with the iron to straighten it faster."
           ],
           "answer": 0,
           "explain": "Never use a hot tool on soaking wet hair."
@@ -834,34 +834,34 @@
       "challenge": "Do week 2 project: a one-length cut and blowout two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: a one-length cut and blowout?",
+          "q": "How should the edge of a one-length cut look?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "A one-length cut has a jagged, uneven perimeter.",
+            "A one-length cut has a curved, sloping perimeter.",
+            "A one-length cut has a choppy, layered perimeter.",
             "A one-length cut has a clean, level perimeter."
           ],
           "answer": 3,
           "explain": "A one-length cut has a clean, level perimeter."
         },
         {
-          "q": "Which tool is most essential for week 2 project: a one-length cut and blowout?",
+          "q": "Which tool straightens hair between two hot plates?",
           "options": [
             "flat iron",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "round brush",
+            "hair dryer",
+            "sectioning clips"
           ],
           "answer": 0,
-          "explain": "The flat iron is the essential tool for this work."
+          "explain": "A flat iron straightens hair between two hot plates."
         },
         {
-          "q": "What should you always do when working on week 2 project: a one-length cut and blowout?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "Test the iron on the client's scalp first.",
             "test the iron temperature on a strand first",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Start on the highest heat with no test.",
+            "Run the iron through all the hair at once."
           ],
           "answer": 1,
           "explain": "You should always test the iron temperature on a strand first."
@@ -890,34 +890,34 @@
       "challenge": "Do layered cuts two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on layered cuts?",
+          "q": "How are layers created when you cut hair?",
           "options": [
             "Layers are created by lifting sections straight up.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Layers are created by cutting everything to the same length.",
+            "Layers are created by cutting only the bottom of the hair.",
+            "Layers are created by cutting the top shorter than the bottom."
           ],
           "answer": 0,
           "explain": "Layers are created by lifting sections straight up."
         },
         {
-          "q": "Which tool is most essential for layered cuts?",
+          "q": "Which tool holds sections of hair out of the way while you work?",
           "options": [
-            "clipper with guards",
+            "round brush",
             "sectioning clips",
-            "trimmer",
-            "foil shaver"
+            "hair dryer",
+            "flat iron"
           ],
           "answer": 1,
-          "explain": "The sectioning clips is the essential tool for this work."
+          "explain": "Sectioning clips hold sections of hair out of the way while you work."
         },
         {
-          "q": "What should you always do when working on layered cuts?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Turn the iron to the highest heat for every client.",
+            "Use a hot tool on hair that is still wet.",
             "always use heat protectant before hot tools",
-            "check the client for cuts before starting"
+            "Skip the heat protectant to save time."
           ],
           "answer": 2,
           "explain": "Always use heat protectant before hot tools."
@@ -946,33 +946,33 @@
       "challenge": "Do face-framing layers two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on face-framing layers?",
+          "q": "Where do face-framing layers start?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Face-framing layers start at the very ends of the hair.",
             "Face-framing layers start around chin length.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Face-framing layers start at the top of the head.",
+            "Face-framing layers start below the shoulders."
           ],
           "answer": 1,
           "explain": "Face-framing layers start around chin length."
         },
         {
-          "q": "Which tool is most essential for face-framing layers?",
+          "q": "Which tool helps you smooth and shape hair while you blow-dry it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "hair dryer",
+            "flat iron",
             "round brush",
-            "foil shaver"
+            "sectioning clips"
           ],
           "answer": 2,
-          "explain": "The round brush is the essential tool for this work."
+          "explain": "A round brush smooths and shapes the hair as you blow-dry it."
         },
         {
-          "q": "What should you always do when working on face-framing layers?",
+          "q": "What should you never do with a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Dry soaking wet hair with a flat iron.",
+            "Use a hot tool before the hair is fully dry.",
+            "Press wet hair with the iron to straighten it faster.",
             "never use a hot tool on soaking wet hair"
           ],
           "answer": 3,
@@ -1002,34 +1002,34 @@
       "challenge": "Do cutting a bob two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on cutting a bob?",
+          "q": "What must you check when you cut a bob?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A bob is checked for length on one side only.",
+            "A bob is never checked once you start cutting.",
             "A bob is checked for symmetry on both sides.",
-            "The best result comes from skipping the preparation step."
+            "A bob is checked only after the client leaves."
           ],
           "answer": 2,
           "explain": "A bob is checked for symmetry on both sides."
         },
         {
-          "q": "Which tool is most essential for cutting a bob?",
+          "q": "Which tool blows hot air to dry hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "round brush",
+            "flat iron",
+            "sectioning clips",
             "hair dryer"
           ],
           "answer": 3,
-          "explain": "The hair dryer is the essential tool for this work."
+          "explain": "A hair dryer blows hot air to dry the hair."
         },
         {
-          "q": "What should you always do when working on cutting a bob?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
             "test the iron temperature on a strand first",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Test the iron on the client's scalp first.",
+            "Start on the highest heat with no test.",
+            "Run the iron through all the hair at once."
           ],
           "answer": 0,
           "explain": "You should always test the iron temperature on a strand first."
@@ -1058,34 +1058,34 @@
       "challenge": "Do fringe and bangs two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on fringe and bangs?",
+          "q": "How should you cut a fringe?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Fringe should be cut wet and all at once.",
+            "Fringe should be cut with the hair pulled tight.",
+            "Fringe should be cut in one long straight line.",
             "Fringe should be cut dry and a little at a time."
           ],
           "answer": 3,
           "explain": "Fringe should be cut dry and a little at a time."
         },
         {
-          "q": "Which tool is most essential for fringe and bangs?",
+          "q": "Which tool straightens hair between two hot plates?",
           "options": [
             "flat iron",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "round brush",
+            "hair dryer",
+            "sectioning clips"
           ],
           "answer": 0,
-          "explain": "The flat iron is the essential tool for this work."
+          "explain": "A flat iron straightens hair between two hot plates."
         },
         {
-          "q": "What should you always do when working on fringe and bangs?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
+            "Turn the iron to the highest heat for every client.",
             "always use heat protectant before hot tools",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use a hot tool on hair that is still wet.",
+            "Skip the heat protectant to save time."
           ],
           "answer": 1,
           "explain": "Always use heat protectant before hot tools."
@@ -1114,34 +1114,34 @@
       "challenge": "Do deep conditioning treatments two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on deep conditioning treatments?",
+          "q": "How long does deep conditioner need to work properly?",
           "options": [
             "Deep conditioner needs about 20 minutes to work properly.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "Deep conditioner needs about 2 minutes to work properly.",
+            "Deep conditioner works the moment you rinse it out.",
+            "Deep conditioner needs a full hour to work properly."
           ],
           "answer": 0,
           "explain": "Deep conditioner needs about 20 minutes to work properly."
         },
         {
-          "q": "Which tool is most essential for deep conditioning treatments?",
+          "q": "Which tool holds sections of hair out of the way while you work?",
           "options": [
-            "clipper with guards",
+            "round brush",
             "sectioning clips",
-            "trimmer",
-            "foil shaver"
+            "hair dryer",
+            "flat iron"
           ],
           "answer": 1,
-          "explain": "The sectioning clips is the essential tool for this work."
+          "explain": "Sectioning clips hold sections of hair out of the way while you work."
         },
         {
-          "q": "What should you always do when working on deep conditioning treatments?",
+          "q": "What should you never do with a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Dry soaking wet hair with a flat iron.",
+            "Use a hot tool before the hair is fully dry.",
             "never use a hot tool on soaking wet hair",
-            "check the client for cuts before starting"
+            "Press wet hair with the iron to straighten it faster."
           ],
           "answer": 2,
           "explain": "Never use a hot tool on soaking wet hair."
@@ -1170,33 +1170,33 @@
       "challenge": "Do week 3 project: layers plus styling two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: layers plus styling?",
+          "q": "What does a layers-plus-styling project show?",
           "options": [
-            "You never need to check your work until the very end.",
+            "Layers plus styling shows only the cut, not the finish.",
             "Layers plus styling shows both the cut and the finish.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Layers plus styling shows only the finish, not the cut.",
+            "Layers plus styling shows neither the cut nor the finish."
           ],
           "answer": 1,
           "explain": "Layers plus styling shows both the cut and the finish."
         },
         {
-          "q": "Which tool is most essential for week 3 project: layers plus styling?",
+          "q": "Which tool helps you smooth and shape hair while you blow-dry it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "hair dryer",
+            "flat iron",
             "round brush",
-            "foil shaver"
+            "sectioning clips"
           ],
           "answer": 2,
-          "explain": "The round brush is the essential tool for this work."
+          "explain": "A round brush smooths and shapes the hair as you blow-dry it."
         },
         {
-          "q": "What should you always do when working on week 3 project: layers plus styling?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Test the iron on the client's scalp first.",
+            "Start on the highest heat with no test.",
+            "Run the iron through all the hair at once.",
             "test the iron temperature on a strand first"
           ],
           "answer": 3,
@@ -1237,34 +1237,34 @@
       "challenge": "Do hair treatments: protein vs moisture two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hair treatments: protein vs moisture?",
+          "q": "What is the difference between protein and moisture treatments?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Protein restores softness and moisture rebuilds strength.",
+            "Protein and moisture do exactly the same thing.",
             "Protein rebuilds strength; moisture restores softness.",
-            "You should always use the strongest product available."
+            "Protein is for the scalp and moisture is for the ends."
           ],
           "answer": 2,
           "explain": "Protein rebuilds strength; moisture restores softness."
         },
         {
-          "q": "Which tool is most essential for hair treatments: protein vs moisture?",
+          "q": "Which tool blows hot air to dry hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "round brush",
+            "flat iron",
+            "sectioning clips",
             "hair dryer"
           ],
           "answer": 3,
-          "explain": "The hair dryer is the essential tool for this work."
+          "explain": "A hair dryer blows hot air to dry the hair."
         },
         {
-          "q": "What should you always do when working on hair treatments: protein vs moisture?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
             "always use heat protectant before hot tools",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Turn the iron to the highest heat for every client.",
+            "Use a hot tool on hair that is still wet.",
+            "Skip the heat protectant to save time."
           ],
           "answer": 0,
           "explain": "Always use heat protectant before hot tools."
@@ -1293,34 +1293,34 @@
       "challenge": "Do scalp care two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on scalp care?",
+          "q": "What does a scalp massage do for the hair?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Scalp massage slows blood flow to the hair follicles.",
+            "Scalp massage stops hair from growing.",
+            "Scalp massage dries out the scalp.",
             "Scalp massage boosts blood flow to the hair follicles."
           ],
           "answer": 3,
           "explain": "Scalp massage boosts blood flow to the hair follicles."
         },
         {
-          "q": "Which tool is most essential for scalp care?",
+          "q": "Which tool straightens hair between two hot plates?",
           "options": [
             "flat iron",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "round brush",
+            "hair dryer",
+            "sectioning clips"
           ],
           "answer": 0,
-          "explain": "The flat iron is the essential tool for this work."
+          "explain": "A flat iron straightens hair between two hot plates."
         },
         {
-          "q": "What should you always do when working on scalp care?",
+          "q": "What should you never do with a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
+            "Dry soaking wet hair with a flat iron.",
             "never use a hot tool on soaking wet hair",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Use a hot tool before the hair is fully dry.",
+            "Press wet hair with the iron to straighten it faster."
           ],
           "answer": 1,
           "explain": "Never use a hot tool on soaking wet hair."
@@ -1349,34 +1349,34 @@
       "challenge": "Do updos for occasions two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on updos for occasions?",
+          "q": "What holds an updo securely in place?",
           "options": [
             "Crossed bobby pins hold an updo securely.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Straight bobby pins hold an updo securely.",
+            "Loose hair grips hold an updo securely.",
+            "A single hair tie holds an updo securely."
           ],
           "answer": 0,
           "explain": "Crossed bobby pins hold an updo securely."
         },
         {
-          "q": "Which tool is most essential for updos for occasions?",
+          "q": "Which tool holds sections of hair out of the way while you work?",
           "options": [
-            "clipper with guards",
+            "round brush",
             "sectioning clips",
-            "trimmer",
-            "foil shaver"
+            "hair dryer",
+            "flat iron"
           ],
           "answer": 1,
-          "explain": "The sectioning clips is the essential tool for this work."
+          "explain": "Sectioning clips hold sections of hair out of the way while you work."
         },
         {
-          "q": "What should you always do when working on updos for occasions?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Test the iron on the client's scalp first.",
+            "Start on the highest heat with no test.",
             "test the iron temperature on a strand first",
-            "check the client for cuts before starting"
+            "Run the iron through all the hair at once."
           ],
           "answer": 2,
           "explain": "You should always test the iron temperature on a strand first."
@@ -1405,33 +1405,33 @@
       "challenge": "Do styling for weddings two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on styling for weddings?",
+          "q": "Why do you do a trial before a wedding hairstyle?",
           "options": [
-            "You should rush through the technique to save time.",
+            "A wedding trial wastes time on the day.",
             "A wedding trial prevents surprises on the day.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "A wedding trial is only for the bride's dress.",
+            "A wedding trial means you skip the real styling."
           ],
           "answer": 1,
           "explain": "A wedding trial prevents surprises on the day."
         },
         {
-          "q": "Which tool is most essential for styling for weddings?",
+          "q": "Which tool helps you smooth and shape hair while you blow-dry it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "hair dryer",
+            "flat iron",
             "round brush",
-            "foil shaver"
+            "sectioning clips"
           ],
           "answer": 2,
-          "explain": "The round brush is the essential tool for this work."
+          "explain": "A round brush smooths and shapes the hair as you blow-dry it."
         },
         {
-          "q": "What should you always do when working on styling for weddings?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Turn the iron to the highest heat for every client.",
+            "Use a hot tool on hair that is still wet.",
+            "Skip the heat protectant to save time.",
             "always use heat protectant before hot tools"
           ],
           "answer": 3,
@@ -1446,9 +1446,9 @@
       "title": "Colour Care Basics",
       "goal": "By the end of today you can explain and practise: Use sulfate-free shampoo and cool water so colour lasts longer.",
       "video": {
-        "youtube_id": "weetlzjDhsc",
-        "title": "One-Step Hair Dryer: How to Salon Style Blowout",
-        "channel": "Adina Sha"
+        "youtube_id": "3JuDaAOt5nk",
+        "title": "5 Things You MUST Know After Coloring Your Hair",
+        "channel": "ellebangs"
       },
       "steps": [
         "Get your tools ready: round brush, hair dryer and flat iron.",
@@ -1461,34 +1461,34 @@
       "challenge": "Do colour care basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on colour care basics?",
+          "q": "How do you protect hair colour when washing?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Hot water and strong shampoo protect hair colour.",
+            "Washing every day with any shampoo protects hair colour.",
             "Cool water and gentle shampoo without sulfates protect hair colour.",
-            "Using dirty tools gives the same result as clean ones."
+            "Scrubbing hard with hot water protects hair colour."
           ],
           "answer": 2,
           "explain": "Cool water and gentle shampoo without sulfates protect hair colour."
         },
         {
-          "q": "Which tool is most essential for colour care basics?",
+          "q": "Which tool blows hot air to dry hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "round brush",
+            "flat iron",
+            "sectioning clips",
             "hair dryer"
           ],
           "answer": 3,
-          "explain": "The hair dryer is the essential tool for this work."
+          "explain": "A hair dryer blows hot air to dry the hair."
         },
         {
-          "q": "What should you always do when working on colour care basics?",
+          "q": "What should you never do with a hot tool?",
           "options": [
             "never use a hot tool on soaking wet hair",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Dry soaking wet hair with a flat iron.",
+            "Use a hot tool before the hair is fully dry.",
+            "Press wet hair with the iron to straighten it faster."
           ],
           "answer": 0,
           "explain": "Never use a hot tool on soaking wet hair."
@@ -1517,34 +1517,34 @@
       "challenge": "Do consultation and face shapes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on consultation and face shapes?",
+          "q": "What should the cut suit during a consultation?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "The cut should suit the client's favourite celebrity.",
+            "The cut should suit the latest trend only.",
+            "The cut should suit the stylist's taste only.",
             "The cut should suit the client's face shape."
           ],
           "answer": 3,
           "explain": "The cut should suit the client's face shape."
         },
         {
-          "q": "Which tool is most essential for consultation and face shapes?",
+          "q": "Which tool straightens hair between two hot plates?",
           "options": [
             "flat iron",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "round brush",
+            "hair dryer",
+            "sectioning clips"
           ],
           "answer": 0,
-          "explain": "The flat iron is the essential tool for this work."
+          "explain": "A flat iron straightens hair between two hot plates."
         },
         {
-          "q": "What should you always do when working on consultation and face shapes?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "Test the iron on the client's scalp first.",
             "test the iron temperature on a strand first",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Start on the highest heat with no test.",
+            "Run the iron through all the hair at once."
           ],
           "answer": 1,
           "explain": "You should always test the iron temperature on a strand first."
@@ -1573,34 +1573,34 @@
       "challenge": "Do salon business basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on salon business basics?",
+          "q": "What keeps the salon chair full?",
           "options": [
             "Rebooking before the client leaves keeps the chair full.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Waiting for clients to call you keeps the chair full.",
+            "Offering discounts every day keeps the chair full.",
+            "Letting clients leave without booking keeps the chair full."
           ],
           "answer": 0,
           "explain": "Rebooking before the client leaves keeps the chair full."
         },
         {
-          "q": "Which tool is most essential for salon business basics?",
+          "q": "Which tool holds sections of hair out of the way while you work?",
           "options": [
-            "clipper with guards",
+            "round brush",
             "sectioning clips",
-            "trimmer",
-            "foil shaver"
+            "hair dryer",
+            "flat iron"
           ],
           "answer": 1,
-          "explain": "The sectioning clips is the essential tool for this work."
+          "explain": "Sectioning clips hold sections of hair out of the way while you work."
         },
         {
-          "q": "What should you always do when working on salon business basics?",
+          "q": "What should you always do before you use a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Turn the iron to the highest heat for every client.",
+            "Use a hot tool on hair that is still wet.",
             "always use heat protectant before hot tools",
-            "check the client for cuts before starting"
+            "Skip the heat protectant to save time."
           ],
           "answer": 2,
           "explain": "Always use heat protectant before hot tools."
@@ -1629,33 +1629,33 @@
       "challenge": "Do aftercare and home routines two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on aftercare and home routines?",
+          "q": "Why is good aftercare advice important?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Good aftercare advice makes the style fade faster.",
             "Good aftercare advice keeps the style looking fresh longer.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Good aftercare advice is only for new clients.",
+            "Good aftercare advice means the client never returns."
           ],
           "answer": 1,
           "explain": "Good aftercare advice keeps the style looking fresh longer."
         },
         {
-          "q": "Which tool is most essential for aftercare and home routines?",
+          "q": "Which tool helps you smooth and shape hair while you blow-dry it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "hair dryer",
+            "flat iron",
             "round brush",
-            "foil shaver"
+            "sectioning clips"
           ],
           "answer": 2,
-          "explain": "The round brush is the essential tool for this work."
+          "explain": "A round brush smooths and shapes the hair as you blow-dry it."
         },
         {
-          "q": "What should you always do when working on aftercare and home routines?",
+          "q": "What should you never do with a hot tool?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Dry soaking wet hair with a flat iron.",
+            "Use a hot tool before the hair is fully dry.",
+            "Press wet hair with the iron to straighten it faster.",
             "never use a hot tool on soaking wet hair"
           ],
           "answer": 3,
@@ -1685,34 +1685,34 @@
       "challenge": "Do capstone week: full salon service two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: full salon service?",
+          "q": "What does a full salon service cover?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A full salon service covers only the wash.",
+            "A full salon service covers only the cut and style.",
             "A full salon service covers wash, cut, treatment and style.",
-            "The best result comes from skipping the preparation step."
+            "A full salon service covers only the treatment."
           ],
           "answer": 2,
           "explain": "A full salon service covers wash, cut, treatment and style."
         },
         {
-          "q": "Which tool is most essential for capstone week: full salon service?",
+          "q": "Which tool blows hot air to dry hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "round brush",
+            "flat iron",
+            "sectioning clips",
             "hair dryer"
           ],
           "answer": 3,
-          "explain": "The hair dryer is the essential tool for this work."
+          "explain": "A hair dryer blows hot air to dry the hair."
         },
         {
-          "q": "What should you always do when working on capstone week: full salon service?",
+          "q": "What should you do before you run a flat iron through a client's hair?",
           "options": [
             "test the iron temperature on a strand first",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Test the iron on the client's scalp first.",
+            "Start on the highest heat with no test.",
+            "Run the iron through all the hair at once."
           ],
           "answer": 0,
           "explain": "You should always test the iron temperature on a strand first."

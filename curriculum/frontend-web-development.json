@@ -68,9 +68,9 @@
       "title": "Text, Links and Images",
       "goal": "Use headings, paragraphs, links and images to structure a real page.",
       "video": {
-        "youtube_id": "F9SlSpO8_Ys",
-        "title": "Introduction to Web Development with HTML, CSS, JavaScript",
-        "channel": "Amazing eLearning"
+        "youtube_id": "UB1O30fR-EE",
+        "title": "HTML Crash Course For Absolute Beginners",
+        "channel": "Traversy Media"
       },
       "steps": [
         "Add h1 to h3 headings to your page to create a clear outline.",
@@ -629,9 +629,9 @@
       "title": "CSS Variables and Design Tokens",
       "goal": "Build a consistent design system with CSS custom properties.",
       "video": {
-        "youtube_id": "F9SlSpO8_Ys",
-        "title": "Introduction to Web Development with HTML, CSS, JavaScript",
-        "channel": "Amazing eLearning"
+        "youtube_id": "5wLrz_zUwoU",
+        "title": "Learn CSS Variables In 7 Minutes",
+        "channel": "Slaying The Dragon"
       },
       "steps": [
         "Define --primary, --background and --text variables on :root.",
@@ -1201,9 +1201,9 @@
       "title": "Fetch API and Working with JSON",
       "goal": "Load real data from an API and show it on a page.",
       "video": {
-        "youtube_id": "F9SlSpO8_Ys",
-        "title": "Introduction to Web Development with HTML, CSS, JavaScript",
-        "channel": "Amazing eLearning"
+        "youtube_id": "FN_ffvw_ksE",
+        "title": "Fetch API & Rendering Data with JavaScript",
+        "channel": "Build Tavern"
       },
       "steps": [
         "Use fetch() to request data from a public JSON API.",

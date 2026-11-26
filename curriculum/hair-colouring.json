@@ -28,33 +28,33 @@
       "challenge": "Do welcome to hair colouring two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to hair colouring?",
+          "q": "Which of these is true about hair colouring?",
           "options": [
-            "You should rush through the technique to save time.",
+            "Gloves are only needed for dark colours.",
             "Gloves must be worn for every colour service.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Bare hands are best for every colour service.",
+            "Gloves should never be worn when handling dye."
           ],
           "answer": 1,
           "explain": "Gloves must be worn for every colour service."
         },
         {
-          "q": "Which tool is most essential for welcome to hair colouring?",
+          "q": "What do you use to mix and paint colour onto the hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "developer",
+            "foils",
             "colour bowl and brush",
-            "foil shaver"
+            "gloves"
           ],
           "answer": 2,
-          "explain": "The colour bowl and brush is the essential tool for this work."
+          "explain": "A colour bowl and brush mix and paint colour onto the hair."
         },
         {
-          "q": "What should you always do when working on welcome to hair colouring?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "colour hair without doing a patch test",
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp",
             "do a patch test 48 hours before colouring"
           ],
           "answer": 3,
@@ -84,34 +84,34 @@
       "challenge": "Do colour theory basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on colour theory basics?",
+          "q": "Which of these is true about colour theory basics?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Purple adds more yellow tones to hair.",
+            "Yellow cancels purple tones in hair.",
             "Purple cancels yellow tones in hair.",
-            "Using dirty tools gives the same result as clean ones."
+            "Purple has no effect on yellow tones."
           ],
           "answer": 2,
           "explain": "Purple cancels yellow tones in hair."
         },
         {
-          "q": "Which tool is most essential for colour theory basics?",
+          "q": "Which liquid do you mix with dye to make the colour work?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "foils",
+            "gloves",
+            "colour bowl and brush",
             "developer"
           ],
           "answer": 3,
-          "explain": "The developer is the essential tool for this work."
+          "explain": "Developer is the liquid mixed with dye to make the colour work."
         },
         {
-          "q": "What should you always do when working on colour theory basics?",
+          "q": "What should you always do when colouring hair?",
           "options": [
             "always wear gloves when handling dye",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp",
+            "leave dye on far longer than the time says"
           ],
           "answer": 0,
           "explain": "Always wear gloves when handling dye."
@@ -140,34 +140,34 @@
       "challenge": "Do the hair colour chart two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on the hair colour chart?",
+          "q": "Which of these is true about the hair colour chart?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Level 1 is lightest blonde and level 10 is black.",
+            "Level 1 and level 10 are the same shade.",
+            "Level 10 is black and level 1 is white.",
             "Level 1 is black and level 10 is lightest blonde."
           ],
           "answer": 3,
           "explain": "Level 1 is black and level 10 is lightest blonde."
         },
         {
-          "q": "Which tool is most essential for the hair colour chart?",
+          "q": "What do you use to wrap sections of hair while the colour works?",
           "options": [
             "foils",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "gloves",
+            "colour bowl and brush",
+            "developer"
           ],
           "answer": 0,
-          "explain": "The foils is the essential tool for this work."
+          "explain": "Foils wrap sections of hair while the colour works."
         },
         {
-          "q": "What should you always do when working on the hair colour chart?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "put colour on a sore or cut scalp",
             "never apply colour to a sore scalp",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl"
           ],
           "answer": 1,
           "explain": "Never apply colour to a sore scalp."
@@ -196,34 +196,34 @@
       "challenge": "Do reading hair history two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on reading hair history?",
+          "q": "Which of these is true about reading hair history?",
           "options": [
             "Past colour and relaxer change how new colour behaves.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Past colour never affects new colour.",
+            "Relaxer makes no difference to new colour.",
+            "You can skip asking about hair history."
           ],
           "answer": 0,
           "explain": "Past colour and relaxer change how new colour behaves."
         },
         {
-          "q": "Which tool is most essential for reading hair history?",
+          "q": "What must you wear to protect your hands when you handle dye?",
           "options": [
-            "clipper with guards",
+            "colour bowl and brush",
             "gloves",
-            "trimmer",
-            "foil shaver"
+            "developer",
+            "foils"
           ],
           "answer": 1,
-          "explain": "The gloves is the essential tool for this work."
+          "explain": "Gloves protect your hands when you handle dye."
         },
         {
-          "q": "What should you always do when working on reading hair history?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl",
             "do a patch test 48 hours before colouring",
-            "check the client for cuts before starting"
+            "colour over old dye without checking the hair first"
           ],
           "answer": 2,
           "explain": "You should always do a patch test 48 hours before colouring."
@@ -252,33 +252,33 @@
       "challenge": "Do patch test and allergy safety two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on patch test and allergy safety?",
+          "q": "Which of these is true about patch test and allergy safety?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "A patch test can be done five minutes before colouring.",
             "A patch test must be done 48 hours before colouring.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "A patch test is never needed before colouring.",
+            "A patch test should be done after the colour is applied."
           ],
           "answer": 1,
           "explain": "A patch test must be done 48 hours before colouring."
         },
         {
-          "q": "Which tool is most essential for patch test and allergy safety?",
+          "q": "What do you use to mix and paint colour onto the hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foils",
+            "gloves",
             "colour bowl and brush",
-            "foil shaver"
+            "developer"
           ],
           "answer": 2,
-          "explain": "The colour bowl and brush is the essential tool for this work."
+          "explain": "A colour bowl and brush mix and paint colour onto the hair."
         },
         {
-          "q": "What should you always do when working on patch test and allergy safety?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "mix dye in a dirty bowl",
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test",
             "always wear gloves when handling dye"
           ],
           "answer": 3,
@@ -308,34 +308,34 @@
       "challenge": "Do strand test two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on strand test?",
+          "q": "Which of these is true about a strand test?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A strand test hides the true colour result.",
+            "A strand test is done after the full colour is applied.",
             "A strand test shows the true colour result before a full application.",
-            "The best result comes from skipping the preparation step."
+            "A strand test tells you nothing about the result."
           ],
           "answer": 2,
           "explain": "A strand test shows the true colour result before a full application."
         },
         {
-          "q": "Which tool is most essential for strand test?",
+          "q": "Which liquid do you mix with dye to make the colour work?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "gloves",
+            "colour bowl and brush",
+            "foils",
             "developer"
           ],
           "answer": 3,
-          "explain": "The developer is the essential tool for this work."
+          "explain": "Developer is the liquid mixed with dye to make the colour work."
         },
         {
-          "q": "What should you always do when working on strand test?",
+          "q": "What should you always do when colouring hair?",
           "options": [
             "never apply colour to a sore scalp",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test",
+            "handle dye with bare hands"
           ],
           "answer": 0,
           "explain": "Never apply colour to a sore scalp."
@@ -364,34 +364,34 @@
       "challenge": "Do sectioning for colour two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on sectioning for colour?",
+          "q": "Which of these is true about sectioning for colour?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Four-section parting makes colour application uneven.",
+            "One big section keeps colour most even.",
+            "Sectioning is not needed for even colour.",
             "Four-section parting keeps colour application even."
           ],
           "answer": 3,
           "explain": "Four-section parting keeps colour application even."
         },
         {
-          "q": "Which tool is most essential for sectioning for colour?",
+          "q": "What do you use to wrap sections of hair while the colour works?",
           "options": [
             "foils",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "colour bowl and brush",
+            "developer",
+            "gloves"
           ],
           "answer": 0,
-          "explain": "The foils is the essential tool for this work."
+          "explain": "Foils wrap sections of hair while the colour works."
         },
         {
-          "q": "What should you always do when working on sectioning for colour?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "colour hair without doing a patch test",
             "do a patch test 48 hours before colouring",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp"
           ],
           "answer": 1,
           "explain": "You should always do a patch test 48 hours before colouring."
@@ -431,34 +431,34 @@
       "challenge": "Do week 1 project: a single-process colour two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: a single-process colour?",
+          "q": "Which of these is true about a single-process colour?",
           "options": [
             "A single-process colour is even from roots to ends.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "A single-process colour is patchy from roots to ends.",
+            "A single-process colour only colours the roots.",
+            "A single-process colour changes shade halfway down."
           ],
           "answer": 0,
           "explain": "A single-process colour is even from roots to ends."
         },
         {
-          "q": "Which tool is most essential for week 1 project: a single-process colour?",
+          "q": "What must you wear to protect your hands when you handle dye?",
           "options": [
-            "clipper with guards",
+            "developer",
             "gloves",
-            "trimmer",
-            "foil shaver"
+            "foils",
+            "colour bowl and brush"
           ],
           "answer": 1,
-          "explain": "The gloves is the essential tool for this work."
+          "explain": "Gloves protect your hands when you handle dye."
         },
         {
-          "q": "What should you always do when working on week 1 project: a single-process colour?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp",
             "always wear gloves when handling dye",
-            "check the client for cuts before starting"
+            "leave dye on far longer than the time says"
           ],
           "answer": 2,
           "explain": "Always wear gloves when handling dye."
@@ -487,33 +487,33 @@
       "challenge": "Do applying root colour two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on applying root colour?",
+          "q": "Which of these is true about applying root colour?",
           "options": [
-            "You never need to check your work until the very end.",
+            "Root colour goes on the ends first, then the regrowth.",
             "Root colour goes on the regrowth first, then the ends.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Root colour goes on the whole head at once.",
+            "Root colour never touches the regrowth."
           ],
           "answer": 1,
           "explain": "Root colour goes on the regrowth first, then the ends."
         },
         {
-          "q": "Which tool is most essential for applying root colour?",
+          "q": "What do you use to mix and paint colour onto the hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "gloves",
+            "developer",
             "colour bowl and brush",
-            "foil shaver"
+            "foils"
           ],
           "answer": 2,
-          "explain": "The colour bowl and brush is the essential tool for this work."
+          "explain": "A colour bowl and brush mix and paint colour onto the hair."
         },
         {
-          "q": "What should you always do when working on applying root colour?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "put colour on a sore or cut scalp",
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl",
             "never apply colour to a sore scalp"
           ],
           "answer": 3,
@@ -543,34 +543,34 @@
       "challenge": "Do grey coverage two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on grey coverage?",
+          "q": "Which of these is true about grey coverage?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Grey hair is best covered with a wash-out rinse.",
+            "Grey hair needs no natural base at all.",
             "Grey hair needs a permanent colour with a natural base.",
-            "You should always use the strongest product available."
+            "Grey hair cannot be covered with permanent colour."
           ],
           "answer": 2,
           "explain": "Grey hair needs a permanent colour with a natural base."
         },
         {
-          "q": "Which tool is most essential for grey coverage?",
+          "q": "Which liquid do you mix with dye to make the colour work?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "colour bowl and brush",
+            "foils",
+            "gloves",
             "developer"
           ],
           "answer": 3,
-          "explain": "The developer is the essential tool for this work."
+          "explain": "Developer is the liquid mixed with dye to make the colour work."
         },
         {
-          "q": "What should you always do when working on grey coverage?",
+          "q": "What should you always do when colouring hair?",
           "options": [
             "do a patch test 48 hours before colouring",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl",
+            "colour over old dye without checking the hair first"
           ],
           "answer": 0,
           "explain": "You should always do a patch test 48 hours before colouring."
@@ -599,34 +599,34 @@
       "challenge": "Do semi-permanent colour two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on semi-permanent colour?",
+          "q": "Which of these is true about semi-permanent colour?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Semi-permanent colour lasts forever like permanent colour.",
+            "Semi-permanent colour washes out in one wash.",
+            "Semi-permanent colour never fades at all.",
             "Semi-permanent colour washes out gradually over weeks."
           ],
           "answer": 3,
           "explain": "Semi-permanent colour washes out gradually over weeks."
         },
         {
-          "q": "Which tool is most essential for semi-permanent colour?",
+          "q": "What do you use to wrap sections of hair while the colour works?",
           "options": [
             "foils",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "developer",
+            "gloves",
+            "colour bowl and brush"
           ],
           "answer": 0,
-          "explain": "The foils is the essential tool for this work."
+          "explain": "Foils wrap sections of hair while the colour works."
         },
         {
-          "q": "What should you always do when working on semi-permanent colour?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "mix dye in a dirty bowl",
             "always wear gloves when handling dye",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test"
           ],
           "answer": 1,
           "explain": "Always wear gloves when handling dye."
@@ -655,34 +655,34 @@
       "challenge": "Do henna and natural dyes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on henna and natural dyes?",
+          "q": "Which of these is true about henna and natural dyes?",
           "options": [
             "Henna mixed with indigo gives a natural black colour.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Henna mixed with indigo gives a bright blonde colour.",
+            "Henna on its own gives a black colour.",
+            "Henna and indigo should never be mixed."
           ],
           "answer": 0,
           "explain": "Henna mixed with indigo gives a natural black colour."
         },
         {
-          "q": "Which tool is most essential for henna and natural dyes?",
+          "q": "What must you wear to protect your hands when you handle dye?",
           "options": [
-            "clipper with guards",
+            "foils",
             "gloves",
-            "trimmer",
-            "foil shaver"
+            "colour bowl and brush",
+            "developer"
           ],
           "answer": 1,
-          "explain": "The gloves is the essential tool for this work."
+          "explain": "Gloves protect your hands when you handle dye."
         },
         {
-          "q": "What should you always do when working on henna and natural dyes?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test",
             "never apply colour to a sore scalp",
-            "check the client for cuts before starting"
+            "handle dye with bare hands"
           ],
           "answer": 2,
           "explain": "Never apply colour to a sore scalp."
@@ -711,33 +711,33 @@
       "challenge": "Do highlights with foils two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on highlights with foils?",
+          "q": "Which of these is true about highlights with foils?",
           "options": [
-            "You should rush through the technique to save time.",
+            "Foil highlights are painted on thick, wide sections.",
             "Foil highlights are painted on thin woven sections.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Foil highlights use no weaving at all.",
+            "Foil highlights are painted on dry, unsectioned hair."
           ],
           "answer": 1,
           "explain": "Foil highlights are painted on thin woven sections."
         },
         {
-          "q": "Which tool is most essential for highlights with foils?",
+          "q": "What do you use to mix and paint colour onto the hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "developer",
+            "foils",
             "colour bowl and brush",
-            "foil shaver"
+            "gloves"
           ],
           "answer": 2,
-          "explain": "The colour bowl and brush is the essential tool for this work."
+          "explain": "A colour bowl and brush mix and paint colour onto the hair."
         },
         {
-          "q": "What should you always do when working on highlights with foils?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "colour hair without doing a patch test",
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp",
             "do a patch test 48 hours before colouring"
           ],
           "answer": 3,
@@ -767,34 +767,34 @@
       "challenge": "Do balayage basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on balayage basics?",
+          "q": "Which of these is true about balayage basics?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Balayage is painted with foils only.",
+            "Balayage is heavier at the roots.",
             "Balayage is painted freehand, heavier toward the ends.",
-            "Using dirty tools gives the same result as clean ones."
+            "Balayage is painted in straight lines."
           ],
           "answer": 2,
           "explain": "Balayage is painted freehand, heavier toward the ends."
         },
         {
-          "q": "Which tool is most essential for balayage basics?",
+          "q": "Which liquid do you mix with dye to make the colour work?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "foils",
+            "gloves",
+            "colour bowl and brush",
             "developer"
           ],
           "answer": 3,
-          "explain": "The developer is the essential tool for this work."
+          "explain": "Developer is the liquid mixed with dye to make the colour work."
         },
         {
-          "q": "What should you always do when working on balayage basics?",
+          "q": "What should you always do when colouring hair?",
           "options": [
             "always wear gloves when handling dye",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp",
+            "leave dye on far longer than the time says"
           ],
           "answer": 0,
           "explain": "Always wear gloves when handling dye."
@@ -834,34 +834,34 @@
       "challenge": "Do week 2 project: face-framing highlights two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: face-framing highlights?",
+          "q": "Which of these is true about face-framing highlights?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Face-framing highlights darken the hair around the face.",
+            "Face-framing highlights are placed at the back of the head.",
+            "Face-framing highlights make the face look dull.",
             "Face-framing highlights brighten the hair around the face."
           ],
           "answer": 3,
           "explain": "Face-framing highlights brighten the hair around the face."
         },
         {
-          "q": "Which tool is most essential for week 2 project: face-framing highlights?",
+          "q": "What do you use to wrap sections of hair while the colour works?",
           "options": [
             "foils",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "gloves",
+            "colour bowl and brush",
+            "developer"
           ],
           "answer": 0,
-          "explain": "The foils is the essential tool for this work."
+          "explain": "Foils wrap sections of hair while the colour works."
         },
         {
-          "q": "What should you always do when working on week 2 project: face-framing highlights?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "put colour on a sore or cut scalp",
             "never apply colour to a sore scalp",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl"
           ],
           "answer": 1,
           "explain": "Never apply colour to a sore scalp."
@@ -890,34 +890,34 @@
       "challenge": "Do ombre and dip dye two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on ombre and dip dye?",
+          "q": "Which of these is true about ombre and dip dye?",
           "options": [
             "Ombre blends a dark root into lighter ends.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Ombre blends a light root into darker ends.",
+            "Ombre keeps the root and ends the same shade.",
+            "Ombre has no blend at all."
           ],
           "answer": 0,
           "explain": "Ombre blends a dark root into lighter ends."
         },
         {
-          "q": "Which tool is most essential for ombre and dip dye?",
+          "q": "What must you wear to protect your hands when you handle dye?",
           "options": [
-            "clipper with guards",
+            "colour bowl and brush",
             "gloves",
-            "trimmer",
-            "foil shaver"
+            "developer",
+            "foils"
           ],
           "answer": 1,
-          "explain": "The gloves is the essential tool for this work."
+          "explain": "Gloves protect your hands when you handle dye."
         },
         {
-          "q": "What should you always do when working on ombre and dip dye?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl",
             "do a patch test 48 hours before colouring",
-            "check the client for cuts before starting"
+            "colour over old dye without checking the hair first"
           ],
           "answer": 2,
           "explain": "You should always do a patch test 48 hours before colouring."
@@ -946,33 +946,33 @@
       "challenge": "Do toning blonde hair two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on toning blonde hair?",
+          "q": "Which of these is true about toning blonde hair?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Toner adds more yellow to blonde hair.",
             "Toner removes unwanted yellow from blonde hair.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Toner turns blonde hair black.",
+            "Toner has no effect on yellow tones."
           ],
           "answer": 1,
           "explain": "Toner removes unwanted yellow from blonde hair."
         },
         {
-          "q": "Which tool is most essential for toning blonde hair?",
+          "q": "What do you use to mix and paint colour onto the hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foils",
+            "gloves",
             "colour bowl and brush",
-            "foil shaver"
+            "developer"
           ],
           "answer": 2,
-          "explain": "The colour bowl and brush is the essential tool for this work."
+          "explain": "A colour bowl and brush mix and paint colour onto the hair."
         },
         {
-          "q": "What should you always do when working on toning blonde hair?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "mix dye in a dirty bowl",
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test",
             "always wear gloves when handling dye"
           ],
           "answer": 3,
@@ -1002,34 +1002,34 @@
       "challenge": "Do colour correction two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on colour correction?",
+          "q": "Which of these is true about colour correction?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Brassy hair is corrected with more warm toner.",
+            "Brassy hair should be left alone to fix itself.",
             "Brassy hair is corrected with a toner in the opposite tone.",
-            "The best result comes from skipping the preparation step."
+            "Brassy hair is corrected with bleach straight away."
           ],
           "answer": 2,
           "explain": "Brassy hair is corrected with a toner in the opposite tone."
         },
         {
-          "q": "Which tool is most essential for colour correction?",
+          "q": "Which liquid do you mix with dye to make the colour work?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "gloves",
+            "colour bowl and brush",
+            "foils",
             "developer"
           ],
           "answer": 3,
-          "explain": "The developer is the essential tool for this work."
+          "explain": "Developer is the liquid mixed with dye to make the colour work."
         },
         {
-          "q": "What should you always do when working on colour correction?",
+          "q": "What should you always do when colouring hair?",
           "options": [
             "never apply colour to a sore scalp",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test",
+            "handle dye with bare hands"
           ],
           "answer": 0,
           "explain": "Never apply colour to a sore scalp."
@@ -1058,34 +1058,34 @@
       "challenge": "Do money piece two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on money piece?",
+          "q": "Which of these is true about the money piece?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "The money piece darkens the two front sections.",
+            "The money piece lightens the back sections.",
+            "The money piece colours the whole head one shade.",
             "The money piece lightens the two front sections."
           ],
           "answer": 3,
           "explain": "The money piece lightens the two front sections."
         },
         {
-          "q": "Which tool is most essential for money piece?",
+          "q": "What do you use to wrap sections of hair while the colour works?",
           "options": [
             "foils",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "colour bowl and brush",
+            "developer",
+            "gloves"
           ],
           "answer": 0,
-          "explain": "The foils is the essential tool for this work."
+          "explain": "Foils wrap sections of hair while the colour works."
         },
         {
-          "q": "What should you always do when working on money piece?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "colour hair without doing a patch test",
             "do a patch test 48 hours before colouring",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp"
           ],
           "answer": 1,
           "explain": "You should always do a patch test 48 hours before colouring."
@@ -1114,34 +1114,34 @@
       "challenge": "Do low lights two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on low lights?",
+          "q": "Which of these is true about low lights?",
           "options": [
             "Low lights add darker depth to solid blonde hair.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "Low lights add lighter pieces to dark hair.",
+            "Low lights remove all depth from blonde hair.",
+            "Low lights make blonde hair one flat shade."
           ],
           "answer": 0,
           "explain": "Low lights add darker depth to solid blonde hair."
         },
         {
-          "q": "Which tool is most essential for low lights?",
+          "q": "What must you wear to protect your hands when you handle dye?",
           "options": [
-            "clipper with guards",
+            "developer",
             "gloves",
-            "trimmer",
-            "foil shaver"
+            "foils",
+            "colour bowl and brush"
           ],
           "answer": 1,
-          "explain": "The gloves is the essential tool for this work."
+          "explain": "Gloves protect your hands when you handle dye."
         },
         {
-          "q": "What should you always do when working on low lights?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp",
             "always wear gloves when handling dye",
-            "check the client for cuts before starting"
+            "leave dye on far longer than the time says"
           ],
           "answer": 2,
           "explain": "Always wear gloves when handling dye."
@@ -1170,33 +1170,33 @@
       "challenge": "Do week 3 project: a balayage two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: a balayage?",
+          "q": "Which of these is true about a balayage?",
           "options": [
-            "You never need to check your work until the very end.",
+            "A balayage shows a harsh line as the hair grows out.",
             "A balayage shows a soft, blended look as the hair grows out.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "A balayage looks patchy when it grows out.",
+            "A balayage never blends as it grows."
           ],
           "answer": 1,
           "explain": "A balayage shows a soft, blended look as the hair grows out."
         },
         {
-          "q": "Which tool is most essential for week 3 project: a balayage?",
+          "q": "What do you use to mix and paint colour onto the hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "gloves",
+            "developer",
             "colour bowl and brush",
-            "foil shaver"
+            "foils"
           ],
           "answer": 2,
-          "explain": "The colour bowl and brush is the essential tool for this work."
+          "explain": "A colour bowl and brush mix and paint colour onto the hair."
         },
         {
-          "q": "What should you always do when working on week 3 project: a balayage?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "put colour on a sore or cut scalp",
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl",
             "never apply colour to a sore scalp"
           ],
           "answer": 3,
@@ -1237,34 +1237,34 @@
       "challenge": "Do colour care aftercare two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on colour care aftercare?",
+          "q": "Which of these is true about colour care aftercare?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Sulfate-free shampoo strips colour faster.",
+            "Any harsh shampoo protects colour just as well.",
             "Sulfate-free shampoo protects hair colour.",
-            "You should always use the strongest product available."
+            "Shampoo choice makes no difference to colour."
           ],
           "answer": 2,
           "explain": "Sulfate-free shampoo protects hair colour."
         },
         {
-          "q": "Which tool is most essential for colour care aftercare?",
+          "q": "Which liquid do you mix with dye to make the colour work?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "colour bowl and brush",
+            "foils",
+            "gloves",
             "developer"
           ],
           "answer": 3,
-          "explain": "The developer is the essential tool for this work."
+          "explain": "Developer is the liquid mixed with dye to make the colour work."
         },
         {
-          "q": "What should you always do when working on colour care aftercare?",
+          "q": "What should you always do when colouring hair?",
           "options": [
             "do a patch test 48 hours before colouring",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl",
+            "colour over old dye without checking the hair first"
           ],
           "answer": 0,
           "explain": "You should always do a patch test 48 hours before colouring."
@@ -1293,34 +1293,34 @@
       "challenge": "Do fixing colour mistakes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on fixing colour mistakes?",
+          "q": "Which of these is true about fixing colour mistakes?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A too-dark colour should be fixed with straight bleach first.",
+            "A too-dark colour cannot be corrected at all.",
+            "A too-dark colour is fixed by adding more dark dye.",
             "A too-dark colour is corrected gently, not with straight bleach."
           ],
           "answer": 3,
           "explain": "A too-dark colour is corrected gently, not with straight bleach."
         },
         {
-          "q": "Which tool is most essential for fixing colour mistakes?",
+          "q": "What do you use to wrap sections of hair while the colour works?",
           "options": [
             "foils",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "developer",
+            "gloves",
+            "colour bowl and brush"
           ],
           "answer": 0,
-          "explain": "The foils is the essential tool for this work."
+          "explain": "Foils wrap sections of hair while the colour works."
         },
         {
-          "q": "What should you always do when working on fixing colour mistakes?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "mix dye in a dirty bowl",
             "always wear gloves when handling dye",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test"
           ],
           "answer": 1,
           "explain": "Always wear gloves when handling dye."
@@ -1349,34 +1349,34 @@
       "challenge": "Do colour for textured hair two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on colour for textured hair?",
+          "q": "Which of these is true about colour for textured hair?",
           "options": [
             "Textured hair needs gentler developer (the liquid mixed with dye) and extra moisture.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Textured hair needs the strongest developer.",
+            "Textured hair needs no extra moisture.",
+            "Textured hair should be coloured while dry and brittle."
           ],
           "answer": 0,
           "explain": "Textured hair needs gentler developer (the liquid mixed with dye) and extra moisture."
         },
         {
-          "q": "Which tool is most essential for colour for textured hair?",
+          "q": "What must you wear to protect your hands when you handle dye?",
           "options": [
-            "clipper with guards",
+            "foils",
             "gloves",
-            "trimmer",
-            "foil shaver"
+            "colour bowl and brush",
+            "developer"
           ],
           "answer": 1,
-          "explain": "The gloves is the essential tool for this work."
+          "explain": "Gloves protect your hands when you handle dye."
         },
         {
-          "q": "What should you always do when working on colour for textured hair?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test",
             "never apply colour to a sore scalp",
-            "check the client for cuts before starting"
+            "handle dye with bare hands"
           ],
           "answer": 2,
           "explain": "Never apply colour to a sore scalp."
@@ -1405,33 +1405,33 @@
       "challenge": "Do colour consultation two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on colour consultation?",
+          "q": "Which of these is true about a colour consultation?",
           "options": [
-            "You should rush through the technique to save time.",
+            "A colour consultation never agrees a shade.",
             "A colour consultation agrees the shade and maintenance plan.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "A colour consultation skips the maintenance plan.",
+            "A colour consultation only talks about the price."
           ],
           "answer": 1,
           "explain": "A colour consultation agrees the shade and maintenance plan."
         },
         {
-          "q": "Which tool is most essential for colour consultation?",
+          "q": "What do you use to mix and paint colour onto the hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "developer",
+            "foils",
             "colour bowl and brush",
-            "foil shaver"
+            "gloves"
           ],
           "answer": 2,
-          "explain": "The colour bowl and brush is the essential tool for this work."
+          "explain": "A colour bowl and brush mix and paint colour onto the hair."
         },
         {
-          "q": "What should you always do when working on colour consultation?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "colour hair without doing a patch test",
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp",
             "do a patch test 48 hours before colouring"
           ],
           "answer": 3,
@@ -1461,34 +1461,34 @@
       "challenge": "Do pricing colour services two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on pricing colour services?",
+          "q": "Which of these is true about pricing colour services?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Toner and treatments are always free with colour.",
+            "Pricing never includes toner or treatments.",
             "Toner and treatments are charged as extras on colour.",
-            "Using dirty tools gives the same result as clean ones."
+            "Extras should never be charged on colour."
           ],
           "answer": 2,
           "explain": "Toner and treatments are charged as extras on colour."
         },
         {
-          "q": "Which tool is most essential for pricing colour services?",
+          "q": "Which liquid do you mix with dye to make the colour work?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "foils",
+            "gloves",
+            "colour bowl and brush",
             "developer"
           ],
           "answer": 3,
-          "explain": "The developer is the essential tool for this work."
+          "explain": "Developer is the liquid mixed with dye to make the colour work."
         },
         {
-          "q": "What should you always do when working on pricing colour services?",
+          "q": "What should you always do when colouring hair?",
           "options": [
             "always wear gloves when handling dye",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "handle dye with bare hands",
+            "put colour on a sore or cut scalp",
+            "leave dye on far longer than the time says"
           ],
           "answer": 0,
           "explain": "Always wear gloves when handling dye."
@@ -1517,34 +1517,34 @@
       "challenge": "Do colour business basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on colour business basics?",
+          "q": "Which of these is true about colour business basics?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Formula records make it impossible to repeat a colour.",
+            "You should never write down a client's formula.",
+            "Formula records are only for new clients.",
             "Formula records let you repeat a client's colour exactly."
           ],
           "answer": 3,
           "explain": "Formula records let you repeat a client's colour exactly."
         },
         {
-          "q": "Which tool is most essential for colour business basics?",
+          "q": "What do you use to wrap sections of hair while the colour works?",
           "options": [
             "foils",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "gloves",
+            "colour bowl and brush",
+            "developer"
           ],
           "answer": 0,
-          "explain": "The foils is the essential tool for this work."
+          "explain": "Foils wrap sections of hair while the colour works."
         },
         {
-          "q": "What should you always do when working on colour business basics?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
+            "put colour on a sore or cut scalp",
             "never apply colour to a sore scalp",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl"
           ],
           "answer": 1,
           "explain": "Never apply colour to a sore scalp."
@@ -1573,34 +1573,34 @@
       "challenge": "Do building a colour portfolio two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on building a colour portfolio?",
+          "q": "Which of these is true about building a colour portfolio?",
           "options": [
             "Daylight photos show hair colour most accurately.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Dim indoor light shows hair colour most accurately.",
+            "Photos in the dark show colour best.",
+            "Daylight makes hair colour look wrong in photos."
           ],
           "answer": 0,
           "explain": "Daylight photos show hair colour most accurately."
         },
         {
-          "q": "Which tool is most essential for building a colour portfolio?",
+          "q": "What must you wear to protect your hands when you handle dye?",
           "options": [
-            "clipper with guards",
+            "colour bowl and brush",
             "gloves",
-            "trimmer",
-            "foil shaver"
+            "developer",
+            "foils"
           ],
           "answer": 1,
-          "explain": "The gloves is the essential tool for this work."
+          "explain": "Gloves protect your hands when you handle dye."
         },
         {
-          "q": "What should you always do when working on building a colour portfolio?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "leave dye on far longer than the time says",
+            "mix dye in a dirty bowl",
             "do a patch test 48 hours before colouring",
-            "check the client for cuts before starting"
+            "colour over old dye without checking the hair first"
           ],
           "answer": 2,
           "explain": "You should always do a patch test 48 hours before colouring."
@@ -1629,33 +1629,33 @@
       "challenge": "Do aftercare cards for colour two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on aftercare cards for colour?",
+          "q": "Which of these is true about aftercare cards for colour?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Written aftercare makes colour fade faster.",
             "Written colour aftercare keeps the colour lasting longer.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Clients should get no aftercare advice.",
+            "Aftercare cards shorten how long colour lasts."
           ],
           "answer": 1,
           "explain": "Written colour aftercare keeps the colour lasting longer."
         },
         {
-          "q": "Which tool is most essential for aftercare cards for colour?",
+          "q": "What do you use to mix and paint colour onto the hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foils",
+            "gloves",
             "colour bowl and brush",
-            "foil shaver"
+            "developer"
           ],
           "answer": 2,
-          "explain": "The colour bowl and brush is the essential tool for this work."
+          "explain": "A colour bowl and brush mix and paint colour onto the hair."
         },
         {
-          "q": "What should you always do when working on aftercare cards for colour?",
+          "q": "What should you always do when colouring hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "mix dye in a dirty bowl",
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test",
             "always wear gloves when handling dye"
           ],
           "answer": 3,
@@ -1685,34 +1685,34 @@
       "challenge": "Do capstone week: a paying colour client two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: a paying colour client?",
+          "q": "Which of these is true about a paying colour client?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A paying client needs no consultation or test.",
+            "A paying client is only about the photos.",
             "A paying colour client covers consultation, test, colour and photos.",
-            "The best result comes from skipping the preparation step."
+            "A paying client skips the colour step."
           ],
           "answer": 2,
           "explain": "A paying colour client covers consultation, test, colour and photos."
         },
         {
-          "q": "Which tool is most essential for capstone week: a paying colour client?",
+          "q": "Which liquid do you mix with dye to make the colour work?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "gloves",
+            "colour bowl and brush",
+            "foils",
             "developer"
           ],
           "answer": 3,
-          "explain": "The developer is the essential tool for this work."
+          "explain": "Developer is the liquid mixed with dye to make the colour work."
         },
         {
-          "q": "What should you always do when working on capstone week: a paying colour client?",
+          "q": "What should you always do when colouring hair?",
           "options": [
             "never apply colour to a sore scalp",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "colour over old dye without checking the hair first",
+            "colour hair without doing a patch test",
+            "handle dye with bare hands"
           ],
           "answer": 0,
           "explain": "Never apply colour to a sore scalp."

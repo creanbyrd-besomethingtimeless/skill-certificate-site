@@ -1,1744 +1,1744 @@
 {
- "course": {
-  "id": "massage-therapy",
-  "title": "Massage Therapy",
-  "level": "Beginner",
-  "tagline": "Learn safe, relaxing massage techniques for the back, neck and full body.",
-  "duration_days": 30
- },
- "days": [
-  {
-   "day": 1,
-   "week": 1,
-   "title": "Welcome to Massage Therapy",
-   "goal": "By the end of today you can explain and practise: Your kit is massage oil, towels, a table or mat, and clean sheets.",
-   "video": {
-    "youtube_id": "nHOG2IyGiS0",
-    "title": "How to Give a Back Massage",
-    "channel": "Aruna Heather"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Massage oil reduces friction so strokes glide smoothly.",
-    "Your kit is massage oil, towels, a table or mat, and clean sheets. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise welcome to massage therapy on a model or a practice head. Your kit is massage oil, towels, a table or mat, and clean sheets. Take a photo of your work.",
-   "challenge": "Do welcome to massage therapy two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on welcome to massage therapy?",
-     "options": [
-      "You should rush through the technique to save time.",
-      "Massage oil reduces friction so strokes glide smoothly.",
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end."
-     ],
-     "answer": 1,
-     "explain": "Massage oil reduces friction so strokes glide smoothly."
-    },
-    {
-     "q": "Which tool is most essential for welcome to massage therapy?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "massage oil",
-      "foil shaver"
-     ],
-     "answer": 2,
-     "explain": "The massage oil is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on welcome to massage therapy?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting",
-      "never massage broken skin or a fever"
-     ],
-     "answer": 3,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
+  "course": {
+    "id": "massage-therapy",
+    "title": "Massage Therapy",
+    "level": "Beginner",
+    "tagline": "Learn safe, relaxing massage techniques for the back, neck and full body.",
+    "duration_days": 30
   },
-  {
-   "day": 2,
-   "week": 1,
-   "title": "Anatomy Basics",
-   "goal": "By the end of today you can explain and practise: Learn the main muscles of the back, neck, shoulders, arms and legs.",
-   "video": {
-    "youtube_id": "I94cvb0Uzjo",
-    "title": "Spine Muscle Anatomy",
-    "channel": "Rebel Massage"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: The trapezius is the large muscle across the neck and shoulders.",
-    "Learn the main muscles of the back, neck, shoulders, arms and legs. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise anatomy basics on a model or a practice head. Learn the main muscles of the back, neck, shoulders, arms and legs. Take a photo of your work.",
-   "challenge": "Do anatomy basics two times today. Make the second try neater than the first.",
-   "quiz": [
+  "days": [
     {
-     "q": "What is the key point of today's lesson on anatomy basics?",
-     "options": [
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end.",
-      "The trapezius is the large muscle across the neck and shoulders.",
-      "Using dirty tools gives the same result as clean ones."
-     ],
-     "answer": 2,
-     "explain": "The trapezius is the large muscle across the neck and shoulders."
+      "day": 1,
+      "week": 1,
+      "title": "Welcome to Massage Therapy",
+      "goal": "By the end of today you can explain and practise: Your kit is massage oil, towels, a table or mat, and clean sheets.",
+      "video": {
+        "youtube_id": "nHOG2IyGiS0",
+        "title": "How to Give a Back Massage",
+        "channel": "Aruna Heather"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Massage oil reduces friction so strokes glide smoothly.",
+        "Your kit is massage oil, towels, a table or mat, and clean sheets. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise welcome to massage therapy on a model or a practice head. Your kit is massage oil, towels, a table or mat, and clean sheets. Take a photo of your work.",
+      "challenge": "Do welcome to massage therapy two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does massage oil do during a massage?",
+          "options": [
+            "Massage oil makes the skin sticky so strokes stop.",
+            "Massage oil reduces friction so strokes glide smoothly.",
+            "Massage oil dries the skin out.",
+            "Massage oil makes strokes rough and jerky."
+          ],
+          "answer": 1,
+          "explain": "Massage oil reduces friction so strokes glide smoothly."
+        },
+        {
+          "q": "What helps your hands glide smoothly over the skin?",
+          "options": [
+            "clean towels",
+            "massage table",
+            "massage oil",
+            "hot towel"
+          ],
+          "answer": 2,
+          "explain": "Massage oil reduces friction so your hands glide smoothly."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "Massage broken skin anyway and hope it heals.",
+            "Massage a client with a fever to sweat it out.",
+            "Massage over a rash to soothe it.",
+            "never massage broken skin or a fever"
+          ],
+          "answer": 3,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "Which tool is most essential for anatomy basics?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "foil shaver",
-      "clean towels"
-     ],
-     "answer": 3,
-     "explain": "The clean towels is the essential tool for this work."
+      "day": 2,
+      "week": 1,
+      "title": "Anatomy Basics",
+      "goal": "By the end of today you can explain and practise: Learn the main muscles of the back, neck, shoulders, arms and legs.",
+      "video": {
+        "youtube_id": "I94cvb0Uzjo",
+        "title": "Spine Muscle Anatomy",
+        "channel": "Rebel Massage"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: The trapezius is the large muscle across the neck and shoulders.",
+        "Learn the main muscles of the back, neck, shoulders, arms and legs. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise anatomy basics on a model or a practice head. Learn the main muscles of the back, neck, shoulders, arms and legs. Take a photo of your work.",
+      "challenge": "Do anatomy basics two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What is the trapezius?",
+          "options": [
+            "The trapezius is the small muscle in the wrist.",
+            "The trapezius is a bone in the lower back.",
+            "The trapezius is the large muscle across the neck and shoulders.",
+            "The trapezius is a muscle in the foot."
+          ],
+          "answer": 2,
+          "explain": "The trapezius is the large muscle across the neck and shoulders."
+        },
+        {
+          "q": "What do you place over the client for warmth and privacy?",
+          "options": [
+            "massage oil",
+            "massage table",
+            "hot towel",
+            "clean towels"
+          ],
+          "answer": 3,
+          "explain": "Clean towels keep the client warm and covered."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "ask about injuries before starting",
+            "Start massaging with no questions at all.",
+            "Guess where the client hurts.",
+            "Ask about the client's job and skip the injuries."
+          ],
+          "answer": 0,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "What should you always do when working on anatomy basics?",
-     "options": [
-      "ask about injuries before starting",
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 0,
-     "explain": "You should always ask about injuries before starting."
+      "day": 3,
+      "week": 1,
+      "title": "Hygiene and Safety",
+      "goal": "By the end of today you can explain and practise: Wash hands, use clean towels, and never massage broken skin or a fever.",
+      "video": {
+        "youtube_id": "0SLGvlDVkRA",
+        "title": "Back Massage Instructional Video",
+        "channel": "Carrington College"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Never massage broken skin, rashes or a feverish client.",
+        "Wash hands, use clean towels, and never massage broken skin or a fever. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise hygiene and safety on a model or a practice head. Wash hands, use clean towels, and never massage broken skin or a fever. Take a photo of your work.",
+      "challenge": "Do hygiene and safety two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "When should you never give a massage?",
+          "options": [
+            "When the client is healthy and has no injuries.",
+            "When the client asks for a relaxing back massage.",
+            "When the client has no fever and healthy skin.",
+            "Never massage broken skin, rashes or a feverish client."
+          ],
+          "answer": 3,
+          "explain": "Never massage broken skin, rashes or a feverish client."
+        },
+        {
+          "q": "What does the client lie on during a massage?",
+          "options": [
+            "massage table",
+            "massage oil",
+            "clean towels",
+            "hot towel"
+          ],
+          "answer": 0,
+          "explain": "The client lies on a massage table during a massage."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "Use the same towel for every client.",
+            "use clean towels for every client",
+            "Use a damp towel from the last client.",
+            "Skip towels and massage on the bare table."
+          ],
+          "answer": 1,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Setting Up the Room",
+      "goal": "By the end of today you can explain and practise: Warm the room, dim the light, play soft music, and keep towels within reach.",
+      "video": {
+        "youtube_id": "1RGQxUIeO4g",
+        "title": "Full Body Massage Therapy Techniques: How to Give a Back Massage",
+        "channel": "PsycheTruth"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A warm, calm room helps the client relax.",
+        "Warm the room, dim the light, play soft music, and keep towels within reach. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise setting up the room on a model or a practice head. Warm the room, dim the light, play soft music, and keep towels within reach. Take a photo of your work.",
+      "challenge": "Do setting up the room two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What kind of room helps a client relax?",
+          "options": [
+            "A warm, calm room helps the client relax.",
+            "A cold, noisy room helps the client relax.",
+            "A bright, busy room helps the client relax.",
+            "A cold room with loud music helps the client relax."
+          ],
+          "answer": 0,
+          "explain": "A warm, calm room helps the client relax."
+        },
+        {
+          "q": "What do you use warm on the skin at the end of a treatment?",
+          "options": [
+            "massage oil",
+            "hot towel",
+            "clean towels",
+            "massage table"
+          ],
+          "answer": 1,
+          "explain": "A hot towel finish relaxes the muscles at the end of a massage."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "Massage broken skin anyway and hope it heals.",
+            "Massage a client with a fever to sweat it out.",
+            "never massage broken skin or a fever",
+            "Massage over a rash to soothe it."
+          ],
+          "answer": 2,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Effleurage: Long Strokes",
+      "goal": "By the end of today you can explain and practise: Use long, gliding strokes with the palms to warm up the muscles.",
+      "video": {
+        "youtube_id": "xp_Nc1of2l8",
+        "title": "How to Give Someone a Back Massage",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Effleurage uses long, gliding strokes to warm the muscles.",
+        "Use long, gliding strokes with the palms to warm up the muscles. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise long, smooth strokes: long strokes on a model or a practice head. Use long, gliding strokes with the palms to warm up the muscles. Take a photo of your work.",
+      "challenge": "Do effleurage: long strokes two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What is effleurage?",
+          "options": [
+            "Effleurage uses short, hard taps to cool the muscles.",
+            "Effleurage uses long, gliding strokes to warm the muscles.",
+            "Effleurage uses deep thumb pressure only.",
+            "Effleurage uses fast slapping on the back."
+          ],
+          "answer": 1,
+          "explain": "Effleurage uses long, gliding strokes to warm the muscles."
+        },
+        {
+          "q": "What helps your hands glide smoothly over the skin?",
+          "options": [
+            "clean towels",
+            "massage table",
+            "massage oil",
+            "hot towel"
+          ],
+          "answer": 2,
+          "explain": "Massage oil reduces friction so your hands glide smoothly."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "Start massaging with no questions at all.",
+            "Guess where the client hurts.",
+            "Ask about the client's job and skip the injuries.",
+            "ask about injuries before starting"
+          ],
+          "answer": 3,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Petrissage: Kneading",
+      "goal": "By the end of today you can explain and practise: Knead muscles like dough to release tension and improve circulation.",
+      "video": {
+        "youtube_id": "yhmcHod_lMY",
+        "title": "How I Give a Great Back Massage for Beginners",
+        "channel": "Galeano Massage"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Petrissage kneads the muscles to release tension.",
+        "Knead muscles like dough to release tension and improve circulation. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise kneading: kneading on a model or a practice head. Knead muscles like dough to release tension and improve circulation. Take a photo of your work.",
+      "challenge": "Do petrissage: kneading two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does petrissage do?",
+          "options": [
+            "Petrissage taps the skin lightly to wake the muscles.",
+            "Petrissage strokes the skin without touching the muscles.",
+            "Petrissage kneads the muscles to release tension.",
+            "Petrissage uses cold towels on the skin."
+          ],
+          "answer": 2,
+          "explain": "Petrissage kneads the muscles to release tension."
+        },
+        {
+          "q": "What do you place over the client for warmth and privacy?",
+          "options": [
+            "massage oil",
+            "massage table",
+            "hot towel",
+            "clean towels"
+          ],
+          "answer": 3,
+          "explain": "Clean towels keep the client warm and covered."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "use clean towels for every client",
+            "Use the same towel for every client.",
+            "Use a damp towel from the last client.",
+            "Skip towels and massage on the bare table."
+          ],
+          "answer": 0,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Friction and Pressure",
+      "goal": "By the end of today you can explain and practise: Use small circles with thumbs or knuckles on tight spots.",
+      "video": {
+        "youtube_id": "IHb_xhN137Y",
+        "title": "How to Give a Massage",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Friction uses small circles on tight, knotted areas.",
+        "Use small circles with thumbs or knuckles on tight spots. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise friction and pressure on a model or a practice head. Use small circles with thumbs or knuckles on tight spots. Take a photo of your work.",
+      "challenge": "Do friction and pressure two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What is friction used for?",
+          "options": [
+            "Friction uses long strokes on the whole back.",
+            "Friction uses fast slaps on the arms.",
+            "Friction uses light strokes on the face.",
+            "Friction uses small circles on tight, knotted areas."
+          ],
+          "answer": 3,
+          "explain": "Friction uses small circles on tight, knotted areas."
+        },
+        {
+          "q": "What does the client lie on during a massage?",
+          "options": [
+            "massage table",
+            "massage oil",
+            "clean towels",
+            "hot towel"
+          ],
+          "answer": 0,
+          "explain": "The client lies on a massage table during a massage."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "Massage broken skin anyway and hope it heals.",
+            "never massage broken skin or a fever",
+            "Massage a client with a fever to sweat it out.",
+            "Massage over a rash to soothe it."
+          ],
+          "answer": 1,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": {
+        "title": "Week 1 Project: Friction and Pressure",
+        "brief": "Practise everything from week 1: Use small circles with thumbs or knuckles on tight spots. Show the finished work and ask for feedback.",
+        "checks": [
+          "Follow the week's steps in order",
+          "Use clean, disinfected tools",
+          "Work slowly and check your work as you go",
+          "Take before-and-after photos",
+          "Ask a friend or model for honest feedback",
+          "Write down what to improve next week"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Week 1 Project: A 20-Minute Back Massage",
+      "goal": "By the end of today you can explain and practise: Give a full 20-minute back massage using effleurage and petrissage.",
+      "video": {
+        "youtube_id": "IHb_xhN137Y",
+        "title": "How to Give a Massage",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A back massage covers the whole back with smooth, even strokes.",
+        "Give a full 20-minute back massage using long, smooth strokes and kneading. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise week 1 project: a 20-minute back massage on a model or a practice head. Give a full 20-minute back massage using long, smooth strokes and kneading. Take a photo of your work.",
+      "challenge": "Do week 1 project: a 20-minute back massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does a good back massage cover?",
+          "options": [
+            "A back massage covers the whole back with smooth, even strokes.",
+            "A back massage covers only the shoulders.",
+            "A back massage covers only the lower back.",
+            "A back massage covers only one side of the back."
+          ],
+          "answer": 0,
+          "explain": "A back massage covers the whole back with smooth, even strokes."
+        },
+        {
+          "q": "What do you use warm on the skin at the end of a treatment?",
+          "options": [
+            "massage oil",
+            "hot towel",
+            "clean towels",
+            "massage table"
+          ],
+          "answer": 1,
+          "explain": "A hot towel finish relaxes the muscles at the end of a massage."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "Start massaging with no questions at all.",
+            "Guess where the client hurts.",
+            "ask about injuries before starting",
+            "Ask about the client's job and skip the injuries."
+          ],
+          "answer": 2,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Back Massage Step by Step",
+      "goal": "By the end of today you can explain and practise: Work from the lower back upward, both sides, then finish with long strokes.",
+      "video": {
+        "youtube_id": "H9OGpSGqNWk",
+        "title": "Shoulders and Back Massage Tutorial",
+        "channel": "Massageaholic"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Back massage works from the lower back upward.",
+        "Work from the lower back upward, both sides, then finish with long strokes. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise back massage step by step on a model or a practice head. Work from the lower back upward, both sides, then finish with long strokes. Take a photo of your work.",
+      "challenge": "Do back massage step by step two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "Which way do you work in a back massage?",
+          "options": [
+            "Back massage works from the upper back downward.",
+            "Back massage works from the lower back upward.",
+            "Back massage works from side to side only.",
+            "Back massage works in one spot only."
+          ],
+          "answer": 1,
+          "explain": "Back massage works from the lower back upward."
+        },
+        {
+          "q": "What helps your hands glide smoothly over the skin?",
+          "options": [
+            "clean towels",
+            "massage table",
+            "massage oil",
+            "hot towel"
+          ],
+          "answer": 2,
+          "explain": "Massage oil reduces friction so your hands glide smoothly."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "Use the same towel for every client.",
+            "Use a damp towel from the last client.",
+            "Skip towels and massage on the bare table.",
+            "use clean towels for every client"
+          ],
+          "answer": 3,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Neck and Shoulder Massage",
+      "goal": "By the end of today you can explain and practise: Use thumbs along the trapezius and slow circles at the base of the skull.",
+      "video": {
+        "youtube_id": "4ZjVQtww3_w",
+        "title": "Hands and Arms Massage Tutorial",
+        "channel": "Massageaholic"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Neck massage uses slow circles at the base of the skull.",
+        "Use thumbs along the big muscle between the neck and the shoulders and slow circles at the base of the skull. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise neck and shoulder massage on a model or a practice head. Use thumbs along the big muscle between the neck and the shoulders and slow circles at the base of the skull. Take a photo of your work.",
+      "challenge": "Do neck and shoulder massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "How do you massage the neck?",
+          "options": [
+            "Neck massage uses fast taps on the throat.",
+            "Neck massage uses hard pressure on the spine.",
+            "Neck massage uses slow circles at the base of the skull.",
+            "Neck massage uses pulling on the neck."
+          ],
+          "answer": 2,
+          "explain": "Neck massage uses slow circles at the base of the skull."
+        },
+        {
+          "q": "What do you place over the client for warmth and privacy?",
+          "options": [
+            "massage oil",
+            "massage table",
+            "hot towel",
+            "clean towels"
+          ],
+          "answer": 3,
+          "explain": "Clean towels keep the client warm and covered."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "never massage broken skin or a fever",
+            "Massage broken skin anyway and hope it heals.",
+            "Massage a client with a fever to sweat it out.",
+            "Massage over a rash to soothe it."
+          ],
+          "answer": 0,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Shoulder Tension Release",
+      "goal": "By the end of today you can explain and practise: Press and hold tight spots for 10 seconds, then release slowly.",
+      "video": {
+        "youtube_id": "XsJEQTFTKfY",
+        "title": "Feet and Legs Massage Tutorial",
+        "channel": "Massageaholic"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Holding pressure for 10 seconds releases a tight muscle.",
+        "Press and hold tight spots for 10 seconds, then release slowly. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise shoulder tension release on a model or a practice head. Press and hold tight spots for 10 seconds, then release slowly. Take a photo of your work.",
+      "challenge": "Do shoulder tension release two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "How long should you hold pressure to release a tight muscle?",
+          "options": [
+            "Hold pressure for 1 second to release a tight muscle.",
+            "Hold pressure for 60 seconds to release a tight muscle.",
+            "Pressing and letting go at once releases a tight muscle.",
+            "Holding pressure for 10 seconds releases a tight muscle."
+          ],
+          "answer": 3,
+          "explain": "Holding pressure for 10 seconds releases a tight muscle."
+        },
+        {
+          "q": "What does the client lie on during a massage?",
+          "options": [
+            "massage table",
+            "massage oil",
+            "clean towels",
+            "hot towel"
+          ],
+          "answer": 0,
+          "explain": "The client lies on a massage table during a massage."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "Start massaging with no questions at all.",
+            "ask about injuries before starting",
+            "Guess where the client hurts.",
+            "Ask about the client's job and skip the injuries."
+          ],
+          "answer": 1,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Arm and Hand Massage",
+      "goal": "By the end of today you can explain and practise: Massage the forearm, then each finger, and stretch the wrist gently.",
+      "video": {
+        "youtube_id": "kM1KKqbJYs0",
+        "title": "How to Give a Body Massage",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Hand massage includes each finger and a gentle wrist stretch.",
+        "Massage the forearm, then each finger, and stretch the wrist gently. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise arm and hand massage on a model or a practice head. Massage the forearm, then each finger, and stretch the wrist gently. Take a photo of your work.",
+      "challenge": "Do arm and hand massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does a hand massage include?",
+          "options": [
+            "Hand massage includes each finger and a gentle wrist stretch.",
+            "Hand massage includes only the palm.",
+            "Hand massage includes only the wrist.",
+            "Hand massage includes only the thumb."
+          ],
+          "answer": 0,
+          "explain": "Hand massage includes each finger and a gentle wrist stretch."
+        },
+        {
+          "q": "What do you use warm on the skin at the end of a treatment?",
+          "options": [
+            "massage oil",
+            "hot towel",
+            "clean towels",
+            "massage table"
+          ],
+          "answer": 1,
+          "explain": "A hot towel finish relaxes the muscles at the end of a massage."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "Use the same towel for every client.",
+            "Use a damp towel from the last client.",
+            "use clean towels for every client",
+            "Skip towels and massage on the bare table."
+          ],
+          "answer": 2,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Leg and Foot Massage",
+      "goal": "By the end of today you can explain and practise: Massage the calf upward, then the sole of the foot with thumbs.",
+      "video": {
+        "youtube_id": "_HNDNJDOcww",
+        "title": "Full Body Massage Therapy Techniques Part 6: Neck and Shoulders Massage",
+        "channel": "PsycheTruth"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Leg massage strokes go upward toward the heart.",
+        "Massage the calf upward, then the sole of the foot with thumbs. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise leg and foot massage on a model or a practice head. Massage the calf upward, then the sole of the foot with thumbs. Take a photo of your work.",
+      "challenge": "Do leg and foot massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "Which way do leg massage strokes go?",
+          "options": [
+            "Leg massage strokes go downward away from the heart.",
+            "Leg massage strokes go upward toward the heart.",
+            "Leg massage strokes go in circles around the knee only.",
+            "Leg massage strokes go across the shin only."
+          ],
+          "answer": 1,
+          "explain": "Leg massage strokes go upward toward the heart."
+        },
+        {
+          "q": "What helps your hands glide smoothly over the skin?",
+          "options": [
+            "clean towels",
+            "massage table",
+            "massage oil",
+            "hot towel"
+          ],
+          "answer": 2,
+          "explain": "Massage oil reduces friction so your hands glide smoothly."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "Massage broken skin anyway and hope it heals.",
+            "Massage a client with a fever to sweat it out.",
+            "Massage over a rash to soothe it.",
+            "never massage broken skin or a fever"
+          ],
+          "answer": 3,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Head Massage",
+      "goal": "By the end of today you can explain and practise: Use fingertips in slow circles over the scalp to ease tension.",
+      "video": {
+        "youtube_id": "5tSvtAo7s6c",
+        "title": "How to Give a Neck and Shoulder Massage",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Scalp massage uses slow fingertip circles.",
+        "Use fingertips in slow circles over the scalp to ease tension. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise head massage on a model or a practice head. Use fingertips in slow circles over the scalp to ease tension. Take a photo of your work.",
+      "challenge": "Do head massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "How do you massage the scalp?",
+          "options": [
+            "Scalp massage uses hard scratching with nails.",
+            "Scalp massage uses fast slapping on the head.",
+            "Scalp massage uses slow fingertip circles.",
+            "Scalp massage uses pulling the hair hard."
+          ],
+          "answer": 2,
+          "explain": "Scalp massage uses slow fingertip circles."
+        },
+        {
+          "q": "What do you place over the client for warmth and privacy?",
+          "options": [
+            "massage oil",
+            "massage table",
+            "hot towel",
+            "clean towels"
+          ],
+          "answer": 3,
+          "explain": "Clean towels keep the client warm and covered."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "ask about injuries before starting",
+            "Start massaging with no questions at all.",
+            "Guess where the client hurts.",
+            "Ask about the client's job and skip the injuries."
+          ],
+          "answer": 0,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": {
+        "title": "Week 2 Project: Head Massage",
+        "brief": "Practise everything from week 2: Use fingertips in slow circles over the scalp to ease tension. Show the finished work and ask for feedback.",
+        "checks": [
+          "Follow the week's steps in order",
+          "Use clean, disinfected tools",
+          "Work slowly and check your work as you go",
+          "Take before-and-after photos",
+          "Ask a friend or model for honest feedback",
+          "Write down what to improve next week"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Week 2 Project: A Full-Body Massage",
+      "goal": "By the end of today you can explain and practise: Give a 45-minute full-body massage from head to toe.",
+      "video": {
+        "youtube_id": "FPIRXQHYv8k",
+        "title": "Neck and Shoulder Massage with Light Pressure",
+        "channel": "Massage Tutorial"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A full-body massage covers back, legs, arms, neck and head.",
+        "Give a 45-minute full-body massage from head to toe. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise week 2 project: a full-body massage on a model or a practice head. Give a 45-minute full-body massage from head to toe. Take a photo of your work.",
+      "challenge": "Do week 2 project: a full-body massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does a full-body massage cover?",
+          "options": [
+            "A full-body massage covers only the back and legs.",
+            "A full-body massage covers only the arms and head.",
+            "A full-body massage covers only the neck.",
+            "A full-body massage covers back, legs, arms, neck and head."
+          ],
+          "answer": 3,
+          "explain": "A full-body massage covers back, legs, arms, neck and head."
+        },
+        {
+          "q": "What does the client lie on during a massage?",
+          "options": [
+            "massage table",
+            "massage oil",
+            "clean towels",
+            "hot towel"
+          ],
+          "answer": 0,
+          "explain": "The client lies on a massage table during a massage."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "Use the same towel for every client.",
+            "use clean towels for every client",
+            "Use a damp towel from the last client.",
+            "Skip towels and massage on the bare table."
+          ],
+          "answer": 1,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Swedish Massage",
+      "goal": "By the end of today you can explain and practise: Use long strokes, kneading and tapping for a relaxing full-body massage.",
+      "video": {
+        "youtube_id": "jIXQz3eT0NY",
+        "title": "How to Do a Swedish Massage at Home, Step by Step",
+        "channel": "Homespa Beauty"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Swedish massage is the classic relaxing full-body style.",
+        "Use long strokes, kneading and tapping for a relaxing full-body massage. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise swedish massage on a model or a practice head. Use long strokes, kneading and tapping for a relaxing full-body massage. Take a photo of your work.",
+      "challenge": "Do swedish massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What is Swedish massage?",
+          "options": [
+            "Swedish massage is the classic relaxing full-body style.",
+            "Swedish massage is a fast, painful sports style.",
+            "Swedish massage is a style done only on the feet.",
+            "Swedish massage is a style with no oil."
+          ],
+          "answer": 0,
+          "explain": "Swedish massage is the classic relaxing full-body style."
+        },
+        {
+          "q": "What do you use warm on the skin at the end of a treatment?",
+          "options": [
+            "massage oil",
+            "hot towel",
+            "clean towels",
+            "massage table"
+          ],
+          "answer": 1,
+          "explain": "A hot towel finish relaxes the muscles at the end of a massage."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "Massage broken skin anyway and hope it heals.",
+            "Massage a client with a fever to sweat it out.",
+            "never massage broken skin or a fever",
+            "Massage over a rash to soothe it."
+          ],
+          "answer": 2,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Deep Tissue Massage",
+      "goal": "By the end of today you can explain and practise: Use slow, firm pressure on deep muscle layers for chronic tension.",
+      "video": {
+        "youtube_id": "nHOG2IyGiS0",
+        "title": "How to Give a Back Massage",
+        "channel": "Aruna Heather"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Deep tissue massage uses slow, firm pressure on deep layers.",
+        "Use slow, firm pressure on deep muscle layers for chronic tension. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise deep tissue massage on a model or a practice head. Use slow, firm pressure on deep muscle layers for chronic tension. Take a photo of your work.",
+      "challenge": "Do deep tissue massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does deep tissue massage use?",
+          "options": [
+            "Deep tissue massage uses fast, light strokes on the skin.",
+            "Deep tissue massage uses slow, firm pressure on deep layers.",
+            "Deep tissue massage uses no pressure at all.",
+            "Deep tissue massage uses only the fingertips."
+          ],
+          "answer": 1,
+          "explain": "Deep tissue massage uses slow, firm pressure on deep layers."
+        },
+        {
+          "q": "What helps your hands glide smoothly over the skin?",
+          "options": [
+            "clean towels",
+            "massage table",
+            "massage oil",
+            "hot towel"
+          ],
+          "answer": 2,
+          "explain": "Massage oil reduces friction so your hands glide smoothly."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "Start massaging with no questions at all.",
+            "Guess where the client hurts.",
+            "Ask about the client's job and skip the injuries.",
+            "ask about injuries before starting"
+          ],
+          "answer": 3,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Lymphatic Drainage",
+      "goal": "By the end of today you can explain and practise: Use very light strokes toward the lymph nodes to reduce swelling.",
+      "video": {
+        "youtube_id": "I94cvb0Uzjo",
+        "title": "Spine Muscle Anatomy",
+        "channel": "Rebel Massage"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Lymphatic drainage uses very light strokes toward the nodes.",
+        "Use very light strokes toward the lymph nodes to reduce swelling. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise lymphatic drainage on a model or a practice head. Use very light strokes toward the lymph nodes to reduce swelling. Take a photo of your work.",
+      "challenge": "Do lymphatic drainage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "How does lymphatic drainage work?",
+          "options": [
+            "Lymphatic drainage uses hard pressure away from the nodes.",
+            "Lymphatic drainage uses deep kneading on the muscles.",
+            "Lymphatic drainage uses very light strokes toward the nodes.",
+            "Lymphatic drainage uses fast tapping on the skin."
+          ],
+          "answer": 2,
+          "explain": "Lymphatic drainage uses very light strokes toward the nodes."
+        },
+        {
+          "q": "What do you place over the client for warmth and privacy?",
+          "options": [
+            "massage oil",
+            "massage table",
+            "hot towel",
+            "clean towels"
+          ],
+          "answer": 3,
+          "explain": "Clean towels keep the client warm and covered."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "use clean towels for every client",
+            "Use the same towel for every client.",
+            "Use a damp towel from the last client.",
+            "Skip towels and massage on the bare table."
+          ],
+          "answer": 0,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Massage for Stress",
+      "goal": "By the end of today you can explain and practise: Keep strokes slow and rhythmic, and keep the room quiet for deep relaxation.",
+      "video": {
+        "youtube_id": "0SLGvlDVkRA",
+        "title": "Back Massage Instructional Video",
+        "channel": "Carrington College"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Slow, rhythmic strokes calm the nervous system.",
+        "Keep strokes slow and rhythmic, and keep the room quiet for deep relaxation. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise massage for stress on a model or a practice head. Keep strokes slow and rhythmic, and keep the room quiet for deep relaxation. Take a photo of your work.",
+      "challenge": "Do massage for stress two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What kind of strokes calm the nervous system?",
+          "options": [
+            "Fast, jerky strokes calm the nervous system.",
+            "Hard, pounding strokes calm the nervous system.",
+            "Short, sharp taps calm the nervous system.",
+            "Slow, rhythmic strokes calm the nervous system."
+          ],
+          "answer": 3,
+          "explain": "Slow, rhythmic strokes calm the nervous system."
+        },
+        {
+          "q": "What does the client lie on during a massage?",
+          "options": [
+            "massage table",
+            "massage oil",
+            "clean towels",
+            "hot towel"
+          ],
+          "answer": 0,
+          "explain": "The client lies on a massage table during a massage."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "Massage broken skin anyway and hope it heals.",
+            "never massage broken skin or a fever",
+            "Massage a client with a fever to sweat it out.",
+            "Massage over a rash to soothe it."
+          ],
+          "answer": 1,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Week 3 Project: A Relaxation Massage",
+      "goal": "By the end of today you can explain and practise: Give a 60-minute relaxation massage with music and aromatherapy.",
+      "video": {
+        "youtube_id": "1RGQxUIeO4g",
+        "title": "Full Body Massage Therapy Techniques: How to Give a Back Massage",
+        "channel": "PsycheTruth"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A relaxation massage is slow, rhythmic and calming.",
+        "Give a 60-minute relaxation massage with music and aromatherapy. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise week 3 project: a relaxation massage on a model or a practice head. Give a 60-minute relaxation massage with music and aromatherapy. Take a photo of your work.",
+      "challenge": "Do week 3 project: a relaxation massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "How would you describe a relaxation massage?",
+          "options": [
+            "A relaxation massage is slow, rhythmic and calming.",
+            "A relaxation massage is fast, hard and noisy.",
+            "A relaxation massage is quick and full of taps.",
+            "A relaxation massage is hard and painful."
+          ],
+          "answer": 0,
+          "explain": "A relaxation massage is slow, rhythmic and calming."
+        },
+        {
+          "q": "What do you use warm on the skin at the end of a treatment?",
+          "options": [
+            "massage oil",
+            "hot towel",
+            "clean towels",
+            "massage table"
+          ],
+          "answer": 1,
+          "explain": "A hot towel finish relaxes the muscles at the end of a massage."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "Start massaging with no questions at all.",
+            "Guess where the client hurts.",
+            "ask about injuries before starting",
+            "Ask about the client's job and skip the injuries."
+          ],
+          "answer": 2,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Aromatherapy Oils",
+      "goal": "By the end of today you can explain and practise: Use lavender for calm, peppermint for energy, and always dilute essential oils.",
+      "video": {
+        "youtube_id": "xp_Nc1of2l8",
+        "title": "How to Give Someone a Back Massage",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Essential oils must be diluted in a carrier oil before use.",
+        "Use lavender for calm, peppermint for energy, and always dilute essential oils. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise aromatherapy oils on a model or a practice head. Use lavender for calm, peppermint for energy, and always dilute essential oils. Take a photo of your work.",
+      "challenge": "Do aromatherapy oils two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What must you do with essential oils before use?",
+          "options": [
+            "Essential oils must be used neat, straight from the bottle.",
+            "Essential oils must be diluted in a carrier oil before use.",
+            "Essential oils must be heated before use.",
+            "Essential oils must be mixed with water only."
+          ],
+          "answer": 1,
+          "explain": "Essential oils must be diluted in a carrier oil before use."
+        },
+        {
+          "q": "What helps your hands glide smoothly over the skin?",
+          "options": [
+            "clean towels",
+            "massage table",
+            "massage oil",
+            "hot towel"
+          ],
+          "answer": 2,
+          "explain": "Massage oil reduces friction so your hands glide smoothly."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "Use the same towel for every client.",
+            "Use a damp towel from the last client.",
+            "Skip towels and massage on the bare table.",
+            "use clean towels for every client"
+          ],
+          "answer": 3,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": {
+        "title": "Week 3 Project: Aromatherapy Oils",
+        "brief": "Practise everything from week 3: Use lavender for calm, peppermint for energy, and always dilute essential oils. Show the finished work and ask for feedback.",
+        "checks": [
+          "Follow the week's steps in order",
+          "Use clean, disinfected tools",
+          "Work slowly and check your work as you go",
+          "Take before-and-after photos",
+          "Ask a friend or model for honest feedback",
+          "Write down what to improve next week"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Hot Towel Finish",
+      "goal": "By the end of today you can explain and practise: Warm a towel, lay it on the back, and let the heat relax the muscles.",
+      "video": {
+        "youtube_id": "yhmcHod_lMY",
+        "title": "How I Give a Great Back Massage for Beginners",
+        "channel": "Galeano Massage"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A hot towel finish relaxes muscles at the end of a massage.",
+        "Warm a towel, lay it on the back, and let the heat relax the muscles. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise hot towel finish on a model or a practice head. Warm a towel, lay it on the back, and let the heat relax the muscles. Take a photo of your work.",
+      "challenge": "Do hot towel finish two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does a hot towel finish do?",
+          "options": [
+            "A hot towel finish wakes the client up at the start.",
+            "A hot towel finish cools the muscles down fast.",
+            "A hot towel finish relaxes muscles at the end of a massage.",
+            "A hot towel finish is used before the massage begins."
+          ],
+          "answer": 2,
+          "explain": "A hot towel finish relaxes muscles at the end of a massage."
+        },
+        {
+          "q": "What do you place over the client for warmth and privacy?",
+          "options": [
+            "massage oil",
+            "massage table",
+            "hot towel",
+            "clean towels"
+          ],
+          "answer": 3,
+          "explain": "Clean towels keep the client warm and covered."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "never massage broken skin or a fever",
+            "Massage broken skin anyway and hope it heals.",
+            "Massage a client with a fever to sweat it out.",
+            "Massage over a rash to soothe it."
+          ],
+          "answer": 0,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Client Consultation",
+      "goal": "By the end of today you can explain and practise: Ask about pain, injuries, pregnancy and pressure preference before starting.",
+      "video": {
+        "youtube_id": "EyMHxPD_Zoo",
+        "title": "What to Expect For Your First Massage",
+        "channel": "HM Massage"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A massage consultation asks about injuries and pressure preference.",
+        "Ask about pain, injuries, pregnancy and pressure preference before starting. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise client consultation on a model or a practice head. Ask about pain, injuries, pregnancy and pressure preference before starting. Take a photo of your work.",
+      "challenge": "Do client consultation two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does a massage consultation ask about?",
+          "options": [
+            "A massage consultation asks about the client's favourite music only.",
+            "A massage consultation asks about the client's job only.",
+            "A massage consultation asks about the client's age only.",
+            "A massage consultation asks about injuries and pressure preference."
+          ],
+          "answer": 3,
+          "explain": "A massage consultation asks about injuries and pressure preference."
+        },
+        {
+          "q": "What does the client lie on during a massage?",
+          "options": [
+            "massage table",
+            "massage oil",
+            "clean towels",
+            "hot towel"
+          ],
+          "answer": 0,
+          "explain": "The client lies on a massage table during a massage."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "Start massaging with no questions at all.",
+            "ask about injuries before starting",
+            "Guess where the client hurts.",
+            "Ask about the client's job and skip the injuries."
+          ],
+          "answer": 1,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "When Not to Massage",
+      "goal": "By the end of today you can explain and practise: Never massage a client with a fever, a fracture, or a blood clot.",
+      "video": {
+        "youtube_id": "o7kSOW4Rzts",
+        "title": "Pathogens & Massage Therapy Precautions & Contraindications with Infectious Disease",
+        "channel": "CE Institute LLC"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A fever, fracture or blood clot means no massage.",
+        "Never massage a client with a fever, a fracture, or a blood clot. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise when not to massage on a model or a practice head. Never massage a client with a fever, a fracture, or a blood clot. Take a photo of your work.",
+      "challenge": "Do when not to massage two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "Which of these means you must not massage?",
+          "options": [
+            "A fever, fracture or blood clot means no massage.",
+            "A sore muscle means no massage.",
+            "Tired legs mean no massage.",
+            "Dry skin means no massage."
+          ],
+          "answer": 0,
+          "explain": "A fever, fracture or blood clot means no massage."
+        },
+        {
+          "q": "What do you use warm on the skin at the end of a treatment?",
+          "options": [
+            "massage oil",
+            "hot towel",
+            "clean towels",
+            "massage table"
+          ],
+          "answer": 1,
+          "explain": "A hot towel finish relaxes the muscles at the end of a massage."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "Use the same towel for every client.",
+            "Use a damp towel from the last client.",
+            "use clean towels for every client",
+            "Skip towels and massage on the bare table."
+          ],
+          "answer": 2,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Aftercare Advice",
+      "goal": "By the end of today you can explain and practise: Tell the client to drink water, rest, and expect mild soreness after deep work.",
+      "video": {
+        "youtube_id": "H9OGpSGqNWk",
+        "title": "Shoulders and Back Massage Tutorial",
+        "channel": "Massageaholic"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Drinking water after massage helps flush the muscles.",
+        "Tell the client to drink water, rest, and expect mild soreness after deep work. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise aftercare advice on a model or a practice head. Tell the client to drink water, rest, and expect mild soreness after deep work. Take a photo of your work.",
+      "challenge": "Do aftercare advice two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "Why should a client drink water after a massage?",
+          "options": [
+            "Drinking water after massage makes the muscles tight.",
+            "Drinking water after massage helps flush the muscles.",
+            "Drinking water after massage stops the massage working.",
+            "Drinking water after massage causes pain."
+          ],
+          "answer": 1,
+          "explain": "Drinking water after massage helps flush the muscles."
+        },
+        {
+          "q": "What helps your hands glide smoothly over the skin?",
+          "options": [
+            "clean towels",
+            "massage table",
+            "massage oil",
+            "hot towel"
+          ],
+          "answer": 2,
+          "explain": "Massage oil reduces friction so your hands glide smoothly."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "Massage broken skin anyway and hope it heals.",
+            "Massage a client with a fever to sweat it out.",
+            "Massage over a rash to soothe it.",
+            "never massage broken skin or a fever"
+          ],
+          "answer": 3,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Pricing Massage Services",
+      "goal": "By the end of today you can explain and practise: Charge by time, and offer packages for regular clients.",
+      "video": {
+        "youtube_id": "4ZjVQtww3_w",
+        "title": "Hands and Arms Massage Tutorial",
+        "channel": "Massageaholic"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Massage packages keep regular clients booking.",
+        "Charge by time, and offer packages for regular clients. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise pricing massage services on a model or a practice head. Charge by time, and offer packages for regular clients. Take a photo of your work.",
+      "challenge": "Do pricing massage services two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What keeps regular massage clients booking?",
+          "options": [
+            "One-off discounts keep regular clients booking.",
+            "Forgetting client names keeps regular clients booking.",
+            "Massage packages keep regular clients booking.",
+            "Raising prices every week keeps regular clients booking."
+          ],
+          "answer": 2,
+          "explain": "Massage packages keep regular clients booking."
+        },
+        {
+          "q": "What do you place over the client for warmth and privacy?",
+          "options": [
+            "massage oil",
+            "massage table",
+            "hot towel",
+            "clean towels"
+          ],
+          "answer": 3,
+          "explain": "Clean towels keep the client warm and covered."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "ask about injuries before starting",
+            "Start massaging with no questions at all.",
+            "Guess where the client hurts.",
+            "Ask about the client's job and skip the injuries."
+          ],
+          "answer": 0,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Massage Business Basics",
+      "goal": "By the end of today you can explain and practise: Keep a booking list, track client notes, and ask happy clients for referrals.",
+      "video": {
+        "youtube_id": "XsJEQTFTKfY",
+        "title": "Feet and Legs Massage Tutorial",
+        "channel": "Massageaholic"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Client notes help you remember pressure and problem areas.",
+        "Keep a booking list, track client notes, and ask happy clients for referrals. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise massage business basics on a model or a practice head. Keep a booking list, track client notes, and ask happy clients for referrals. Take a photo of your work.",
+      "challenge": "Do massage business basics two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "Why keep client notes?",
+          "options": [
+            "Client notes are only for new clients.",
+            "Client notes make you forget what worked.",
+            "Client notes are a waste of time.",
+            "Client notes help you remember pressure and problem areas."
+          ],
+          "answer": 3,
+          "explain": "Client notes help you remember pressure and problem areas."
+        },
+        {
+          "q": "What does the client lie on during a massage?",
+          "options": [
+            "massage table",
+            "massage oil",
+            "clean towels",
+            "hot towel"
+          ],
+          "answer": 0,
+          "explain": "The client lies on a massage table during a massage."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "Use the same towel for every client.",
+            "use clean towels for every client",
+            "Use a damp towel from the last client.",
+            "Skip towels and massage on the bare table."
+          ],
+          "answer": 1,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Building a Client Base",
+      "goal": "By the end of today you can explain and practise: Offer a first-session discount and ask clients to bring a friend.",
+      "video": {
+        "youtube_id": "kM1KKqbJYs0",
+        "title": "How to Give a Body Massage",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A first-session discount brings in new massage clients.",
+        "Offer a first-session discount and ask clients to bring a friend. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise building a client base on a model or a practice head. Offer a first-session discount and ask clients to bring a friend. Take a photo of your work.",
+      "challenge": "Do building a client base two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What brings in new massage clients?",
+          "options": [
+            "A first-session discount brings in new massage clients.",
+            "A high first-session price brings in new massage clients.",
+            "Hiding your prices brings in new massage clients.",
+            "Never offering discounts brings in new massage clients."
+          ],
+          "answer": 0,
+          "explain": "A first-session discount brings in new massage clients."
+        },
+        {
+          "q": "What do you use warm on the skin at the end of a treatment?",
+          "options": [
+            "massage oil",
+            "hot towel",
+            "clean towels",
+            "massage table"
+          ],
+          "answer": 1,
+          "explain": "A hot towel finish relaxes the muscles at the end of a massage."
+        },
+        {
+          "q": "When must you refuse a massage?",
+          "options": [
+            "Massage broken skin anyway and hope it heals.",
+            "Massage a client with a fever to sweat it out.",
+            "never massage broken skin or a fever",
+            "Massage over a rash to soothe it."
+          ],
+          "answer": 2,
+          "explain": "Never massage broken skin or a fever."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Self-Care for Therapists",
+      "goal": "By the end of today you can explain and practise: Stretch your hands, use your body weight, and rest between clients.",
+      "video": {
+        "youtube_id": "_HNDNJDOcww",
+        "title": "Full Body Massage Therapy Techniques Part 6: Neck and Shoulders Massage",
+        "channel": "PsycheTruth"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: Using body weight saves your hands during massage.",
+        "Stretch your hands, use your body weight, and rest between clients. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise self-care for therapists on a model or a practice head. Stretch your hands, use your body weight, and rest between clients. Take a photo of your work.",
+      "challenge": "Do self-care for therapists two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "How do you save your hands during massage?",
+          "options": [
+            "Using only your fingers saves your hands during massage.",
+            "Using body weight saves your hands during massage.",
+            "Pressing harder with your thumbs saves your hands.",
+            "Working with bent wrists saves your hands."
+          ],
+          "answer": 1,
+          "explain": "Using body weight saves your hands during massage."
+        },
+        {
+          "q": "What helps your hands glide smoothly over the skin?",
+          "options": [
+            "clean towels",
+            "massage table",
+            "massage oil",
+            "hot towel"
+          ],
+          "answer": 2,
+          "explain": "Massage oil reduces friction so your hands glide smoothly."
+        },
+        {
+          "q": "What should you do before you start a massage?",
+          "options": [
+            "Start massaging with no questions at all.",
+            "Guess where the client hurts.",
+            "Ask about the client's job and skip the injuries.",
+            "ask about injuries before starting"
+          ],
+          "answer": 3,
+          "explain": "You should always ask about injuries before starting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Week: A Paying Massage Client",
+      "goal": "By the end of today you can explain and practise: Give a full 60-minute massage to a paying client and collect feedback.",
+      "video": {
+        "youtube_id": "5tSvtAo7s6c",
+        "title": "How to Give a Neck and Shoulder Massage",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Get your tools ready: massage oil, clean towels and massage table.",
+        "Watch the video. It explains the main point in simple steps: A paying massage client covers consultation, massage and feedback.",
+        "Give a full 60-minute massage to a paying client and collect feedback. Go slowly. Practise on a model or a practice head.",
+        "Do the same move three times. Check your work in a mirror or a photo after each try.",
+        "Write down what went well, what was hard, and one thing to do better tomorrow."
+      ],
+      "task": "Practise capstone week: a paying massage client on a model or a practice head. Give a full 60-minute massage to a paying client and collect feedback. Take a photo of your work.",
+      "challenge": "Do capstone week: a paying massage client two times today. Make the second try neater than the first.",
+      "quiz": [
+        {
+          "q": "What does working with a paying massage client cover?",
+          "options": [
+            "A paying massage client covers only the massage.",
+            "A paying massage client covers only the feedback.",
+            "A paying massage client covers consultation, massage and feedback.",
+            "A paying massage client covers only the consultation."
+          ],
+          "answer": 2,
+          "explain": "A paying massage client covers consultation, massage and feedback."
+        },
+        {
+          "q": "What do you place over the client for warmth and privacy?",
+          "options": [
+            "massage oil",
+            "massage table",
+            "hot towel",
+            "clean towels"
+          ],
+          "answer": 3,
+          "explain": "Clean towels keep the client warm and covered."
+        },
+        {
+          "q": "What should you do with towels for each client?",
+          "options": [
+            "use clean towels for every client",
+            "Use the same towel for every client.",
+            "Use a damp towel from the last client.",
+            "Skip towels and massage on the bare table."
+          ],
+          "answer": 0,
+          "explain": "You should always use clean towels for every client."
+        }
+      ],
+      "project": null
     }
-   ],
-   "project": null
-  },
-  {
-   "day": 3,
-   "week": 1,
-   "title": "Hygiene and Safety",
-   "goal": "By the end of today you can explain and practise: Wash hands, use clean towels, and never massage broken skin or a fever.",
-   "video": {
-    "youtube_id": "0SLGvlDVkRA",
-    "title": "Back Massage Instructional Video",
-    "channel": "Carrington College"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Never massage broken skin, rashes or a feverish client.",
-    "Wash hands, use clean towels, and never massage broken skin or a fever. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise hygiene and safety on a model or a practice head. Wash hands, use clean towels, and never massage broken skin or a fever. Take a photo of your work.",
-   "challenge": "Do hygiene and safety two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on hygiene and safety?",
-     "options": [
-      "You never need to check your work until the very end.",
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service.",
-      "Never massage broken skin, rashes or a feverish client."
-     ],
-     "answer": 3,
-     "explain": "Never massage broken skin, rashes or a feverish client."
-    },
-    {
-     "q": "Which tool is most essential for hygiene and safety?",
-     "options": [
-      "massage table",
-      "clipper with guards",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 0,
-     "explain": "The massage table is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on hygiene and safety?",
-     "options": [
-      "disinfect your clippers between clients",
-      "use clean towels for every client",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 1,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 4,
-   "week": 1,
-   "title": "Setting Up the Room",
-   "goal": "By the end of today you can explain and practise: Warm the room, dim the light, play soft music, and keep towels within reach.",
-   "video": {
-    "youtube_id": "1RGQxUIeO4g",
-    "title": "Full Body Massage Therapy Techniques: How to Give a Back Massage",
-    "channel": "PsycheTruth"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A warm, calm room helps the client relax.",
-    "Warm the room, dim the light, play soft music, and keep towels within reach. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise setting up the room on a model or a practice head. Warm the room, dim the light, play soft music, and keep towels within reach. Take a photo of your work.",
-   "challenge": "Do setting up the room two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on setting up the room?",
-     "options": [
-      "A warm, calm room helps the client relax.",
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service.",
-      "You should always use the strongest product available."
-     ],
-     "answer": 0,
-     "explain": "A warm, calm room helps the client relax."
-    },
-    {
-     "q": "Which tool is most essential for setting up the room?",
-     "options": [
-      "clipper with guards",
-      "hot towel",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 1,
-     "explain": "The hot towel is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on setting up the room?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "never massage broken skin or a fever",
-      "check the client for cuts before starting"
-     ],
-     "answer": 2,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 5,
-   "week": 1,
-   "title": "Effleurage: Long Strokes",
-   "goal": "By the end of today you can explain and practise: Use long, gliding strokes with the palms to warm up the muscles.",
-   "video": {
-    "youtube_id": "xp_Nc1of2l8",
-    "title": "How to Give Someone a Back Massage",
-    "channel": "Howcast"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Effleurage uses long, gliding strokes to warm the muscles.",
-    "Use long, gliding strokes with the palms to warm up the muscles. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise long, smooth strokes: long strokes on a model or a practice head. Use long, gliding strokes with the palms to warm up the muscles. Take a photo of your work.",
-   "challenge": "Do effleurage: long strokes two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on effleurage: long strokes?",
-     "options": [
-      "The client's comfort does not matter during the service.",
-      "Effleurage uses long, gliding strokes to warm the muscles.",
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time."
-     ],
-     "answer": 1,
-     "explain": "Effleurage uses long, gliding strokes to warm the muscles."
-    },
-    {
-     "q": "Which tool is most essential for effleurage: long strokes?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "massage oil",
-      "foil shaver"
-     ],
-     "answer": 2,
-     "explain": "The massage oil is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on effleurage: long strokes?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting",
-      "ask about injuries before starting"
-     ],
-     "answer": 3,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 6,
-   "week": 1,
-   "title": "Petrissage: Kneading",
-   "goal": "By the end of today you can explain and practise: Knead muscles like dough to release tension and improve circulation.",
-   "video": {
-    "youtube_id": "yhmcHod_lMY",
-    "title": "How I Give a Great Back Massage for Beginners",
-    "channel": "Galeano Massage"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Petrissage kneads the muscles to release tension.",
-    "Knead muscles like dough to release tension and improve circulation. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise kneading: kneading on a model or a practice head. Knead muscles like dough to release tension and improve circulation. Take a photo of your work.",
-   "challenge": "Do petrissage: kneading two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on petrissage: kneading?",
-     "options": [
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time.",
-      "Petrissage kneads the muscles to release tension.",
-      "The best result comes from skipping the preparation step."
-     ],
-     "answer": 2,
-     "explain": "Petrissage kneads the muscles to release tension."
-    },
-    {
-     "q": "Which tool is most essential for petrissage: kneading?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "foil shaver",
-      "clean towels"
-     ],
-     "answer": 3,
-     "explain": "The clean towels is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on petrissage: kneading?",
-     "options": [
-      "use clean towels for every client",
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 0,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 7,
-   "week": 1,
-   "title": "Friction and Pressure",
-   "goal": "By the end of today you can explain and practise: Use small circles with thumbs or knuckles on tight spots.",
-   "video": {
-    "youtube_id": "IHb_xhN137Y",
-    "title": "How to Give a Massage",
-    "channel": "Howcast"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Friction uses small circles on tight, knotted areas.",
-    "Use small circles with thumbs or knuckles on tight spots. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise friction and pressure on a model or a practice head. Use small circles with thumbs or knuckles on tight spots. Take a photo of your work.",
-   "challenge": "Do friction and pressure two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on friction and pressure?",
-     "options": [
-      "You should rush through the technique to save time.",
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end.",
-      "Friction uses small circles on tight, knotted areas."
-     ],
-     "answer": 3,
-     "explain": "Friction uses small circles on tight, knotted areas."
-    },
-    {
-     "q": "Which tool is most essential for friction and pressure?",
-     "options": [
-      "massage table",
-      "clipper with guards",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 0,
-     "explain": "The massage table is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on friction and pressure?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never massage broken skin or a fever",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 1,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": {
-    "title": "Week 1 Project: Friction and Pressure",
-    "brief": "Practise everything from week 1: Use small circles with thumbs or knuckles on tight spots. Show the finished work and ask for feedback.",
-    "checks": [
-     "Follow the week's steps in order",
-     "Use clean, disinfected tools",
-     "Work slowly and check your work as you go",
-     "Take before-and-after photos",
-     "Ask a friend or model for honest feedback",
-     "Write down what to improve next week"
-    ]
-   }
-  },
-  {
-   "day": 8,
-   "week": 2,
-   "title": "Week 1 Project: A 20-Minute Back Massage",
-   "goal": "By the end of today you can explain and practise: Give a full 20-minute back massage using effleurage and petrissage.",
-   "video": {
-    "youtube_id": "IHb_xhN137Y",
-    "title": "How to Give a Massage",
-    "channel": "Howcast"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A back massage covers the whole back with smooth, even strokes.",
-    "Give a full 20-minute back massage using long, smooth strokes and kneading. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise week 1 project: a 20-minute back massage on a model or a practice head. Give a full 20-minute back massage using long, smooth strokes and kneading. Take a photo of your work.",
-   "challenge": "Do week 1 project: a 20-minute back massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on week 1 project: a 20-minute back massage?",
-     "options": [
-      "A back massage covers the whole back with smooth, even strokes.",
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end.",
-      "Using dirty tools gives the same result as clean ones."
-     ],
-     "answer": 0,
-     "explain": "A back massage covers the whole back with smooth, even strokes."
-    },
-    {
-     "q": "Which tool is most essential for week 1 project: a 20-minute back massage?",
-     "options": [
-      "clipper with guards",
-      "hot towel",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 1,
-     "explain": "The hot towel is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on week 1 project: a 20-minute back massage?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "ask about injuries before starting",
-      "check the client for cuts before starting"
-     ],
-     "answer": 2,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 9,
-   "week": 2,
-   "title": "Back Massage Step by Step",
-   "goal": "By the end of today you can explain and practise: Work from the lower back upward, both sides, then finish with long strokes.",
-   "video": {
-    "youtube_id": "H9OGpSGqNWk",
-    "title": "Shoulders and Back Massage Tutorial",
-    "channel": "Massageaholic"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Back massage works from the lower back upward.",
-    "Work from the lower back upward, both sides, then finish with long strokes. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise back massage step by step on a model or a practice head. Work from the lower back upward, both sides, then finish with long strokes. Take a photo of your work.",
-   "challenge": "Do back massage step by step two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on back massage step by step?",
-     "options": [
-      "You never need to check your work until the very end.",
-      "Back massage works from the lower back upward.",
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service."
-     ],
-     "answer": 1,
-     "explain": "Back massage works from the lower back upward."
-    },
-    {
-     "q": "Which tool is most essential for back massage step by step?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "massage oil",
-      "foil shaver"
-     ],
-     "answer": 2,
-     "explain": "The massage oil is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on back massage step by step?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting",
-      "use clean towels for every client"
-     ],
-     "answer": 3,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 10,
-   "week": 2,
-   "title": "Neck and Shoulder Massage",
-   "goal": "By the end of today you can explain and practise: Use thumbs along the trapezius and slow circles at the base of the skull.",
-   "video": {
-    "youtube_id": "4ZjVQtww3_w",
-    "title": "Hands and Arms Massage Tutorial",
-    "channel": "Massageaholic"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Neck massage uses slow circles at the base of the skull.",
-    "Use thumbs along the big muscle between the neck and the shoulders and slow circles at the base of the skull. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise neck and shoulder massage on a model or a practice head. Use thumbs along the big muscle between the neck and the shoulders and slow circles at the base of the skull. Take a photo of your work.",
-   "challenge": "Do neck and shoulder massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on neck and shoulder massage?",
-     "options": [
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service.",
-      "Neck massage uses slow circles at the base of the skull.",
-      "You should always use the strongest product available."
-     ],
-     "answer": 2,
-     "explain": "Neck massage uses slow circles at the base of the skull."
-    },
-    {
-     "q": "Which tool is most essential for neck and shoulder massage?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "foil shaver",
-      "clean towels"
-     ],
-     "answer": 3,
-     "explain": "The clean towels is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on neck and shoulder massage?",
-     "options": [
-      "never massage broken skin or a fever",
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 0,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 11,
-   "week": 2,
-   "title": "Shoulder Tension Release",
-   "goal": "By the end of today you can explain and practise: Press and hold tight spots for 10 seconds, then release slowly.",
-   "video": {
-    "youtube_id": "XsJEQTFTKfY",
-    "title": "Feet and Legs Massage Tutorial",
-    "channel": "Massageaholic"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Holding pressure for 10 seconds releases a tight muscle.",
-    "Press and hold tight spots for 10 seconds, then release slowly. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise shoulder tension release on a model or a practice head. Press and hold tight spots for 10 seconds, then release slowly. Take a photo of your work.",
-   "challenge": "Do shoulder tension release two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on shoulder tension release?",
-     "options": [
-      "The client's comfort does not matter during the service.",
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time.",
-      "Holding pressure for 10 seconds releases a tight muscle."
-     ],
-     "answer": 3,
-     "explain": "Holding pressure for 10 seconds releases a tight muscle."
-    },
-    {
-     "q": "Which tool is most essential for shoulder tension release?",
-     "options": [
-      "massage table",
-      "clipper with guards",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 0,
-     "explain": "The massage table is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on shoulder tension release?",
-     "options": [
-      "disinfect your clippers between clients",
-      "ask about injuries before starting",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 1,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 12,
-   "week": 2,
-   "title": "Arm and Hand Massage",
-   "goal": "By the end of today you can explain and practise: Massage the forearm, then each finger, and stretch the wrist gently.",
-   "video": {
-    "youtube_id": "kM1KKqbJYs0",
-    "title": "How to Give a Body Massage",
-    "channel": "Howcast"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Hand massage includes each finger and a gentle wrist stretch.",
-    "Massage the forearm, then each finger, and stretch the wrist gently. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise arm and hand massage on a model or a practice head. Massage the forearm, then each finger, and stretch the wrist gently. Take a photo of your work.",
-   "challenge": "Do arm and hand massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on arm and hand massage?",
-     "options": [
-      "Hand massage includes each finger and a gentle wrist stretch.",
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time.",
-      "The best result comes from skipping the preparation step."
-     ],
-     "answer": 0,
-     "explain": "Hand massage includes each finger and a gentle wrist stretch."
-    },
-    {
-     "q": "Which tool is most essential for arm and hand massage?",
-     "options": [
-      "clipper with guards",
-      "hot towel",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 1,
-     "explain": "The hot towel is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on arm and hand massage?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "use clean towels for every client",
-      "check the client for cuts before starting"
-     ],
-     "answer": 2,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 13,
-   "week": 2,
-   "title": "Leg and Foot Massage",
-   "goal": "By the end of today you can explain and practise: Massage the calf upward, then the sole of the foot with thumbs.",
-   "video": {
-    "youtube_id": "_HNDNJDOcww",
-    "title": "Full Body Massage Therapy Techniques Part 6: Neck and Shoulders Massage",
-    "channel": "PsycheTruth"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Leg massage strokes go upward toward the heart.",
-    "Massage the calf upward, then the sole of the foot with thumbs. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise leg and foot massage on a model or a practice head. Massage the calf upward, then the sole of the foot with thumbs. Take a photo of your work.",
-   "challenge": "Do leg and foot massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on leg and foot massage?",
-     "options": [
-      "You should rush through the technique to save time.",
-      "Leg massage strokes go upward toward the heart.",
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end."
-     ],
-     "answer": 1,
-     "explain": "Leg massage strokes go upward toward the heart."
-    },
-    {
-     "q": "Which tool is most essential for leg and foot massage?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "massage oil",
-      "foil shaver"
-     ],
-     "answer": 2,
-     "explain": "The massage oil is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on leg and foot massage?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting",
-      "never massage broken skin or a fever"
-     ],
-     "answer": 3,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 14,
-   "week": 2,
-   "title": "Head Massage",
-   "goal": "By the end of today you can explain and practise: Use fingertips in slow circles over the scalp to ease tension.",
-   "video": {
-    "youtube_id": "5tSvtAo7s6c",
-    "title": "How to Give a Neck and Shoulder Massage",
-    "channel": "Howcast"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Scalp massage uses slow fingertip circles.",
-    "Use fingertips in slow circles over the scalp to ease tension. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise head massage on a model or a practice head. Use fingertips in slow circles over the scalp to ease tension. Take a photo of your work.",
-   "challenge": "Do head massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on head massage?",
-     "options": [
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end.",
-      "Scalp massage uses slow fingertip circles.",
-      "Using dirty tools gives the same result as clean ones."
-     ],
-     "answer": 2,
-     "explain": "Scalp massage uses slow fingertip circles."
-    },
-    {
-     "q": "Which tool is most essential for head massage?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "foil shaver",
-      "clean towels"
-     ],
-     "answer": 3,
-     "explain": "The clean towels is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on head massage?",
-     "options": [
-      "ask about injuries before starting",
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 0,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": {
-    "title": "Week 2 Project: Head Massage",
-    "brief": "Practise everything from week 2: Use fingertips in slow circles over the scalp to ease tension. Show the finished work and ask for feedback.",
-    "checks": [
-     "Follow the week's steps in order",
-     "Use clean, disinfected tools",
-     "Work slowly and check your work as you go",
-     "Take before-and-after photos",
-     "Ask a friend or model for honest feedback",
-     "Write down what to improve next week"
-    ]
-   }
-  },
-  {
-   "day": 15,
-   "week": 3,
-   "title": "Week 2 Project: A Full-Body Massage",
-   "goal": "By the end of today you can explain and practise: Give a 45-minute full-body massage from head to toe.",
-   "video": {
-    "youtube_id": "FPIRXQHYv8k",
-    "title": "Neck and Shoulder Massage with Light Pressure",
-    "channel": "Massage Tutorial"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A full-body massage covers back, legs, arms, neck and head.",
-    "Give a 45-minute full-body massage from head to toe. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise week 2 project: a full-body massage on a model or a practice head. Give a 45-minute full-body massage from head to toe. Take a photo of your work.",
-   "challenge": "Do week 2 project: a full-body massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on week 2 project: a full-body massage?",
-     "options": [
-      "You never need to check your work until the very end.",
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service.",
-      "A full-body massage covers back, legs, arms, neck and head."
-     ],
-     "answer": 3,
-     "explain": "A full-body massage covers back, legs, arms, neck and head."
-    },
-    {
-     "q": "Which tool is most essential for week 2 project: a full-body massage?",
-     "options": [
-      "massage table",
-      "clipper with guards",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 0,
-     "explain": "The massage table is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on week 2 project: a full-body massage?",
-     "options": [
-      "disinfect your clippers between clients",
-      "use clean towels for every client",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 1,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 16,
-   "week": 3,
-   "title": "Swedish Massage",
-   "goal": "By the end of today you can explain and practise: Use long strokes, kneading and tapping for a relaxing full-body massage.",
-   "video": {
-    "youtube_id": "jIXQz3eT0NY",
-    "title": "How to Do a Swedish Massage at Home, Step by Step",
-    "channel": "Homespa Beauty"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Swedish massage is the classic relaxing full-body style.",
-    "Use long strokes, kneading and tapping for a relaxing full-body massage. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise swedish massage on a model or a practice head. Use long strokes, kneading and tapping for a relaxing full-body massage. Take a photo of your work.",
-   "challenge": "Do swedish massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on swedish massage?",
-     "options": [
-      "Swedish massage is the classic relaxing full-body style.",
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service.",
-      "You should always use the strongest product available."
-     ],
-     "answer": 0,
-     "explain": "Swedish massage is the classic relaxing full-body style."
-    },
-    {
-     "q": "Which tool is most essential for swedish massage?",
-     "options": [
-      "clipper with guards",
-      "hot towel",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 1,
-     "explain": "The hot towel is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on swedish massage?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "never massage broken skin or a fever",
-      "check the client for cuts before starting"
-     ],
-     "answer": 2,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 17,
-   "week": 3,
-   "title": "Deep Tissue Massage",
-   "goal": "By the end of today you can explain and practise: Use slow, firm pressure on deep muscle layers for chronic tension.",
-   "video": {
-    "youtube_id": "nHOG2IyGiS0",
-    "title": "How to Give a Back Massage",
-    "channel": "Aruna Heather"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Deep tissue massage uses slow, firm pressure on deep layers.",
-    "Use slow, firm pressure on deep muscle layers for chronic tension. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise deep tissue massage on a model or a practice head. Use slow, firm pressure on deep muscle layers for chronic tension. Take a photo of your work.",
-   "challenge": "Do deep tissue massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on deep tissue massage?",
-     "options": [
-      "The client's comfort does not matter during the service.",
-      "Deep tissue massage uses slow, firm pressure on deep layers.",
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time."
-     ],
-     "answer": 1,
-     "explain": "Deep tissue massage uses slow, firm pressure on deep layers."
-    },
-    {
-     "q": "Which tool is most essential for deep tissue massage?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "massage oil",
-      "foil shaver"
-     ],
-     "answer": 2,
-     "explain": "The massage oil is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on deep tissue massage?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting",
-      "ask about injuries before starting"
-     ],
-     "answer": 3,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 18,
-   "week": 3,
-   "title": "Lymphatic Drainage",
-   "goal": "By the end of today you can explain and practise: Use very light strokes toward the lymph nodes to reduce swelling.",
-   "video": {
-    "youtube_id": "I94cvb0Uzjo",
-    "title": "Spine Muscle Anatomy",
-    "channel": "Rebel Massage"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Lymphatic drainage uses very light strokes toward the nodes.",
-    "Use very light strokes toward the lymph nodes to reduce swelling. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise lymphatic drainage on a model or a practice head. Use very light strokes toward the lymph nodes to reduce swelling. Take a photo of your work.",
-   "challenge": "Do lymphatic drainage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on lymphatic drainage?",
-     "options": [
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time.",
-      "Lymphatic drainage uses very light strokes toward the nodes.",
-      "The best result comes from skipping the preparation step."
-     ],
-     "answer": 2,
-     "explain": "Lymphatic drainage uses very light strokes toward the nodes."
-    },
-    {
-     "q": "Which tool is most essential for lymphatic drainage?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "foil shaver",
-      "clean towels"
-     ],
-     "answer": 3,
-     "explain": "The clean towels is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on lymphatic drainage?",
-     "options": [
-      "use clean towels for every client",
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 0,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 19,
-   "week": 3,
-   "title": "Massage for Stress",
-   "goal": "By the end of today you can explain and practise: Keep strokes slow and rhythmic, and keep the room quiet for deep relaxation.",
-   "video": {
-    "youtube_id": "0SLGvlDVkRA",
-    "title": "Back Massage Instructional Video",
-    "channel": "Carrington College"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Slow, rhythmic strokes calm the nervous system.",
-    "Keep strokes slow and rhythmic, and keep the room quiet for deep relaxation. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise massage for stress on a model or a practice head. Keep strokes slow and rhythmic, and keep the room quiet for deep relaxation. Take a photo of your work.",
-   "challenge": "Do massage for stress two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on massage for stress?",
-     "options": [
-      "You should rush through the technique to save time.",
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end.",
-      "Slow, rhythmic strokes calm the nervous system."
-     ],
-     "answer": 3,
-     "explain": "Slow, rhythmic strokes calm the nervous system."
-    },
-    {
-     "q": "Which tool is most essential for massage for stress?",
-     "options": [
-      "massage table",
-      "clipper with guards",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 0,
-     "explain": "The massage table is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on massage for stress?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never massage broken skin or a fever",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 1,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 20,
-   "week": 3,
-   "title": "Week 3 Project: A Relaxation Massage",
-   "goal": "By the end of today you can explain and practise: Give a 60-minute relaxation massage with music and aromatherapy.",
-   "video": {
-    "youtube_id": "1RGQxUIeO4g",
-    "title": "Full Body Massage Therapy Techniques: How to Give a Back Massage",
-    "channel": "PsycheTruth"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A relaxation massage is slow, rhythmic and calming.",
-    "Give a 60-minute relaxation massage with music and aromatherapy. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise week 3 project: a relaxation massage on a model or a practice head. Give a 60-minute relaxation massage with music and aromatherapy. Take a photo of your work.",
-   "challenge": "Do week 3 project: a relaxation massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on week 3 project: a relaxation massage?",
-     "options": [
-      "A relaxation massage is slow, rhythmic and calming.",
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end.",
-      "Using dirty tools gives the same result as clean ones."
-     ],
-     "answer": 0,
-     "explain": "A relaxation massage is slow, rhythmic and calming."
-    },
-    {
-     "q": "Which tool is most essential for week 3 project: a relaxation massage?",
-     "options": [
-      "clipper with guards",
-      "hot towel",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 1,
-     "explain": "The hot towel is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on week 3 project: a relaxation massage?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "ask about injuries before starting",
-      "check the client for cuts before starting"
-     ],
-     "answer": 2,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 21,
-   "week": 3,
-   "title": "Aromatherapy Oils",
-   "goal": "By the end of today you can explain and practise: Use lavender for calm, peppermint for energy, and always dilute essential oils.",
-   "video": {
-    "youtube_id": "xp_Nc1of2l8",
-    "title": "How to Give Someone a Back Massage",
-    "channel": "Howcast"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Essential oils must be diluted in a carrier oil before use.",
-    "Use lavender for calm, peppermint for energy, and always dilute essential oils. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise aromatherapy oils on a model or a practice head. Use lavender for calm, peppermint for energy, and always dilute essential oils. Take a photo of your work.",
-   "challenge": "Do aromatherapy oils two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on aromatherapy oils?",
-     "options": [
-      "You never need to check your work until the very end.",
-      "Essential oils must be diluted in a carrier oil before use.",
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service."
-     ],
-     "answer": 1,
-     "explain": "Essential oils must be diluted in a carrier oil before use."
-    },
-    {
-     "q": "Which tool is most essential for aromatherapy oils?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "massage oil",
-      "foil shaver"
-     ],
-     "answer": 2,
-     "explain": "The massage oil is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on aromatherapy oils?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting",
-      "use clean towels for every client"
-     ],
-     "answer": 3,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": {
-    "title": "Week 3 Project: Aromatherapy Oils",
-    "brief": "Practise everything from week 3: Use lavender for calm, peppermint for energy, and always dilute essential oils. Show the finished work and ask for feedback.",
-    "checks": [
-     "Follow the week's steps in order",
-     "Use clean, disinfected tools",
-     "Work slowly and check your work as you go",
-     "Take before-and-after photos",
-     "Ask a friend or model for honest feedback",
-     "Write down what to improve next week"
-    ]
-   }
-  },
-  {
-   "day": 22,
-   "week": 4,
-   "title": "Hot Towel Finish",
-   "goal": "By the end of today you can explain and practise: Warm a towel, lay it on the back, and let the heat relax the muscles.",
-   "video": {
-    "youtube_id": "yhmcHod_lMY",
-    "title": "How I Give a Great Back Massage for Beginners",
-    "channel": "Galeano Massage"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A hot towel finish relaxes muscles at the end of a massage.",
-    "Warm a towel, lay it on the back, and let the heat relax the muscles. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise hot towel finish on a model or a practice head. Warm a towel, lay it on the back, and let the heat relax the muscles. Take a photo of your work.",
-   "challenge": "Do hot towel finish two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on hot towel finish?",
-     "options": [
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service.",
-      "A hot towel finish relaxes muscles at the end of a massage.",
-      "You should always use the strongest product available."
-     ],
-     "answer": 2,
-     "explain": "A hot towel finish relaxes muscles at the end of a massage."
-    },
-    {
-     "q": "Which tool is most essential for hot towel finish?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "foil shaver",
-      "clean towels"
-     ],
-     "answer": 3,
-     "explain": "The clean towels is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on hot towel finish?",
-     "options": [
-      "never massage broken skin or a fever",
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 0,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 23,
-   "week": 4,
-   "title": "Client Consultation",
-   "goal": "By the end of today you can explain and practise: Ask about pain, injuries, pregnancy and pressure preference before starting.",
-   "video": {
-    "youtube_id": "EyMHxPD_Zoo",
-    "title": "What to Expect For Your First Massage",
-    "channel": "HM Massage"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A massage consultation asks about injuries and pressure preference.",
-    "Ask about pain, injuries, pregnancy and pressure preference before starting. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise client consultation on a model or a practice head. Ask about pain, injuries, pregnancy and pressure preference before starting. Take a photo of your work.",
-   "challenge": "Do client consultation two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on client consultation?",
-     "options": [
-      "The client's comfort does not matter during the service.",
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time.",
-      "A massage consultation asks about injuries and pressure preference."
-     ],
-     "answer": 3,
-     "explain": "A massage consultation asks about injuries and pressure preference."
-    },
-    {
-     "q": "Which tool is most essential for client consultation?",
-     "options": [
-      "massage table",
-      "clipper with guards",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 0,
-     "explain": "The massage table is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on client consultation?",
-     "options": [
-      "disinfect your clippers between clients",
-      "ask about injuries before starting",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 1,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 24,
-   "week": 4,
-   "title": "When Not to Massage",
-   "goal": "By the end of today you can explain and practise: Never massage a client with a fever, a fracture, or a blood clot.",
-   "video": {
-    "youtube_id": "o7kSOW4Rzts",
-    "title": "Pathogens & Massage Therapy Precautions & Contraindications with Infectious Disease",
-    "channel": "CE Institute LLC"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A fever, fracture or blood clot means no massage.",
-    "Never massage a client with a fever, a fracture, or a blood clot. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise when not to massage on a model or a practice head. Never massage a client with a fever, a fracture, or a blood clot. Take a photo of your work.",
-   "challenge": "Do when not to massage two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on when not to massage?",
-     "options": [
-      "A fever, fracture or blood clot means no massage.",
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time.",
-      "The best result comes from skipping the preparation step."
-     ],
-     "answer": 0,
-     "explain": "A fever, fracture or blood clot means no massage."
-    },
-    {
-     "q": "Which tool is most essential for when not to massage?",
-     "options": [
-      "clipper with guards",
-      "hot towel",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 1,
-     "explain": "The hot towel is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on when not to massage?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "use clean towels for every client",
-      "check the client for cuts before starting"
-     ],
-     "answer": 2,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 25,
-   "week": 4,
-   "title": "Aftercare Advice",
-   "goal": "By the end of today you can explain and practise: Tell the client to drink water, rest, and expect mild soreness after deep work.",
-   "video": {
-    "youtube_id": "H9OGpSGqNWk",
-    "title": "Shoulders and Back Massage Tutorial",
-    "channel": "Massageaholic"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Drinking water after massage helps flush the muscles.",
-    "Tell the client to drink water, rest, and expect mild soreness after deep work. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise aftercare advice on a model or a practice head. Tell the client to drink water, rest, and expect mild soreness after deep work. Take a photo of your work.",
-   "challenge": "Do aftercare advice two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on aftercare advice?",
-     "options": [
-      "You should rush through the technique to save time.",
-      "Drinking water after massage helps flush the muscles.",
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end."
-     ],
-     "answer": 1,
-     "explain": "Drinking water after massage helps flush the muscles."
-    },
-    {
-     "q": "Which tool is most essential for aftercare advice?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "massage oil",
-      "foil shaver"
-     ],
-     "answer": 2,
-     "explain": "The massage oil is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on aftercare advice?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting",
-      "never massage broken skin or a fever"
-     ],
-     "answer": 3,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 26,
-   "week": 4,
-   "title": "Pricing Massage Services",
-   "goal": "By the end of today you can explain and practise: Charge by time, and offer packages for regular clients.",
-   "video": {
-    "youtube_id": "4ZjVQtww3_w",
-    "title": "Hands and Arms Massage Tutorial",
-    "channel": "Massageaholic"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Massage packages keep regular clients booking.",
-    "Charge by time, and offer packages for regular clients. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise pricing massage services on a model or a practice head. Charge by time, and offer packages for regular clients. Take a photo of your work.",
-   "challenge": "Do pricing massage services two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on pricing massage services?",
-     "options": [
-      "The best result comes from skipping the preparation step.",
-      "You never need to check your work until the very end.",
-      "Massage packages keep regular clients booking.",
-      "Using dirty tools gives the same result as clean ones."
-     ],
-     "answer": 2,
-     "explain": "Massage packages keep regular clients booking."
-    },
-    {
-     "q": "Which tool is most essential for pricing massage services?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "foil shaver",
-      "clean towels"
-     ],
-     "answer": 3,
-     "explain": "The clean towels is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on pricing massage services?",
-     "options": [
-      "ask about injuries before starting",
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 0,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 27,
-   "week": 4,
-   "title": "Massage Business Basics",
-   "goal": "By the end of today you can explain and practise: Keep a booking list, track client notes, and ask happy clients for referrals.",
-   "video": {
-    "youtube_id": "XsJEQTFTKfY",
-    "title": "Feet and Legs Massage Tutorial",
-    "channel": "Massageaholic"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Client notes help you remember pressure and problem areas.",
-    "Keep a booking list, track client notes, and ask happy clients for referrals. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise massage business basics on a model or a practice head. Keep a booking list, track client notes, and ask happy clients for referrals. Take a photo of your work.",
-   "challenge": "Do massage business basics two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on massage business basics?",
-     "options": [
-      "You never need to check your work until the very end.",
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service.",
-      "Client notes help you remember pressure and problem areas."
-     ],
-     "answer": 3,
-     "explain": "Client notes help you remember pressure and problem areas."
-    },
-    {
-     "q": "Which tool is most essential for massage business basics?",
-     "options": [
-      "massage table",
-      "clipper with guards",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 0,
-     "explain": "The massage table is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on massage business basics?",
-     "options": [
-      "disinfect your clippers between clients",
-      "use clean towels for every client",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 1,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 28,
-   "week": 4,
-   "title": "Building a Client Base",
-   "goal": "By the end of today you can explain and practise: Offer a first-session discount and ask clients to bring a friend.",
-   "video": {
-    "youtube_id": "kM1KKqbJYs0",
-    "title": "How to Give a Body Massage",
-    "channel": "Howcast"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A first-session discount brings in new massage clients.",
-    "Offer a first-session discount and ask clients to bring a friend. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise building a client base on a model or a practice head. Offer a first-session discount and ask clients to bring a friend. Take a photo of your work.",
-   "challenge": "Do building a client base two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on building a client base?",
-     "options": [
-      "A first-session discount brings in new massage clients.",
-      "Using dirty tools gives the same result as clean ones.",
-      "The client's comfort does not matter during the service.",
-      "You should always use the strongest product available."
-     ],
-     "answer": 0,
-     "explain": "A first-session discount brings in new massage clients."
-    },
-    {
-     "q": "Which tool is most essential for building a client base?",
-     "options": [
-      "clipper with guards",
-      "hot towel",
-      "trimmer",
-      "foil shaver"
-     ],
-     "answer": 1,
-     "explain": "The hot towel is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on building a client base?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "never massage broken skin or a fever",
-      "check the client for cuts before starting"
-     ],
-     "answer": 2,
-     "explain": "Never massage broken skin or a fever."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 29,
-   "week": 5,
-   "title": "Self-Care for Therapists",
-   "goal": "By the end of today you can explain and practise: Stretch your hands, use your body weight, and rest between clients.",
-   "video": {
-    "youtube_id": "_HNDNJDOcww",
-    "title": "Full Body Massage Therapy Techniques Part 6: Neck and Shoulders Massage",
-    "channel": "PsycheTruth"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: Using body weight saves your hands during massage.",
-    "Stretch your hands, use your body weight, and rest between clients. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise self-care for therapists on a model or a practice head. Stretch your hands, use your body weight, and rest between clients. Take a photo of your work.",
-   "challenge": "Do self-care for therapists two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on self-care for therapists?",
-     "options": [
-      "The client's comfort does not matter during the service.",
-      "Using body weight saves your hands during massage.",
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time."
-     ],
-     "answer": 1,
-     "explain": "Using body weight saves your hands during massage."
-    },
-    {
-     "q": "Which tool is most essential for self-care for therapists?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "massage oil",
-      "foil shaver"
-     ],
-     "answer": 2,
-     "explain": "The massage oil is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on self-care for therapists?",
-     "options": [
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting",
-      "ask about injuries before starting"
-     ],
-     "answer": 3,
-     "explain": "You should always ask about injuries before starting."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 30,
-   "week": 5,
-   "title": "Capstone Week: A Paying Massage Client",
-   "goal": "By the end of today you can explain and practise: Give a full 60-minute massage to a paying client and collect feedback.",
-   "video": {
-    "youtube_id": "5tSvtAo7s6c",
-    "title": "How to Give a Neck and Shoulder Massage",
-    "channel": "Howcast"
-   },
-   "steps": [
-    "Get your tools ready: massage oil, clean towels and massage table.",
-    "Watch the video. It explains the main point in simple steps: A paying massage client covers consultation, massage and feedback.",
-    "Give a full 60-minute massage to a paying client and collect feedback. Go slowly. Practise on a model or a practice head.",
-    "Do the same move three times. Check your work in a mirror or a photo after each try.",
-    "Write down what went well, what was hard, and one thing to do better tomorrow."
-   ],
-   "task": "Practise capstone week: a paying massage client on a model or a practice head. Give a full 60-minute massage to a paying client and collect feedback. Take a photo of your work.",
-   "challenge": "Do capstone week: a paying massage client two times today. Make the second try neater than the first.",
-   "quiz": [
-    {
-     "q": "What is the key point of today's lesson on capstone week: a paying massage client?",
-     "options": [
-      "You should always use the strongest product available.",
-      "You should rush through the technique to save time.",
-      "A paying massage client covers consultation, massage and feedback.",
-      "The best result comes from skipping the preparation step."
-     ],
-     "answer": 2,
-     "explain": "A paying massage client covers consultation, massage and feedback."
-    },
-    {
-     "q": "Which tool is most essential for capstone week: a paying massage client?",
-     "options": [
-      "clipper with guards",
-      "trimmer",
-      "foil shaver",
-      "clean towels"
-     ],
-     "answer": 3,
-     "explain": "The clean towels is the essential tool for this work."
-    },
-    {
-     "q": "What should you always do when working on capstone week: a paying massage client?",
-     "options": [
-      "use clean towels for every client",
-      "disinfect your clippers between clients",
-      "never cut broken skin",
-      "check the client for cuts before starting"
-     ],
-     "answer": 0,
-     "explain": "You should always use clean towels for every client."
-    }
-   ],
-   "project": null
-  }
- ],
- "capstone": {
-  "title": "A Paying Massage Client",
-  "brief": "Give a full 60-minute massage to a paying client and collect feedback.",
-  "checks": [
-   "Consult the client about pain and pressure",
-   "Set up a warm, calm room",
-   "Give a full 60-minute massage",
-   "Use the right techniques for each area",
-   "Finish with aftercare advice",
-   "Collect written feedback",
-   "Rebook the client"
   ],
-  "deliverables": [
-   "A consultation record",
-   "A session plan for the massage",
-   "Written client feedback",
-   "An aftercare advice card",
-   "A price list for massage sessions"
-  ]
- }
+  "capstone": {
+    "title": "A Paying Massage Client",
+    "brief": "Give a full 60-minute massage to a paying client and collect feedback.",
+    "checks": [
+      "Consult the client about pain and pressure",
+      "Set up a warm, calm room",
+      "Give a full 60-minute massage",
+      "Use the right techniques for each area",
+      "Finish with aftercare advice",
+      "Collect written feedback",
+      "Rebook the client"
+    ],
+    "deliverables": [
+      "A consultation record",
+      "A session plan for the massage",
+      "Written client feedback",
+      "An aftercare advice card",
+      "A price list for massage sessions"
+    ]
+  }
 }

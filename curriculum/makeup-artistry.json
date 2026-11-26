@@ -28,33 +28,33 @@
       "challenge": "Do welcome to makeup artistry two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to makeup artistry?",
+          "q": "What does a damp beauty sponge do to foundation?",
           "options": [
-            "You should rush through the technique to save time.",
+            "A dry beauty sponge blends foundation seamlessly.",
             "A damp beauty sponge blends foundation seamlessly.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "A damp beauty sponge leaves foundation streaky.",
+            "A damp beauty sponge removes foundation from the skin."
           ],
           "answer": 1,
           "explain": "A damp beauty sponge blends foundation seamlessly."
         },
         {
-          "q": "Which tool is most essential for welcome to makeup artistry?",
+          "q": "Which tool blends foundation smoothly onto the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foundation brush",
+            "eyeshadow brush",
             "beauty sponge",
-            "foil shaver"
+            "setting spray"
           ],
           "answer": 2,
-          "explain": "The beauty sponge is the essential tool for this work."
+          "explain": "A beauty sponge blends foundation smoothly onto the skin."
         },
         {
-          "q": "What should you always do when working on welcome to makeup artistry?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Dip the same wand back into the tube after using it.",
+            "Share one wand between two clients.",
+            "Put a used wand back in the tube for later.",
             "never double-dip mascara wands"
           ],
           "answer": 3,
@@ -84,34 +84,34 @@
       "challenge": "Do hygiene and brush care two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hygiene and brush care?",
+          "q": "What must you never do with a mascara wand?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Use a clean wand for each client.",
+            "Throw the wand away after one use.",
             "Mascara wands must never be double-dipped into the tube.",
-            "Using dirty tools gives the same result as clean ones."
+            "Wipe the wand on a tissue before dipping it."
           ],
           "answer": 2,
           "explain": "Mascara wands must never be double-dipped into the tube."
         },
         {
-          "q": "Which tool is most essential for hygiene and brush care?",
+          "q": "Which brush paints foundation onto the face?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "beauty sponge",
+            "eyeshadow brush",
+            "setting spray",
             "foundation brush"
           ],
           "answer": 3,
-          "explain": "The foundation brush is the essential tool for this work."
+          "explain": "A foundation brush paints foundation onto the face."
         },
         {
-          "q": "What should you always do when working on hygiene and brush care?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
             "wash brushes regularly",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Never wash your brushes.",
+            "Share dirty brushes between clients.",
+            "Use the same brush for weeks without cleaning it."
           ],
           "answer": 0,
           "explain": "You should always wash brushes regularly."
@@ -140,34 +140,34 @@
       "challenge": "Do skin prep two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on skin prep?",
+          "q": "What does primer do for your makeup?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Primer makes makeup slide off faster.",
+            "Primer replaces foundation completely.",
+            "Primer dries the skin out.",
             "Primer creates a smooth base and helps makeup last."
           ],
           "answer": 3,
           "explain": "Primer creates a smooth base and helps makeup last."
         },
         {
-          "q": "Which tool is most essential for skin prep?",
+          "q": "Which brush puts colour on the eyelids?",
           "options": [
             "eyeshadow brush",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "beauty sponge",
+            "foundation brush",
+            "setting spray"
           ],
           "answer": 0,
-          "explain": "The eyeshadow brush is the essential tool for this work."
+          "explain": "An eyeshadow brush puts colour on the eyelids."
         },
         {
-          "q": "What should you always do when working on skin prep?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
-            "disinfect your clippers between clients",
+            "Apply the new product all over the face at once.",
             "patch test new products on sensitive skin",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Skip the test and hope the skin is fine.",
+            "Use the strongest product with no test."
           ],
           "answer": 1,
           "explain": "You should always patch test new products on sensitive skin."
@@ -196,34 +196,34 @@
       "challenge": "Do finding the right foundation two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on finding the right foundation?",
+          "q": "Where should you match foundation, and in what light?",
           "options": [
             "Foundation should be matched on the jawline in daylight.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Match foundation on the wrist under indoor light.",
+            "Match foundation on the back of your hand in sunlight.",
+            "Match foundation on the forehead at night."
           ],
           "answer": 0,
           "explain": "Foundation should be matched on the jawline in daylight."
         },
         {
-          "q": "Which tool is most essential for finding the right foundation?",
+          "q": "What do you spray on last to help makeup stay in place?",
           "options": [
-            "clipper with guards",
+            "beauty sponge",
             "setting spray",
-            "trimmer",
-            "foil shaver"
+            "foundation brush",
+            "eyeshadow brush"
           ],
           "answer": 1,
-          "explain": "The setting spray is the essential tool for this work."
+          "explain": "Setting spray helps makeup stay in place."
         },
         {
-          "q": "What should you always do when working on finding the right foundation?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Dip the same wand back into the tube after using it.",
+            "Share one wand between two clients.",
             "never double-dip mascara wands",
-            "check the client for cuts before starting"
+            "Put a used wand back in the tube for later."
           ],
           "answer": 2,
           "explain": "Never double-dip mascara wands."
@@ -252,33 +252,33 @@
       "challenge": "Do applying foundation two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on applying foundation?",
+          "q": "How should you apply foundation for a natural look?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "One thick layer of foundation looks most natural.",
             "Thin layers of foundation look more natural than one thick layer.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Foundation should be applied in one thick layer to cover everything.",
+            "Foundation looks natural only when you skip it."
           ],
           "answer": 1,
           "explain": "Thin layers of foundation look more natural than one thick layer."
         },
         {
-          "q": "Which tool is most essential for applying foundation?",
+          "q": "Which tool blends foundation smoothly onto the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foundation brush",
+            "eyeshadow brush",
             "beauty sponge",
-            "foil shaver"
+            "setting spray"
           ],
           "answer": 2,
-          "explain": "The beauty sponge is the essential tool for this work."
+          "explain": "A beauty sponge blends foundation smoothly onto the skin."
         },
         {
-          "q": "What should you always do when working on applying foundation?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Never wash your brushes.",
+            "Share dirty brushes between clients.",
+            "Use the same brush for weeks without cleaning it.",
             "wash brushes regularly"
           ],
           "answer": 3,
@@ -308,34 +308,34 @@
       "challenge": "Do concealer and colour correction two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on concealer and colour correction?",
+          "q": "What does a peach corrector do?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Peach corrector makes dark circles darker.",
+            "Peach corrector makes dark circles stand out more.",
             "Peach corrector neutralises dark circles under the eyes.",
-            "The best result comes from skipping the preparation step."
+            "Peach corrector covers the whole face."
           ],
           "answer": 2,
           "explain": "Peach corrector neutralises dark circles under the eyes."
         },
         {
-          "q": "Which tool is most essential for concealer and colour correction?",
+          "q": "Which brush paints foundation onto the face?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "beauty sponge",
+            "eyeshadow brush",
+            "setting spray",
             "foundation brush"
           ],
           "answer": 3,
-          "explain": "The foundation brush is the essential tool for this work."
+          "explain": "A foundation brush paints foundation onto the face."
         },
         {
-          "q": "What should you always do when working on concealer and colour correction?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
             "patch test new products on sensitive skin",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Apply the new product all over the face at once.",
+            "Skip the test and hope the skin is fine.",
+            "Use the strongest product with no test."
           ],
           "answer": 0,
           "explain": "You should always patch test new products on sensitive skin."
@@ -364,34 +364,34 @@
       "challenge": "Do setting with powder two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on setting with powder?",
+          "q": "What stops concealer from creasing under the eyes?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "More concealer under the eyes stops it from creasing.",
+            "Setting spray under the eyes stops concealer from creasing.",
+            "Blush under the eyes stops concealer from creasing.",
             "Powder under the eyes stops concealer from creasing."
           ],
           "answer": 3,
           "explain": "Powder under the eyes stops concealer from creasing."
         },
         {
-          "q": "Which tool is most essential for setting with powder?",
+          "q": "Which brush puts colour on the eyelids?",
           "options": [
             "eyeshadow brush",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "beauty sponge",
+            "foundation brush",
+            "setting spray"
           ],
           "answer": 0,
-          "explain": "The eyeshadow brush is the essential tool for this work."
+          "explain": "An eyeshadow brush puts colour on the eyelids."
         },
         {
-          "q": "What should you always do when working on setting with powder?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
-            "disinfect your clippers between clients",
+            "Dip the same wand back into the tube after using it.",
             "never double-dip mascara wands",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Share one wand between two clients.",
+            "Put a used wand back in the tube for later."
           ],
           "answer": 1,
           "explain": "Never double-dip mascara wands."
@@ -431,34 +431,34 @@
       "challenge": "Do week 1 project: a full everyday face two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: a full everyday face?",
+          "q": "How should a natural everyday look appear?",
           "options": [
             "A natural everyday look is even, soft and skin-like.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "A natural everyday look is heavy, dark and shiny.",
+            "A natural everyday look is heavy and full of glitter.",
+            "A natural everyday look is bold and dramatic."
           ],
           "answer": 0,
           "explain": "A natural everyday look is even, soft and skin-like."
         },
         {
-          "q": "Which tool is most essential for week 1 project: a full everyday face?",
+          "q": "What do you spray on last to help makeup stay in place?",
           "options": [
-            "clipper with guards",
+            "beauty sponge",
             "setting spray",
-            "trimmer",
-            "foil shaver"
+            "foundation brush",
+            "eyeshadow brush"
           ],
           "answer": 1,
-          "explain": "The setting spray is the essential tool for this work."
+          "explain": "Setting spray helps makeup stay in place."
         },
         {
-          "q": "What should you always do when working on week 1 project: a full everyday face?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Never wash your brushes.",
+            "Share dirty brushes between clients.",
             "wash brushes regularly",
-            "check the client for cuts before starting"
+            "Use the same brush for weeks without cleaning it."
           ],
           "answer": 2,
           "explain": "You should always wash brushes regularly."
@@ -487,33 +487,33 @@
       "challenge": "Do brows: filling and shaping two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brows: filling and shaping?",
+          "q": "Which way should brow strokes go?",
           "options": [
-            "You never need to check your work until the very end.",
+            "Brow strokes should go against the direction of hair growth.",
             "Brow strokes should follow the direction of hair growth.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Brow strokes should go in circles.",
+            "Brow strokes should go straight across."
           ],
           "answer": 1,
           "explain": "Brow strokes should follow the direction of hair growth."
         },
         {
-          "q": "Which tool is most essential for brows: filling and shaping?",
+          "q": "Which tool blends foundation smoothly onto the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foundation brush",
+            "eyeshadow brush",
             "beauty sponge",
-            "foil shaver"
+            "setting spray"
           ],
           "answer": 2,
-          "explain": "The beauty sponge is the essential tool for this work."
+          "explain": "A beauty sponge blends foundation smoothly onto the skin."
         },
         {
-          "q": "What should you always do when working on brows: filling and shaping?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Apply the new product all over the face at once.",
+            "Skip the test and hope the skin is fine.",
+            "Use the strongest product with no test.",
             "patch test new products on sensitive skin"
           ],
           "answer": 3,
@@ -543,34 +543,34 @@
       "challenge": "Do eyeshadow basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on eyeshadow basics?",
+          "q": "What does a transition shade do in the crease?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "A transition shade makes a hard line in the crease.",
+            "A transition shade makes a sharp line in the crease.",
             "A transition shade blends eyeshadow smoothly in the crease.",
-            "You should always use the strongest product available."
+            "A transition shade darkens the whole eyelid."
           ],
           "answer": 2,
           "explain": "A transition shade blends eyeshadow smoothly in the crease."
         },
         {
-          "q": "Which tool is most essential for eyeshadow basics?",
+          "q": "Which brush paints foundation onto the face?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "beauty sponge",
+            "eyeshadow brush",
+            "setting spray",
             "foundation brush"
           ],
           "answer": 3,
-          "explain": "The foundation brush is the essential tool for this work."
+          "explain": "A foundation brush paints foundation onto the face."
         },
         {
-          "q": "What should you always do when working on eyeshadow basics?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
             "never double-dip mascara wands",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Dip the same wand back into the tube after using it.",
+            "Share one wand between two clients.",
+            "Put a used wand back in the tube for later."
           ],
           "answer": 0,
           "explain": "Never double-dip mascara wands."
@@ -599,34 +599,34 @@
       "challenge": "Do eyeliner techniques two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on eyeliner techniques?",
+          "q": "Which way does a winged liner flick?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A winged liner flicks downward at the outer corner.",
+            "A winged liner flicks downward at the inner corner.",
+            "A winged liner flicks straight across the eye.",
             "A winged liner flicks upward at the outer corner."
           ],
           "answer": 3,
           "explain": "A winged liner flicks upward at the outer corner."
         },
         {
-          "q": "Which tool is most essential for eyeliner techniques?",
+          "q": "Which brush puts colour on the eyelids?",
           "options": [
             "eyeshadow brush",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "beauty sponge",
+            "foundation brush",
+            "setting spray"
           ],
           "answer": 0,
-          "explain": "The eyeshadow brush is the essential tool for this work."
+          "explain": "An eyeshadow brush puts colour on the eyelids."
         },
         {
-          "q": "What should you always do when working on eyeliner techniques?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
-            "disinfect your clippers between clients",
+            "Never wash your brushes.",
             "wash brushes regularly",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Share dirty brushes between clients.",
+            "Use the same brush for weeks without cleaning it."
           ],
           "answer": 1,
           "explain": "You should always wash brushes regularly."
@@ -655,34 +655,34 @@
       "challenge": "Do lashes and mascara two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lashes and mascara?",
+          "q": "When should you curl lashes, and what does it do?",
           "options": [
             "Curling lashes before mascara opens up the eyes.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Curl lashes after mascara to open up the eyes.",
+            "You should never curl lashes at all.",
+            "Curl lashes after mascara to close up the eyes."
           ],
           "answer": 0,
           "explain": "Curling lashes before mascara opens up the eyes."
         },
         {
-          "q": "Which tool is most essential for lashes and mascara?",
+          "q": "What do you spray on last to help makeup stay in place?",
           "options": [
-            "clipper with guards",
+            "beauty sponge",
             "setting spray",
-            "trimmer",
-            "foil shaver"
+            "foundation brush",
+            "eyeshadow brush"
           ],
           "answer": 1,
-          "explain": "The setting spray is the essential tool for this work."
+          "explain": "Setting spray helps makeup stay in place."
         },
         {
-          "q": "What should you always do when working on lashes and mascara?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Apply the new product all over the face at once.",
+            "Skip the test and hope the skin is fine.",
             "patch test new products on sensitive skin",
-            "check the client for cuts before starting"
+            "Use the strongest product with no test."
           ],
           "answer": 2,
           "explain": "You should always patch test new products on sensitive skin."
@@ -711,33 +711,33 @@
       "challenge": "Do blush and bronzer two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on blush and bronzer?",
+          "q": "Where does bronzer go on the face?",
           "options": [
-            "You should rush through the technique to save time.",
+            "Bronzer goes on the hollows where the sun never hits.",
             "Bronzer goes where the sun naturally hits the face.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Bronzer goes only on the nose.",
+            "Bronzer goes all over the face evenly."
           ],
           "answer": 1,
           "explain": "Bronzer goes where the sun naturally hits the face."
         },
         {
-          "q": "Which tool is most essential for blush and bronzer?",
+          "q": "Which tool blends foundation smoothly onto the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foundation brush",
+            "eyeshadow brush",
             "beauty sponge",
-            "foil shaver"
+            "setting spray"
           ],
           "answer": 2,
-          "explain": "The beauty sponge is the essential tool for this work."
+          "explain": "A beauty sponge blends foundation smoothly onto the skin."
         },
         {
-          "q": "What should you always do when working on blush and bronzer?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Dip the same wand back into the tube after using it.",
+            "Share one wand between two clients.",
+            "Put a used wand back in the tube for later.",
             "never double-dip mascara wands"
           ],
           "answer": 3,
@@ -767,34 +767,34 @@
       "challenge": "Do highlighting two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on highlighting?",
+          "q": "Where does highlighter go?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Highlighter goes on the low points of the face.",
+            "Highlighter goes on the chin only.",
             "Highlighter goes on the high points of the face.",
-            "Using dirty tools gives the same result as clean ones."
+            "Highlighter goes under the jawline."
           ],
           "answer": 2,
           "explain": "Highlighter goes on the high points of the face."
         },
         {
-          "q": "Which tool is most essential for highlighting?",
+          "q": "Which brush paints foundation onto the face?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "beauty sponge",
+            "eyeshadow brush",
+            "setting spray",
             "foundation brush"
           ],
           "answer": 3,
-          "explain": "The foundation brush is the essential tool for this work."
+          "explain": "A foundation brush paints foundation onto the face."
         },
         {
-          "q": "What should you always do when working on highlighting?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
             "wash brushes regularly",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Never wash your brushes.",
+            "Share dirty brushes between clients.",
+            "Use the same brush for weeks without cleaning it."
           ],
           "answer": 0,
           "explain": "You should always wash brushes regularly."
@@ -834,34 +834,34 @@
       "challenge": "Do week 2 project: a soft glam look two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: a soft glam look?",
+          "q": "What does a soft glam look pair together?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Soft glam pairs bold lips with matte skin.",
+            "Soft glam pairs smokey eyes with dark lips.",
+            "Soft glam pairs dark eyes with dull skin.",
             "Soft glam pairs defined eyes with glowing skin."
           ],
           "answer": 3,
           "explain": "Soft glam pairs defined eyes with glowing skin."
         },
         {
-          "q": "Which tool is most essential for week 2 project: a soft glam look?",
+          "q": "Which brush puts colour on the eyelids?",
           "options": [
             "eyeshadow brush",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "beauty sponge",
+            "foundation brush",
+            "setting spray"
           ],
           "answer": 0,
-          "explain": "The eyeshadow brush is the essential tool for this work."
+          "explain": "An eyeshadow brush puts colour on the eyelids."
         },
         {
-          "q": "What should you always do when working on week 2 project: a soft glam look?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
-            "disinfect your clippers between clients",
+            "Apply the new product all over the face at once.",
             "patch test new products on sensitive skin",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Skip the test and hope the skin is fine.",
+            "Use the strongest product with no test."
           ],
           "answer": 1,
           "explain": "You should always patch test new products on sensitive skin."
@@ -890,34 +890,34 @@
       "challenge": "Do contouring the face two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on contouring the face?",
+          "q": "What kind of shade does contour use to create shadow?",
           "options": [
             "Contour uses a cool-toned shade to create shadow.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Contour uses a warm-toned shade to create shadow.",
+            "Contour uses a warm shimmery shade to create shadow.",
+            "Contour uses a glitter shade to create shadow."
           ],
           "answer": 0,
           "explain": "Contour uses a cool-toned shade to create shadow."
         },
         {
-          "q": "Which tool is most essential for contouring the face?",
+          "q": "What do you spray on last to help makeup stay in place?",
           "options": [
-            "clipper with guards",
+            "beauty sponge",
             "setting spray",
-            "trimmer",
-            "foil shaver"
+            "foundation brush",
+            "eyeshadow brush"
           ],
           "answer": 1,
-          "explain": "The setting spray is the essential tool for this work."
+          "explain": "Setting spray helps makeup stay in place."
         },
         {
-          "q": "What should you always do when working on contouring the face?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Dip the same wand back into the tube after using it.",
+            "Share one wand between two clients.",
             "never double-dip mascara wands",
-            "check the client for cuts before starting"
+            "Put a used wand back in the tube for later."
           ],
           "answer": 2,
           "explain": "Never double-dip mascara wands."
@@ -946,33 +946,33 @@
       "challenge": "Do makeup for dark skin two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on makeup for dark skin?",
+          "q": "What pigments show best on deep skin tones?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Pale, cool pigments show best on deep skin tones.",
             "Rich, warm pigments show best on deep skin tones.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Rich, warm pigments disappear on deep skin tones.",
+            "No pigment shows on deep skin tones."
           ],
           "answer": 1,
           "explain": "Rich, warm pigments show best on deep skin tones."
         },
         {
-          "q": "Which tool is most essential for makeup for dark skin?",
+          "q": "Which tool blends foundation smoothly onto the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foundation brush",
+            "eyeshadow brush",
             "beauty sponge",
-            "foil shaver"
+            "setting spray"
           ],
           "answer": 2,
-          "explain": "The beauty sponge is the essential tool for this work."
+          "explain": "A beauty sponge blends foundation smoothly onto the skin."
         },
         {
-          "q": "What should you always do when working on makeup for dark skin?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Never wash your brushes.",
+            "Share dirty brushes between clients.",
+            "Use the same brush for weeks without cleaning it.",
             "wash brushes regularly"
           ],
           "answer": 3,
@@ -987,9 +987,9 @@
       "title": "Makeup for Light Skin",
       "goal": "By the end of today you can explain and practise: Use soft, buildable shades and avoid harsh black liner for a fresh finish.",
       "video": {
-        "youtube_id": "YIp_fkEFoM0",
-        "title": "Simple and Affordable Makeup Tutorial: Hooded Eyes",
-        "channel": "Uche Natori"
+        "youtube_id": "wL-qZoO0GUM",
+        "title": "Minimal Makeup Tutorial | Less Is More Everyday Routine",
+        "channel": "Elena Rachitskaya"
       },
       "steps": [
         "Get your tools ready: beauty sponge, foundation brush and eyeshadow brush.",
@@ -1002,34 +1002,34 @@
       "challenge": "Do makeup for light skin two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on makeup for light skin?",
+          "q": "What shades suit light skin best?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Dark, heavy shades suit light skin best.",
+            "Soft, buildable shades look chalky on light skin.",
             "Soft, buildable shades suit light skin best.",
-            "The best result comes from skipping the preparation step."
+            "Only bright neon shades suit light skin."
           ],
           "answer": 2,
           "explain": "Soft, buildable shades suit light skin best."
         },
         {
-          "q": "Which tool is most essential for makeup for light skin?",
+          "q": "Which brush paints foundation onto the face?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "beauty sponge",
+            "eyeshadow brush",
+            "setting spray",
             "foundation brush"
           ],
           "answer": 3,
-          "explain": "The foundation brush is the essential tool for this work."
+          "explain": "A foundation brush paints foundation onto the face."
         },
         {
-          "q": "What should you always do when working on makeup for light skin?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
             "patch test new products on sensitive skin",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Apply the new product all over the face at once.",
+            "Skip the test and hope the skin is fine.",
+            "Use the strongest product with no test."
           ],
           "answer": 0,
           "explain": "You should always patch test new products on sensitive skin."
@@ -1058,34 +1058,34 @@
       "challenge": "Do smokey eye two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on smokey eye?",
+          "q": "How is a smokey eye blended?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "A smokey eye keeps dark shadow in one hard line.",
+            "A smokey eye uses light shadow with hard edges.",
+            "A smokey eye blends light shadow downward with hard edges.",
             "A smokey eye blends dark shadow upward with no hard edges."
           ],
           "answer": 3,
           "explain": "A smokey eye blends dark shadow upward with no hard edges."
         },
         {
-          "q": "Which tool is most essential for smokey eye?",
+          "q": "Which brush puts colour on the eyelids?",
           "options": [
             "eyeshadow brush",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "beauty sponge",
+            "foundation brush",
+            "setting spray"
           ],
           "answer": 0,
-          "explain": "The eyeshadow brush is the essential tool for this work."
+          "explain": "An eyeshadow brush puts colour on the eyelids."
         },
         {
-          "q": "What should you always do when working on smokey eye?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
-            "disinfect your clippers between clients",
+            "Dip the same wand back into the tube after using it.",
             "never double-dip mascara wands",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Share one wand between two clients.",
+            "Put a used wand back in the tube for later."
           ],
           "answer": 1,
           "explain": "Never double-dip mascara wands."
@@ -1114,34 +1114,34 @@
       "challenge": "Do cut crease two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on cut crease?",
+          "q": "How is a cut crease made?",
           "options": [
             "A cut crease is carved with concealer for a sharp lid line.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "A cut crease is carved with powder for a soft lid line.",
+            "A cut crease is carved with blush for a round lid line.",
+            "A cut crease is drawn with eyeliner on the brow."
           ],
           "answer": 0,
           "explain": "A cut crease is carved with concealer for a sharp lid line."
         },
         {
-          "q": "Which tool is most essential for cut crease?",
+          "q": "What do you spray on last to help makeup stay in place?",
           "options": [
-            "clipper with guards",
+            "beauty sponge",
             "setting spray",
-            "trimmer",
-            "foil shaver"
+            "foundation brush",
+            "eyeshadow brush"
           ],
           "answer": 1,
-          "explain": "The setting spray is the essential tool for this work."
+          "explain": "Setting spray helps makeup stay in place."
         },
         {
-          "q": "What should you always do when working on cut crease?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Never wash your brushes.",
+            "Share dirty brushes between clients.",
             "wash brushes regularly",
-            "check the client for cuts before starting"
+            "Use the same brush for weeks without cleaning it."
           ],
           "answer": 2,
           "explain": "You should always wash brushes regularly."
@@ -1170,33 +1170,33 @@
       "challenge": "Do lipstick and lip liner two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on lipstick and lip liner?",
+          "q": "What does lip liner do for lipstick?",
           "options": [
-            "You never need to check your work until the very end.",
+            "Lip liner makes lipstick bleed outside the lip line.",
             "Lip liner stops lipstick from bleeding outside the lip line.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Lip liner goes on after lipstick to fix mistakes.",
+            "Lip liner makes lipstick fade faster."
           ],
           "answer": 1,
           "explain": "Lip liner stops lipstick from bleeding outside the lip line."
         },
         {
-          "q": "Which tool is most essential for lipstick and lip liner?",
+          "q": "Which tool blends foundation smoothly onto the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foundation brush",
+            "eyeshadow brush",
             "beauty sponge",
-            "foil shaver"
+            "setting spray"
           ],
           "answer": 2,
-          "explain": "The beauty sponge is the essential tool for this work."
+          "explain": "A beauty sponge blends foundation smoothly onto the skin."
         },
         {
-          "q": "What should you always do when working on lipstick and lip liner?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Apply the new product all over the face at once.",
+            "Skip the test and hope the skin is fine.",
+            "Use the strongest product with no test.",
             "patch test new products on sensitive skin"
           ],
           "answer": 3,
@@ -1237,34 +1237,34 @@
       "challenge": "Do week 3 project: a full glam look two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: a full glam look?",
+          "q": "What does a full glam look combine?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "Full glam combines soft eyes, bare skin and pale lips.",
+            "Full glam combines natural eyes and no lipstick.",
             "Full glam combines bold eyes, sculpted skin and bold lips.",
-            "You should always use the strongest product available."
+            "Full glam combines no eyeshadow and no lipstick."
           ],
           "answer": 2,
           "explain": "Full glam combines bold eyes, sculpted skin and bold lips."
         },
         {
-          "q": "Which tool is most essential for week 3 project: a full glam look?",
+          "q": "Which brush paints foundation onto the face?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "beauty sponge",
+            "eyeshadow brush",
+            "setting spray",
             "foundation brush"
           ],
           "answer": 3,
-          "explain": "The foundation brush is the essential tool for this work."
+          "explain": "A foundation brush paints foundation onto the face."
         },
         {
-          "q": "What should you always do when working on week 3 project: a full glam look?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
             "never double-dip mascara wands",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Dip the same wand back into the tube after using it.",
+            "Share one wand between two clients.",
+            "Put a used wand back in the tube for later."
           ],
           "answer": 0,
           "explain": "Never double-dip mascara wands."
@@ -1293,34 +1293,34 @@
       "challenge": "Do bridal makeup basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on bridal makeup basics?",
+          "q": "What must bridal makeup be, and why?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "Bridal makeup must be light and easy to remove for tears.",
+            "Bridal makeup must be heavy and shiny for tears.",
+            "Bridal makeup must be matte and dry for tears.",
             "Bridal makeup must be long-wear and waterproof for tears."
           ],
           "answer": 3,
           "explain": "Bridal makeup must be long-wear and waterproof for tears."
         },
         {
-          "q": "Which tool is most essential for bridal makeup basics?",
+          "q": "Which brush puts colour on the eyelids?",
           "options": [
             "eyeshadow brush",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "beauty sponge",
+            "foundation brush",
+            "setting spray"
           ],
           "answer": 0,
-          "explain": "The eyeshadow brush is the essential tool for this work."
+          "explain": "An eyeshadow brush puts colour on the eyelids."
         },
         {
-          "q": "What should you always do when working on bridal makeup basics?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
-            "disinfect your clippers between clients",
+            "Never wash your brushes.",
             "wash brushes regularly",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Share dirty brushes between clients.",
+            "Use the same brush for weeks without cleaning it."
           ],
           "answer": 1,
           "explain": "You should always wash brushes regularly."
@@ -1349,34 +1349,34 @@
       "challenge": "Do bridal trial day two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on bridal trial day?",
+          "q": "Why keep a record of a bridal trial?",
           "options": [
             "A bridal trial record guarantees the same look on the day.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "A bridal trial record is only for the photos.",
+            "A bridal trial record is thrown away after the trial.",
+            "A bridal trial record means you change the look on the day."
           ],
           "answer": 0,
           "explain": "A bridal trial record guarantees the same look on the day."
         },
         {
-          "q": "Which tool is most essential for bridal trial day?",
+          "q": "What do you spray on last to help makeup stay in place?",
           "options": [
-            "clipper with guards",
+            "beauty sponge",
             "setting spray",
-            "trimmer",
-            "foil shaver"
+            "foundation brush",
+            "eyeshadow brush"
           ],
           "answer": 1,
-          "explain": "The setting spray is the essential tool for this work."
+          "explain": "Setting spray helps makeup stay in place."
         },
         {
-          "q": "What should you always do when working on bridal trial day?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Apply the new product all over the face at once.",
+            "Skip the test and hope the skin is fine.",
             "patch test new products on sensitive skin",
-            "check the client for cuts before starting"
+            "Use the strongest product with no test."
           ],
           "answer": 2,
           "explain": "You should always patch test new products on sensitive skin."
@@ -1390,9 +1390,9 @@
       "title": "Makeup for Mature Skin",
       "goal": "By the end of today you can explain and practise: Use hydrating products, light powder and soft liner for mature skin.",
       "video": {
-        "youtube_id": "wLf6iwrwNzc",
-        "title": "Choosing Makeup for Dark Skin Tones",
-        "channel": "Makeup.com"
+        "youtube_id": "Vones42KLNc",
+        "title": "SIMPLE MAKEUP TIPS FOR MATURE WOMEN IN 2024",
+        "channel": "Nikol Johnson"
       },
       "steps": [
         "Get your tools ready: beauty sponge, foundation brush and eyeshadow brush.",
@@ -1405,33 +1405,33 @@
       "challenge": "Do makeup for mature skin two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on makeup for mature skin?",
+          "q": "What does mature skin need?",
           "options": [
-            "You should rush through the technique to save time.",
+            "Mature skin needs heavy powder and dry products.",
             "Mature skin needs hydrating products and light powder.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Mature skin needs matte products and heavy powder.",
+            "Mature skin needs no powder at all."
           ],
           "answer": 1,
           "explain": "Mature skin needs hydrating products and light powder."
         },
         {
-          "q": "Which tool is most essential for makeup for mature skin?",
+          "q": "Which tool blends foundation smoothly onto the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foundation brush",
+            "eyeshadow brush",
             "beauty sponge",
-            "foil shaver"
+            "setting spray"
           ],
           "answer": 2,
-          "explain": "The beauty sponge is the essential tool for this work."
+          "explain": "A beauty sponge blends foundation smoothly onto the skin."
         },
         {
-          "q": "What should you always do when working on makeup for mature skin?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Dip the same wand back into the tube after using it.",
+            "Share one wand between two clients.",
+            "Put a used wand back in the tube for later.",
             "never double-dip mascara wands"
           ],
           "answer": 3,
@@ -1461,34 +1461,34 @@
       "challenge": "Do correcting mistakes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on correcting mistakes?",
+          "q": "How do you lift eyeshadow fallout, and when?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "Eyeshadow fallout is wiped off with a wet cloth after foundation.",
+            "Eyeshadow fallout is brushed away after foundation is done.",
             "Eyeshadow fallout is lifted with tape before foundation.",
-            "Using dirty tools gives the same result as clean ones."
+            "Eyeshadow fallout is left on the face."
           ],
           "answer": 2,
           "explain": "Eyeshadow fallout is lifted with tape before foundation."
         },
         {
-          "q": "Which tool is most essential for correcting mistakes?",
+          "q": "Which brush paints foundation onto the face?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "beauty sponge",
+            "eyeshadow brush",
+            "setting spray",
             "foundation brush"
           ],
           "answer": 3,
-          "explain": "The foundation brush is the essential tool for this work."
+          "explain": "A foundation brush paints foundation onto the face."
         },
         {
-          "q": "What should you always do when working on correcting mistakes?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
             "wash brushes regularly",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Never wash your brushes.",
+            "Share dirty brushes between clients.",
+            "Use the same brush for weeks without cleaning it."
           ],
           "answer": 0,
           "explain": "You should always wash brushes regularly."
@@ -1517,34 +1517,34 @@
       "challenge": "Do client consultation two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on client consultation?",
+          "q": "What does a makeup consultation check?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
+            "A makeup consultation checks the client's favourite colour only.",
+            "A makeup consultation checks the client's shoe size.",
+            "A makeup consultation checks the client's age only.",
             "A makeup consultation checks allergies and the occasion."
           ],
           "answer": 3,
           "explain": "A makeup consultation checks allergies and the occasion."
         },
         {
-          "q": "Which tool is most essential for client consultation?",
+          "q": "Which brush puts colour on the eyelids?",
           "options": [
             "eyeshadow brush",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "beauty sponge",
+            "foundation brush",
+            "setting spray"
           ],
           "answer": 0,
-          "explain": "The eyeshadow brush is the essential tool for this work."
+          "explain": "An eyeshadow brush puts colour on the eyelids."
         },
         {
-          "q": "What should you always do when working on client consultation?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
-            "disinfect your clippers between clients",
+            "Apply the new product all over the face at once.",
             "patch test new products on sensitive skin",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Skip the test and hope the skin is fine.",
+            "Use the strongest product with no test."
           ],
           "answer": 1,
           "explain": "You should always patch test new products on sensitive skin."
@@ -1573,34 +1573,34 @@
       "challenge": "Do pricing and booking makeup two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on pricing and booking makeup?",
+          "q": "What holds a makeup booking date?",
           "options": [
             "A deposit holds a makeup booking date.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "A phone call holds a makeup booking date.",
+            "A promise holds a makeup booking date.",
+            "A text message holds a makeup booking date."
           ],
           "answer": 0,
           "explain": "A deposit holds a makeup booking date."
         },
         {
-          "q": "Which tool is most essential for pricing and booking makeup?",
+          "q": "What do you spray on last to help makeup stay in place?",
           "options": [
-            "clipper with guards",
+            "beauty sponge",
             "setting spray",
-            "trimmer",
-            "foil shaver"
+            "foundation brush",
+            "eyeshadow brush"
           ],
           "answer": 1,
-          "explain": "The setting spray is the essential tool for this work."
+          "explain": "Setting spray helps makeup stay in place."
         },
         {
-          "q": "What should you always do when working on pricing and booking makeup?",
+          "q": "What should you never do with a mascara wand?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
+            "Dip the same wand back into the tube after using it.",
+            "Share one wand between two clients.",
             "never double-dip mascara wands",
-            "check the client for cuts before starting"
+            "Put a used wand back in the tube for later."
           ],
           "answer": 2,
           "explain": "Never double-dip mascara wands."
@@ -1629,33 +1629,33 @@
       "challenge": "Do building a portfolio two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on building a portfolio?",
+          "q": "What makes portfolio photos look professional?",
           "options": [
-            "The client's comfort does not matter during the service.",
+            "Dark, dull light makes portfolio photos look professional.",
             "Good light makes portfolio photos look professional.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Blurry photos make portfolio photos look professional.",
+            "A messy background makes portfolio photos look professional."
           ],
           "answer": 1,
           "explain": "Good light makes portfolio photos look professional."
         },
         {
-          "q": "Which tool is most essential for building a portfolio?",
+          "q": "Which tool blends foundation smoothly onto the skin?",
           "options": [
-            "clipper with guards",
-            "trimmer",
+            "foundation brush",
+            "eyeshadow brush",
             "beauty sponge",
-            "foil shaver"
+            "setting spray"
           ],
           "answer": 2,
-          "explain": "The beauty sponge is the essential tool for this work."
+          "explain": "A beauty sponge blends foundation smoothly onto the skin."
         },
         {
-          "q": "What should you always do when working on building a portfolio?",
+          "q": "What should you do with your makeup brushes?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
+            "Never wash your brushes.",
+            "Share dirty brushes between clients.",
+            "Use the same brush for weeks without cleaning it.",
             "wash brushes regularly"
           ],
           "answer": 3,
@@ -1685,34 +1685,34 @@
       "challenge": "Do capstone week: bridal glam on a client two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: bridal glam on a client?",
+          "q": "What does a bridal capstone cover?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
+            "A bridal capstone covers only the trial.",
+            "A bridal capstone covers shopping for the dress.",
             "A bridal capstone covers trial, long-wear glam and photos.",
-            "The best result comes from skipping the preparation step."
+            "A bridal capstone covers only the photos."
           ],
           "answer": 2,
           "explain": "A bridal capstone covers trial, long-wear glam and photos."
         },
         {
-          "q": "Which tool is most essential for capstone week: bridal glam on a client?",
+          "q": "Which brush paints foundation onto the face?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
+            "beauty sponge",
+            "eyeshadow brush",
+            "setting spray",
             "foundation brush"
           ],
           "answer": 3,
-          "explain": "The foundation brush is the essential tool for this work."
+          "explain": "A foundation brush paints foundation onto the face."
         },
         {
-          "q": "What should you always do when working on capstone week: bridal glam on a client?",
+          "q": "What should you do before using a new product on sensitive skin?",
           "options": [
             "patch test new products on sensitive skin",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Apply the new product all over the face at once.",
+            "Skip the test and hope the skin is fine.",
+            "Use the strongest product with no test."
           ],
           "answer": 0,
           "explain": "You should always patch test new products on sensitive skin."

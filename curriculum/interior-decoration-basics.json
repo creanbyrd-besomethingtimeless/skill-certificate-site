@@ -1,1714 +1,1714 @@
 {
- "course": {
-  "id": "interior-decoration-basics",
-  "title": "Interior Decoration Basics",
-  "level": "Beginner",
-  "tagline": "Style rooms beautifully: colour, layout and finishing touches on any budget.",
-  "duration_days": 30
- },
- "days": [
-  {
-   "day": 1,
-   "week": 1,
-   "title": "Interior Decoration Basics",
-   "goal": "Know what interior decoration is: colour, layout, light and texture.",
-   "video": {
-    "youtube_id": "ODcMUUGJQ9g",
-    "title": "13 Design Tricks to Instantly Make Small Spaces Look BIGGER",
-    "channel": "Reynard Lowell"
-   },
-   "steps": [
-    "Learn that decoration is how a room looks and feels, not how it is built.",
-    "Learn the four parts: colour, layout, light and texture.",
-    "Learn that texture is how a surface feels: smooth, rough, soft.",
-    "Look at a room and name its colour, layout, light and texture."
-   ],
-   "task": "Name the four parts of decoration in a room you know.",
-   "challenge": "Explain texture in plain words.",
-   "quiz": [
-    {
-     "q": "What are the four parts of interior decoration?",
-     "options": [
-      "Paint, wood, glass, metal",
-      "Colour, layout, light and texture",
-      "Walls, floors, roof, doors",
-      "Sofa, bed, table, chair"
-     ],
-     "answer": 1,
-     "explain": "Decoration is colour, layout, light and texture working together."
-    },
-    {
-     "q": "What is texture in a room?",
-     "options": [
-      "The colour",
-      "How a surface feels: smooth, rough or soft",
-      "The size",
-      "The light"
-     ],
-     "answer": 1,
-     "explain": "Texture is the feel of surfaces, like a soft rug or a rough brick wall."
-    },
-    {
-     "q": "What does decoration change?",
-     "options": [
-      "How a room is built",
-      "How a room looks and feels",
-      "The size of the room",
-      "The roof"
-     ],
-     "answer": 1,
-     "explain": "Decoration changes how a room looks and feels, not its structure."
-    }
-   ],
-   "project": null
+  "course": {
+    "id": "interior-decoration-basics",
+    "title": "Interior Decoration Basics",
+    "level": "Beginner",
+    "tagline": "Style rooms beautifully: colour, layout and finishing touches on any budget.",
+    "duration_days": 30
   },
-  {
-   "day": 2,
-   "week": 1,
-   "title": "Colour: Warm and Cool",
-   "goal": "Tell warm and cool colours apart and know what each does.",
-   "video": {
-    "youtube_id": "ODcMUUGJQ9g",
-    "title": "13 Design Tricks to Instantly Make Small Spaces Look BIGGER",
-    "channel": "Reynard Lowell"
-   },
-   "steps": [
-    "Warm colours are red, orange and yellow: they feel cosy.",
-    "Cool colours are blue, green and purple: they feel calm.",
-    "Light colours make a room feel bigger.",
-    "Dark colours make a room feel smaller and cosier."
-   ],
-   "task": "Sort colours into warm and cool.",
-   "challenge": "Pick a colour for a small bedroom and explain why.",
-   "quiz": [
+  "days": [
     {
-     "q": "What are the four parts of interior decoration?",
-     "options": [
-      "Paint, wood, glass, metal",
-      "Colour, layout, light and texture",
-      "Walls, floors, roof, doors",
-      "Sofa, bed, table, chair"
-     ],
-     "answer": 1,
-     "explain": "Decoration is colour, layout, light and texture working together."
+      "day": 1,
+      "week": 1,
+      "title": "Interior Decoration Basics",
+      "goal": "Know what interior decoration is: colour, layout, light and texture.",
+      "video": {
+        "youtube_id": "ODcMUUGJQ9g",
+        "title": "13 Design Tricks to Instantly Make Small Spaces Look BIGGER",
+        "channel": "Reynard Lowell"
+      },
+      "steps": [
+        "Learn that decoration is how a room looks and feels, not how it is built.",
+        "Learn the four parts: colour, layout, light and texture.",
+        "Learn that texture is how a surface feels: smooth, rough, soft.",
+        "Look at a room and name its colour, layout, light and texture."
+      ],
+      "task": "Name the four parts of decoration in a room you know.",
+      "challenge": "Explain texture in plain words.",
+      "quiz": [
+        {
+          "q": "What are the four parts of interior decoration?",
+          "options": [
+            "Paint, wood, glass, metal",
+            "Colour, layout, light and texture",
+            "Walls, floors, roof, doors",
+            "Sofa, bed, table, chair"
+          ],
+          "answer": 1,
+          "explain": "Decoration is colour, layout, light and texture working together."
+        },
+        {
+          "q": "What is texture in a room?",
+          "options": [
+            "The colour",
+            "How a surface feels: smooth, rough or soft",
+            "The size",
+            "The light"
+          ],
+          "answer": 1,
+          "explain": "Texture is the feel of surfaces, like a soft rug or a rough brick wall."
+        },
+        {
+          "q": "What does decoration change?",
+          "options": [
+            "How a room is built",
+            "How a room looks and feels",
+            "The size of the room",
+            "The roof"
+          ],
+          "answer": 1,
+          "explain": "Decoration changes how a room looks and feels, not its structure."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "What is texture in a room?",
-     "options": [
-      "The colour",
-      "How a surface feels: smooth, rough or soft",
-      "The size",
-      "The light"
-     ],
-     "answer": 1,
-     "explain": "Texture is the feel of surfaces, like a soft rug or a rough brick wall."
+      "day": 2,
+      "week": 1,
+      "title": "Colour: Warm and Cool",
+      "goal": "Tell warm and cool colours apart and know what each does.",
+      "video": {
+        "youtube_id": "ODcMUUGJQ9g",
+        "title": "13 Design Tricks to Instantly Make Small Spaces Look BIGGER",
+        "channel": "Reynard Lowell"
+      },
+      "steps": [
+        "Warm colours are red, orange and yellow: they feel cosy.",
+        "Cool colours are blue, green and purple: they feel calm.",
+        "Light colours make a room feel bigger.",
+        "Dark colours make a room feel smaller and cosier."
+      ],
+      "task": "Sort colours into warm and cool.",
+      "challenge": "Pick a colour for a small bedroom and explain why.",
+      "quiz": [
+        {
+          "q": "Which colours feel cosy?",
+          "options": [
+            "Blue and green",
+            "Red, orange and yellow",
+            "White and grey",
+            "Black and purple"
+          ],
+          "answer": 1,
+          "explain": "Warm colours like red, orange and yellow feel cosy and welcoming."
+        },
+        {
+          "q": "Which colours feel calm?",
+          "options": [
+            "Red and orange",
+            "Blue, green and purple",
+            "Yellow and pink",
+            "Black and brown"
+          ],
+          "answer": 1,
+          "explain": "Cool colours like blue and green feel calm and relaxing."
+        },
+        {
+          "q": "What do light colours do to a room?",
+          "options": [
+            "Make it feel smaller",
+            "Make it feel bigger",
+            "Make it darker",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Light colours reflect light and make a room feel bigger."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "What does decoration change?",
-     "options": [
-      "How a room is built",
-      "How a room looks and feels",
-      "The size of the room",
-      "The roof"
-     ],
-     "answer": 1,
-     "explain": "Decoration changes how a room looks and feels, not its structure."
+      "day": 3,
+      "week": 1,
+      "title": "The 60-30-10 Colour Rule",
+      "goal": "Use the 60-30-10 rule to mix colours in a room.",
+      "video": {
+        "youtube_id": "ODcMUUGJQ9g",
+        "title": "13 Design Tricks to Instantly Make Small Spaces Look BIGGER",
+        "channel": "Reynard Lowell"
+      },
+      "steps": [
+        "60 percent is the main colour: walls and big furniture.",
+        "30 percent is the second colour: curtains and chairs.",
+        "10 percent is the accent colour: cushions and art.",
+        "Pick three colours for a room using the rule."
+      ],
+      "task": "Plan a room with the 60-30-10 rule.",
+      "challenge": "Name the three parts of the rule without looking.",
+      "quiz": [
+        {
+          "q": "What is the 60-30-10 colour rule?",
+          "options": [
+            "60% wall, 30% floor, 10% roof",
+            "60% main colour, 30% second colour, 10% accent colour",
+            "60% paint, 30% fabric, 10% wood",
+            "60% light, 30% dark, 10% white"
+          ],
+          "answer": 1,
+          "explain": "The rule splits a room into 60% main, 30% second and 10% accent colour."
+        },
+        {
+          "q": "What is the accent colour for?",
+          "options": [
+            "Walls",
+            "Small pops of colour like cushions and art",
+            "The floor",
+            "The ceiling"
+          ],
+          "answer": 1,
+          "explain": "The accent colour is the small 10% that adds personality."
+        },
+        {
+          "q": "What is the main colour in a room?",
+          "options": [
+            "Cushions",
+            "Walls and big furniture",
+            "Art",
+            "Lamps"
+          ],
+          "answer": 1,
+          "explain": "The main colour covers 60%: walls and big furniture."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Small Spaces Look Bigger",
+      "goal": "Make a small room look bigger with simple tricks.",
+      "video": {
+        "youtube_id": "hOOFilGM5Rw",
+        "title": "How to Make Your Home Look Expensive for $0",
+        "channel": "DIY Home Fix"
+      },
+      "steps": [
+        "Use light colours on the walls.",
+        "Use a big mirror to bounce light around.",
+        "Keep furniture low so you can see the walls.",
+        "Clear clutter: less stuff makes a room feel bigger."
+      ],
+      "task": "List five tricks to make a small room look bigger.",
+      "challenge": "Make a small room feel bigger without buying anything.",
+      "quiz": [
+        {
+          "q": "What colours should you use on the walls of a small room?",
+          "options": [
+            "Dark colours",
+            "Light colours",
+            "Bright red",
+            "Black"
+          ],
+          "answer": 1,
+          "explain": "Light colours on the walls make a small room feel bigger."
+        },
+        {
+          "q": "What does a big mirror do in a small room?",
+          "options": [
+            "It makes the room darker",
+            "It takes up floor space",
+            "It bounces light around",
+            "It makes the room smaller"
+          ],
+          "answer": 2,
+          "explain": "A big mirror bounces light around and makes the room feel bigger."
+        },
+        {
+          "q": "Why keep furniture low in a small room?",
+          "options": [
+            "To save money",
+            "So you can see the walls",
+            "To hide the floor",
+            "It is the law"
+          ],
+          "answer": 1,
+          "explain": "Low furniture lets you see the walls, so the room feels bigger."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Mirrors and Light",
+      "goal": "Use mirrors and light to open up a room.",
+      "video": {
+        "youtube_id": "hOOFilGM5Rw",
+        "title": "How to Make Your Home Look Expensive for $0",
+        "channel": "DIY Home Fix"
+      },
+      "steps": [
+        "Hang a mirror opposite a window to bounce light in.",
+        "Use lamps in dark corners.",
+        "Keep windows clear of heavy curtains.",
+        "Use warm light in bedrooms and bright light in kitchens."
+      ],
+      "task": "Place a mirror to bounce light into a dark corner.",
+      "challenge": "Light a room with three sources of light.",
+      "quiz": [
+        {
+          "q": "Why hang a mirror opposite a window?",
+          "options": [
+            "For looks",
+            "To bounce light into the room",
+            "To see outside",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "A mirror opposite a window reflects light and makes the room brighter."
+        },
+        {
+          "q": "What light suits a bedroom?",
+          "options": [
+            "Bright white light",
+            "Warm soft light",
+            "No light",
+            "Coloured light"
+          ],
+          "answer": 1,
+          "explain": "Warm soft light helps a bedroom feel calm and cosy."
+        },
+        {
+          "q": "Why keep windows clear of heavy curtains?",
+          "options": [
+            "For looks",
+            "So light can come in",
+            "To save money",
+            "It is the law"
+          ],
+          "answer": 1,
+          "explain": "Clear windows let natural light in and make rooms feel bigger."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Make a Home Look Expensive for Free",
+      "goal": "Style a room to look expensive without spending money.",
+      "video": {
+        "youtube_id": "hOOFilGM5Rw",
+        "title": "How to Make Your Home Look Expensive for $0",
+        "channel": "DIY Home Fix"
+      },
+      "steps": [
+        "Declutter: remove what you do not need.",
+        "Straighten cushions and fold throws neatly.",
+        "Group small items in threes.",
+        "Clean windows and floors so light shines."
+      ],
+      "task": "Style a room to look expensive using only what is there.",
+      "challenge": "Declutter one room and style it neatly.",
+      "quiz": [
+        {
+          "q": "What is the first step to make a room look expensive for free?",
+          "options": [
+            "Buy new furniture",
+            "Declutter: remove what you do not need",
+            "Paint the walls",
+            "Buy art"
+          ],
+          "answer": 1,
+          "explain": "Decluttering is free and makes the biggest difference to how a room looks."
+        },
+        {
+          "q": "Why group small items in threes?",
+          "options": [
+            "It is the law",
+            "Groups of three look balanced and stylish",
+            "It saves space",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Odd groups, especially threes, look natural and pleasing to the eye."
+        },
+        {
+          "q": "What is a budget makeover?",
+          "options": [
+            "A new house",
+            "A room makeover with a small amount of money",
+            "A free makeover",
+            "A big renovation"
+          ],
+          "answer": 1,
+          "explain": "A budget makeover transforms a room with little money, using paint and small changes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project: Restyle One Room for Free",
+      "goal": "Restyle one room using only what you already have.",
+      "video": {
+        "youtube_id": "WHY6HOBbIaQ",
+        "title": "15 Decorating Tricks That Transform Any Room! | Budget Decorating Tips Part 2",
+        "channel": "Home Decor Tutorials"
+      },
+      "steps": [
+        "Pick one room and clear the clutter.",
+        "Move furniture to a better layout.",
+        "Swap cushions and art between rooms.",
+        "Add a plant or a lamp from another room."
+      ],
+      "task": "Finish a room restyled for free that looks new.",
+      "challenge": "Restyle a room with no new purchases.",
+      "quiz": [
+        {
+          "q": "What is the first step when you restyle a room for free?",
+          "options": [
+            "Buy new furniture",
+            "Paint the walls",
+            "Pick one room and clear the clutter",
+            "Buy art"
+          ],
+          "answer": 2,
+          "explain": "Start by picking one room and clearing the clutter."
+        },
+        {
+          "q": "How can you change a room without spending money?",
+          "options": [
+            "Move furniture to a better layout",
+            "Buy a new sofa",
+            "Knock down a wall",
+            "Paint the ceiling"
+          ],
+          "answer": 0,
+          "explain": "Moving furniture to a better layout changes the room for free."
+        },
+        {
+          "q": "What can you bring in from another room to finish the restyle?",
+          "options": [
+            "A new carpet",
+            "A plant or a lamp",
+            "A new bed",
+            "A new door"
+          ],
+          "answer": 1,
+          "explain": "A plant or a lamp from another room adds life for free."
+        }
+      ],
+      "project": {
+        "title": "Restyle One Room for Free",
+        "brief": "Restyle one room using only what you already have.",
+        "checks": [
+          "Room decluttered",
+          "Furniture moved to a better layout",
+          "Cushions and art swapped",
+          "Plant or lamp added",
+          "Room looks new",
+          "No money spent"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Budget Decorating Tricks",
+      "goal": "Transform a room on a small budget.",
+      "video": {
+        "youtube_id": "WHY6HOBbIaQ",
+        "title": "15 Decorating Tricks That Transform Any Room! | Budget Decorating Tips Part 2",
+        "channel": "Home Decor Tutorials"
+      },
+      "steps": [
+        "Paint one wall a bold colour instead of the whole room.",
+        "Change cushion covers, not the sofa.",
+        "Use peel-and-stick wallpaper on one wall.",
+        "Shop second-hand for unique pieces."
+      ],
+      "task": "List five budget tricks to transform a room.",
+      "challenge": "Transform a corner of a room for under $20.",
+      "quiz": [
+        {
+          "q": "How can you add a bold colour cheaply?",
+          "options": [
+            "Paint the whole room",
+            "Paint one wall a bold colour",
+            "Buy a new sofa",
+            "Change the floor"
+          ],
+          "answer": 1,
+          "explain": "Painting one wall a bold colour is cheap and makes a big change."
+        },
+        {
+          "q": "What should you change instead of buying a new sofa?",
+          "options": [
+            "The legs",
+            "The room",
+            "The cushion covers",
+            "The windows"
+          ],
+          "answer": 2,
+          "explain": "Changing the cushion covers freshens a sofa without buying a new one."
+        },
+        {
+          "q": "Where can you find unique pieces cheaply?",
+          "options": [
+            "New furniture shops",
+            "Second-hand shops",
+            "Hotels",
+            "The library"
+          ],
+          "answer": 1,
+          "explain": "Second-hand shops are a good place to find unique pieces cheaply."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Furniture Layout",
+      "goal": "Arrange furniture so a room works well.",
+      "video": {
+        "youtube_id": "WHY6HOBbIaQ",
+        "title": "15 Decorating Tricks That Transform Any Room! | Budget Decorating Tips Part 2",
+        "channel": "Home Decor Tutorials"
+      },
+      "steps": [
+        "Leave a clear path to walk through the room.",
+        "Put the sofa facing the main focus: TV, window or fireplace.",
+        "Do not push all furniture against the walls.",
+        "Test the layout by walking through it."
+      ],
+      "task": "Draw a furniture layout for a living room.",
+      "challenge": "Rearrange a room so the path is clear.",
+      "quiz": [
+        {
+          "q": "Why leave a clear path in a room?",
+          "options": [
+            "For looks",
+            "So people can walk through easily",
+            "To save space",
+            "It is the law"
+          ],
+          "answer": 1,
+          "explain": "A clear path makes a room easy to use and feel bigger."
+        },
+        {
+          "q": "Where should a sofa face?",
+          "options": [
+            "The wall",
+            "The main focus: TV, window or fireplace",
+            "The door",
+            "The corner"
+          ],
+          "answer": 1,
+          "explain": "The sofa should face what the room is for: the TV, window or view."
+        },
+        {
+          "q": "Why not push all furniture against the walls?",
+          "options": [
+            "It is the law",
+            "It leaves the middle empty and the room feels cold",
+            "It is faster",
+            "It saves paint"
+          ],
+          "answer": 1,
+          "explain": "Pulling furniture in makes a room feel cosy and used."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Budget Makeover Under $50",
+      "goal": "Plan a room makeover for under $50.",
+      "video": {
+        "youtube_id": "Bftqb9MTmXY",
+        "title": "Nobody Believes This Home Makeover Cost Under $50!",
+        "channel": "Decorezo"
+      },
+      "steps": [
+        "Pick one room and set a $50 budget.",
+        "List what to buy: paint, cushions, a plant.",
+        "Do the work yourself: paint, move, style.",
+        "Take before and after photos."
+      ],
+      "task": "Plan a makeover under $50 with a shopping list.",
+      "challenge": "Make over a room for under $50.",
+      "quiz": [
+        {
+          "q": "What should you set before a budget makeover?",
+          "options": [
+            "A new sofa",
+            "A $50 budget",
+            "A builder",
+            "A loan"
+          ],
+          "answer": 1,
+          "explain": "Pick one room and set a $50 budget before you start."
+        },
+        {
+          "q": "What might be on your shopping list for a $50 makeover?",
+          "options": [
+            "A new bed",
+            "Paint, cushions and a plant",
+            "A new kitchen",
+            "A car"
+          ],
+          "answer": 1,
+          "explain": "Paint, cushions and a plant are typical buys for a small-budget makeover."
+        },
+        {
+          "q": "What should you do yourself in a budget makeover?",
+          "options": [
+            "Hire a builder",
+            "Buy everything new",
+            "Paint, move and style",
+            "Skip the work"
+          ],
+          "answer": 2,
+          "explain": "Do the work yourself: paint, move and style the room."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Small Space Living",
+      "goal": "Live well in a small space with smart design.",
+      "video": {
+        "youtube_id": "Bftqb9MTmXY",
+        "title": "Nobody Believes This Home Makeover Cost Under $50!",
+        "channel": "Decorezo"
+      },
+      "steps": [
+        "Use furniture that does two jobs: a bed with storage.",
+        "Use vertical space: shelves up the wall.",
+        "Use folding furniture that packs away.",
+        "Keep one colour scheme so the space feels calm."
+      ],
+      "task": "List five ideas for a small flat.",
+      "challenge": "Design a small room with storage in three places.",
+      "quiz": [
+        {
+          "q": "What furniture works well in a small space?",
+          "options": [
+            "One big sofa",
+            "Furniture that does two jobs, like a bed with storage",
+            "A dining table",
+            "A wardrobe"
+          ],
+          "answer": 1,
+          "explain": "Furniture that does two jobs, like a bed with storage, saves space."
+        },
+        {
+          "q": "How do you use vertical space?",
+          "options": [
+            "Buy taller furniture",
+            "Use shelves up the wall",
+            "Paint the ceiling",
+            "Stack boxes"
+          ],
+          "answer": 1,
+          "explain": "Shelves up the wall use space that would otherwise be wasted."
+        },
+        {
+          "q": "Why keep one colour scheme in a small space?",
+          "options": [
+            "It is the law",
+            "So the space feels calm and bigger",
+            "It is cheaper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "One colour scheme stops a small space feeling busy and cramped."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Storage That Looks Good",
+      "goal": "Add storage that is also decoration.",
+      "video": {
+        "youtube_id": "Bftqb9MTmXY",
+        "title": "Nobody Believes This Home Makeover Cost Under $50!",
+        "channel": "Decorezo"
+      },
+      "steps": [
+        "Use baskets for toys and blankets.",
+        "Use open shelves to show pretty things.",
+        "Use boxes that match the room colours.",
+        "Label boxes so you can find things fast."
+      ],
+      "task": "Add storage to a room that looks good.",
+      "challenge": "Organise a shelf so it looks styled, not messy.",
+      "quiz": [
+        {
+          "q": "What are baskets good for in a room?",
+          "options": [
+            "Food",
+            "Toys and blankets",
+            "Shoes only",
+            "Books only"
+          ],
+          "answer": 1,
+          "explain": "Baskets are handy storage for toys and blankets."
+        },
+        {
+          "q": "Why use open shelves?",
+          "options": [
+            "To hide everything",
+            "To show pretty things",
+            "To save paint",
+            "It is the law"
+          ],
+          "answer": 1,
+          "explain": "Open shelves show off pretty things while they store them."
+        },
+        {
+          "q": "Why label your storage boxes?",
+          "options": [
+            "For looks",
+            "It is the law",
+            "So you can find things fast",
+            "To save money"
+          ],
+          "answer": 2,
+          "explain": "Labels help you find things fast."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Project: Small-Space Plan and Restyle",
+      "goal": "Plan and restyle a small space with storage and style.",
+      "video": {
+        "youtube_id": "Y__xbWaBGHg",
+        "title": "Design Tips for Small Space Living",
+        "channel": "Kimball Starr"
+      },
+      "steps": [
+        "Measure the room and draw a plan.",
+        "Pick a colour scheme and a layout.",
+        "Add storage: shelves, baskets and boxes.",
+        "Style the room and take before and after photos."
+      ],
+      "task": "Finish a small space restyled with storage and style.",
+      "challenge": "Restyle a small space with a clear plan.",
+      "quiz": [
+        {
+          "q": "What should you do first when you plan a small-space restyle?",
+          "options": [
+            "Buy furniture",
+            "Measure the room and draw a plan",
+            "Paint the walls",
+            "Take photos"
+          ],
+          "answer": 1,
+          "explain": "Measure the room and draw a plan before you buy anything."
+        },
+        {
+          "q": "What should your plan pick for the room?",
+          "options": [
+            "A new house",
+            "A colour scheme and a layout",
+            "A builder",
+            "A loan"
+          ],
+          "answer": 1,
+          "explain": "Pick a colour scheme and a layout in your plan."
+        },
+        {
+          "q": "What storage can you add to a small space?",
+          "options": [
+            "A garage",
+            "Shelves, baskets and boxes",
+            "A new room",
+            "A loft"
+          ],
+          "answer": 1,
+          "explain": "Shelves, baskets and boxes add storage without taking much space."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Creative Tips for Small Spaces",
+      "goal": "Use creative tricks to make small spaces work harder.",
+      "video": {
+        "youtube_id": "Y__xbWaBGHg",
+        "title": "Design Tips for Small Space Living",
+        "channel": "Kimball Starr"
+      },
+      "steps": [
+        "Use a rug to define a zone in a room.",
+        "Use a curtain to hide storage.",
+        "Use a fold-down desk for work.",
+        "Use plants to add life without taking floor space."
+      ],
+      "task": "List five creative tricks for small spaces.",
+      "challenge": "Define two zones in one room with a rug.",
+      "quiz": [
+        {
+          "q": "What is a rug for in a small space?",
+          "options": [
+            "To keep feet warm",
+            "To define a zone in a room",
+            "To hide the floor",
+            "For colour only"
+          ],
+          "answer": 1,
+          "explain": "A rug marks out a zone, like a reading corner, in an open room."
+        },
+        {
+          "q": "What can a curtain do in a small space?",
+          "options": [
+            "Block all light",
+            "Hide storage",
+            "Hold up the ceiling",
+            "Replace a door"
+          ],
+          "answer": 1,
+          "explain": "A curtain can hide storage in a small space."
+        },
+        {
+          "q": "What adds life to a room without taking floor space?",
+          "options": [
+            "A big sofa",
+            "Plants",
+            "A bookshelf",
+            "A table"
+          ],
+          "answer": 1,
+          "explain": "Plants add life without taking floor space."
+        }
+      ],
+      "project": {
+        "title": "Small-Space Plan and Restyle",
+        "brief": "Plan and restyle a small space with storage and style.",
+        "checks": [
+          "Room measured and drawn",
+          "Colour scheme chosen",
+          "Storage added",
+          "Layout works",
+          "Styled neatly",
+          "Before and after photos taken"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Style a Kitchen Corner",
+      "goal": "Style a kitchen corner so it looks like a hotel kitchen.",
+      "video": {
+        "youtube_id": "Y__xbWaBGHg",
+        "title": "Design Tips for Small Space Living",
+        "channel": "Kimball Starr"
+      },
+      "steps": [
+        "Clear the counter: keep only what you use daily.",
+        "Add a plant or a vase of herbs.",
+        "Use matching jars for tea, coffee and sugar.",
+        "Hang a small picture or a clock."
+      ],
+      "task": "Style a kitchen corner neatly.",
+      "challenge": "Style a kitchen counter with matching jars.",
+      "quiz": [
+        {
+          "q": "What should you keep on a kitchen counter?",
+          "options": [
+            "Everything you own",
+            "Only what you use daily",
+            "Dirty dishes",
+            "Old newspapers"
+          ],
+          "answer": 1,
+          "explain": "Clear the counter and keep only what you use daily."
+        },
+        {
+          "q": "What can you add to a kitchen corner for life?",
+          "options": [
+            "A television",
+            "A plant or a vase of herbs",
+            "A bed",
+            "A wardrobe"
+          ],
+          "answer": 1,
+          "explain": "A plant or a vase of herbs brings a kitchen corner to life."
+        },
+        {
+          "q": "What should jars for tea, coffee and sugar be?",
+          "options": [
+            "All different colours",
+            "Matching",
+            "Made of paper",
+            "Kept empty"
+          ],
+          "answer": 1,
+          "explain": "Use matching jars for tea, coffee and sugar."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Bedroom Styling: Hotel Rules",
+      "goal": "Style a bedroom like a five-star hotel room.",
+      "video": {
+        "youtube_id": "ImbnMQ5DwSU",
+        "title": "8 Creative Design Tips For Decorating Small Spaces",
+        "channel": "Home Decor Tutorials"
+      },
+      "steps": [
+        "Use white or light bedding for a clean look.",
+        "Layer the bed: sheet, duvet, throw and cushions.",
+        "Use matching lamps on both bedside tables.",
+        "Keep the bedside tables clear of clutter."
+      ],
+      "task": "Style a bed like a hotel bed.",
+      "challenge": "Layer a bed with a throw and cushions.",
+      "quiz": [
+        {
+          "q": "What bedding gives a clean hotel look?",
+          "options": [
+            "Dark bedding",
+            "White or light bedding",
+            "No bedding",
+            "Patterned bedding only"
+          ],
+          "answer": 1,
+          "explain": "White or light bedding gives a clean hotel look."
+        },
+        {
+          "q": "How do you layer a bed?",
+          "options": [
+            "Pillows only",
+            "Sheet, duvet, throw and cushions",
+            "One blanket",
+            "A rug"
+          ],
+          "answer": 1,
+          "explain": "Layer the bed: sheet, duvet, throw and cushions."
+        },
+        {
+          "q": "What should bedside tables have in a hotel-style bedroom?",
+          "options": [
+            "Different lamps",
+            "Matching lamps",
+            "No lamps",
+            "Televisions"
+          ],
+          "answer": 1,
+          "explain": "Use matching lamps on both bedside tables."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Bedding and Layers",
+      "goal": "Layer bedding for comfort and looks.",
+      "video": {
+        "youtube_id": "ImbnMQ5DwSU",
+        "title": "8 Creative Design Tips For Decorating Small Spaces",
+        "channel": "Home Decor Tutorials"
+      },
+      "steps": [
+        "Start with a fitted sheet, then a flat sheet.",
+        "Add a duvet or blanket, then a throw.",
+        "Add two sleeping pillows and two decorative cushions.",
+        "Choose colours that match the room."
+      ],
+      "task": "Make a bed with layers that look inviting.",
+      "challenge": "Layer a bed in a colour scheme.",
+      "quiz": [
+        {
+          "q": "What goes on the bed first when you layer bedding?",
+          "options": [
+            "A throw",
+            "A fitted sheet, then a flat sheet",
+            "Cushions",
+            "A rug"
+          ],
+          "answer": 1,
+          "explain": "Start with a fitted sheet, then a flat sheet."
+        },
+        {
+          "q": "How many pillows should a styled bed have?",
+          "options": [
+            "One only",
+            "Six sleeping pillows",
+            "Two sleeping and two decorative",
+            "None"
+          ],
+          "answer": 2,
+          "explain": "Add two sleeping pillows and two decorative cushions."
+        },
+        {
+          "q": "What should bedding colours do?",
+          "options": [
+            "Clash with the room",
+            "Match the room",
+            "Be all black",
+            "Be all white"
+          ],
+          "answer": 1,
+          "explain": "Choose colours that match the room."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Entryways",
+      "goal": "Style a small entryway so guests feel welcome.",
+      "video": {
+        "youtube_id": "ImbnMQ5DwSU",
+        "title": "8 Creative Design Tips For Decorating Small Spaces",
+        "channel": "Home Decor Tutorials"
+      },
+      "steps": [
+        "Add a small table or shelf for keys.",
+        "Add a mirror so guests can check themselves.",
+        "Add a mat that is easy to clean.",
+        "Add a hook for coats and bags."
+      ],
+      "task": "Style an entryway with a mirror and hooks.",
+      "challenge": "Make a small entryway feel welcoming.",
+      "quiz": [
+        {
+          "q": "What is a small table in an entryway for?",
+          "options": [
+            "Food",
+            "Keys",
+            "Shoes",
+            "Books"
+          ],
+          "answer": 1,
+          "explain": "Add a small table or shelf for keys in the entryway."
+        },
+        {
+          "q": "Why put a mirror in an entryway?",
+          "options": [
+            "To make it dark",
+            "So guests can check themselves",
+            "For looks only",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "A mirror lets guests check themselves as they arrive."
+        },
+        {
+          "q": "What should an entryway mat be?",
+          "options": [
+            "Very thick",
+            "Easy to clean",
+            "Made of paper",
+            "White"
+          ],
+          "answer": 1,
+          "explain": "Add a mat that is easy to clean."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Project: Style a Kitchen Corner",
+      "goal": "Style a kitchen corner from messy to hotel-luxury.",
+      "video": {
+        "youtube_id": "nJVAIPDcfQ8",
+        "title": "Small Kitchen, Luxury Flow",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Clear the corner and clean it.",
+        "Add matching jars and a plant.",
+        "Hang a picture or a clock.",
+        "Take before and after photos."
+      ],
+      "task": "Finish a kitchen corner styled like a hotel kitchen.",
+      "challenge": "Style a kitchen corner with a clear plan.",
+      "quiz": [
+        {
+          "q": "What is the first step to style a kitchen corner?",
+          "options": [
+            "Buy new cupboards",
+            "Clear the corner and clean it",
+            "Paint the ceiling",
+            "Knock down a wall"
+          ],
+          "answer": 1,
+          "explain": "Clear the corner and clean it first."
+        },
+        {
+          "q": "What should you add to a styled kitchen corner?",
+          "options": [
+            "A television",
+            "Matching jars and a plant",
+            "A bed",
+            "A fridge"
+          ],
+          "answer": 1,
+          "explain": "Add matching jars and a plant to the corner."
+        },
+        {
+          "q": "What should you hang in a kitchen corner?",
+          "options": [
+            "A curtain",
+            "A picture or a clock",
+            "A coat",
+            "A towel"
+          ],
+          "answer": 1,
+          "explain": "Hang a small picture or a clock in the corner."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Hotel Bedroom Rules",
+      "goal": "Apply hotel bedroom rules to a real bedroom.",
+      "video": {
+        "youtube_id": "nJVAIPDcfQ8",
+        "title": "Small Kitchen, Luxury Flow",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Use matching bedside lamps.",
+        "Keep the floor clear.",
+        "Add a rug beside the bed.",
+        "Use blackout curtains for good sleep."
+      ],
+      "task": "Style a bedroom using five hotel rules.",
+      "challenge": "List ten hotel bedroom rules from memory.",
+      "quiz": [
+        {
+          "q": "What lamps should a hotel-style bedroom have?",
+          "options": [
+            "Different lamps",
+            "Matching bedside lamps",
+            "No lamps",
+            "One lamp only"
+          ],
+          "answer": 1,
+          "explain": "Use matching bedside lamps in a hotel-style bedroom."
+        },
+        {
+          "q": "What should you put beside the bed?",
+          "options": [
+            "A table",
+            "A rug",
+            "A chair",
+            "A plant"
+          ],
+          "answer": 1,
+          "explain": "Add a rug beside the bed."
+        },
+        {
+          "q": "What curtains help you sleep well?",
+          "options": [
+            "Sheer curtains",
+            "Blackout curtains",
+            "No curtains",
+            "Short curtains"
+          ],
+          "answer": 1,
+          "explain": "Use blackout curtains for good sleep."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Thrifted Decor",
+      "goal": "Find and style second-hand decor.",
+      "video": {
+        "youtube_id": "nJVAIPDcfQ8",
+        "title": "Small Kitchen, Luxury Flow",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Shop thrift stores, markets and online for cheap finds.",
+        "Look for solid wood, glass and metal: they last.",
+        "Clean and paint finds to match your room.",
+        "Mix one thrifted piece with new pieces."
+      ],
+      "task": "Find a thrifted piece and style it in a room.",
+      "challenge": "Paint a thrifted piece to match a room.",
+      "quiz": [
+        {
+          "q": "What should you look for in thrifted finds?",
+          "options": [
+            "Plastic",
+            "Solid wood, glass and metal",
+            "Paper",
+            "Foam"
+          ],
+          "answer": 1,
+          "explain": "Look for solid wood, glass and metal: they last."
+        },
+        {
+          "q": "What should you do with a thrifted find before you use it?",
+          "options": [
+            "Use it dirty",
+            "Clean and paint it to match your room",
+            "Throw it away",
+            "Hide it"
+          ],
+          "answer": 1,
+          "explain": "Clean and paint finds to match your room."
+        },
+        {
+          "q": "How should you mix a thrifted piece with new pieces?",
+          "options": [
+            "Use only thrifted pieces",
+            "Hide the thrifted piece",
+            "Mix one thrifted piece with new pieces",
+            "Paint everything black"
+          ],
+          "answer": 2,
+          "explain": "Mix one thrifted piece with new pieces."
+        }
+      ],
+      "project": {
+        "title": "Style a Kitchen Corner",
+        "brief": "Style a kitchen corner from messy to hotel-luxury.",
+        "checks": [
+          "Corner cleared and cleaned",
+          "Matching jars added",
+          "Plant added",
+          "Picture or clock hung",
+          "Looks like a hotel kitchen",
+          "Before and after photos taken"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Styling with Plants",
+      "goal": "Use plants to bring a room to life.",
+      "video": {
+        "youtube_id": "QONk1wXWlw8",
+        "title": "20 Five-Star Boutique Hotel Bedroom Styling Rules",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Pick plants that suit the light in the room.",
+        "Use pots that match the room colours.",
+        "Group plants in threes at different heights.",
+        "Water them on a set day each week."
+      ],
+      "task": "Style a room with three plants.",
+      "challenge": "Pick a plant for a dark corner.",
+      "quiz": [
+        {
+          "q": "How should you pick plants for a room?",
+          "options": [
+            "Pick any plant",
+            "Pick plants that suit the light in the room",
+            "Pick the biggest plant",
+            "Pick fake plants only"
+          ],
+          "answer": 1,
+          "explain": "Pick plants that suit the light in the room."
+        },
+        {
+          "q": "What should plant pots do?",
+          "options": [
+            "Clash with the room",
+            "Match the room colours",
+            "Be all black",
+            "Be all white"
+          ],
+          "answer": 1,
+          "explain": "Use pots that match the room colours."
+        },
+        {
+          "q": "How should you group plants?",
+          "options": [
+            "In a straight line",
+            "All the same height",
+            "In threes at different heights",
+            "One by one"
+          ],
+          "answer": 2,
+          "explain": "Group plants in threes at different heights."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Art and Walls",
+      "goal": "Hang art and pictures so a room feels finished.",
+      "video": {
+        "youtube_id": "QONk1wXWlw8",
+        "title": "20 Five-Star Boutique Hotel Bedroom Styling Rules",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Hang art at eye level: about 150cm from the floor.",
+        "Group small pictures together in a grid.",
+        "Use frames that match each other.",
+        "Do not hang art too high or too low."
+      ],
+      "task": "Hang a picture at eye level.",
+      "challenge": "Arrange three pictures in a grid.",
+      "quiz": [
+        {
+          "q": "At what height should art hang?",
+          "options": [
+            "At the ceiling",
+            "At eye level, about 150cm from the floor",
+            "At the floor",
+            "Above the door"
+          ],
+          "answer": 1,
+          "explain": "Art at eye level, about 150cm up, is easy to see and looks right."
+        },
+        {
+          "q": "Why group small pictures in a grid?",
+          "options": [
+            "To save nails",
+            "So they look like one neat display",
+            "It is the law",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "A grid groups small pictures into one tidy display."
+        },
+        {
+          "q": "What do matching frames do?",
+          "options": [
+            "Cost more",
+            "Make pictures look like a set",
+            "Hide the art",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Matching frames make different pictures look like they belong together."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Textiles: Curtains, Cushions and Throws",
+      "goal": "Use fabrics to add colour and comfort.",
+      "video": {
+        "youtube_id": "QONk1wXWlw8",
+        "title": "20 Five-Star Boutique Hotel Bedroom Styling Rules",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Hang curtains high and wide so windows look bigger.",
+        "Mix cushion sizes and textures.",
+        "Use a throw to add a pop of colour.",
+        "Wash fabrics before you use them."
+      ],
+      "task": "Style a sofa with cushions and a throw.",
+      "challenge": "Hang curtains so a window looks bigger.",
+      "quiz": [
+        {
+          "q": "How should you hang curtains to make windows look bigger?",
+          "options": [
+            "Low and narrow",
+            "High and wide",
+            "Only at night",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Hang curtains high and wide so windows look bigger."
+        },
+        {
+          "q": "How should you mix cushions?",
+          "options": [
+            "Use all the same",
+            "Mix cushion sizes and textures",
+            "Use one only",
+            "Use none"
+          ],
+          "answer": 1,
+          "explain": "Mix cushion sizes and textures."
+        },
+        {
+          "q": "What does a throw add to a room?",
+          "options": [
+            "Warmth only",
+            "A pop of colour",
+            "Nothing",
+            "Dust"
+          ],
+          "answer": 1,
+          "explain": "Use a throw to add a pop of colour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Interior Decoration Business Basics",
+      "goal": "Learn how a small decorating business works.",
+      "video": {
+        "youtube_id": "WeHK7x3nIxM",
+        "title": "Small Entryways, Quiet Luxury",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Work out your fee: time, travel and shopping.",
+        "Offer a room restyle for a set price.",
+        "Learn where to find clients: friends, social media, markets.",
+        "Keep a simple record of jobs and costs."
+      ],
+      "task": "Work out the fee for a one-room restyle.",
+      "challenge": "List three ways to find decorating clients.",
+      "quiz": [
+        {
+          "q": "What should a decorating quote include?",
+          "options": [
+            "Only the price",
+            "Time, travel, shopping and profit",
+            "Your name only",
+            "The room size only"
+          ],
+          "answer": 1,
+          "explain": "A clear quote covers time, travel, shopping costs and profit."
+        },
+        {
+          "q": "Why take before and after photos?",
+          "options": [
+            "For fun",
+            "To show clients the change you made",
+            "It is the law",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Before and after photos prove your work and win new clients."
+        },
+        {
+          "q": "Where can a decorator find clients?",
+          "options": [
+            "Only in shops",
+            "Friends, social media and markets",
+            "Only online",
+            "Only in hotels"
+          ],
+          "answer": 1,
+          "explain": "Friends, social media and local markets are good places to find decorating work."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Price a Room Restyle",
+      "goal": "Price a decorating job so the business pays.",
+      "video": {
+        "youtube_id": "WeHK7x3nIxM",
+        "title": "Small Entryways, Quiet Luxury",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Add up your time at a fair hourly rate.",
+        "Add shopping and travel costs.",
+        "Add profit and give a clear quote.",
+        "Compare your price with decorators in your area."
+      ],
+      "task": "Write a quote for a one-room restyle.",
+      "challenge": "Price a two-room restyle with a shopping list.",
+      "quiz": [
+        {
+          "q": "How do you work out the cost of your time?",
+          "options": [
+            "Guess",
+            "Add up your time at a fair hourly rate",
+            "Charge nothing",
+            "Copy a friend's price"
+          ],
+          "answer": 1,
+          "explain": "Add up your time at a fair hourly rate."
+        },
+        {
+          "q": "What should you add to a quote besides your time?",
+          "options": [
+            "A tip",
+            "Shopping and travel costs",
+            "A gift",
+            "A discount"
+          ],
+          "answer": 1,
+          "explain": "Add shopping and travel costs to your quote."
+        },
+        {
+          "q": "What should you compare your price with?",
+          "options": [
+            "Shops online",
+            "Decorators in your area",
+            "Hotels",
+            "Builders"
+          ],
+          "answer": 1,
+          "explain": "Compare your price with decorators in your area."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Style an Entryway on a Budget",
+      "goal": "Style a small entryway with cheap or free items.",
+      "video": {
+        "youtube_id": "WeHK7x3nIxM",
+        "title": "Small Entryways, Quiet Luxury",
+        "channel": "Deandra House"
+      },
+      "steps": [
+        "Add a small table or shelf for keys.",
+        "Hang a mirror you already own.",
+        "Add a hook for coats and bags.",
+        "Add a mat that is easy to clean."
+      ],
+      "task": "Style an entryway using only what you have.",
+      "challenge": "Make a small entryway feel welcoming for free.",
+      "quiz": [
+        {
+          "q": "What can you use for keys in a budget entryway?",
+          "options": [
+            "A drawer in the kitchen",
+            "A small table or shelf",
+            "The floor",
+            "A bag"
+          ],
+          "answer": 1,
+          "explain": "Add a small table or shelf for keys."
+        },
+        {
+          "q": "Which mirror should you use when you style on a budget?",
+          "options": [
+            "A new expensive one",
+            "One you already own",
+            "No mirror",
+            "A broken one"
+          ],
+          "answer": 1,
+          "explain": "Hang a mirror you already own."
+        },
+        {
+          "q": "What should you add for coats and bags?",
+          "options": [
+            "A chair",
+            "A hook",
+            "A table",
+            "A shelf"
+          ],
+          "answer": 1,
+          "explain": "Add a hook for coats and bags."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Thrift a Statement Piece",
+      "goal": "Find one thrifted piece that makes a room special.",
+      "video": {
+        "youtube_id": "hYpCPYUAiro",
+        "title": "Thrifted Decor: How to Style $1-$8 Finds",
+        "channel": "Comfy Home DIYs"
+      },
+      "steps": [
+        "Shop thrift stores and markets for a solid piece.",
+        "Look for wood, glass or metal that lasts.",
+        "Clean and paint it to match your room.",
+        "Place it where guests will notice it."
+      ],
+      "task": "Find a thrifted piece and style it in a room.",
+      "challenge": "Paint a thrifted piece to match a room.",
+      "quiz": [
+        {
+          "q": "Where can you find cheap decor?",
+          "options": [
+            "Only in new shops",
+            "Thrift stores, markets and online",
+            "Only in hotels",
+            "Only from friends"
+          ],
+          "answer": 1,
+          "explain": "Thrift stores, markets and online listings sell good decor cheaply."
+        },
+        {
+          "q": "What materials last best in thrifted finds?",
+          "options": [
+            "Plastic",
+            "Solid wood, glass and metal",
+            "Paper",
+            "Foam"
+          ],
+          "answer": 1,
+          "explain": "Wood, glass and metal last for years and clean up well."
+        },
+        {
+          "q": "Why paint a thrifted piece?",
+          "options": [
+            "To hide it",
+            "To make it match your room",
+            "It is the law",
+            "To make it heavier"
+          ],
+          "answer": 1,
+          "explain": "A coat of paint in your room colours makes a second-hand piece look new."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Capstone Planning",
+      "goal": "Choose your capstone room, plan the restyle and buy supplies.",
+      "video": {
+        "youtube_id": "hYpCPYUAiro",
+        "title": "Thrifted Decor: How to Style $1-$8 Finds",
+        "channel": "Comfy Home DIYs"
+      },
+      "steps": [
+        "Pick a room to restyle fully.",
+        "Draw a plan with layout, colours and budget.",
+        "Buy or gather all supplies.",
+        "Take before photos of the room."
+      ],
+      "task": "Have a full plan, budget and supplies for the capstone room.",
+      "challenge": "Plan a room restyle with a budget under $100.",
+      "quiz": [
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "A new house",
+            "Layout, colours and budget",
+            "A builder",
+            "A loan"
+          ],
+          "answer": 1,
+          "explain": "Draw a plan with layout, colours and budget."
+        },
+        {
+          "q": "What should you do before you start the restyle?",
+          "options": [
+            "Paint first",
+            "Buy or gather all supplies",
+            "Take after photos",
+            "Hire help"
+          ],
+          "answer": 1,
+          "explain": "Buy or gather all supplies before you start."
+        },
+        {
+          "q": "When should you take before photos?",
+          "options": [
+            "After you finish",
+            "Before you start the restyle",
+            "Never",
+            "At the end"
+          ],
+          "answer": 1,
+          "explain": "Take before photos of the room before you start."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone: Restyle a Room and Present It",
+      "goal": "Restyle a full room and present the before and after.",
+      "video": {
+        "youtube_id": "hYpCPYUAiro",
+        "title": "Thrifted Decor: How to Style $1-$8 Finds",
+        "channel": "Comfy Home DIYs"
+      },
+      "steps": [
+        "Follow your plan: paint, move, style.",
+        "Add storage, plants and art.",
+        "Take after photos from the same spots as the before photos.",
+        "Present the room with the plan, budget and photos."
+      ],
+      "task": "Present a restyled room with before and after photos.",
+      "challenge": "Finish the room restyle on budget.",
+      "quiz": [
+        {
+          "q": "What should you follow when you restyle the room?",
+          "options": [
+            "Your feelings",
+            "Your plan",
+            "A friend's plan",
+            "No plan"
+          ],
+          "answer": 1,
+          "explain": "Follow your plan: paint, move and style."
+        },
+        {
+          "q": "Where should you take after photos from?",
+          "options": [
+            "New spots",
+            "The same spots as the before photos",
+            "Outside",
+            "The roof"
+          ],
+          "answer": 1,
+          "explain": "Take after photos from the same spots as the before photos."
+        },
+        {
+          "q": "What should you present at the end?",
+          "options": [
+            "Only the photos",
+            "The plan, budget and photos",
+            "Only the plan",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Present the room with the plan, budget and photos."
+        }
+      ],
+      "project": null
     }
-   ],
-   "project": null
-  },
-  {
-   "day": 3,
-   "week": 1,
-   "title": "The 60-30-10 Colour Rule",
-   "goal": "Use the 60-30-10 rule to mix colours in a room.",
-   "video": {
-    "youtube_id": "ODcMUUGJQ9g",
-    "title": "13 Design Tricks to Instantly Make Small Spaces Look BIGGER",
-    "channel": "Reynard Lowell"
-   },
-   "steps": [
-    "60 percent is the main colour: walls and big furniture.",
-    "30 percent is the second colour: curtains and chairs.",
-    "10 percent is the accent colour: cushions and art.",
-    "Pick three colours for a room using the rule."
-   ],
-   "task": "Plan a room with the 60-30-10 rule.",
-   "challenge": "Name the three parts of the rule without looking.",
-   "quiz": [
-    {
-     "q": "What are the four parts of interior decoration?",
-     "options": [
-      "Paint, wood, glass, metal",
-      "Colour, layout, light and texture",
-      "Walls, floors, roof, doors",
-      "Sofa, bed, table, chair"
-     ],
-     "answer": 1,
-     "explain": "Decoration is colour, layout, light and texture working together."
-    },
-    {
-     "q": "What is texture in a room?",
-     "options": [
-      "The colour",
-      "How a surface feels: smooth, rough or soft",
-      "The size",
-      "The light"
-     ],
-     "answer": 1,
-     "explain": "Texture is the feel of surfaces, like a soft rug or a rough brick wall."
-    },
-    {
-     "q": "What does decoration change?",
-     "options": [
-      "How a room is built",
-      "How a room looks and feels",
-      "The size of the room",
-      "The roof"
-     ],
-     "answer": 1,
-     "explain": "Decoration changes how a room looks and feels, not its structure."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 4,
-   "week": 1,
-   "title": "Small Spaces Look Bigger",
-   "goal": "Make a small room look bigger with simple tricks.",
-   "video": {
-    "youtube_id": "hOOFilGM5Rw",
-    "title": "How to Make Your Home Look Expensive for $0",
-    "channel": "DIY Home Fix"
-   },
-   "steps": [
-    "Use light colours on the walls.",
-    "Use a big mirror to bounce light around.",
-    "Keep furniture low so you can see the walls.",
-    "Clear clutter: less stuff makes a room feel bigger."
-   ],
-   "task": "List five tricks to make a small room look bigger.",
-   "challenge": "Make a small room feel bigger without buying anything.",
-   "quiz": [
-    {
-     "q": "Which colours feel cosy?",
-     "options": [
-      "Blue and green",
-      "Red, orange and yellow",
-      "White and grey",
-      "Black and purple"
-     ],
-     "answer": 1,
-     "explain": "Warm colours like red, orange and yellow feel cosy and welcoming."
-    },
-    {
-     "q": "Which colours feel calm?",
-     "options": [
-      "Red and orange",
-      "Blue, green and purple",
-      "Yellow and pink",
-      "Black and brown"
-     ],
-     "answer": 1,
-     "explain": "Cool colours like blue and green feel calm and relaxing."
-    },
-    {
-     "q": "What do light colours do to a room?",
-     "options": [
-      "Make it feel smaller",
-      "Make it feel bigger",
-      "Make it darker",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Light colours reflect light and make a room feel bigger."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 5,
-   "week": 1,
-   "title": "Mirrors and Light",
-   "goal": "Use mirrors and light to open up a room.",
-   "video": {
-    "youtube_id": "hOOFilGM5Rw",
-    "title": "How to Make Your Home Look Expensive for $0",
-    "channel": "DIY Home Fix"
-   },
-   "steps": [
-    "Hang a mirror opposite a window to bounce light in.",
-    "Use lamps in dark corners.",
-    "Keep windows clear of heavy curtains.",
-    "Use warm light in bedrooms and bright light in kitchens."
-   ],
-   "task": "Place a mirror to bounce light into a dark corner.",
-   "challenge": "Light a room with three sources of light.",
-   "quiz": [
-    {
-     "q": "Which colours feel cosy?",
-     "options": [
-      "Blue and green",
-      "Red, orange and yellow",
-      "White and grey",
-      "Black and purple"
-     ],
-     "answer": 1,
-     "explain": "Warm colours like red, orange and yellow feel cosy and welcoming."
-    },
-    {
-     "q": "Which colours feel calm?",
-     "options": [
-      "Red and orange",
-      "Blue, green and purple",
-      "Yellow and pink",
-      "Black and brown"
-     ],
-     "answer": 1,
-     "explain": "Cool colours like blue and green feel calm and relaxing."
-    },
-    {
-     "q": "What do light colours do to a room?",
-     "options": [
-      "Make it feel smaller",
-      "Make it feel bigger",
-      "Make it darker",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Light colours reflect light and make a room feel bigger."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 6,
-   "week": 1,
-   "title": "Make a Home Look Expensive for Free",
-   "goal": "Style a room to look expensive without spending money.",
-   "video": {
-    "youtube_id": "hOOFilGM5Rw",
-    "title": "How to Make Your Home Look Expensive for $0",
-    "channel": "DIY Home Fix"
-   },
-   "steps": [
-    "Declutter: remove what you do not need.",
-    "Straighten cushions and fold throws neatly.",
-    "Group small items in threes.",
-    "Clean windows and floors so light shines."
-   ],
-   "task": "Style a room to look expensive using only what is there.",
-   "challenge": "Declutter one room and style it neatly.",
-   "quiz": [
-    {
-     "q": "Which colours feel cosy?",
-     "options": [
-      "Blue and green",
-      "Red, orange and yellow",
-      "White and grey",
-      "Black and purple"
-     ],
-     "answer": 1,
-     "explain": "Warm colours like red, orange and yellow feel cosy and welcoming."
-    },
-    {
-     "q": "Which colours feel calm?",
-     "options": [
-      "Red and orange",
-      "Blue, green and purple",
-      "Yellow and pink",
-      "Black and brown"
-     ],
-     "answer": 1,
-     "explain": "Cool colours like blue and green feel calm and relaxing."
-    },
-    {
-     "q": "What do light colours do to a room?",
-     "options": [
-      "Make it feel smaller",
-      "Make it feel bigger",
-      "Make it darker",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Light colours reflect light and make a room feel bigger."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 7,
-   "week": 1,
-   "title": "Project: Restyle One Room for Free",
-   "goal": "Restyle one room using only what you already have.",
-   "video": {
-    "youtube_id": "WHY6HOBbIaQ",
-    "title": "15 Decorating Tricks That Transform Any Room! | Budget Decorating Tips Part 2",
-    "channel": "Home Decor Tutorials"
-   },
-   "steps": [
-    "Pick one room and clear the clutter.",
-    "Move furniture to a better layout.",
-    "Swap cushions and art between rooms.",
-    "Add a plant or a lamp from another room."
-   ],
-   "task": "Finish a room restyled for free that looks new.",
-   "challenge": "Restyle a room with no new purchases.",
-   "quiz": [
-    {
-     "q": "What is the 60-30-10 colour rule?",
-     "options": [
-      "60% wall, 30% floor, 10% roof",
-      "60% main colour, 30% second colour, 10% accent colour",
-      "60% paint, 30% fabric, 10% wood",
-      "60% light, 30% dark, 10% white"
-     ],
-     "answer": 1,
-     "explain": "The rule splits a room into 60% main, 30% second and 10% accent colour."
-    },
-    {
-     "q": "What is the accent colour for?",
-     "options": [
-      "Walls",
-      "Small pops of colour like cushions and art",
-      "The floor",
-      "The ceiling"
-     ],
-     "answer": 1,
-     "explain": "The accent colour is the small 10% that adds personality."
-    },
-    {
-     "q": "What is the main colour in a room?",
-     "options": [
-      "Cushions",
-      "Walls and big furniture",
-      "Art",
-      "Lamps"
-     ],
-     "answer": 1,
-     "explain": "The main colour covers 60%: walls and big furniture."
-    }
-   ],
-   "project": {
-    "title": "Restyle One Room for Free",
-    "brief": "Restyle one room using only what you already have.",
-    "checks": [
-     "Room decluttered",
-     "Furniture moved to a better layout",
-     "Cushions and art swapped",
-     "Plant or lamp added",
-     "Room looks new",
-     "No money spent"
-    ]
-   }
-  },
-  {
-   "day": 8,
-   "week": 2,
-   "title": "Budget Decorating Tricks",
-   "goal": "Transform a room on a small budget.",
-   "video": {
-    "youtube_id": "WHY6HOBbIaQ",
-    "title": "15 Decorating Tricks That Transform Any Room! | Budget Decorating Tips Part 2",
-    "channel": "Home Decor Tutorials"
-   },
-   "steps": [
-    "Paint one wall a bold colour instead of the whole room.",
-    "Change cushion covers, not the sofa.",
-    "Use peel-and-stick wallpaper on one wall.",
-    "Shop second-hand for unique pieces."
-   ],
-   "task": "List five budget tricks to transform a room.",
-   "challenge": "Transform a corner of a room for under $20.",
-   "quiz": [
-    {
-     "q": "What is the 60-30-10 colour rule?",
-     "options": [
-      "60% wall, 30% floor, 10% roof",
-      "60% main colour, 30% second colour, 10% accent colour",
-      "60% paint, 30% fabric, 10% wood",
-      "60% light, 30% dark, 10% white"
-     ],
-     "answer": 1,
-     "explain": "The rule splits a room into 60% main, 30% second and 10% accent colour."
-    },
-    {
-     "q": "What is the accent colour for?",
-     "options": [
-      "Walls",
-      "Small pops of colour like cushions and art",
-      "The floor",
-      "The ceiling"
-     ],
-     "answer": 1,
-     "explain": "The accent colour is the small 10% that adds personality."
-    },
-    {
-     "q": "What is the main colour in a room?",
-     "options": [
-      "Cushions",
-      "Walls and big furniture",
-      "Art",
-      "Lamps"
-     ],
-     "answer": 1,
-     "explain": "The main colour covers 60%: walls and big furniture."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 9,
-   "week": 2,
-   "title": "Furniture Layout",
-   "goal": "Arrange furniture so a room works well.",
-   "video": {
-    "youtube_id": "WHY6HOBbIaQ",
-    "title": "15 Decorating Tricks That Transform Any Room! | Budget Decorating Tips Part 2",
-    "channel": "Home Decor Tutorials"
-   },
-   "steps": [
-    "Leave a clear path to walk through the room.",
-    "Put the sofa facing the main focus: TV, window or fireplace.",
-    "Do not push all furniture against the walls.",
-    "Test the layout by walking through it."
-   ],
-   "task": "Draw a furniture layout for a living room.",
-   "challenge": "Rearrange a room so the path is clear.",
-   "quiz": [
-    {
-     "q": "What is the 60-30-10 colour rule?",
-     "options": [
-      "60% wall, 30% floor, 10% roof",
-      "60% main colour, 30% second colour, 10% accent colour",
-      "60% paint, 30% fabric, 10% wood",
-      "60% light, 30% dark, 10% white"
-     ],
-     "answer": 1,
-     "explain": "The rule splits a room into 60% main, 30% second and 10% accent colour."
-    },
-    {
-     "q": "What is the accent colour for?",
-     "options": [
-      "Walls",
-      "Small pops of colour like cushions and art",
-      "The floor",
-      "The ceiling"
-     ],
-     "answer": 1,
-     "explain": "The accent colour is the small 10% that adds personality."
-    },
-    {
-     "q": "What is the main colour in a room?",
-     "options": [
-      "Cushions",
-      "Walls and big furniture",
-      "Art",
-      "Lamps"
-     ],
-     "answer": 1,
-     "explain": "The main colour covers 60%: walls and big furniture."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 10,
-   "week": 2,
-   "title": "Budget Makeover Under $50",
-   "goal": "Plan a room makeover for under $50.",
-   "video": {
-    "youtube_id": "Bftqb9MTmXY",
-    "title": "Nobody Believes This Home Makeover Cost Under $50!",
-    "channel": "Decorezo"
-   },
-   "steps": [
-    "Pick one room and set a $50 budget.",
-    "List what to buy: paint, cushions, a plant.",
-    "Do the work yourself: paint, move, style.",
-    "Take before and after photos."
-   ],
-   "task": "Plan a makeover under $50 with a shopping list.",
-   "challenge": "Make over a room for under $50.",
-   "quiz": [
-    {
-     "q": "Why hang a mirror opposite a window?",
-     "options": [
-      "For looks",
-      "To bounce light into the room",
-      "To see outside",
-      "To save space"
-     ],
-     "answer": 1,
-     "explain": "A mirror opposite a window reflects light and makes the room brighter."
-    },
-    {
-     "q": "What light suits a bedroom?",
-     "options": [
-      "Bright white light",
-      "Warm soft light",
-      "No light",
-      "Coloured light"
-     ],
-     "answer": 1,
-     "explain": "Warm soft light helps a bedroom feel calm and cosy."
-    },
-    {
-     "q": "Why keep windows clear of heavy curtains?",
-     "options": [
-      "For looks",
-      "So light can come in",
-      "To save money",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Clear windows let natural light in and make rooms feel bigger."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 11,
-   "week": 2,
-   "title": "Small Space Living",
-   "goal": "Live well in a small space with smart design.",
-   "video": {
-    "youtube_id": "Bftqb9MTmXY",
-    "title": "Nobody Believes This Home Makeover Cost Under $50!",
-    "channel": "Decorezo"
-   },
-   "steps": [
-    "Use furniture that does two jobs: a bed with storage.",
-    "Use vertical space: shelves up the wall.",
-    "Use folding furniture that packs away.",
-    "Keep one colour scheme so the space feels calm."
-   ],
-   "task": "List five ideas for a small flat.",
-   "challenge": "Design a small room with storage in three places.",
-   "quiz": [
-    {
-     "q": "Why hang a mirror opposite a window?",
-     "options": [
-      "For looks",
-      "To bounce light into the room",
-      "To see outside",
-      "To save space"
-     ],
-     "answer": 1,
-     "explain": "A mirror opposite a window reflects light and makes the room brighter."
-    },
-    {
-     "q": "What light suits a bedroom?",
-     "options": [
-      "Bright white light",
-      "Warm soft light",
-      "No light",
-      "Coloured light"
-     ],
-     "answer": 1,
-     "explain": "Warm soft light helps a bedroom feel calm and cosy."
-    },
-    {
-     "q": "Why keep windows clear of heavy curtains?",
-     "options": [
-      "For looks",
-      "So light can come in",
-      "To save money",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Clear windows let natural light in and make rooms feel bigger."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 12,
-   "week": 2,
-   "title": "Storage That Looks Good",
-   "goal": "Add storage that is also decoration.",
-   "video": {
-    "youtube_id": "Bftqb9MTmXY",
-    "title": "Nobody Believes This Home Makeover Cost Under $50!",
-    "channel": "Decorezo"
-   },
-   "steps": [
-    "Use baskets for toys and blankets.",
-    "Use open shelves to show pretty things.",
-    "Use boxes that match the room colours.",
-    "Label boxes so you can find things fast."
-   ],
-   "task": "Add storage to a room that looks good.",
-   "challenge": "Organise a shelf so it looks styled, not messy.",
-   "quiz": [
-    {
-     "q": "Why hang a mirror opposite a window?",
-     "options": [
-      "For looks",
-      "To bounce light into the room",
-      "To see outside",
-      "To save space"
-     ],
-     "answer": 1,
-     "explain": "A mirror opposite a window reflects light and makes the room brighter."
-    },
-    {
-     "q": "What light suits a bedroom?",
-     "options": [
-      "Bright white light",
-      "Warm soft light",
-      "No light",
-      "Coloured light"
-     ],
-     "answer": 1,
-     "explain": "Warm soft light helps a bedroom feel calm and cosy."
-    },
-    {
-     "q": "Why keep windows clear of heavy curtains?",
-     "options": [
-      "For looks",
-      "So light can come in",
-      "To save money",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Clear windows let natural light in and make rooms feel bigger."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 13,
-   "week": 2,
-   "title": "Project: Small-Space Plan and Restyle",
-   "goal": "Plan and restyle a small space with storage and style.",
-   "video": {
-    "youtube_id": "Y__xbWaBGHg",
-    "title": "Design Tips for Small Space Living",
-    "channel": "Kimball Starr"
-   },
-   "steps": [
-    "Measure the room and draw a plan.",
-    "Pick a colour scheme and a layout.",
-    "Add storage: shelves, baskets and boxes.",
-    "Style the room and take before and after photos."
-   ],
-   "task": "Finish a small space restyled with storage and style.",
-   "challenge": "Restyle a small space with a clear plan.",
-   "quiz": [
-    {
-     "q": "What is the first step to make a room look expensive for free?",
-     "options": [
-      "Buy new furniture",
-      "Declutter: remove what you do not need",
-      "Paint the walls",
-      "Buy art"
-     ],
-     "answer": 1,
-     "explain": "Decluttering is free and makes the biggest difference to how a room looks."
-    },
-    {
-     "q": "Why group small items in threes?",
-     "options": [
-      "It is the law",
-      "Groups of three look balanced and stylish",
-      "It saves space",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Odd groups, especially threes, look natural and pleasing to the eye."
-    },
-    {
-     "q": "What is a budget makeover?",
-     "options": [
-      "A new house",
-      "A room makeover with a small amount of money",
-      "A free makeover",
-      "A big renovation"
-     ],
-     "answer": 1,
-     "explain": "A budget makeover transforms a room with little money, using paint and small changes."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 14,
-   "week": 2,
-   "title": "Creative Tips for Small Spaces",
-   "goal": "Use creative tricks to make small spaces work harder.",
-   "video": {
-    "youtube_id": "Y__xbWaBGHg",
-    "title": "Design Tips for Small Space Living",
-    "channel": "Kimball Starr"
-   },
-   "steps": [
-    "Use a rug to define a zone in a room.",
-    "Use a curtain to hide storage.",
-    "Use a fold-down desk for work.",
-    "Use plants to add life without taking floor space."
-   ],
-   "task": "List five creative tricks for small spaces.",
-   "challenge": "Define two zones in one room with a rug.",
-   "quiz": [
-    {
-     "q": "What is the first step to make a room look expensive for free?",
-     "options": [
-      "Buy new furniture",
-      "Declutter: remove what you do not need",
-      "Paint the walls",
-      "Buy art"
-     ],
-     "answer": 1,
-     "explain": "Decluttering is free and makes the biggest difference to how a room looks."
-    },
-    {
-     "q": "Why group small items in threes?",
-     "options": [
-      "It is the law",
-      "Groups of three look balanced and stylish",
-      "It saves space",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Odd groups, especially threes, look natural and pleasing to the eye."
-    },
-    {
-     "q": "What is a budget makeover?",
-     "options": [
-      "A new house",
-      "A room makeover with a small amount of money",
-      "A free makeover",
-      "A big renovation"
-     ],
-     "answer": 1,
-     "explain": "A budget makeover transforms a room with little money, using paint and small changes."
-    }
-   ],
-   "project": {
-    "title": "Small-Space Plan and Restyle",
-    "brief": "Plan and restyle a small space with storage and style.",
-    "checks": [
-     "Room measured and drawn",
-     "Colour scheme chosen",
-     "Storage added",
-     "Layout works",
-     "Styled neatly",
-     "Before and after photos taken"
-    ]
-   }
-  },
-  {
-   "day": 15,
-   "week": 3,
-   "title": "Style a Kitchen Corner",
-   "goal": "Style a kitchen corner so it looks like a hotel kitchen.",
-   "video": {
-    "youtube_id": "Y__xbWaBGHg",
-    "title": "Design Tips for Small Space Living",
-    "channel": "Kimball Starr"
-   },
-   "steps": [
-    "Clear the counter: keep only what you use daily.",
-    "Add a plant or a vase of herbs.",
-    "Use matching jars for tea, coffee and sugar.",
-    "Hang a small picture or a clock."
-   ],
-   "task": "Style a kitchen corner neatly.",
-   "challenge": "Style a kitchen counter with matching jars.",
-   "quiz": [
-    {
-     "q": "What is the first step to make a room look expensive for free?",
-     "options": [
-      "Buy new furniture",
-      "Declutter: remove what you do not need",
-      "Paint the walls",
-      "Buy art"
-     ],
-     "answer": 1,
-     "explain": "Decluttering is free and makes the biggest difference to how a room looks."
-    },
-    {
-     "q": "Why group small items in threes?",
-     "options": [
-      "It is the law",
-      "Groups of three look balanced and stylish",
-      "It saves space",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "Odd groups, especially threes, look natural and pleasing to the eye."
-    },
-    {
-     "q": "What is a budget makeover?",
-     "options": [
-      "A new house",
-      "A room makeover with a small amount of money",
-      "A free makeover",
-      "A big renovation"
-     ],
-     "answer": 1,
-     "explain": "A budget makeover transforms a room with little money, using paint and small changes."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 16,
-   "week": 3,
-   "title": "Bedroom Styling: Hotel Rules",
-   "goal": "Style a bedroom like a five-star hotel room.",
-   "video": {
-    "youtube_id": "ImbnMQ5DwSU",
-    "title": "8 Creative Design Tips For Decorating Small Spaces",
-    "channel": "Home Decor Tutorials"
-   },
-   "steps": [
-    "Use white or light bedding for a clean look.",
-    "Layer the bed: sheet, duvet, throw and cushions.",
-    "Use matching lamps on both bedside tables.",
-    "Keep the bedside tables clear of clutter."
-   ],
-   "task": "Style a bed like a hotel bed.",
-   "challenge": "Layer a bed with a throw and cushions.",
-   "quiz": [
-    {
-     "q": "Why leave a clear path in a room?",
-     "options": [
-      "For looks",
-      "So people can walk through easily",
-      "To save space",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "A clear path makes a room easy to use and feel bigger."
-    },
-    {
-     "q": "Where should a sofa face?",
-     "options": [
-      "The wall",
-      "The main focus: TV, window or fireplace",
-      "The door",
-      "The corner"
-     ],
-     "answer": 1,
-     "explain": "The sofa should face what the room is for: the TV, window or view."
-    },
-    {
-     "q": "Why not push all furniture against the walls?",
-     "options": [
-      "It is the law",
-      "It leaves the middle empty and the room feels cold",
-      "It is faster",
-      "It saves paint"
-     ],
-     "answer": 1,
-     "explain": "Pulling furniture in makes a room feel cosy and used."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 17,
-   "week": 3,
-   "title": "Bedding and Layers",
-   "goal": "Layer bedding for comfort and looks.",
-   "video": {
-    "youtube_id": "ImbnMQ5DwSU",
-    "title": "8 Creative Design Tips For Decorating Small Spaces",
-    "channel": "Home Decor Tutorials"
-   },
-   "steps": [
-    "Start with a fitted sheet, then a flat sheet.",
-    "Add a duvet or blanket, then a throw.",
-    "Add two sleeping pillows and two decorative cushions.",
-    "Choose colours that match the room."
-   ],
-   "task": "Make a bed with layers that look inviting.",
-   "challenge": "Layer a bed in a colour scheme.",
-   "quiz": [
-    {
-     "q": "Why leave a clear path in a room?",
-     "options": [
-      "For looks",
-      "So people can walk through easily",
-      "To save space",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "A clear path makes a room easy to use and feel bigger."
-    },
-    {
-     "q": "Where should a sofa face?",
-     "options": [
-      "The wall",
-      "The main focus: TV, window or fireplace",
-      "The door",
-      "The corner"
-     ],
-     "answer": 1,
-     "explain": "The sofa should face what the room is for: the TV, window or view."
-    },
-    {
-     "q": "Why not push all furniture against the walls?",
-     "options": [
-      "It is the law",
-      "It leaves the middle empty and the room feels cold",
-      "It is faster",
-      "It saves paint"
-     ],
-     "answer": 1,
-     "explain": "Pulling furniture in makes a room feel cosy and used."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 18,
-   "week": 3,
-   "title": "Entryways",
-   "goal": "Style a small entryway so guests feel welcome.",
-   "video": {
-    "youtube_id": "ImbnMQ5DwSU",
-    "title": "8 Creative Design Tips For Decorating Small Spaces",
-    "channel": "Home Decor Tutorials"
-   },
-   "steps": [
-    "Add a small table or shelf for keys.",
-    "Add a mirror so guests can check themselves.",
-    "Add a mat that is easy to clean.",
-    "Add a hook for coats and bags."
-   ],
-   "task": "Style an entryway with a mirror and hooks.",
-   "challenge": "Make a small entryway feel welcoming.",
-   "quiz": [
-    {
-     "q": "Why leave a clear path in a room?",
-     "options": [
-      "For looks",
-      "So people can walk through easily",
-      "To save space",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "A clear path makes a room easy to use and feel bigger."
-    },
-    {
-     "q": "Where should a sofa face?",
-     "options": [
-      "The wall",
-      "The main focus: TV, window or fireplace",
-      "The door",
-      "The corner"
-     ],
-     "answer": 1,
-     "explain": "The sofa should face what the room is for: the TV, window or view."
-    },
-    {
-     "q": "Why not push all furniture against the walls?",
-     "options": [
-      "It is the law",
-      "It leaves the middle empty and the room feels cold",
-      "It is faster",
-      "It saves paint"
-     ],
-     "answer": 1,
-     "explain": "Pulling furniture in makes a room feel cosy and used."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 19,
-   "week": 3,
-   "title": "Project: Style a Kitchen Corner",
-   "goal": "Style a kitchen corner from messy to hotel-luxury.",
-   "video": {
-    "youtube_id": "nJVAIPDcfQ8",
-    "title": "Small Kitchen, Luxury Flow",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Clear the corner and clean it.",
-    "Add matching jars and a plant.",
-    "Hang a picture or a clock.",
-    "Take before and after photos."
-   ],
-   "task": "Finish a kitchen corner styled like a hotel kitchen.",
-   "challenge": "Style a kitchen corner with a clear plan.",
-   "quiz": [
-    {
-     "q": "What is a rug for in a small space?",
-     "options": [
-      "To keep feet warm",
-      "To define a zone in a room",
-      "To hide the floor",
-      "For colour only"
-     ],
-     "answer": 1,
-     "explain": "A rug marks out a zone, like a reading corner, in an open room."
-    },
-    {
-     "q": "How do you use vertical space?",
-     "options": [
-      "Buy taller furniture",
-      "Use shelves up the wall",
-      "Paint the ceiling",
-      "Stack boxes"
-     ],
-     "answer": 1,
-     "explain": "Shelves up the wall use space that would otherwise be wasted."
-    },
-    {
-     "q": "Why keep one colour scheme in a small space?",
-     "options": [
-      "It is the law",
-      "So the space feels calm and bigger",
-      "It is cheaper",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "One colour scheme stops a small space feeling busy and cramped."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 20,
-   "week": 3,
-   "title": "Hotel Bedroom Rules",
-   "goal": "Apply hotel bedroom rules to a real bedroom.",
-   "video": {
-    "youtube_id": "nJVAIPDcfQ8",
-    "title": "Small Kitchen, Luxury Flow",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Use matching bedside lamps.",
-    "Keep the floor clear.",
-    "Add a rug beside the bed.",
-    "Use blackout curtains for good sleep."
-   ],
-   "task": "Style a bedroom using five hotel rules.",
-   "challenge": "List ten hotel bedroom rules from memory.",
-   "quiz": [
-    {
-     "q": "What is a rug for in a small space?",
-     "options": [
-      "To keep feet warm",
-      "To define a zone in a room",
-      "To hide the floor",
-      "For colour only"
-     ],
-     "answer": 1,
-     "explain": "A rug marks out a zone, like a reading corner, in an open room."
-    },
-    {
-     "q": "How do you use vertical space?",
-     "options": [
-      "Buy taller furniture",
-      "Use shelves up the wall",
-      "Paint the ceiling",
-      "Stack boxes"
-     ],
-     "answer": 1,
-     "explain": "Shelves up the wall use space that would otherwise be wasted."
-    },
-    {
-     "q": "Why keep one colour scheme in a small space?",
-     "options": [
-      "It is the law",
-      "So the space feels calm and bigger",
-      "It is cheaper",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "One colour scheme stops a small space feeling busy and cramped."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 21,
-   "week": 3,
-   "title": "Thrifted Decor",
-   "goal": "Find and style second-hand decor.",
-   "video": {
-    "youtube_id": "nJVAIPDcfQ8",
-    "title": "Small Kitchen, Luxury Flow",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Shop thrift stores, markets and online for cheap finds.",
-    "Look for solid wood, glass and metal: they last.",
-    "Clean and paint finds to match your room.",
-    "Mix one thrifted piece with new pieces."
-   ],
-   "task": "Find a thrifted piece and style it in a room.",
-   "challenge": "Paint a thrifted piece to match a room.",
-   "quiz": [
-    {
-     "q": "What is a rug for in a small space?",
-     "options": [
-      "To keep feet warm",
-      "To define a zone in a room",
-      "To hide the floor",
-      "For colour only"
-     ],
-     "answer": 1,
-     "explain": "A rug marks out a zone, like a reading corner, in an open room."
-    },
-    {
-     "q": "How do you use vertical space?",
-     "options": [
-      "Buy taller furniture",
-      "Use shelves up the wall",
-      "Paint the ceiling",
-      "Stack boxes"
-     ],
-     "answer": 1,
-     "explain": "Shelves up the wall use space that would otherwise be wasted."
-    },
-    {
-     "q": "Why keep one colour scheme in a small space?",
-     "options": [
-      "It is the law",
-      "So the space feels calm and bigger",
-      "It is cheaper",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "One colour scheme stops a small space feeling busy and cramped."
-    }
-   ],
-   "project": {
-    "title": "Style a Kitchen Corner",
-    "brief": "Style a kitchen corner from messy to hotel-luxury.",
-    "checks": [
-     "Corner cleared and cleaned",
-     "Matching jars added",
-     "Plant added",
-     "Picture or clock hung",
-     "Looks like a hotel kitchen",
-     "Before and after photos taken"
-    ]
-   }
-  },
-  {
-   "day": 22,
-   "week": 4,
-   "title": "Styling with Plants",
-   "goal": "Use plants to bring a room to life.",
-   "video": {
-    "youtube_id": "QONk1wXWlw8",
-    "title": "20 Five-Star Boutique Hotel Bedroom Styling Rules",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Pick plants that suit the light in the room.",
-    "Use pots that match the room colours.",
-    "Group plants in threes at different heights.",
-    "Water them on a set day each week."
-   ],
-   "task": "Style a room with three plants.",
-   "challenge": "Pick a plant for a dark corner.",
-   "quiz": [
-    {
-     "q": "At what height should art hang?",
-     "options": [
-      "At the ceiling",
-      "At eye level, about 150cm from the floor",
-      "At the floor",
-      "Above the door"
-     ],
-     "answer": 1,
-     "explain": "Art at eye level, about 150cm up, is easy to see and looks right."
-    },
-    {
-     "q": "Why group small pictures in a grid?",
-     "options": [
-      "To save nails",
-      "So they look like one neat display",
-      "It is the law",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "A grid groups small pictures into one tidy display."
-    },
-    {
-     "q": "What do matching frames do?",
-     "options": [
-      "Cost more",
-      "Make pictures look like a set",
-      "Hide the art",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Matching frames make different pictures look like they belong together."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 23,
-   "week": 4,
-   "title": "Art and Walls",
-   "goal": "Hang art and pictures so a room feels finished.",
-   "video": {
-    "youtube_id": "QONk1wXWlw8",
-    "title": "20 Five-Star Boutique Hotel Bedroom Styling Rules",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Hang art at eye level: about 150cm from the floor.",
-    "Group small pictures together in a grid.",
-    "Use frames that match each other.",
-    "Do not hang art too high or too low."
-   ],
-   "task": "Hang a picture at eye level.",
-   "challenge": "Arrange three pictures in a grid.",
-   "quiz": [
-    {
-     "q": "At what height should art hang?",
-     "options": [
-      "At the ceiling",
-      "At eye level, about 150cm from the floor",
-      "At the floor",
-      "Above the door"
-     ],
-     "answer": 1,
-     "explain": "Art at eye level, about 150cm up, is easy to see and looks right."
-    },
-    {
-     "q": "Why group small pictures in a grid?",
-     "options": [
-      "To save nails",
-      "So they look like one neat display",
-      "It is the law",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "A grid groups small pictures into one tidy display."
-    },
-    {
-     "q": "What do matching frames do?",
-     "options": [
-      "Cost more",
-      "Make pictures look like a set",
-      "Hide the art",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Matching frames make different pictures look like they belong together."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 24,
-   "week": 4,
-   "title": "Textiles: Curtains, Cushions and Throws",
-   "goal": "Use fabrics to add colour and comfort.",
-   "video": {
-    "youtube_id": "QONk1wXWlw8",
-    "title": "20 Five-Star Boutique Hotel Bedroom Styling Rules",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Hang curtains high and wide so windows look bigger.",
-    "Mix cushion sizes and textures.",
-    "Use a throw to add a pop of colour.",
-    "Wash fabrics before you use them."
-   ],
-   "task": "Style a sofa with cushions and a throw.",
-   "challenge": "Hang curtains so a window looks bigger.",
-   "quiz": [
-    {
-     "q": "At what height should art hang?",
-     "options": [
-      "At the ceiling",
-      "At eye level, about 150cm from the floor",
-      "At the floor",
-      "Above the door"
-     ],
-     "answer": 1,
-     "explain": "Art at eye level, about 150cm up, is easy to see and looks right."
-    },
-    {
-     "q": "Why group small pictures in a grid?",
-     "options": [
-      "To save nails",
-      "So they look like one neat display",
-      "It is the law",
-      "It is faster"
-     ],
-     "answer": 1,
-     "explain": "A grid groups small pictures into one tidy display."
-    },
-    {
-     "q": "What do matching frames do?",
-     "options": [
-      "Cost more",
-      "Make pictures look like a set",
-      "Hide the art",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Matching frames make different pictures look like they belong together."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 25,
-   "week": 4,
-   "title": "Interior Decoration Business Basics",
-   "goal": "Learn how a small decorating business works.",
-   "video": {
-    "youtube_id": "WeHK7x3nIxM",
-    "title": "Small Entryways, Quiet Luxury",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Work out your fee: time, travel and shopping.",
-    "Offer a room restyle for a set price.",
-    "Learn where to find clients: friends, social media, markets.",
-    "Keep a simple record of jobs and costs."
-   ],
-   "task": "Work out the fee for a one-room restyle.",
-   "challenge": "List three ways to find decorating clients.",
-   "quiz": [
-    {
-     "q": "What should a decorating quote include?",
-     "options": [
-      "Only the price",
-      "Time, travel, shopping and profit",
-      "Your name only",
-      "The room size only"
-     ],
-     "answer": 1,
-     "explain": "A clear quote covers time, travel, shopping costs and profit."
-    },
-    {
-     "q": "Why take before and after photos?",
-     "options": [
-      "For fun",
-      "To show clients the change you made",
-      "It is the law",
-      "To save time"
-     ],
-     "answer": 1,
-     "explain": "Before and after photos prove your work and win new clients."
-    },
-    {
-     "q": "Where can a decorator find clients?",
-     "options": [
-      "Only in shops",
-      "Friends, social media and markets",
-      "Only online",
-      "Only in hotels"
-     ],
-     "answer": 1,
-     "explain": "Friends, social media and local markets are good places to find decorating work."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 26,
-   "week": 4,
-   "title": "Price a Room Restyle",
-   "goal": "Price a decorating job so the business pays.",
-   "video": {
-    "youtube_id": "WeHK7x3nIxM",
-    "title": "Small Entryways, Quiet Luxury",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Add up your time at a fair hourly rate.",
-    "Add shopping and travel costs.",
-    "Add profit and give a clear quote.",
-    "Compare your price with decorators in your area."
-   ],
-   "task": "Write a quote for a one-room restyle.",
-   "challenge": "Price a two-room restyle with a shopping list.",
-   "quiz": [
-    {
-     "q": "What should a decorating quote include?",
-     "options": [
-      "Only the price",
-      "Time, travel, shopping and profit",
-      "Your name only",
-      "The room size only"
-     ],
-     "answer": 1,
-     "explain": "A clear quote covers time, travel, shopping costs and profit."
-    },
-    {
-     "q": "Why take before and after photos?",
-     "options": [
-      "For fun",
-      "To show clients the change you made",
-      "It is the law",
-      "To save time"
-     ],
-     "answer": 1,
-     "explain": "Before and after photos prove your work and win new clients."
-    },
-    {
-     "q": "Where can a decorator find clients?",
-     "options": [
-      "Only in shops",
-      "Friends, social media and markets",
-      "Only online",
-      "Only in hotels"
-     ],
-     "answer": 1,
-     "explain": "Friends, social media and local markets are good places to find decorating work."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 27,
-   "week": 4,
-   "title": "Style an Entryway on a Budget",
-   "goal": "Style a small entryway with cheap or free items.",
-   "video": {
-    "youtube_id": "WeHK7x3nIxM",
-    "title": "Small Entryways, Quiet Luxury",
-    "channel": "Deandra House"
-   },
-   "steps": [
-    "Add a small table or shelf for keys.",
-    "Hang a mirror you already own.",
-    "Add a hook for coats and bags.",
-    "Add a mat that is easy to clean."
-   ],
-   "task": "Style an entryway using only what you have.",
-   "challenge": "Make a small entryway feel welcoming for free.",
-   "quiz": [
-    {
-     "q": "What should a decorating quote include?",
-     "options": [
-      "Only the price",
-      "Time, travel, shopping and profit",
-      "Your name only",
-      "The room size only"
-     ],
-     "answer": 1,
-     "explain": "A clear quote covers time, travel, shopping costs and profit."
-    },
-    {
-     "q": "Why take before and after photos?",
-     "options": [
-      "For fun",
-      "To show clients the change you made",
-      "It is the law",
-      "To save time"
-     ],
-     "answer": 1,
-     "explain": "Before and after photos prove your work and win new clients."
-    },
-    {
-     "q": "Where can a decorator find clients?",
-     "options": [
-      "Only in shops",
-      "Friends, social media and markets",
-      "Only online",
-      "Only in hotels"
-     ],
-     "answer": 1,
-     "explain": "Friends, social media and local markets are good places to find decorating work."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 28,
-   "week": 4,
-   "title": "Thrift a Statement Piece",
-   "goal": "Find one thrifted piece that makes a room special.",
-   "video": {
-    "youtube_id": "hYpCPYUAiro",
-    "title": "Thrifted Decor: How to Style $1-$8 Finds",
-    "channel": "Comfy Home DIYs"
-   },
-   "steps": [
-    "Shop thrift stores and markets for a solid piece.",
-    "Look for wood, glass or metal that lasts.",
-    "Clean and paint it to match your room.",
-    "Place it where guests will notice it."
-   ],
-   "task": "Find a thrifted piece and style it in a room.",
-   "challenge": "Paint a thrifted piece to match a room.",
-   "quiz": [
-    {
-     "q": "Where can you find cheap decor?",
-     "options": [
-      "Only in new shops",
-      "Thrift stores, markets and online",
-      "Only in hotels",
-      "Only from friends"
-     ],
-     "answer": 1,
-     "explain": "Thrift stores, markets and online listings sell good decor cheaply."
-    },
-    {
-     "q": "What materials last best in thrifted finds?",
-     "options": [
-      "Plastic",
-      "Solid wood, glass and metal",
-      "Paper",
-      "Foam"
-     ],
-     "answer": 1,
-     "explain": "Wood, glass and metal last for years and clean up well."
-    },
-    {
-     "q": "Why paint a thrifted piece?",
-     "options": [
-      "To hide it",
-      "To make it match your room",
-      "It is the law",
-      "To make it heavier"
-     ],
-     "answer": 1,
-     "explain": "A coat of paint in your room colours makes a second-hand piece look new."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 29,
-   "week": 5,
-   "title": "Capstone Planning",
-   "goal": "Choose your capstone room, plan the restyle and buy supplies.",
-   "video": {
-    "youtube_id": "hYpCPYUAiro",
-    "title": "Thrifted Decor: How to Style $1-$8 Finds",
-    "channel": "Comfy Home DIYs"
-   },
-   "steps": [
-    "Pick a room to restyle fully.",
-    "Draw a plan with layout, colours and budget.",
-    "Buy or gather all supplies.",
-    "Take before photos of the room."
-   ],
-   "task": "Have a full plan, budget and supplies for the capstone room.",
-   "challenge": "Plan a room restyle with a budget under $100.",
-   "quiz": [
-    {
-     "q": "Where can you find cheap decor?",
-     "options": [
-      "Only in new shops",
-      "Thrift stores, markets and online",
-      "Only in hotels",
-      "Only from friends"
-     ],
-     "answer": 1,
-     "explain": "Thrift stores, markets and online listings sell good decor cheaply."
-    },
-    {
-     "q": "What materials last best in thrifted finds?",
-     "options": [
-      "Plastic",
-      "Solid wood, glass and metal",
-      "Paper",
-      "Foam"
-     ],
-     "answer": 1,
-     "explain": "Wood, glass and metal last for years and clean up well."
-    },
-    {
-     "q": "Why paint a thrifted piece?",
-     "options": [
-      "To hide it",
-      "To make it match your room",
-      "It is the law",
-      "To make it heavier"
-     ],
-     "answer": 1,
-     "explain": "A coat of paint in your room colours makes a second-hand piece look new."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 30,
-   "week": 5,
-   "title": "Capstone: Restyle a Room and Present It",
-   "goal": "Restyle a full room and present the before and after.",
-   "video": {
-    "youtube_id": "hYpCPYUAiro",
-    "title": "Thrifted Decor: How to Style $1-$8 Finds",
-    "channel": "Comfy Home DIYs"
-   },
-   "steps": [
-    "Follow your plan: paint, move, style.",
-    "Add storage, plants and art.",
-    "Take after photos from the same spots as the before photos.",
-    "Present the room with the plan, budget and photos."
-   ],
-   "task": "Present a restyled room with before and after photos.",
-   "challenge": "Finish the room restyle on budget.",
-   "quiz": [
-    {
-     "q": "Where can you find cheap decor?",
-     "options": [
-      "Only in new shops",
-      "Thrift stores, markets and online",
-      "Only in hotels",
-      "Only from friends"
-     ],
-     "answer": 1,
-     "explain": "Thrift stores, markets and online listings sell good decor cheaply."
-    },
-    {
-     "q": "What materials last best in thrifted finds?",
-     "options": [
-      "Plastic",
-      "Solid wood, glass and metal",
-      "Paper",
-      "Foam"
-     ],
-     "answer": 1,
-     "explain": "Wood, glass and metal last for years and clean up well."
-    },
-    {
-     "q": "Why paint a thrifted piece?",
-     "options": [
-      "To hide it",
-      "To make it match your room",
-      "It is the law",
-      "To make it heavier"
-     ],
-     "answer": 1,
-     "explain": "A coat of paint in your room colours makes a second-hand piece look new."
-    }
-   ],
-   "project": null
-  }
- ],
- "capstone": {
-  "title": "Restyle a Room and Present It",
-  "brief": "Restyle a full room following your plan and budget, and present the before and after photos with the plan and costing.",
-  "checks": [
-   "Room restyled following the plan",
-   "Colour scheme applied with 60-30-10",
-   "Furniture layout works well",
-   "Storage added that looks good",
-   "Plants and art in place",
-   "Before and after photos from the same spots",
-   "Budget sheet shows costs"
   ],
-  "deliverables": [
-   "Before and after photos of the room",
-   "Room plan with layout and colours",
-   "Budget and costing sheet",
-   "Shopping list with prices",
-   "Written notes on what changed"
-  ]
- }
+  "capstone": {
+    "title": "Restyle a Room and Present It",
+    "brief": "Restyle a full room following your plan and budget, and present the before and after photos with the plan and costing.",
+    "checks": [
+      "Room restyled following the plan",
+      "Colour scheme applied with 60-30-10",
+      "Furniture layout works well",
+      "Storage added that looks good",
+      "Plants and art in place",
+      "Before and after photos from the same spots",
+      "Budget sheet shows costs"
+    ],
+    "deliverables": [
+      "Before and after photos of the room",
+      "Room plan with layout and colours",
+      "Budget and costing sheet",
+      "Shopping list with prices",
+      "Written notes on what changed"
+    ]
+  }
 }
