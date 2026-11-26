@@ -18,7 +18,8 @@
     <nav class="main-nav">
       <a href="index.html">Home</a>
       <a href="verify.html">Verify a certificate</a>
-      <a href="auth.html">Sign in</a>
+      <span data-nav-signed-out><a href="auth.html">Sign in</a></span>
+      <span data-nav-signed-in class="hidden"><button type="button" class="btn ghost small" data-sign-out>Sign out</button></span>
     </nav>
   </div>
 </header>

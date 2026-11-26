@@ -178,9 +178,9 @@
       "title": "Add music",
       "goal": "Add a music track and keep it quiet under talking.",
       "video": {
-        "youtube_id": "ge-MmahCcWg",
-        "title": "3 1/2 hour beginner video editing course",
-        "channel": "VideoRevealed"
+        "youtube_id": "G4Xr3rpX8Po",
+        "title": "How To Add Music in CapCut (ANY SONG 2024)",
+        "channel": "Collin Michael"
       },
       "steps": [
         "Open the Audio menu in CapCut.",
@@ -192,15 +192,15 @@
       "challenge": "Add music that starts quiet and gets louder at the end.",
       "quiz": [
         {
-          "q": "What does it mean to trim a clip?",
+          "q": "How loud should music be under talking?",
           "options": [
-            "To cut off the start or end of a clip",
-            "To make the clip louder",
-            "To add music to a clip",
-            "To change the clip color"
+            "Quiet, about 20 percent",
+            "As loud as possible",
+            "Louder than the talking",
+            "Off all the time"
           ],
           "answer": 0,
-          "explain": "Trimming means cutting off the parts you do not need at the start or end."
+          "explain": "Keep music quiet under talking, about 20 percent, so people can hear the words."
         },
         {
           "q": "What is the main goal of today's lesson, \"Add music\"?",
@@ -247,15 +247,15 @@
       "challenge": "Change the caption color and size so it is easy to read on a phone.",
       "quiz": [
         {
-          "q": "What is a timeline in a video editor?",
+          "q": "What do captions do in a video?",
           "options": [
-            "The long bar where you line up your clips",
-            "The list of songs in the app",
-            "The button that saves your video",
-            "The color of your text"
+            "They show the spoken words as text on screen",
+            "They make the video longer",
+            "They change the music",
+            "They remove background noise"
           ],
           "answer": 0,
-          "explain": "The timeline is the long bar at the bottom. You place your clips on it in order."
+          "explain": "Captions show the words being spoken as text, so people can follow even with the sound off."
         },
         {
           "q": "What is the main goal of today's lesson, \"Add words on screen\"?",
@@ -302,15 +302,15 @@
       "challenge": "Try three transitions and pick the one that looks the most calm.",
       "quiz": [
         {
-          "q": "What does it mean to trim a clip?",
+          "q": "What is a transition?",
           "options": [
-            "To cut off the start or end of a clip",
-            "To make the clip louder",
-            "To add music to a clip",
-            "To change the clip color"
+            "A smooth move from one clip to the next",
+            "A way to cut a clip in half",
+            "A type of music",
+            "A way to save your video"
           ],
           "answer": 0,
-          "explain": "Trimming means cutting off the parts you do not need at the start or end."
+          "explain": "A transition, like a fade, blends one clip into the next."
         },
         {
           "q": "What is the main goal of today's lesson, \"Smooth moves between clips\"?",
@@ -357,15 +357,15 @@
       "challenge": "Show your video to a friend and ask what part they liked most.",
       "quiz": [
         {
-          "q": "What is a timeline in a video editor?",
+          "q": "What should a finished 30-second video have?",
           "options": [
-            "The long bar where you line up your clips",
-            "The list of songs in the app",
-            "The button that saves your video",
-            "The color of your text"
+            "Clips, a title, music, and an export",
+            "Only clips",
+            "Only music",
+            "Only a title"
           ],
           "answer": 0,
-          "explain": "The timeline is the long bar at the bottom. You place your clips on it in order."
+          "explain": "A finished video has clips cut well, a title, music, and is exported."
         },
         {
           "q": "What is the main goal of today's lesson, \"Edit a 30-second video\"?",
@@ -423,15 +423,15 @@
       "challenge": "Find the razor tool, the selection tool, and the play button without help.",
       "quiz": [
         {
-          "q": "What is 1080p?",
+          "q": "What is the first thing to do in Premiere Pro?",
           "options": [
-            "A common video size that looks sharp on most screens",
-            "A type of music file",
-            "A video editing app",
-            "A kind of camera lens"
+            "Open it and click New Project",
+            "Export the video",
+            "Add music",
+            "Add captions"
           ],
           "answer": 0,
-          "explain": "1080p is a clear video size. It looks sharp on phones, laptops and TVs."
+          "explain": "Open Premiere Pro, click New Project and give it a simple name."
         },
         {
           "q": "What is the main goal of today's lesson, \"Meet Premiere Pro\"?",
@@ -478,15 +478,15 @@
       "challenge": "Cut out all the mistakes in a talking clip so it sounds smooth.",
       "quiz": [
         {
-          "q": "Why should you keep music quiet under talking?",
+          "q": "What does the razor tool do?",
           "options": [
-            "So people can hear the words clearly",
-            "So the video file is smaller",
-            "So the video looks brighter",
-            "So the app runs faster"
+            "It cuts a clip where you click",
+            "It makes the clip louder",
+            "It adds music",
+            "It changes the colour"
           ],
           "answer": 0,
-          "explain": "Music that is too loud hides the words. Keep it low so the talking stays clear."
+          "explain": "The razor tool cuts a clip at the point where you click."
         },
         {
           "q": "What is the main goal of today's lesson, \"Cut like a pro\"?",
@@ -533,15 +533,15 @@
       "challenge": "Record yourself talking in a noisy room, then clean up the sound.",
       "quiz": [
         {
-          "q": "What is 1080p?",
+          "q": "What should you do if the talking is too quiet?",
           "options": [
-            "A common video size that looks sharp on most screens",
-            "A type of music file",
-            "A video editing app",
-            "A kind of camera lens"
+            "Turn the volume up until the voice is easy to hear",
+            "Turn the music up",
+            "Delete the clip",
+            "Make the video darker"
           ],
           "answer": 0,
-          "explain": "1080p is a clear video size. It looks sharp on phones, laptops and TVs."
+          "explain": "Turn the volume up until the voice is easy to hear, then soften background hiss."
         },
         {
           "q": "What is the main goal of today's lesson, \"Sound that is clear\"?",
@@ -588,15 +588,15 @@
       "challenge": "Fix one clip that looks too blue and one that looks too dark.",
       "quiz": [
         {
-          "q": "Why should you keep music quiet under talking?",
+          "q": "What makes a dull clip look better?",
           "options": [
-            "So people can hear the words clearly",
-            "So the video file is smaller",
-            "So the video looks brighter",
-            "So the app runs faster"
+            "A little more brightness and warmth",
+            "A lot more darkness",
+            "A louder sound",
+            "A faster speed"
           ],
           "answer": 0,
-          "explain": "Music that is too loud hides the words. Keep it low so the talking stays clear."
+          "explain": "Move the brightness slider up a little and the warmth slider a little to the right."
         },
         {
           "q": "What is the main goal of today's lesson, \"Color that looks good\"?",
@@ -643,15 +643,15 @@
       "challenge": "Make a title that slides in from the left and stops in the middle.",
       "quiz": [
         {
-          "q": "What is 1080p?",
+          "q": "How do you make a title move?",
           "options": [
-            "A common video size that looks sharp on most screens",
-            "A type of music file",
-            "A video editing app",
-            "A kind of camera lens"
+            "Add a simple animation, like Fade In",
+            "Make the text very small",
+            "Delete the title",
+            "Put the title at the end"
           ],
           "answer": 0,
-          "explain": "1080p is a clear video size. It looks sharp on phones, laptops and TVs."
+          "explain": "Add a simple animation, like Fade In, so the title appears nicely."
         },
         {
           "q": "What is the main goal of today's lesson, \"Text that moves\"?",
@@ -698,15 +698,15 @@
       "challenge": "Make a boring walk look fast by speeding it up two times.",
       "quiz": [
         {
-          "q": "Why should you keep music quiet under talking?",
+          "q": "How do you make a slow-motion moment?",
           "options": [
-            "So people can hear the words clearly",
-            "So the video file is smaller",
-            "So the video looks brighter",
-            "So the app runs faster"
+            "Set part of the clip to play at half speed",
+            "Play the whole video faster",
+            "Cut the clip in half",
+            "Add music"
           ],
           "answer": 0,
-          "explain": "Music that is too loud hides the words. Keep it low so the talking stays clear."
+          "explain": "Split the clip around the action, then set that middle part to play at half speed."
         },
         {
           "q": "What is the main goal of today's lesson, \"Speed up and slow down\"?",
@@ -753,15 +753,15 @@
       "challenge": "Ask a friend to follow your video and see if they can do the task.",
       "quiz": [
         {
-          "q": "What is 1080p?",
+          "q": "What should a 1-minute how-to video have?",
           "options": [
-            "A common video size that looks sharp on most screens",
-            "A type of music file",
-            "A video editing app",
-            "A kind of camera lens"
+            "Clear steps, captions, music, and a clean export",
+            "Only music",
+            "Only captions",
+            "Only a title"
           ],
           "answer": 0,
-          "explain": "1080p is a clear video size. It looks sharp on phones, laptops and TVs."
+          "explain": "A how-to video shows clear steps with captions, music, and a clean export."
         },
         {
           "q": "What is the main goal of today's lesson, \"Edit a 1-minute how-to video\"?",
@@ -805,9 +805,9 @@
       "title": "Cut on the beat",
       "goal": "Cut clips so they land on the music beat.",
       "video": {
-        "youtube_id": "ge-MmahCcWg",
-        "title": "3 1/2 hour beginner video editing course",
-        "channel": "VideoRevealed"
+        "youtube_id": "glY9XA8Zbio",
+        "title": "CapCut Beat Tracking Tutorial | Sync Clips to Music",
+        "channel": "Vid & Views"
       },
       "steps": [
         "Add a song with a clear beat to your timeline.",
@@ -819,15 +819,15 @@
       "challenge": "Edit the same video to a faster song and compare the feel.",
       "quiz": [
         {
-          "q": "What is B-roll?",
+          "q": "What does it mean to cut on the beat?",
           "options": [
-            "Extra video you show over the main video to keep it interesting",
-            "A video that failed to export",
-            "The first clip in your project",
-            "A type of music"
+            "Cut clips so they land on the music beat",
+            "Cut clips at random times",
+            "Cut the music out",
+            "Cut only the first clip"
           ],
           "answer": 0,
-          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+          "explain": "Cutting on the beat means your cuts land where the beat hits in the music."
         },
         {
           "q": "What is the main goal of today's lesson, \"Cut on the beat\"?",
@@ -929,15 +929,15 @@
       "challenge": "Style captions in two different looks and ask a friend which is easier to read.",
       "quiz": [
         {
-          "q": "What is B-roll?",
+          "q": "What makes captions easy to read?",
           "options": [
-            "Extra video you show over the main video to keep it interesting",
-            "A video that failed to export",
-            "The first clip in your project",
-            "A type of music"
+            "Big text with a bright colour on a dark background",
+            "Very small text",
+            "Text the same colour as the background",
+            "Text that moves very fast"
           ],
           "answer": 0,
-          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+          "explain": "Big text, a bright colour and a dark background behind it make captions easy to read."
         },
         {
           "q": "What is the main goal of today's lesson, \"Captions people can read\"?",
@@ -984,15 +984,15 @@
       "challenge": "Add a sound effect that makes a joke land better.",
       "quiz": [
         {
-          "q": "What do captions do?",
+          "q": "When should you add a sound effect?",
           "options": [
-            "They show the spoken words as text on screen",
-            "They make the video longer",
-            "They change the music",
-            "They remove background noise"
+            "At the moment the action happens",
+            "At the very start only",
+            "At the very end only",
+            "At random times"
           ],
           "answer": 0,
-          "explain": "Captions show the words being spoken as text, so people can follow even with the sound off."
+          "explain": "Add a sound effect at the right moment, like a whoosh when the scene changes."
         },
         {
           "q": "What is the main goal of today's lesson, \"Sound effects\"?",
@@ -1039,15 +1039,15 @@
       "challenge": "Film a clip while walking, then steady it and compare before and after.",
       "quiz": [
         {
-          "q": "What is B-roll?",
+          "q": "What fixes a shaky clip?",
           "options": [
-            "Extra video you show over the main video to keep it interesting",
-            "A video that failed to export",
-            "The first clip in your project",
-            "A type of music"
+            "The stabilization effect in your editor",
+            "A louder sound",
+            "A brighter colour",
+            "A faster speed"
           ],
           "answer": 0,
-          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+          "explain": "The stabilization effect steadies a shaky clip so it looks much calmer."
         },
         {
           "q": "What is the main goal of today's lesson, \"Fix shaky video\"?",
@@ -1149,15 +1149,15 @@
       "challenge": "Post your video and count how many people watch it to the end.",
       "quiz": [
         {
-          "q": "What is B-roll?",
+          "q": "What makes a good 60-second social video?",
           "options": [
-            "Extra video you show over the main video to keep it interesting",
-            "A video that failed to export",
-            "The first clip in your project",
-            "A type of music"
+            "A strong topic, tight cuts, captions and music",
+            "A very long video",
+            "No captions at all",
+            "No music at all"
           ],
           "answer": 0,
-          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+          "explain": "Pick a topic people will stop and watch, cut it tight, and add captions and music."
         },
         {
           "q": "What is the main goal of today's lesson, \"Edit a 60-second social video\"?",
@@ -1215,15 +1215,15 @@
       "challenge": "Make the same 15-second video in three different styles.",
       "quiz": [
         {
-          "q": "Why do editors save their work often?",
+          "q": "How do you find your editing style?",
           "options": [
-            "So they do not lose their work if the app closes",
-            "So the video exports faster",
-            "So the music sounds better",
-            "So the colors look brighter"
+            "Watch videos you love and copy one idea",
+            "Copy every video you see",
+            "Never watch other videos",
+            "Use only one effect"
           ],
           "answer": 0,
-          "explain": "Apps can crash. Saving often means you never lose your hard work."
+          "explain": "Watch three videos you love, write down one idea from each, and use one in your own video."
         },
         {
           "q": "What is the main goal of today's lesson, \"Find your style\"?",
@@ -1270,15 +1270,15 @@
       "challenge": "Write your five most-used shortcuts on a note by your computer.",
       "quiz": [
         {
-          "q": "What is a jump cut?",
+          "q": "What do keyboard shortcuts do?",
           "options": [
-            "A cut that skips a small part of a clip, so the speaker seems to jump forward",
-            "A cut that adds music",
-            "A cut that changes the color",
-            "A cut at the end of a video"
+            "They help you edit much faster",
+            "They make the video longer",
+            "They change the music",
+            "They add captions"
           ],
           "answer": 0,
-          "explain": "A jump cut removes a small middle part, so the speaker jumps ahead. It keeps videos fast and tight."
+          "explain": "Shortcuts like Split, Delete and Play/Pause help you edit in half the time."
         },
         {
           "q": "What is the main goal of today's lesson, \"Edit faster\"?",
@@ -1325,15 +1325,15 @@
       "challenge": "Make three thumbnail pictures from one video and pick the best.",
       "quiz": [
         {
-          "q": "Why do editors save their work often?",
+          "q": "What makes a good thumbnail?",
           "options": [
-            "So they do not lose their work if the app closes",
-            "So the video exports faster",
-            "So the music sounds better",
-            "So the colors look brighter"
+            "The most exciting frame of the video",
+            "The first frame, even if it is dull",
+            "A black frame",
+            "A blurry frame"
           ],
           "answer": 0,
-          "explain": "Apps can crash. Saving often means you never lose your hard work."
+          "explain": "Pick the best frame, the most exciting moment, and save it as a picture."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a thumbnail moment\"?",
@@ -1380,15 +1380,15 @@
       "challenge": "Ask a friend to act as the client and give you one change to make.",
       "quiz": [
         {
-          "q": "What is a jump cut?",
+          "q": "What is a brief?",
           "options": [
-            "A cut that skips a small part of a clip, so the speaker seems to jump forward",
-            "A cut that adds music",
-            "A cut that changes the color",
-            "A cut at the end of a video"
+            "A short note that says what video to make",
+            "A long book about editing",
+            "A type of music",
+            "A video effect"
           ],
           "answer": 0,
-          "explain": "A jump cut removes a small middle part, so the speaker jumps ahead. It keeps videos fast and tight."
+          "explain": "A brief is a short note, like a 30-second advert for a small shop, that tells you what to make."
         },
         {
           "q": "What is the main goal of today's lesson, \"Edit for a client\"?",
@@ -1421,9 +1421,9 @@
       "title": "Fix common mistakes",
       "goal": "Spot and fix five common editing mistakes.",
       "video": {
-        "youtube_id": "ge-MmahCcWg",
-        "title": "3 1/2 hour beginner video editing course",
-        "channel": "VideoRevealed"
+        "youtube_id": "74UFO1sBcD8",
+        "title": "10 Mistakes NEW Video Editors Make (Video Editing for Beginners!)",
+        "channel": "Justin Brown - Primal Video"
       },
       "steps": [
         "Open one of your old videos.",
@@ -1435,15 +1435,15 @@
       "challenge": "Make a list of mistakes you will check for before every export.",
       "quiz": [
         {
-          "q": "Why do editors save their work often?",
+          "q": "What is dead air in a video?",
           "options": [
-            "So they do not lose their work if the app closes",
-            "So the video exports faster",
-            "So the music sounds better",
-            "So the colors look brighter"
+            "A long pause with nothing happening",
+            "A loud sound",
+            "A bright colour",
+            "A fast cut"
           ],
           "answer": 0,
-          "explain": "Apps can crash. Saving often means you never lose your hard work."
+          "explain": "Dead air is a long pause with nothing happening. Cut it out to keep the video tight."
         },
         {
           "q": "What is the main goal of today's lesson, \"Fix common mistakes\"?",
@@ -1490,15 +1490,15 @@
       "challenge": "Share your checklist with another learner and add their best idea.",
       "quiz": [
         {
-          "q": "What is a jump cut?",
+          "q": "What should be on your pre-export checklist?",
           "options": [
-            "A cut that skips a small part of a clip, so the speaker seems to jump forward",
-            "A cut that adds music",
-            "A cut that changes the color",
-            "A cut at the end of a video"
+            "Sound, captions, colour and spelling",
+            "Only the music",
+            "Only the title",
+            "Only the file name"
           ],
           "answer": 0,
-          "explain": "A jump cut removes a small middle part, so the speaker jumps ahead. It keeps videos fast and tight."
+          "explain": "Check sound, captions, colour and spelling before every export."
         },
         {
           "q": "What is the main goal of today's lesson, \"Your editing checklist\"?",
@@ -1545,15 +1545,15 @@
       "challenge": "Time how long the full edit takes you, from first clip to export.",
       "quiz": [
         {
-          "q": "Why do editors save their work often?",
+          "q": "What should you do before you export a full video?",
           "options": [
-            "So they do not lose their work if the app closes",
-            "So the video exports faster",
-            "So the music sounds better",
-            "So the colors look brighter"
+            "Watch the whole video twice and fix problems",
+            "Export at once",
+            "Skip watching it",
+            "Delete the captions"
           ],
           "answer": 0,
-          "explain": "Apps can crash. Saving often means you never lose your hard work."
+          "explain": "Watch the whole video twice, fix any problems, then export it."
         },
         {
           "q": "What is the main goal of today's lesson, \"Edit a full video start to finish\"?",
@@ -1600,15 +1600,15 @@
       "challenge": "Show your best video to someone new and ask what they think.",
       "quiz": [
         {
-          "q": "What is a jump cut?",
+          "q": "How do you pick your best work?",
           "options": [
-            "A cut that skips a small part of a clip, so the speaker seems to jump forward",
-            "A cut that adds music",
-            "A cut that changes the color",
-            "A cut at the end of a video"
+            "Watch all your videos and pick the best three",
+            "Pick any three at random",
+            "Pick only the newest one",
+            "Pick only the longest one"
           ],
           "answer": 0,
-          "explain": "A jump cut removes a small middle part, so the speaker jumps ahead. It keeps videos fast and tight."
+          "explain": "Watch all the videos you made this month and pick your best three."
         },
         {
           "q": "What is the main goal of today's lesson, \"Review your best work\"?",
@@ -1655,15 +1655,15 @@
       "challenge": "Set a date to review your plan in 30 days.",
       "quiz": [
         {
-          "q": "Why do editors save their work often?",
+          "q": "What should your next 30 days plan have?",
           "options": [
-            "So they do not lose their work if the app closes",
-            "So the video exports faster",
-            "So the music sounds better",
-            "So the colors look brighter"
+            "One skill to improve and one project each week",
+            "No projects at all",
+            "Ten skills at once",
+            "No practice at all"
           ],
           "answer": 0,
-          "explain": "Apps can crash. Saving often means you never lose your hard work."
+          "explain": "Write down the one skill you want to improve most and pick one project each week."
         },
         {
           "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",

@@ -135,6 +135,8 @@
         loadErr.classList.remove("hidden");
         loadErr.textContent = err.message || "Could not load the curriculum for this skill.";
       }
+      var loadingLine = el("cert-loading");
+      if (loadingLine) loadingLine.classList.add("hidden");
       return;
     }
     await window.SkillCourse.loadProgress(user, slug);
@@ -152,6 +154,8 @@
     var statusBox = el("cert-status");
     var lockedBox = el("cert-locked");
     var readyBox = el("cert-ready");
+    var loadingLine = el("cert-loading");
+    if (loadingLine) loadingLine.classList.add("hidden");
 
     if (!gate.unlocked) {
       if (statusBox) statusBox.classList.add("hidden");
@@ -226,6 +230,13 @@
     var input = el("verify-code-input");
     if (input && code) input.value = code;
     if (!resultBox) return;
+
+    if (code) {
+      /* Clear any previous result at once, so a new check never shows
+       * the old answer while it loads. */
+      resultBox.className = "verify-result";
+      resultBox.innerHTML = '<p class="muted">Checking ' + esc(code) + '...</p>';
+    }
 
     if (!code) {
       resultBox.className = "verify-result";

@@ -28,37 +28,37 @@
       "challenge": "Do welcome to wig making two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to wig making?",
+          "q": "Why do you use a canvas block head when you sew a wig?",
           "options": [
-            "You should rush through the technique to save time.",
-            "A canvas block head holds the wig cap steady while you sew.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "It cuts the bundles to the right length.",
+            "It holds the wig cap steady while you sew.",
+            "It dries the wig faster after washing.",
+            "It colours the hair for you."
           ],
           "answer": 1,
           "explain": "A canvas block head holds the wig cap steady while you sew."
         },
         {
-          "q": "Which tool is most essential for welcome to wig making?",
+          "q": "What is in your wig-making kit?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "canvas block head",
-            "foil shaver"
+            "A wig cap and a canvas head only.",
+            "A flat iron, a curling wand and hair spray.",
+            "A wig cap, canvas head, needles, thread, bundles, lace and a practice head.",
+            "Scissors, dye and a shower cap."
           ],
           "answer": 2,
-          "explain": "The canvas block head is the essential tool for this work."
+          "explain": "Your kit is a wig cap, canvas head, needles, thread, bundles, lace and a practice head."
         },
         {
-          "q": "What should you always do when working on welcome to wig making?",
+          "q": "What should you do with your needles when you are not using them?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "keep needles capped when not in use"
+            "Leave them on the floor.",
+            "Stick them in the wig hair.",
+            "Hold them in your mouth.",
+            "Keep them capped."
           ],
           "answer": 3,
-          "explain": "You should always keep needles capped when not in use."
+          "explain": "Keep needles capped when not in use, so nobody gets pricked."
         }
       ],
       "project": null
@@ -84,37 +84,37 @@
       "challenge": "Do measuring the head two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on measuring the head?",
+          "q": "Why do head measurements matter when you make a wig?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
             "Head measurements decide the size of the wig cap.",
-            "Using dirty tools gives the same result as clean ones."
+            "Measurements tell you what colour to use.",
+            "Measurements tell you how long the wig should be.",
+            "Measurements decide the price of the wig."
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Head measurements decide the size of the wig cap."
         },
         {
-          "q": "Which tool is most essential for measuring the head?",
+          "q": "Which three measurements do you take so the cap fits well?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "curved needle"
+            "Height, weight, and shoe size.",
+            "Circumference, front to nape, and ear to ear.",
+            "Hair length, hair colour, and head shape.",
+            "Neck size, shoulder width, and arm length."
           ],
-          "answer": 3,
-          "explain": "The curved needle is the essential tool for this work."
+          "answer": 1,
+          "explain": "Measure the circumference, front to nape and ear to ear so the cap fits perfectly."
         },
         {
-          "q": "What should you always do when working on measuring the head?",
+          "q": "What happens if you skip measuring the head?",
           "options": [
-            "patch test any dye on wig hair first",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "The wig will look shinier.",
+            "The hair will grow faster.",
+            "The cap may be too big or too small.",
+            "The lace will last longer."
           ],
-          "answer": 0,
-          "explain": "You should always patch test any dye on wig hair first."
+          "answer": 2,
+          "explain": "Head measurements decide the size of the wig cap, so skipping them risks a bad fit."
         }
       ],
       "project": null
@@ -140,37 +140,37 @@
       "challenge": "Do choosing hair and lace two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on choosing hair and lace?",
+          "q": "Why choose a wide lace frontal instead of a small closure?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A wide lace frontal gives a wider, more natural-looking parting than a small lace closure."
+            "It makes the wig dry faster.",
+            "It makes the wig cheaper.",
+            "It gives a wider, more natural-looking parting.",
+            "It makes the hair grow."
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "A wide lace frontal gives a wider, more natural-looking parting than a small lace closure."
         },
         {
-          "q": "Which tool is most essential for choosing hair and lace?",
+          "q": "What are the three lace types you can pick?",
           "options": [
-            "wig cap",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "Straight, wavy, and curly.",
+            "Short, medium, and long.",
+            "Black, brown, and blonde.",
+            "Closure, frontal, and full lace."
           ],
-          "answer": 0,
-          "explain": "The wig cap is the essential tool for this work."
+          "answer": 3,
+          "explain": "Pick a closure (small lace piece), a frontal (wide lace piece) or full lace."
         },
         {
-          "q": "What should you always do when working on choosing hair and lace?",
+          "q": "What two things do you choose when you plan a wig?",
           "options": [
-            "disinfect your clippers between clients",
-            "work in a ventilated area when bleaching knots",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "The hair type and the lace type.",
+            "The price and the shop.",
+            "The colour and the length only.",
+            "The model and the photo."
           ],
-          "answer": 1,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "answer": 0,
+          "explain": "Pick human or synthetic hair and a lace type: closure, frontal or full lace."
         }
       ],
       "project": null
@@ -181,9 +181,9 @@
       "title": "Cap Construction Basics",
       "goal": "By the end of today you can explain and practise: Stretch the cap on the block, pin it, and mark the hairline before sewing.",
       "video": {
-        "youtube_id": "d_-Xk1kXxfo",
-        "title": "Constructing the Lace Front Wig",
-        "channel": "Mayvenn"
+        "youtube_id": "69PVaYDul0w",
+        "title": "Step By Step| How to Make a Wig Like a Pro for Beginners Hand Sewn & Sewing Machine Method |WestKiss",
+        "channel": "Ambre Renee"
       },
       "steps": [
         "Get your tools ready: canvas block head, curved needle and wig cap.",
@@ -196,37 +196,37 @@
       "challenge": "Do cap construction basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on cap construction basics?",
+          "q": "What must you do to the cap before you start sewing?",
           "options": [
-            "The cap must be pinned flat on the block before sewing.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Soak it in water.",
+            "Pin it flat on the block.",
+            "Cut it in half.",
+            "Iron it with high heat."
           ],
-          "answer": 0,
+          "answer": 1,
           "explain": "The cap must be pinned flat on the block before sewing."
         },
         {
-          "q": "Which tool is most essential for cap construction basics?",
+          "q": "What do you mark on the cap before sewing?",
           "options": [
-            "clipper with guards",
-            "ventilating needle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The ventilating needle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on cap construction basics?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "keep needles capped when not in use",
-            "check the client for cuts before starting"
+            "The price.",
+            "The client's name.",
+            "The hairline.",
+            "The washing date."
           ],
           "answer": 2,
-          "explain": "You should always keep needles capped when not in use."
+          "explain": "Stretch the cap on the block, pin it, and mark the hairline before sewing."
+        },
+        {
+          "q": "Why cap your needles when you stop sewing?",
+          "options": [
+            "So the needles stay sharp.",
+            "So the thread stays clean.",
+            "So the cap stays flat.",
+            "So nobody gets pricked."
+          ],
+          "answer": 3,
+          "explain": "Keep needles capped when not in use, so nobody gets pricked."
         }
       ],
       "project": null
@@ -237,9 +237,9 @@
       "title": "Sewing Wefts",
       "goal": "By the end of today you can explain and practise: Sew wefts in a U-shape from the nape upward, folding the weft at each turn.",
       "video": {
-        "youtube_id": "D7WDU5ZKUvk",
-        "title": "Creating Your Part on a Lace Frontal Wig",
-        "channel": "Mayvenn"
+        "youtube_id": "pfDXL-wop_c",
+        "title": "Wig Making 101 Series| Laying Tracks/Weft (Best Way for Fit)",
+        "channel": "BeautyCutright"
       },
       "steps": [
         "Get your tools ready: canvas block head, curved needle and wig cap.",
@@ -252,37 +252,37 @@
       "challenge": "Do sewing wefts two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on sewing wefts?",
+          "q": "Which way do you sew wefts onto the cap?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Strips of hair (called wefts) are sewn from the back of the neck upward in rows.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "From the back of the neck upward in rows.",
+            "From the front hairline downward.",
+            "In circles around the crown.",
+            "From side to side in one long row."
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Strips of hair (called wefts) are sewn from the back of the neck upward in rows."
         },
         {
-          "q": "Which tool is most essential for sewing wefts?",
+          "q": "What shape do you sew the wefts in?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "canvas block head",
-            "foil shaver"
+            "A straight line with no folds.",
+            "A U-shape, folding the weft at each turn.",
+            "A circle around the whole cap.",
+            "A zigzag across the cap."
           ],
-          "answer": 2,
-          "explain": "The canvas block head is the essential tool for this work."
+          "answer": 1,
+          "explain": "Sew wefts in a U-shape from the nape upward, folding the weft at each turn."
         },
         {
-          "q": "What should you always do when working on sewing wefts?",
+          "q": "What should you do with the needle each time you stop to check your work?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test any dye on wig hair first"
+            "Leave it in the weft.",
+            "Put it in your mouth.",
+            "Cap it.",
+            "Drop it on the floor."
           ],
-          "answer": 3,
-          "explain": "You should always patch test any dye on wig hair first."
+          "answer": 2,
+          "explain": "Keep needles capped when not in use, so nobody gets pricked."
         }
       ],
       "project": null
@@ -308,37 +308,37 @@
       "challenge": "Do making a closure wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on making a closure wig?",
+          "q": "How big is the parting space on a 4x4 closure?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A 4x4 closure gives a four-inch square parting space.",
-            "The best result comes from skipping the preparation step."
+            "Two inches square.",
+            "Thirteen inches wide.",
+            "One inch square.",
+            "Four inches square."
           ],
-          "answer": 2,
+          "answer": 3,
           "explain": "A 4x4 closure gives a four-inch square parting space."
         },
         {
-          "q": "Which tool is most essential for making a closure wig?",
+          "q": "Where do you sew the closure on a closure wig?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "curved needle"
-          ],
-          "answer": 3,
-          "explain": "The curved needle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on making a closure wig?",
-          "options": [
-            "work in a ventilated area when bleaching knots",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "At the front, with wefts behind it to the nape.",
+            "At the back, with wefts in front of it.",
+            "On the side, with wefts on the other side.",
+            "Under the cap, where nobody can see it."
           ],
           "answer": 0,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "explain": "Sew a 4x4 closure at the front, then wefts behind it to the nape."
+        },
+        {
+          "q": "How do you store your needle between sewing steps?",
+          "options": [
+            "Leave it loose in the bundles.",
+            "Capped and set aside.",
+            "Stuck in the block head.",
+            "In your pocket."
+          ],
+          "answer": 1,
+          "explain": "Keep needles capped when not in use, so nobody gets pricked."
         }
       ],
       "project": null
@@ -364,37 +364,37 @@
       "challenge": "Do making a frontal wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on making a frontal wig?",
+          "q": "How far does a 13x4 frontal reach?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A 13x4 frontal spans ear to ear across the hairline."
+            "From the crown to the nape only.",
+            "Across the back of the head only.",
+            "Ear to ear across the hairline.",
+            "From one side of the neck to the other."
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "A 13x4 frontal spans ear to ear across the hairline."
         },
         {
-          "q": "Which tool is most essential for making a frontal wig?",
+          "q": "Where do you place the frontal on a frontal wig?",
           "options": [
-            "wig cap",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "At the nape, sewn loose.",
+            "On top of the crown only.",
+            "Under the wig cap.",
+            "At the hairline, sewn flat, with wefts behind."
           ],
-          "answer": 0,
-          "explain": "The wig cap is the essential tool for this work."
+          "answer": 3,
+          "explain": "Place a 13x4 frontal at the hairline, sew it flat, then add wefts behind."
         },
         {
-          "q": "What should you always do when working on making a frontal wig?",
+          "q": "What is the safe habit when you put your needle down?",
           "options": [
-            "disinfect your clippers between clients",
-            "keep needles capped when not in use",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Cap it first.",
+            "Leave it in the lace.",
+            "Balance it on the block head.",
+            "Hold it in your hand."
           ],
-          "answer": 1,
-          "explain": "You should always keep needles capped when not in use."
+          "answer": 0,
+          "explain": "Keep needles capped when not in use, so nobody gets pricked."
         }
       ],
       "project": {
@@ -431,37 +431,37 @@
       "challenge": "Do week 1 project: a closure wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: a closure wig?",
+          "q": "How should a finished closure wig look when it is done?",
           "options": [
-            "A finished small lace closure wig fits flat and parts cleanly.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "It sits high on the head and parts anywhere.",
+            "It fits flat and parts cleanly.",
+            "It feels stiff and looks shiny.",
+            "It covers the whole face."
           ],
-          "answer": 0,
+          "answer": 1,
           "explain": "A finished small lace closure wig fits flat and parts cleanly."
         },
         {
-          "q": "Which tool is most essential for week 1 project: a closure wig?",
+          "q": "What do you sew the week 1 project wig on?",
           "options": [
-            "clipper with guards",
-            "ventilating needle",
-            "trimmer",
-            "foil shaver"
-          ],
-          "answer": 1,
-          "explain": "The ventilating needle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on week 1 project: a closure wig?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "patch test any dye on wig hair first",
-            "check the client for cuts before starting"
+            "A table with no head.",
+            "A hanger.",
+            "A block head (wig stand head).",
+            "Your own head."
           ],
           "answer": 2,
-          "explain": "You should always patch test any dye on wig hair first."
+          "explain": "Sew a full small lace closure wig on a wig stand head and try it on."
+        },
+        {
+          "q": "What should you do after you finish sewing the closure wig?",
+          "options": [
+            "Throw it away.",
+            "Cut it in half.",
+            "Soak it in water.",
+            "Try it on."
+          ],
+          "answer": 3,
+          "explain": "Sew a full closure wig on a block head and try it on."
         }
       ],
       "project": null
@@ -472,9 +472,9 @@
       "title": "Bleaching Knots",
       "goal": "By the end of today you can explain and practise: Apply bleach to the knots on the lace, watch for 20 minutes, then rinse and neutralise.",
       "video": {
-        "youtube_id": "GmUpW6qVFBM",
-        "title": "How to Install a Lace Frontal Wig",
-        "channel": "UNice"
+        "youtube_id": "BtIzCKucJ8o",
+        "title": "HOW TO: PERFECTLY BLEACH KNOTS! *DETAILED TUTORIAL* + BEGINNER TIPS & TRICKS FT ASTERIA HAIR",
+        "channel": "Caroline Anyah"
       },
       "steps": [
         "Get your tools ready: canvas block head, curved needle and wig cap.",
@@ -487,37 +487,37 @@
       "challenge": "Do bleaching knots two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on bleaching knots?",
+          "q": "Why bleach the knots on the lace?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Bleaching knots makes the lace blend with the scalp.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "So the lace blends with the scalp.",
+            "So the hair grows longer.",
+            "So the wig dries faster.",
+            "So the lace feels softer."
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Bleaching knots makes the lace blend with the scalp."
         },
         {
-          "q": "Which tool is most essential for bleaching knots?",
+          "q": "How long do you watch the bleach on the knots?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "canvas block head",
-            "foil shaver"
+            "2 minutes, then rinse.",
+            "20 minutes, then rinse and neutralise.",
+            "1 hour, then rinse.",
+            "All day, then rinse."
           ],
-          "answer": 2,
-          "explain": "The canvas block head is the essential tool for this work."
+          "answer": 1,
+          "explain": "Apply bleach to the knots on the lace, watch for 20 minutes, then rinse and neutralise."
         },
         {
-          "q": "What should you always do when working on bleaching knots?",
+          "q": "What should you do while you bleach knots?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "work in a ventilated area when bleaching knots"
+            "Work in a small closed room.",
+            "Hold your breath the whole time.",
+            "Work in a ventilated area.",
+            "Work next to an open flame."
           ],
-          "answer": 3,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "answer": 2,
+          "explain": "Work in a ventilated area when bleaching knots, so you do not breathe in strong fumes."
         }
       ],
       "project": null
@@ -528,9 +528,9 @@
       "title": "Plucking the Hairline",
       "goal": "By the end of today you can explain and practise: Pluck hairs from the hairline a few at a time to create a natural, graduated edge.",
       "video": {
-        "youtube_id": "PQuU-t_YhLo",
-        "title": "How to Remove a Frontal Human Hair Wig",
-        "channel": "UNice"
+        "youtube_id": "Jnb-gg64Wwo",
+        "title": "How To Pluck a Lace Front Wig To Look Natural | ULTIMATE PLUCKING TUTORIAL FOR BEGINNERS",
+        "channel": "Alesha Carryne"
       },
       "steps": [
         "Get your tools ready: canvas block head, curved needle and wig cap.",
@@ -543,37 +543,37 @@
       "challenge": "Do plucking the hairline two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on plucking the hairline?",
+          "q": "What should a natural hairline look like?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A natural hairline is graduated, not a straight hard line.",
-            "You should always use the strongest product available."
+            "A straight hard line across the forehead.",
+            "A thick dark line.",
+            "No hairline at all.",
+            "Graduated, not a straight hard line."
           ],
-          "answer": 2,
+          "answer": 3,
           "explain": "A natural hairline is graduated, not a straight hard line."
         },
         {
-          "q": "Which tool is most essential for plucking the hairline?",
+          "q": "How do you pluck the hairline?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "curved needle"
-          ],
-          "answer": 3,
-          "explain": "The curved needle is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on plucking the hairline?",
-          "options": [
-            "keep needles capped when not in use",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "A few hairs at a time.",
+            "All the hairs at once.",
+            "With a flat iron.",
+            "With bleach."
           ],
           "answer": 0,
-          "explain": "You should always keep needles capped when not in use."
+          "explain": "Pluck hairs from the hairline a few at a time to create a natural, graduated edge."
+        },
+        {
+          "q": "How do you check your plucking as you work?",
+          "options": [
+            "Only at the very end.",
+            "In a mirror or a photo after each try.",
+            "By asking a stranger.",
+            "You do not need to check it."
+          ],
+          "answer": 1,
+          "explain": "Check your work in a mirror or a photo after each try."
         }
       ],
       "project": null
@@ -599,37 +599,37 @@
       "challenge": "Do customising the part two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on customising the part?",
+          "q": "What makes a part look realistic?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A realistic part is plucked wider than the factory line."
+            "It is left exactly as it came from the factory.",
+            "It is covered with gel.",
+            "It is plucked wider than the factory line.",
+            "It is cut in a straight line."
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "A realistic part is plucked wider than the factory line."
         },
         {
-          "q": "Which tool is most essential for customising the part?",
+          "q": "What do you add to the part for a realistic scalp look?",
           "options": [
-            "wig cap",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "Thick glue.",
+            "A second closure.",
+            "Bright dye.",
+            "Baby hairs."
           ],
-          "answer": 0,
-          "explain": "The wig cap is the essential tool for this work."
+          "answer": 3,
+          "explain": "Pluck the part line wider and add baby hairs for a realistic scalp look."
         },
         {
-          "q": "What should you always do when working on customising the part?",
+          "q": "How do you check your part as you pluck it?",
           "options": [
-            "disinfect your clippers between clients",
-            "patch test any dye on wig hair first",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "In a mirror or a photo after each try.",
+            "Only when the wig is sold.",
+            "By feeling it with wet hands.",
+            "You do not need to check it."
           ],
-          "answer": 1,
-          "explain": "You should always patch test any dye on wig hair first."
+          "answer": 0,
+          "explain": "Check your work in a mirror or a photo after each try."
         }
       ],
       "project": null
@@ -655,37 +655,37 @@
       "challenge": "Do creating baby hairs two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on creating baby hairs?",
+          "q": "What are baby hairs?",
           "options": [
-            "Baby hairs are short strands styled at the hairline.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Long hairs at the back of the wig.",
+            "Short strands styled at the hairline.",
+            "Hairs that grow under the cap.",
+            "Loose threads on the lace."
           ],
-          "answer": 0,
+          "answer": 1,
           "explain": "Baby hairs are short strands styled at the hairline."
         },
         {
-          "q": "Which tool is most essential for creating baby hairs?",
+          "q": "How do you make baby hairs?",
           "options": [
-            "clipper with guards",
-            "ventilating needle",
-            "trimmer",
-            "foil shaver"
+            "Pull out all the hairs at the hairline.",
+            "Cut short strands at the hairline and swoop them with gel.",
+            "Glue long hairs to the forehead.",
+            "Cut the whole wig short."
           ],
           "answer": 1,
-          "explain": "The ventilating needle is the essential tool for this work."
+          "explain": "Cut short strands at the hairline and swoop them with gel for natural edges."
         },
         {
-          "q": "What should you always do when working on creating baby hairs?",
+          "q": "What do you use to swoop the baby hairs into place?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "work in a ventilated area when bleaching knots",
-            "check the client for cuts before starting"
+            "Bleach.",
+            "Shampoo.",
+            "Gel.",
+            "Hot water."
           ],
           "answer": 2,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "explain": "Swoop baby hairs with gel for natural edges."
         }
       ],
       "project": null
@@ -711,37 +711,37 @@
       "challenge": "Do wig styling: straight two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on wig styling: straight?",
+          "q": "Why use heat protectant when you flat iron a wig?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Heat protectant protects wig hair from flat iron damage.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "It makes the hair curl.",
+            "It makes the wig dry faster.",
+            "It changes the hair colour.",
+            "It protects the hair from flat iron damage."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Heat protectant protects wig hair from flat iron damage."
         },
         {
-          "q": "Which tool is most essential for wig styling: straight?",
+          "q": "What tool do you use to straighten a wig?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "canvas block head",
-            "foil shaver"
+            "A flat iron.",
+            "A curling wand.",
+            "A pair of scissors.",
+            "A hair dryer with no heat."
           ],
-          "answer": 2,
-          "explain": "The canvas block head is the essential tool for this work."
+          "answer": 0,
+          "explain": "Flat iron in small sections with heat protectant for a sleek straight finish."
         },
         {
-          "q": "What should you always do when working on wig styling: straight?",
+          "q": "How should you flat iron the wig?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "keep needles capped when not in use"
+            "All the hair at once, with no protectant.",
+            "In small sections, with heat protectant.",
+            "In big sections, with cold water.",
+            "Only at the ends, with glue."
           ],
-          "answer": 3,
-          "explain": "You should always keep needles capped when not in use."
+          "answer": 1,
+          "explain": "Flat iron in small sections with heat protectant for a sleek straight finish."
         }
       ],
       "project": null
@@ -767,37 +767,37 @@
       "challenge": "Do wig styling: curls two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on wig styling: curls?",
+          "q": "Why pin curls to cool?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
+            "So they fall out faster.",
+            "So they dry faster.",
             "Pinning curls to cool makes them last longer.",
-            "Using dirty tools gives the same result as clean ones."
+            "So they look straight."
           ],
           "answer": 2,
           "explain": "Pinning curls to cool makes them last longer."
         },
         {
-          "q": "Which tool is most essential for wig styling: curls?",
+          "q": "What do you use to curl the wig?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "curved needle"
+            "A flat iron.",
+            "A pair of scissors.",
+            "A hair dryer with cold air.",
+            "A curling wand."
           ],
           "answer": 3,
-          "explain": "The curved needle is the essential tool for this work."
+          "explain": "Curl with a wand, pin each curl to cool, then brush out for soft waves."
         },
         {
-          "q": "What should you always do when working on wig styling: curls?",
+          "q": "What do you do after the pinned curls have cooled?",
           "options": [
-            "patch test any dye on wig hair first",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Brush them out for soft waves.",
+            "Cut them all off.",
+            "Wash the wig again.",
+            "Flat iron them straight."
           ],
           "answer": 0,
-          "explain": "You should always patch test any dye on wig hair first."
+          "explain": "Curl with a wand, pin each curl to cool, then brush out for soft waves."
         }
       ],
       "project": {
@@ -834,37 +834,37 @@
       "challenge": "Do week 2 project: a styled frontal wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: a styled frontal wig?",
+          "q": "What does a good styled frontal wig look like?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A styled wide lace frontal wig has a natural hairline and a sleek finish."
+            "A hard straight hairline and a rough finish.",
+            "A natural hairline and a sleek finish.",
+            "No hairline and a messy finish.",
+            "A shiny plastic look."
           ],
-          "answer": 3,
+          "answer": 1,
           "explain": "A styled wide lace frontal wig has a natural hairline and a sleek finish."
         },
         {
-          "q": "Which tool is most essential for week 2 project: a styled frontal wig?",
+          "q": "Which wig do you make in the week 2 project?",
           "options": [
-            "wig cap",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "A short pixie wig with no lace.",
+            "A braided wig with no frontal.",
+            "A wide lace frontal wig.",
+            "A men's haircut."
           ],
-          "answer": 0,
-          "explain": "The wig cap is the essential tool for this work."
+          "answer": 2,
+          "explain": "Make a wide lace frontal wig, lighten it with bleach and pull out a few hairs, then style it straight."
         },
         {
-          "q": "What should you always do when working on week 2 project: a styled frontal wig?",
+          "q": "In what order do you finish the frontal wig?",
           "options": [
-            "disinfect your clippers between clients",
-            "work in a ventilated area when bleaching knots",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Style it straight, then bleach it, then pluck it.",
+            "Pluck it, style it, then bleach it.",
+            "Bleach it, style it, then sew the wefts.",
+            "Bleach it, pluck it, then style it straight."
           ],
-          "answer": 1,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "answer": 3,
+          "explain": "Make a frontal wig, bleach and pluck it, then style it straight."
         }
       ],
       "project": null
@@ -890,37 +890,37 @@
       "challenge": "Do ventilating basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on ventilating basics?",
+          "q": "What does ventilating mean?",
           "options": [
-            "Ventilating means pulling hairs one by one through the lace.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Pulling hairs one by one through the lace.",
+            "Sewing wefts in rows.",
+            "Cutting the lace with scissors.",
+            "Washing the wig in cold water."
           ],
           "answer": 0,
           "explain": "Ventilating means pulling hairs one by one through the lace."
         },
         {
-          "q": "Which tool is most essential for ventilating basics?",
+          "q": "What tool do you use to ventilate?",
           "options": [
-            "clipper with guards",
-            "ventilating needle",
-            "trimmer",
-            "foil shaver"
+            "A flat iron.",
+            "A ventilating needle, a tiny hooked needle.",
+            "A sewing machine.",
+            "A curling wand."
           ],
           "answer": 1,
-          "explain": "The ventilating needle is the essential tool for this work."
+          "explain": "Use a ventilating needle to pull single hairs through lace knots for a closure."
         },
         {
-          "q": "What should you always do when working on ventilating basics?",
+          "q": "What should you do with the ventilating needle when you pause?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "keep needles capped when not in use",
-            "check the client for cuts before starting"
+            "Leave it loose on the table.",
+            "Hold it in your mouth.",
+            "Cap it and put it away.",
+            "Stick it in the wig and leave it."
           ],
           "answer": 2,
-          "explain": "You should always keep needles capped when not in use."
+          "explain": "Keep needles capped when not in use, so nobody gets pricked."
         }
       ],
       "project": null
@@ -946,37 +946,37 @@
       "challenge": "Do hand-tied closures two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hand-tied closures?",
+          "q": "How is a hand-tied closure built?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "A hand-tied small lace closure is built hair by hair with a tiny hooked needle.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "By gluing bundles to the cap.",
+            "By sewing wefts in rows only.",
+            "By cutting a frontal to size.",
+            "Hair by hair, with a tiny hooked needle."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "A hand-tied small lace closure is built hair by hair with a tiny hooked needle."
         },
         {
-          "q": "Which tool is most essential for hand-tied closures?",
+          "q": "What do you knot the hairs into when you hand-tie a closure?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "canvas block head",
-            "foil shaver"
+            "Lace.",
+            "A wig cap with no lace.",
+            "A headband.",
+            "A hair tie."
           ],
-          "answer": 2,
-          "explain": "The canvas block head is the essential tool for this work."
+          "answer": 0,
+          "explain": "Knot hairs into lace by hand to build a small lace closure from scratch."
         },
         {
-          "q": "What should you always do when working on hand-tied closures?",
+          "q": "How do you keep the hooked needle safe while you knot hair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test any dye on wig hair first"
+            "Leave it in the lace.",
+            "Cap it when you are not using it.",
+            "Hold it between your teeth.",
+            "Drop it on the floor."
           ],
-          "answer": 3,
-          "explain": "You should always patch test any dye on wig hair first."
+          "answer": 1,
+          "explain": "Keep needles capped when not in use, so nobody gets pricked."
         }
       ],
       "project": null
@@ -1002,37 +1002,37 @@
       "challenge": "Do colouring a wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on colouring a wig?",
+          "q": "How do you colour wig hair?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Wig hair is dyed with a watercolour or wig-safe dye method.",
-            "The best result comes from skipping the preparation step."
+            "With house paint.",
+            "With bleach only.",
+            "With a watercolour or wig-safe dye method.",
+            "With hot water only."
           ],
           "answer": 2,
           "explain": "Wig hair is dyed with a watercolour or wig-safe dye method."
         },
         {
-          "q": "Which tool is most essential for colouring a wig?",
+          "q": "When do you stop rinsing a dyed wig?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "curved needle"
+            "After 10 seconds.",
+            "When the water is still dark.",
+            "You never rinse it.",
+            "When the water runs clear."
           ],
           "answer": 3,
-          "explain": "The curved needle is the essential tool for this work."
+          "explain": "Use a wig-safe dye or watercolour method and rinse until the water runs clear."
         },
         {
-          "q": "What should you always do when working on colouring a wig?",
+          "q": "What should you do before you dye wig hair?",
           "options": [
-            "work in a ventilated area when bleaching knots",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Patch test the dye on the wig hair first.",
+            "Pour the dye straight on without testing.",
+            "Dye it twice as strong.",
+            "Skip the test to save time."
           ],
           "answer": 0,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "explain": "Patch test any dye on wig hair first, so you know it will not spoil the hair."
         }
       ],
       "project": null
@@ -1058,37 +1058,37 @@
       "challenge": "Do cutting and layering a wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on cutting and layering a wig?",
+          "q": "Why cut wig layers while the wig is on a head?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Wig layers are cut while the wig is on a head for a natural fall."
+            "So the wig dries faster.",
+            "So the layers fall naturally.",
+            "So the hair gets shorter.",
+            "So the lace stays white."
           ],
-          "answer": 3,
+          "answer": 1,
           "explain": "Wig layers are cut while the wig is on a head for a natural fall."
         },
         {
-          "q": "Which tool is most essential for cutting and layering a wig?",
+          "q": "Where should the wig be when you cut layers?",
           "options": [
-            "wig cap",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "Flat on a table.",
+            "In a bag.",
+            "On a head.",
+            "In water."
           ],
-          "answer": 0,
-          "explain": "The wig cap is the essential tool for this work."
+          "answer": 2,
+          "explain": "Cut the wig on the head, not flat, so layers fall naturally."
         },
         {
-          "q": "What should you always do when working on cutting and layering a wig?",
+          "q": "What happens if you cut the layers flat on a table?",
           "options": [
-            "disinfect your clippers between clients",
-            "keep needles capped when not in use",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "They will look perfect.",
+            "They will grow back.",
+            "They will change colour.",
+            "They will not fall naturally."
           ],
-          "answer": 1,
-          "explain": "You should always keep needles capped when not in use."
+          "answer": 3,
+          "explain": "Cut the wig on the head, not flat, so layers fall naturally."
         }
       ],
       "project": null
@@ -1114,37 +1114,37 @@
       "challenge": "Do installing a wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on installing a wig?",
+          "q": "Why braid the client's hair flat before an install?",
           "options": [
             "A flat braid-down is the base for a secure wig install.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "It makes the wig dry faster.",
+            "It makes the hair grow.",
+            "It makes the lace white."
           ],
           "answer": 0,
           "explain": "A flat braid-down is the base for a secure wig install."
         },
         {
-          "q": "Which tool is most essential for installing a wig?",
+          "q": "What do you use to hold the wig in place during an install?",
           "options": [
-            "clipper with guards",
-            "ventilating needle",
-            "trimmer",
-            "foil shaver"
+            "Pins only.",
+            "A cap, glue or gel.",
+            "Water only.",
+            "A headband only."
           ],
           "answer": 1,
-          "explain": "The ventilating needle is the essential tool for this work."
+          "explain": "Braid the client's hair flat, use a cap, glue or gel, and melt the lace."
         },
         {
-          "q": "What should you always do when working on installing a wig?",
+          "q": "What is the last step of a wig install?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "patch test any dye on wig hair first",
-            "check the client for cuts before starting"
+            "Cut the wig short.",
+            "Wash the client's hair.",
+            "Melt the lace.",
+            "Remove the cap."
           ],
           "answer": 2,
-          "explain": "You should always patch test any dye on wig hair first."
+          "explain": "Braid the hair flat, use a cap, glue or gel, and melt the lace."
         }
       ],
       "project": null
@@ -1170,37 +1170,37 @@
       "challenge": "Do wig grip and security two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on wig grip and security?",
+          "q": "What does a wig grip band do?",
           "options": [
-            "You never need to check your work until the very end.",
-            "A wig grip band stops the wig from sliding.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "It makes the wig heavier.",
+            "It colours the hair.",
+            "It dries the wig.",
+            "It stops the wig from sliding."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "A wig grip band stops the wig from sliding."
         },
         {
-          "q": "Which tool is most essential for wig grip and security?",
+          "q": "What should you adjust so the wig fits well?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "canvas block head",
-            "foil shaver"
+            "The straps.",
+            "The colour.",
+            "The length of the lace.",
+            "The price."
           ],
-          "answer": 2,
-          "explain": "The canvas block head is the essential tool for this work."
+          "answer": 0,
+          "explain": "Use a wig grip band and adjustable straps so the wig stays secure all day."
         },
         {
-          "q": "What should you always do when working on wig grip and security?",
+          "q": "What two things keep the wig secure all day?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "work in a ventilated area when bleaching knots"
+            "Glue and water only.",
+            "A wig grip band and adjustable straps.",
+            "Pins and tape only.",
+            "A hat and a scarf."
           ],
-          "answer": 3,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "answer": 1,
+          "explain": "Use a wig grip band and adjustable straps so the wig stays secure all day."
         }
       ],
       "project": {
@@ -1237,37 +1237,37 @@
       "challenge": "Do week 3 project: a coloured wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: a coloured wig?",
+          "q": "What should a finished coloured wig show?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A coloured wig shows even colour and a clean style.",
-            "You should always use the strongest product available."
+            "Patchy colour and a messy style.",
+            "No colour at all.",
+            "Even colour and a clean style.",
+            "A different colour on each side."
           ],
           "answer": 2,
           "explain": "A coloured wig shows even colour and a clean style."
         },
         {
-          "q": "Which tool is most essential for week 3 project: a coloured wig?",
+          "q": "What do you style the coloured wig for?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "curved needle"
+            "For the bin.",
+            "For washing.",
+            "For cutting.",
+            "For photos."
           ],
           "answer": 3,
-          "explain": "The curved needle is the essential tool for this work."
+          "explain": "Make and colour a wig, then style it for photos."
         },
         {
-          "q": "What should you always do when working on week 3 project: a coloured wig?",
+          "q": "What should you do before you colour the wig for the week 3 project?",
           "options": [
-            "keep needles capped when not in use",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Patch test the dye on the wig hair first.",
+            "Pour the dye on without testing.",
+            "Use twice as much dye.",
+            "Skip the test to save time."
           ],
           "answer": 0,
-          "explain": "You should always keep needles capped when not in use."
+          "explain": "Patch test any dye on wig hair first, so you know it will not spoil the hair."
         }
       ],
       "project": null
@@ -1293,37 +1293,37 @@
       "challenge": "Do wig care and washing two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on wig care and washing?",
+          "q": "How should a wig dry after washing?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Wigs should air-dry on a stand, not with high heat."
+            "Dry with high heat from a dryer.",
+            "Air-dry on a stand, not with high heat.",
+            "Dry in the sun for a whole day.",
+            "Dry inside a plastic bag."
           ],
-          "answer": 3,
+          "answer": 1,
           "explain": "Wigs should air-dry on a stand, not with high heat."
         },
         {
-          "q": "Which tool is most essential for wig care and washing?",
+          "q": "What should you do after washing a wig?",
           "options": [
-            "wig cap",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "Flat iron it while it is wet.",
+            "Put it away wet in a bag.",
+            "Condition it, then air-dry it on a stand.",
+            "Bleach it again."
           ],
-          "answer": 0,
-          "explain": "The wig cap is the essential tool for this work."
+          "answer": 2,
+          "explain": "Wash with sulfate-free shampoo, condition, and air-dry on a stand."
         },
         {
-          "q": "What should you always do when working on wig care and washing?",
+          "q": "What kind of shampoo should you wash a wig with?",
           "options": [
-            "disinfect your clippers between clients",
-            "patch test any dye on wig hair first",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Strong bleach shampoo.",
+            "Dish soap.",
+            "Any shampoo with sulfates.",
+            "Sulfate-free shampoo."
           ],
-          "answer": 1,
-          "explain": "You should always patch test any dye on wig hair first."
+          "answer": 3,
+          "explain": "Wash with sulfate-free shampoo, condition, and air-dry on a stand."
         }
       ],
       "project": null
@@ -1349,37 +1349,37 @@
       "challenge": "Do repairing a wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on repairing a wig?",
+          "q": "How do you fix loose wefts?",
           "options": [
-            "Loose wefts are fixed by resewing them to the cap.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Resew them to the cap.",
+            "Glue them to the client's head.",
+            "Cut them all off.",
+            "Leave them loose."
           ],
           "answer": 0,
           "explain": "Loose wefts are fixed by resewing them to the cap."
         },
         {
-          "q": "Which tool is most essential for repairing a wig?",
+          "q": "What else might a wig repair need?",
           "options": [
-            "clipper with guards",
-            "ventilating needle",
-            "trimmer",
-            "foil shaver"
+            "Buy a whole new wig every time.",
+            "Replace a torn lace section and refresh the part.",
+            "Paint over the torn lace.",
+            "Ignore the tear."
           ],
           "answer": 1,
-          "explain": "The ventilating needle is the essential tool for this work."
+          "explain": "Resew loose wefts, replace a torn lace section, and refresh the part."
         },
         {
-          "q": "What should you always do when working on repairing a wig?",
+          "q": "What should you do with the needle when you finish a repair?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "work in a ventilated area when bleaching knots",
-            "check the client for cuts before starting"
+            "Leave it in the wig.",
+            "Drop it on the floor.",
+            "Cap it and put it away.",
+            "Hold it in your mouth."
           ],
           "answer": 2,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "explain": "Keep needles capped when not in use, so nobody gets pricked."
         }
       ],
       "project": null
@@ -1405,37 +1405,37 @@
       "challenge": "Do selling your first wig two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on selling your first wig?",
+          "q": "What three things go into a wig price?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Wig pricing covers hair, lace and your labour time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Hair, water, and photos.",
+            "Lace, glue, and a bag.",
+            "Thread, pins, and a mirror.",
+            "Hair, lace, and your labour time."
           ],
-          "answer": 1,
+          "answer": 3,
           "explain": "Wig pricing covers hair, lace and your labour time."
         },
         {
-          "q": "Which tool is most essential for selling your first wig?",
+          "q": "What should you do with the wig before you sell it?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "canvas block head",
-            "foil shaver"
+            "Photograph it on a model.",
+            "Hide it in a bag.",
+            "Cut it short.",
+            "Wash it with bleach."
           ],
-          "answer": 2,
-          "explain": "The canvas block head is the essential tool for this work."
+          "answer": 0,
+          "explain": "Price by hair length, lace type and labour, and photograph the unit on a model."
         },
         {
-          "q": "What should you always do when working on selling your first wig?",
+          "q": "Why photograph the wig on a model?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "keep needles capped when not in use"
+            "So the wig dries faster.",
+            "So buyers can see how it looks worn.",
+            "So the price goes up.",
+            "So the hair grows."
           ],
-          "answer": 3,
-          "explain": "You should always keep needles capped when not in use."
+          "answer": 1,
+          "explain": "Photograph the unit on a model, so buyers see how it looks worn."
         }
       ],
       "project": null
@@ -1461,37 +1461,37 @@
       "challenge": "Do custom orders two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on custom orders?",
+          "q": "When do you take a deposit for a custom wig?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A deposit is taken before ordering hair for a custom wig.",
-            "Using dirty tools gives the same result as clean ones."
+            "After the client has worn the wig for a month.",
+            "Never.",
+            "Before ordering the hair.",
+            "Only if the client asks."
           ],
           "answer": 2,
           "explain": "A deposit is taken before ordering hair for a custom wig."
         },
         {
-          "q": "Which tool is most essential for custom orders?",
+          "q": "What do you do first for a custom order?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "curved needle"
+            "Order the hair.",
+            "Take the photo.",
+            "Set the price only.",
+            "Take the client's measurements."
           ],
           "answer": 3,
-          "explain": "The curved needle is the essential tool for this work."
+          "explain": "Take the client's measurements, agree the style, and take a deposit before ordering hair."
         },
         {
-          "q": "What should you always do when working on custom orders?",
+          "q": "What three things do you do for a custom order?",
           "options": [
-            "patch test any dye on wig hair first",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Take measurements, agree the style, and take a deposit.",
+            "Take a photo, wash the wig, and cut it.",
+            "Order hair, sew it, and sell it with no plan.",
+            "Ask the price, skip measuring, and guess the style."
           ],
           "answer": 0,
-          "explain": "You should always patch test any dye on wig hair first."
+          "explain": "Take the client's measurements, agree the style, and take a deposit before ordering hair."
         }
       ],
       "project": null
@@ -1517,37 +1517,37 @@
       "challenge": "Do wig business basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on wig business basics?",
+          "q": "What helps you win wig orders?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A catalogue and clear turnaround times win wig orders."
+            "No catalogue and no plan.",
+            "A catalogue and clear turnaround times.",
+            "The highest price in town.",
+            "Hiding your work from buyers."
           ],
-          "answer": 3,
+          "answer": 1,
           "explain": "A catalogue and clear turnaround times win wig orders."
         },
         {
-          "q": "Which tool is most essential for wig business basics?",
+          "q": "Where do you track your wig orders?",
           "options": [
-            "wig cap",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "In your head only.",
+            "On the wig itself.",
+            "In a notebook.",
+            "Nowhere."
           ],
-          "answer": 0,
-          "explain": "The wig cap is the essential tool for this work."
+          "answer": 2,
+          "explain": "Keep a catalogue of styles, set turnaround times, and track orders in a notebook."
         },
         {
-          "q": "What should you always do when working on wig business basics?",
+          "q": "Why set turnaround times for your orders?",
           "options": [
-            "disinfect your clippers between clients",
-            "work in a ventilated area when bleaching knots",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "So you can work more slowly.",
+            "So clients pay more.",
+            "So the hair lasts longer.",
+            "So clients know when their wig will be ready."
           ],
-          "answer": 1,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "answer": 3,
+          "explain": "Set turnaround times, so clients know when their wig will be ready."
         }
       ],
       "project": null
@@ -1573,37 +1573,37 @@
       "challenge": "Do branding and packaging two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on branding and packaging?",
+          "q": "What do you package the wig in?",
           "options": [
-            "Care instructions in the package protect the wig and your reputation.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "A satin bag.",
+            "A plastic shopping bag.",
+            "A wet towel.",
+            "A shoe box with no cover."
           ],
           "answer": 0,
-          "explain": "Care instructions in the package protect the wig and your reputation."
+          "explain": "Package the wig in a satin bag with a card and care instructions."
         },
         {
-          "q": "Which tool is most essential for branding and packaging?",
+          "q": "What else goes in the package with the wig?",
           "options": [
-            "clipper with guards",
-            "ventilating needle",
-            "trimmer",
-            "foil shaver"
+            "A bottle of dye.",
+            "A card and care instructions.",
+            "A wet sponge.",
+            "A second wig for free."
           ],
           "answer": 1,
-          "explain": "The ventilating needle is the essential tool for this work."
+          "explain": "Package the wig in a satin bag with a card and care instructions."
         },
         {
-          "q": "What should you always do when working on branding and packaging?",
+          "q": "Why include care instructions in the package?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "keep needles capped when not in use",
-            "check the client for cuts before starting"
+            "They make the wig heavier.",
+            "They make the package look empty.",
+            "They protect the wig and your reputation.",
+            "They make the wig dry faster."
           ],
           "answer": 2,
-          "explain": "You should always keep needles capped when not in use."
+          "explain": "Care instructions in the package protect the wig and your reputation."
         }
       ],
       "project": null
@@ -1629,37 +1629,37 @@
       "challenge": "Do client fitting day two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on client fitting day?",
+          "q": "What does a fitting adjust?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "A fitting adjusts straps and combs so the wig sits perfectly.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "The colour of the hair.",
+            "The length of the client's own hair.",
+            "Straps and combs so the wig sits perfectly.",
+            "The price of the wig."
           ],
-          "answer": 1,
+          "answer": 2,
           "explain": "A fitting adjusts straps and combs so the wig sits perfectly."
         },
         {
-          "q": "Which tool is most essential for client fitting day?",
+          "q": "What do you style together with the client at a fitting?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "canvas block head",
-            "foil shaver"
-          ],
-          "answer": 2,
-          "explain": "The canvas block head is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on client fitting day?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test any dye on wig hair first"
+            "The back of the neck only.",
+            "The client's shoes.",
+            "The wig cap.",
+            "The edges."
           ],
           "answer": 3,
-          "explain": "You should always patch test any dye on wig hair first."
+          "explain": "Fit the wig on the client, adjust the straps, and style the edges together."
+        },
+        {
+          "q": "What three things do you do at a client fitting?",
+          "options": [
+            "Fit the wig, adjust the straps, and style the edges.",
+            "Wash the wig, bleach it, and cut it.",
+            "Measure the client, order hair, and take a deposit.",
+            "Photograph the wig, pack it, and post it."
+          ],
+          "answer": 0,
+          "explain": "Fit the wig on the client, adjust the straps, and style the edges together."
         }
       ],
       "project": null
@@ -1685,37 +1685,37 @@
       "challenge": "Do capstone week: your first sold unit two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: your first sold unit?",
+          "q": "What does making a sold unit cover?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A sold unit covers measuring, making, styling and delivery.",
-            "The best result comes from skipping the preparation step."
+            "Only making the wig.",
+            "Measuring, making, styling, and delivery.",
+            "Only styling the wig.",
+            "Only delivering the wig."
           ],
-          "answer": 2,
+          "answer": 1,
           "explain": "A sold unit covers measuring, making, styling and delivery."
         },
         {
-          "q": "Which tool is most essential for capstone week: your first sold unit?",
+          "q": "What do you deliver with the finished wig?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "curved needle"
+            "A spare wig cap.",
+            "A second wig.",
+            "A care card.",
+            "A bill with no instructions."
           ],
-          "answer": 3,
-          "explain": "The curved needle is the essential tool for this work."
+          "answer": 2,
+          "explain": "Make a complete wig for a paying client and deliver it with a care card."
         },
         {
-          "q": "What should you always do when working on capstone week: your first sold unit?",
+          "q": "Who is the capstone wig for?",
           "options": [
-            "work in a ventilated area when bleaching knots",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Yourself only.",
+            "Nobody.",
+            "A mannequin head only.",
+            "A paying client."
           ],
-          "answer": 0,
-          "explain": "You should always work in a ventilated area when bleaching knots."
+          "answer": 3,
+          "explain": "Make a complete wig for a paying client and deliver it with a care card."
         }
       ],
       "project": null

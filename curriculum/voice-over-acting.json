@@ -27,15 +27,15 @@
       "challenge": "Record yourself reading the same line five ways.",
       "quiz": [
         {
-          "q": "Why should you warm up your voice?",
+          "q": "What should you notice when you listen back to your recording?",
           "options": [
-            "Because it makes your voice clear and stops it getting tired",
-            "Because it makes the recording longer",
-            "Because it makes the mic louder",
-            "Because it saves battery"
+            "The file size.",
+            "The room colour.",
+            "Your tone.",
+            "The time."
           ],
-          "answer": 0,
-          "explain": "Warming up loosens your voice. It helps you sound clear and strong."
+          "answer": 2,
+          "explain": "Listen back and notice your tone."
         },
         {
           "q": "What is the main goal of today's lesson, \"Meet your voice\"?",
@@ -82,15 +82,15 @@
       "challenge": "Record the same paragraph with and without a warm-up.",
       "quiz": [
         {
-          "q": "What is belly breathing?",
+          "q": "Why should you warm up your voice?",
           "options": [
-            "Breathing deep into your belly so your voice has power",
-            "Breathing very fast",
-            "Holding your breath",
-            "Breathing through your nose only"
+            "Because it makes your voice clear and stops it getting tired.",
+            "Because it makes the recording longer.",
+            "Because it makes the mic louder.",
+            "Because it saves battery."
           ],
           "answer": 0,
-          "explain": "Belly breathing gives your voice power and control. It stops you running out of air."
+          "explain": "Warming up loosens your voice. It helps you sound clear and strong."
         },
         {
           "q": "What is the main goal of today's lesson, \"Warm up your voice\"?",
@@ -137,15 +137,15 @@
       "challenge": "Take five deep belly breaths before you record.",
       "quiz": [
         {
-          "q": "Why should you warm up your voice?",
+          "q": "What is belly breathing?",
           "options": [
-            "Because it makes your voice clear and stops it getting tired",
-            "Because it makes the recording longer",
-            "Because it makes the mic louder",
-            "Because it saves battery"
+            "Breathing very fast.",
+            "Breathing deep into your belly so your voice has power.",
+            "Holding your breath.",
+            "Breathing through your nose only."
           ],
-          "answer": 0,
-          "explain": "Warming up loosens your voice. It helps you sound clear and strong."
+          "answer": 1,
+          "explain": "Belly breathing gives your voice power and control. It stops you running out of air."
         },
         {
           "q": "What is the main goal of today's lesson, \"Breathe right\"?",
@@ -192,15 +192,15 @@
       "challenge": "Record yourself reading a tongue twister.",
       "quiz": [
         {
-          "q": "What is belly breathing?",
+          "q": "What should you do to say every word clearly?",
           "options": [
-            "Breathing deep into your belly so your voice has power",
-            "Breathing very fast",
-            "Holding your breath",
-            "Breathing through your nose only"
+            "Speak as fast as you can.",
+            "Whisper.",
+            "Open your mouth wide for each word.",
+            "Hold your breath."
           ],
-          "answer": 0,
-          "explain": "Belly breathing gives your voice power and control. It stops you running out of air."
+          "answer": 2,
+          "explain": "Open your mouth wide for each word."
         },
         {
           "q": "What is the main goal of today's lesson, \"Speak clearly\"?",
@@ -247,15 +247,15 @@
       "challenge": "Record yourself reading a script in your natural voice.",
       "quiz": [
         {
-          "q": "Why should you warm up your voice?",
+          "q": "What is your natural voice?",
           "options": [
-            "Because it makes your voice clear and stops it getting tired",
-            "Because it makes the recording longer",
-            "Because it makes the mic louder",
-            "Because it saves battery"
+            "A deep radio voice.",
+            "A whisper.",
+            "A shouting voice.",
+            "The voice you use every day."
           ],
-          "answer": 0,
-          "explain": "Warming up loosens your voice. It helps you sound clear and strong."
+          "answer": 3,
+          "explain": "Your natural voice is the one you use every day."
         },
         {
           "q": "What is the main goal of today's lesson, \"Find your natural voice\"?",
@@ -302,15 +302,15 @@
       "challenge": "Record the same script three times and pick the best.",
       "quiz": [
         {
-          "q": "What is belly breathing?",
+          "q": "What kind of script should you pick for your first voice-over?",
           "options": [
-            "Breathing deep into your belly so your voice has power",
-            "Breathing very fast",
-            "Holding your breath",
-            "Breathing through your nose only"
+            "A short script, like an advert for juice.",
+            "A long book.",
+            "A script in another language.",
+            "No script at all."
           ],
           "answer": 0,
-          "explain": "Belly breathing gives your voice power and control. It stops you running out of air."
+          "explain": "Pick a short script, like an advert for juice."
         },
         {
           "q": "What is the main goal of today's lesson, \"Record your first voice-over\"?",
@@ -357,15 +357,15 @@
       "challenge": "Play your voice-over for a friend and ask what they think.",
       "quiz": [
         {
-          "q": "Why should you warm up your voice?",
+          "q": "What should you do with mistakes in your first voice-over?",
           "options": [
-            "Because it makes your voice clear and stops it getting tired",
-            "Because it makes the recording longer",
-            "Because it makes the mic louder",
-            "Because it saves battery"
+            "Leave them in.",
+            "Cut them out in a free app.",
+            "Record everything again from scratch.",
+            "Delete the whole file."
           ],
-          "answer": 0,
-          "explain": "Warming up loosens your voice. It helps you sound clear and strong."
+          "answer": 1,
+          "explain": "Cut out mistakes in a free app."
         },
         {
           "q": "What is the main goal of today's lesson, \"Your first voice-over is done\"?",
@@ -423,15 +423,15 @@
       "challenge": "Record with the mic too close and too far, then compare.",
       "quiz": [
         {
-          "q": "Why should you record in a quiet room?",
+          "q": "How far should the mic be from your mouth?",
           "options": [
-            "So your voice is clear and listeners can hear every word",
-            "So the file is smaller",
-            "So the recording is shorter",
-            "So the music sounds better"
+            "1 metre away.",
+            "Touching your lips.",
+            "About 15 cm.",
+            "In another room."
           ],
-          "answer": 0,
-          "explain": "Background noise hides your voice. A quiet room makes your recording easy to listen to."
+          "answer": 2,
+          "explain": "Hold the mic about 15 cm from your mouth."
         },
         {
           "q": "What is the main goal of today's lesson, \"Learn microphone basics\"?",
@@ -478,15 +478,15 @@
       "challenge": "Record 10 seconds in your room and listen for echo.",
       "quiz": [
         {
-          "q": "What is a demo reel?",
+          "q": "Why should you record in a quiet room?",
           "options": [
-            "A short audio file that shows off your best voices",
-            "A type of microphone",
-            "A recording app",
-            "A job website"
+            "So the file is smaller.",
+            "So the recording is shorter.",
+            "So the music sounds better.",
+            "So your voice is clear and listeners can hear every word."
           ],
-          "answer": 0,
-          "explain": "A demo reel is a short sample of your best work. Clients listen to it before they hire you."
+          "answer": 3,
+          "explain": "Background noise hides your voice. A quiet room makes your recording easy to listen to."
         },
         {
           "q": "What is the main goal of today's lesson, \"Record in a quiet room\"?",
@@ -533,15 +533,15 @@
       "challenge": "Record the same script fast and slow, then compare.",
       "quiz": [
         {
-          "q": "Why should you record in a quiet room?",
+          "q": "How do you find the right speaking speed?",
           "options": [
-            "So your voice is clear and listeners can hear every word",
-            "So the file is smaller",
-            "So the recording is shorter",
-            "So the music sounds better"
+            "Read a paragraph fast, then slow, and find a speed that feels natural.",
+            "Always speak as fast as you can.",
+            "Always speak very slowly.",
+            "Copy the speed of the radio."
           ],
           "answer": 0,
-          "explain": "Background noise hides your voice. A quiet room makes your recording easy to listen to."
+          "explain": "Read a paragraph fast, then slow. Find a speed that feels natural."
         },
         {
           "q": "What is the main goal of today's lesson, \"Control your pace\"?",
@@ -588,15 +588,15 @@
       "challenge": "Record an advert in a happy tone and a serious tone.",
       "quiz": [
         {
-          "q": "What is a demo reel?",
+          "q": "How can you change your tone for a script?",
           "options": [
-            "A short audio file that shows off your best voices",
-            "A type of microphone",
-            "A recording app",
-            "A job website"
+            "Shout every line.",
+            "Read it happy, serious, then calm, and pick the tone that fits.",
+            "Whisper every line.",
+            "Use the same tone for everything."
           ],
-          "answer": 0,
-          "explain": "A demo reel is a short sample of your best work. Clients listen to it before they hire you."
+          "answer": 1,
+          "explain": "Read a script in a happy tone, a serious tone and a calm tone. Pick the tone that fits the words."
         },
         {
           "q": "What is the main goal of today's lesson, \"Use your tone\"?",
@@ -643,15 +643,15 @@
       "challenge": "Record adverts for three different products.",
       "quiz": [
         {
-          "q": "Why should you record in a quiet room?",
+          "q": "What should you write into your advert script?",
           "options": [
-            "So your voice is clear and listeners can hear every word",
-            "So the file is smaller",
-            "So the recording is shorter",
-            "So the music sounds better"
+            "A full book.",
+            "A song.",
+            "A hook.",
+            "Nothing."
           ],
-          "answer": 0,
-          "explain": "Background noise hides your voice. A quiet room makes your recording easy to listen to."
+          "answer": 2,
+          "explain": "Write a short script with a hook."
         },
         {
           "q": "What is the main goal of today's lesson, \"Record a commercial\"?",
@@ -698,15 +698,15 @@
       "challenge": "Record a story for children in a warm voice.",
       "quiz": [
         {
-          "q": "What is a demo reel?",
+          "q": "How should you record a story narration?",
           "options": [
-            "A short audio file that shows off your best voices",
-            "A type of microphone",
-            "A recording app",
-            "A job website"
+            "As fast as you can.",
+            "In a whisper.",
+            "Shouting.",
+            "In a calm, clear voice."
           ],
-          "answer": 0,
-          "explain": "A demo reel is a short sample of your best work. Clients listen to it before they hire you."
+          "answer": 3,
+          "explain": "Record it in a calm, clear voice."
         },
         {
           "q": "What is the main goal of today's lesson, \"Record a narration\"?",
@@ -753,15 +753,15 @@
       "challenge": "Record two characters talking to each other.",
       "quiz": [
         {
-          "q": "Why should you record in a quiet room?",
+          "q": "How do you make a voice for a character?",
           "options": [
-            "So your voice is clear and listeners can hear every word",
-            "So the file is smaller",
-            "So the recording is shorter",
-            "So the music sounds better"
+            "Change your pitch and speed for that character.",
+            "Use your normal voice only.",
+            "Speak in another language.",
+            "Stay silent."
           ],
           "answer": 0,
-          "explain": "Background noise hides your voice. A quiet room makes your recording easy to listen to."
+          "explain": "Change your pitch and speed for that character."
         },
         {
           "q": "What is the main goal of today's lesson, \"Record a character voice\"?",
@@ -819,15 +819,15 @@
       "challenge": "Play your three voice-overs for a friend.",
       "quiz": [
         {
-          "q": "What is a script in voice-over?",
+          "q": "What three voice-overs make up your first set?",
           "options": [
-            "The written words you read out loud",
-            "A type of microphone",
-            "A recording app",
-            "A kind of speaker"
+            "Three adverts.",
+            "A commercial, a narration, and a character voice.",
+            "Three songs.",
+            "Three phone messages."
           ],
-          "answer": 0,
-          "explain": "A script is the text you read. You practice it before you record."
+          "answer": 1,
+          "explain": "Record a commercial. Record a narration. Record a character voice."
         },
         {
           "q": "What is the main goal of today's lesson, \"Your first voice-over set\"?",
@@ -874,15 +874,15 @@
       "challenge": "Edit the same recording twice and pick the better one.",
       "quiz": [
         {
-          "q": "What is tone in voice-over?",
+          "q": "What should you cut out when you edit a recording?",
           "options": [
-            "The feeling in your voice, like happy, serious or calm",
-            "The volume of the mic",
-            "The length of the recording",
-            "The file type"
+            "The whole recording.",
+            "The good parts.",
+            "Long pauses and mistakes.",
+            "The beginning only."
           ],
-          "answer": 0,
-          "explain": "Tone is the feeling in your voice. The right tone makes the words believable."
+          "answer": 2,
+          "explain": "Cut out long pauses and mistakes."
         },
         {
           "q": "What is the main goal of today's lesson, \"Edit your audio\"?",
@@ -929,15 +929,15 @@
       "challenge": "Record in a noisy room, then clean it up.",
       "quiz": [
         {
-          "q": "What is a script in voice-over?",
+          "q": "What is the first step to remove background noise?",
           "options": [
-            "The written words you read out loud",
-            "A type of microphone",
-            "A recording app",
-            "A kind of speaker"
+            "Delete the whole recording.",
+            "Turn the volume up.",
+            "Add more noise.",
+            "Select a part with only noise."
           ],
-          "answer": 0,
-          "explain": "A script is the text you read. You practice it before you record."
+          "answer": 3,
+          "explain": "Select a part with only noise. Use noise reduction to learn the noise."
         },
         {
           "q": "What is the main goal of today's lesson, \"Remove background noise\"?",
@@ -984,15 +984,15 @@
       "challenge": "Record quietly, then fix the volume.",
       "quiz": [
         {
-          "q": "What is tone in voice-over?",
+          "q": "How do you fix a quiet recording?",
           "options": [
-            "The feeling in your voice, like happy, serious or calm",
-            "The volume of the mic",
-            "The length of the recording",
-            "The file type"
+            "Use the amplify effect to make it louder.",
+            "Record it again louder only.",
+            "Delete it.",
+            "Turn the mic off."
           ],
           "answer": 0,
-          "explain": "Tone is the feeling in your voice. The right tone makes the words believable."
+          "explain": "Use the amplify effect to make it louder."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make your voice louder\"?",
@@ -1039,15 +1039,15 @@
       "challenge": "Record audiobook samples from two different books.",
       "quiz": [
         {
-          "q": "What is a script in voice-over?",
+          "q": "How long should your audiobook sample be?",
           "options": [
-            "The written words you read out loud",
-            "A type of microphone",
-            "A recording app",
-            "A kind of speaker"
+            "2 hours.",
+            "2 minutes.",
+            "10 seconds.",
+            "All day."
           ],
-          "answer": 0,
-          "explain": "A script is the text you read. You practice it before you record."
+          "answer": 1,
+          "explain": "Record a 2-minute audiobook sample."
         },
         {
           "q": "What is the main goal of today's lesson, \"Record an audiobook sample\"?",
@@ -1094,15 +1094,15 @@
       "challenge": "Record phone greetings for two businesses.",
       "quiz": [
         {
-          "q": "What is tone in voice-over?",
+          "q": "How should a business phone greeting sound?",
           "options": [
-            "The feeling in your voice, like happy, serious or calm",
-            "The volume of the mic",
-            "The length of the recording",
-            "The file type"
+            "Angry and fast.",
+            "Quiet and unclear.",
+            "Warm and clear.",
+            "In a whisper."
           ],
-          "answer": 0,
-          "explain": "Tone is the feeling in your voice. The right tone makes the words believable."
+          "answer": 2,
+          "explain": "Record it in a warm, clear voice."
         },
         {
           "q": "What is the main goal of today's lesson, \"Record a phone message\"?",
@@ -1149,15 +1149,15 @@
       "challenge": "Play your demo reel for a friend.",
       "quiz": [
         {
-          "q": "What is a script in voice-over?",
+          "q": "What is a demo reel?",
           "options": [
-            "The written words you read out loud",
-            "A type of microphone",
-            "A recording app",
-            "A kind of speaker"
+            "A type of microphone.",
+            "A recording app.",
+            "A job website.",
+            "A short audio file that shows off your best voices."
           ],
-          "answer": 0,
-          "explain": "A script is the text you read. You practice it before you record."
+          "answer": 3,
+          "explain": "A demo reel is a short sample of your best work. Clients listen to it before they hire you."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a demo reel\"?",
@@ -1215,15 +1215,15 @@
       "challenge": "Write down the skills clients ask for most.",
       "quiz": [
         {
-          "q": "What is noise reduction?",
+          "q": "Where can you find voice-over jobs?",
           "options": [
-            "A tool that removes background hiss from a recording",
-            "A type of microphone",
-            "A way to make your voice louder",
-            "A file format"
+            "Fiverr and Upwork.",
+            "Only in newspapers.",
+            "Only on the radio.",
+            "Nowhere."
           ],
           "answer": 0,
-          "explain": "Noise reduction removes background hiss. It makes your voice sound clean."
+          "explain": "Look at Fiverr and Upwork."
         },
         {
           "q": "What is the main goal of today's lesson, \"Find voice-over jobs\"?",
@@ -1270,15 +1270,15 @@
       "challenge": "Ask a friend to read your bio and say if it is clear.",
       "quiz": [
         {
-          "q": "What is an audition?",
+          "q": "What should your voice-over profile have?",
           "options": [
-            "A test recording you send to a client to win a job",
-            "A type of microphone",
-            "A paid job",
-            "A recording app"
+            "Only a photo.",
+            "A short bio, the styles you can do, your demo reel and a photo.",
+            "Only your name.",
+            "Nothing."
           ],
-          "answer": 0,
-          "explain": "An audition is a short recording you send to show a client you can do the job."
+          "answer": 1,
+          "explain": "Write a short bio about your voice. List the styles you can do. Upload your demo reel. Add a profile photo."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a profile\"?",
@@ -1325,15 +1325,15 @@
       "challenge": "Record auditions for three job posts.",
       "quiz": [
         {
-          "q": "What is noise reduction?",
+          "q": "What is an audition?",
           "options": [
-            "A tool that removes background hiss from a recording",
-            "A type of microphone",
-            "A way to make your voice louder",
-            "A file format"
+            "A type of microphone.",
+            "A paid job.",
+            "A test recording you send to a client to win a job.",
+            "A recording app."
           ],
-          "answer": 0,
-          "explain": "Noise reduction removes background hiss. It makes your voice sound clean."
+          "answer": 2,
+          "explain": "An audition is a short recording you send to show a client you can do the job."
         },
         {
           "q": "What is the main goal of today's lesson, \"Audition for a job\"?",
@@ -1380,15 +1380,15 @@
       "challenge": "Set a starting price for your work.",
       "quiz": [
         {
-          "q": "What is an audition?",
+          "q": "What rates should you write down when you price your work?",
           "options": [
-            "A test recording you send to a client to win a job",
-            "A type of microphone",
-            "A paid job",
-            "A recording app"
+            "Only the highest rate.",
+            "Only the lowest rate.",
+            "No rates at all.",
+            "Rates for a 30-second advert and a 1-minute narration."
           ],
-          "answer": 0,
-          "explain": "An audition is a short recording you send to show a client you can do the job."
+          "answer": 3,
+          "explain": "Write down the rates for a 30-second advert and for a 1-minute narration."
         },
         {
           "q": "What is the main goal of today's lesson, \"Price your work\"?",
@@ -1435,15 +1435,15 @@
       "challenge": "Ask one happy client for a review.",
       "quiz": [
         {
-          "q": "What is noise reduction?",
+          "q": "What should you write down for each client?",
           "options": [
-            "A tool that removes background hiss from a recording",
-            "A type of microphone",
-            "A way to make your voice louder",
-            "A file format"
+            "What you did for each one.",
+            "Only their name.",
+            "Only the date.",
+            "Nothing."
           ],
           "answer": 0,
-          "explain": "Noise reduction removes background hiss. It makes your voice sound clean."
+          "explain": "Write down what you did for each one."
         },
         {
           "q": "What is the main goal of today's lesson, \"Build a client list\"?",
@@ -1490,15 +1490,15 @@
       "challenge": "Act out a scene with two characters.",
       "quiz": [
         {
-          "q": "What is an audition?",
+          "q": "How do you add feeling to a script?",
           "options": [
-            "A test recording you send to a client to win a job",
-            "A type of microphone",
-            "A paid job",
-            "A recording app"
+            "Read it flat.",
+            "Add feelings: joy, anger, fear.",
+            "Read it faster.",
+            "Skip the feelings."
           ],
-          "answer": 0,
-          "explain": "An audition is a short recording you send to show a client you can do the job."
+          "answer": 1,
+          "explain": "Add feelings: joy, anger, fear."
         },
         {
           "q": "What is the main goal of today's lesson, \"Improve your acting\"?",
@@ -1545,15 +1545,15 @@
       "challenge": "Share your portfolio with a friend and ask which recording is best.",
       "quiz": [
         {
-          "q": "What is noise reduction?",
+          "q": "How many recordings should you pick for your portfolio?",
           "options": [
-            "A tool that removes background hiss from a recording",
-            "A type of microphone",
-            "A way to make your voice louder",
-            "A file format"
+            "All of them.",
+            "Only one.",
+            "Your best five.",
+            "None."
           ],
-          "answer": 0,
-          "explain": "Noise reduction removes background hiss. It makes your voice sound clean."
+          "answer": 2,
+          "explain": "Pick your best five."
         },
         {
           "q": "What is the main goal of today's lesson, \"Your portfolio\"?",
@@ -1600,15 +1600,15 @@
       "challenge": "Play your best recording for someone new and ask what they think.",
       "quiz": [
         {
-          "q": "What is an audition?",
+          "q": "How many of your best recordings should you pick?",
           "options": [
-            "A test recording you send to a client to win a job",
-            "A type of microphone",
-            "A paid job",
-            "A recording app"
+            "All of them.",
+            "Only one.",
+            "None.",
+            "Your best three."
           ],
-          "answer": 0,
-          "explain": "An audition is a short recording you send to show a client you can do the job."
+          "answer": 3,
+          "explain": "Pick your best three recordings."
         },
         {
           "q": "What is the main goal of today's lesson, \"Review your best work\"?",
@@ -1655,15 +1655,15 @@
       "challenge": "Set a date to review your plan in 30 days.",
       "quiz": [
         {
-          "q": "What is noise reduction?",
+          "q": "What should your plan include?",
           "options": [
-            "A tool that removes background hiss from a recording",
-            "A type of microphone",
-            "A way to make your voice louder",
-            "A file format"
+            "One project to do each week.",
+            "No projects.",
+            "Ten projects a day.",
+            "Only rest."
           ],
           "answer": 0,
-          "explain": "Noise reduction removes background hiss. It makes your voice sound clean."
+          "explain": "Pick one project to do each week."
         },
         {
           "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",

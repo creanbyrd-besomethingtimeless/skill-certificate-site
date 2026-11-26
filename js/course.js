@@ -110,14 +110,14 @@
     if (!support.progress && !support.capstone_checks) return getEnrolledSlugs();
     var slugs = {};
     getEnrolledSlugs().forEach(function (s) { slugs[s] = true; });
-    if (support.progress) {
-      var p = await client.from("progress").select("skill_slug").eq("user_id", user.id);
-      if (!p.error && p.data) p.data.forEach(function (row) { if (row.skill_slug) slugs[row.skill_slug] = true; });
-    }
-    if (support.capstone_checks) {
-      var c = await client.from("capstone_checks").select("skill_slug").eq("user_id", user.id);
-      if (!c.error && c.data) c.data.forEach(function (row) { if (row.skill_slug) slugs[row.skill_slug] = true; });
-    }
+    /* Both lists in one round trip instead of one after the other. */
+    var loads = [];
+    if (support.progress) loads.push(client.from("progress").select("skill_slug").eq("user_id", user.id));
+    if (support.capstone_checks) loads.push(client.from("capstone_checks").select("skill_slug").eq("user_id", user.id));
+    var enrolledResults = await Promise.all(loads);
+    enrolledResults.forEach(function (r) {
+      if (!r.error && r.data) r.data.forEach(function (row) { if (row.skill_slug) slugs[row.skill_slug] = true; });
+    });
     var list = Object.keys(slugs);
     try { localStorage.setItem(ENROLLED_KEY, JSON.stringify(list)); } catch (e) { /* ignore */ }
     return list;
@@ -140,15 +140,15 @@
         tables.forEach(function (t) { skillSlugSupport[t] = false; });
         return skillSlugSupport;
       }
-      for (var i = 0; i < tables.length; i++) {
-        var t = tables[i];
-        try {
-          var res = await client.from(t).select("skill_slug").limit(1);
-          skillSlugSupport[t] = !res.error;
-        } catch (e) {
-          skillSlugSupport[t] = false;
-        }
-      }
+      /* One round trip for all three tables instead of three in a row. */
+      var probeResults = await Promise.all(tables.map(function (t) {
+        return client.from(t).select("skill_slug").limit(1).then(function (res) {
+          return { table: t, ok: !res.error };
+        }).catch(function () {
+          return { table: t, ok: false };
+        });
+      }));
+      probeResults.forEach(function (r) { skillSlugSupport[r.table] = r.ok; });
       return skillSlugSupport;
     })();
     return skillSlugProbePromise;
@@ -611,13 +611,18 @@
       container.innerHTML = '<p class="muted">You have not started a skill yet. Pick one from the catalog and your progress will show up here.</p>';
       return;
     }
+    /* All skill summaries at once instead of one after another — the
+     * sequential loop is what made the enrolled list take so long. */
+    var summaries = await Promise.all(slugs.map(function (slug) {
+      return getSkillProgressSummary(user, slug);
+    }));
     var html = "";
     for (var i = 0; i < slugs.length; i++) {
       var slug = slugs[i];
       var meta = skillMetaFromCache(slug);
       var name = meta ? meta.name : slug.replace(/-/g, " ").replace(/\b\w/g, function (c) { return c.toUpperCase(); });
       var category = meta ? meta.category : "";
-      var summary = await getSkillProgressSummary(user, slug);
+      var summary = summaries[i];
       var action = summary.completed >= TOTAL_DAYS
         ? '<a class="btn secondary" href="certificate.html?skill=' + encodeURIComponent(slug) + '">View certificate</a>'
         : '<a class="btn" href="learn.html?skill=' + encodeURIComponent(slug) + "&day=" + summary.nextDay + '">Continue: Day ' + summary.nextDay + "</a>";
@@ -663,9 +668,12 @@
       return;
     }
     quizState = { answers: {}, submitted: false, passed: false };
-    var html = '<p class="small muted">Answer all ' + quiz.length + ' questions. You need '
-      + Math.ceil(PASS_MARK * quiz.length) + " out of " + quiz.length
-      + " correct (70 percent or more) to complete this day. You can retry as many times as you need.</p>";
+    var needed = Math.ceil(PASS_MARK * quiz.length);
+    var html = '<p class="small muted">Answer all ' + quiz.length + ' questions. You need 70 percent or more to complete this day'
+      + (needed === quiz.length
+        ? " — with " + quiz.length + " questions, that means all " + quiz.length + " correct"
+        : " (at least " + needed + " out of " + quiz.length + " correct)")
+      + ". You can retry as many times as you need.</p>";
     quiz.forEach(function (q, qi) {
       var text = typeof q === "string" ? q : (q.question || q.q || q.text || "");
       var options = (q && (q.options || q.choices)) || [];

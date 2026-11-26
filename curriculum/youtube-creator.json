@@ -27,15 +27,15 @@
       "challenge": "Ask three friends which of your five topics they would watch.",
       "quiz": [
         {
-          "q": "What is a hook in a YouTube video?",
+          "q": "How do you pick your channel topic?",
           "options": [
-            "The first few seconds that make people want to keep watching",
-            "The end of the video",
-            "The thumbnail picture",
-            "The video description"
+            "Pick the hardest topic.",
+            "Pick a topic you hate.",
+            "Pick the one you can talk about every week.",
+            "Pick five topics and do all of them."
           ],
-          "answer": 0,
-          "explain": "A hook is the start of your video. It tells viewers why they should stay."
+          "answer": 2,
+          "explain": "Pick the one you can talk about every week."
         },
         {
           "q": "What is the main goal of today's lesson, \"Pick your channel idea\"?",
@@ -82,15 +82,15 @@
       "challenge": "Write a channel description in under 50 words.",
       "quiz": [
         {
-          "q": "What is a thumbnail?",
+          "q": "What should you add to your new channel?",
           "options": [
-            "The small picture people see before they click a video",
-            "The video file itself",
-            "The channel banner",
-            "A comment on a video"
+            "Ten videos at once.",
+            "A paid plan.",
+            "Nothing.",
+            "A short description about your channel."
           ],
-          "answer": 0,
-          "explain": "A thumbnail is the picture for your video. A clear, bright thumbnail gets more clicks."
+          "answer": 3,
+          "explain": "Add a short description about your channel."
         },
         {
           "q": "What is the main goal of today's lesson, \"Set up your channel\"?",
@@ -137,15 +137,15 @@
       "challenge": "Make two banners and pick the better one.",
       "quiz": [
         {
-          "q": "What is a hook in a YouTube video?",
+          "q": "What should your banner show?",
           "options": [
-            "The first few seconds that make people want to keep watching",
-            "The end of the video",
-            "The thumbnail picture",
-            "The video description"
+            "Your channel name in big text.",
+            "A random photo.",
+            "Nothing.",
+            "A long paragraph."
           ],
           "answer": 0,
-          "explain": "A hook is the start of your video. It tells viewers why they should stay."
+          "explain": "Add your channel name in big text."
         },
         {
           "q": "What is the main goal of today's lesson, \"Design your channel art\"?",
@@ -192,15 +192,15 @@
       "challenge": "Ask a friend to pick the three ideas they would watch first.",
       "quiz": [
         {
-          "q": "What is a thumbnail?",
+          "q": "How should you order your first ten video ideas?",
           "options": [
-            "The small picture people see before they click a video",
-            "The video file itself",
-            "The channel banner",
-            "A comment on a video"
+            "From hard to easy.",
+            "From easy to hard.",
+            "At random.",
+            "By length only."
           ],
-          "answer": 0,
-          "explain": "A thumbnail is the picture for your video. A clear, bright thumbnail gets more clicks."
+          "answer": 1,
+          "explain": "Put them in order from easy to hard."
         },
         {
           "q": "What is the main goal of today's lesson, \"Plan your first 10 videos\"?",
@@ -247,15 +247,15 @@
       "challenge": "Search your topic and write down the top three videos.",
       "quiz": [
         {
-          "q": "What is a hook in a YouTube video?",
+          "q": "What should you write down from YouTube search?",
           "options": [
-            "The first few seconds that make people want to keep watching",
-            "The end of the video",
-            "The thumbnail picture",
-            "The video description"
+            "One random word.",
+            "Your password.",
+            "Five search phrases people use.",
+            "Nothing."
           ],
-          "answer": 0,
-          "explain": "A hook is the start of your video. It tells viewers why they should stay."
+          "answer": 2,
+          "explain": "Write down five search phrases."
         },
         {
           "q": "What is the main goal of today's lesson, \"Learn how YouTube search works\"?",
@@ -302,15 +302,15 @@
       "challenge": "Read your script out loud and cut any part that feels slow.",
       "quiz": [
         {
-          "q": "What is a thumbnail?",
+          "q": "What is a hook in a YouTube video?",
           "options": [
-            "The small picture people see before they click a video",
-            "The video file itself",
-            "The channel banner",
-            "A comment on a video"
+            "The end of the video.",
+            "The thumbnail picture.",
+            "The video description.",
+            "The first few seconds that make people want to keep watching."
           ],
-          "answer": 0,
-          "explain": "A thumbnail is the picture for your video. A clear, bright thumbnail gets more clicks."
+          "answer": 3,
+          "explain": "A hook is the start of your video. It tells viewers why they should stay."
         },
         {
           "q": "What is the main goal of today's lesson, \"Write your first script\"?",
@@ -357,15 +357,15 @@
       "challenge": "Film your first video twice and pick the better take.",
       "quiz": [
         {
-          "q": "What is a hook in a YouTube video?",
+          "q": "Where is a good place to film with light?",
           "options": [
-            "The first few seconds that make people want to keep watching",
-            "The end of the video",
-            "The thumbnail picture",
-            "The video description"
+            "Near a window.",
+            "In a dark room.",
+            "Outside at night.",
+            "In a cupboard."
           ],
           "answer": 0,
-          "explain": "A hook is the start of your video. It tells viewers why they should stay."
+          "explain": "Stand near a window for light."
         },
         {
           "q": "What is the main goal of today's lesson, \"Film your first video\"?",
@@ -423,15 +423,15 @@
       "challenge": "Edit the same video again and make it 30 seconds shorter.",
       "quiz": [
         {
-          "q": "What is a call to action?",
+          "q": "What should you cut out when you edit your first video?",
           "options": [
-            "Asking viewers to do something, like subscribe or comment",
-            "The end screen music",
-            "The video title",
-            "A type of camera"
+            "The good parts.",
+            "Mistakes and long pauses.",
+            "The whole video.",
+            "The music only."
           ],
-          "answer": 0,
-          "explain": "A call to action asks viewers to subscribe, like, or comment. Put it at the end of your video."
+          "answer": 1,
+          "explain": "Cut out the mistakes and long pauses."
         },
         {
           "q": "What is the main goal of today's lesson, \"Edit your first video\"?",
@@ -478,15 +478,15 @@
       "challenge": "Make two thumbnails and ask a friend which they would click.",
       "quiz": [
         {
-          "q": "What is watch time?",
+          "q": "What is a thumbnail?",
           "options": [
-            "How long people watch your videos in total",
-            "How long it takes to upload",
-            "How long your video is",
-            "How long you spend filming"
+            "The video file itself.",
+            "The channel banner.",
+            "The small picture people see before they click a video.",
+            "A comment on a video."
           ],
-          "answer": 0,
-          "explain": "Watch time is the total time people spend watching. More watch time helps your channel grow."
+          "answer": 2,
+          "explain": "A thumbnail is the picture for your video. A clear, bright thumbnail gets more clicks."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a thumbnail\"?",
@@ -533,15 +533,15 @@
       "challenge": "Write a description for your video in under 100 words.",
       "quiz": [
         {
-          "q": "What is a call to action?",
+          "q": "Where do you upload your first video?",
           "options": [
-            "Asking viewers to do something, like subscribe or comment",
-            "The end screen music",
-            "The video title",
-            "A type of camera"
+            "In a comment.",
+            "On your profile picture.",
+            "In an email.",
+            "YouTube Studio: click Create, then Upload."
           ],
-          "answer": 0,
-          "explain": "A call to action asks viewers to subscribe, like, or comment. Put it at the end of your video."
+          "answer": 3,
+          "explain": "Go to YouTube Studio and click Create, then Upload."
         },
         {
           "q": "What is the main goal of today's lesson, \"Upload your first video\"?",
@@ -588,15 +588,15 @@
       "challenge": "Look at five popular videos and write down what their titles do.",
       "quiz": [
         {
-          "q": "What is watch time?",
+          "q": "How long should a video title be?",
           "options": [
-            "How long people watch your videos in total",
-            "How long it takes to upload",
-            "How long your video is",
-            "How long you spend filming"
+            "Under 60 characters.",
+            "Over 200 characters.",
+            "One word only.",
+            "As long as possible."
           ],
           "answer": 0,
-          "explain": "Watch time is the total time people spend watching. More watch time helps your channel grow."
+          "explain": "Keep each title under 60 characters."
         },
         {
           "q": "What is the main goal of today's lesson, \"Write titles people click\"?",
@@ -643,15 +643,15 @@
       "challenge": "Watch a popular video and note where you almost left.",
       "quiz": [
         {
-          "q": "What is a call to action?",
+          "q": "What is watch time?",
           "options": [
-            "Asking viewers to do something, like subscribe or comment",
-            "The end screen music",
-            "The video title",
-            "A type of camera"
+            "How long it takes to upload.",
+            "How long people watch your videos in total.",
+            "How long your video is.",
+            "How long you spend filming."
           ],
-          "answer": 0,
-          "explain": "A call to action asks viewers to subscribe, like, or comment. Put it at the end of your video."
+          "answer": 1,
+          "explain": "Watch time is the total time people spend watching. More watch time helps your channel grow."
         },
         {
           "q": "What is the main goal of today's lesson, \"Grow your watch time\"?",
@@ -698,15 +698,15 @@
       "challenge": "Make a series about one skill you are learning.",
       "quiz": [
         {
-          "q": "What is watch time?",
+          "q": "What should you tell viewers at the end of part one?",
           "options": [
-            "How long people watch your videos in total",
-            "How long it takes to upload",
-            "How long your video is",
-            "How long you spend filming"
+            "That the series is over.",
+            "Nothing.",
+            "That part two is coming.",
+            "To watch another channel."
           ],
-          "answer": 0,
-          "explain": "Watch time is the total time people spend watching. More watch time helps your channel grow."
+          "answer": 2,
+          "explain": "Tell viewers at the end that part two is coming."
         },
         {
           "q": "What is the main goal of today's lesson, \"Plan a video series\"?",
@@ -753,15 +753,15 @@
       "challenge": "Ask a friend to follow your how-to video.",
       "quiz": [
         {
-          "q": "What is a call to action?",
+          "q": "What should you do before you film a how-to video?",
           "options": [
-            "Asking viewers to do something, like subscribe or comment",
-            "The end screen music",
-            "The video title",
-            "A type of camera"
+            "Film with no plan.",
+            "Skip the steps.",
+            "Film it backwards.",
+            "Write the steps on paper."
           ],
-          "answer": 0,
-          "explain": "A call to action asks viewers to subscribe, like, or comment. Put it at the end of your video."
+          "answer": 3,
+          "explain": "Write the steps on paper."
         },
         {
           "q": "What is the main goal of today's lesson, \"Film a how-to video\"?",
@@ -819,15 +819,15 @@
       "challenge": "Film B-roll before you film the talking part.",
       "quiz": [
         {
-          "q": "What is YouTube Studio?",
+          "q": "How many B-roll shots should you film?",
           "options": [
-            "The free tool where you upload videos and see your numbers",
-            "A video editing app",
-            "A camera for YouTube",
-            "A paid YouTube plan"
+            "Three, like close-ups.",
+            "None.",
+            "Thirty.",
+            "One only."
           ],
           "answer": 0,
-          "explain": "YouTube Studio is where you upload videos, read comments, and check your analytics."
+          "explain": "Film three B-roll shots, like close-ups."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a video with B-roll\"?",
@@ -874,15 +874,15 @@
       "challenge": "Make three thumbnails for one video and pick the best.",
       "quiz": [
         {
-          "q": "What is a niche?",
+          "q": "What should you do to improve a thumbnail?",
           "options": [
-            "The one topic your channel focuses on",
-            "A video editing style",
-            "A type of thumbnail",
-            "A YouTube award"
+            "Make the text smaller.",
+            "Copy one idea: bigger text, brighter colors, or a clearer face.",
+            "Use dull colors.",
+            "Remove your face."
           ],
-          "answer": 0,
-          "explain": "A niche is your channel topic. A clear niche helps the right people find you."
+          "answer": 1,
+          "explain": "Copy one idea: bigger text, brighter colors, or a clearer face."
         },
         {
           "q": "What is the main goal of today's lesson, \"Improve your thumbnails\"?",
@@ -929,15 +929,15 @@
       "challenge": "Ask your first ten subscribers what video they want next.",
       "quiz": [
         {
-          "q": "What is YouTube Studio?",
+          "q": "How can you get your first ten subscribers?",
           "options": [
-            "The free tool where you upload videos and see your numbers",
-            "A video editing app",
-            "A camera for YouTube",
-            "A paid YouTube plan"
+            "Hide your video.",
+            "Never share it.",
+            "Share your video with friends and family.",
+            "Pay for views."
           ],
-          "answer": 0,
-          "explain": "YouTube Studio is where you upload videos, read comments, and check your analytics."
+          "answer": 2,
+          "explain": "Share your video with friends and family."
         },
         {
           "q": "What is the main goal of today's lesson, \"Your first 10 subscribers\"?",
@@ -984,15 +984,15 @@
       "challenge": "Write down three things your analytics tell you.",
       "quiz": [
         {
-          "q": "What is a niche?",
+          "q": "Where do you find your numbers?",
           "options": [
-            "The one topic your channel focuses on",
-            "A video editing style",
-            "A type of thumbnail",
-            "A YouTube award"
+            "In the comments.",
+            "On your banner.",
+            "In your email.",
+            "YouTube Studio, under Analytics."
           ],
-          "answer": 0,
-          "explain": "A niche is your channel topic. A clear niche helps the right people find you."
+          "answer": 3,
+          "explain": "Open YouTube Studio and click Analytics."
         },
         {
           "q": "What is the main goal of today's lesson, \"Read your analytics\"?",
@@ -1039,15 +1039,15 @@
       "challenge": "Ask your viewers what video they want next.",
       "quiz": [
         {
-          "q": "What is YouTube Studio?",
+          "q": "Where do you find ideas for a feedback video?",
           "options": [
-            "The free tool where you upload videos and see your numbers",
-            "A video editing app",
-            "A camera for YouTube",
-            "A paid YouTube plan"
+            "In your comments, from a viewer question.",
+            "In another channel's videos.",
+            "In your dreams only.",
+            "Nowhere."
           ],
           "answer": 0,
-          "explain": "YouTube Studio is where you upload videos, read comments, and check your analytics."
+          "explain": "Read your comments and find a question."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a video from feedback\"?",
@@ -1094,15 +1094,15 @@
       "challenge": "Film a video where you interview someone.",
       "quiz": [
         {
-          "q": "What is a niche?",
+          "q": "What is the first step to film a collaboration?",
           "options": [
-            "The one topic your channel focuses on",
-            "A video editing style",
-            "A type of thumbnail",
-            "A YouTube award"
+            "Film alone.",
+            "Ask a friend to join your video.",
+            "Upload without planning.",
+            "Skip the edit."
           ],
-          "answer": 0,
-          "explain": "A niche is your channel topic. A clear niche helps the right people find you."
+          "answer": 1,
+          "explain": "Ask a friend to join your video."
         },
         {
           "q": "What is the main goal of today's lesson, \"Film a collaboration\"?",
@@ -1149,15 +1149,15 @@
       "challenge": "Make three Shorts from one long video.",
       "quiz": [
         {
-          "q": "What is YouTube Studio?",
+          "q": "What is a YouTube Short?",
           "options": [
-            "The free tool where you upload videos and see your numbers",
-            "A video editing app",
-            "A camera for YouTube",
-            "A paid YouTube plan"
+            "A video with no sound.",
+            "A video that is only a thumbnail.",
+            "A vertical video under 60 seconds.",
+            "A paid video."
           ],
-          "answer": 0,
-          "explain": "YouTube Studio is where you upload videos, read comments, and check your analytics."
+          "answer": 2,
+          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a short video\"?",
@@ -1215,15 +1215,15 @@
       "challenge": "Post your videos on a set day each week.",
       "quiz": [
         {
-          "q": "Why should you reply to comments?",
+          "q": "How many videos should you plan for next month?",
           "options": [
-            "Because it builds a community and makes viewers come back",
-            "Because it makes the video longer",
-            "Because it changes the thumbnail",
-            "Because it costs nothing"
+            "None.",
+            "Thirty.",
+            "One only.",
+            "Four, one each week."
           ],
-          "answer": 0,
-          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+          "answer": 3,
+          "explain": "Plan four videos for the next month. Make one video each week."
         },
         {
           "q": "What is the main goal of today's lesson, \"Grow to 100 subscribers\"?",
@@ -1270,15 +1270,15 @@
       "challenge": "Record the same video in a noisy room and a quiet room.",
       "quiz": [
         {
-          "q": "What is a YouTube Short?",
+          "q": "What should you do to make your voice sound clear?",
           "options": [
-            "A vertical video under 60 seconds",
-            "A video with no sound",
-            "A video that is only a thumbnail",
-            "A paid video"
+            "Record in a quiet room, close to the phone.",
+            "Record in a noisy room.",
+            "Record far from the phone.",
+            "Shout."
           ],
           "answer": 0,
-          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
+          "explain": "Record yourself in a quiet room. Speak close to the phone."
         },
         {
           "q": "What is the main goal of today's lesson, \"Improve your sound\"?",
@@ -1325,15 +1325,15 @@
       "challenge": "Film the same video with light from the front and from behind.",
       "quiz": [
         {
-          "q": "Why should you reply to comments?",
+          "q": "Where is the best place to film for bright light?",
           "options": [
-            "Because it builds a community and makes viewers come back",
-            "Because it makes the video longer",
-            "Because it changes the thumbnail",
-            "Because it costs nothing"
+            "In a dark room.",
+            "Near a window in the daytime.",
+            "Under yellow room lights.",
+            "At night."
           ],
-          "answer": 0,
-          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+          "answer": 1,
+          "explain": "Film near a window in the daytime."
         },
         {
           "q": "What is the main goal of today's lesson, \"Improve your lighting\"?",
@@ -1380,15 +1380,15 @@
       "challenge": "Show your trailer to a friend who has never seen your channel.",
       "quiz": [
         {
-          "q": "What is a YouTube Short?",
+          "q": "What should your channel trailer tell new viewers?",
           "options": [
-            "A vertical video under 60 seconds",
-            "A video with no sound",
-            "A video that is only a thumbnail",
-            "A paid video"
+            "A long story.",
+            "Nothing.",
+            "What your channel is.",
+            "Another channel's name."
           ],
-          "answer": 0,
-          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
+          "answer": 2,
+          "explain": "Make a short video that tells new viewers what your channel is."
         },
         {
           "q": "What is the main goal of today's lesson, \"Make a channel trailer\"?",
@@ -1435,15 +1435,15 @@
       "challenge": "Write a filming schedule for the next four weeks.",
       "quiz": [
         {
-          "q": "Why should you reply to comments?",
+          "q": "How often should you film next month?",
           "options": [
-            "Because it builds a community and makes viewers come back",
-            "Because it makes the video longer",
-            "Because it changes the thumbnail",
-            "Because it costs nothing"
+            "Every day.",
+            "Never.",
+            "Once a month only.",
+            "One day each week."
           ],
-          "answer": 0,
-          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+          "answer": 3,
+          "explain": "Pick one day each week to film."
         },
         {
           "q": "What is the main goal of today's lesson, \"Plan your next month\"?",
@@ -1490,15 +1490,15 @@
       "challenge": "Ask a friend to watch your channel and give honest feedback.",
       "quiz": [
         {
-          "q": "What is a YouTube Short?",
+          "q": "What should you find in your analytics when you review?",
           "options": [
-            "A vertical video under 60 seconds",
-            "A video with no sound",
-            "A video that is only a thumbnail",
-            "A paid video"
+            "Your best video and your worst video.",
+            "Only the best video.",
+            "Only the number of likes.",
+            "Nothing."
           ],
           "answer": 0,
-          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
+          "explain": "Open your analytics. Find your best video and your worst video."
         },
         {
           "q": "What is the main goal of today's lesson, \"Review your channel\"?",
@@ -1545,15 +1545,15 @@
       "challenge": "Write a plan to reach 200 subscribers.",
       "quiz": [
         {
-          "q": "Why should you reply to comments?",
+          "q": "What should you do when you reach 100 subscribers?",
           "options": [
-            "Because it builds a community and makes viewers come back",
-            "Because it makes the video longer",
-            "Because it changes the thumbnail",
-            "Because it costs nothing"
+            "Say nothing.",
+            "Thank your subscribers in a video or post.",
+            "Delete your channel.",
+            "Stop making videos."
           ],
-          "answer": 0,
-          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+          "answer": 1,
+          "explain": "Thank your subscribers in a video or post."
         },
         {
           "q": "What is the main goal of today's lesson, \"Your first 100 subscribers\"?",
@@ -1600,15 +1600,15 @@
       "challenge": "Show your best video to someone new and ask what they think.",
       "quiz": [
         {
-          "q": "What is a YouTube Short?",
+          "q": "How many of your best videos should you pick?",
           "options": [
-            "A vertical video under 60 seconds",
-            "A video with no sound",
-            "A video that is only a thumbnail",
-            "A paid video"
+            "All of them.",
+            "Only one.",
+            "Your best three.",
+            "None."
           ],
-          "answer": 0,
-          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
+          "answer": 2,
+          "explain": "Pick your best three."
         },
         {
           "q": "What is the main goal of today's lesson, \"Review your best work\"?",
@@ -1655,15 +1655,15 @@
       "challenge": "Set a date to review your plan in 30 days.",
       "quiz": [
         {
-          "q": "Why should you reply to comments?",
+          "q": "What should your plan include?",
           "options": [
-            "Because it builds a community and makes viewers come back",
-            "Because it makes the video longer",
-            "Because it changes the thumbnail",
-            "Because it costs nothing"
+            "No projects.",
+            "Ten projects a day.",
+            "Only rest.",
+            "One project to do each week."
           ],
-          "answer": 0,
-          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+          "answer": 3,
+          "explain": "Pick one project to do each week."
         },
         {
           "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
