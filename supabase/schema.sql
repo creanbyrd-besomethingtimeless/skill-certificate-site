@@ -189,3 +189,15 @@ drop policy if exists "Users can insert their own certificates" on public.certif
 create policy "Users can insert their own certificates"
   on public.certificates for insert
   with check (auth.uid() = user_id);
+
+-- ---------------------------------------------------------------------------
+-- Table privileges. RLS policies alone do not grant access: without these,
+-- PostgREST returns 42501 "permission denied" for anon and authenticated,
+-- the site falls back to browser-only progress, and public verification
+-- always fails. RLS still enforces the row rules above.
+-- ---------------------------------------------------------------------------
+grant usage on schema public to anon, authenticated;
+grant select, insert, update, delete on public.profiles to anon, authenticated;
+grant select, insert, update, delete on public.progress to anon, authenticated;
+grant select, insert, update, delete on public.capstone_checks to anon, authenticated;
+grant select, insert, update, delete on public.certificates to anon, authenticated;
