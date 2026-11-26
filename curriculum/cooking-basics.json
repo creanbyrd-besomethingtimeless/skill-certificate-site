@@ -13,9 +13,9 @@
       "title": "Welcome to Your Kitchen",
       "goal": "Set up your kitchen, learn the rules of safety, and cook your first simple meal.",
       "video": {
-        "youtube_id": "HTOLYckww5w",
-        "title": "Kelvin's Easy Kitchen Basics | Learn Cooking Step by Step Before Culinary School",
-        "channel": "Fast Finger Kelvin"
+        "youtube_id": "ZJy1ajvMU1k",
+        "title": "How To Master 5 Basic Cooking Skills",
+        "channel": "Gordon Ramsay"
       },
       "steps": [
         "Clear and wipe down your work surface and wash your hands for 20 seconds.",
@@ -535,8 +535,8 @@
       "steps": [
         "Pat the chicken dry and season inside and out with salt, pepper and garlic.",
         "Cut vegetables into similar sizes and toss in oil and salt.",
-        "Roast at 200°C, chicken on top of the vegetables so the juices drip down.",
-        "Cook until the juices run clear and the thickest part reaches 75°C.",
+        "Roast at 200\u00b0C, chicken on top of the vegetables so the juices drip down.",
+        "Cook until the juices run clear and the thickest part reaches 75\u00b0C.",
         "Rest the chicken 10 minutes before carving so the juices stay in."
       ],
       "task": "Roast a whole chicken with potatoes and carrots.",
@@ -556,13 +556,13 @@
         {
           "q": "What temperature must chicken reach inside?",
           "options": [
-            "60°C",
-            "75°C",
-            "90°C",
-            "100°C"
+            "60\u00b0C",
+            "75\u00b0C",
+            "90\u00b0C",
+            "100\u00b0C"
           ],
           "answer": 1,
-          "explain": "75°C kills harmful bacteria in poultry."
+          "explain": "75\u00b0C kills harmful bacteria in poultry."
         },
         {
           "q": "Why put vegetables under the chicken?",
@@ -825,7 +825,7 @@
       },
       "steps": [
         "Scrub potatoes, prick with a fork, rub with oil and salt.",
-        "Bake at 200°C for about an hour until the skin is crisp and the inside is fluffy.",
+        "Bake at 200\u00b0C for about an hour until the skin is crisp and the inside is fluffy.",
         "Make a quick side salad: wash, dry and chop leaves, add a simple oil and lemon dressing.",
         "Steam green beans for 3 minutes, then toss with garlic butter.",
         "Serve sides that contrast: one hot, one cold, one crunchy."
@@ -1231,7 +1231,7 @@
         "Label containers with the dish name and the date.",
         "Freeze in flat bags or small portions so they thaw fast.",
         "Thaw in the fridge overnight, never on the counter.",
-        "Reheat until steaming hot all the way through, 75°C."
+        "Reheat until steaming hot all the way through, 75\u00b0C."
       ],
       "task": "Cook extra stew, cool it, label it and freeze two portions.",
       "challenge": "Thaw one portion in the fridge and reheat it properly the next day.",
@@ -1261,13 +1261,13 @@
         {
           "q": "What temperature must reheated food reach?",
           "options": [
-            "50°C",
-            "60°C",
-            "75°C",
-            "100°C"
+            "50\u00b0C",
+            "60\u00b0C",
+            "75\u00b0C",
+            "100\u00b0C"
           ],
           "answer": 2,
-          "explain": "Reheating to 75°C all the way through kills bacteria."
+          "explain": "Reheating to 75\u00b0C all the way through kills bacteria."
         }
       ],
       "project": null
@@ -1342,7 +1342,7 @@
         "Mix flour, yeast, salt and warm water into a soft dough.",
         "Knead for 10 minutes until smooth and springy.",
         "Cover and leave to rise for 1 hour until doubled in size.",
-        "Shape into a loaf, rest 30 minutes, then bake at 200°C for 25 to 30 minutes.",
+        "Shape into a loaf, rest 30 minutes, then bake at 200\u00b0C for 25 to 30 minutes.",
         "Cool on a rack before slicing so the inside sets."
       ],
       "task": "Bake one loaf of bread.",
