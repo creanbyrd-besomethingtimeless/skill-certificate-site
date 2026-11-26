@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard - TYE Skill Certificate</title>
+<meta name="description" content="Your learning dashboard: progress, streak, next lesson and certificate status.">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script src="js/course.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="dashboard.html" class="active">Dashboard</a>
+      <a href="learn.html">Learn</a>
+      <a href="certificate.html">Certificate</a>
+      <a href="verify.html">Verify</a>
+      <button type="button" class="btn ghost small" data-sign-out>Sign out</button>
+    </nav>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container">
+    <div class="notice hidden" data-setup-notice></div>
+    <div id="dashboard-loading"><p class="muted">Loading your progress...</p></div>
+    <div id="dashboard-content" class="hidden">
+      <h2 style="color:var(--navy); margin-bottom:4px">Welcome back, <span id="user-name">learner</span></h2>
+      <p class="muted">Full-Stack Web Development - 30 days</p>
+
+      <div class="stat-grid">
+        <div class="stat"><strong id="stat-progress">0%</strong><span>Complete</span></div>
+        <div class="stat"><strong id="stat-completed">0 / 30</strong><span>Days done</span></div>
+        <div class="stat"><strong id="stat-streak">0 days</strong><span>Current streak</span></div>
+        <div class="stat"><strong id="stat-next-day">Day 1</strong><span>Up next</span></div>
+      </div>
+
+      <div class="card" style="margin-bottom:20px">
+        <div class="progress-label"><span id="progress-label-text">0 of 30 days complete</span><span>Goal: 30 of 30</span></div>
+        <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+        <p class="small muted" id="local-progress-note" style="margin-top:10px"></p>
+      </div>
+
+      <div class="grid grid-2" style="align-items:start">
+        <div class="card">
+          <h3>Continue learning</h3>
+          <p id="next-day-title" style="font-weight:700; color:var(--navy)"></p>
+          <p id="next-day-goal" class="muted"></p>
+          <p><a class="btn" id="continue-link" href="learn.html">Continue learning</a></p>
+          <p id="all-days-done" class="success-box hidden">All 30 days are complete. Nice work. Check your certificate status below.</p>
+        </div>
+        <div class="card">
+          <h3>Your certificate</h3>
+          <div id="dashboard-cert-status"><p class="muted">Loading certificate status...</p></div>
+        </div>
+      </div>
+
+      <h3 style="color:var(--navy); margin:32px 0 12px">Your 30 days</h3>
+      <div id="dashboard-outline-error" class="error hidden"></div>
+      <ul class="day-list" id="dashboard-day-list"></ul>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>TYE Skill Certificate - Learn a skill in 30 days, get a certificate, show it to employers.</p>
+    <p><a href="privacy.html">Privacy policy</a></p>
+  </div>
+</footer>
+
+<script>
+document.addEventListener("DOMContentLoaded", async function () {
+  var session = await window.SkillApp.requireAuth();
+  if (!session) return;
+  var user = session.user;
+  var name = (user.user_metadata && (user.user_metadata.full_name || user.user_metadata.name)) || user.email || "learner";
+  document.getElementById("user-name").textContent = name;
+  try {
+    await window.SkillCourse.loadCurriculum();
+  } catch (err) {
+    var e = document.getElementById("dashboard-outline-error");
+    if (e) { e.textContent = err.message || "Could not load curriculum.json."; e.classList.remove("hidden"); }
+  }
+  await window.SkillCourse.loadProgress(user);
+  if (!window.SkillApp.isConfigured()) {
+    var note = document.getElementById("local-progress-note");
+    if (note) note.textContent = "Supabase is not set up yet, so progress is saved in this browser only. It will not follow you to another device.";
+  }
+  document.getElementById("dashboard-loading").classList.add("hidden");
+  document.getElementById("dashboard-content").classList.remove("hidden");
+  window.SkillCourse.renderDashboard();
+});
+</script>
+</body>
+</html>

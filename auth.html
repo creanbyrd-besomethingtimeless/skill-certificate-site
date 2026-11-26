@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sign in or create an account - TYE Skill Certificate</title>
+<meta name="description" content="Sign in or create a free TYE Skill Certificate account with Google or email and password.">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="verify.html">Verify a certificate</a>
+      <a href="auth.html" class="active">Sign in</a>
+    </nav>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container narrow">
+    <h2 style="color:var(--navy)">Sign in or create your account</h2>
+    <p class="muted">Your progress saves to your account. Use Google or your email and password.</p>
+    <div class="notice hidden" data-setup-notice></div>
+
+    <div class="form-card">
+      <button type="button" class="btn google" id="google-btn">Continue with Google</button>
+      <div class="divider">or</div>
+
+      <div class="tabs" role="tablist">
+        <button type="button" id="tab-signin" class="active">Sign in</button>
+        <button type="button" id="tab-signup">Create account</button>
+      </div>
+
+      <div id="auth-error" class="error hidden"></div>
+      <div id="auth-success" class="success-box hidden"></div>
+
+      <form id="signin-form" novalidate>
+        <label for="signin-email">Email</label>
+        <input type="email" id="signin-email" autocomplete="email" required>
+        <label for="signin-password">Password</label>
+        <input type="password" id="signin-password" autocomplete="current-password" required>
+        <p style="margin-top:18px"><button type="submit" class="btn btn-block" id="signin-submit">Sign in</button></p>
+        <p class="small muted">Forgot your password? Password reset is not set up on this page yet. Contact support if you are locked out.</p>
+      </form>
+
+      <form id="signup-form" class="hidden" novalidate>
+        <label for="signup-name">Full name</label>
+        <input type="text" id="signup-name" autocomplete="name" required>
+        <p class="help">This is the name printed on your certificate. Use your real name.</p>
+        <label for="signup-email">Email</label>
+        <input type="email" id="signup-email" autocomplete="email" required>
+        <label for="signup-password">Password</label>
+        <input type="password" id="signup-password" autocomplete="new-password" required minlength="6">
+        <p class="help">At least 6 characters.</p>
+        <p style="margin-top:18px"><button type="submit" class="btn btn-block" id="signup-submit">Create account</button></p>
+        <p class="small muted">By creating an account you agree to use the site fairly and to do your own coursework.</p>
+      </form>
+    </div>
+    <p class="small muted" style="margin-top:16px"><a href="index.html">Back to home</a></p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>TYE Skill Certificate - Learn a skill in 30 days, get a certificate, show it to employers.</p>
+    <p><a href="privacy.html">Privacy policy</a></p>
+  </div>
+</footer>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var tabIn = document.getElementById("tab-signin");
+  var tabUp = document.getElementById("tab-signup");
+  var formIn = document.getElementById("signin-form");
+  var formUp = document.getElementById("signup-form");
+  var errBox = document.getElementById("auth-error");
+  var okBox = document.getElementById("auth-success");
+
+  function showTab(which) {
+    var signup = which === "signup";
+    tabIn.classList.toggle("active", !signup);
+    tabUp.classList.toggle("active", signup);
+    formIn.classList.toggle("hidden", signup);
+    formUp.classList.toggle("hidden", !signup);
+    window.SkillApp.hideError(errBox);
+    okBox.classList.add("hidden");
+  }
+  tabIn.addEventListener("click", function () { showTab("signin"); });
+  tabUp.addEventListener("click", function () { showTab("signup"); });
+
+  function needSetup() {
+    if (!window.SkillApp.isConfigured()) {
+      window.SkillApp.showError(errBox, { message: window.SkillApp.SETUP_MESSAGE });
+      return true;
+    }
+    return false;
+  }
+
+  document.getElementById("google-btn").addEventListener("click", async function () {
+    if (needSetup()) return;
+    window.SkillApp.hideError(errBox);
+    var client = window.SkillApp.getClient();
+    var res = await client.auth.signInWithOAuth({
+      provider: "google",
+      options: { redirectTo: window.location.origin + "/dashboard.html" }
+    });
+    if (res.error) window.SkillApp.showError(errBox, res.error);
+  });
+
+  formIn.addEventListener("submit", async function (e) {
+    e.preventDefault();
+    if (needSetup()) return;
+    window.SkillApp.hideError(errBox);
+    okBox.classList.add("hidden");
+    var email = document.getElementById("signin-email").value.trim();
+    var password = document.getElementById("signin-password").value;
+    if (!email || !password) {
+      window.SkillApp.showError(errBox, { message: "Enter your email and password." });
+      return;
+    }
+    var btn = document.getElementById("signin-submit");
+    btn.disabled = true;
+    var client = window.SkillApp.getClient();
+    var res = await client.auth.signInWithPassword({ email: email, password: password });
+    btn.disabled = false;
+    if (res.error) { window.SkillApp.showError(errBox, res.error); return; }
+    if (res.data && res.data.user) await window.SkillApp.ensureProfile(res.data.user);
+    window.location.href = "dashboard.html";
+  });
+
+  formUp.addEventListener("submit", async function (e) {
+    e.preventDefault();
+    if (needSetup()) return;
+    window.SkillApp.hideError(errBox);
+    okBox.classList.add("hidden");
+    var name = document.getElementById("signup-name").value.trim();
+    var email = document.getElementById("signup-email").value.trim();
+    var password = document.getElementById("signup-password").value;
+    if (!name || !email || !password) {
+      window.SkillApp.showError(errBox, { message: "Enter your full name, email and password." });
+      return;
+    }
+    if (password.length < 6) {
+      window.SkillApp.showError(errBox, { message: "Password must be at least 6 characters." });
+      return;
+    }
+    var btn = document.getElementById("signup-submit");
+    btn.disabled = true;
+    var client = window.SkillApp.getClient();
+    var res = await client.auth.signUp({
+      email: email,
+      password: password,
+      options: { data: { full_name: name } }
+    });
+    btn.disabled = false;
+    if (res.error) { window.SkillApp.showError(errBox, res.error); return; }
+    if (res.data && res.data.user) await window.SkillApp.ensureProfile(res.data.user);
+    if (res.data && res.data.session) {
+      window.location.href = "dashboard.html";
+    } else {
+      window.SkillApp.showMessage(okBox, "Account created. Check your email to confirm your account, then sign in. If email confirmation is turned off in Supabase, sign in now.");
+      showTab("signin");
+    }
+  });
+
+  /* If already signed in, go straight to the dashboard. */
+  window.SkillApp.getSession().then(function (session) {
+    if (session) window.location.href = "dashboard.html";
+  });
+});
+</script>
+</body>
+</html>

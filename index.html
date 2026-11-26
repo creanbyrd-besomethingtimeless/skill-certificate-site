@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TYE Skill Certificate - Learn Full-Stack Web Development in 30 Days</title>
+<meta name="description" content="Learn full-stack web development in 30 days, finish the capstone project, and earn a certificate you can show to employers.">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script src="js/course.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <nav class="main-nav">
+      <a href="index.html" class="active">Home</a>
+      <a href="#how-it-works">How it works</a>
+      <a href="#outline">Course outline</a>
+      <a href="verify.html">Verify a certificate</a>
+      <span data-nav-signed-in class="hidden"><a href="dashboard.html">Dashboard</a></span>
+      <span data-nav-signed-in class="hidden"><a href="learn.html">Learn</a></span>
+      <span data-nav-signed-in class="hidden"><a href="certificate.html">Certificate</a></span>
+      <span data-nav-signed-out><a href="auth.html">Sign in</a></span>
+      <span data-nav-signed-out><a class="btn small" href="auth.html" style="color:#fff">Start free</a></span>
+      <span data-nav-signed-in class="hidden"><button type="button" class="btn ghost small" data-sign-out>Sign out</button></span>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="container">
+      <div class="notice hidden" data-setup-notice></div>
+      <h1>Learn full-stack web development in <span class="accent">30 days</span>. Earn a certificate you can show to employers.</h1>
+      <p class="lead">One focused lesson a day. A real video, a practical task, a short quiz, and a daily challenge. Finish all 30 days and the capstone project, and your certificate is yours.</p>
+      <div class="hero-actions">
+        <a class="btn" href="auth.html">Start learning free</a>
+        <a class="btn ghost" href="#outline">See the 30 day plan</a>
+      </div>
+      <div class="hero-meta">
+        <div><strong>30</strong> days, one lesson a day</div>
+        <div><strong>3</strong> weekly projects</div>
+        <div><strong>1</strong> capstone project</div>
+        <div><strong>1</strong> verifiable certificate</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="how-it-works">
+    <div class="container">
+      <h2>How it works</h2>
+      <p class="sub">No long lectures. No guessing what to do next. Every day has the same clear shape.</p>
+      <div class="grid grid-3">
+        <div class="card">
+          <span class="step-num">1</span>
+          <h3>Learn one thing a day</h3>
+          <p>Watch the day's video and work through the practical steps. Each lesson builds on the one before it, from your first web page to a deployed full-stack app.</p>
+        </div>
+        <div class="card">
+          <span class="step-num">2</span>
+          <h3>Prove it with a quiz and a task</h3>
+          <p>Every day ends with a hands-on task and a 3 question quiz. Pass the quiz at 70 percent or more to complete the day. You can retry as many times as you need.</p>
+        </div>
+        <div class="card">
+          <span class="step-num">3</span>
+          <h3>Finish the capstone, get certified</h3>
+          <p>Build your own full-stack app in the final week. When all 30 days are complete and every capstone check is ticked, your certificate unlocks with a verification code employers can check.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section alt" id="outline">
+    <div class="container">
+      <h2>30 day course outline</h2>
+      <p class="sub">Full-Stack Web Development. Weeks 1 to 4 take you from HTML basics to a deployed app with a database and login.</p>
+      <div id="outline-error" class="error hidden"></div>
+      <div id="course-outline"><p class="muted">Loading the course outline...</p></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2>Your certificate</h2>
+      <p class="sub">A printable certificate with your name, the skill, the issue date, and a verification code in the format SC-YYYY-XXXXXX. Anyone can check it on the verification page.</p>
+      <div class="cert-preview">
+        <p class="cert-kicker">Certificate of Completion</p>
+        <h3>Full-Stack Web Development</h3>
+        <p>This certificate is awarded to</p>
+        <p class="cert-name">Your Name Here</p>
+        <p>for completing the 30 day Full-Stack Web Development course, including the capstone project.</p>
+        <p class="cert-code">Example code: SC-2026-ABC123</p>
+      </div>
+      <p style="text-align:center; margin-top:24px"><a class="btn" href="auth.html">Start day 1</a></p>
+    </div>
+  </section>
+
+  <section class="section alt">
+    <div class="container narrow" style="text-align:center">
+      <h2>Ready to start?</h2>
+      <p class="sub" style="margin-left:auto; margin-right:auto">Create a free account with your email or Google. Your progress saves to your account, so you can pick up where you left off on any device.</p>
+      <a class="btn" href="auth.html">Create your free account</a>
+      <p class="small muted" style="margin-top:16px">Already have an account? <a href="auth.html">Sign in</a> and continue learning.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>TYE Skill Certificate - Learn a skill in 30 days, get a certificate, show it to employers.</p>
+    <p><a href="verify.html">Verify a certificate</a> &middot; <a href="auth.html">Sign in</a> &middot; <a href="privacy.html">Privacy policy</a> &middot; <span data-year>2026</span></p>
+  </div>
+</footer>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var box = document.getElementById("course-outline");
+  var errBox = document.getElementById("outline-error");
+  window.SkillCourse.loadCurriculum().then(function () {
+    document.querySelectorAll("[data-course-title]").forEach(function (n) { n.textContent = window.SkillCourse.courseTitle(); });
+    window.SkillCourse.renderOutline(box);
+  }).catch(function (err) {
+    if (box) box.innerHTML = '<p class="muted">The course outline could not be loaded yet.</p>';
+    if (errBox) { errBox.textContent = err.message || "Could not load curriculum.json."; errBox.classList.remove("hidden"); }
+  });
+});
+</script>
+</body>
+</html>

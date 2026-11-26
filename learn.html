@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Learn - Full-Stack Web Development - TYE Skill Certificate</title>
+<meta name="description" content="Your daily lesson: video, goal, practical steps, hands-on task, quiz and daily challenge.">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script src="js/course.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="dashboard.html">Dashboard</a>
+      <a href="learn.html" class="active">Learn</a>
+      <a href="certificate.html">Certificate</a>
+      <button type="button" class="btn ghost small" data-sign-out>Sign out</button>
+    </nav>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container">
+    <div class="notice hidden" data-setup-notice></div>
+    <div id="learn-loading"><p class="muted">Loading your lesson...</p></div>
+    <div id="learn-content" class="hidden">
+      <div class="card" style="margin-bottom:20px">
+        <div class="progress-label"><span id="learn-progress-text">0 of 30 days complete (0%)</span><span><a href="dashboard.html">Dashboard</a></span></div>
+        <div class="progress-track"><div class="progress-fill" id="learn-progress-fill"></div></div>
+      </div>
+
+      <div class="learn-layout">
+        <aside class="day-nav">
+          <h3>30 days</h3>
+          <ul class="day-nav-list" id="day-nav-list"></ul>
+        </aside>
+
+        <div>
+          <p class="small muted" id="day-kicker"></p>
+          <h2 id="day-title" style="color:var(--navy); margin-top:0"></h2>
+          <div id="day-complete-note" class="success-box hidden">This day is complete. You passed the quiz. You can still review the lesson and retake the quiz.</div>
+
+          <div class="card" style="margin-top:16px">
+            <h3>Today's goal</h3>
+            <p id="day-goal"></p>
+            <div id="video-box"></div>
+          </div>
+
+          <div class="card" style="margin-top:16px">
+            <h3>Practical steps</h3>
+            <div id="steps-box"></div>
+          </div>
+
+          <div class="card" style="margin-top:16px">
+            <h3>Hands-on task</h3>
+            <p id="task-box"></p>
+          </div>
+
+          <div class="card hidden" id="weekly-project-card" style="margin-top:16px"></div>
+
+          <div class="card" style="margin-top:16px">
+            <h3>Daily challenge</h3>
+            <p id="challenge-box"></p>
+          </div>
+
+          <div class="card" style="margin-top:16px">
+            <h3>Quiz: pass at 70 percent to complete this day</h3>
+            <div id="quiz-box"></div>
+          </div>
+
+          <div class="card hidden" id="capstone-panel" style="margin-top:16px"></div>
+
+          <div style="display:flex; gap:12px; margin-top:20px; flex-wrap:wrap">
+            <button type="button" class="btn secondary" id="prev-day-btn">Previous day</button>
+            <button type="button" class="btn secondary" id="next-day-btn">Next day</button>
+            <a class="btn" href="certificate.html">Certificate status</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>TYE Skill Certificate - Learn a skill in 30 days, get a certificate, show it to employers.</p>
+    <p><a href="privacy.html">Privacy policy</a></p>
+  </div>
+</footer>
+
+<script>
+document.addEventListener("DOMContentLoaded", async function () {
+  var session = await window.SkillApp.requireAuth();
+  if (!session) return;
+  try {
+    await window.SkillCourse.loadCurriculum();
+  } catch (err) {
+    document.getElementById("learn-loading").innerHTML = '<p class="error">' + err.message + "</p>";
+    return;
+  }
+  await window.SkillCourse.loadProgress(session.user);
+  document.getElementById("learn-loading").classList.add("hidden");
+  document.getElementById("learn-content").classList.remove("hidden");
+  window.SkillCourse.showDay(window.SkillCourse.dayFromUrl());
+});
+</script>
+</body>
+</html>

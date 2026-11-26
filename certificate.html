@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your certificate - TYE Skill Certificate</title>
+<meta name="description" content="View, print and share your Full-Stack Web Development certificate.">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script src="js/course.js"></script>
+<script src="js/certificate.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="dashboard.html">Dashboard</a>
+      <a href="learn.html">Learn</a>
+      <a href="certificate.html" class="active">Certificate</a>
+      <button type="button" class="btn ghost small" data-sign-out>Sign out</button>
+    </nav>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container">
+    <div class="notice hidden" data-setup-notice></div>
+    <h2 style="color:var(--navy)">Your certificate</h2>
+    <p class="muted">Full-Stack Web Development. It unlocks when all 30 days are complete and every capstone check is ticked.</p>
+
+    <div id="cert-status" class="success-box hidden"></div>
+    <div id="cert-error" class="error hidden"></div>
+    <div id="cert-unsaved-note" class="notice hidden"></div>
+
+    <div id="cert-locked" class="card hidden">
+      <h3>Not unlocked yet</h3>
+      <p id="cert-locked-detail">Finish all 30 days and tick every capstone check to unlock your certificate.</p>
+      <p><a class="btn" href="learn.html">Continue learning</a></p>
+    </div>
+
+    <div id="cert-ready" class="hidden">
+      <div class="cert-sheet" id="certificate-sheet"></div>
+      <div class="no-print" style="margin-top:20px; display:flex; gap:12px; flex-wrap:wrap; align-items:center">
+        <button type="button" class="btn" onclick="window.print()">Print certificate</button>
+        <label for="verify-link" style="margin:0">Shareable verification link</label>
+        <input type="text" id="verify-link" readonly style="flex:1; min-width:220px">
+        <button type="button" class="btn secondary" id="copy-link-btn">Copy link</button>
+      </div>
+      <p class="small muted no-print" id="copy-confirm" style="margin-top:8px"></p>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>TYE Skill Certificate - Learn a skill in 30 days, get a certificate, show it to employers.</p>
+    <p><a href="privacy.html">Privacy policy</a></p>
+  </div>
+</footer>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.getElementById("copy-link-btn").addEventListener("click", function () {
+    var input = document.getElementById("verify-link");
+    if (!input || !input.value) return;
+    input.select();
+    var done = function () {
+      document.getElementById("copy-confirm").textContent = "Link copied.";
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(input.value).then(done, function () { document.execCommand("copy"); done(); });
+    } else {
+      document.execCommand("copy");
+      done();
+    }
+  });
+  window.SkillCertificate.initCertificatePage();
+});
+</script>
+</body>
+</html>

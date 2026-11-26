@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Verify a certificate - TYE Skill Certificate</title>
+<meta name="description" content="Check a TYE Skill Certificate verification code and confirm the learner, skill and issue date.">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script src="js/certificate.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="verify.html" class="active">Verify a certificate</a>
+      <a href="auth.html">Sign in</a>
+    </nav>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container narrow">
+    <h2 style="color:var(--navy)">Verify a certificate</h2>
+    <p class="muted">Enter the verification code from a certificate, for example SC-2026-ABC123. A valid result shows the learner name, the skill, and the issue date.</p>
+    <div class="notice hidden" data-setup-notice></div>
+
+    <div class="form-card">
+      <form id="verify-form">
+        <label for="verify-code-input">Verification code</label>
+        <input type="text" id="verify-code-input" placeholder="SC-2026-ABC123" autocomplete="off" style="text-transform:uppercase">
+        <p style="margin-top:18px"><button type="submit" class="btn btn-block">Verify</button></p>
+      </form>
+      <div id="verify-result" class="verify-result">
+        <p class="muted">Enter a code above to check a certificate.</p>
+      </div>
+    </div>
+    <p class="small muted" style="margin-top:16px">Codes are issued only when a learner completes all 30 days of a course and finishes the capstone project.</p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>TYE Skill Certificate - Learn a skill in 30 days, get a certificate, show it to employers.</p>
+    <p><a href="privacy.html">Privacy policy</a></p>
+  </div>
+</footer>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var form = document.getElementById("verify-form");
+  var input = document.getElementById("verify-code-input");
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var code = (input.value || "").trim().toUpperCase();
+    var url = new URL(window.location.href);
+    if (code) url.searchParams.set("code", code); else url.searchParams.delete("code");
+    window.history.replaceState(null, "", url.toString());
+    window.SkillCertificate.initVerifyPage();
+  });
+  window.SkillCertificate.initVerifyPage();
+});
+</script>
+</body>
+</html>
