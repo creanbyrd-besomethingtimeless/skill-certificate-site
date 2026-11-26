@@ -1,0 +1,1715 @@
+{
+ "course": {
+  "id": "phone-repair",
+  "title": "Phone Repair",
+  "level": "Beginner",
+  "tagline": "Fix cracked screens, batteries and charging ports, and open a repair hustle.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Phone Repair Tools and Safety",
+   "goal": "Know the tools and the safety rules for opening phones.",
+   "video": {
+    "youtube_id": "cxcgJ_9Hj2c",
+    "title": "How to Repair Mobile Phones: Step-by-Step Guide",
+    "channel": "Electronics and You"
+   },
+   "steps": [
+    "Lay out precision screwdrivers, plastic pry tools, tweezers, suction cup and a mat.",
+    "Learn the first rule: power the phone off before you open it.",
+    "Drain a battery below 25 percent before you work near it.",
+    "Keep screws sorted on a magnetic mat (a mat that holds screws in place)."
+   ],
+   "task": "Set up a repair bench with every tool named and laid out.",
+   "challenge": "Name every repair tool without looking at the list.",
+   "quiz": [
+    {
+     "q": "What is the first thing to do before opening a phone?",
+     "options": [
+      "Remove the screen",
+      "Power the phone off",
+      "Heat it",
+      "Remove the SIM"
+     ],
+     "answer": 1,
+     "explain": "Powering off stops short circuits while you work inside."
+    },
+    {
+     "q": "Why drain a battery below 25 percent before repair?",
+     "options": [
+      "To save power",
+      "A charged battery is more dangerous if punctured",
+      "It makes the phone lighter",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "A low battery holds less energy, so an accident is less dangerous."
+    },
+    {
+     "q": "What is a spudger?",
+     "options": [
+      "A screwdriver",
+      "A plastic tool for prying and unplugging cables",
+      "A battery",
+      "A screen"
+     ],
+     "answer": 1,
+     "explain": "A spudger is a plastic stick for lifting cables without damage."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "How a Phone Is Built",
+   "goal": "Know the parts inside a phone: screen, battery, board and ports.",
+   "video": {
+    "youtube_id": "cxcgJ_9Hj2c",
+    "title": "How to Repair Mobile Phones: Step-by-Step Guide",
+    "channel": "Electronics and You"
+   },
+   "steps": [
+    "Open a dead practice phone and name the screen, battery, main board and charging port.",
+    "Learn that the main board is the phone brain; the battery powers it.",
+    "Find the ribbon cables (flat strips that carry signals) and their clips.",
+    "Draw and label the inside of a phone."
+   ],
+   "task": "Draw and label the inside of a phone.",
+   "challenge": "Name five parts inside a phone without looking.",
+   "quiz": [
+    {
+     "q": "What is the first thing to do before opening a phone?",
+     "options": [
+      "Remove the screen",
+      "Power the phone off",
+      "Heat it",
+      "Remove the SIM"
+     ],
+     "answer": 1,
+     "explain": "Powering off stops short circuits while you work inside."
+    },
+    {
+     "q": "Why drain a battery below 25 percent before repair?",
+     "options": [
+      "To save power",
+      "A charged battery is more dangerous if punctured",
+      "It makes the phone lighter",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "A low battery holds less energy, so an accident is less dangerous."
+    },
+    {
+     "q": "What is a spudger?",
+     "options": [
+      "A screwdriver",
+      "A plastic tool for prying and unplugging cables",
+      "A battery",
+      "A screen"
+     ],
+     "answer": 1,
+     "explain": "A spudger is a plastic stick for lifting cables without damage."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Common Phone Problems",
+   "goal": "Diagnose the five most common phone faults from the symptoms.",
+   "video": {
+    "youtube_id": "cxcgJ_9Hj2c",
+    "title": "How to Repair Mobile Phones: Step-by-Step Guide",
+    "channel": "Electronics and You"
+   },
+   "steps": [
+    "A cracked screen shows lines or black patches.",
+    "A bad battery dies fast or swells up.",
+    "A dirty charging port will not charge.",
+    "No sound can mean a blocked speaker or a loose cable.",
+    "Write a symptom list for five faults."
+   ],
+   "task": "Write a fault-finding list: symptom, likely cause, first check.",
+   "challenge": "Diagnose a fault from the symptoms alone.",
+   "quiz": [
+    {
+     "q": "What is the first thing to do before opening a phone?",
+     "options": [
+      "Remove the screen",
+      "Power the phone off",
+      "Heat it",
+      "Remove the SIM"
+     ],
+     "answer": 1,
+     "explain": "Powering off stops short circuits while you work inside."
+    },
+    {
+     "q": "Why drain a battery below 25 percent before repair?",
+     "options": [
+      "To save power",
+      "A charged battery is more dangerous if punctured",
+      "It makes the phone lighter",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "A low battery holds less energy, so an accident is less dangerous."
+    },
+    {
+     "q": "What is a spudger?",
+     "options": [
+      "A screwdriver",
+      "A plastic tool for prying and unplugging cables",
+      "A battery",
+      "A screen"
+     ],
+     "answer": 1,
+     "explain": "A spudger is a plastic stick for lifting cables without damage."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Open a Phone Safely",
+   "goal": "Open a phone without cracking the screen or tearing a cable.",
+   "video": {
+    "youtube_id": "ynuc7nb6y_M",
+    "title": "iPhone 17 Pro Max Screen Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Power the phone off and remove the SIM tray.",
+    "Warm the edges gently to soften the glue.",
+    "Lift the screen with a suction cup and slide a plastic pick around the edge.",
+    "Open the phone like a book, slowly, so no cable tears."
+   ],
+   "task": "Open a practice phone and close it again with no damage.",
+   "challenge": "Open a phone without tearing any ribbon cable.",
+   "quiz": [
+    {
+     "q": "What should you unplug first inside a phone?",
+     "options": [
+      "The screen",
+      "The battery",
+      "The camera",
+      "The speaker"
+     ],
+     "answer": 1,
+     "explain": "Unplugging the battery first cuts all power to the board."
+    },
+    {
+     "q": "Why move small parts to the new screen?",
+     "options": [
+      "For fun",
+      "The earpiece and sensors are needed for the phone to work fully",
+      "To save money",
+      "They look nice"
+     ],
+     "answer": 1,
+     "explain": "Small parts like the earpiece and sensors must move over or features stop working."
+    },
+    {
+     "q": "Why heat the edges before lifting a screen?",
+     "options": [
+      "To dry it",
+      "To soften the glue holding the screen",
+      "To test it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Gentle heat softens the adhesive so the screen lifts without cracking."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Screen Replacement Basics",
+   "goal": "Learn the steps to replace a cracked screen.",
+   "video": {
+    "youtube_id": "ynuc7nb6y_M",
+    "title": "iPhone 17 Pro Max Screen Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Power off, remove the screws, warm and lift the screen.",
+    "Unplug the battery first, then the screen cables.",
+    "Move small parts (earpiece, sensors) to the new screen.",
+    "Test the new screen before you glue it down."
+   ],
+   "task": "List the screen replacement steps in order.",
+   "challenge": "List the steps from memory without looking.",
+   "quiz": [
+    {
+     "q": "What should you unplug first inside a phone?",
+     "options": [
+      "The screen",
+      "The battery",
+      "The camera",
+      "The speaker"
+     ],
+     "answer": 1,
+     "explain": "Unplugging the battery first cuts all power to the board."
+    },
+    {
+     "q": "Why move small parts to the new screen?",
+     "options": [
+      "For fun",
+      "The earpiece and sensors are needed for the phone to work fully",
+      "To save money",
+      "They look nice"
+     ],
+     "answer": 1,
+     "explain": "Small parts like the earpiece and sensors must move over or features stop working."
+    },
+    {
+     "q": "Why heat the edges before lifting a screen?",
+     "options": [
+      "To dry it",
+      "To soften the glue holding the screen",
+      "To test it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Gentle heat softens the adhesive so the screen lifts without cracking."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Test Before You Glue",
+   "goal": "Test every new part before you seal the phone shut.",
+   "video": {
+    "youtube_id": "ynuc7nb6y_M",
+    "title": "iPhone 17 Pro Max Screen Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Connect the new screen loosely and power the phone on.",
+    "Check touch, colours and brightness all work.",
+    "Check the earpiece and front camera still work.",
+    "Only then glue the screen down and fit the screws."
+   ],
+   "task": "Test a new screen fully before gluing it.",
+   "challenge": "Catch a faulty new screen before sealing the phone.",
+   "quiz": [
+    {
+     "q": "What should you unplug first inside a phone?",
+     "options": [
+      "The screen",
+      "The battery",
+      "The camera",
+      "The speaker"
+     ],
+     "answer": 1,
+     "explain": "Unplugging the battery first cuts all power to the board."
+    },
+    {
+     "q": "Why move small parts to the new screen?",
+     "options": [
+      "For fun",
+      "The earpiece and sensors are needed for the phone to work fully",
+      "To save money",
+      "They look nice"
+     ],
+     "answer": 1,
+     "explain": "Small parts like the earpiece and sensors must move over or features stop working."
+    },
+    {
+     "q": "Why heat the edges before lifting a screen?",
+     "options": [
+      "To dry it",
+      "To soften the glue holding the screen",
+      "To test it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Gentle heat softens the adhesive so the screen lifts without cracking."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Replace a Screen on a Practice Phone",
+   "goal": "Replace the screen on a dead or practice phone from start to finish.",
+   "video": {
+    "youtube_id": "VDirdoIEh0Y",
+    "title": "Galaxy S20 Ultra Display Replacement",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Power off, open the phone and unplug the battery.",
+    "Remove the broken screen and move the small parts over.",
+    "Fit the new screen, test it, then seal the phone.",
+    "Power on and check touch, display and sound."
+   ],
+   "task": "Finish a practice phone with a working new screen.",
+   "challenge": "Replace the screen with no leftover screws.",
+   "quiz": [
+    {
+     "q": "Why test a new screen before gluing it?",
+     "options": [
+      "To waste time",
+      "So a faulty screen can be swapped before the phone is sealed",
+      "To charge it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Testing first means you never seal a bad screen inside a phone."
+    },
+    {
+     "q": "What should you check on a new screen?",
+     "options": [
+      "The colour only",
+      "Touch, colours, brightness and the front camera",
+      "The weight",
+      "The brand"
+     ],
+     "answer": 1,
+     "explain": "Touch, display and camera checks catch most faulty screens."
+    },
+    {
+     "q": "What is a ribbon cable?",
+     "options": [
+      "A wire rope",
+      "A flat strip that carries signals between parts",
+      "A charger cable",
+      "A battery"
+     ],
+     "answer": 1,
+     "explain": "Ribbon cables are flat strips that link the screen, battery and board."
+    }
+   ],
+   "project": {
+    "title": "Replace a Screen on a Practice Phone",
+    "brief": "Replace a cracked screen on a practice phone from start to finish.",
+    "checks": [
+     "Phone powered off first",
+     "Battery unplugged before the screen",
+     "Small parts moved to the new screen",
+     "New screen tested before gluing",
+     "Phone sealed neatly",
+     "Touch and display working"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Battery Health and Safety",
+   "goal": "Check battery health and handle batteries safely.",
+   "video": {
+    "youtube_id": "VDirdoIEh0Y",
+    "title": "Galaxy S20 Ultra Display Replacement",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Learn the signs of a bad battery: fast drain, swelling, sudden shutdowns.",
+    "Check battery health in the phone settings.",
+    "Never poke, bend or heat a battery; a damaged one can catch fire.",
+    "Store old batteries in a safe place for recycling."
+   ],
+   "task": "Check the battery health on three phones and record the results.",
+   "challenge": "Spot a swollen battery and explain why it is dangerous.",
+   "quiz": [
+    {
+     "q": "Why test a new screen before gluing it?",
+     "options": [
+      "To waste time",
+      "So a faulty screen can be swapped before the phone is sealed",
+      "To charge it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Testing first means you never seal a bad screen inside a phone."
+    },
+    {
+     "q": "What should you check on a new screen?",
+     "options": [
+      "The colour only",
+      "Touch, colours, brightness and the front camera",
+      "The weight",
+      "The brand"
+     ],
+     "answer": 1,
+     "explain": "Touch, display and camera checks catch most faulty screens."
+    },
+    {
+     "q": "What is a ribbon cable?",
+     "options": [
+      "A wire rope",
+      "A flat strip that carries signals between parts",
+      "A charger cable",
+      "A battery"
+     ],
+     "answer": 1,
+     "explain": "Ribbon cables are flat strips that link the screen, battery and board."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Replace a Phone Battery",
+   "goal": "Swap a worn battery for a new one safely.",
+   "video": {
+    "youtube_id": "VDirdoIEh0Y",
+    "title": "Galaxy S20 Ultra Display Replacement",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Power off and open the phone, then unplug the battery first.",
+    "Pull the adhesive strips slowly to free the old battery.",
+    "Fit the new battery and plug it in.",
+    "Power on and check the battery health reads well."
+   ],
+   "task": "Replace a battery in a practice phone.",
+   "challenge": "Replace a battery without bending or puncturing it.",
+   "quiz": [
+    {
+     "q": "Why test a new screen before gluing it?",
+     "options": [
+      "To waste time",
+      "So a faulty screen can be swapped before the phone is sealed",
+      "To charge it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Testing first means you never seal a bad screen inside a phone."
+    },
+    {
+     "q": "What should you check on a new screen?",
+     "options": [
+      "The colour only",
+      "Touch, colours, brightness and the front camera",
+      "The weight",
+      "The brand"
+     ],
+     "answer": 1,
+     "explain": "Touch, display and camera checks catch most faulty screens."
+    },
+    {
+     "q": "What is a ribbon cable?",
+     "options": [
+      "A wire rope",
+      "A flat strip that carries signals between parts",
+      "A charger cable",
+      "A battery"
+     ],
+     "answer": 1,
+     "explain": "Ribbon cables are flat strips that link the screen, battery and board."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Battery Adhesive and Strips",
+   "goal": "Remove battery glue strips without tearing them.",
+   "video": {
+    "youtube_id": "jTI4QSwL3vs",
+    "title": "iPhone 16 Battery Replacement | Fix Fast Battery Drain & Service Warning",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Warm the phone slightly to soften the glue.",
+    "Pull each strip slowly at a low angle.",
+    "If a strip snaps, use a plastic card and a little alcohol to lift the battery.",
+    "Never use a metal tool to pry a battery."
+   ],
+   "task": "Remove a battery with all adhesive strips intact.",
+   "challenge": "Free a battery after a strip snaps, without damage.",
+   "quiz": [
+    {
+     "q": "What is a sign of a bad battery?",
+     "options": [
+      "A clean screen",
+      "Fast drain, swelling or sudden shutdowns",
+      "A loud speaker",
+      "A bright display"
+     ],
+     "answer": 1,
+     "explain": "Fast drain, swelling and shutdowns all point to a worn battery."
+    },
+    {
+     "q": "What should you never do to a battery?",
+     "options": [
+      "Charge it",
+      "Poke, bend or heat it",
+      "Recycle it",
+      "Unplug it"
+     ],
+     "answer": 1,
+     "explain": "Poking or bending a lithium battery can cause fire."
+    },
+    {
+     "q": "Where do you check battery health?",
+     "options": [
+      "In the camera app",
+      "In the phone settings under Battery",
+      "On the box",
+      "In the contacts"
+     ],
+     "answer": 1,
+     "explain": "Battery health is shown in the phone settings."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "iPhone Battery Replacement",
+   "goal": "Replace an iPhone battery step by step.",
+   "video": {
+    "youtube_id": "jTI4QSwL3vs",
+    "title": "iPhone 16 Battery Replacement | Fix Fast Battery Drain & Service Warning",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Remove the two bottom screws and warm the screen edge.",
+    "Lift the screen, unplug the battery, then the screen.",
+    "Release the battery adhesive and lift the battery out.",
+    "Fit the new battery, reconnect, test and seal the phone."
+   ],
+   "task": "Replace an iPhone battery in a practice phone.",
+   "challenge": "Replace the battery and keep water-resistance seals in place.",
+   "quiz": [
+    {
+     "q": "What is a sign of a bad battery?",
+     "options": [
+      "A clean screen",
+      "Fast drain, swelling or sudden shutdowns",
+      "A loud speaker",
+      "A bright display"
+     ],
+     "answer": 1,
+     "explain": "Fast drain, swelling and shutdowns all point to a worn battery."
+    },
+    {
+     "q": "What should you never do to a battery?",
+     "options": [
+      "Charge it",
+      "Poke, bend or heat it",
+      "Recycle it",
+      "Unplug it"
+     ],
+     "answer": 1,
+     "explain": "Poking or bending a lithium battery can cause fire."
+    },
+    {
+     "q": "Where do you check battery health?",
+     "options": [
+      "In the camera app",
+      "In the phone settings under Battery",
+      "On the box",
+      "In the contacts"
+     ],
+     "answer": 1,
+     "explain": "Battery health is shown in the phone settings."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Calibrate a New Battery",
+   "goal": "Set up a new battery so it reads correctly.",
+   "video": {
+    "youtube_id": "jTI4QSwL3vs",
+    "title": "iPhone 16 Battery Replacement | Fix Fast Battery Drain & Service Warning",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Charge the new battery to 100 percent.",
+    "Use the phone normally until it drops low, then charge it fully again.",
+    "Check the battery health reading after a full cycle.",
+    "Tell the customer the battery needs a day to settle."
+   ],
+   "task": "Calibrate a new battery with a full charge cycle.",
+   "challenge": "Explain battery calibration to a customer in plain words.",
+   "quiz": [
+    {
+     "q": "What is a sign of a bad battery?",
+     "options": [
+      "A clean screen",
+      "Fast drain, swelling or sudden shutdowns",
+      "A loud speaker",
+      "A bright display"
+     ],
+     "answer": 1,
+     "explain": "Fast drain, swelling and shutdowns all point to a worn battery."
+    },
+    {
+     "q": "What should you never do to a battery?",
+     "options": [
+      "Charge it",
+      "Poke, bend or heat it",
+      "Recycle it",
+      "Unplug it"
+     ],
+     "answer": 1,
+     "explain": "Poking or bending a lithium battery can cause fire."
+    },
+    {
+     "q": "Where do you check battery health?",
+     "options": [
+      "In the camera app",
+      "In the phone settings under Battery",
+      "On the box",
+      "In the contacts"
+     ],
+     "answer": 1,
+     "explain": "Battery health is shown in the phone settings."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Project: Replace a Battery in a Practice Phone",
+   "goal": "Replace a battery from start to finish and test it.",
+   "video": {
+    "youtube_id": "-W81PR9KMzs",
+    "title": "iPhone XS Battery Replacement",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Power off, open the phone and unplug the old battery.",
+    "Remove the old battery safely and fit the new one.",
+    "Power on, check health and charging.",
+    "Seal the phone and run a full charge test."
+   ],
+   "task": "Finish a practice phone with a new battery that charges well.",
+   "challenge": "Replace the battery with no damage to any cable.",
+   "quiz": [
+    {
+     "q": "How do you free a battery held by adhesive strips?",
+     "options": [
+      "Pry it with a knife",
+      "Pull the strips slowly at a low angle",
+      "Heat it hard",
+      "Shake the phone"
+     ],
+     "answer": 1,
+     "explain": "Slow steady pulls release the strips without tearing them."
+    },
+    {
+     "q": "What do you do if an adhesive strip snaps?",
+     "options": [
+      "Give up",
+      "Use a plastic card and a little alcohol to lift the battery",
+      "Use a metal knife",
+      "Hit the phone"
+     ],
+     "answer": 1,
+     "explain": "A plastic card and alcohol free the battery safely."
+    },
+    {
+     "q": "Why use a plastic tool, not metal, near a battery?",
+     "options": [
+      "Plastic is cheaper",
+      "Metal can puncture the battery and cause fire",
+      "Plastic is stronger",
+      "Metal is too big"
+     ],
+     "answer": 1,
+     "explain": "Metal tools can pierce a battery; plastic cannot."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Charging Port Problems",
+   "goal": "Diagnose charging faults: cable, port or battery.",
+   "video": {
+    "youtube_id": "-W81PR9KMzs",
+    "title": "iPhone XS Battery Replacement",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Try a different cable and charger first.",
+    "Look inside the port with a light: lint is the most common cause.",
+    "Clean the port gently with a wooden pick, never metal.",
+    "Test charging after cleaning before you open the phone."
+   ],
+   "task": "Diagnose three charging faults from their symptoms.",
+   "challenge": "Fix a phone that will not charge by cleaning the port only.",
+   "quiz": [
+    {
+     "q": "How do you free a battery held by adhesive strips?",
+     "options": [
+      "Pry it with a knife",
+      "Pull the strips slowly at a low angle",
+      "Heat it hard",
+      "Shake the phone"
+     ],
+     "answer": 1,
+     "explain": "Slow steady pulls release the strips without tearing them."
+    },
+    {
+     "q": "What do you do if an adhesive strip snaps?",
+     "options": [
+      "Give up",
+      "Use a plastic card and a little alcohol to lift the battery",
+      "Use a metal knife",
+      "Hit the phone"
+     ],
+     "answer": 1,
+     "explain": "A plastic card and alcohol free the battery safely."
+    },
+    {
+     "q": "Why use a plastic tool, not metal, near a battery?",
+     "options": [
+      "Plastic is cheaper",
+      "Metal can puncture the battery and cause fire",
+      "Plastic is stronger",
+      "Metal is too big"
+     ],
+     "answer": 1,
+     "explain": "Metal tools can pierce a battery; plastic cannot."
+    }
+   ],
+   "project": {
+    "title": "Replace a Battery in a Practice Phone",
+    "brief": "Swap a worn battery for a new one and test it fully.",
+    "checks": [
+     "Old battery removed safely",
+     "New battery fitted and plugged in",
+     "Battery health reads well",
+     "Phone charges normally",
+     "No cables damaged",
+     "Phone sealed neatly"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Clean a Charging Port",
+   "goal": "Clean a dirty charging port safely.",
+   "video": {
+    "youtube_id": "-W81PR9KMzs",
+    "title": "iPhone XS Battery Replacement",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Power the phone off.",
+    "Use a wooden toothpick or soft brush to lift lint out.",
+    "Blow out dust with short bursts of air.",
+    "Test with a cable: it should click in firmly and charge."
+   ],
+   "task": "Clean a charging port so the cable clicks in firmly.",
+   "challenge": "Clean a port without bending any pins inside.",
+   "quiz": [
+    {
+     "q": "How do you free a battery held by adhesive strips?",
+     "options": [
+      "Pry it with a knife",
+      "Pull the strips slowly at a low angle",
+      "Heat it hard",
+      "Shake the phone"
+     ],
+     "answer": 1,
+     "explain": "Slow steady pulls release the strips without tearing them."
+    },
+    {
+     "q": "What do you do if an adhesive strip snaps?",
+     "options": [
+      "Give up",
+      "Use a plastic card and a little alcohol to lift the battery",
+      "Use a metal knife",
+      "Hit the phone"
+     ],
+     "answer": 1,
+     "explain": "A plastic card and alcohol free the battery safely."
+    },
+    {
+     "q": "Why use a plastic tool, not metal, near a battery?",
+     "options": [
+      "Plastic is cheaper",
+      "Metal can puncture the battery and cause fire",
+      "Plastic is stronger",
+      "Metal is too big"
+     ],
+     "answer": 1,
+     "explain": "Metal tools can pierce a battery; plastic cannot."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Replace a Charging Port",
+   "goal": "Replace a worn charging port step by step.",
+   "video": {
+    "youtube_id": "VS4xmbUpFxg",
+    "title": "iPhone 13 Pro Charging Port Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Open the phone and unplug the battery.",
+    "Remove the screws and the small board holding the port.",
+    "Unplug the old port and fit the new one.",
+    "Reconnect, test charging, then seal the phone."
+   ],
+   "task": "Replace a charging port in a practice phone.",
+   "challenge": "Replace the port so charging works first time.",
+   "quiz": [
+    {
+     "q": "What is the most common cause of a phone not charging?",
+     "options": [
+      "A dead battery",
+      "Lint packed in the charging port",
+      "A broken screen",
+      "No signal"
+     ],
+     "answer": 1,
+     "explain": "Pocket lint blocks the port and stops the cable clicking in fully."
+    },
+    {
+     "q": "What should you try first for a charging fault?",
+     "options": [
+      "Replace the port",
+      "Try a different cable and charger",
+      "Open the phone",
+      "Buy a new phone"
+     ],
+     "answer": 1,
+     "explain": "A worn cable is the most common cause and the cheapest to test."
+    },
+    {
+     "q": "Why never use a metal pin to clean a charging port?",
+     "options": [
+      "It is too big",
+      "Metal can bend pins or short the port",
+      "It is dirty",
+      "It is slow"
+     ],
+     "answer": 1,
+     "explain": "Metal pins bend contacts and can short the port."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "USB-C Ports",
+   "goal": "Know how USB-C ports work and what breaks in them.",
+   "video": {
+    "youtube_id": "VS4xmbUpFxg",
+    "title": "iPhone 13 Pro Charging Port Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "USB-C is the small flat port on most new phones.",
+    "Learn that lint, bent pins and worn cables cause most faults.",
+    "Test with a known good cable before you blame the port.",
+    "Replace the port board, not just the metal shell."
+   ],
+   "task": "Explain USB-C charging faults to a customer in plain words.",
+   "challenge": "Tell a cable fault from a port fault.",
+   "quiz": [
+    {
+     "q": "What is the most common cause of a phone not charging?",
+     "options": [
+      "A dead battery",
+      "Lint packed in the charging port",
+      "A broken screen",
+      "No signal"
+     ],
+     "answer": 1,
+     "explain": "Pocket lint blocks the port and stops the cable clicking in fully."
+    },
+    {
+     "q": "What should you try first for a charging fault?",
+     "options": [
+      "Replace the port",
+      "Try a different cable and charger",
+      "Open the phone",
+      "Buy a new phone"
+     ],
+     "answer": 1,
+     "explain": "A worn cable is the most common cause and the cheapest to test."
+    },
+    {
+     "q": "Why never use a metal pin to clean a charging port?",
+     "options": [
+      "It is too big",
+      "Metal can bend pins or short the port",
+      "It is dirty",
+      "It is slow"
+     ],
+     "answer": 1,
+     "explain": "Metal pins bend contacts and can short the port."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Project: Fix a Phone That Will Not Charge",
+   "goal": "Diagnose and fix a charging fault from start to finish.",
+   "video": {
+    "youtube_id": "VS4xmbUpFxg",
+    "title": "iPhone 13 Pro Charging Port Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Test the cable and charger first.",
+    "Clean the port and test again.",
+    "If cleaning fails, open the phone and replace the port.",
+    "Test charging and data transfer before you hand it back."
+   ],
+   "task": "Fix a phone so it charges and connects to a computer.",
+   "challenge": "Fix the charging fault without replacing a good part.",
+   "quiz": [
+    {
+     "q": "What is the most common cause of a phone not charging?",
+     "options": [
+      "A dead battery",
+      "Lint packed in the charging port",
+      "A broken screen",
+      "No signal"
+     ],
+     "answer": 1,
+     "explain": "Pocket lint blocks the port and stops the cable clicking in fully."
+    },
+    {
+     "q": "What should you try first for a charging fault?",
+     "options": [
+      "Replace the port",
+      "Try a different cable and charger",
+      "Open the phone",
+      "Buy a new phone"
+     ],
+     "answer": 1,
+     "explain": "A worn cable is the most common cause and the cheapest to test."
+    },
+    {
+     "q": "Why never use a metal pin to clean a charging port?",
+     "options": [
+      "It is too big",
+      "Metal can bend pins or short the port",
+      "It is dirty",
+      "It is slow"
+     ],
+     "answer": 1,
+     "explain": "Metal pins bend contacts and can short the port."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Charge Port Replacement on iPhone",
+   "goal": "Replace an iPhone charging port carefully.",
+   "video": {
+    "youtube_id": "HPWNyw7nC_w",
+    "title": "iPhone 17 USB-C Port Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Open the phone and unplug the battery and screen.",
+    "Remove the speaker and the port assembly.",
+    "Fit the new port and put every part back.",
+    "Test charging, sound and microphone before sealing."
+   ],
+   "task": "Replace an iPhone charging port in a practice phone.",
+   "challenge": "Replace the port with no leftover screws or parts.",
+   "quiz": [
+    {
+     "q": "What is USB-C?",
+     "options": [
+      "A charger brand",
+      "The small flat charging port on most new phones",
+      "A battery type",
+      "A screen type"
+     ],
+     "answer": 1,
+     "explain": "USB-C is the standard small reversible port on modern phones."
+    },
+    {
+     "q": "How do you tell a cable fault from a port fault?",
+     "options": [
+      "Guess",
+      "Test with a known good cable; if it works, the old cable was bad",
+      "Shake the phone",
+      "Look at the colour"
+     ],
+     "answer": 1,
+     "explain": "A good cable that charges proves the port is fine and the old cable was bad."
+    },
+    {
+     "q": "What should you replace when a USB-C port is worn?",
+     "options": [
+      "The whole phone",
+      "The port board, not just the metal shell",
+      "The battery",
+      "The screen"
+     ],
+     "answer": 1,
+     "explain": "The port board holds the contacts; the shell alone cannot fix it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Speakers and Microphones",
+   "goal": "Fix no-sound faults in speakers and microphones.",
+   "video": {
+    "youtube_id": "HPWNyw7nC_w",
+    "title": "iPhone 17 USB-C Port Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Clean the speaker holes gently with a soft brush.",
+    "Test sound with music and a call.",
+    "Check the microphone with a voice recording.",
+    "Replace a blocked speaker mesh if cleaning fails."
+   ],
+   "task": "Fix a phone with no sound by cleaning the speaker.",
+   "challenge": "Tell a blocked speaker from a broken one.",
+   "quiz": [
+    {
+     "q": "What is USB-C?",
+     "options": [
+      "A charger brand",
+      "The small flat charging port on most new phones",
+      "A battery type",
+      "A screen type"
+     ],
+     "answer": 1,
+     "explain": "USB-C is the standard small reversible port on modern phones."
+    },
+    {
+     "q": "How do you tell a cable fault from a port fault?",
+     "options": [
+      "Guess",
+      "Test with a known good cable; if it works, the old cable was bad",
+      "Shake the phone",
+      "Look at the colour"
+     ],
+     "answer": 1,
+     "explain": "A good cable that charges proves the port is fine and the old cable was bad."
+    },
+    {
+     "q": "What should you replace when a USB-C port is worn?",
+     "options": [
+      "The whole phone",
+      "The port board, not just the metal shell",
+      "The battery",
+      "The screen"
+     ],
+     "answer": 1,
+     "explain": "The port board holds the contacts; the shell alone cannot fix it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "SD Cards and SIM Trays",
+   "goal": "Fix SIM and SD card faults.",
+   "video": {
+    "youtube_id": "HPWNyw7nC_w",
+    "title": "iPhone 17 USB-C Port Replacement",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Clean the SIM tray and the card contacts.",
+    "Test with a known good SIM card.",
+    "Replace a bent SIM tray or a broken card holder.",
+    "Check the phone reads the card after the fix."
+   ],
+   "task": "Fix a phone that does not read its SIM card.",
+   "challenge": "Replace a card holder without damaging the board.",
+   "quiz": [
+    {
+     "q": "What is USB-C?",
+     "options": [
+      "A charger brand",
+      "The small flat charging port on most new phones",
+      "A battery type",
+      "A screen type"
+     ],
+     "answer": 1,
+     "explain": "USB-C is the standard small reversible port on modern phones."
+    },
+    {
+     "q": "How do you tell a cable fault from a port fault?",
+     "options": [
+      "Guess",
+      "Test with a known good cable; if it works, the old cable was bad",
+      "Shake the phone",
+      "Look at the colour"
+     ],
+     "answer": 1,
+     "explain": "A good cable that charges proves the port is fine and the old cable was bad."
+    },
+    {
+     "q": "What should you replace when a USB-C port is worn?",
+     "options": [
+      "The whole phone",
+      "The port board, not just the metal shell",
+      "The battery",
+      "The screen"
+     ],
+     "answer": 1,
+     "explain": "The port board holds the contacts; the shell alone cannot fix it."
+    }
+   ],
+   "project": {
+    "title": "Fix a Phone That Will Not Charge",
+    "brief": "Diagnose and fix a charging fault on a real or practice phone.",
+    "checks": [
+     "Cable and charger tested first",
+     "Port cleaned and tested",
+     "Port replaced if cleaning failed",
+     "Charging works",
+     "Data transfer works",
+     "Phone handed back clean"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Water Damage: First Steps",
+   "goal": "Know what to do first when a phone gets wet.",
+   "video": {
+    "youtube_id": "K9K6EN-XBKE",
+    "title": "iPhone 13 Pro Charge Port Replacement",
+    "channel": "iDoctor UK"
+   },
+   "steps": [
+    "Power the phone off at once and do not charge it.",
+    "Dry the outside and remove the SIM tray.",
+    "Never use a hair dryer on high heat.",
+    "Open the phone, dry the inside and clean any corrosion (green or white crust)."
+   ],
+   "task": "Write a first-aid card for wet phones.",
+   "challenge": "Save a wet practice phone by drying it properly.",
+   "quiz": [
+    {
+     "q": "What should you test after replacing a charging port?",
+     "options": [
+      "Only charging",
+      "Charging, sound, microphone and data transfer",
+      "Only the screen",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "The port area holds speakers and microphones too, so test them all."
+    },
+    {
+     "q": "Why photograph each step when taking a phone apart?",
+     "options": [
+      "For social media",
+      "So you can put every part back in the right place",
+      "It looks professional",
+      "To sell the photos"
+     ],
+     "answer": 1,
+     "explain": "Photos show the order and position of every part for reassembly."
+    },
+    {
+     "q": "What is the first step for a wet phone?",
+     "options": [
+      "Charge it",
+      "Power it off at once and do not charge it",
+      "Put it in rice only",
+      "Turn it on to test"
+     ],
+     "answer": 1,
+     "explain": "Powering off stops short circuits; charging a wet phone can kill it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Full Disassembly and Reassembly",
+   "goal": "Take a phone fully apart and put it back together working.",
+   "video": {
+    "youtube_id": "K9K6EN-XBKE",
+    "title": "iPhone 13 Pro Charge Port Replacement",
+    "channel": "iDoctor UK"
+   },
+   "steps": [
+    "Photograph each step as you take parts out.",
+    "Keep screws sorted by step on your mat.",
+    "Put the phone back in reverse order.",
+    "Power on and test every function before sealing."
+   ],
+   "task": "Take a practice phone apart and rebuild it working.",
+   "challenge": "Rebuild a phone with no leftover parts.",
+   "quiz": [
+    {
+     "q": "What should you test after replacing a charging port?",
+     "options": [
+      "Only charging",
+      "Charging, sound, microphone and data transfer",
+      "Only the screen",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "The port area holds speakers and microphones too, so test them all."
+    },
+    {
+     "q": "Why photograph each step when taking a phone apart?",
+     "options": [
+      "For social media",
+      "So you can put every part back in the right place",
+      "It looks professional",
+      "To sell the photos"
+     ],
+     "answer": 1,
+     "explain": "Photos show the order and position of every part for reassembly."
+    },
+    {
+     "q": "What is the first step for a wet phone?",
+     "options": [
+      "Charge it",
+      "Power it off at once and do not charge it",
+      "Put it in rice only",
+      "Turn it on to test"
+     ],
+     "answer": 1,
+     "explain": "Powering off stops short circuits; charging a wet phone can kill it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Price a Repair and Get Customers",
+   "goal": "Price repairs and win your first paying customers.",
+   "video": {
+    "youtube_id": "K9K6EN-XBKE",
+    "title": "iPhone 13 Pro Charge Port Replacement",
+    "channel": "iDoctor UK"
+   },
+   "steps": [
+    "Add up the part cost, your time and a fair profit.",
+    "Write a simple price list: screen, battery, charging port.",
+    "Offer a short warranty on your work.",
+    "Ask happy customers to tell their friends."
+   ],
+   "task": "Write a price list for three repairs with parts and labour shown.",
+   "challenge": "Win your first paying repair job.",
+   "quiz": [
+    {
+     "q": "What should you test after replacing a charging port?",
+     "options": [
+      "Only charging",
+      "Charging, sound, microphone and data transfer",
+      "Only the screen",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "The port area holds speakers and microphones too, so test them all."
+    },
+    {
+     "q": "Why photograph each step when taking a phone apart?",
+     "options": [
+      "For social media",
+      "So you can put every part back in the right place",
+      "It looks professional",
+      "To sell the photos"
+     ],
+     "answer": 1,
+     "explain": "Photos show the order and position of every part for reassembly."
+    },
+    {
+     "q": "What is the first step for a wet phone?",
+     "options": [
+      "Charge it",
+      "Power it off at once and do not charge it",
+      "Put it in rice only",
+      "Turn it on to test"
+     ],
+     "answer": 1,
+     "explain": "Powering off stops short circuits; charging a wet phone can kill it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Build a Repair Price List",
+   "goal": "Write a price list for common phone repairs.",
+   "video": {
+    "youtube_id": "-EKpQneBYQo",
+    "title": "SD Card Holder Replacement",
+    "channel": "Mobile Phone Repairing Course"
+   },
+   "steps": [
+    "List the repairs you can do: screen, battery, charging port.",
+    "Work out the part cost and your time for each repair.",
+    "Add a fair profit and round to a clean price.",
+    "Write the list neatly so customers can read it."
+   ],
+   "task": "Write a price list with five repairs and prices.",
+   "challenge": "Price a repair you have never done before.",
+   "quiz": [
+    {
+     "q": "What should a repair price list include?",
+     "options": [
+      "Only the part price",
+      "Part cost, time and profit for each repair",
+      "The phone brand only",
+      "Your name only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers the part, your time and a fair profit."
+    },
+    {
+     "q": "Why offer a short warranty on your repairs?",
+     "options": [
+      "It is the law everywhere",
+      "It builds trust and brings customers back",
+      "It costs nothing",
+      "It is fun"
+     ],
+     "answer": 1,
+     "explain": "A warranty shows you trust your work and brings repeat customers."
+    },
+    {
+     "q": "What is the best way to get your first customers?",
+     "options": [
+      "Wait",
+      "Do good work and ask happy customers to tell friends",
+      "Charge the most",
+      "Hide your prices"
+     ],
+     "answer": 1,
+     "explain": "Word of mouth from happy customers is the cheapest and best advertising."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Advertise Your Repair Hustle",
+   "goal": "Tell people about your repair service so customers find you.",
+   "video": {
+    "youtube_id": "-EKpQneBYQo",
+    "title": "SD Card Holder Replacement",
+    "channel": "Mobile Phone Repairing Course"
+   },
+   "steps": [
+    "Take clear photos of repairs you have done.",
+    "Post the photos and your price list on social media.",
+    "Tell friends and family you fix phones.",
+    "Ask happy customers to tell their friends."
+   ],
+   "task": "Post your repair service and price list online.",
+   "challenge": "Get your first customer from a post.",
+   "quiz": [
+    {
+     "q": "What should a repair price list include?",
+     "options": [
+      "Only the part price",
+      "Part cost, time and profit for each repair",
+      "The phone brand only",
+      "Your name only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers the part, your time and a fair profit."
+    },
+    {
+     "q": "Why offer a short warranty on your repairs?",
+     "options": [
+      "It is the law everywhere",
+      "It builds trust and brings customers back",
+      "It costs nothing",
+      "It is fun"
+     ],
+     "answer": 1,
+     "explain": "A warranty shows you trust your work and brings repeat customers."
+    },
+    {
+     "q": "What is the best way to get your first customers?",
+     "options": [
+      "Wait",
+      "Do good work and ask happy customers to tell friends",
+      "Charge the most",
+      "Hide your prices"
+     ],
+     "answer": 1,
+     "explain": "Word of mouth from happy customers is the cheapest and best advertising."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Handle a Difficult Customer",
+   "goal": "Deal with unhappy customers calmly and fairly.",
+   "video": {
+    "youtube_id": "-EKpQneBYQo",
+    "title": "SD Card Holder Replacement",
+    "channel": "Mobile Phone Repairing Course"
+   },
+   "steps": [
+    "Listen to the customer fully before you answer.",
+    "Stay calm and polite, even if they are upset.",
+    "Offer a fair fix: redo the repair or refund the part cost.",
+    "Write down what happened so you learn from it."
+   ],
+   "task": "Write how you would handle a customer whose phone still has a fault.",
+   "challenge": "Turn an unhappy customer into a happy one.",
+   "quiz": [
+    {
+     "q": "What should a repair price list include?",
+     "options": [
+      "Only the part price",
+      "Part cost, time and profit for each repair",
+      "The phone brand only",
+      "Your name only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers the part, your time and a fair profit."
+    },
+    {
+     "q": "Why offer a short warranty on your repairs?",
+     "options": [
+      "It is the law everywhere",
+      "It builds trust and brings customers back",
+      "It costs nothing",
+      "It is fun"
+     ],
+     "answer": 1,
+     "explain": "A warranty shows you trust your work and brings repeat customers."
+    },
+    {
+     "q": "What is the best way to get your first customers?",
+     "options": [
+      "Wait",
+      "Do good work and ask happy customers to tell friends",
+      "Charge the most",
+      "Hide your prices"
+     ],
+     "answer": 1,
+     "explain": "Word of mouth from happy customers is the cheapest and best advertising."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Reassemble a Phone Cleanly",
+   "goal": "Put a phone back together with no leftover parts and everything working.",
+   "video": {
+    "youtube_id": "lfaJaK6aDE0",
+    "title": "iPhone 17 Pro Disassembly & Reassembly",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Lay out every screw and part in order as you take the phone apart.",
+    "Put each screw back in the same hole it came from.",
+    "Test the screen, battery and buttons before you seal the phone.",
+    "Check no screws or parts are left over."
+   ],
+   "task": "Take a practice phone apart and rebuild it with no leftover parts.",
+   "challenge": "Rebuild a phone and have every function working.",
+   "quiz": [
+    {
+     "q": "What should you do with screws when you take a phone apart?",
+     "options": [
+      "Put them in one pile",
+      "Keep them in order so each goes back in the same hole",
+      "Throw them away",
+      "Glue them down"
+     ],
+     "answer": 1,
+     "explain": "Screws are different sizes; keeping them in order means each goes back where it belongs."
+    },
+    {
+     "q": "When should you test a phone during reassembly?",
+     "options": [
+      "At the very end",
+      "Before you seal the phone, test screen, battery and buttons",
+      "Never",
+      "Only if it looks broken"
+     ],
+     "answer": 1,
+     "explain": "Testing before sealing lets you fix problems while the phone is still open."
+    },
+    {
+     "q": "What does it mean if screws are left over after reassembly?",
+     "options": [
+      "Nothing",
+      "You missed a screw somewhere and must open the phone again",
+      "The phone is lighter",
+      "It is normal"
+     ],
+     "answer": 1,
+     "explain": "Leftover screws mean a part is not fixed properly; open the phone and find where they belong."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone repair job, order parts and plan the day.",
+   "video": {
+    "youtube_id": "lfaJaK6aDE0",
+    "title": "iPhone 17 Pro Disassembly & Reassembly",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Pick a phone with a real fault to fix for a real person.",
+    "Order the exact part for that phone model.",
+    "Write a step-by-step repair plan with testing.",
+    "Tell the owner the price and time before you start."
+   ],
+   "task": "Have the part ordered and the repair plan written.",
+   "challenge": "Plan a capstone repair that uses screen, battery or port skills.",
+   "quiz": [
+    {
+     "q": "What should you do with screws when you take a phone apart?",
+     "options": [
+      "Put them in one pile",
+      "Keep them in order so each goes back in the same hole",
+      "Throw them away",
+      "Glue them down"
+     ],
+     "answer": 1,
+     "explain": "Screws are different sizes; keeping them in order means each goes back where it belongs."
+    },
+    {
+     "q": "When should you test a phone during reassembly?",
+     "options": [
+      "At the very end",
+      "Before you seal the phone, test screen, battery and buttons",
+      "Never",
+      "Only if it looks broken"
+     ],
+     "answer": 1,
+     "explain": "Testing before sealing lets you fix problems while the phone is still open."
+    },
+    {
+     "q": "What does it mean if screws are left over after reassembly?",
+     "options": [
+      "Nothing",
+      "You missed a screw somewhere and must open the phone again",
+      "The phone is lighter",
+      "It is normal"
+     ],
+     "answer": 1,
+     "explain": "Leftover screws mean a part is not fixed properly; open the phone and find where they belong."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Repair a Real Phone",
+   "goal": "Repair a real phone for a real person and hand it back working.",
+   "video": {
+    "youtube_id": "lfaJaK6aDE0",
+    "title": "iPhone 17 Pro Disassembly & Reassembly",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Repair the phone following your plan, testing as you go.",
+    "Test screen, battery, charging, sound and cameras.",
+    "Clean the phone and seal it neatly.",
+    "Hand it back with your price list and warranty note."
+   ],
+   "task": "Hand back a repaired phone with all functions working.",
+   "challenge": "Finish the repair with time left for a full test.",
+   "quiz": [
+    {
+     "q": "What should you do with screws when you take a phone apart?",
+     "options": [
+      "Put them in one pile",
+      "Keep them in order so each goes back in the same hole",
+      "Throw them away",
+      "Glue them down"
+     ],
+     "answer": 1,
+     "explain": "Screws are different sizes; keeping them in order means each goes back where it belongs."
+    },
+    {
+     "q": "When should you test a phone during reassembly?",
+     "options": [
+      "At the very end",
+      "Before you seal the phone, test screen, battery and buttons",
+      "Never",
+      "Only if it looks broken"
+     ],
+     "answer": 1,
+     "explain": "Testing before sealing lets you fix problems while the phone is still open."
+    },
+    {
+     "q": "What does it mean if screws are left over after reassembly?",
+     "options": [
+      "Nothing",
+      "You missed a screw somewhere and must open the phone again",
+      "The phone is lighter",
+      "It is normal"
+     ],
+     "answer": 1,
+     "explain": "Leftover screws mean a part is not fixed properly; open the phone and find where they belong."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Repair a Real Phone",
+  "brief": "Repair a real phone for a real person — screen, battery or charging fault — test every function and hand it back working with a warranty note.",
+  "checks": [
+   "Fault diagnosed correctly before opening",
+   "Right part ordered for the exact phone model",
+   "Repair done with no damage to cables or parts",
+   "Screen, battery, charging, sound and cameras all tested",
+   "Phone sealed neatly with no leftover screws",
+   "Owner shown the fix and how to care for the phone",
+   "Price list and warranty note handed over"
+  ],
+  "deliverables": [
+   "Repaired phone, all functions working",
+   "Fault diagnosis sheet",
+   "Receipt with parts, time and price",
+   "Warranty note for the repair",
+   "Before and after photos"
+  ]
+ }
+}

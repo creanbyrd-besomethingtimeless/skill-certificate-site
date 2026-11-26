@@ -1,0 +1,1714 @@
+{
+ "course": {
+  "id": "laptop-repair",
+  "title": "Laptop Repair",
+  "level": "Beginner to intermediate",
+  "tagline": "Diagnose and fix laptops: screens, keyboards, storage and software faults.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Laptop Parts and Tools",
+   "goal": "Know the parts inside a laptop and the tools to open one safely.",
+   "video": {
+    "youtube_id": "EWUt7SvVMMo",
+    "title": "EASY! How to Add More RAM to Laptop",
+    "channel": "Lifey Guy"
+   },
+   "steps": [
+    "Lay out precision screwdrivers, plastic pry tools, tweezers and a mat.",
+    "Learn the parts: battery, RAM (memory), SSD (storage drive), fan and motherboard.",
+    "The motherboard is the main board everything plugs into.",
+    "Find the screws on the bottom and learn some hide under rubber feet."
+   ],
+   "task": "Draw and label the inside of a laptop.",
+   "challenge": "Name five parts inside a laptop without looking.",
+   "quiz": [
+    {
+     "q": "What is RAM in a laptop?",
+     "options": [
+      "Storage for files",
+      "Short-term memory the laptop uses while working",
+      "The battery",
+      "The screen"
+     ],
+     "answer": 1,
+     "explain": "RAM is fast short-term memory; more RAM lets a laptop do more at once."
+    },
+    {
+     "q": "What is an SSD?",
+     "options": [
+      "A battery",
+      "A fast storage drive that keeps your files",
+      "A fan",
+      "A screen"
+     ],
+     "answer": 1,
+     "explain": "An SSD stores your files and programs, and is much faster than an old hard drive."
+    },
+    {
+     "q": "Why add more RAM to a slow laptop?",
+     "options": [
+      "It makes the screen brighter",
+      "It lets the laptop run more programs at once without slowing down",
+      "It charges faster",
+      "It makes it lighter"
+     ],
+     "answer": 1,
+     "explain": "More RAM stops the laptop swapping to slow storage when you open many programs."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Safety: Power Off and Static",
+   "goal": "Work safely: power off, unplug and beat static.",
+   "video": {
+    "youtube_id": "EWUt7SvVMMo",
+    "title": "EASY! How to Add More RAM to Laptop",
+    "channel": "Lifey Guy"
+   },
+   "steps": [
+    "Shut the laptop down fully, not sleep, and unplug the charger.",
+    "Remove the battery if you can.",
+    "Touch a metal object first to discharge static (the tiny shock that can kill chips).",
+    "Work on a hard table, not on carpet."
+   ],
+   "task": "Write your own five safety rules for laptop work.",
+   "challenge": "Open a laptop safely with no static damage.",
+   "quiz": [
+    {
+     "q": "What is RAM in a laptop?",
+     "options": [
+      "Storage for files",
+      "Short-term memory the laptop uses while working",
+      "The battery",
+      "The screen"
+     ],
+     "answer": 1,
+     "explain": "RAM is fast short-term memory; more RAM lets a laptop do more at once."
+    },
+    {
+     "q": "What is an SSD?",
+     "options": [
+      "A battery",
+      "A fast storage drive that keeps your files",
+      "A fan",
+      "A screen"
+     ],
+     "answer": 1,
+     "explain": "An SSD stores your files and programs, and is much faster than an old hard drive."
+    },
+    {
+     "q": "Why add more RAM to a slow laptop?",
+     "options": [
+      "It makes the screen brighter",
+      "It lets the laptop run more programs at once without slowing down",
+      "It charges faster",
+      "It makes it lighter"
+     ],
+     "answer": 1,
+     "explain": "More RAM stops the laptop swapping to slow storage when you open many programs."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Add More RAM",
+   "goal": "Add memory (RAM) so a slow laptop runs faster.",
+   "video": {
+    "youtube_id": "EWUt7SvVMMo",
+    "title": "EASY! How to Add More RAM to Laptop",
+    "channel": "Lifey Guy"
+   },
+   "steps": [
+    "Check how much RAM the laptop has and what type it needs.",
+    "Power off, unplug and open the bottom panel.",
+    "Find the RAM slot, line up the notch and push the stick in at an angle.",
+    "Press it down until the clips click, then close up and test."
+   ],
+   "task": "Add RAM to a laptop and check it shows up in settings.",
+   "challenge": "Add RAM in under 15 minutes.",
+   "quiz": [
+    {
+     "q": "What is RAM in a laptop?",
+     "options": [
+      "Storage for files",
+      "Short-term memory the laptop uses while working",
+      "The battery",
+      "The screen"
+     ],
+     "answer": 1,
+     "explain": "RAM is fast short-term memory; more RAM lets a laptop do more at once."
+    },
+    {
+     "q": "What is an SSD?",
+     "options": [
+      "A battery",
+      "A fast storage drive that keeps your files",
+      "A fan",
+      "A screen"
+     ],
+     "answer": 1,
+     "explain": "An SSD stores your files and programs, and is much faster than an old hard drive."
+    },
+    {
+     "q": "Why add more RAM to a slow laptop?",
+     "options": [
+      "It makes the screen brighter",
+      "It lets the laptop run more programs at once without slowing down",
+      "It charges faster",
+      "It makes it lighter"
+     ],
+     "answer": 1,
+     "explain": "More RAM stops the laptop swapping to slow storage when you open many programs."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Check RAM and Storage",
+   "goal": "Check how much memory and storage a laptop has.",
+   "video": {
+    "youtube_id": "F5tinUOqqCY",
+    "title": "How to Change Your Laptop Battery",
+    "channel": "TT-Hardware"
+   },
+   "steps": [
+    "Open Settings and find the RAM amount.",
+    "Check the storage: how much is used and how much is free.",
+    "Learn the difference: RAM is short-term memory, storage keeps your files.",
+    "Decide if the laptop needs more RAM or a bigger drive."
+   ],
+   "task": "Check RAM and storage on three laptops and record the results.",
+   "challenge": "Tell a RAM problem from a storage problem by the symptoms.",
+   "quiz": [
+    {
+     "q": "What should you do first when changing a laptop battery?",
+     "options": [
+      "Pry it out",
+      "Power off, unplug and open the panel",
+      "Charge it",
+      "Remove the screen"
+     ],
+     "answer": 1,
+     "explain": "Power off and unplug first, then open the laptop safely."
+    },
+    {
+     "q": "What is a sign of a swollen battery?",
+     "options": [
+      "Fast charging",
+      "Trackpad lifting or case bulging",
+      "Loud fan",
+      "Bright screen"
+     ],
+     "answer": 1,
+     "explain": "A swollen battery pushes the case and trackpad up from inside."
+    },
+    {
+     "q": "Why never poke a swollen battery?",
+     "options": [
+      "It is expensive",
+      "It can catch fire",
+      "It voids the warranty",
+      "It is heavy"
+     ],
+     "answer": 1,
+     "explain": "Puncturing a lithium battery can cause fire and toxic smoke."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Change a Laptop Battery",
+   "goal": "Replace a worn laptop battery safely.",
+   "video": {
+    "youtube_id": "F5tinUOqqCY",
+    "title": "How to Change Your Laptop Battery",
+    "channel": "TT-Hardware"
+   },
+   "steps": [
+    "Power off and unplug, then open the bottom panel.",
+    "Unplug the battery cable from the motherboard first.",
+    "Remove the screws holding the battery and lift it out.",
+    "Fit the new battery, plug it in and test charging."
+   ],
+   "task": "Replace a laptop battery in a practice laptop.",
+   "challenge": "Replace a battery without bending it.",
+   "quiz": [
+    {
+     "q": "What should you do first when changing a laptop battery?",
+     "options": [
+      "Pry it out",
+      "Power off, unplug and open the panel",
+      "Charge it",
+      "Remove the screen"
+     ],
+     "answer": 1,
+     "explain": "Power off and unplug first, then open the laptop safely."
+    },
+    {
+     "q": "What is a sign of a swollen battery?",
+     "options": [
+      "Fast charging",
+      "Trackpad lifting or case bulging",
+      "Loud fan",
+      "Bright screen"
+     ],
+     "answer": 1,
+     "explain": "A swollen battery pushes the case and trackpad up from inside."
+    },
+    {
+     "q": "Why never poke a swollen battery?",
+     "options": [
+      "It is expensive",
+      "It can catch fire",
+      "It voids the warranty",
+      "It is heavy"
+     ],
+     "answer": 1,
+     "explain": "Puncturing a lithium battery can cause fire and toxic smoke."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Battery Health and Swollen Batteries",
+   "goal": "Spot a bad battery and handle a swollen one safely.",
+   "video": {
+    "youtube_id": "F5tinUOqqCY",
+    "title": "How to Change Your Laptop Battery",
+    "channel": "TT-Hardware"
+   },
+   "steps": [
+    "Check battery health with a battery report.",
+    "Learn the signs: fast drain, trackpad lifting, case bulging.",
+    "A swollen battery is a fire risk: stop and handle it with care.",
+    "Never poke or bend a swollen battery."
+   ],
+   "task": "Run a battery report and explain what the numbers mean.",
+   "challenge": "Spot a swollen battery and explain the danger.",
+   "quiz": [
+    {
+     "q": "What should you do first when changing a laptop battery?",
+     "options": [
+      "Pry it out",
+      "Power off, unplug and open the panel",
+      "Charge it",
+      "Remove the screen"
+     ],
+     "answer": 1,
+     "explain": "Power off and unplug first, then open the laptop safely."
+    },
+    {
+     "q": "What is a sign of a swollen battery?",
+     "options": [
+      "Fast charging",
+      "Trackpad lifting or case bulging",
+      "Loud fan",
+      "Bright screen"
+     ],
+     "answer": 1,
+     "explain": "A swollen battery pushes the case and trackpad up from inside."
+    },
+    {
+     "q": "Why never poke a swollen battery?",
+     "options": [
+      "It is expensive",
+      "It can catch fire",
+      "It voids the warranty",
+      "It is heavy"
+     ],
+     "answer": 1,
+     "explain": "Puncturing a lithium battery can cause fire and toxic smoke."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Replace a Laptop Keyboard",
+   "goal": "Replace a faulty laptop keyboard from start to finish.",
+   "video": {
+    "youtube_id": "a9RhnHR7jPg",
+    "title": "How to Replace HP ProBook Keyboard",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Power off, unplug and remove the battery.",
+    "Open the bottom, unplug the keyboard cable.",
+    "Remove the old keyboard and fit the new one.",
+    "Reconnect, close up and test every key."
+   ],
+   "task": "Finish a laptop with a working new keyboard.",
+   "challenge": "Replace the keyboard with no leftover screws.",
+   "quiz": [
+    {
+     "q": "What should you unplug first inside a laptop?",
+     "options": [
+      "The screen",
+      "The battery",
+      "The keyboard",
+      "The fan"
+     ],
+     "answer": 1,
+     "explain": "Unplugging the battery first cuts all power to the board."
+    },
+    {
+     "q": "What is a ribbon cable latch?",
+     "options": [
+      "A lock on the case",
+      "A small clip that holds a flat cable in place",
+      "A screw",
+      "A battery clip"
+     ],
+     "answer": 1,
+     "explain": "Ribbon cables use a flip-up latch; lift it gently, never pull the cable."
+    },
+    {
+     "q": "Why test every key after a keyboard swap?",
+     "options": [
+      "For fun",
+      "To catch any key that does not work before you hand it back",
+      "To charge the battery",
+      "To clean the keys"
+     ],
+     "answer": 1,
+     "explain": "Testing every key catches a loose cable before the customer finds it."
+    }
+   ],
+   "project": {
+    "title": "Replace a Laptop Keyboard",
+    "brief": "Replace a faulty laptop keyboard from start to finish.",
+    "checks": [
+     "Laptop powered off and unplugged",
+     "Battery removed first",
+     "Keyboard cable handled gently",
+     "New keyboard fitted",
+     "Every key tested",
+     "No leftover screws"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Keyboard Cables and Clips",
+   "goal": "Handle the small ribbon cables that join the keyboard.",
+   "video": {
+    "youtube_id": "a9RhnHR7jPg",
+    "title": "How to Replace HP ProBook Keyboard",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Learn that keyboard cables use a flip-up latch, not force.",
+    "Lift the latch gently with a plastic tool.",
+    "Slide the cable out straight, never at an angle.",
+    "Slide the new cable in fully, then close the latch."
+   ],
+   "task": "Unplug and reconnect a keyboard cable without damage.",
+   "challenge": "Reconnect a cable first try with no bent pins.",
+   "quiz": [
+    {
+     "q": "What should you unplug first inside a laptop?",
+     "options": [
+      "The screen",
+      "The battery",
+      "The keyboard",
+      "The fan"
+     ],
+     "answer": 1,
+     "explain": "Unplugging the battery first cuts all power to the board."
+    },
+    {
+     "q": "What is a ribbon cable latch?",
+     "options": [
+      "A lock on the case",
+      "A small clip that holds a flat cable in place",
+      "A screw",
+      "A battery clip"
+     ],
+     "answer": 1,
+     "explain": "Ribbon cables use a flip-up latch; lift it gently, never pull the cable."
+    },
+    {
+     "q": "Why test every key after a keyboard swap?",
+     "options": [
+      "For fun",
+      "To catch any key that does not work before you hand it back",
+      "To charge the battery",
+      "To clean the keys"
+     ],
+     "answer": 1,
+     "explain": "Testing every key catches a loose cable before the customer finds it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Test Every Key",
+   "goal": "Test a keyboard fully after a repair.",
+   "video": {
+    "youtube_id": "a9RhnHR7jPg",
+    "title": "How to Replace HP ProBook Keyboard",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Open an online keyboard tester in the browser.",
+    "Press every key and watch it light up on screen.",
+    "Check the space bar, shift keys and function keys.",
+    "Fix any key that does not register by reseating its cable."
+   ],
+   "task": "Test a keyboard and record any key that fails.",
+   "challenge": "Find one dead key and fix it by reseating the cable.",
+   "quiz": [
+    {
+     "q": "What should you unplug first inside a laptop?",
+     "options": [
+      "The screen",
+      "The battery",
+      "The keyboard",
+      "The fan"
+     ],
+     "answer": 1,
+     "explain": "Unplugging the battery first cuts all power to the board."
+    },
+    {
+     "q": "What is a ribbon cable latch?",
+     "options": [
+      "A lock on the case",
+      "A small clip that holds a flat cable in place",
+      "A screw",
+      "A battery clip"
+     ],
+     "answer": 1,
+     "explain": "Ribbon cables use a flip-up latch; lift it gently, never pull the cable."
+    },
+    {
+     "q": "Why test every key after a keyboard swap?",
+     "options": [
+      "For fun",
+      "To catch any key that does not work before you hand it back",
+      "To charge the battery",
+      "To clean the keys"
+     ],
+     "answer": 1,
+     "explain": "Testing every key catches a loose cable before the customer finds it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Disassemble a Laptop Safely",
+   "goal": "Take a laptop apart in order and keep every screw safe.",
+   "video": {
+    "youtube_id": "WfUHmWtI3YM",
+    "title": "Asus Vivobook S15 S5507 Disassembly",
+    "channel": "Asus Accessories TV"
+   },
+   "steps": [
+    "Photograph the bottom before you remove any screw.",
+    "Remove screws in order and keep them sorted on your mat.",
+    "Pry the bottom panel gently with a plastic tool.",
+    "Never force a panel: a hidden screw is usually the cause."
+   ],
+   "task": "Take a laptop apart and put it back together working.",
+   "challenge": "Find a hidden screw instead of forcing a panel.",
+   "quiz": [
+    {
+     "q": "Why photograph the bottom before disassembly?",
+     "options": [
+      "For social media",
+      "So you know where every screw goes",
+      "It looks professional",
+      "To sell the laptop"
+     ],
+     "answer": 1,
+     "explain": "A photo shows the screw positions for reassembly."
+    },
+    {
+     "q": "What do you do if a panel will not come off?",
+     "options": [
+      "Force it",
+      "Look for a hidden screw under a foot or sticker",
+      "Hit it",
+      "Cut it"
+     ],
+     "answer": 1,
+     "explain": "A stuck panel usually means a hidden screw is still in place."
+    },
+    {
+     "q": "Where do laptop screws often hide?",
+     "options": [
+      "In the screen",
+      "Under rubber feet or stickers",
+      "In the battery",
+      "Under the keys"
+     ],
+     "answer": 1,
+     "explain": "Makers hide screws under feet and stickers to keep the bottom clean."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Find Parts Inside",
+   "goal": "Find the RAM, SSD, Wi-Fi card, fan and battery inside any laptop.",
+   "video": {
+    "youtube_id": "WfUHmWtI3YM",
+    "title": "Asus Vivobook S15 S5507 Disassembly",
+    "channel": "Asus Accessories TV"
+   },
+   "steps": [
+    "Open the laptop and point to each part.",
+    "Learn that the SSD is the storage drive and the Wi-Fi card is small with two wires.",
+    "Find the fan and the copper heat pipes that cool the processor.",
+    "Draw a map of the parts for that model."
+   ],
+   "task": "Draw a parts map for one laptop model.",
+   "challenge": "Find the SSD in any laptop in under a minute.",
+   "quiz": [
+    {
+     "q": "Why photograph the bottom before disassembly?",
+     "options": [
+      "For social media",
+      "So you know where every screw goes",
+      "It looks professional",
+      "To sell the laptop"
+     ],
+     "answer": 1,
+     "explain": "A photo shows the screw positions for reassembly."
+    },
+    {
+     "q": "What do you do if a panel will not come off?",
+     "options": [
+      "Force it",
+      "Look for a hidden screw under a foot or sticker",
+      "Hit it",
+      "Cut it"
+     ],
+     "answer": 1,
+     "explain": "A stuck panel usually means a hidden screw is still in place."
+    },
+    {
+     "q": "Where do laptop screws often hide?",
+     "options": [
+      "In the screen",
+      "Under rubber feet or stickers",
+      "In the battery",
+      "Under the keys"
+     ],
+     "answer": 1,
+     "explain": "Makers hide screws under feet and stickers to keep the bottom clean."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Clean Dust and Fans",
+   "goal": "Clean dust from fans and vents so a laptop runs cool.",
+   "video": {
+    "youtube_id": "WfUHmWtI3YM",
+    "title": "Asus Vivobook S15 S5507 Disassembly",
+    "channel": "Asus Accessories TV"
+   },
+   "steps": [
+    "Power off and open the laptop.",
+    "Hold the fan still with a toothpick so it cannot spin.",
+    "Blow dust out with short bursts of compressed air.",
+    "Clean the vents and close up, then check the temperature."
+   ],
+   "task": "Clean a dusty laptop and record the temperature drop.",
+   "challenge": "Clean a fan without breaking a blade.",
+   "quiz": [
+    {
+     "q": "Why photograph the bottom before disassembly?",
+     "options": [
+      "For social media",
+      "So you know where every screw goes",
+      "It looks professional",
+      "To sell the laptop"
+     ],
+     "answer": 1,
+     "explain": "A photo shows the screw positions for reassembly."
+    },
+    {
+     "q": "What do you do if a panel will not come off?",
+     "options": [
+      "Force it",
+      "Look for a hidden screw under a foot or sticker",
+      "Hit it",
+      "Cut it"
+     ],
+     "answer": 1,
+     "explain": "A stuck panel usually means a hidden screw is still in place."
+    },
+    {
+     "q": "Where do laptop screws often hide?",
+     "options": [
+      "In the screen",
+      "Under rubber feet or stickers",
+      "In the battery",
+      "Under the keys"
+     ],
+     "answer": 1,
+     "explain": "Makers hide screws under feet and stickers to keep the bottom clean."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Replace an ASUS Keyboard",
+   "goal": "Replace an ASUS laptop keyboard step by step.",
+   "video": {
+    "youtube_id": "FzoBcXVcyZ0",
+    "title": "How to Replace ASUS K55V Laptop Keyboard | Step-by-Step DIY Repair Guide",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Power off, remove the battery and the bottom cover.",
+    "Unplug the keyboard ribbon cable carefully.",
+    "Remove the old keyboard assembly.",
+    "Fit the new keyboard, reconnect and test every key."
+   ],
+   "task": "Replace an ASUS keyboard in a practice laptop.",
+   "challenge": "Replace the keyboard and keep every screw sorted.",
+   "quiz": [
+    {
+     "q": "What is thermal paste?",
+     "options": [
+      "Glue",
+      "A cream that moves heat from the chip to the cooler",
+      "Cleaning fluid",
+      "Paint"
+     ],
+     "answer": 1,
+     "explain": "Thermal paste fills tiny gaps so heat flows from the chip into the heatsink."
+    },
+    {
+     "q": "How much thermal paste should you use?",
+     "options": [
+      "A big blob",
+      "A rice-sized drop",
+      "None",
+      "A full tube"
+     ],
+     "answer": 1,
+     "explain": "A rice-sized drop spreads thin and even when the heatsink presses down."
+    },
+    {
+     "q": "Why replace old thermal paste?",
+     "options": [
+      "It looks dirty",
+      "It dries out and stops moving heat, so the laptop overheats",
+      "It smells",
+      "It is cheap"
+     ],
+     "answer": 1,
+     "explain": "Dried paste cannot transfer heat, so the processor gets hot and slows down."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Soldered Keyboards and Rivets",
+   "goal": "Know when a keyboard is glued or riveted in and what to do.",
+   "video": {
+    "youtube_id": "FzoBcXVcyZ0",
+    "title": "How to Replace ASUS K55V Laptop Keyboard | Step-by-Step DIY Repair Guide",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Some keyboards are held by melted plastic rivets, not screws.",
+    "Learn to cut the rivets carefully and replace them with small screws.",
+    "Work slowly: rushing breaks the keyboard frame.",
+    "Know when to tell a customer the job needs a full top case."
+   ],
+   "task": "Explain riveted keyboards to a customer in plain words.",
+   "challenge": "Remove a riveted keyboard without cracking the frame.",
+   "quiz": [
+    {
+     "q": "What is thermal paste?",
+     "options": [
+      "Glue",
+      "A cream that moves heat from the chip to the cooler",
+      "Cleaning fluid",
+      "Paint"
+     ],
+     "answer": 1,
+     "explain": "Thermal paste fills tiny gaps so heat flows from the chip into the heatsink."
+    },
+    {
+     "q": "How much thermal paste should you use?",
+     "options": [
+      "A big blob",
+      "A rice-sized drop",
+      "None",
+      "A full tube"
+     ],
+     "answer": 1,
+     "explain": "A rice-sized drop spreads thin and even when the heatsink presses down."
+    },
+    {
+     "q": "Why replace old thermal paste?",
+     "options": [
+      "It looks dirty",
+      "It dries out and stops moving heat, so the laptop overheats",
+      "It smells",
+      "It is cheap"
+     ],
+     "answer": 1,
+     "explain": "Dried paste cannot transfer heat, so the processor gets hot and slows down."
+    }
+   ],
+   "project": {
+    "title": "Full Keyboard Swap on a Practice Laptop",
+    "brief": "Do a complete keyboard replacement on a practice laptop.",
+    "checks": [
+     "Old keyboard fully removed",
+     "New keyboard fitted and connected",
+     "Every key tested and working",
+     "Cables seated correctly",
+     "Laptop closed up neatly",
+     "No leftover parts"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Project: Full Keyboard Swap on a Practice Laptop",
+   "goal": "Do a complete keyboard replacement on a practice laptop.",
+   "video": {
+    "youtube_id": "FzoBcXVcyZ0",
+    "title": "How to Replace ASUS K55V Laptop Keyboard | Step-by-Step DIY Repair Guide",
+    "channel": "HowFixit"
+   },
+   "steps": [
+    "Power off, open the laptop and unplug the battery.",
+    "Remove the old keyboard fully.",
+    "Fit the new keyboard and reconnect all cables.",
+    "Test every key and close the laptop up neatly."
+   ],
+   "task": "Finish a full keyboard swap with every key working.",
+   "challenge": "Complete the swap with no leftover parts.",
+   "quiz": [
+    {
+     "q": "What is thermal paste?",
+     "options": [
+      "Glue",
+      "A cream that moves heat from the chip to the cooler",
+      "Cleaning fluid",
+      "Paint"
+     ],
+     "answer": 1,
+     "explain": "Thermal paste fills tiny gaps so heat flows from the chip into the heatsink."
+    },
+    {
+     "q": "How much thermal paste should you use?",
+     "options": [
+      "A big blob",
+      "A rice-sized drop",
+      "None",
+      "A full tube"
+     ],
+     "answer": 1,
+     "explain": "A rice-sized drop spreads thin and even when the heatsink presses down."
+    },
+    {
+     "q": "Why replace old thermal paste?",
+     "options": [
+      "It looks dirty",
+      "It dries out and stops moving heat, so the laptop overheats",
+      "It smells",
+      "It is cheap"
+     ],
+     "answer": 1,
+     "explain": "Dried paste cannot transfer heat, so the processor gets hot and slows down."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Overheating: Why Laptops Get Hot",
+   "goal": "Learn why laptops overheat: dust, old paste and blocked vents.",
+   "video": {
+    "youtube_id": "nbm1_EjKOjA",
+    "title": "HP Victus – Complete Disassembly and Thermal Paste Replacement | How to Reduce Laptop Temperature",
+    "channel": "Laptop Repair Guide"
+   },
+   "steps": [
+    "Feel the vents: hot air should flow out freely.",
+    "Check the fan spins and is not clogged with dust.",
+    "Learn that thermal paste (a cream that moves heat from the chip to the cooler) dries out.",
+    "Check temperatures with a free monitoring app."
+   ],
+   "task": "Check the temperature of a laptop and explain if it is normal.",
+   "challenge": "Tell dust overheating from paste overheating by the signs.",
+   "quiz": [
+    {
+     "q": "What is the bezel of a laptop screen?",
+     "options": [
+      "The glass",
+      "The frame around the screen",
+      "The cable",
+      "The hinge"
+     ],
+     "answer": 1,
+     "explain": "The bezel is the plastic frame that holds the screen in the lid."
+    },
+    {
+     "q": "Why test a new screen before reassembly?",
+     "options": [
+      "To waste time",
+      "To catch a faulty screen before the laptop is sealed",
+      "To charge it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Testing first means you never seal a bad screen inside a laptop."
+    },
+    {
+     "q": "What is a dead pixel?",
+     "options": [
+      "A black key",
+      "A tiny dot on the screen that stays black or white",
+      "A broken speaker",
+      "A dead battery"
+     ],
+     "answer": 1,
+     "explain": "Dead pixels are tiny screen dots that never light up correctly."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Clean the Cooling System",
+   "goal": "Clean the heatsink and fan so a laptop cools properly.",
+   "video": {
+    "youtube_id": "nbm1_EjKOjA",
+    "title": "HP Victus – Complete Disassembly and Thermal Paste Replacement | How to Reduce Laptop Temperature",
+    "channel": "Laptop Repair Guide"
+   },
+   "steps": [
+    "Power off, open the laptop and unplug the battery.",
+    "Remove the fan and clean it with air and a soft brush.",
+    "Blow dust out of the heatsink fins (the thin metal slats).",
+    "Put it back together and check the temperature drops."
+   ],
+   "task": "Clean a cooling system and record the temperature before and after.",
+   "challenge": "Clean a heatsink without bending the fins.",
+   "quiz": [
+    {
+     "q": "What is the bezel of a laptop screen?",
+     "options": [
+      "The glass",
+      "The frame around the screen",
+      "The cable",
+      "The hinge"
+     ],
+     "answer": 1,
+     "explain": "The bezel is the plastic frame that holds the screen in the lid."
+    },
+    {
+     "q": "Why test a new screen before reassembly?",
+     "options": [
+      "To waste time",
+      "To catch a faulty screen before the laptop is sealed",
+      "To charge it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Testing first means you never seal a bad screen inside a laptop."
+    },
+    {
+     "q": "What is a dead pixel?",
+     "options": [
+      "A black key",
+      "A tiny dot on the screen that stays black or white",
+      "A broken speaker",
+      "A dead battery"
+     ],
+     "answer": 1,
+     "explain": "Dead pixels are tiny screen dots that never light up correctly."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Replace Thermal Paste",
+   "goal": "Replace dried-out thermal paste on the processor.",
+   "video": {
+    "youtube_id": "nbm1_EjKOjA",
+    "title": "HP Victus – Complete Disassembly and Thermal Paste Replacement | How to Reduce Laptop Temperature",
+    "channel": "Laptop Repair Guide"
+   },
+   "steps": [
+    "Remove the heatsink screws in the numbered order.",
+    "Lift the heatsink off gently.",
+    "Clean off the old paste with alcohol and a cloth.",
+    "Put a rice-sized drop of new paste on the chip and refit the heatsink."
+   ],
+   "task": "Replace thermal paste and check the temperature drops.",
+   "challenge": "Apply the right amount of paste: not too much, not too little.",
+   "quiz": [
+    {
+     "q": "What is the bezel of a laptop screen?",
+     "options": [
+      "The glass",
+      "The frame around the screen",
+      "The cable",
+      "The hinge"
+     ],
+     "answer": 1,
+     "explain": "The bezel is the plastic frame that holds the screen in the lid."
+    },
+    {
+     "q": "Why test a new screen before reassembly?",
+     "options": [
+      "To waste time",
+      "To catch a faulty screen before the laptop is sealed",
+      "To charge it",
+      "To clean it"
+     ],
+     "answer": 1,
+     "explain": "Testing first means you never seal a bad screen inside a laptop."
+    },
+    {
+     "q": "What is a dead pixel?",
+     "options": [
+      "A black key",
+      "A tiny dot on the screen that stays black or white",
+      "A broken speaker",
+      "A dead battery"
+     ],
+     "answer": 1,
+     "explain": "Dead pixels are tiny screen dots that never light up correctly."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Replace a Laptop Screen",
+   "goal": "Replace a cracked laptop screen step by step.",
+   "video": {
+    "youtube_id": "ndQHJlT46JQ",
+    "title": "How to Replace a Broken Laptop Screen",
+    "channel": "TechRepublic"
+   },
+   "steps": [
+    "Power off, unplug and remove the battery.",
+    "Remove the bezel (the frame around the screen) with a plastic tool.",
+    "Unscrew the screen, unplug its cable and lift it out.",
+    "Fit the new screen, plug it in, test it, then refit the bezel."
+   ],
+   "task": "Replace a laptop screen in a practice laptop.",
+   "challenge": "Replace the screen with no damage to the bezel clips.",
+   "quiz": [
+    {
+     "q": "What is the first check for a keyboard that does not work?",
+     "options": [
+      "Replace it",
+      "Test it in the BIOS startup screen",
+      "Buy a new laptop",
+      "Clean it with water"
+     ],
+     "answer": 1,
+     "explain": "If keys work in BIOS, the fault is software; if not, it is hardware."
+    },
+    {
+     "q": "How do you fix one broken laptop key?",
+     "options": [
+      "Replace the whole keyboard",
+      "Lift the key cap, check the clip, clean and reseat it",
+      "Hit it hard",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Most single-key faults are a dirty or unseated key cap and clip."
+    },
+    {
+     "q": "What is a scissor clip under a key?",
+     "options": [
+      "A tool",
+      "The small folding clip that holds the key cap",
+      "A wire",
+      "A spring"
+     ],
+     "answer": 1,
+     "explain": "The scissor clip is the tiny folding part that lets the key press down."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Test a New Screen",
+   "goal": "Test a new screen before you finish the job.",
+   "video": {
+    "youtube_id": "ndQHJlT46JQ",
+    "title": "How to Replace a Broken Laptop Screen",
+    "channel": "TechRepublic"
+   },
+   "steps": [
+    "Connect the new screen loosely and power on.",
+    "Check for dead pixels (tiny dots that stay black or white).",
+    "Check brightness, colours and the webcam.",
+    "Only then screw everything back together."
+   ],
+   "task": "Test a new screen fully before sealing the laptop.",
+   "challenge": "Catch a faulty new screen before the laptop is closed.",
+   "quiz": [
+    {
+     "q": "What is the first check for a keyboard that does not work?",
+     "options": [
+      "Replace it",
+      "Test it in the BIOS startup screen",
+      "Buy a new laptop",
+      "Clean it with water"
+     ],
+     "answer": 1,
+     "explain": "If keys work in BIOS, the fault is software; if not, it is hardware."
+    },
+    {
+     "q": "How do you fix one broken laptop key?",
+     "options": [
+      "Replace the whole keyboard",
+      "Lift the key cap, check the clip, clean and reseat it",
+      "Hit it hard",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Most single-key faults are a dirty or unseated key cap and clip."
+    },
+    {
+     "q": "What is a scissor clip under a key?",
+     "options": [
+      "A tool",
+      "The small folding clip that holds the key cap",
+      "A wire",
+      "A spring"
+     ],
+     "answer": 1,
+     "explain": "The scissor clip is the tiny folding part that lets the key press down."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Project: Replace a Laptop Screen",
+   "goal": "Replace a cracked screen from start to finish.",
+   "video": {
+    "youtube_id": "ndQHJlT46JQ",
+    "title": "How to Replace a Broken Laptop Screen",
+    "channel": "TechRepublic"
+   },
+   "steps": [
+    "Power off, open the laptop and unplug the battery.",
+    "Remove the bezel and the broken screen.",
+    "Fit the new screen and test it before reassembly.",
+    "Refit the bezel and test again."
+   ],
+   "task": "Finish a laptop with a working new screen.",
+   "challenge": "Replace the screen with no leftover screws.",
+   "quiz": [
+    {
+     "q": "What is the first check for a keyboard that does not work?",
+     "options": [
+      "Replace it",
+      "Test it in the BIOS startup screen",
+      "Buy a new laptop",
+      "Clean it with water"
+     ],
+     "answer": 1,
+     "explain": "If keys work in BIOS, the fault is software; if not, it is hardware."
+    },
+    {
+     "q": "How do you fix one broken laptop key?",
+     "options": [
+      "Replace the whole keyboard",
+      "Lift the key cap, check the clip, clean and reseat it",
+      "Hit it hard",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Most single-key faults are a dirty or unseated key cap and clip."
+    },
+    {
+     "q": "What is a scissor clip under a key?",
+     "options": [
+      "A tool",
+      "The small folding clip that holds the key cap",
+      "A wire",
+      "A spring"
+     ],
+     "answer": 1,
+     "explain": "The scissor clip is the tiny folding part that lets the key press down."
+    }
+   ],
+   "project": {
+    "title": "Replace a Laptop Screen",
+    "brief": "Replace a cracked laptop screen from start to finish.",
+    "checks": [
+     "Battery unplugged first",
+     "Bezel removed without breaking clips",
+     "New screen tested before reassembly",
+     "Display clear with no dead pixels",
+     "Bezel refitted neatly",
+     "Laptop boots and works"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Fix a Single Broken Key",
+   "goal": "Fix one broken laptop key without replacing the whole keyboard.",
+   "video": {
+    "youtube_id": "QCYOiK9QP08",
+    "title": "How to Repair a Laptop Key",
+    "channel": "wikiHow"
+   },
+   "steps": [
+    "Pry the key cap off gently with a plastic tool.",
+    "Check the small scissor clip underneath is not broken.",
+    "Clean under the key and reseat the cap.",
+    "Replace just the key cap if the clip is fine."
+   ],
+   "task": "Fix one broken key so it types normally.",
+   "challenge": "Fix a key without breaking its clip.",
+   "quiz": [
+    {
+     "q": "What is the first check for a laptop that will not turn on?",
+     "options": [
+      "Replace the screen",
+      "Check the charger and charging light",
+      "Replace the battery",
+      "Open the board"
+     ],
+     "answer": 1,
+     "explain": "A dead charger is the most common cause of a no-start laptop."
+    },
+    {
+     "q": "What does the external monitor test prove?",
+     "options": [
+      "The battery is bad",
+      "Whether a black screen is the screen or the board",
+      "The Wi-Fi works",
+      "The RAM is bad"
+     ],
+     "answer": 1,
+     "explain": "A picture on a TV means the board works and the laptop screen is faulty."
+    },
+    {
+     "q": "Why reseat the RAM on a laptop that will not start?",
+     "options": [
+      "It is fun",
+      "Loose memory can stop a laptop from starting",
+      "It charges the battery",
+      "It cleans the fan"
+     ],
+     "answer": 1,
+     "explain": "RAM that is not seated properly stops the laptop completing startup."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Keyboard Not Working: Software First",
+   "goal": "Check software before you blame the keyboard hardware.",
+   "video": {
+    "youtube_id": "QCYOiK9QP08",
+    "title": "How to Repair a Laptop Key",
+    "channel": "wikiHow"
+   },
+   "steps": [
+    "Test the keyboard in the BIOS (the startup screen) first.",
+    "If it works there, the fault is software: reinstall the driver.",
+    "Check the Filter Keys setting is off.",
+    "Try an external USB keyboard to prove the laptop still works."
+   ],
+   "task": "Prove a keyboard fault is software, not hardware.",
+   "challenge": "Fix a keyboard by reinstalling its driver.",
+   "quiz": [
+    {
+     "q": "What is the first check for a laptop that will not turn on?",
+     "options": [
+      "Replace the screen",
+      "Check the charger and charging light",
+      "Replace the battery",
+      "Open the board"
+     ],
+     "answer": 1,
+     "explain": "A dead charger is the most common cause of a no-start laptop."
+    },
+    {
+     "q": "What does the external monitor test prove?",
+     "options": [
+      "The battery is bad",
+      "Whether a black screen is the screen or the board",
+      "The Wi-Fi works",
+      "The RAM is bad"
+     ],
+     "answer": 1,
+     "explain": "A picture on a TV means the board works and the laptop screen is faulty."
+    },
+    {
+     "q": "Why reseat the RAM on a laptop that will not start?",
+     "options": [
+      "It is fun",
+      "Loose memory can stop a laptop from starting",
+      "It charges the battery",
+      "It cleans the fan"
+     ],
+     "answer": 1,
+     "explain": "RAM that is not seated properly stops the laptop completing startup."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Touchpad Problems",
+   "goal": "Fix a touchpad that does not respond.",
+   "video": {
+    "youtube_id": "QCYOiK9QP08",
+    "title": "How to Repair a Laptop Key",
+    "channel": "wikiHow"
+   },
+   "steps": [
+    "Check the touchpad is switched on with its function key.",
+    "Reinstall the touchpad driver.",
+    "Clean the touchpad surface.",
+    "Test with an external mouse to prove the laptop works."
+   ],
+   "task": "Fix a touchpad that does not respond.",
+   "challenge": "Tell a driver fault from a hardware fault.",
+   "quiz": [
+    {
+     "q": "What is the first check for a laptop that will not turn on?",
+     "options": [
+      "Replace the screen",
+      "Check the charger and charging light",
+      "Replace the battery",
+      "Open the board"
+     ],
+     "answer": 1,
+     "explain": "A dead charger is the most common cause of a no-start laptop."
+    },
+    {
+     "q": "What does the external monitor test prove?",
+     "options": [
+      "The battery is bad",
+      "Whether a black screen is the screen or the board",
+      "The Wi-Fi works",
+      "The RAM is bad"
+     ],
+     "answer": 1,
+     "explain": "A picture on a TV means the board works and the laptop screen is faulty."
+    },
+    {
+     "q": "Why reseat the RAM on a laptop that will not start?",
+     "options": [
+      "It is fun",
+      "Loose memory can stop a laptop from starting",
+      "It charges the battery",
+      "It cleans the fan"
+     ],
+     "answer": 1,
+     "explain": "RAM that is not seated properly stops the laptop completing startup."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Laptop Will Not Turn On",
+   "goal": "Diagnose a laptop that will not start.",
+   "video": {
+    "youtube_id": "uL3cpIhpYBg",
+    "title": "Dell Laptop Not Turning On Diagnosis",
+    "channel": "LAPTex"
+   },
+   "steps": [
+    "Check the charger and the charging light first.",
+    "Hold the power button for 15 seconds to drain leftover power.",
+    "Test with the battery removed, charger only.",
+    "Reseat the RAM: loose memory stops a laptop starting."
+   ],
+   "task": "Diagnose a laptop that will not turn on.",
+   "challenge": "Find the cause of a no-start laptop in ten minutes.",
+   "quiz": [
+    {
+     "q": "Why back up files before swapping a drive?",
+     "options": [
+      "It is the law",
+      "So no files are lost if the swap goes wrong",
+      "It makes it faster",
+      "It cleans the drive"
+     ],
+     "answer": 1,
+     "explain": "A backup means your files survive even if the new drive fails."
+    },
+    {
+     "q": "What is cloning a drive?",
+     "options": [
+      "Copying the whole old drive onto the new one",
+      "Making two laptops",
+      "Deleting files",
+      "Charging the battery"
+     ],
+     "answer": 1,
+     "explain": "Cloning copies everything, so the new drive works exactly like the old one."
+    },
+    {
+     "q": "Why is an SSD faster than a hard drive?",
+     "options": [
+      "It is bigger",
+      "It has no moving parts and reads data instantly",
+      "It uses more power",
+      "It is newer"
+     ],
+     "answer": 1,
+     "explain": "SSDs read data with no moving parts, so they are far faster than spinning disks."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "External Monitor Test",
+   "goal": "Use a TV or monitor to test if a black screen is the screen or the board.",
+   "video": {
+    "youtube_id": "uL3cpIhpYBg",
+    "title": "Dell Laptop Not Turning On Diagnosis",
+    "channel": "LAPTex"
+   },
+   "steps": [
+    "Plug the laptop into a TV with an HDMI cable.",
+    "If the TV shows a picture, the laptop screen or cable is faulty.",
+    "If the TV stays black, the fault is deeper: RAM or board.",
+    "Press the display switch keys to send the picture out."
+   ],
+   "task": "Use an external monitor to prove where a black-screen fault is.",
+   "challenge": "Tell a screen fault from a board fault with one test.",
+   "quiz": [
+    {
+     "q": "Why back up files before swapping a drive?",
+     "options": [
+      "It is the law",
+      "So no files are lost if the swap goes wrong",
+      "It makes it faster",
+      "It cleans the drive"
+     ],
+     "answer": 1,
+     "explain": "A backup means your files survive even if the new drive fails."
+    },
+    {
+     "q": "What is cloning a drive?",
+     "options": [
+      "Copying the whole old drive onto the new one",
+      "Making two laptops",
+      "Deleting files",
+      "Charging the battery"
+     ],
+     "answer": 1,
+     "explain": "Cloning copies everything, so the new drive works exactly like the old one."
+    },
+    {
+     "q": "Why is an SSD faster than a hard drive?",
+     "options": [
+      "It is bigger",
+      "It has no moving parts and reads data instantly",
+      "It uses more power",
+      "It is newer"
+     ],
+     "answer": 1,
+     "explain": "SSDs read data with no moving parts, so they are far faster than spinning disks."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Upgrade Storage to SSD",
+   "goal": "Swap a slow hard drive for a fast SSD.",
+   "video": {
+    "youtube_id": "uL3cpIhpYBg",
+    "title": "Dell Laptop Not Turning On Diagnosis",
+    "channel": "LAPTex"
+   },
+   "steps": [
+    "Back up all files first.",
+    "Clone the old drive to the new SSD, or install Windows fresh.",
+    "Swap the drives and screw the SSD in.",
+    "Boot up and enjoy the faster laptop."
+   ],
+   "task": "Upgrade a laptop from hard drive to SSD.",
+   "challenge": "Clone a drive so no files are lost.",
+   "quiz": [
+    {
+     "q": "Why back up files before swapping a drive?",
+     "options": [
+      "It is the law",
+      "So no files are lost if the swap goes wrong",
+      "It makes it faster",
+      "It cleans the drive"
+     ],
+     "answer": 1,
+     "explain": "A backup means your files survive even if the new drive fails."
+    },
+    {
+     "q": "What is cloning a drive?",
+     "options": [
+      "Copying the whole old drive onto the new one",
+      "Making two laptops",
+      "Deleting files",
+      "Charging the battery"
+     ],
+     "answer": 1,
+     "explain": "Cloning copies everything, so the new drive works exactly like the old one."
+    },
+    {
+     "q": "Why is an SSD faster than a hard drive?",
+     "options": [
+      "It is bigger",
+      "It has no moving parts and reads data instantly",
+      "It uses more power",
+      "It is newer"
+     ],
+     "answer": 1,
+     "explain": "SSDs read data with no moving parts, so they are far faster than spinning disks."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Install Windows Fresh",
+   "goal": "Install Windows on a new drive from a USB stick.",
+   "video": {
+    "youtube_id": "mog6T9Rd93I",
+    "title": "A Framework For A Repairable Future",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Make a Windows USB installer on another computer.",
+    "Boot the laptop from the USB stick.",
+    "Follow the setup screens and pick the right drive.",
+    "Install drivers from the maker website after setup."
+   ],
+   "task": "Install Windows fresh on a practice laptop.",
+   "challenge": "Install Windows and all drivers with no errors.",
+   "quiz": [
+    {
+     "q": "What is a repairable laptop?",
+     "options": [
+      "A cheap laptop",
+      "A laptop designed so parts like screen, battery and keyboard can be replaced easily",
+      "A laptop with no screws",
+      "A laptop that never breaks"
+     ],
+     "answer": 1,
+     "explain": "Repairable laptops use standard screws and replaceable parts instead of glue and solder."
+    },
+    {
+     "q": "Why is right to repair important?",
+     "options": [
+      "It makes laptops cheaper",
+      "It lets owners fix their own laptops instead of buying new ones",
+      "It makes laptops faster",
+      "It is the law everywhere"
+     ],
+     "answer": 1,
+     "explain": "Right to repair means parts and guides are available so laptops last longer."
+    },
+    {
+     "q": "What should you check before buying a used laptop to repair?",
+     "options": [
+      "The colour",
+      "That parts are available and the model can be opened",
+      "The brand only",
+      "The weight"
+     ],
+     "answer": 1,
+     "explain": "A laptop you cannot open or find parts for is hard to repair."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone repair, order the part and plan the day.",
+   "video": {
+    "youtube_id": "mog6T9Rd93I",
+    "title": "A Framework For A Repairable Future",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Pick a laptop with a real fault to fix for a real person.",
+    "Order the exact part for that laptop model.",
+    "Write a step-by-step plan with testing at each stage.",
+    "Tell the owner the price and time before you start."
+   ],
+   "task": "Have the part ordered and the repair plan written.",
+   "challenge": "Plan a capstone repair that uses screen, keyboard or storage skills.",
+   "quiz": [
+    {
+     "q": "What is a repairable laptop?",
+     "options": [
+      "A cheap laptop",
+      "A laptop designed so parts like screen, battery and keyboard can be replaced easily",
+      "A laptop with no screws",
+      "A laptop that never breaks"
+     ],
+     "answer": 1,
+     "explain": "Repairable laptops use standard screws and replaceable parts instead of glue and solder."
+    },
+    {
+     "q": "Why is right to repair important?",
+     "options": [
+      "It makes laptops cheaper",
+      "It lets owners fix their own laptops instead of buying new ones",
+      "It makes laptops faster",
+      "It is the law everywhere"
+     ],
+     "answer": 1,
+     "explain": "Right to repair means parts and guides are available so laptops last longer."
+    },
+    {
+     "q": "What should you check before buying a used laptop to repair?",
+     "options": [
+      "The colour",
+      "That parts are available and the model can be opened",
+      "The brand only",
+      "The weight"
+     ],
+     "answer": 1,
+     "explain": "A laptop you cannot open or find parts for is hard to repair."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Repair a Real Laptop",
+   "goal": "Repair a real laptop for a real person and hand it back working.",
+   "video": {
+    "youtube_id": "mog6T9Rd93I",
+    "title": "A Framework For A Repairable Future",
+    "channel": "iFixit"
+   },
+   "steps": [
+    "Repair the laptop following your plan, testing as you go.",
+    "Test screen, keyboard, battery, storage and Wi-Fi.",
+    "Clean the laptop inside and out.",
+    "Hand it back with your price list and warranty note."
+   ],
+   "task": "Hand back a repaired laptop with all functions working.",
+   "challenge": "Finish the repair with time left for a full test.",
+   "quiz": [
+    {
+     "q": "What is a repairable laptop?",
+     "options": [
+      "A cheap laptop",
+      "A laptop designed so parts like screen, battery and keyboard can be replaced easily",
+      "A laptop with no screws",
+      "A laptop that never breaks"
+     ],
+     "answer": 1,
+     "explain": "Repairable laptops use standard screws and replaceable parts instead of glue and solder."
+    },
+    {
+     "q": "Why is right to repair important?",
+     "options": [
+      "It makes laptops cheaper",
+      "It lets owners fix their own laptops instead of buying new ones",
+      "It makes laptops faster",
+      "It is the law everywhere"
+     ],
+     "answer": 1,
+     "explain": "Right to repair means parts and guides are available so laptops last longer."
+    },
+    {
+     "q": "What should you check before buying a used laptop to repair?",
+     "options": [
+      "The colour",
+      "That parts are available and the model can be opened",
+      "The brand only",
+      "The weight"
+     ],
+     "answer": 1,
+     "explain": "A laptop you cannot open or find parts for is hard to repair."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Repair a Real Laptop",
+  "brief": "Repair a real laptop for a real person — screen, keyboard, battery or storage fault — test every function and hand it back working with a warranty note.",
+  "checks": [
+   "Fault diagnosed correctly before opening",
+   "Right part ordered for the exact laptop model",
+   "Repair done with no damage to cables or parts",
+   "Screen, keyboard, battery, storage and Wi-Fi all tested",
+   "Laptop cleaned inside and out",
+   "Owner shown the fix and how to care for the laptop",
+   "Price list and warranty note handed over"
+  ],
+  "deliverables": [
+   "Repaired laptop, all functions working",
+   "Fault diagnosis sheet",
+   "Receipt with parts, time and price",
+   "Warranty note for the repair",
+   "Before and after photos"
+  ]
+ }
+}

@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "restaurant-management",
+    "title": "Restaurant Management",
+    "level": "Beginner to intermediate",
+    "tagline": "Run a small restaurant: menus, staff, costs and customers, without the chaos.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Does a Restaurant Manager Do?",
+      "goal": "Know the job of a restaurant manager.",
+      "video": {
+        "youtube_id": "hyqsHO9-n7Q",
+        "title": "How to Open a Restaurant or Hotel (Step-by-Step) | Complete Business Guide for Beginners 2026",
+        "channel": "BNR Universe"
+      },
+      "steps": [
+        "A manager runs the restaurant day to day.",
+        "The job covers money, staff, food, and customers.",
+        "A good manager plans ahead, not just reacts.",
+        "You need to know your numbers: sales, costs, and profit.",
+        "You need to lead people, not just give orders."
+      ],
+      "task": "Write down the five jobs of a manager: money, staff, food, customers, and planning.",
+      "challenge": "Visit a restaurant and watch how the manager works.",
+      "quiz": [
+        {
+          "q": "What does a restaurant manager do?",
+          "options": [
+            "Cook only",
+            "Run the restaurant day to day: money, staff, food, and customers",
+            "Serve food only",
+            "Clean only"
+          ],
+          "answer": 1,
+          "explain": "A manager runs everything: money, staff, food, and customers."
+        },
+        {
+          "q": "Why must a manager plan ahead?",
+          "options": [
+            "It is polite",
+            "Planning stops problems before they happen",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Planning ahead stops stock-outs, staff gaps, and unhappy customers."
+        },
+        {
+          "q": "What numbers must a manager know?",
+          "options": [
+            "Only sales",
+            "Sales, costs, and profit",
+            "Only costs",
+            "Only profit"
+          ],
+          "answer": 1,
+          "explain": "Sales, costs, and profit tell you if the restaurant is healthy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your Restaurant Idea: Concept and Customers",
+      "goal": "Pick a restaurant idea and know your customers.",
+      "video": {
+        "youtube_id": "nvwxsrJzAQQ",
+        "title": "How to EASILY Use Restaurant SOPs (Step-by-Step Guide) | DAY 69",
+        "channel": "Uncle Menu"
+      },
+      "steps": [
+        "A concept is the idea of your restaurant: what food, what style, what price.",
+        "Pick food you can cook well and people want to buy.",
+        "Know your customers: who they are and what they can pay.",
+        "Look at other restaurants near you. What do they do well?",
+        "Write your concept in one short paragraph."
+      ],
+      "task": "Write your restaurant concept in one paragraph.",
+      "challenge": "List three restaurants near you and what they do well.",
+      "quiz": [
+        {
+          "q": "What is a restaurant concept?",
+          "options": [
+            "A menu",
+            "The idea: what food, what style, what price",
+            "A building",
+            "A name"
+          ],
+          "answer": 1,
+          "explain": "A concept is the whole idea of the restaurant."
+        },
+        {
+          "q": "Why know your customers?",
+          "options": [
+            "To be polite",
+            "So you cook food they want at a price they can pay",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Knowing customers helps you pick the right food and price."
+        },
+        {
+          "q": "Why look at other restaurants?",
+          "options": [
+            "To copy them",
+            "To learn what works and find your own gap",
+            "To show off",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Other restaurants show you what works and where you can be different."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Business Plan: The Simple Version",
+      "goal": "Write a simple business plan for a small restaurant.",
+      "video": {
+        "youtube_id": "XaBTMeK6_Mg",
+        "title": "Toast POS System Tutorial for Beginners",
+        "channel": "Toast"
+      },
+      "steps": [
+        "A business plan is a written plan for your restaurant.",
+        "It covers your idea, your customers, your menu, and your money.",
+        "List your start-up costs: rent, equipment, stock, and licences.",
+        "Work out how much you must sell each day to cover costs.",
+        "Keep it short and clear. One or two pages is enough to start."
+      ],
+      "task": "Write a one-page business plan for a small restaurant.",
+      "challenge": "List your start-up costs with real prices.",
+      "quiz": [
+        {
+          "q": "What is a business plan?",
+          "options": [
+            "A menu",
+            "A written plan for your restaurant: idea, customers, menu, and money",
+            "A recipe",
+            "A photo"
+          ],
+          "answer": 1,
+          "explain": "A business plan writes down your idea, customers, menu, and money."
+        },
+        {
+          "q": "What are start-up costs?",
+          "options": [
+            "Daily costs",
+            "Money you spend once to open: rent, equipment, stock, licences",
+            "Only rent",
+            "Only food"
+          ],
+          "answer": 1,
+          "explain": "Start-up costs are the one-time costs of opening."
+        },
+        {
+          "q": "Why work out daily sales needed?",
+          "options": [
+            "To show off",
+            "So you know if the restaurant can pay its bills",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Knowing the sales you need tells you if the plan can work."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Food Cost: The Most Important Number",
+      "goal": "Work out food cost and food cost percentage.",
+      "video": {
+        "youtube_id": "BbyOs7Pdw9I",
+        "title": "Restaurant — Recipe, Food Cost and Kitchen Stock",
+        "channel": "The Ray"
+      },
+      "steps": [
+        "Food cost is what the ingredients for a dish cost you.",
+        "Food cost percentage is food cost divided by the selling price, times 100.",
+        "Example: a dish costs ₦1,000 to make and sells for ₦3,000. Food cost is 33 percent.",
+        "Most restaurants aim for 28 to 35 percent.",
+        "If food cost is too high, you lose money on every plate."
+      ],
+      "task": "Cost one dish and work out its food cost percentage.",
+      "challenge": "Cost three dishes from a menu and compare.",
+      "quiz": [
+        {
+          "q": "What is food cost?",
+          "options": [
+            "The menu price",
+            "What the ingredients for a dish cost you",
+            "The gas cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Food cost is the cost of the ingredients in one dish."
+        },
+        {
+          "q": "How do you work out food cost percentage?",
+          "options": [
+            "Food cost times price",
+            "Food cost divided by selling price, times 100",
+            "Price minus food cost",
+            "Food cost plus price"
+          ],
+          "answer": 1,
+          "explain": "Food cost divided by the selling price, times 100, gives the percentage."
+        },
+        {
+          "q": "What is a good food cost percentage?",
+          "options": [
+            "10 percent",
+            "28 to 35 percent",
+            "60 percent",
+            "90 percent"
+          ],
+          "answer": 1,
+          "explain": "Most restaurants aim for 28 to 35 percent."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Menu Pricing: Set Prices That Make Money",
+      "goal": "Price a menu using food cost.",
+      "video": {
+        "youtube_id": "fEKyJyYbywM",
+        "title": "Recipe for Restaurant Profits",
+        "channel": "Institute of Culinary Education (ICE)"
+      },
+      "steps": [
+        "Price equals food cost divided by the food cost percentage you want.",
+        "Example: food cost ₦1,000, target 30 percent. Price is ₦1,000 divided by 0.30, which is about ₦3,333.",
+        "Round to a clean price, like ₦3,500.",
+        "Check what other restaurants charge for the same dish.",
+        "Do not price too low. Low prices can mean no profit."
+      ],
+      "task": "Price five dishes using the food cost method.",
+      "challenge": "Compare your prices with a restaurant near you.",
+      "quiz": [
+        {
+          "q": "How do you set a price from food cost?",
+          "options": [
+            "Guess",
+            "Food cost divided by the food cost percentage you want",
+            "Food cost times two",
+            "Copy others"
+          ],
+          "answer": 1,
+          "explain": "Price equals food cost divided by your target food cost percentage."
+        },
+        {
+          "q": "Why round to a clean price?",
+          "options": [
+            "It looks nice",
+            "Clean prices are easier for customers and staff",
+            "It is a rule",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "Clean prices like ₦3,500 are easy to remember and pay."
+        },
+        {
+          "q": "Why not price too low?",
+          "options": [
+            "It looks cheap",
+            "Low prices can mean no profit",
+            "It is a rule",
+            "Customers dislike it"
+          ],
+          "answer": 1,
+          "explain": "Prices that are too low may not cover your costs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Menu Design: What Sells",
+      "goal": "Design a menu that helps customers choose and helps you earn.",
+      "video": {
+        "youtube_id": "OAGDylaxR0c",
+        "title": "Restaurant Menu Pricing: How to Increase Profit",
+        "channel": "Owner.com"
+      },
+      "steps": [
+        "Keep the menu short. Ten to fifteen dishes are enough.",
+        "Put your most profitable dishes where eyes go first: the top and the middle.",
+        "Use clear names and short descriptions.",
+        "Mark your best sellers with a star or a note.",
+        "Remove dishes that never sell. They waste stock and time."
+      ],
+      "task": "Design a menu of 12 dishes.",
+      "challenge": "Mark your three most profitable dishes on it.",
+      "quiz": [
+        {
+          "q": "How many dishes should a small menu have?",
+          "options": [
+            "50",
+            "Ten to fifteen",
+            "5",
+            "100"
+          ],
+          "answer": 1,
+          "explain": "Ten to fifteen dishes are enough for a small restaurant."
+        },
+        {
+          "q": "Where do eyes go first on a menu?",
+          "options": [
+            "The bottom",
+            "The top and the middle",
+            "The back",
+            "The left only"
+          ],
+          "answer": 1,
+          "explain": "Eyes go to the top and middle first. Put profitable dishes there."
+        },
+        {
+          "q": "Why remove dishes that never sell?",
+          "options": [
+            "They taste bad",
+            "They waste stock and time",
+            "They are expensive",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Slow dishes tie up stock and kitchen time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Restaurant Plan",
+      "goal": "Write a full plan for a small restaurant.",
+      "video": {
+        "youtube_id": "CMGYiLGJnko",
+        "title": "Restaurant Menu Pricing Without Guessing",
+        "channel": "TillPost"
+      },
+      "steps": [
+        "Write your concept in one paragraph.",
+        "Design a menu of 12 dishes with prices.",
+        "Cost three dishes and work out their food cost percentage.",
+        "Write your start-up costs and daily sales target.",
+        "Show the plan to a friend and ask for honest feedback."
+      ],
+      "task": "Write a full one-page restaurant plan.",
+      "challenge": "Cost three dishes and price the menu.",
+      "quiz": [
+        {
+          "q": "What should a restaurant plan include?",
+          "options": [
+            "Only a menu",
+            "Concept, menu, prices, costs, and sales target",
+            "Only prices",
+            "Only a name"
+          ],
+          "answer": 1,
+          "explain": "A plan covers concept, menu, prices, costs, and sales target."
+        },
+        {
+          "q": "Why cost dishes before you open?",
+          "options": [
+            "To show off",
+            "So you know your prices make a profit",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing before you open stops you selling at a loss."
+        },
+        {
+          "q": "Why show the plan to a friend?",
+          "options": [
+            "To show off",
+            "Fresh eyes spot problems you missed",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A friend can spot gaps in your plan."
+        }
+      ],
+      "project": {
+        "title": "Write a Restaurant Plan",
+        "brief": "Write a concept, a 12-dish menu with prices, costs, and a sales target.",
+        "checks": [
+          "Concept written in one paragraph",
+          "Menu of 12 dishes designed",
+          "Three dishes costed with food cost percentage",
+          "Prices set using the food cost method",
+          "Start-up costs and daily sales target written",
+          "Plan shown to a friend for feedback"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "SOPs: Write Down How Things Are Done",
+      "goal": "Write simple SOPs for your restaurant.",
+      "video": {
+        "youtube_id": "JdDTClEWZRM",
+        "title": "How to Price Menu Items",
+        "channel": "EvoBistro"
+      },
+      "steps": [
+        "SOP means Standard Operating Procedure. It is a written way of doing a job.",
+        "Write one SOP for opening the restaurant each morning.",
+        "Write one SOP for closing at night.",
+        "Write one SOP for taking an order.",
+        "Keep SOPs short: steps in order, in plain words."
+      ],
+      "task": "Write an SOP for opening your restaurant.",
+      "challenge": "Write an SOP for taking an order.",
+      "quiz": [
+        {
+          "q": "What is an SOP?",
+          "options": [
+            "A menu",
+            "A written way of doing a job, step by step",
+            "A recipe",
+            "A price list"
+          ],
+          "answer": 1,
+          "explain": "An SOP is a written set of steps for doing a job the same way every time."
+        },
+        {
+          "q": "Why write SOPs?",
+          "options": [
+            "To show off",
+            "So every staff member does the job the same good way",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "SOPs keep quality the same, even when staff change."
+        },
+        {
+          "q": "How long should an SOP be?",
+          "options": [
+            "10 pages",
+            "Short: steps in order, in plain words",
+            "1 page only",
+            "As long as possible"
+          ],
+          "answer": 1,
+          "explain": "Short, plain SOPs are easy to read and follow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Hiring Staff: Find Good People",
+      "goal": "Hire staff who fit your restaurant.",
+      "video": {
+        "youtube_id": "LfmzIxwKlA8",
+        "title": "Your Complete Guide To Restaurant Inventory Management",
+        "channel": "Lightspeed"
+      },
+      "steps": [
+        "List the jobs you need: cook, server, cleaner, cashier.",
+        "Write a short job description for each one.",
+        "Hire for attitude first. Skills can be taught.",
+        "Check references. Ask past employers how the person worked.",
+        "Start new staff on a trial. Watch how they work with customers."
+      ],
+      "task": "Write job descriptions for three roles.",
+      "challenge": "Practise asking interview questions with a friend.",
+      "quiz": [
+        {
+          "q": "What should you hire for first?",
+          "options": [
+            "Skills only",
+            "Attitude. Skills can be taught",
+            "Looks",
+            "Age"
+          ],
+          "answer": 1,
+          "explain": "A good attitude matters most. Skills can be taught on the job."
+        },
+        {
+          "q": "Why check references?",
+          "options": [
+            "It is polite",
+            "Past employers tell you how the person really worked",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "References show if a person is honest and hard-working."
+        },
+        {
+          "q": "Why start new staff on a trial?",
+          "options": [
+            "To pay less",
+            "So you can see how they work before you commit",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "A trial shows how a person really works with customers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Training Staff: Teach the Basics",
+      "goal": "Train new staff simply and clearly.",
+      "video": {
+        "youtube_id": "XthJFOqUEAE",
+        "title": "An Easy Guide to Restaurant Operations Management",
+        "channel": "ScaleZone Tech"
+      },
+      "steps": [
+        "Show, then let them try, then watch them do it alone.",
+        "Train on the menu: staff must know every dish.",
+        "Train on service: greet, take orders, serve, check back.",
+        "Train on safety: hand washing, food storage, and cleaning.",
+        "Give feedback kindly and quickly. Praise good work."
+      ],
+      "task": "Write a one-day training plan for a new server.",
+      "challenge": "Practise training a friend to take an order.",
+      "quiz": [
+        {
+          "q": "What is the best way to train?",
+          "options": [
+            "Tell them once",
+            "Show, let them try, then watch them do it alone",
+            "Give them a book",
+            "Let them guess"
+          ],
+          "answer": 1,
+          "explain": "Show, try, then do alone is the fastest way to learn a job."
+        },
+        {
+          "q": "Why must staff know the menu?",
+          "options": [
+            "To show off",
+            "So they can answer customer questions",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Staff who know the menu can help customers choose and sell more."
+        },
+        {
+          "q": "Why give feedback quickly?",
+          "options": [
+            "To be strict",
+            "So staff can fix mistakes while they remember",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Quick feedback helps staff learn fast."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Staff Scheduling: The Right People at the Right Time",
+      "goal": "Make a weekly staff schedule.",
+      "video": {
+        "youtube_id": "hyqsHO9-n7Q",
+        "title": "How to Open a Restaurant or Hotel (Step-by-Step) | Complete Business Guide for Beginners 2026",
+        "channel": "BNR Universe"
+      },
+      "steps": [
+        "Look at busy times: lunch and dinner are busiest.",
+        "Put more staff on busy shifts and fewer on quiet shifts.",
+        "Give staff at least one day off each week.",
+        "Keep a backup list for when someone is sick.",
+        "Share the schedule early so staff can plan."
+      ],
+      "task": "Make a weekly schedule for a small restaurant.",
+      "challenge": "Work out the labour cost for the week.",
+      "quiz": [
+        {
+          "q": "When is a restaurant busiest?",
+          "options": [
+            "Morning only",
+            "Lunch and dinner",
+            "Midnight",
+            "Early morning"
+          ],
+          "answer": 1,
+          "explain": "Lunch and dinner are the busiest times."
+        },
+        {
+          "q": "Why put more staff on busy shifts?",
+          "options": [
+            "It is fair",
+            "So customers are served fast",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "More staff on busy shifts means fast service and happy customers."
+        },
+        {
+          "q": "Why share the schedule early?",
+          "options": [
+            "It is polite",
+            "So staff can plan their week",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Early schedules help staff plan and reduce no-shows."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Inventory: Know What You Have",
+      "goal": "Track stock so you never run out or waste food.",
+      "video": {
+        "youtube_id": "nvwxsrJzAQQ",
+        "title": "How to EASILY Use Restaurant SOPs (Step-by-Step Guide) | DAY 69",
+        "channel": "Uncle Menu"
+      },
+      "steps": [
+        "Inventory means all the food and supplies you have.",
+        "Count stock once a week, at the same time.",
+        "Write down what you have, what you used, and what you need.",
+        "Use FIFO: First In, First Out. Use old stock first.",
+        "Order before you run out, not after."
+      ],
+      "task": "Count the stock in your kitchen and write it down.",
+      "challenge": "Make a simple stock list with reorder levels.",
+      "quiz": [
+        {
+          "q": "What is inventory?",
+          "options": [
+            "Money",
+            "All the food and supplies you have",
+            "Staff",
+            "Customers"
+          ],
+          "answer": 1,
+          "explain": "Inventory is everything you have in stock: food and supplies."
+        },
+        {
+          "q": "What does FIFO mean?",
+          "options": [
+            "First in, first out: use old stock first",
+            "Fast in, fast out",
+            "First in, first served",
+            "Food in, food out"
+          ],
+          "answer": 1,
+          "explain": "FIFO means use the oldest stock first so nothing goes bad."
+        },
+        {
+          "q": "Why count stock weekly?",
+          "options": [
+            "It is a rule",
+            "So you know what you have and what to order",
+            "It saves money",
+            "It is polite"
+          ],
+          "answer": 1,
+          "explain": "Weekly counts stop stock-outs and waste."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "POS Systems: Take Orders and Payments",
+      "goal": "Use a POS system to run orders and payments.",
+      "video": {
+        "youtube_id": "XaBTMeK6_Mg",
+        "title": "Toast POS System Tutorial for Beginners",
+        "channel": "Toast"
+      },
+      "steps": [
+        "POS means Point of Sale. It is the system that takes orders and payments.",
+        "A POS records what was sold, so you know your best sellers.",
+        "It tracks stock as dishes are sold.",
+        "Train staff to use it well. Mistakes cost money.",
+        "Check the daily sales report every night."
+      ],
+      "task": "Watch a POS tutorial and list its main features.",
+      "challenge": "Practise entering an order on paper as if on a POS.",
+      "quiz": [
+        {
+          "q": "What is a POS system?",
+          "options": [
+            "A menu",
+            "The system that takes orders and payments",
+            "A fridge",
+            "A stove"
+          ],
+          "answer": 1,
+          "explain": "A POS is the system for orders, payments, and sales records."
+        },
+        {
+          "q": "Why does a POS track stock?",
+          "options": [
+            "It is fancy",
+            "So you know what is running low",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A POS that tracks stock tells you what to reorder."
+        },
+        {
+          "q": "Why check the daily sales report?",
+          "options": [
+            "To show off",
+            "So you know what sold and what you earned",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Daily reports show what sold, what earned, and what to fix."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: Run a Pop-Up Restaurant",
+      "goal": "Run a small pop-up restaurant for a day.",
+      "video": {
+        "youtube_id": "BbyOs7Pdw9I",
+        "title": "Restaurant — Recipe, Food Cost and Kitchen Stock",
+        "channel": "The Ray"
+      },
+      "steps": [
+        "Pick a menu of 5 dishes with prices.",
+        "Write SOPs for opening, serving, and closing.",
+        "Make a staff schedule for the day.",
+        "Cook and serve to friends or family as customers.",
+        "Count your sales, costs, and profit at the end."
+      ],
+      "task": "Run a pop-up restaurant for a day.",
+      "challenge": "Work out your sales, costs, and profit.",
+      "quiz": [
+        {
+          "q": "Why run a pop-up first?",
+          "options": [
+            "It is fun",
+            "It tests your plan with low risk",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A pop-up tests your menu, prices, and systems before you open for real."
+        },
+        {
+          "q": "What should you count at the end?",
+          "options": [
+            "Only sales",
+            "Sales, costs, and profit",
+            "Only costs",
+            "Only customers"
+          ],
+          "answer": 1,
+          "explain": "Sales, costs, and profit tell you if the day made money."
+        },
+        {
+          "q": "Why write SOPs for a pop-up?",
+          "options": [
+            "To show off",
+            "So helpers do the job the same good way",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "SOPs keep service smooth even with helpers."
+        }
+      ],
+      "project": {
+        "title": "Run a Pop-Up Restaurant",
+        "brief": "Run a one-day pop-up with a menu, SOPs, schedule, and sales count.",
+        "checks": [
+          "Menu of 5 dishes with prices",
+          "SOPs written for opening, serving, closing",
+          "Staff schedule made for the day",
+          "Food cooked and served to customers",
+          "Sales, costs, and profit counted",
+          "Feedback collected from customers"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Customer Service: The Basics",
+      "goal": "Serve customers so they return.",
+      "video": {
+        "youtube_id": "fEKyJyYbywM",
+        "title": "Recipe for Restaurant Profits",
+        "channel": "Institute of Culinary Education (ICE)"
+      },
+      "steps": [
+        "Greet every customer with a smile within 30 seconds.",
+        "Listen fully. Do not interrupt.",
+        "Repeat the order back to get it right.",
+        "Check back within 2 minutes of serving food.",
+        "Thank customers and invite them back."
+      ],
+      "task": "Practise serving a friend, step by step.",
+      "challenge": "Ask your friend what made the service feel good.",
+      "quiz": [
+        {
+          "q": "How fast should you greet a customer?",
+          "options": [
+            "Within 30 seconds",
+            "After 5 minutes",
+            "When you are free",
+            "At the end"
+          ],
+          "answer": 0,
+          "explain": "A fast greeting makes customers feel welcome."
+        },
+        {
+          "q": "Why check back after serving food?",
+          "options": [
+            "To be polite",
+            "To fix problems early",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Checking back early lets you fix problems before customers get angry."
+        },
+        {
+          "q": "Why repeat the order back?",
+          "options": [
+            "To be polite",
+            "So you get it right",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Repeating the order stops mistakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Handling Complaints",
+      "goal": "Handle unhappy customers calmly and well.",
+      "video": {
+        "youtube_id": "OAGDylaxR0c",
+        "title": "Restaurant Menu Pricing: How to Increase Profit",
+        "channel": "Owner.com"
+      },
+      "steps": [
+        "Listen first. Let the customer finish speaking.",
+        "Say sorry, even if it is not your fault.",
+        "Ask what would make it right.",
+        "Fix it fast: replace the dish, offer a discount, or give a free drink.",
+        "Thank them for telling you. Complaints help you improve."
+      ],
+      "task": "Practise handling a complaint with a friend playing the customer.",
+      "challenge": "Write a short guide for staff on handling complaints.",
+      "quiz": [
+        {
+          "q": "What is the first step with a complaint?",
+          "options": [
+            "Argue back",
+            "Listen first",
+            "Offer money",
+            "Walk away"
+          ],
+          "answer": 1,
+          "explain": "Listening first shows respect and helps you understand the problem."
+        },
+        {
+          "q": "Why say sorry?",
+          "options": [
+            "It admits guilt",
+            "It shows you care about the customer",
+            "It is a rule",
+            "It ends the talk"
+          ],
+          "answer": 1,
+          "explain": "An apology calms the customer and shows you care."
+        },
+        {
+          "q": "Why thank a customer for complaining?",
+          "options": [
+            "To be polite",
+            "Complaints show you what to fix",
+            "It is a rule",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Complaints point out problems you can fix."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Daily Operations: Open to Close",
+      "goal": "Run a restaurant day from open to close.",
+      "video": {
+        "youtube_id": "CMGYiLGJnko",
+        "title": "Restaurant Menu Pricing Without Guessing",
+        "channel": "TillPost"
+      },
+      "steps": [
+        "Morning: check stock, prep food, clean the dining room.",
+        "Before service: hold a short team meeting. Share the specials.",
+        "During service: watch the floor, help where needed, check food quality.",
+        "After service: count cash, check the POS report, clean up.",
+        "Write a short note on what went well and what to fix."
+      ],
+      "task": "Write a daily operations checklist.",
+      "challenge": "Run a practice day using your checklist.",
+      "quiz": [
+        {
+          "q": "What happens before service?",
+          "options": [
+            "Nothing",
+            "A short team meeting to share specials and jobs",
+            "Cooking only",
+            "Cleaning only"
+          ],
+          "answer": 1,
+          "explain": "A short meeting gets the team ready for service."
+        },
+        {
+          "q": "What should a manager do during service?",
+          "options": [
+            "Sit in the office",
+            "Watch the floor, help, and check food quality",
+            "Cook only",
+            "Count money"
+          ],
+          "answer": 1,
+          "explain": "A manager on the floor spots problems early."
+        },
+        {
+          "q": "Why write a note at the end of the day?",
+          "options": [
+            "To show off",
+            "So you remember what to fix tomorrow",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Daily notes help you improve a little every day."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Food Safety in a Restaurant",
+      "goal": "Keep a restaurant kitchen safe.",
+      "video": {
+        "youtube_id": "JdDTClEWZRM",
+        "title": "How to Price Menu Items",
+        "channel": "EvoBistro"
+      },
+      "steps": [
+        "Wash hands often. Wear clean clothes and a hair cover.",
+        "Keep raw meat away from cooked food.",
+        "Keep hot food above 60°C and cold food below 5°C.",
+        "Clean as you go. Do not leave dirty tools lying around.",
+        "Check fridge temperatures daily and write them down."
+      ],
+      "task": "Do a food safety check of a kitchen.",
+      "challenge": "Write a food safety checklist for staff.",
+      "quiz": [
+        {
+          "q": "How often should staff wash hands?",
+          "options": [
+            "Once a day",
+            "Often, especially after touching raw meat",
+            "Once an hour",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Hands must be washed often, especially after raw meat or the toilet."
+        },
+        {
+          "q": "Why check fridge temperatures daily?",
+          "options": [
+            "It is a rule",
+            "So you know food is stored safely",
+            "It saves power",
+            "It is polite"
+          ],
+          "answer": 1,
+          "explain": "Daily checks catch a broken fridge before food goes bad."
+        },
+        {
+          "q": "What is 'clean as you go'?",
+          "options": [
+            "Clean at the end only",
+            "Clean tools and surfaces as you work",
+            "Clean once a week",
+            "Clean only the floor"
+          ],
+          "answer": 1,
+          "explain": "Cleaning as you work keeps the kitchen safe and fast."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Marketing a Small Restaurant",
+      "goal": "Tell people about your restaurant.",
+      "video": {
+        "youtube_id": "LfmzIxwKlA8",
+        "title": "Your Complete Guide To Restaurant Inventory Management",
+        "channel": "Lightspeed"
+      },
+      "steps": [
+        "Take clear photos of your best dishes.",
+        "Post your menu and prices on WhatsApp and social media.",
+        "Ask happy customers to share your number and photos.",
+        "Offer a small discount for a first visit.",
+        "Keep a list of regular customers and thank them."
+      ],
+      "task": "Post your restaurant menu on WhatsApp or social media.",
+      "challenge": "Ask a happy customer to share your number.",
+      "quiz": [
+        {
+          "q": "Why post photos of dishes?",
+          "options": [
+            "To show off",
+            "Good photos help people decide to visit",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People choose restaurants with their eyes first."
+        },
+        {
+          "q": "Why ask customers to share?",
+          "options": [
+            "To show off",
+            "Word of mouth is the best free advert",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Happy customers telling friends is the cheapest marketing."
+        },
+        {
+          "q": "Why thank regular customers?",
+          "options": [
+            "To be polite",
+            "Regulars are your most valuable customers",
+            "It is a rule",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "Regular customers keep a restaurant alive."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Money: Cash Flow and Profit",
+      "goal": "Understand cash flow and profit in a restaurant.",
+      "video": {
+        "youtube_id": "XthJFOqUEAE",
+        "title": "An Easy Guide to Restaurant Operations Management",
+        "channel": "ScaleZone Tech"
+      },
+      "steps": [
+        "Cash flow is money coming in and going out each day.",
+        "Profit is what is left after all costs are paid.",
+        "Pay suppliers on time. Late payment can stop your stock.",
+        "Keep business money separate from personal money.",
+        "Check your numbers weekly: sales, costs, and profit."
+      ],
+      "task": "Work out the weekly profit of a small restaurant on paper.",
+      "challenge": "List three ways to cut costs without hurting quality.",
+      "quiz": [
+        {
+          "q": "What is cash flow?",
+          "options": [
+            "Profit",
+            "Money coming in and going out each day",
+            "Sales only",
+            "Costs only"
+          ],
+          "answer": 1,
+          "explain": "Cash flow is the daily movement of money in and out."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "Sales",
+            "What is left after all costs are paid",
+            "Costs",
+            "Cash in the till"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for food, staff, rent, and bills."
+        },
+        {
+          "q": "Why keep business money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if the restaurant is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true health of the business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Full Restaurant Day",
+      "goal": "Run a full restaurant day from open to close.",
+      "video": {
+        "youtube_id": "hyqsHO9-n7Q",
+        "title": "How to Open a Restaurant or Hotel (Step-by-Step) | Complete Business Guide for Beginners 2026",
+        "channel": "BNR Universe"
+      },
+      "steps": [
+        "Write the day's plan: menu, staff, and schedule.",
+        "Open with your SOP: check stock, prep, and clean.",
+        "Serve customers, check back, and handle any complaints.",
+        "Count cash, check the POS report, and clean up.",
+        "Work out the day's sales, costs, and profit."
+      ],
+      "task": "Run a full restaurant day for friends or family as customers.",
+      "challenge": "Write a report on the day: what went well and what to fix.",
+      "quiz": [
+        {
+          "q": "Why write a day plan?",
+          "options": [
+            "To show off",
+            "So everyone knows their job and the day runs smoothly",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A day plan keeps the team organised."
+        },
+        {
+          "q": "What should you do at the end of the day?",
+          "options": [
+            "Go home",
+            "Count cash, check sales, and clean up",
+            "Cook more",
+            "Plan tomorrow only"
+          ],
+          "answer": 1,
+          "explain": "End-of-day counts and cleaning keep the restaurant healthy."
+        },
+        {
+          "q": "Why write a report on the day?",
+          "options": [
+            "To show off",
+            "So you learn and improve next time",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A daily report turns experience into learning."
+        }
+      ],
+      "project": {
+        "title": "Run a Full Restaurant Day",
+        "brief": "Run a restaurant day from open to close with customers.",
+        "checks": [
+          "Day plan written: menu, staff, schedule",
+          "Opened with SOP: stock, prep, clean",
+          "Customers served and checked on",
+          "Complaints handled well, if any",
+          "Cash counted and sales checked",
+          "Day report written with lessons"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Suppliers: Buy Well",
+      "goal": "Buy from suppliers at good prices.",
+      "video": {
+        "youtube_id": "nvwxsrJzAQQ",
+        "title": "How to EASILY Use Restaurant SOPs (Step-by-Step Guide) | DAY 69",
+        "channel": "Uncle Menu"
+      },
+      "steps": [
+        "A supplier is a person or shop that sells you food and goods.",
+        "Get prices from at least three suppliers before you choose.",
+        "Buy in bulk for a lower price, but only what you can use before it goes bad.",
+        "Check deliveries: count items and check quality.",
+        "Pay on time to keep a good relationship."
+      ],
+      "task": "Get prices for three items from three suppliers.",
+      "challenge": "Write a delivery checklist: count and quality.",
+      "quiz": [
+        {
+          "q": "Why get prices from three suppliers?",
+          "options": [
+            "It is a rule",
+            "So you find the best price",
+            "It saves time",
+            "It is polite"
+          ],
+          "answer": 1,
+          "explain": "Comparing prices stops you paying too much."
+        },
+        {
+          "q": "Why check deliveries?",
+          "options": [
+            "It is polite",
+            "So you catch short or bad stock at once",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Checking at delivery lets you complain while the driver is there."
+        },
+        {
+          "q": "Why pay suppliers on time?",
+          "options": [
+            "It is a law",
+            "Good suppliers keep serving you",
+            "It is polite",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "On-time payment keeps suppliers happy and your stock flowing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Waste: Cut It, Save Money",
+      "goal": "Cut food waste in a restaurant.",
+      "video": {
+        "youtube_id": "XaBTMeK6_Mg",
+        "title": "Toast POS System Tutorial for Beginners",
+        "channel": "Toast"
+      },
+      "steps": [
+        "Waste is food you throw away. It is money in the bin.",
+        "Use FIFO: use old stock first.",
+        "Cook to order when you can, so you do not cook too much.",
+        "Use leftovers well: soup from vegetables, stock from bones.",
+        "Weigh your waste each week and try to cut it."
+      ],
+      "task": "Weigh your kitchen waste for a week.",
+      "challenge": "List three ways to cut waste in your kitchen.",
+      "quiz": [
+        {
+          "q": "What is food waste?",
+          "options": [
+            "Leftovers",
+            "Food you throw away. It is money in the bin",
+            "Dirty dishes",
+            "Old menus"
+          ],
+          "answer": 1,
+          "explain": "Waste is food thrown away. Every bit thrown away is money lost."
+        },
+        {
+          "q": "How do you cut waste?",
+          "options": [
+            "Cook more",
+            "Use FIFO, cook to order, and reuse leftovers well",
+            "Buy more",
+            "Throw it faster"
+          ],
+          "answer": 1,
+          "explain": "FIFO, cooking to order, and reusing leftovers cut waste."
+        },
+        {
+          "q": "Why weigh waste weekly?",
+          "options": [
+            "It is a rule",
+            "So you can see if waste is going up or down",
+            "It is fun",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Weighing waste shows if your fixes are working."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Growing: From One Shop to More",
+      "goal": "Grow your restaurant step by step.",
+      "video": {
+        "youtube_id": "BbyOs7Pdw9I",
+        "title": "Restaurant — Recipe, Food Cost and Kitchen Stock",
+        "channel": "The Ray"
+      },
+      "steps": [
+        "Do one restaurant well before you open a second.",
+        "Write down your systems: SOPs, menus, and costs.",
+        "Train a manager who can run the shop without you.",
+        "Save profit to fund growth. Do not borrow too much.",
+        "Open a second shop only when the first runs smoothly alone."
+      ],
+      "task": "Write a growth plan for your restaurant.",
+      "challenge": "List the systems you would need to copy to a second shop.",
+      "quiz": [
+        {
+          "q": "When should you open a second restaurant?",
+          "options": [
+            "As soon as possible",
+            "When the first runs smoothly without you",
+            "After one month",
+            "When you have money"
+          ],
+          "answer": 1,
+          "explain": "A second shop works only when the first runs well on its own."
+        },
+        {
+          "q": "Why write down your systems?",
+          "options": [
+            "To show off",
+            "So a new shop can copy what works",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written systems let you repeat success in a new shop."
+        },
+        {
+          "q": "Why train a manager first?",
+          "options": [
+            "It is a rule",
+            "So the shop runs well when you are away",
+            "It saves money",
+            "It is polite"
+          ],
+          "answer": 1,
+          "explain": "A trained manager keeps the shop running without you."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Your Signature Restaurant",
+      "goal": "Design the restaurant you would love to run.",
+      "video": {
+        "youtube_id": "fEKyJyYbywM",
+        "title": "Recipe for Restaurant Profits",
+        "channel": "Institute of Culinary Education (ICE)"
+      },
+      "steps": [
+        "Pick your concept, your menu, and your prices.",
+        "Draw a simple floor plan: kitchen, dining room, and counter.",
+        "Write your SOPs for opening and serving.",
+        "Work out your start-up costs and daily sales target.",
+        "Show the plan to a friend and ask for feedback."
+      ],
+      "task": "Design your signature restaurant on paper.",
+      "challenge": "Present it to a friend as if asking for investment.",
+      "quiz": [
+        {
+          "q": "What is a floor plan?",
+          "options": [
+            "A menu",
+            "A drawing of the restaurant layout",
+            "A price list",
+            "A photo"
+          ],
+          "answer": 1,
+          "explain": "A floor plan shows where the kitchen, dining room, and counter go."
+        },
+        {
+          "q": "Why draw a floor plan?",
+          "options": [
+            "It looks nice",
+            "So you know the space works for staff and customers",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A good layout makes work fast and customers comfortable."
+        },
+        {
+          "q": "Why present your plan to a friend?",
+          "options": [
+            "To show off",
+            "Practice helps you explain your idea clearly",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Presenting your plan helps you find gaps in it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Keeping Records: Sales, Costs, Profit",
+      "goal": "Keep simple records for your restaurant.",
+      "video": {
+        "youtube_id": "OAGDylaxR0c",
+        "title": "Restaurant Menu Pricing: How to Increase Profit",
+        "channel": "Owner.com"
+      },
+      "steps": [
+        "Write down daily sales from the POS report.",
+        "Write down what you spent on food, staff, and bills.",
+        "Work out profit each week.",
+        "Note your best-selling dishes and your slowest ones.",
+        "Keep all receipts in one place."
+      ],
+      "task": "Start a simple record book today, on paper or on your phone.",
+      "challenge": "Work out one week of profit on paper.",
+      "quiz": [
+        {
+          "q": "Why write down daily sales?",
+          "options": [
+            "To show off",
+            "So you know what you earned each day",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Daily sales records show trends and problems early."
+        },
+        {
+          "q": "Why keep receipts?",
+          "options": [
+            "To show off",
+            "So you can prove what you spent",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Receipts prove your costs and help with tax and planning."
+        },
+        {
+          "q": "Why note best and slowest dishes?",
+          "options": [
+            "To show off",
+            "So you know what to keep and what to remove",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Sales notes tell you which dishes earn money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Restaurant Law and Licences",
+      "goal": "Know the basic rules for running a restaurant.",
+      "video": {
+        "youtube_id": "CMGYiLGJnko",
+        "title": "Restaurant Menu Pricing Without Guessing",
+        "channel": "TillPost"
+      },
+      "steps": [
+        "You need a business registration and a food licence in most places.",
+        "Your kitchen must pass health checks.",
+        "Staff who handle food need health training.",
+        "Keep records of your licences and renew them on time.",
+        "Ask your local council what rules apply to you."
+      ],
+      "task": "Find out what licences a restaurant needs in your area.",
+      "challenge": "Write a list of the licences and their renewal dates.",
+      "quiz": [
+        {
+          "q": "What licences does a restaurant need?",
+          "options": [
+            "None",
+            "Business registration and a food licence in most places",
+            "Only a menu",
+            "Only a sign"
+          ],
+          "answer": 1,
+          "explain": "Most places need business registration and a food licence."
+        },
+        {
+          "q": "Why must kitchens pass health checks?",
+          "options": [
+            "It is a rule",
+            "So food is safe for customers",
+            "It saves money",
+            "It is polite"
+          ],
+          "answer": 1,
+          "explain": "Health checks protect customers from unsafe food."
+        },
+        {
+          "q": "Why renew licences on time?",
+          "options": [
+            "It is polite",
+            "An expired licence can close your restaurant",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "An expired licence can get your restaurant shut down."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Dealing with Slow Days",
+      "goal": "Handle slow days without losing money.",
+      "video": {
+        "youtube_id": "JdDTClEWZRM",
+        "title": "How to Price Menu Items",
+        "channel": "EvoBistro"
+      },
+      "steps": [
+        "Slow days happen. Do not panic.",
+        "Offer a lunch deal or a discount to bring people in.",
+        "Use slow time to prep, clean, and train staff.",
+        "Cook less on slow days so you waste less.",
+        "Track which days are slow and plan for them."
+      ],
+      "task": "List three things you can do on a slow day.",
+      "challenge": "Plan a lunch deal for a slow day.",
+      "quiz": [
+        {
+          "q": "What should you do on a slow day?",
+          "options": [
+            "Close early",
+            "Use the time to prep, clean, and train",
+            "Send staff home",
+            "Cook more"
+          ],
+          "answer": 1,
+          "explain": "Slow time is good for prep, cleaning, and training."
+        },
+        {
+          "q": "Why offer a lunch deal on slow days?",
+          "options": [
+            "To show off",
+            "To bring customers in",
+            "It is a rule",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "A good deal gives people a reason to visit on a slow day."
+        },
+        {
+          "q": "Why track slow days?",
+          "options": [
+            "To show off",
+            "So you can plan staff and cooking for them",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Knowing your slow days helps you plan and save money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Manager's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "LfmzIxwKlA8",
+        "title": "Your Complete Guide To Restaurant Inventory Management",
+        "channel": "Lightspeed"
+      },
+      "steps": [
+        "Work out a food cost percentage from memory.",
+        "Price a dish using the food cost method.",
+        "Name the parts of a business plan.",
+        "Explain FIFO in one sentence.",
+        "List your three strongest skills and one to improve."
+      ],
+      "task": "Run a small restaurant day from memory, no notes.",
+      "challenge": "Teach one management skill from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What is food cost percentage?",
+          "options": [
+            "The menu price",
+            "Food cost divided by selling price, times 100",
+            "Profit",
+            "Sales"
+          ],
+          "answer": 1,
+          "explain": "Food cost percentage is food cost divided by selling price, times 100."
+        },
+        {
+          "q": "What does FIFO mean?",
+          "options": [
+            "Fast in, fast out",
+            "First in, first out: use old stock first",
+            "Food in, food out",
+            "First in, first served"
+          ],
+          "answer": 1,
+          "explain": "FIFO means use the oldest stock first."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Restaurant Launch",
+      "goal": "Plan your capstone restaurant launch.",
+      "video": {
+        "youtube_id": "XthJFOqUEAE",
+        "title": "An Easy Guide to Restaurant Operations Management",
+        "channel": "ScaleZone Tech"
+      },
+      "steps": [
+        "Choose your concept, menu, and prices.",
+        "Write your business plan, costs, and sales target.",
+        "Write your SOPs for opening, serving, and closing.",
+        "Plan your staff schedule for opening week.",
+        "Do a trial run of your pop-up if you have time."
+      ],
+      "task": "Write your complete capstone plan.",
+      "challenge": "Do a trial run of your pop-up restaurant today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only a menu",
+            "Everything you learned: planning, costing, staff, and service",
+            "Only prices",
+            "Only SOPs"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why plan staff for opening week?",
+          "options": [
+            "To show off",
+            "So the opening runs smoothly",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A planned schedule stops chaos on opening week."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste money",
+            "To find problems before the real launch",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Restaurant Launch: Plan, Open and Run Your Small Restaurant",
+    "brief": "Launch a small restaurant on paper and in practice: write the business plan, design the menu with prices, cost the dishes, write SOPs, plan staff, and run a pop-up day for real customers. Work out sales, costs, and profit.",
+    "checks": [
+      "Business plan written: concept, customers, menu, money",
+      "Menu of 12 dishes priced using food cost",
+      "Three dishes costed with food cost percentage",
+      "SOPs written for opening, serving, and closing",
+      "Staff schedule planned for opening week",
+      "Pop-up day run with real customers",
+      "Sales, costs, and profit worked out"
+    ],
+    "deliverables": [
+      "Your written business plan",
+      "Your menu with prices and food costs",
+      "Your SOPs for opening, serving, and closing",
+      "Your staff schedule for opening week",
+      "A short report on your pop-up day: sales, costs, profit, and lessons"
+    ]
+  }
+}

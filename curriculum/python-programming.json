@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "python-programming",
+    "title": "Python Programming",
+    "level": "Beginner",
+    "tagline": "Learn Python from zero and write real programs that automate work, handle data and solve problems.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Install Python and Write Your First Program",
+      "goal": "Install Python on your computer and run your very first line of code.",
+      "video": {
+        "youtube_id": "_uQrJ0TkZlc",
+        "title": "Python Tutorial - Python for Beginners",
+        "channel": "Programming with Mosh"
+      },
+      "steps": [
+        "Go to python.org, download Python for your computer, and install it. Tick the box that says Add Python to PATH.",
+        "Open your terminal or command prompt and type python --version to check it installed.",
+        "Open VS Code, create a folder called python-journey, and make a file called hello.py.",
+        "Type print('Hello, world!') in the file, save it, and run it with python hello.py."
+      ],
+      "task": "Write a program that prints your name, your age and one thing you want to build.",
+      "challenge": "Print a simple picture made of text characters, like a smiley face or a small house.",
+      "quiz": [
+        {
+          "q": "What does print('Hello') do in Python?",
+          "options": [
+            "It saves the word Hello to a file",
+            "It shows Hello on the screen",
+            "It deletes the word Hello",
+            "It asks you a question"
+          ],
+          "answer": 1,
+          "explain": "print shows text on the screen. It is the simplest way to see what your program is doing."
+        },
+        {
+          "q": "Why do you tick 'Add Python to PATH' during install?",
+          "options": [
+            "It makes Python faster",
+            "It lets you run python from any folder in the terminal",
+            "It changes your wallpaper",
+            "It installs extra games"
+          ],
+          "answer": 1,
+          "explain": "Adding Python to PATH lets your computer find the python command from any folder."
+        },
+        {
+          "q": "What file ending do Python files use?",
+          "options": [
+            ".py",
+            ".js",
+            ".html",
+            ".txt"
+          ],
+          "answer": 0,
+          "explain": "Python files end in .py."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Print, Input and Comments",
+      "goal": "Show text on screen, ask the user questions, and leave notes in your code.",
+      "video": {
+        "youtube_id": "eWRfhZUzrAc",
+        "title": "Python for Beginners – Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Use print() to show three lines of text, one per line.",
+        "Use input() to ask the user their name, then print a greeting with their name.",
+        "Add a comment with # to explain what one line of your code does.",
+        "Run the program twice with different names and watch the greeting change."
+      ],
+      "task": "Build a small program that asks for a name and a favourite food, then prints a sentence using both.",
+      "challenge": "Ask the user for two words and print them joined into one funny sentence.",
+      "quiz": [
+        {
+          "q": "What does input() do?",
+          "options": [
+            "It prints text",
+            "It waits for the user to type something and gives it back as text",
+            "It deletes a file",
+            "It closes the program"
+          ],
+          "answer": 1,
+          "explain": "input() pauses the program, waits for typing, and returns what was typed as text."
+        },
+        {
+          "q": "What is a comment in Python?",
+          "options": [
+            "A line that starts with # and is ignored by Python",
+            "A line that runs twice",
+            "A line that prints an error",
+            "A line that saves a file"
+          ],
+          "answer": 0,
+          "explain": "Comments start with # and are notes for humans. Python ignores them when it runs."
+        },
+        {
+          "q": "What type of data does input() always give you?",
+          "options": [
+            "A number",
+            "Text (a string)",
+            "A list",
+            "True or false"
+          ],
+          "answer": 1,
+          "explain": "input() always returns text, even if the user types digits. You must convert it to a number to do maths."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Variables and Data Types",
+      "goal": "Store values in variables and know the difference between text, numbers and true/false values.",
+      "video": {
+        "youtube_id": "EyEqWFvLDT8",
+        "title": "Python Tutorial For Beginners (With Notes)",
+        "channel": "CodeWithHarry"
+      },
+      "steps": [
+        "Create a variable called name and store your name in it, then print it.",
+        "Create age as a number and is_student as True or False, then print all three.",
+        "Use type() to check the type of each variable and print the results.",
+        "Change the value of a variable and print it again to see the new value."
+      ],
+      "task": "Make a small profile program with variables for name, age, city and a hobby, then print them in neat sentences.",
+      "challenge": "Swap the values of two variables using a third temporary variable.",
+      "quiz": [
+        {
+          "q": "What is a variable?",
+          "options": [
+            "A kind of loop",
+            "A named box that stores a value",
+            "A type of error",
+            "A print command"
+          ],
+          "answer": 1,
+          "explain": "A variable is a name that stores a value you can use and change later."
+        },
+        {
+          "q": "Which of these is a valid variable name?",
+          "options": [
+            "2name",
+            "my-name",
+            "my_name",
+            "my name"
+          ],
+          "answer": 2,
+          "explain": "Variable names can use letters, numbers and underscores, but cannot start with a number or contain spaces or dashes."
+        },
+        {
+          "q": "What is the type of the value True?",
+          "options": [
+            "String",
+            "Integer",
+            "Boolean",
+            "Float"
+          ],
+          "answer": 2,
+          "explain": "True and False are booleans, used for yes/no and on/off values."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Numbers and Maths",
+      "goal": "Do maths in Python: add, subtract, multiply, divide and work with remainders.",
+      "video": {
+        "youtube_id": "HvA7I0l0nqI",
+        "title": "Python Programming Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Try print(10 + 5), print(10 - 5), print(10 * 5) and print(10 / 5) in the terminal.",
+        "Use // for whole-number division and % to get the remainder of a division.",
+        "Use ** to raise a number to a power, like 2 ** 3.",
+        "Ask the user for two numbers, turn them into numbers with int(), and print their sum."
+      ],
+      "task": "Build a simple calculator that asks for two numbers and prints the sum, difference, product and division.",
+      "challenge": "Work out how many minutes are in a week using only Python maths, then print the answer.",
+      "quiz": [
+        {
+          "q": "What does 10 % 3 give you?",
+          "options": [
+            "3",
+            "1",
+            "0",
+            "3.33"
+          ],
+          "answer": 1,
+          "explain": "% gives the remainder. 10 divided by 3 leaves 1."
+        },
+        {
+          "q": "What does int('7') do?",
+          "options": [
+            "It prints the text 7",
+            "It turns the text '7' into the number 7",
+            "It deletes 7",
+            "It makes 7 bigger"
+          ],
+          "answer": 1,
+          "explain": "int() turns text that looks like a whole number into a real number you can calculate with."
+        },
+        {
+          "q": "What is 2 ** 3?",
+          "options": [
+            "5",
+            "6",
+            "8",
+            "9"
+          ],
+          "answer": 2,
+          "explain": "** means to the power of. 2 to the power of 3 is 2 x 2 x 2 = 8."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Strings and Text",
+      "goal": "Work with text: join strings, repeat them, slice them and use f-strings.",
+      "video": {
+        "youtube_id": "o1fjWjReodE",
+        "title": "Python Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Join two strings with + and print the result.",
+        "Use an f-string like f'My name is {name}' to put a variable inside text.",
+        "Use len() to count the letters in a word and print the count.",
+        "Slice a string with [0:3] to get the first three letters and print them."
+      ],
+      "task": "Build a program that asks for a first name and last name, then prints the full name in capital letters and its length.",
+      "challenge": "Ask for a sentence and print it backwards using slicing [::-1].",
+      "quiz": [
+        {
+          "q": "What is an f-string?",
+          "options": [
+            "A string with a file inside it",
+            "A string that lets you put variables inside curly braces {}",
+            "A string that is always false",
+            "A string that cannot be printed"
+          ],
+          "answer": 1,
+          "explain": "An f-string starts with f and lets you drop variables straight into text with {name}."
+        },
+        {
+          "q": "What does len('hello') return?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "hello"
+          ],
+          "answer": 1,
+          "explain": "len() counts characters. 'hello' has 5 letters."
+        },
+        {
+          "q": "What does 'ha' * 3 give you?",
+          "options": [
+            "'ha ha ha'",
+            "'hahaha'",
+            "'ha3'",
+            "An error"
+          ],
+          "answer": 1,
+          "explain": "Multiplying a string repeats it. 'ha' times 3 is 'hahaha'."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Lists",
+      "goal": "Store many items in one list, add and remove items, and read items by position.",
+      "video": {
+        "youtube_id": "qQEigNVHlX8",
+        "title": "Python Full Course | Python Tutorial for Beginners | Part 1",
+        "channel": "CodingWithSagar"
+      },
+      "steps": [
+        "Make a list of five favourite foods and print the whole list.",
+        "Print the first item with foods[0] and the last item with foods[-1].",
+        "Add a new food with append() and remove one with remove(), then print the list again.",
+        "Use len() to count how many items are in the list."
+      ],
+      "task": "Make a shopping list program that starts with three items, adds two more, removes one, and prints the final list.",
+      "challenge": "Make a list of numbers and print the biggest with max(), the smallest with min() and the total with sum().",
+      "quiz": [
+        {
+          "q": "What position does the first item in a list have?",
+          "options": [
+            "1",
+            "0",
+            "-1",
+            "It has no position"
+          ],
+          "answer": 1,
+          "explain": "Lists start counting at 0. The first item is at index 0."
+        },
+        {
+          "q": "What does append() do?",
+          "options": [
+            "It deletes the last item",
+            "It adds an item to the end of a list",
+            "It sorts the list",
+            "It counts the items"
+          ],
+          "answer": 1,
+          "explain": "append() adds one new item to the end of a list."
+        },
+        {
+          "q": "What does my_list[-1] give you?",
+          "options": [
+            "The first item",
+            "The last item",
+            "An error",
+            "The number of items"
+          ],
+          "answer": 1,
+          "explain": "A negative index counts from the end. -1 is the last item."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Number Guessing Game",
+      "goal": "Combine everything from week 1 into a working game.",
+      "video": {
+        "youtube_id": "XKHEtdqhLK8",
+        "title": "Python Full Course for Beginners",
+        "channel": "Bro Code"
+      },
+      "steps": [
+        "Import the random module and use random.randint(1, 20) to pick a secret number.",
+        "Ask the player to guess and tell them if the guess is too high or too low.",
+        "Keep asking until they guess right, and count how many tries it took.",
+        "Print a win message with the number of tries when they get it right."
+      ],
+      "task": "Finish the guessing game and play it three times to check it works.",
+      "challenge": "Add a limit of 5 guesses. If the player runs out, reveal the secret number.",
+      "quiz": [
+        {
+          "q": "What does random.randint(1, 20) do?",
+          "options": [
+            "It picks a random whole number between 1 and 20",
+            "It prints 1 to 20",
+            "It counts to 20",
+            "It deletes numbers"
+          ],
+          "answer": 0,
+          "explain": "randint(a, b) returns a random whole number from a to b, including both ends."
+        },
+        {
+          "q": "Which loop is best for asking until the player guesses right?",
+          "options": [
+            "for loop",
+            "while loop",
+            "No loop is needed",
+            "A print loop"
+          ],
+          "answer": 1,
+          "explain": "A while loop repeats until a condition changes, which fits 'keep asking until correct'."
+        },
+        {
+          "q": "Why do we convert the guess with int()?",
+          "options": [
+            "To make it prettier",
+            "Because input() gives text and we need a number to compare",
+            "To hide it",
+            "To save it to a file"
+          ],
+          "answer": 1,
+          "explain": "input() returns text. int() turns it into a number so you can compare it with the secret number."
+        }
+      ],
+      "project": {
+        "title": "Number Guessing Game",
+        "brief": "Build a complete guessing game: the computer picks a secret number from 1 to 20, the player guesses, and the game gives hints until the player wins.",
+        "checks": [
+          "The computer picks a random number from 1 to 20.",
+          "The player can type a guess and the game reads it.",
+          "The game says 'too high' or 'too low' after each wrong guess.",
+          "The game counts the number of tries.",
+          "The game prints a win message when the guess is right.",
+          "The game handles a guess that is not a number without crashing."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "If, Else and Comparisons",
+      "goal": "Make decisions in code with if, elif and else.",
+      "video": {
+        "youtube_id": "_aWbUudZ5Yo",
+        "title": "Python Full Course for Beginners to Advanced | 12 Hours",
+        "channel": "Sheryians AI School"
+      },
+      "steps": [
+        "Write an if statement that prints 'Adult' when age is 18 or more.",
+        "Add an elif for age 13 to 17 that prints 'Teenager', and an else that prints 'Child'.",
+        "Try the comparison operators ==, !=, > and < in small tests.",
+        "Combine two checks with and and or, for example age >= 18 and has_id."
+      ],
+      "task": "Build a program that asks for a test score and prints A, B, C or F based on the score.",
+      "challenge": "Ask for a password. Print 'Welcome' only if it matches, otherwise print 'Wrong password'.",
+      "quiz": [
+        {
+          "q": "What does == check?",
+          "options": [
+            "If two values are equal",
+            "If two values are different",
+            "If a value is bigger",
+            "Nothing, it assigns a value"
+          ],
+          "answer": 0,
+          "explain": "== compares two values for equality. A single = assigns a value."
+        },
+        {
+          "q": "When does the else block run?",
+          "options": [
+            "Always",
+            "Only when the if (and elif) checks are all false",
+            "Only on Mondays",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "else runs only when every check above it was false."
+        },
+        {
+          "q": "What does 'and' do in a condition?",
+          "options": [
+            "It joins two conditions and both must be true",
+            "It adds two numbers",
+            "It prints both values",
+            "It stops the program"
+          ],
+          "answer": 0,
+          "explain": "and means both sides must be true for the whole condition to be true."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Loops: for",
+      "goal": "Repeat work with for loops over lists and number ranges.",
+      "video": {
+        "youtube_id": "Okd9Y4Pj9pQ",
+        "title": "Python Full Course for Beginners | Complete Python & PyTest Tutorial",
+        "channel": "MasterQAAutomation"
+      },
+      "steps": [
+        "Use for name in names: to print every name in a list.",
+        "Use range(5) to print the numbers 0 to 4.",
+        "Use range(1, 11) to print the numbers 1 to 10.",
+        "Add up all the numbers in a list with a for loop and print the total."
+      ],
+      "task": "Print the 5 times table from 5 x 1 to 5 x 12 using a for loop.",
+      "challenge": "Loop through a list of words and print only the words longer than 4 letters.",
+      "quiz": [
+        {
+          "q": "What does range(3) produce?",
+          "options": [
+            "1, 2, 3",
+            "0, 1, 2",
+            "3, 3, 3",
+            "0, 1, 2, 3"
+          ],
+          "answer": 1,
+          "explain": "range(3) gives 0, 1, 2. It stops before 3."
+        },
+        {
+          "q": "What does a for loop do?",
+          "options": [
+            "It runs code once",
+            "It runs code once for each item in a sequence",
+            "It asks the user a question",
+            "It deletes a list"
+          ],
+          "answer": 1,
+          "explain": "A for loop repeats its block once for each item in a list, string or range."
+        },
+        {
+          "q": "What does break do inside a loop?",
+          "options": [
+            "It skips one item",
+            "It stops the loop immediately",
+            "It restarts the loop",
+            "It prints an error"
+          ],
+          "answer": 1,
+          "explain": "break exits the loop straight away, even if items remain."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Loops: while",
+      "goal": "Repeat work with while loops and stop them safely.",
+      "video": {
+        "youtube_id": "Ej_02ICOIgs",
+        "title": "Learn Object Oriented Programming With Python",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Write a while loop that counts from 1 to 5 and prints each number.",
+        "Make a loop that keeps asking for a password until the right one is typed.",
+        "Use a counter variable and increase it inside the loop so the loop can end.",
+        "Add a break that stops the loop when the user types 'quit'."
+      ],
+      "task": "Build a small menu that keeps showing options until the user picks 'Exit'.",
+      "challenge": "Use a while loop to keep doubling a number until it passes 1000, then print how many steps it took.",
+      "quiz": [
+        {
+          "q": "When does a while loop stop?",
+          "options": [
+            "After 10 times",
+            "When its condition becomes false",
+            "When it feels like it",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "A while loop keeps going while its condition is true and stops when it becomes false."
+        },
+        {
+          "q": "What is an infinite loop?",
+          "options": [
+            "A loop that runs forever because its condition never becomes false",
+            "A loop with 1000 items",
+            "A loop that prints forever by choice",
+            "A loop that only runs once"
+          ],
+          "answer": 0,
+          "explain": "An infinite loop never ends because nothing inside it changes the condition to false."
+        },
+        {
+          "q": "What does continue do in a loop?",
+          "options": [
+            "It stops the loop",
+            "It skips the rest of this round and starts the next one",
+            "It restarts the program",
+            "It prints the loop"
+          ],
+          "answer": 1,
+          "explain": "continue jumps straight to the next round of the loop, skipping the code below it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Functions",
+      "goal": "Write your own functions to reuse code and keep programs tidy.",
+      "video": {
+        "youtube_id": "dNiluzC5Yyw",
+        "title": "Python Classes and Objects Explained",
+        "channel": "CS_WALLAH"
+      },
+      "steps": [
+        "Define a function greet(name) that prints a greeting, then call it with your name.",
+        "Write a function add(a, b) that returns the sum, and print add(3, 4).",
+        "Give a function a default value, like greet(name='friend'), and call it with no argument.",
+        "Write a function that takes a list of numbers and returns the average."
+      ],
+      "task": "Write three functions: one to convert Celsius to Fahrenheit, one for the reverse, and a small menu that uses them.",
+      "challenge": "Write a function that takes a sentence and returns how many words it has.",
+      "quiz": [
+        {
+          "q": "What does def do?",
+          "options": [
+            "It deletes a function",
+            "It defines a new function",
+            "It runs a function",
+            "It prints a function"
+          ],
+          "answer": 1,
+          "explain": "def starts the definition of a function, followed by its name and brackets."
+        },
+        {
+          "q": "What does return do?",
+          "options": [
+            "It prints a value",
+            "It sends a value back to the place that called the function",
+            "It stops the whole program",
+            "It deletes the function"
+          ],
+          "answer": 1,
+          "explain": "return hands a value back to the caller so it can be stored or printed."
+        },
+        {
+          "q": "Why use functions?",
+          "options": [
+            "To make code longer",
+            "To reuse code, avoid repeating yourself and keep programs tidy",
+            "To make programs slower",
+            "To hide errors"
+          ],
+          "answer": 1,
+          "explain": "Functions let you write a piece of logic once and use it many times."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Dictionaries",
+      "goal": "Store data as key-value pairs and look things up by name.",
+      "video": {
+        "youtube_id": "Oz3W-LKfafE",
+        "title": "3 Python Automation Projects – For Beginners",
+        "channel": "Tech With Tim"
+      },
+      "steps": [
+        "Make a dictionary for a person with keys name, age and city, then print it.",
+        "Print one value with person['name'].",
+        "Add a new key and change an existing value, then print the dictionary again.",
+        "Loop through the dictionary and print each key and value."
+      ],
+      "task": "Build a small phone book: store five names with phone numbers, then look up a number by name.",
+      "challenge": "Count how many times each word appears in a sentence using a dictionary.",
+      "quiz": [
+        {
+          "q": "What is a dictionary in Python?",
+          "options": [
+            "A list of words",
+            "A collection of key-value pairs",
+            "A kind of loop",
+            "A text file"
+          ],
+          "answer": 1,
+          "explain": "A dictionary stores pairs: each key has a value, like a real dictionary has words with meanings."
+        },
+        {
+          "q": "How do you get the value for the key 'age'?",
+          "options": [
+            "person.age",
+            "person['age']",
+            "person(age)",
+            "person->age"
+          ],
+          "answer": 1,
+          "explain": "Square brackets with the key, person['age'], give you the value."
+        },
+        {
+          "q": "What does .get('key') do differently from ['key']?",
+          "options": [
+            "It is slower",
+            "It returns None instead of an error when the key is missing",
+            "It deletes the key",
+            "It adds the key"
+          ],
+          "answer": 1,
+          "explain": ".get() returns None (or a default you choose) when the key is missing, instead of crashing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Working with Files",
+      "goal": "Read from and write to text files on your computer.",
+      "video": {
+        "youtube_id": "916TXUN3nPU",
+        "title": "3.5 Hours of Python Automation Projects",
+        "channel": "Internet Made Coder"
+      },
+      "steps": [
+        "Create a file called notes.txt and write three lines into it with open() and write().",
+        "Read the file back with read() and print what is inside.",
+        "Use a with open(...) block so the file closes itself.",
+        "Add a new line to the end of the file without deleting what is there."
+      ],
+      "task": "Build a simple diary program: each entry you type is saved to diary.txt with today's date.",
+      "challenge": "Read a file and count how many lines and words it has.",
+      "quiz": [
+        {
+          "q": "What does open('file.txt', 'w') do?",
+          "options": [
+            "It reads the file",
+            "It opens the file for writing and erases what was there",
+            "It deletes the file",
+            "It renames the file"
+          ],
+          "answer": 1,
+          "explain": "'w' mode opens a file for writing and clears its old content. Use 'a' to add without erasing."
+        },
+        {
+          "q": "Why use 'with open(...)'?",
+          "options": [
+            "It makes the file bigger",
+            "It closes the file for you automatically, even if an error happens",
+            "It prints the file",
+            "It hides the file"
+          ],
+          "answer": 1,
+          "explain": "with makes sure the file is closed properly when the block ends."
+        },
+        {
+          "q": "What does read() return?",
+          "options": [
+            "A list of lines",
+            "The whole file content as one string",
+            "The file name",
+            "The number of lines"
+          ],
+          "answer": 1,
+          "explain": "read() returns the entire file content as a single string."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: To-Do List App",
+      "goal": "Build a console app that saves tasks to a file.",
+      "video": {
+        "youtube_id": "uUWG5cm2Los",
+        "title": "Build a Pomodoro Timer App in Python",
+        "channel": "Alina Chudnova"
+      },
+      "steps": [
+        "Make a list to hold tasks and a menu with Add, Show, Done and Quit.",
+        "Save the tasks to tasks.txt every time one is added or removed.",
+        "Load the tasks from the file when the program starts.",
+        "Let the user mark a task as done by its number."
+      ],
+      "task": "Finish the to-do app and test it: add three tasks, close the program, open it again and check they are still there.",
+      "challenge": "Add due dates to tasks and show them in the list.",
+      "quiz": [
+        {
+          "q": "Why save tasks to a file?",
+          "options": [
+            "To make the program slower",
+            "So the tasks are still there the next time you open the program",
+            "To use more memory",
+            "To hide the tasks"
+          ],
+          "answer": 1,
+          "explain": "Data in memory disappears when the program closes. A file keeps it between runs."
+        },
+        {
+          "q": "Which mode adds to a file without erasing it?",
+          "options": [
+            "'w'",
+            "'r'",
+            "'a'",
+            "'x'"
+          ],
+          "answer": 2,
+          "explain": "'a' (append) adds new content to the end of a file without deleting what is there."
+        },
+        {
+          "q": "What should the program do at startup?",
+          "options": [
+            "Delete the file",
+            "Load saved tasks from the file if it exists",
+            "Print an error",
+            "Ask for a password"
+          ],
+          "answer": 1,
+          "explain": "At startup it should read the saved file so the user sees their old tasks."
+        }
+      ],
+      "project": {
+        "title": "To-Do List App",
+        "brief": "Build a console to-do list app with a menu: add tasks, show tasks, mark tasks done and quit. Tasks must be saved to a file so they survive closing the program.",
+        "checks": [
+          "A menu shows Add, Show, Done and Quit options.",
+          "Adding a task stores it in a list.",
+          "Showing tasks lists them with numbers.",
+          "Marking a task done removes it from the list.",
+          "Tasks are saved to a file and loaded when the program starts.",
+          "The program handles an empty list and bad menu choices kindly."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Modules and pip",
+      "goal": "Use other people's code with import and install packages with pip.",
+      "video": {
+        "youtube_id": "4xTrA2zvOAU",
+        "title": "Python Turtle in 18 MINUTES",
+        "channel": "Zenva"
+      },
+      "steps": [
+        "Import the math module and use math.sqrt(16) and math.pi.",
+        "Import random and use random.choice() to pick a random item from a list.",
+        "Use pip install requests in the terminal to install a package.",
+        "Import requests and check its version."
+      ],
+      "task": "Write a program that uses the datetime module to print today's date and the day of the week.",
+      "challenge": "Use the random module to shuffle a list of quiz questions and ask them in a random order.",
+      "quiz": [
+        {
+          "q": "What is a module?",
+          "options": [
+            "A broken program",
+            "A file of Python code you can import and reuse",
+            "A type of error",
+            "A folder of images"
+          ],
+          "answer": 1,
+          "explain": "A module is a Python file with useful functions and values you can import into your own code."
+        },
+        {
+          "q": "What does pip do?",
+          "options": [
+            "It prints pictures",
+            "It installs Python packages from the internet",
+            "It deletes Python",
+            "It runs your code"
+          ],
+          "answer": 1,
+          "explain": "pip is Python's package installer. pip install requests downloads and installs the requests package."
+        },
+        {
+          "q": "What does import math let you do?",
+          "options": [
+            "It makes maths faster",
+            "It gives you extra maths functions like sqrt and pi",
+            "It deletes numbers",
+            "It draws graphs"
+          ],
+          "answer": 1,
+          "explain": "Importing math gives you ready-made maths tools like square root, pi and rounding."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Error Handling",
+      "goal": "Stop crashes with try and except, and handle bad input kindly.",
+      "video": {
+        "youtube_id": "8ext9G7xspg",
+        "title": "12 Beginner Python Projects - Coding Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Wrap a division in try/except and print a friendly message when dividing by zero.",
+        "Ask the user for a number inside a try block and catch the error if they type letters.",
+        "Use except ValueError for bad numbers and except ZeroDivisionError for zero division.",
+        "Add a finally block that prints 'Done' no matter what happens."
+      ],
+      "task": "Make your calculator catch bad input and division by zero, and keep asking until it gets valid numbers.",
+      "challenge": "Try opening a file that does not exist and catch the FileNotFoundError with a helpful message.",
+      "quiz": [
+        {
+          "q": "What does try/except do?",
+          "options": [
+            "It hides all errors forever",
+            "It tries code and runs a backup plan if an error happens",
+            "It makes code run faster",
+            "It deletes errors from the file"
+          ],
+          "answer": 1,
+          "explain": "try runs code that might fail. If it fails, except runs instead of crashing the program."
+        },
+        {
+          "q": "What error happens when you turn 'abc' into a number with int()?",
+          "options": [
+            "ZeroDivisionError",
+            "ValueError",
+            "NameError",
+            "TypeError"
+          ],
+          "answer": 1,
+          "explain": "int('abc') raises a ValueError because the text cannot be turned into a number."
+        },
+        {
+          "q": "What does finally always do?",
+          "options": [
+            "It runs only when there is no error",
+            "It runs whether or not an error happened",
+            "It stops the program",
+            "It prints the error"
+          ],
+          "answer": 1,
+          "explain": "finally runs at the end no matter what, which is handy for closing files or cleaning up."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Classes and Objects 1",
+      "goal": "Understand objects: a class is a blueprint and an object is a thing built from it.",
+      "video": {
+        "youtube_id": "_uQrJ0TkZlc",
+        "title": "Python Tutorial - Python for Beginners",
+        "channel": "Programming with Mosh"
+      },
+      "steps": [
+        "Define a class Dog with an __init__ that stores name and age.",
+        "Make two Dog objects with different names and print their names.",
+        "Add a method bark() that prints the dog's name plus 'says woof!'.",
+        "Call bark() on both dogs and see the different results."
+      ],
+      "task": "Make a Book class with title, author and pages, plus a method that prints a short summary.",
+      "challenge": "Make a class for a bank account with a balance, and methods to deposit and withdraw money.",
+      "quiz": [
+        {
+          "q": "What is a class?",
+          "options": [
+            "A kind of loop",
+            "A blueprint for creating objects",
+            "A list of numbers",
+            "A file on disk"
+          ],
+          "answer": 1,
+          "explain": "A class is a blueprint. It describes what data and actions its objects will have."
+        },
+        {
+          "q": "What is __init__?",
+          "options": [
+            "A method that runs when you create a new object",
+            "A method that deletes an object",
+            "A variable",
+            "A loop"
+          ],
+          "answer": 0,
+          "explain": "__init__ is the setup method. It runs automatically when you create an object and stores its starting values."
+        },
+        {
+          "q": "What does self mean inside a method?",
+          "options": [
+            "The whole program",
+            "The object itself, so the method can reach its own data",
+            "The class name",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "self refers to the object the method was called on, so it can read and change that object's data."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Classes and Objects 2",
+      "goal": "Use methods, attributes and string representations to make classes useful.",
+      "video": {
+        "youtube_id": "eWRfhZUzrAc",
+        "title": "Python for Beginners – Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Add a __str__ method to your Book class so printing a book shows a nice sentence.",
+        "Add a method is_long() that returns True when a book has more than 300 pages.",
+        "Add a class attribute that counts how many objects have been made.",
+        "Make a method that updates an attribute, like change_price()."
+      ],
+      "task": "Build a Student class with name, scores and a method that returns the average score.",
+      "challenge": "Add a method to your bank account that refuses a withdrawal bigger than the balance.",
+      "quiz": [
+        {
+          "q": "What does __str__ do?",
+          "options": [
+            "It deletes the object",
+            "It decides what shows when you print the object",
+            "It saves the object to a file",
+            "It copies the object"
+          ],
+          "answer": 1,
+          "explain": "__str__ returns the text Python shows when you print an object."
+        },
+        {
+          "q": "What is a method?",
+          "options": [
+            "A variable inside a class",
+            "A function defined inside a class that works on objects",
+            "A kind of list",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A method is a function inside a class. It usually works with the object's data through self."
+        },
+        {
+          "q": "What is an attribute?",
+          "options": [
+            "A method",
+            "A piece of data stored on an object, like name or age",
+            "A loop",
+            "A module"
+          ],
+          "answer": 1,
+          "explain": "Attributes are the data an object holds, such as a dog's name or a book's page count."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Inheritance",
+      "goal": "Reuse code by making a child class that builds on a parent class.",
+      "video": {
+        "youtube_id": "EyEqWFvLDT8",
+        "title": "Python Tutorial For Beginners (With Notes)",
+        "channel": "CodeWithHarry"
+      },
+      "steps": [
+        "Make a parent class Animal with a speak() method.",
+        "Make a child class Cat that inherits from Animal and changes speak() to meow.",
+        "Use super() to reuse the parent's __init__ in the child.",
+        "Make a Dog child class and call speak() on both."
+      ],
+      "task": "Build a Vehicle parent class and Car and Bike child classes with their own extra methods.",
+      "challenge": "Add a method to the parent that the children inherit unchanged, and test it on both.",
+      "quiz": [
+        {
+          "q": "What is inheritance?",
+          "options": [
+            "Copying and pasting code",
+            "A child class getting the parent class's methods and data",
+            "Deleting a class",
+            "Renaming a class"
+          ],
+          "answer": 1,
+          "explain": "Inheritance lets a child class reuse and extend a parent class instead of rewriting the same code."
+        },
+        {
+          "q": "What does super() do?",
+          "options": [
+            "It deletes the parent",
+            "It calls the parent class's method from the child",
+            "It makes the class faster",
+            "It prints the parent"
+          ],
+          "answer": 1,
+          "explain": "super() lets a child class call the parent's method, often to reuse its setup code."
+        },
+        {
+          "q": "What happens when a child defines the same method as the parent?",
+          "options": [
+            "An error",
+            "The child's version is used (overriding)",
+            "The parent's version is used",
+            "Both run"
+          ],
+          "answer": 1,
+          "explain": "The child's method overrides the parent's. The child version runs for child objects."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Automation: Files and Folders",
+      "goal": "Automate boring computer jobs with Python and the os module.",
+      "video": {
+        "youtube_id": "HvA7I0l0nqI",
+        "title": "Python Programming Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Use os.listdir() to list the files in a folder.",
+        "Use os to make a new folder if it does not exist.",
+        "Write a script that moves all .jpg files into a folder called Images.",
+        "Rename files in a loop, adding a number to each name."
+      ],
+      "task": "Build a downloads cleaner: sort files in a folder into Images, Documents and Others folders.",
+      "challenge": "Write a script that finds files bigger than 10 MB in a folder and lists them.",
+      "quiz": [
+        {
+          "q": "What does the os module help with?",
+          "options": [
+            "Drawing pictures",
+            "Working with files, folders and the operating system",
+            "Making websites",
+            "Playing music"
+          ],
+          "answer": 1,
+          "explain": "os gives you tools to list folders, make folders, move files and more."
+        },
+        {
+          "q": "What does os.listdir('.') return?",
+          "options": [
+            "The size of a file",
+            "A list of file and folder names in that folder",
+            "The current date",
+            "An error"
+          ],
+          "answer": 1,
+          "explain": "listdir returns the names of everything inside a folder."
+        },
+        {
+          "q": "Why automate file sorting?",
+          "options": [
+            "It is slower than by hand",
+            "It saves time and avoids mistakes when there are many files",
+            "It deletes files",
+            "It uses more memory"
+          ],
+          "answer": 1,
+          "explain": "A script can sort hundreds of files in a second with no mistakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Pomodoro Timer",
+      "goal": "Build a focus timer that counts down and reminds you to take breaks.",
+      "video": {
+        "youtube_id": "o1fjWjReodE",
+        "title": "Python Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Ask the user how many minutes to focus for.",
+        "Use the time module and sleep(1) to count down second by second.",
+        "Print the remaining time each second in minutes and seconds.",
+        "When time is up, print a message and play a sound or print a bell character."
+      ],
+      "task": "Finish the Pomodoro timer with 25 minutes of focus, a 5 minute break, and four rounds.",
+      "challenge": "Add a log file that records each finished focus session with the date and time.",
+      "quiz": [
+        {
+          "q": "What does time.sleep(1) do?",
+          "options": [
+            "It deletes a second",
+            "It pauses the program for one second",
+            "It makes the computer sleep",
+            "It prints the time"
+          ],
+          "answer": 1,
+          "explain": "sleep(1) pauses your program for one second, which is how you build a countdown."
+        },
+        {
+          "q": "Why count down in seconds?",
+          "options": [
+            "Because minutes are too big",
+            "Because the computer counts in seconds and you can format them into minutes",
+            "Because time only exists in seconds",
+            "Because sleep() only works with seconds"
+          ],
+          "answer": 1,
+          "explain": "sleep() works in seconds, so you count seconds and show them as minutes and seconds."
+        },
+        {
+          "q": "What does the datetime module give you?",
+          "options": [
+            "Random numbers",
+            "The current date and time",
+            "File names",
+            "Internet access"
+          ],
+          "answer": 1,
+          "explain": "datetime lets you read the current date and time and do maths with dates."
+        }
+      ],
+      "project": {
+        "title": "Pomodoro Focus Timer",
+        "brief": "Build a Pomodoro timer: 25 minutes of focus, then a 5 minute break, for four rounds. Show the countdown live and log each finished session to a file.",
+        "checks": [
+          "The timer counts down from the chosen minutes in seconds.",
+          "The remaining time shows as minutes and seconds.",
+          "A message appears when focus time ends and when break time ends.",
+          "The timer runs four focus rounds with breaks between them.",
+          "Each finished session is written to a log file with the date.",
+          "The user can set the focus length at the start."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Build a Calculator App",
+      "goal": "Put functions, loops and error handling together in one useful app.",
+      "video": {
+        "youtube_id": "qQEigNVHlX8",
+        "title": "Python Full Course | Python Tutorial for Beginners | Part 1",
+        "channel": "CodingWithSagar"
+      },
+      "steps": [
+        "Write add, subtract, multiply and divide functions.",
+        "Show a menu and keep it running in a while loop until the user quits.",
+        "Catch bad input with try/except so the app never crashes.",
+        "Add a history list that shows the last five calculations."
+      ],
+      "task": "Finish the calculator and test every operation, including dividing by zero.",
+      "challenge": "Add a power and square root option to the menu.",
+      "quiz": [
+        {
+          "q": "Why keep the menu in a while loop?",
+          "options": [
+            "So it shows once",
+            "So the user can do many calculations without restarting",
+            "So it runs faster",
+            "So it uses less memory"
+          ],
+          "answer": 1,
+          "explain": "A while loop keeps the menu showing until the user chooses to quit."
+        },
+        {
+          "q": "Why split operations into functions?",
+          "options": [
+            "To use more lines",
+            "So each operation is easy to test, fix and reuse",
+            "To make it slower",
+            "To hide the code"
+          ],
+          "answer": 1,
+          "explain": "One function per operation keeps the code tidy and each piece easy to check."
+        },
+        {
+          "q": "What should dividing by zero do in your app?",
+          "options": [
+            "Crash",
+            "Show a friendly message and let the user try again",
+            "Print 0",
+            "Close the app"
+          ],
+          "answer": 1,
+          "explain": "A good app catches the error and explains it, instead of crashing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Reading Data from the Web",
+      "goal": "Fetch a web page with requests and read what comes back.",
+      "video": {
+        "youtube_id": "XKHEtdqhLK8",
+        "title": "Python Full Course for Beginners",
+        "channel": "Bro Code"
+      },
+      "steps": [
+        "Install requests with pip install requests.",
+        "Use requests.get() to fetch a simple web page and print the status code.",
+        "Print the first 200 characters of the page text.",
+        "Check that a 200 status code means the page loaded fine."
+      ],
+      "task": "Fetch a public API that returns a joke or a quote and print the joke or quote.",
+      "challenge": "Fetch three different pages and print each one's status code.",
+      "quiz": [
+        {
+          "q": "What is an API?",
+          "options": [
+            "A kind of file",
+            "A way for programs to ask another service for data",
+            "A Python module",
+            "A website design"
+          ],
+          "answer": 1,
+          "explain": "An API is a set of rules that lets your program request data from another service, like weather or jokes."
+        },
+        {
+          "q": "What does status code 200 mean?",
+          "options": [
+            "Page not found",
+            "Everything worked, the page loaded fine",
+            "Server error",
+            "You are not allowed"
+          ],
+          "answer": 1,
+          "explain": "200 means OK. The request worked and the server sent back what you asked for."
+        },
+        {
+          "q": "What does requests.get(url) return?",
+          "options": [
+            "A file",
+            "A response object with the status code and content",
+            "A number",
+            "A list"
+          ],
+          "answer": 1,
+          "explain": "get() returns a response object. You can read .status_code and .text from it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Working with APIs and JSON",
+      "goal": "Read JSON data from an API and use it in your program.",
+      "video": {
+        "youtube_id": "_aWbUudZ5Yo",
+        "title": "Python Full Course for Beginners to Advanced | 12 Hours",
+        "channel": "Sheryians AI School"
+      },
+      "steps": [
+        "Fetch a JSON API and use .json() to turn the reply into Python data.",
+        "Print one value from the data, like the title of a post.",
+        "Loop through a list in the JSON and print each item.",
+        "Handle the case where the request fails with a friendly message."
+      ],
+      "task": "Build a small program that fetches the current weather for a city and prints the temperature and description.",
+      "challenge": "Fetch a list of users from a public API and print only their names and emails.",
+      "quiz": [
+        {
+          "q": "What is JSON?",
+          "options": [
+            "A programming language",
+            "A text format for sending data, with keys and values",
+            "A kind of database",
+            "A Python module"
+          ],
+          "answer": 1,
+          "explain": "JSON is a plain-text format for data, using curly braces and key-value pairs, like Python dictionaries."
+        },
+        {
+          "q": "What does response.json() do?",
+          "options": [
+            "It prints the response",
+            "It turns JSON text into Python dictionaries and lists",
+            "It saves a file",
+            "It deletes the response"
+          ],
+          "answer": 1,
+          "explain": ".json() parses the JSON text into Python data you can work with."
+        },
+        {
+          "q": "Why check the status code before reading JSON?",
+          "options": [
+            "To make it faster",
+            "Because a failed request may not contain valid JSON",
+            "To save memory",
+            "To hide errors"
+          ],
+          "answer": 1,
+          "explain": "If the request failed, the reply may be an error page, not JSON, and parsing it would crash."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Data with CSV Files",
+      "goal": "Read and write spreadsheet-style CSV files with Python.",
+      "video": {
+        "youtube_id": "Okd9Y4Pj9pQ",
+        "title": "Python Full Course for Beginners | Complete Python & PyTest Tutorial",
+        "channel": "MasterQAAutomation"
+      },
+      "steps": [
+        "Use the csv module to read a CSV file and print each row.",
+        "Count how many rows the file has.",
+        "Write a new CSV file with a header row and three rows of data.",
+        "Use a dictionary to store one row and write it with DictWriter."
+      ],
+      "task": "Make an expense tracker: save expenses to expenses.csv and print the total spent.",
+      "challenge": "Read a CSV of scores and print the highest, lowest and average score.",
+      "quiz": [
+        {
+          "q": "What is a CSV file?",
+          "options": [
+            "A picture file",
+            "A text file where values are separated by commas, like a simple spreadsheet",
+            "A Python program",
+            "A sound file"
+          ],
+          "answer": 1,
+          "explain": "CSV stands for comma-separated values. Each line is a row and commas split the columns."
+        },
+        {
+          "q": "What does csv.DictReader do?",
+          "options": [
+            "It deletes a file",
+            "It reads a CSV and gives each row as a dictionary using the header as keys",
+            "It writes a CSV",
+            "It sorts a CSV"
+          ],
+          "answer": 1,
+          "explain": "DictReader turns each row into a dictionary, so you can read row['name'] instead of counting columns."
+        },
+        {
+          "q": "Why use the csv module instead of splitting text by hand?",
+          "options": [
+            "It is slower",
+            "It handles commas inside quotes and new lines correctly",
+            "It makes bigger files",
+            "It needs no code"
+          ],
+          "answer": 1,
+          "explain": "Real CSV data can have commas inside values. The csv module handles those cases safely."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Turtle Graphics Game",
+      "goal": "Draw and make a small game with the turtle module.",
+      "video": {
+        "youtube_id": "Ej_02ICOIgs",
+        "title": "Learn Object Oriented Programming With Python",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Import turtle, make a turtle, and draw a square with a loop.",
+        "Change the pen colour and draw a circle.",
+        "Use the arrow keys to move the turtle with onkey().",
+        "Make the turtle move forward on its own in a loop."
+      ],
+      "task": "Draw a simple house with turtle: a square, a triangle roof and a door.",
+      "challenge": "Make a turtle race: three turtles race to the right edge with random steps.",
+      "quiz": [
+        {
+          "q": "What is the turtle module?",
+          "options": [
+            "A database",
+            "A drawing tool that moves a turtle around the screen to draw shapes",
+            "A web browser",
+            "A game engine"
+          ],
+          "answer": 1,
+          "explain": "turtle is a simple drawing tool. You tell a turtle to move and turn, and it draws as it goes."
+        },
+        {
+          "q": "What does forward(100) do?",
+          "options": [
+            "It turns the turtle",
+            "It moves the turtle 100 steps in the direction it faces",
+            "It draws a circle",
+            "It clears the screen"
+          ],
+          "answer": 1,
+          "explain": "forward(100) moves the turtle 100 pixels forward, drawing a line if the pen is down."
+        },
+        {
+          "q": "What does onkey() do?",
+          "options": [
+            "It draws a key",
+            "It runs a function when you press a key",
+            "It closes the window",
+            "It saves the drawing"
+          ],
+          "answer": 1,
+          "explain": "onkey() links a keyboard key to a function, so pressing the key runs your code."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Build a Quiz Game",
+      "goal": "Build a quiz that asks questions, keeps score and shows a result.",
+      "video": {
+        "youtube_id": "dNiluzC5Yyw",
+        "title": "Python Classes and Objects Explained",
+        "channel": "CS_WALLAH"
+      },
+      "steps": [
+        "Store questions as a list of dictionaries with question, options and answer.",
+        "Ask each question, read the answer and check if it is right.",
+        "Add one point for each right answer and show the score at the end.",
+        "Print a different message for a perfect score, a good score and a low score."
+      ],
+      "task": "Finish the quiz with at least 5 questions about Python and test it on a friend.",
+      "challenge": "Shuffle the questions each time the quiz runs so the order changes.",
+      "quiz": [
+        {
+          "q": "Why store questions in a list of dictionaries?",
+          "options": [
+            "To make it slower",
+            "So each question keeps its text, options and answer together in one tidy place",
+            "To hide the answers",
+            "To use more memory"
+          ],
+          "answer": 1,
+          "explain": "A dictionary keeps each question's text, options and correct answer together, and a list holds them all in order."
+        },
+        {
+          "q": "What does random.shuffle() do?",
+          "options": [
+            "It picks one item",
+            "It mixes a list into a random order",
+            "It deletes a list",
+            "It sorts a list"
+          ],
+          "answer": 1,
+          "explain": "shuffle() rearranges a list into a random order in place."
+        },
+        {
+          "q": "How do you keep score in a quiz?",
+          "options": [
+            "With a string",
+            "With a number variable that grows by 1 for each right answer",
+            "With a list",
+            "You cannot"
+          ],
+          "answer": 1,
+          "explain": "A score variable starts at 0 and you add 1 each time the player answers correctly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Debugging and Testing",
+      "goal": "Find and fix bugs, and write simple tests with pytest.",
+      "video": {
+        "youtube_id": "Oz3W-LKfafE",
+        "title": "3 Python Automation Projects – For Beginners",
+        "channel": "Tech With Tim"
+      },
+      "steps": [
+        "Run a program with a bug, read the error message, and find the line number it points to.",
+        "Add print() statements to see what a variable holds at a key point.",
+        "Install pytest and write a test file that checks your add() function.",
+        "Run pytest and read the green pass or red fail result."
+      ],
+      "task": "Write tests for your calculator functions: add, subtract, multiply and divide.",
+      "challenge": "Fix three small bugs in a sample program using only the error messages as clues.",
+      "quiz": [
+        {
+          "q": "What is debugging?",
+          "options": [
+            "Writing new code",
+            "Finding and fixing mistakes in code",
+            "Deleting code",
+            "Running code faster"
+          ],
+          "answer": 1,
+          "explain": "Debugging is the process of finding why code misbehaves and fixing it."
+        },
+        {
+          "q": "What does a traceback tell you?",
+          "options": [
+            "Nothing useful",
+            "Which line failed and what kind of error happened",
+            "How fast the code ran",
+            "Who wrote the code"
+          ],
+          "answer": 1,
+          "explain": "A traceback shows the error type and the exact line where it happened, which is your best clue."
+        },
+        {
+          "q": "What does pytest do?",
+          "options": [
+            "It deletes tests",
+            "It runs your test functions and reports which pass and which fail",
+            "It writes code for you",
+            "It installs Python"
+          ],
+          "answer": 1,
+          "explain": "pytest finds functions starting with test_ and runs them, telling you which ones passed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Polish a Project and Use GitHub",
+      "goal": "Clean up a project, write a README and put it on GitHub.",
+      "video": {
+        "youtube_id": "916TXUN3nPU",
+        "title": "3.5 Hours of Python Automation Projects",
+        "channel": "Internet Made Coder"
+      },
+      "steps": [
+        "Pick your best project and remove unused code and extra print statements.",
+        "Add comments that explain the tricky parts.",
+        "Write a README.md that explains what the project does and how to run it.",
+        "Create a GitHub account and upload the project to a new repository."
+      ],
+      "task": "Push your to-do list app or calculator to GitHub with a clear README.",
+      "challenge": "Add a screenshot or a short demo description to your README.",
+      "quiz": [
+        {
+          "q": "What is a README file?",
+          "options": [
+            "A secret file",
+            "A file that explains what a project does and how to use it",
+            "A backup file",
+            "A test file"
+          ],
+          "answer": 1,
+          "explain": "A README is the first thing people see on your project page. It explains the project and how to run it."
+        },
+        {
+          "q": "What is GitHub?",
+          "options": [
+            "A social network for photos",
+            "A website to store and share code with version history",
+            "A Python module",
+            "A cloud drive for music"
+          ],
+          "answer": 1,
+          "explain": "GitHub stores your code online, keeps its history, and lets others see and use it."
+        },
+        {
+          "q": "Why clean up code before sharing it?",
+          "options": [
+            "To make it longer",
+            "So others can read it, trust it and run it without confusion",
+            "To delete features",
+            "To hide your name"
+          ],
+          "answer": 1,
+          "explain": "Clean, commented code with a README shows professionalism and helps others use your work."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Present Your Work",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "uUWG5cm2Los",
+        "title": "Build a Pomodoro Timer App in Python",
+        "channel": "Alina Chudnova"
+      },
+      "steps": [
+        "List all the programs you built in 30 days and pick your favourite.",
+        "Write a short plan: what the program does, who it helps and how it works.",
+        "Practise explaining your code in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your program running."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your project.",
+      "challenge": "Show your project to one person and note their questions, then improve your explanation.",
+      "quiz": [
+        {
+          "q": "What makes a good project demo?",
+          "options": [
+            "Long code",
+            "A clear explanation of the problem, the solution and a live run",
+            "Loud music",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A good demo shows the problem, how your program solves it, and the program actually running."
+        },
+        {
+          "q": "Why practise explaining your code?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your code in simple words, you really understand it. That is what employers look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the code",
+            "The problem, the features, the tools used and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the problem you solve, the features you will build, the tools you will use and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Build and Share a Python Automation Tool",
+    "brief": "Build a Python tool that automates a real daily job: a downloads folder cleaner, an expense tracker, or a daily report maker. It must read or write files, handle errors kindly, and be shared on GitHub with a README and a short demo.",
+    "checks": [
+      "The tool solves one real daily problem and you can explain the problem in one sentence.",
+      "It reads from or writes to files on the computer.",
+      "It uses at least one function you wrote and one loop.",
+      "It handles bad input and missing files with try/except instead of crashing.",
+      "It has a README that explains what it does and how to run it.",
+      "The code is on GitHub in a public repository.",
+      "You can show a live demo and explain how it works in simple words."
+    ],
+    "deliverables": [
+      "A working Python automation tool (the .py file).",
+      "A README.md explaining the problem, the features and how to run it.",
+      "A public GitHub repository link with the code.",
+      "A short demo video or screenshots showing the tool running.",
+      "A one-page write-up of what you learned in 30 days."
+    ]
+  }
+}

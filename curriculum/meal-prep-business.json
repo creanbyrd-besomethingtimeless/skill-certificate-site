@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "meal-prep-business",
+    "title": "Meal Prep Business",
+    "level": "Beginner",
+    "tagline": "Plan, cook and sell weekly meal prep boxes that busy people reorder.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Is Meal Prep?",
+      "goal": "Know what meal prep is and who buys it.",
+      "video": {
+        "youtube_id": "TC_WyRbgupg",
+        "title": "How to Start a Thriving Meal Prep Business from Scratch",
+        "channel": "Whop"
+      },
+      "steps": [
+        "Meal prep means cooking meals in advance for the week.",
+        "Customers are busy people who want healthy food without cooking.",
+        "You cook once or twice a week and deliver boxes for the week.",
+        "Each box has a main, a side, and sometimes a snack.",
+        "Meal prep saves customers time. That is what they pay for."
+      ],
+      "task": "Write down who your customers are and why they would buy from you.",
+      "challenge": "List three people you know who might buy meal prep boxes.",
+      "quiz": [
+        {
+          "q": "What is meal prep?",
+          "options": [
+            "Cooking at a restaurant",
+            "Cooking meals in advance for the week",
+            "Selling raw food",
+            "Cooking for a party"
+          ],
+          "answer": 1,
+          "explain": "Meal prep is cooking meals ahead for the week."
+        },
+        {
+          "q": "Who buys meal prep?",
+          "options": [
+            "Only rich people",
+            "Busy people who want healthy food without cooking",
+            "Only students",
+            "Only old people"
+          ],
+          "answer": 1,
+          "explain": "Busy people buy meal prep to save time."
+        },
+        {
+          "q": "What is in a meal prep box?",
+          "options": [
+            "Only rice",
+            "A main, a side, and sometimes a snack",
+            "Only soup",
+            "Only meat"
+          ],
+          "answer": 1,
+          "explain": "A box has a main, a side, and sometimes a snack."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Plan Your First Meal Prep Menu",
+      "goal": "Plan a weekly menu with variety.",
+      "video": {
+        "youtube_id": "SCmpY6SP0z4",
+        "title": "Selling Meal Prep - Feeding the Health Freaks",
+        "channel": "Side Hustle"
+      },
+      "steps": [
+        "Pick 3 or 4 mains for the week. Keep it simple.",
+        "Offer variety: chicken, fish, beef, and a vegetarian option.",
+        "Each meal needs a protein, a carb (like rice), and vegetables.",
+        "Use ingredients that stay tasty for days.",
+        "Write the menu with prices per box."
+      ],
+      "task": "Plan a weekly menu with 4 mains.",
+      "challenge": "Write the price per box for each meal.",
+      "quiz": [
+        {
+          "q": "What should each meal prep box have?",
+          "options": [
+            "Only rice",
+            "A protein, a carb, and vegetables",
+            "Only meat",
+            "Only vegetables"
+          ],
+          "answer": 1,
+          "explain": "A good box has protein, a carb like rice, and vegetables."
+        },
+        {
+          "q": "Why offer variety?",
+          "options": [
+            "It is fancy",
+            "So customers do not get bored",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Variety keeps customers ordering every week."
+        },
+        {
+          "q": "Why use ingredients that stay tasty?",
+          "options": [
+            "They are cheaper",
+            "Food must taste good on day 4, not just day 1",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Meal prep food is eaten days later, so it must stay tasty."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Cooking Rice for Meal Prep",
+      "goal": "Cook rice that stays good for days.",
+      "video": {
+        "youtube_id": "e81SQgJMUbA",
+        "title": "How to Price Your Food Product Series: Pricing Homemade Food",
+        "channel": "Marketing Food Online"
+      },
+      "steps": [
+        "Rinse rice until the water runs clear.",
+        "Use 1 part rice to 1.5 parts water.",
+        "Cook on low heat with the lid on. Do not lift the lid.",
+        "Rest for 10 minutes, then fluff with a fork.",
+        "Cool fast in shallow containers before packing."
+      ],
+      "task": "Cook a big pot of rice for meal prep.",
+      "challenge": "Pack it into boxes and check it after 2 days.",
+      "quiz": [
+        {
+          "q": "Why rinse rice?",
+          "options": [
+            "To make it white",
+            "To remove starch so it stays separate",
+            "To cook faster",
+            "To add flavour"
+          ],
+          "answer": 1,
+          "explain": "Rinsing removes starch so rice stays fluffy."
+        },
+        {
+          "q": "Why not lift the lid while rice cooks?",
+          "options": [
+            "It is dangerous",
+            "It lets steam out and ruins the cooking",
+            "It cools the pot",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Rice cooks in trapped steam. Lifting the lid lets it out."
+        },
+        {
+          "q": "Why cool rice fast before packing?",
+          "options": [
+            "It tastes better",
+            "Slow cooling lets germs grow",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Rice must cool fast so germs cannot grow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Roast Chicken for the Week",
+      "goal": "Roast chicken and vegetables for meal prep boxes.",
+      "video": {
+        "youtube_id": "09ghWDzewus",
+        "title": "How to Start Selling Homemade Meals from Home?",
+        "channel": "Enriquecendo aos 40"
+      },
+      "steps": [
+        "Season chicken with salt, pepper, and garlic.",
+        "Cut vegetables into similar sizes.",
+        "Roast at 200°C until the chicken reaches 75°C inside.",
+        "Rest for 10 minutes before cutting.",
+        "Cut into portions and pack with vegetables and rice."
+      ],
+      "task": "Roast a chicken with vegetables and pack 4 boxes.",
+      "challenge": "Taste a box on day 3 and note if it is still good.",
+      "quiz": [
+        {
+          "q": "What temperature must chicken reach?",
+          "options": [
+            "60°C",
+            "75°C",
+            "90°C",
+            "100°C"
+          ],
+          "answer": 1,
+          "explain": "Chicken must reach 75°C inside to be safe."
+        },
+        {
+          "q": "Why rest chicken before cutting?",
+          "options": [
+            "It cools down",
+            "Juices spread back so the meat stays moist",
+            "It is easier to hold",
+            "The skin gets crisp"
+          ],
+          "answer": 1,
+          "explain": "Resting keeps the juices in the meat."
+        },
+        {
+          "q": "Why cut vegetables into similar sizes?",
+          "options": [
+            "It looks nice",
+            "So they cook at the same rate",
+            "To save time",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "Even sizes cook evenly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Chicken Fried Rice for Boxes",
+      "goal": "Make chicken fried rice that packs well.",
+      "video": {
+        "youtube_id": "TT57UfsWGWU",
+        "title": "Beginners Guide to Meal Prep (Meal Prep Ideas!)",
+        "channel": "V Shred"
+      },
+      "steps": [
+        "Use cold, day-old rice. Fresh rice turns mushy.",
+        "Fry chicken first, then set it aside.",
+        "Fry onion, garlic, and vegetables.",
+        "Add rice and soy sauce. Toss on high heat.",
+        "Cool fast and pack into boxes."
+      ],
+      "task": "Make chicken fried rice and pack 4 boxes.",
+      "challenge": "Taste a box on day 2 and day 4. Compare.",
+      "quiz": [
+        {
+          "q": "Why use day-old rice for fried rice?",
+          "options": [
+            "It is cheaper",
+            "Cold rice stays separate instead of turning mushy",
+            "It cooks faster",
+            "It tastes better"
+          ],
+          "answer": 1,
+          "explain": "Cold, dry rice fries into separate grains."
+        },
+        {
+          "q": "Why fry chicken first and set it aside?",
+          "options": [
+            "To save time",
+            "So it does not overcook while the rice fries",
+            "It is tradition",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "Chicken cooked first and added back at the end stays tender."
+        },
+        {
+          "q": "Why cool fried rice fast?",
+          "options": [
+            "It tastes better",
+            "Slow cooling lets germs grow",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Rice must cool fast to stay safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Packing Boxes: Keep Food Fresh",
+      "goal": "Pack meal prep boxes so food stays fresh.",
+      "video": {
+        "youtube_id": "EbE4vfIolIA",
+        "title": "How to Cook Rice",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Use food-grade containers that seal tightly.",
+        "Cool food fully before packing. Warm food makes steam and goes soggy.",
+        "Pack rice, protein, and vegetables in separate parts of the box.",
+        "Label with the meal name and the date.",
+        "Store boxes in the fridge. Use within 4 days."
+      ],
+      "task": "Pack 4 meal prep boxes.",
+      "challenge": "Label them and store them in the fridge.",
+      "quiz": [
+        {
+          "q": "Why cool food before packing?",
+          "options": [
+            "It tastes better",
+            "Warm food makes steam and goes soggy",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Warm food in a closed box makes steam, which makes food soggy."
+        },
+        {
+          "q": "How long do meal prep boxes keep in the fridge?",
+          "options": [
+            "1 week",
+            "Up to 4 days",
+            "2 weeks",
+            "1 day"
+          ],
+          "answer": 1,
+          "explain": "Cooked meal prep boxes keep up to 4 days in the fridge."
+        },
+        {
+          "q": "Why label boxes?",
+          "options": [
+            "To show off",
+            "So customers know what it is and when it was made",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Labels tell the customer what the meal is and when it was made."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Week of Boxes",
+      "goal": "Cook and pack a full week of meal prep boxes.",
+      "video": {
+        "youtube_id": "vUGqBIM7Cz4",
+        "title": "How to Cook Roast Chicken and Vegetables",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Plan the menu: 4 mains for the week.",
+        "Write the shopping list and costs.",
+        "Cook everything in one day: rice, chicken, fried rice, and vegetables.",
+        "Pack 8 to 12 boxes and label them.",
+        "Eat one box each day and note how it tastes on day 4."
+      ],
+      "task": "Cook and pack a week of boxes for yourself.",
+      "challenge": "Cost the week and work out the price per box.",
+      "quiz": [
+        {
+          "q": "Why cook everything in one day?",
+          "options": [
+            "It is faster",
+            "One big cook saves time and gas for the week",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Cooking once for the week saves time and gas."
+        },
+        {
+          "q": "Why label every box?",
+          "options": [
+            "To show off",
+            "So you know what it is and when it was made",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Labels stop mix-ups and show freshness."
+        },
+        {
+          "q": "Why cost the week?",
+          "options": [
+            "To show off",
+            "So you know the price per box",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing tells you what to charge per box."
+        }
+      ],
+      "project": {
+        "title": "Cook a Week of Meal Prep Boxes",
+        "brief": "Cook and pack 8 to 12 boxes for the week.",
+        "checks": [
+          "Menu planned with 4 mains",
+          "Shopping list and costs written",
+          "Rice, chicken, and fried rice cooked",
+          "8 to 12 boxes packed and labelled",
+          "Boxes stored in the fridge",
+          "Price per box worked out"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Pricing Meal Prep Boxes",
+      "goal": "Set prices that make a profit.",
+      "video": {
+        "youtube_id": "Zk2aJoFZIaY",
+        "title": "Chicken Fried Rice",
+        "channel": "Natasha's Kitchen"
+      },
+      "steps": [
+        "List every ingredient with its price.",
+        "Add the cost of the box, packaging, and delivery.",
+        "Add your time: how many hours did you cook?",
+        "Divide the total by the number of boxes.",
+        "Charge 2 to 3 times the food cost for a profit."
+      ],
+      "task": "Cost one week of boxes and set the price per box.",
+      "challenge": "Compare your price with meal prep sellers near you.",
+      "quiz": [
+        {
+          "q": "What is the cost per box?",
+          "options": [
+            "The selling price",
+            "Total cost divided by the number of boxes",
+            "The food cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Cost per box is the total cost shared across all the boxes you made."
+        },
+        {
+          "q": "Why charge 2 to 3 times the food cost?",
+          "options": [
+            "To be expensive",
+            "To cover packaging, delivery, and your time, and still make a profit",
+            "It is a law",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "The extra covers all costs beyond food and leaves profit."
+        },
+        {
+          "q": "What else must you add to the cost?",
+          "options": [
+            "Nothing",
+            "Box, packaging, and delivery",
+            "Only your time",
+            "Only transport"
+          ],
+          "answer": 1,
+          "explain": "Boxes, packaging, and delivery are real costs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Healthy Meal Prep: Balanced Boxes",
+      "goal": "Make healthy, balanced meal prep boxes.",
+      "video": {
+        "youtube_id": "eJImdb1Dfh8",
+        "title": "Chicken Egg Fried Rice",
+        "channel": "Flavourfully Good"
+      },
+      "steps": [
+        "Each box needs protein, a carb, and vegetables.",
+        "Use less oil and salt. Use herbs and spices for flavour.",
+        "Offer a low-carb option: more vegetables, less rice.",
+        "Offer a high-protein option for gym customers.",
+        "Write the calories on the label if you can."
+      ],
+      "task": "Make a healthy box with less oil and salt.",
+      "challenge": "Make a high-protein box for gym customers.",
+      "quiz": [
+        {
+          "q": "What makes a box balanced?",
+          "options": [
+            "Only rice",
+            "Protein, a carb, and vegetables",
+            "Only meat",
+            "Only vegetables"
+          ],
+          "answer": 1,
+          "explain": "A balanced box has protein, a carb, and vegetables."
+        },
+        {
+          "q": "How do you cut salt without losing flavour?",
+          "options": [
+            "Use none",
+            "Use herbs, spices, and peppers",
+            "Use sugar",
+            "Use water"
+          ],
+          "answer": 1,
+          "explain": "Herbs, spices, and peppers add flavour so you need less salt."
+        },
+        {
+          "q": "What is a high-protein box?",
+          "options": [
+            "A box with more rice",
+            "A box with extra meat, eggs, or beans",
+            "A box with more vegetables",
+            "A box with more oil"
+          ],
+          "answer": 1,
+          "explain": "A high-protein box has extra meat, eggs, or beans."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Pasta for Meal Prep",
+      "goal": "Cook pasta that stays good in boxes.",
+      "video": {
+        "youtube_id": "FZgZPARYwFI",
+        "title": "How to Cook Pasta",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Cook pasta until it is just firm, not soft.",
+        "Toss with a little oil so it does not stick.",
+        "Cool fast in shallow containers.",
+        "Pack with sauce separately so pasta does not go soggy.",
+        "Reheat with a splash of water."
+      ],
+      "task": "Cook pasta and pack 4 boxes.",
+      "challenge": "Taste a box on day 3 and note if it is still good.",
+      "quiz": [
+        {
+          "q": "Why cook pasta just firm for meal prep?",
+          "options": [
+            "It tastes better",
+            "It softens a little when reheated",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Pasta cooked firm stays good after reheating. Soft pasta turns mushy."
+        },
+        {
+          "q": "Why pack sauce separately?",
+          "options": [
+            "It looks nice",
+            "So pasta does not go soggy",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Sauce mixed in early soaks into pasta and makes it soggy."
+        },
+        {
+          "q": "Why add water when reheating pasta?",
+          "options": [
+            "It tastes better",
+            "It stops pasta drying out",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A splash of water keeps pasta moist when reheated."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Smoothies for Meal Prep",
+      "goal": "Add a smoothie to your meal prep boxes.",
+      "video": {
+        "youtube_id": "RTfuY-5vISI",
+        "title": "How to Make a Smoothie",
+        "channel": "Perfect Smoothie"
+      },
+      "steps": [
+        "Make a smoothie with banana, mango, and milk.",
+        "Pour into small bottles with tight lids.",
+        "Label with the date. Drink within 2 days.",
+        "Offer a smoothie as an extra with a box.",
+        "Charge a little extra for the smoothie."
+      ],
+      "task": "Make smoothies and add them to your boxes.",
+      "challenge": "Price a box with a smoothie and a box without.",
+      "quiz": [
+        {
+          "q": "How long does a smoothie keep?",
+          "options": [
+            "1 week",
+            "About 2 days",
+            "1 month",
+            "1 day only"
+          ],
+          "answer": 1,
+          "explain": "Fresh smoothies are best within 2 days."
+        },
+        {
+          "q": "Why offer a smoothie with a box?",
+          "options": [
+            "It is fancy",
+            "It adds value and customers like it",
+            "It is a rule",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "A smoothie makes the box feel like a full meal."
+        },
+        {
+          "q": "Why charge extra for a smoothie?",
+          "options": [
+            "To be expensive",
+            "It costs fruit and a bottle",
+            "It is a rule",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "A smoothie has its own costs, so it has its own price."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Finding Customers: Who Needs Meal Prep?",
+      "goal": "Find your first meal prep customers.",
+      "video": {
+        "youtube_id": "TC_WyRbgupg",
+        "title": "How to Start a Thriving Meal Prep Business from Scratch",
+        "channel": "Whop"
+      },
+      "steps": [
+        "Busy workers, gym goers, and students are good customers.",
+        "Tell friends and family first. Ask them to share.",
+        "Post your menu and prices on WhatsApp and social media.",
+        "Offer a free sample box to your first customers.",
+        "Ask happy customers to tell their friends."
+      ],
+      "task": "Post your meal prep menu on WhatsApp or social media.",
+      "challenge": "Offer a free sample box to one person.",
+      "quiz": [
+        {
+          "q": "Who buys meal prep?",
+          "options": [
+            "Only rich people",
+            "Busy workers, gym goers, and students",
+            "Only old people",
+            "Only children"
+          ],
+          "answer": 1,
+          "explain": "Busy workers, gym goers, and students are the main buyers."
+        },
+        {
+          "q": "Why offer a free sample box?",
+          "options": [
+            "To waste food",
+            "So people taste your food and order more",
+            "It is a rule",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "A free sample lets people taste your food before they pay."
+        },
+        {
+          "q": "Why ask customers to tell friends?",
+          "options": [
+            "To show off",
+            "Word of mouth is the best free advert",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Happy customers telling friends is the cheapest marketing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Weekly Subscriptions: Regular Income",
+      "goal": "Sell weekly subscriptions for steady income.",
+      "video": {
+        "youtube_id": "SCmpY6SP0z4",
+        "title": "Selling Meal Prep - Feeding the Health Freaks",
+        "channel": "Side Hustle"
+      },
+      "steps": [
+        "A subscription means a customer pays for a week of boxes in advance.",
+        "Offer 5 boxes a week (Monday to Friday) or 7 boxes.",
+        "Give a small discount for a weekly subscription.",
+        "Take payment in advance. Do not cook without payment.",
+        "Deliver on the same days each week so customers can plan."
+      ],
+      "task": "Plan a weekly subscription: 5 boxes, price, and delivery days.",
+      "challenge": "Offer it to three people and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a weekly subscription?",
+          "options": [
+            "Paying daily",
+            "Paying in advance for a week of boxes",
+            "A discount",
+            "A free box"
+          ],
+          "answer": 1,
+          "explain": "A subscription is payment in advance for a week of boxes."
+        },
+        {
+          "q": "Why take payment in advance?",
+          "options": [
+            "To show off",
+            "So you do not cook food nobody pays for",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Advance payment means you cook only what is sold."
+        },
+        {
+          "q": "Why deliver on the same days each week?",
+          "options": [
+            "It is a rule",
+            "So customers can plan",
+            "It saves time",
+            "It is polite"
+          ],
+          "answer": 1,
+          "explain": "Regular delivery days help customers plan their week."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: Sell Your First Boxes",
+      "goal": "Sell your first meal prep boxes to real customers.",
+      "video": {
+        "youtube_id": "e81SQgJMUbA",
+        "title": "How to Price Your Food Product Series: Pricing Homemade Food",
+        "channel": "Marketing Food Online"
+      },
+      "steps": [
+        "Plan the menu and take orders in advance.",
+        "Cook everything in one day.",
+        "Pack boxes neatly and label them.",
+        "Deliver on time to your customers.",
+        "Ask for feedback and work out your profit."
+      ],
+      "task": "Sell meal prep boxes to at least 3 customers.",
+      "challenge": "Work out your sales, costs, and profit.",
+      "quiz": [
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you cook only what is sold",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why deliver on time?",
+          "options": [
+            "It is polite",
+            "Late food loses customers fast",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "On-time delivery builds trust."
+        },
+        {
+          "q": "Why ask for feedback?",
+          "options": [
+            "To be polite",
+            "It tells you what to improve",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Feedback shows what customers liked and what to fix."
+        }
+      ],
+      "project": {
+        "title": "Sell Your First Meal Prep Boxes",
+        "brief": "Cook, pack, and deliver boxes to at least 3 customers.",
+        "checks": [
+          "Menu planned and orders taken in advance",
+          "Boxes cooked in one day",
+          "Boxes packed neatly and labelled",
+          "Delivered on time",
+          "Feedback collected from customers",
+          "Sales, costs, and profit worked out"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Food Safety for Meal Prep",
+      "goal": "Keep meal prep food safe.",
+      "video": {
+        "youtube_id": "09ghWDzewus",
+        "title": "How to Start Selling Homemade Meals from Home?",
+        "channel": "Enriquecendo aos 40"
+      },
+      "steps": [
+        "Cool food fast, within 2 hours.",
+        "Store boxes in the fridge below 5°C.",
+        "Use boxes within 4 days. Freeze extras.",
+        "Label every box with the date.",
+        "Tell customers to reheat until steaming hot."
+      ],
+      "task": "Do a food safety check of your meal prep work.",
+      "challenge": "Write a food safety list for your business.",
+      "quiz": [
+        {
+          "q": "How fast must food cool?",
+          "options": [
+            "Within 6 hours",
+            "Within 2 hours",
+            "By bedtime",
+            "Next day"
+          ],
+          "answer": 1,
+          "explain": "Food must cool within 2 hours to stay safe."
+        },
+        {
+          "q": "How long do boxes keep in the fridge?",
+          "options": [
+            "1 week",
+            "Up to 4 days",
+            "2 weeks",
+            "1 day"
+          ],
+          "answer": 1,
+          "explain": "Meal prep boxes keep up to 4 days in the fridge."
+        },
+        {
+          "q": "Why tell customers to reheat until steaming hot?",
+          "options": [
+            "It tastes better",
+            "So the food is safe to eat",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Reheating until steaming hot kills germs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Freezing Meal Prep Boxes",
+      "goal": "Freeze boxes so they last longer.",
+      "video": {
+        "youtube_id": "TT57UfsWGWU",
+        "title": "Beginners Guide to Meal Prep (Meal Prep Ideas!)",
+        "channel": "V Shred"
+      },
+      "steps": [
+        "Freeze boxes you will not eat within 4 days.",
+        "Use freezer-safe containers.",
+        "Label with the meal name and date.",
+        "Thaw in the fridge overnight, never on the counter.",
+        "Eat within 1 month of freezing."
+      ],
+      "task": "Freeze 4 boxes and label them.",
+      "challenge": "Thaw one box in the fridge and reheat it properly.",
+      "quiz": [
+        {
+          "q": "When should you freeze a box?",
+          "options": [
+            "At once",
+            "If you will not eat it within 4 days",
+            "Never",
+            "After 1 week"
+          ],
+          "answer": 1,
+          "explain": "Freeze boxes you will not eat within 4 days."
+        },
+        {
+          "q": "How do you thaw a frozen box?",
+          "options": [
+            "On the counter",
+            "In the fridge overnight",
+            "In hot water",
+            "In the sun"
+          ],
+          "answer": 1,
+          "explain": "Thawing in the fridge keeps food cold and safe."
+        },
+        {
+          "q": "How long do frozen boxes keep?",
+          "options": [
+            "1 year",
+            "About 1 month",
+            "1 week",
+            "6 months"
+          ],
+          "answer": 1,
+          "explain": "Frozen meal prep boxes are best within 1 month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Delivery: Get Boxes to Customers",
+      "goal": "Deliver meal prep boxes safely and on time.",
+      "video": {
+        "youtube_id": "EbE4vfIolIA",
+        "title": "How to Cook Rice",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Use a cooler bag with ice to keep boxes cold.",
+        "Plan your delivery route: nearest first, furthest last.",
+        "Tell customers the delivery time in advance.",
+        "Deliver on time, every time.",
+        "Ask customers to put boxes in the fridge at once."
+      ],
+      "task": "Plan a delivery route for 5 customers.",
+      "challenge": "Deliver boxes using a cooler bag.",
+      "quiz": [
+        {
+          "q": "Why use a cooler bag?",
+          "options": [
+            "It looks nice",
+            "It keeps boxes cold during delivery",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A cooler bag keeps food at a safe temperature."
+        },
+        {
+          "q": "Why plan your route?",
+          "options": [
+            "It is polite",
+            "So deliveries are fast and on time",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A planned route saves time and keeps food cold."
+        },
+        {
+          "q": "Why tell customers the delivery time?",
+          "options": [
+            "To be polite",
+            "So they are home to receive the boxes",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Customers must be home to put boxes in the fridge at once."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Seasonal Menus: Change with the Seasons",
+      "goal": "Change your menu with the seasons.",
+      "video": {
+        "youtube_id": "vUGqBIM7Cz4",
+        "title": "How to Cook Roast Chicken and Vegetables",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Use fruit and vegetables in season. They are cheaper and tastier.",
+        "Offer light meals in hot weather and hearty meals in cold weather.",
+        "Change your menu every month or two.",
+        "Ask customers what they want next.",
+        "Keep your best sellers. Drop what does not sell."
+      ],
+      "task": "Plan a new seasonal menu.",
+      "challenge": "Ask three customers what they would like next.",
+      "quiz": [
+        {
+          "q": "Why use food in season?",
+          "options": [
+            "It is bigger",
+            "It is cheaper and tastes better",
+            "It lasts longer",
+            "It is easier to carry"
+          ],
+          "answer": 1,
+          "explain": "Food in season is fresh, cheap, and full of flavour."
+        },
+        {
+          "q": "Why change your menu?",
+          "options": [
+            "To show off",
+            "So customers do not get bored",
+            "It is required",
+            "To waste money"
+          ],
+          "answer": 1,
+          "explain": "A changing menu keeps customers ordering."
+        },
+        {
+          "q": "Why drop dishes that do not sell?",
+          "options": [
+            "To save money",
+            "So you do not waste food and time",
+            "It is a rule",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "A dish that does not sell wastes food and money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Meal Prep Business: First Steps",
+      "goal": "Take your first steps toward a meal prep business.",
+      "video": {
+        "youtube_id": "Zk2aJoFZIaY",
+        "title": "Chicken Fried Rice",
+        "channel": "Natasha's Kitchen"
+      },
+      "steps": [
+        "Pick 3 or 4 mains to offer. Keep the menu small.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your boxes in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you cook only what is sold."
+      ],
+      "task": "Take photos of your best boxes and show them to three people.",
+      "challenge": "Take one real order, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 3 or 4 mains?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to cook well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you cook only what is sold and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell boxes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Meal Prep Mistakes and Fixes",
+      "goal": "Fix the commonest meal prep problems.",
+      "video": {
+        "youtube_id": "eJImdb1Dfh8",
+        "title": "Chicken Egg Fried Rice",
+        "channel": "Flavourfully Good"
+      },
+      "steps": [
+        "Food went soggy? Pack sauce separately and cool food fully first.",
+        "Food went bad fast? Check your fridge temperature and cooling time.",
+        "Customers got bored? Change your menu and add new dishes.",
+        "Orders are late? Cook earlier and plan your route better.",
+        "Write down each problem and fix."
+      ],
+      "task": "Fix one meal prep problem you have had.",
+      "challenge": "Write a list of three things you will do better next week.",
+      "quiz": [
+        {
+          "q": "What do you do if food went soggy?",
+          "options": [
+            "Throw it away",
+            "Pack sauce separately and cool food fully first",
+            "Add more sauce",
+            "Cook it longer"
+          ],
+          "answer": 1,
+          "explain": "Separate sauce and full cooling stop soggy food."
+        },
+        {
+          "q": "What do you do if food went bad fast?",
+          "options": [
+            "Throw it away",
+            "Check fridge temperature and cooling time",
+            "Add more salt",
+            "Freeze it"
+          ],
+          "answer": 1,
+          "explain": "A warm fridge or slow cooling makes food go bad fast."
+        },
+        {
+          "q": "What do you do if customers got bored?",
+          "options": [
+            "Lower prices",
+            "Change the menu and add new dishes",
+            "Stop selling",
+            "Cook more"
+          ],
+          "answer": 1,
+          "explain": "A new menu keeps customers interested."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Subscription Week",
+      "goal": "Run a full subscription week for real customers.",
+      "video": {
+        "youtube_id": "FZgZPARYwFI",
+        "title": "How to Cook Pasta",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Take weekly orders in advance with payment.",
+        "Plan the menu: 5 different boxes for the week.",
+        "Cook everything in one or two days.",
+        "Pack, label, and deliver on schedule.",
+        "Ask for feedback and work out your profit."
+      ],
+      "task": "Run a subscription week for at least 3 customers.",
+      "challenge": "Work out your sales, costs, and profit.",
+      "quiz": [
+        {
+          "q": "Why take payment in advance?",
+          "options": [
+            "To show off",
+            "So you do not cook food nobody pays for",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Advance payment means you cook only what is sold."
+        },
+        {
+          "q": "Why plan 5 different boxes?",
+          "options": [
+            "It is fancy",
+            "Variety keeps customers happy all week",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Five different boxes stop customers getting bored."
+        },
+        {
+          "q": "Why ask for feedback after the week?",
+          "options": [
+            "To be polite",
+            "It tells you what to improve next week",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Feedback after a full week shows what worked."
+        }
+      ],
+      "project": {
+        "title": "Run a Subscription Week",
+        "brief": "Deliver 5 boxes to at least 3 customers for a full week.",
+        "checks": [
+          "Weekly orders taken with payment in advance",
+          "5 different boxes planned",
+          "Boxes cooked, packed, and labelled",
+          "Delivered on schedule all week",
+          "Feedback collected from customers",
+          "Sales, costs, and profit worked out"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Growing: From Home Kitchen to Bigger",
+      "goal": "Grow your meal prep business step by step.",
+      "video": {
+        "youtube_id": "RTfuY-5vISI",
+        "title": "How to Make a Smoothie",
+        "channel": "Perfect Smoothie"
+      },
+      "steps": [
+        "Start at home. Do small orders well.",
+        "Save profit to buy better containers and equipment.",
+        "Add one new dish each month.",
+        "Hire a helper when orders get too big for one person.",
+        "Do not take big orders until you are ready for them."
+      ],
+      "task": "Write a growth plan for your meal prep business.",
+      "challenge": "List one piece of equipment you want to buy next.",
+      "quiz": [
+        {
+          "q": "How do you grow a meal prep business?",
+          "options": [
+            "Take every order",
+            "Do small orders well and grow step by step",
+            "Spend lots on adverts",
+            "Copy others"
+          ],
+          "answer": 1,
+          "explain": "Doing small orders well builds a good name. Growth follows."
+        },
+        {
+          "q": "Why save profit for equipment?",
+          "options": [
+            "To show off",
+            "Better equipment lets you take bigger orders",
+            "It is required",
+            "To waste money"
+          ],
+          "answer": 1,
+          "explain": "Good equipment makes bigger orders possible."
+        },
+        {
+          "q": "Why not take big orders too soon?",
+          "options": [
+            "It is scary",
+            "A failed big order can ruin your name",
+            "It is expensive",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A big order done badly hurts your name. Grow into it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Marketing Your Meal Prep Business",
+      "goal": "Tell people about your meal prep business.",
+      "video": {
+        "youtube_id": "TC_WyRbgupg",
+        "title": "How to Start a Thriving Meal Prep Business from Scratch",
+        "channel": "Whop"
+      },
+      "steps": [
+        "Take clear photos of every box you make.",
+        "Post your menu and prices on WhatsApp and social media.",
+        "Ask happy customers to share your photos and number.",
+        "Offer a discount for a first weekly subscription.",
+        "Keep a list of past customers and message them about new menus."
+      ],
+      "task": "Post your meal prep menu on WhatsApp or social media.",
+      "challenge": "Ask a happy customer to share your number with a friend.",
+      "quiz": [
+        {
+          "q": "Why post photos of boxes?",
+          "options": [
+            "To show off",
+            "Good photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell boxes."
+        },
+        {
+          "q": "Why offer a discount for a first subscription?",
+          "options": [
+            "To lose money",
+            "To bring in new customers",
+            "It is a rule",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "A first-time discount gives people a reason to try you."
+        },
+        {
+          "q": "Why keep a list of past customers?",
+          "options": [
+            "To show off",
+            "So you can tell them about new menus",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Past customers are the easiest people to sell to again."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your meal prep business.",
+      "video": {
+        "youtube_id": "SCmpY6SP0z4",
+        "title": "Selling Meal Prep - Feeding the Health Freaks",
+        "channel": "Side Hustle"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which boxes sell best and which do not.",
+        "Keep your money for meal prep separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one week of boxes.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to cook",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for food, boxes, and delivery."
+        },
+        {
+          "q": "Why keep meal prep money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if the business is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Your Signature Meal Prep Box",
+      "goal": "Choose and perfect one box you can make brilliantly.",
+      "video": {
+        "youtube_id": "e81SQgJMUbA",
+        "title": "How to Price Your Food Product Series: Pricing Homemade Food",
+        "channel": "Marketing Food Online"
+      },
+      "steps": [
+        "Pick the box your customers love most from this course.",
+        "Write it down with exact amounts, costs, and prices.",
+        "Cook it again, timing every step and noting problems.",
+        "Fix the problems and cook it once more.",
+        "Get feedback from someone who ate it."
+      ],
+      "task": "Cook your signature box and write the final version down.",
+      "challenge": "Serve it to someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature box?",
+          "options": [
+            "An expensive box",
+            "A box you can make brilliantly every time",
+            "A box with a fancy name",
+            "A box only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature box is one you have mastered."
+        },
+        {
+          "q": "Why write exact amounts?",
+          "options": [
+            "To publish it",
+            "So you can repeat it the same way every time",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Exact amounts mean the same great box every time."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste food"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Meal Prep for Special Diets",
+      "goal": "Make boxes for special diets.",
+      "video": {
+        "youtube_id": "09ghWDzewus",
+        "title": "How to Start Selling Homemade Meals from Home?",
+        "channel": "Enriquecendo aos 40"
+      },
+      "steps": [
+        "Low-carb: more vegetables and protein, less rice.",
+        "Vegetarian: beans, eggs, and vegetables instead of meat.",
+        "High-protein: extra meat, eggs, or beans for gym customers.",
+        "Ask customers about allergies before you cook.",
+        "Label every box with what is in it."
+      ],
+      "task": "Make a vegetarian box.",
+      "challenge": "Make a low-carb box and compare.",
+      "quiz": [
+        {
+          "q": "What is a low-carb box?",
+          "options": [
+            "A box with more rice",
+            "More vegetables and protein, less rice",
+            "A box with no food",
+            "A box with more oil"
+          ],
+          "answer": 1,
+          "explain": "A low-carb box has more vegetables and protein and less rice."
+        },
+        {
+          "q": "What is a vegetarian box?",
+          "options": [
+            "A box with fish",
+            "Beans, eggs, and vegetables instead of meat",
+            "A box with chicken",
+            "A box with no protein"
+          ],
+          "answer": 1,
+          "explain": "A vegetarian box uses beans, eggs, and vegetables for protein."
+        },
+        {
+          "q": "Why label every box?",
+          "options": [
+            "To show off",
+            "So customers know what is in it",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Labels help customers with diets and allergies choose safely."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Customer Service for Meal Prep",
+      "goal": "Serve meal prep customers well.",
+      "video": {
+        "youtube_id": "TT57UfsWGWU",
+        "title": "Beginners Guide to Meal Prep (Meal Prep Ideas!)",
+        "channel": "V Shred"
+      },
+      "steps": [
+        "Reply to messages fast. Customers like quick answers.",
+        "Deliver on time, every time.",
+        "If a box is wrong, fix it fast and say sorry.",
+        "Ask for feedback every week.",
+        "Thank customers and invite them to order again."
+      ],
+      "task": "Practise replying to a customer message fast and politely.",
+      "challenge": "Write a short message to thank a customer.",
+      "quiz": [
+        {
+          "q": "Why reply fast to messages?",
+          "options": [
+            "It is polite",
+            "Customers like quick answers",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Fast replies show you care and win orders."
+        },
+        {
+          "q": "What do you do if a box is wrong?",
+          "options": [
+            "Ignore it",
+            "Fix it fast and say sorry",
+            "Blame the customer",
+            "Charge less"
+          ],
+          "answer": 1,
+          "explain": "A fast fix and an apology can save the customer."
+        },
+        {
+          "q": "Why ask for feedback every week?",
+          "options": [
+            "To be polite",
+            "So you keep improving",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Weekly feedback keeps your food and service good."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Meal Prep Trends: What Customers Want",
+      "goal": "Learn what meal prep customers want now.",
+      "video": {
+        "youtube_id": "EbE4vfIolIA",
+        "title": "How to Cook Rice",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Customers want healthy, tasty food that is ready to eat.",
+        "Customers want clear labels with ingredients and calories.",
+        "Customers want easy ordering on WhatsApp.",
+        "Customers want food that stays fresh for days.",
+        "Ask your customers what they want and offer it."
+      ],
+      "task": "Ask three people what they want from meal prep.",
+      "challenge": "List three trends you will use in your business.",
+      "quiz": [
+        {
+          "q": "What do meal prep customers want?",
+          "options": [
+            "Cheap food only",
+            "Healthy, tasty food that is ready to eat",
+            "Raw food",
+            "Only rice"
+          ],
+          "answer": 1,
+          "explain": "Customers want healthy, tasty, ready-to-eat food."
+        },
+        {
+          "q": "Why use clear labels?",
+          "options": [
+            "It looks nice",
+            "So customers know what is in the box",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Clear labels help customers choose and trust you."
+        },
+        {
+          "q": "Why ask customers what they want?",
+          "options": [
+            "To be polite",
+            "So you can offer what they will buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Asking customers tells you what will sell."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Meal Prep Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "vUGqBIM7Cz4",
+        "title": "How to Cook Roast Chicken and Vegetables",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Cook rice for meal prep from memory.",
+        "Pack a box correctly from memory.",
+        "Cost a box from memory.",
+        "Name the food safety rules for meal prep.",
+        "List your three strongest skills and one to improve."
+      ],
+      "task": "Cook and pack a week of boxes from memory, no notes.",
+      "challenge": "Teach one meal prep skill to a friend or family member.",
+      "quiz": [
+        {
+          "q": "How long do boxes keep in the fridge?",
+          "options": [
+            "1 week",
+            "Up to 4 days",
+            "2 weeks",
+            "1 day"
+          ],
+          "answer": 1,
+          "explain": "Meal prep boxes keep up to 4 days in the fridge."
+        },
+        {
+          "q": "Why cook from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Cooking without notes shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves food"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Subscription Week",
+      "goal": "Plan your capstone subscription week.",
+      "video": {
+        "youtube_id": "Zk2aJoFZIaY",
+        "title": "Chicken Fried Rice",
+        "channel": "Natasha's Kitchen"
+      },
+      "steps": [
+        "Choose your capstone menu: 5 boxes for the week.",
+        "Write the full shopping list with costs.",
+        "Write the cooking and delivery schedule.",
+        "Check you have every tool, box, and ingredient.",
+        "Do a trial run of the hardest dish if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone dish today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only cooking",
+            "Everything you learned: cooking, packing, costing, and selling",
+            "Only packing",
+            "Only selling"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why write a delivery schedule?",
+          "options": [
+            "To show off",
+            "So every customer gets food on time",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A delivery schedule keeps every customer happy."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste food",
+            "To find problems before the real week",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Meal Prep Business: A Full Subscription Week",
+    "brief": "Run a full subscription week for real customers: take orders and payment in advance, cook 5 different boxes, pack and label them, deliver on schedule, and collect feedback. Work out your sales, costs, and profit.",
+    "checks": [
+      "Weekly orders taken with payment in advance",
+      "5 different boxes planned and costed",
+      "Boxes cooked, packed, and labelled correctly",
+      "Food cooled fast and stored below 5°C",
+      "Delivered on schedule all week",
+      "Feedback collected from customers",
+      "Sales, costs, and profit worked out"
+    ],
+    "deliverables": [
+      "A photo of your meal prep boxes",
+      "Your weekly menu with recipes, costs, and prices",
+      "Your cooking and delivery schedule",
+      "Your signature box recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "music-production",
+    "title": "Music Production",
+    "level": "Beginner to intermediate",
+    "tagline": "Make full songs with a DAW: beats, melody, mixing and your first finished track.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet your DAW",
+      "goal": "Open a music app and know the main parts.",
+      "video": {
+        "youtube_id": "r36xQmTJe1c",
+        "title": "Music Production 101 - Master Sound Design, Mixing, and Mastering in FL Studio",
+        "channel": "freeCodeCamp"
+      },
+      "steps": [
+        "Download a free DAW. A DAW is a music-making app, like BandLab or FL Studio trial.",
+        "Open it and start a new project.",
+        "Find the timeline where you place sounds.",
+        "Find the list of sounds and instruments."
+      ],
+      "task": "Open a DAW and find the timeline and the sound list.",
+      "challenge": "Open your DAW and start a new project in under one minute.",
+      "quiz": [
+        {
+          "q": "What is a DAW?",
+          "options": [
+            "A music-making app where you record, arrange and mix songs",
+            "A type of speaker",
+            "A kind of microphone",
+            "A music streaming app"
+          ],
+          "answer": 0,
+          "explain": "A DAW is a digital audio workstation. It is the app where you make music."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet your DAW\"?",
+          "options": [
+            "Arrange a song into sections.",
+            "Record your voice over a beat.",
+            "Make the bass duck under the kick.",
+            "Open a music app and know the main parts."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Open a music app and know the main parts."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find the timeline where you place sounds.",
+            "Find the list of sounds and instruments.",
+            "Download a free DAW. A DAW is a music-making app, like BandLab or FL Studio trial.",
+            "Open it and start a new project."
+          ],
+          "answer": 2,
+          "explain": "Start with: Download a free DAW. A DAW is a music-making app, like BandLab or FL Studio trial."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Make your first beat",
+      "goal": "Make a simple drum beat.",
+      "video": {
+        "youtube_id": "zHlOnvXaIsY",
+        "title": "The Ultimate Reaper Beginner Tutorial for Electronic Music Production",
+        "channel": "Gabe Miller Music"
+      },
+      "steps": [
+        "Open a new project in your DAW.",
+        "Add a drum track.",
+        "Place four kicks, one on each beat.",
+        "Press play and listen to your beat."
+      ],
+      "task": "Make a simple four-kick drum beat.",
+      "challenge": "Make a beat with kicks and claps.",
+      "quiz": [
+        {
+          "q": "What is BPM?",
+          "options": [
+            "Beats per minute, the speed of a song",
+            "A type of drum",
+            "A file format",
+            "A kind of speaker"
+          ],
+          "answer": 0,
+          "explain": "BPM means beats per minute. A higher BPM means a faster song."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make your first beat\"?",
+          "options": [
+            "Finish a full track.",
+            "Make your track loud and clear.",
+            "Make a simple drum beat.",
+            "Add chords to make your song fuller."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a simple drum beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Press play and listen to your beat.",
+            "Open a new project in your DAW.",
+            "Add a drum track.",
+            "Place four kicks, one on each beat."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open a new project in your DAW."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Add a bass line",
+      "goal": "Add a low bass sound to your beat.",
+      "video": {
+        "youtube_id": "2ABojDKeOQI",
+        "title": "How To Write a Song FROM SCRATCH | POP SONG Tutorial",
+        "channel": "Reid Stefan"
+      },
+      "steps": [
+        "Add a bass instrument to your project.",
+        "Play three low notes that fit your beat.",
+        "Place the notes on the timeline.",
+        "Press play and listen to the bass with the drums."
+      ],
+      "task": "Add a three-note bass line to your beat.",
+      "challenge": "Try the bass line higher and lower, and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is a DAW?",
+          "options": [
+            "A music-making app where you record, arrange and mix songs",
+            "A type of speaker",
+            "A kind of microphone",
+            "A music streaming app"
+          ],
+          "answer": 0,
+          "explain": "A DAW is a digital audio workstation. It is the app where you make music."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a bass line\"?",
+          "options": [
+            "Make three beats in one style.",
+            "Add a low bass sound to your beat.",
+            "Balance the volume of each track.",
+            "Learn the notes in a scale."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Add a low bass sound to your beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a bass instrument to your project.",
+            "Play three low notes that fit your beat.",
+            "Place the notes on the timeline.",
+            "Press play and listen to the bass with the drums."
+          ],
+          "answer": 0,
+          "explain": "Start with: Add a bass instrument to your project."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Add a melody",
+      "goal": "Add a simple melody on top.",
+      "video": {
+        "youtube_id": "5JwbgzYg2H4",
+        "title": "How to Make Soulful Afrobeats For Burna Boy from Scratch | Beginners Tutorial FL Studio",
+        "channel": "Seventh Beats"
+      },
+      "steps": [
+        "Add a piano or synth instrument.",
+        "Play five notes that sound good together.",
+        "Place the notes on the timeline.",
+        "Press play and listen to the full song."
+      ],
+      "task": "Add a five-note melody to your beat.",
+      "challenge": "Make a melody with only three notes.",
+      "quiz": [
+        {
+          "q": "What is BPM?",
+          "options": [
+            "Beats per minute, the speed of a song",
+            "A type of drum",
+            "A file format",
+            "A kind of speaker"
+          ],
+          "answer": 0,
+          "explain": "BPM means beats per minute. A higher BPM means a faster song."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a melody\"?",
+          "options": [
+            "Add a simple melody on top.",
+            "Add space to your sound with reverb.",
+            "Make a track in the Afrobeats style.",
+            "Make a track with another person."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Add a simple melody on top."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play five notes that sound good together.",
+            "Place the notes on the timeline.",
+            "Press play and listen to the full song.",
+            "Add a piano or synth instrument."
+          ],
+          "answer": 3,
+          "explain": "Start with: Add a piano or synth instrument."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Learn about tempo",
+      "goal": "Change the speed of your song.",
+      "video": {
+        "youtube_id": "RBSzi5INOX0",
+        "title": "Joe Dwet File 4 Kampe | Remake Beat Tutorial (Fl Studio) + FLP",
+        "channel": "FridBeats"
+      },
+      "steps": [
+        "Find the tempo setting. It is measured in BPM, beats per minute.",
+        "Set it to 90 BPM and listen.",
+        "Set it to 120 BPM and listen.",
+        "Pick the speed that fits your song."
+      ],
+      "task": "Change your song tempo from 90 to 120 BPM and compare.",
+      "challenge": "Make a slow song at 80 BPM and a fast one at 130 BPM.",
+      "quiz": [
+        {
+          "q": "What is a DAW?",
+          "options": [
+            "A music-making app where you record, arrange and mix songs",
+            "A type of speaker",
+            "A kind of microphone",
+            "A music streaming app"
+          ],
+          "answer": 0,
+          "explain": "A DAW is a digital audio workstation. It is the app where you make music."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn about tempo\"?",
+          "options": [
+            "Add a delay echo to your sound.",
+            "Make a track in the hip-hop style.",
+            "Fix a mix that sounds muddy.",
+            "Change the speed of your song."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Change the speed of your song."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Set it to 120 BPM and listen.",
+            "Pick the speed that fits your song.",
+            "Find the tempo setting. It is measured in BPM, beats per minute.",
+            "Set it to 90 BPM and listen."
+          ],
+          "answer": 2,
+          "explain": "Start with: Find the tempo setting. It is measured in BPM, beats per minute."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Use loops",
+      "goal": "Build a song from loops.",
+      "video": {
+        "youtube_id": "fxMbp42wt_k",
+        "title": "How To Make A Beat Like Masterkraft From Scratch | Fl Studio Tutorial",
+        "channel": "Producer Mykah"
+      },
+      "steps": [
+        "Find the loop library in your DAW.",
+        "Pick a drum loop.",
+        "Add a bass loop that fits.",
+        "Add a melody loop and press play."
+      ],
+      "task": "Build a song from three loops.",
+      "challenge": "Make a song using only loops, no notes you played.",
+      "quiz": [
+        {
+          "q": "What is BPM?",
+          "options": [
+            "Beats per minute, the speed of a song",
+            "A type of drum",
+            "A file format",
+            "A kind of speaker"
+          ],
+          "answer": 0,
+          "explain": "BPM means beats per minute. A higher BPM means a faster song."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use loops\"?",
+          "options": [
+            "Add a recorded sound to your track.",
+            "Find the sound you love to make.",
+            "Build a song from loops.",
+            "Make a beat without loops."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Build a song from loops."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a melody loop and press play.",
+            "Find the loop library in your DAW.",
+            "Pick a drum loop.",
+            "Add a bass loop that fits."
+          ],
+          "answer": 1,
+          "explain": "Start with: Find the loop library in your DAW."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Make a full song",
+      "goal": "Make a short song with drums, bass, and melody.",
+      "video": {
+        "youtube_id": "Cp77a0n3eMw",
+        "title": "Making MELODIES From Scratch | Fl Studio Tutorial | Mziki Pod 018",
+        "channel": "Mziki Masters"
+      },
+      "steps": [
+        "Start a new project.",
+        "Add drums, bass, and a melody.",
+        "Arrange them into a start, middle, and end.",
+        "Export the song as an MP3."
+      ],
+      "task": "Make a short song and export it as an MP3.",
+      "challenge": "Play your song for a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a DAW?",
+          "options": [
+            "A music-making app where you record, arrange and mix songs",
+            "A type of speaker",
+            "A kind of microphone",
+            "A music streaming app"
+          ],
+          "answer": 0,
+          "explain": "A DAW is a digital audio workstation. It is the app where you make music."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a full song\"?",
+          "options": [
+            "Make a song with a vocal.",
+            "Make a short song with drums, bass, and melody.",
+            "Record your voice over a beat.",
+            "Make the bass duck under the kick."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a short song with drums, bass, and melody."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Start a new project.",
+            "Add drums, bass, and a melody.",
+            "Arrange them into a start, middle, and end.",
+            "Export the song as an MP3."
+          ],
+          "answer": 0,
+          "explain": "Start with: Start a new project."
+        }
+      ],
+      "project": {
+        "title": "Make a Full Song",
+        "brief": "Make a short song with drums, bass, and melody.",
+        "checks": [
+          "Song has drums",
+          "Song has a bass line",
+          "Song has a melody",
+          "Song has a start, middle, and end",
+          "Exported as an MP3",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Arrange your song",
+      "goal": "Arrange a song into sections.",
+      "video": {
+        "youtube_id": "L9dBNd8aBTo",
+        "title": "10 Tips for Making Your First Trap Beat",
+        "channel": "Soundfly"
+      },
+      "steps": [
+        "Open your song.",
+        "Make an intro with just the melody.",
+        "Make a verse with drums and bass.",
+        "Make a chorus with everything together."
+      ],
+      "task": "Arrange a song into intro, verse, and chorus.",
+      "challenge": "Arrange the same song with a longer chorus.",
+      "quiz": [
+        {
+          "q": "What is a chord?",
+          "options": [
+            "Three or more notes played together",
+            "A single drum hit",
+            "A type of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A chord is three or more notes played at the same time. Chords give songs their feeling."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Arrange your song\"?",
+          "options": [
+            "Arrange a song into sections.",
+            "Finish a full track.",
+            "Make your track loud and clear.",
+            "Pick your best tracks."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Arrange a song into sections."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make an intro with just the melody.",
+            "Make a verse with drums and bass.",
+            "Make a chorus with everything together.",
+            "Open your song."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open your song."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Add chords",
+      "goal": "Add chords to make your song fuller.",
+      "video": {
+        "youtube_id": "8ovcvYIXLec",
+        "title": "How to Make a Trap Beat Step-by-Step",
+        "channel": "SoundJuice"
+      },
+      "steps": [
+        "Learn what a chord is: three or more notes played together.",
+        "Add a chord track to your song.",
+        "Play four chords that fit your melody.",
+        "Press play and listen."
+      ],
+      "task": "Add four chords to your song.",
+      "challenge": "Try major chords and minor chords and hear the difference.",
+      "quiz": [
+        {
+          "q": "What is a loop?",
+          "options": [
+            "A short sound that repeats over and over",
+            "A type of microphone",
+            "A kind of speaker",
+            "A song ending"
+          ],
+          "answer": 0,
+          "explain": "A loop is a short piece of music that repeats. Loops are building blocks for songs."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add chords\"?",
+          "options": [
+            "Learn the notes in a scale.",
+            "Make three beats in one style.",
+            "Remix one of your own tracks.",
+            "Add chords to make your song fuller."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Add chords to make your song fuller."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play four chords that fit your melody.",
+            "Press play and listen.",
+            "Learn what a chord is: three or more notes played together.",
+            "Add a chord track to your song."
+          ],
+          "answer": 2,
+          "explain": "Start with: Learn what a chord is: three or more notes played together."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Mix your levels",
+      "goal": "Balance the volume of each track.",
+      "video": {
+        "youtube_id": "o9YTH50ijcA",
+        "title": "How to Make Hip Hop Beats",
+        "channel": "Indie Producer"
+      },
+      "steps": [
+        "Open your song in the mixer.",
+        "Turn the drums up a little.",
+        "Turn the bass down if it is too loud.",
+        "Make sure no track is too loud or too quiet."
+      ],
+      "task": "Balance the volume of each track in your song.",
+      "challenge": "Mix your song so the melody is the loudest part.",
+      "quiz": [
+        {
+          "q": "What is a chord?",
+          "options": [
+            "Three or more notes played together",
+            "A single drum hit",
+            "A type of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A chord is three or more notes played at the same time. Chords give songs their feeling."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Mix your levels\"?",
+          "options": [
+            "Make a track with another person.",
+            "Pick your best work and say why it works.",
+            "Balance the volume of each track.",
+            "Make a track in the Afrobeats style."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Balance the volume of each track."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make sure no track is too loud or too quiet.",
+            "Open your song in the mixer.",
+            "Turn the drums up a little.",
+            "Turn the bass down if it is too loud."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open your song in the mixer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Add reverb",
+      "goal": "Add space to your sound with reverb.",
+      "video": {
+        "youtube_id": "EG2HcThOE8Y",
+        "title": "Haryanvi Hip-Hop Beat Kaise Banti Hai? FL Studio Live + Rap | EP01 Yeah This Beat",
+        "channel": "MusiX Lab Studios"
+      },
+      "steps": [
+        "Pick a track, like the melody.",
+        "Add a reverb effect. Reverb is like an echo in a room.",
+        "Turn it up a little.",
+        "Listen. The sound should feel bigger."
+      ],
+      "task": "Add a little reverb to your melody.",
+      "challenge": "Add reverb to a vocal and hear how it changes.",
+      "quiz": [
+        {
+          "q": "What is a loop?",
+          "options": [
+            "A short sound that repeats over and over",
+            "A type of microphone",
+            "A kind of speaker",
+            "A song ending"
+          ],
+          "answer": 0,
+          "explain": "A loop is a short piece of music that repeats. Loops are building blocks for songs."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add reverb\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Add space to your sound with reverb.",
+            "Make a track in the hip-hop style.",
+            "Fix a mix that sounds muddy."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Add space to your sound with reverb."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a track, like the melody.",
+            "Add a reverb effect. Reverb is like an echo in a room.",
+            "Turn it up a little.",
+            "Listen. The sound should feel bigger."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a track, like the melody."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Add delay",
+      "goal": "Add a delay echo to your sound.",
+      "video": {
+        "youtube_id": "bSrR-6BCGy4",
+        "title": "Drum Programming - FL Studio 20 Basics",
+        "channel": "In The Mix"
+      },
+      "steps": [
+        "Pick a track, like a vocal or a synth.",
+        "Add a delay effect.",
+        "Set it to repeat once.",
+        "Listen. The sound should echo once."
+      ],
+      "task": "Add a delay echo to a track.",
+      "challenge": "Add delay to a melody and make it repeat twice.",
+      "quiz": [
+        {
+          "q": "What is a chord?",
+          "options": [
+            "Three or more notes played together",
+            "A single drum hit",
+            "A type of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A chord is three or more notes played at the same time. Chords give songs their feeling."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add delay\"?",
+          "options": [
+            "Add a delay echo to your sound.",
+            "Add a recorded sound to your track.",
+            "Find the sound you love to make.",
+            "Open a music app and know the main parts."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Add a delay echo to your sound."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a delay effect.",
+            "Set it to repeat once.",
+            "Listen. The sound should echo once.",
+            "Pick a track, like a vocal or a synth."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a track, like a vocal or a synth."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Make a beat from scratch",
+      "goal": "Make a beat without loops.",
+      "video": {
+        "youtube_id": "C9WROElmQEo",
+        "title": "How to make HARD PHONK BEAT with COWBELLS | Reaper Beat Making",
+        "channel": "Wodzu Beats"
+      },
+      "steps": [
+        "Start a new project.",
+        "Play the drums yourself, one sound at a time.",
+        "Add a bass line you played.",
+        "Add a melody you played."
+      ],
+      "task": "Make a beat from scratch with no loops.",
+      "challenge": "Make a beat in a style you have never tried.",
+      "quiz": [
+        {
+          "q": "What is a loop?",
+          "options": [
+            "A short sound that repeats over and over",
+            "A type of microphone",
+            "A kind of speaker",
+            "A song ending"
+          ],
+          "answer": 0,
+          "explain": "A loop is a short piece of music that repeats. Loops are building blocks for songs."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a beat from scratch\"?",
+          "options": [
+            "Make the bass duck under the kick.",
+            "Make a song with a vocal.",
+            "Make a simple drum beat.",
+            "Make a beat without loops."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a beat without loops."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a bass line you played.",
+            "Add a melody you played.",
+            "Start a new project.",
+            "Play the drums yourself, one sound at a time."
+          ],
+          "answer": 2,
+          "explain": "Start with: Start a new project."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Record a vocal",
+      "goal": "Record your voice over a beat.",
+      "video": {
+        "youtube_id": "r36xQmTJe1c",
+        "title": "Music Production 101 - Master Sound Design, Mixing, and Mastering in FL Studio",
+        "channel": "freeCodeCamp"
+      },
+      "steps": [
+        "Plug in earphones with a mic.",
+        "Record yourself singing or talking over your beat.",
+        "Listen back and check the timing.",
+        "Record it again if the timing is off."
+      ],
+      "task": "Record a vocal over your beat.",
+      "challenge": "Record a vocal twice and pick the better take.",
+      "quiz": [
+        {
+          "q": "What is a chord?",
+          "options": [
+            "Three or more notes played together",
+            "A single drum hit",
+            "A type of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A chord is three or more notes played at the same time. Chords give songs their feeling."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Record a vocal\"?",
+          "options": [
+            "Pick your best tracks.",
+            "Add a low bass sound to your beat.",
+            "Record your voice over a beat.",
+            "Make your track loud and clear."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Record your voice over a beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record it again if the timing is off.",
+            "Plug in earphones with a mic.",
+            "Record yourself singing or talking over your beat.",
+            "Listen back and check the timing."
+          ],
+          "answer": 1,
+          "explain": "Start with: Plug in earphones with a mic."
+        }
+      ],
+      "project": {
+        "title": "Finish a Track",
+        "brief": "Finish a full track with intro, verse, and chorus.",
+        "checks": [
+          "Track has an intro",
+          "Track has a verse",
+          "Track has a chorus",
+          "Levels are balanced",
+          "Exported as an MP3",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Your first finished track",
+      "goal": "Finish a full track.",
+      "video": {
+        "youtube_id": "zHlOnvXaIsY",
+        "title": "The Ultimate Reaper Beginner Tutorial for Electronic Music Production",
+        "channel": "Gabe Miller Music"
+      },
+      "steps": [
+        "Pick your best beat.",
+        "Add an intro, a verse, and a chorus.",
+        "Mix the levels.",
+        "Export it as an MP3."
+      ],
+      "task": "Finish a full track and export it.",
+      "challenge": "Share your track with a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is reverb?",
+          "options": [
+            "An effect that makes sound feel like it is in a room",
+            "A type of drum",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "Reverb adds space to a sound, like an echo in a hall. A little makes sounds feel bigger."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first finished track\"?",
+          "options": [
+            "Add a simple melody on top.",
+            "Finish a full track.",
+            "Make three beats in one style.",
+            "Remix one of your own tracks."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Finish a full track."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick your best beat.",
+            "Add an intro, a verse, and a chorus.",
+            "Mix the levels.",
+            "Export it as an MP3."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick your best beat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Learn music theory basics",
+      "goal": "Learn the notes in a scale.",
+      "video": {
+        "youtube_id": "2ABojDKeOQI",
+        "title": "How To Write a Song FROM SCRATCH | POP SONG Tutorial",
+        "channel": "Reid Stefan"
+      },
+      "steps": [
+        "Pick a scale, like C major.",
+        "Play the notes C, D, E, F, G, A, B.",
+        "Play them in order, then in a different order.",
+        "Use those notes to make a melody."
+      ],
+      "task": "Play the C major scale and make a melody from it.",
+      "challenge": "Make a melody using only the notes of one scale.",
+      "quiz": [
+        {
+          "q": "What is mixing?",
+          "options": [
+            "Balancing the volume and sound of each track so the song sounds good",
+            "Recording a vocal",
+            "Choosing a song title",
+            "Uploading a song"
+          ],
+          "answer": 0,
+          "explain": "Mixing is setting the volume and effects of each track so everything fits together."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn music theory basics\"?",
+          "options": [
+            "Learn the notes in a scale.",
+            "Make a track with another person.",
+            "Pick your best work and say why it works.",
+            "Change the speed of your song."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Learn the notes in a scale."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play the notes C, D, E, F, G, A, B.",
+            "Play them in order, then in a different order.",
+            "Use those notes to make a melody.",
+            "Pick a scale, like C major."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a scale, like C major."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Make an Afrobeats track",
+      "goal": "Make a track in the Afrobeats style.",
+      "video": {
+        "youtube_id": "5JwbgzYg2H4",
+        "title": "How to Make Soulful Afrobeats For Burna Boy from Scratch | Beginners Tutorial FL Studio",
+        "channel": "Seventh Beats"
+      },
+      "steps": [
+        "Set the tempo to about 100 BPM.",
+        "Add a drum pattern with a shaker.",
+        "Add a bass line.",
+        "Add a simple melody and export it."
+      ],
+      "task": "Make an Afrobeats track.",
+      "challenge": "Make an Afrobeats track and a hip-hop track, then compare.",
+      "quiz": [
+        {
+          "q": "What is reverb?",
+          "options": [
+            "An effect that makes sound feel like it is in a room",
+            "A type of drum",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "Reverb adds space to a sound, like an echo in a hall. A little makes sounds feel bigger."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make an Afrobeats track\"?",
+          "options": [
+            "Fix a mix that sounds muddy.",
+            "Write a simple plan to keep getting better.",
+            "Build a song from loops.",
+            "Make a track in the Afrobeats style."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a track in the Afrobeats style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a bass line.",
+            "Add a simple melody and export it.",
+            "Set the tempo to about 100 BPM.",
+            "Add a drum pattern with a shaker."
+          ],
+          "answer": 2,
+          "explain": "Start with: Set the tempo to about 100 BPM."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Make a hip-hop track",
+      "goal": "Make a track in the hip-hop style.",
+      "video": {
+        "youtube_id": "RBSzi5INOX0",
+        "title": "Joe Dwet File 4 Kampe | Remake Beat Tutorial (Fl Studio) + FLP",
+        "channel": "FridBeats"
+      },
+      "steps": [
+        "Set the tempo to about 90 BPM.",
+        "Add a boom-bap drum pattern.",
+        "Add a bass line.",
+        "Add a piano melody and export it."
+      ],
+      "task": "Make a hip-hop track.",
+      "challenge": "Make a hip-hop track with a sample you recorded.",
+      "quiz": [
+        {
+          "q": "What is mixing?",
+          "options": [
+            "Balancing the volume and sound of each track so the song sounds good",
+            "Recording a vocal",
+            "Choosing a song title",
+            "Uploading a song"
+          ],
+          "answer": 0,
+          "explain": "Mixing is setting the volume and effects of each track so everything fits together."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a hip-hop track\"?",
+          "options": [
+            "Open a music app and know the main parts.",
+            "Make a short song with drums, bass, and melody.",
+            "Make a track in the hip-hop style.",
+            "Find the sound you love to make."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a track in the hip-hop style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a piano melody and export it.",
+            "Set the tempo to about 90 BPM.",
+            "Add a boom-bap drum pattern.",
+            "Add a bass line."
+          ],
+          "answer": 1,
+          "explain": "Start with: Set the tempo to about 90 BPM."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Use a sample",
+      "goal": "Add a recorded sound to your track.",
+      "video": {
+        "youtube_id": "fxMbp42wt_k",
+        "title": "How To Make A Beat Like Masterkraft From Scratch | Fl Studio Tutorial",
+        "channel": "Producer Mykah"
+      },
+      "steps": [
+        "Record a sound, like clapping or a voice.",
+        "Import it into your DAW.",
+        "Cut it to the length you need.",
+        "Place it in your track."
+      ],
+      "task": "Add a recorded sample to your track.",
+      "challenge": "Make a beat from a sample of your own voice.",
+      "quiz": [
+        {
+          "q": "What is reverb?",
+          "options": [
+            "An effect that makes sound feel like it is in a room",
+            "A type of drum",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "Reverb adds space to a sound, like an echo in a hall. A little makes sounds feel bigger."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use a sample\"?",
+          "options": [
+            "Arrange a song into sections.",
+            "Add a recorded sound to your track.",
+            "Make a song with a vocal.",
+            "Make a simple drum beat."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Add a recorded sound to your track."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record a sound, like clapping or a voice.",
+            "Import it into your DAW.",
+            "Cut it to the length you need.",
+            "Place it in your track."
+          ],
+          "answer": 0,
+          "explain": "Start with: Record a sound, like clapping or a voice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Sidechain made simple",
+      "goal": "Make the bass duck under the kick.",
+      "video": {
+        "youtube_id": "Cp77a0n3eMw",
+        "title": "Making MELODIES From Scratch | Fl Studio Tutorial | Mziki Pod 018",
+        "channel": "Mziki Masters"
+      },
+      "steps": [
+        "Open a track with drums and bass.",
+        "Add a compressor to the bass.",
+        "Set it to react to the kick drum.",
+        "Listen. The bass should dip when the kick hits."
+      ],
+      "task": "Add sidechain compression to your bass.",
+      "challenge": "Compare your track with and without sidechain.",
+      "quiz": [
+        {
+          "q": "What is mixing?",
+          "options": [
+            "Balancing the volume and sound of each track so the song sounds good",
+            "Recording a vocal",
+            "Choosing a song title",
+            "Uploading a song"
+          ],
+          "answer": 0,
+          "explain": "Mixing is setting the volume and effects of each track so everything fits together."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Sidechain made simple\"?",
+          "options": [
+            "Make the bass duck under the kick.",
+            "Pick your best tracks.",
+            "Add a low bass sound to your beat.",
+            "Add chords to make your song fuller."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make the bass duck under the kick."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a compressor to the bass.",
+            "Set it to react to the kick drum.",
+            "Listen. The bass should dip when the kick hits.",
+            "Open a track with drums and bass."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a track with drums and bass."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Master your track",
+      "goal": "Make your track loud and clear.",
+      "video": {
+        "youtube_id": "L9dBNd8aBTo",
+        "title": "10 Tips for Making Your First Trap Beat",
+        "channel": "Soundfly"
+      },
+      "steps": [
+        "Open your finished track.",
+        "Add a limiter on the master track.",
+        "Turn it up until the track is loud but not distorted.",
+        "Export the final MP3."
+      ],
+      "task": "Master your track with a limiter.",
+      "challenge": "Compare your mastered track with the unmastered one.",
+      "quiz": [
+        {
+          "q": "What is reverb?",
+          "options": [
+            "An effect that makes sound feel like it is in a room",
+            "A type of drum",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "Reverb adds space to a sound, like an echo in a hall. A little makes sounds feel bigger."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Master your track\"?",
+          "options": [
+            "Remix one of your own tracks.",
+            "Add a simple melody on top.",
+            "Balance the volume of each track.",
+            "Make your track loud and clear."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make your track loud and clear."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Turn it up until the track is loud but not distorted.",
+            "Export the final MP3.",
+            "Open your finished track.",
+            "Add a limiter on the master track."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your finished track."
+        }
+      ],
+      "project": {
+        "title": "Make a Beat Pack",
+        "brief": "Make three beats in one style.",
+        "checks": [
+          "Three beats made",
+          "All in one style",
+          "Each beat has a name",
+          "Each beat is exported",
+          "Beats saved in one folder",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Make a beat pack",
+      "goal": "Make three beats in one style.",
+      "video": {
+        "youtube_id": "8ovcvYIXLec",
+        "title": "How to Make a Trap Beat Step-by-Step",
+        "channel": "SoundJuice"
+      },
+      "steps": [
+        "Pick a style, like Afrobeats.",
+        "Make three beats in that style.",
+        "Give each beat a name.",
+        "Save them in a folder called Beat Pack."
+      ],
+      "task": "Make three beats in one style.",
+      "challenge": "Make a beat pack of three beats and share it.",
+      "quiz": [
+        {
+          "q": "What is a sample?",
+          "options": [
+            "A recorded sound you use in your music",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A sample is a sound you record or borrow and place into your track."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a beat pack\"?",
+          "options": [
+            "Change the speed of your song.",
+            "Add space to your sound with reverb.",
+            "Make three beats in one style.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make three beats in one style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save them in a folder called Beat Pack.",
+            "Pick a style, like Afrobeats.",
+            "Make three beats in that style.",
+            "Give each beat a name."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a style, like Afrobeats."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Collaborate",
+      "goal": "Make a track with another person.",
+      "video": {
+        "youtube_id": "o9YTH50ijcA",
+        "title": "How to Make Hip Hop Beats",
+        "channel": "Indie Producer"
+      },
+      "steps": [
+        "Ask a friend to sing or play on your track.",
+        "Send them your beat.",
+        "Add their recording to your project.",
+        "Mix it and export the track."
+      ],
+      "task": "Make a track with a friend.",
+      "challenge": "Ask a singer to record over your beat.",
+      "quiz": [
+        {
+          "q": "What is mastering?",
+          "options": [
+            "The final step that makes a track loud and clear for sharing",
+            "Recording drums",
+            "Writing lyrics",
+            "Choosing a beat"
+          ],
+          "answer": 0,
+          "explain": "Mastering is the last step. It makes your track loud enough and clear enough to share."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Collaborate\"?",
+          "options": [
+            "Add a delay echo to your sound.",
+            "Make a track with another person.",
+            "Write a simple plan to keep getting better.",
+            "Build a song from loops."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a track with another person."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Ask a friend to sing or play on your track.",
+            "Send them your beat.",
+            "Add their recording to your project.",
+            "Mix it and export the track."
+          ],
+          "answer": 0,
+          "explain": "Start with: Ask a friend to sing or play on your track."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Fix a messy mix",
+      "goal": "Fix a mix that sounds muddy.",
+      "video": {
+        "youtube_id": "EG2HcThOE8Y",
+        "title": "Haryanvi Hip-Hop Beat Kaise Banti Hai? FL Studio Live + Rap | EP01 Yeah This Beat",
+        "channel": "MusiX Lab Studios"
+      },
+      "steps": [
+        "Open a track that sounds muddy.",
+        "Turn down the bass a little.",
+        "Cut the low sounds from the melody.",
+        "Listen again. It should sound clearer."
+      ],
+      "task": "Fix a muddy mix.",
+      "challenge": "Mix the same track twice and pick the clearer one.",
+      "quiz": [
+        {
+          "q": "What is a sample?",
+          "options": [
+            "A recorded sound you use in your music",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A sample is a sound you record or borrow and place into your track."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix a messy mix\"?",
+          "options": [
+            "Fix a mix that sounds muddy.",
+            "Open a music app and know the main parts.",
+            "Make a short song with drums, bass, and melody.",
+            "Make a beat without loops."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Fix a mix that sounds muddy."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Turn down the bass a little.",
+            "Cut the low sounds from the melody.",
+            "Listen again. It should sound clearer.",
+            "Open a track that sounds muddy."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a track that sounds muddy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Build your sound",
+      "goal": "Find the sound you love to make.",
+      "video": {
+        "youtube_id": "bSrR-6BCGy4",
+        "title": "Drum Programming - FL Studio 20 Basics",
+        "channel": "In The Mix"
+      },
+      "steps": [
+        "Look at all the tracks you made this month.",
+        "Pick the three you love most.",
+        "Write down what they have in common.",
+        "Make two more tracks in that style."
+      ],
+      "task": "Pick your three favorite tracks and find what they have in common.",
+      "challenge": "Make two new tracks in your favorite style.",
+      "quiz": [
+        {
+          "q": "What is mastering?",
+          "options": [
+            "The final step that makes a track loud and clear for sharing",
+            "Recording drums",
+            "Writing lyrics",
+            "Choosing a beat"
+          ],
+          "answer": 0,
+          "explain": "Mastering is the last step. It makes your track loud enough and clear enough to share."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build your sound\"?",
+          "options": [
+            "Make a simple drum beat.",
+            "Arrange a song into sections.",
+            "Record your voice over a beat.",
+            "Find the sound you love to make."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Find the sound you love to make."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down what they have in common.",
+            "Make two more tracks in that style.",
+            "Look at all the tracks you made this month.",
+            "Pick the three you love most."
+          ],
+          "answer": 2,
+          "explain": "Start with: Look at all the tracks you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Make a full song with vocals",
+      "goal": "Make a song with a vocal.",
+      "video": {
+        "youtube_id": "C9WROElmQEo",
+        "title": "How to make HARD PHONK BEAT with COWBELLS | Reaper Beat Making",
+        "channel": "Wodzu Beats"
+      },
+      "steps": [
+        "Pick your best beat.",
+        "Write simple lyrics.",
+        "Record the vocal.",
+        "Mix it and export the song."
+      ],
+      "task": "Make a full song with vocals.",
+      "challenge": "Record a song with a friend singing.",
+      "quiz": [
+        {
+          "q": "What is a sample?",
+          "options": [
+            "A recorded sound you use in your music",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A sample is a sound you record or borrow and place into your track."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a full song with vocals\"?",
+          "options": [
+            "Add chords to make your song fuller.",
+            "Finish a full track.",
+            "Make a song with a vocal.",
+            "Add a low bass sound to your beat."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a song with a vocal."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Mix it and export the song.",
+            "Pick your best beat.",
+            "Write simple lyrics.",
+            "Record the vocal."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick your best beat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Your portfolio",
+      "goal": "Pick your best tracks.",
+      "video": {
+        "youtube_id": "r36xQmTJe1c",
+        "title": "Music Production 101 - Master Sound Design, Mixing, and Mastering in FL Studio",
+        "channel": "freeCodeCamp"
+      },
+      "steps": [
+        "Look at all the tracks you made this month.",
+        "Pick your best five.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each track."
+      ],
+      "task": "Pick your best five tracks and save them in a portfolio.",
+      "challenge": "Share your portfolio with a friend and ask which track is best.",
+      "quiz": [
+        {
+          "q": "What is mastering?",
+          "options": [
+            "The final step that makes a track loud and clear for sharing",
+            "Recording drums",
+            "Writing lyrics",
+            "Choosing a beat"
+          ],
+          "answer": 0,
+          "explain": "Mastering is the last step. It makes your track loud enough and clear enough to share."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your portfolio\"?",
+          "options": [
+            "Learn the notes in a scale.",
+            "Pick your best tracks.",
+            "Add a simple melody on top.",
+            "Balance the volume of each track."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Pick your best tracks."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at all the tracks you made this month.",
+            "Pick your best five.",
+            "Save them in a folder called Portfolio.",
+            "Write one sentence about each track."
+          ],
+          "answer": 0,
+          "explain": "Start with: Look at all the tracks you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Make a remix",
+      "goal": "Remix one of your own tracks.",
+      "video": {
+        "youtube_id": "zHlOnvXaIsY",
+        "title": "The Ultimate Reaper Beginner Tutorial for Electronic Music Production",
+        "channel": "Gabe Miller Music"
+      },
+      "steps": [
+        "Open a track you made.",
+        "Change the tempo a little.",
+        "Swap the melody for a new one.",
+        "Export the remix and compare it with the original."
+      ],
+      "task": "Remix one of your tracks with a new melody.",
+      "challenge": "Remix a track in a different style.",
+      "quiz": [
+        {
+          "q": "What is a sample?",
+          "options": [
+            "A recorded sound you use in your music",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A sample is a sound you record or borrow and place into your track."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a remix\"?",
+          "options": [
+            "Remix one of your own tracks.",
+            "Change the speed of your song.",
+            "Add space to your sound with reverb.",
+            "Make a track in the Afrobeats style."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Remix one of your own tracks."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Change the tempo a little.",
+            "Swap the melody for a new one.",
+            "Export the remix and compare it with the original.",
+            "Open a track you made."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a track you made."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "2ABojDKeOQI",
+        "title": "How To Write a Song FROM SCRATCH | POP SONG Tutorial",
+        "channel": "Reid Stefan"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three tracks.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three tracks and write why each one works.",
+      "challenge": "Play your best track for someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is mastering?",
+          "options": [
+            "The final step that makes a track loud and clear for sharing",
+            "Recording drums",
+            "Writing lyrics",
+            "Choosing a beat"
+          ],
+          "answer": 0,
+          "explain": "Mastering is the last step. It makes your track loud enough and clear enough to share."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Build a song from loops.",
+            "Add a delay echo to your sound.",
+            "Make a track in the hip-hop style.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three tracks."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "5JwbgzYg2H4",
+        "title": "How to Make Soulful Afrobeats For Burna Boy from Scratch | Beginners Tutorial FL Studio",
+        "channel": "Seventh Beats"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your music production.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is a sample?",
+          "options": [
+            "A recorded sound you use in your music",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A sample is a sound you record or borrow and place into your track."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Make a beat without loops.",
+            "Add a recorded sound to your track.",
+            "Write a simple plan to keep getting better.",
+            "Make a short song with drums, bass, and melody."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your First EP",
+    "brief": "Make a 3-track EP: one Afrobeats track, one hip-hop track, and one free-choice track. Each track is mixed, mastered, and exported as an MP3.",
+    "checks": [
+      "Three tracks in total",
+      "One Afrobeats track",
+      "One hip-hop track",
+      "All tracks mixed and mastered",
+      "All tracks exported as MP3",
+      "Cover art made",
+      "EP shared with friends"
+    ],
+    "deliverables": [
+      "Three MP3 files",
+      "Cover art",
+      "A track list with tempos",
+      "A short note on each track",
+      "A plan for your next EP"
+    ]
+  }
+}

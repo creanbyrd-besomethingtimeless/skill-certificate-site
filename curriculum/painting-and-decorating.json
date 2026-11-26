@@ -1,0 +1,1714 @@
+{
+ "course": {
+  "id": "painting-and-decorating",
+  "title": "Painting and Decorating",
+  "level": "Beginner",
+  "tagline": "Paint walls, rooms and homes with a clean, professional finish.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Prepare a Room for Painting",
+   "goal": "Get a room ready so paint goes on clean walls, not on furniture.",
+   "video": {
+    "youtube_id": "whqeu-AVPV0",
+    "title": "How to Prepare a Room for Painting",
+    "channel": "Poly"
+   },
+   "steps": [
+    "Move furniture to the middle and cover it with dust sheets.",
+    "Take down curtains, pictures and light switch covers.",
+    "Fill holes and cracks with filler and let it dry.",
+    "Wash the walls with sugar soap (a cleaner that removes grease) and let them dry."
+   ],
+   "task": "Prepare one room fully: covered, filled and washed.",
+   "challenge": "Prepare a room in under one hour.",
+   "quiz": [
+    {
+     "q": "What should you do first before painting a room?",
+     "options": [
+      "Open the paint tin",
+      "Move and cover furniture, then fill and wash the walls",
+      "Paint the ceiling",
+      "Buy a roller"
+     ],
+     "answer": 1,
+     "explain": "Preparation protects furniture and gives paint a clean surface to stick to."
+    },
+    {
+     "q": "What is sugar soap used for?",
+     "options": [
+      "Washing clothes",
+      "Cleaning walls of grease before painting",
+      "Mixing paint",
+      "Cleaning brushes"
+     ],
+     "answer": 1,
+     "explain": "Sugar soap removes grease and dirt so paint sticks properly."
+    },
+    {
+     "q": "Why fill holes before painting?",
+     "options": [
+      "For fun",
+      "So the finished wall is smooth",
+      "To use up filler",
+      "To make it dry faster"
+     ],
+     "answer": 1,
+     "explain": "Unfilled holes show through paint and spoil the finish."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Tools: Rollers, Brushes and Trays",
+   "goal": "Know the painting tools and what each one does.",
+   "video": {
+    "youtube_id": "whqeu-AVPV0",
+    "title": "How to Prepare a Room for Painting",
+    "channel": "Poly"
+   },
+   "steps": [
+    "Lay out rollers, brushes, a tray, a roller pole and masking tape.",
+    "Learn that rollers cover big areas fast and brushes cut in edges.",
+    "Pick the right roller sleeve (the fluffy cover) for smooth or rough walls.",
+    "Wash new brushes before first use to remove loose hairs."
+   ],
+   "task": "Set up a painting kit with every tool named.",
+   "challenge": "Pick the right roller for a smooth wall and a rough wall.",
+   "quiz": [
+    {
+     "q": "What should you do first before painting a room?",
+     "options": [
+      "Open the paint tin",
+      "Move and cover furniture, then fill and wash the walls",
+      "Paint the ceiling",
+      "Buy a roller"
+     ],
+     "answer": 1,
+     "explain": "Preparation protects furniture and gives paint a clean surface to stick to."
+    },
+    {
+     "q": "What is sugar soap used for?",
+     "options": [
+      "Washing clothes",
+      "Cleaning walls of grease before painting",
+      "Mixing paint",
+      "Cleaning brushes"
+     ],
+     "answer": 1,
+     "explain": "Sugar soap removes grease and dirt so paint sticks properly."
+    },
+    {
+     "q": "Why fill holes before painting?",
+     "options": [
+      "For fun",
+      "So the finished wall is smooth",
+      "To use up filler",
+      "To make it dry faster"
+     ],
+     "answer": 1,
+     "explain": "Unfilled holes show through paint and spoil the finish."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Masking and Cutting In",
+   "goal": "Mask edges and paint clean lines where walls meet ceilings.",
+   "video": {
+    "youtube_id": "whqeu-AVPV0",
+    "title": "How to Prepare a Room for Painting",
+    "channel": "Poly"
+   },
+   "steps": [
+    "Masking tape is tape that protects edges from paint.",
+    "Press tape along skirting boards, ceilings and door frames.",
+    "Cut in means painting the edges with a brush first.",
+    "Paint a straight line along the ceiling with a steady hand."
+   ],
+   "task": "Cut in one wall with a clean straight line at the ceiling.",
+   "challenge": "Cut in a whole room with no wobbly lines.",
+   "quiz": [
+    {
+     "q": "What should you do first before painting a room?",
+     "options": [
+      "Open the paint tin",
+      "Move and cover furniture, then fill and wash the walls",
+      "Paint the ceiling",
+      "Buy a roller"
+     ],
+     "answer": 1,
+     "explain": "Preparation protects furniture and gives paint a clean surface to stick to."
+    },
+    {
+     "q": "What is sugar soap used for?",
+     "options": [
+      "Washing clothes",
+      "Cleaning walls of grease before painting",
+      "Mixing paint",
+      "Cleaning brushes"
+     ],
+     "answer": 1,
+     "explain": "Sugar soap removes grease and dirt so paint sticks properly."
+    },
+    {
+     "q": "Why fill holes before painting?",
+     "options": [
+      "For fun",
+      "So the finished wall is smooth",
+      "To use up filler",
+      "To make it dry faster"
+     ],
+     "answer": 1,
+     "explain": "Unfilled holes show through paint and spoil the finish."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Paint a Room Step by Step",
+   "goal": "Paint a full room in the right order.",
+   "video": {
+    "youtube_id": "HNefCphXHoc",
+    "title": "How to Paint a Room",
+    "channel": "Sherwin-Williams"
+   },
+   "steps": [
+    "Paint the ceiling first, then the walls, then the woodwork.",
+    "Cut in the edges, then roll the middle.",
+    "Work in small sections and keep a wet edge (paint into paint that is still wet).",
+    "Let the first coat dry fully before the second."
+   ],
+   "task": "Paint one room with two coats.",
+   "challenge": "Paint a room with no roller marks showing.",
+   "quiz": [
+    {
+     "q": "What is a roller sleeve?",
+     "options": [
+      "A shirt",
+      "The fluffy cover that holds paint on a roller",
+      "A paint tin",
+      "A brush"
+     ],
+     "answer": 1,
+     "explain": "The sleeve holds the paint and rolls it onto the wall."
+    },
+    {
+     "q": "What is a roller best for?",
+     "options": [
+      "Cutting in edges",
+      "Covering big flat areas fast",
+      "Painting corners",
+      "Small details"
+     ],
+     "answer": 1,
+     "explain": "Rollers cover large areas quickly; brushes do the edges."
+    },
+    {
+     "q": "What does cutting in mean?",
+     "options": [
+      "Cutting the roller",
+      "Painting edges with a brush before rolling",
+      "Cutting the paint tin",
+      "Trimming the wall"
+     ],
+     "answer": 1,
+     "explain": "Cutting in paints the edges a roller cannot reach."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Roller Technique",
+   "goal": "Roll paint evenly with no streaks or roller marks.",
+   "video": {
+    "youtube_id": "HNefCphXHoc",
+    "title": "How to Paint a Room",
+    "channel": "Sherwin-Williams"
+   },
+   "steps": [
+    "Load the roller evenly: roll it in the tray, not too much paint.",
+    "Roll in a W shape, then fill it in.",
+    "Do not press hard: let the roller do the work.",
+    "Roll the final pass in one direction for an even finish."
+   ],
+   "task": "Roll one wall with no streaks or lines.",
+   "challenge": "Roll a wall so smooth you cannot see where you started.",
+   "quiz": [
+    {
+     "q": "What is a roller sleeve?",
+     "options": [
+      "A shirt",
+      "The fluffy cover that holds paint on a roller",
+      "A paint tin",
+      "A brush"
+     ],
+     "answer": 1,
+     "explain": "The sleeve holds the paint and rolls it onto the wall."
+    },
+    {
+     "q": "What is a roller best for?",
+     "options": [
+      "Cutting in edges",
+      "Covering big flat areas fast",
+      "Painting corners",
+      "Small details"
+     ],
+     "answer": 1,
+     "explain": "Rollers cover large areas quickly; brushes do the edges."
+    },
+    {
+     "q": "What does cutting in mean?",
+     "options": [
+      "Cutting the roller",
+      "Painting edges with a brush before rolling",
+      "Cutting the paint tin",
+      "Trimming the wall"
+     ],
+     "answer": 1,
+     "explain": "Cutting in paints the edges a roller cannot reach."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Two Coats and Drying Times",
+   "goal": "Know why two coats matter and how long to wait between them.",
+   "video": {
+    "youtube_id": "HNefCphXHoc",
+    "title": "How to Paint a Room",
+    "channel": "Sherwin-Williams"
+   },
+   "steps": [
+    "One coat often looks patchy when it dries.",
+    "Wait the time on the tin before the second coat.",
+    "Check the paint is dry to the touch, not just looks dry.",
+    "Ventilate the room so paint dries evenly."
+   ],
+   "task": "Paint a wall with two coats and record the drying times.",
+   "challenge": "Get full coverage with two thin coats, not one thick one.",
+   "quiz": [
+    {
+     "q": "What is a roller sleeve?",
+     "options": [
+      "A shirt",
+      "The fluffy cover that holds paint on a roller",
+      "A paint tin",
+      "A brush"
+     ],
+     "answer": 1,
+     "explain": "The sleeve holds the paint and rolls it onto the wall."
+    },
+    {
+     "q": "What is a roller best for?",
+     "options": [
+      "Cutting in edges",
+      "Covering big flat areas fast",
+      "Painting corners",
+      "Small details"
+     ],
+     "answer": 1,
+     "explain": "Rollers cover large areas quickly; brushes do the edges."
+    },
+    {
+     "q": "What does cutting in mean?",
+     "options": [
+      "Cutting the roller",
+      "Painting edges with a brush before rolling",
+      "Cutting the paint tin",
+      "Trimming the wall"
+     ],
+     "answer": 1,
+     "explain": "Cutting in paints the edges a roller cannot reach."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Paint One Wall",
+   "goal": "Paint one wall from prep to finish with clean edges.",
+   "video": {
+    "youtube_id": "JfzVxA44rKw",
+    "title": "How to Paint a Wall",
+    "channel": "Lick"
+   },
+   "steps": [
+    "Fill and sand any holes, then wash the wall.",
+    "Mask the edges and cut in with a brush.",
+    "Roll two coats, letting the first dry.",
+    "Remove the tape while the last coat is still slightly wet."
+   ],
+   "task": "Finish one wall with clean edges and even colour.",
+   "challenge": "Paint the wall with no drips on the floor.",
+   "quiz": [
+    {
+     "q": "In what order do you paint a room?",
+     "options": [
+      "Walls, ceiling, floor",
+      "Ceiling, walls, woodwork",
+      "Floor, walls, ceiling",
+      "Woodwork first"
+     ],
+     "answer": 1,
+     "explain": "Top to bottom means drips fall on unpainted surfaces below."
+    },
+    {
+     "q": "What is a wet edge?",
+     "options": [
+      "A wet wall",
+      "Painting into paint that is still wet so no lines show",
+      "A wet brush",
+      "A leak"
+     ],
+     "answer": 1,
+     "explain": "Keeping a wet edge stops lines where one section meets the next."
+    },
+    {
+     "q": "Why wait between coats?",
+     "options": [
+      "To rest",
+      "So the first coat dries fully and the second sticks well",
+      "To save paint",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Painting too soon can lift the first coat and spoil the finish."
+    }
+   ],
+   "project": {
+    "title": "Paint One Wall",
+    "brief": "Paint one wall from prep to finish with clean edges.",
+    "checks": [
+     "Wall filled and sanded",
+     "Edges masked and cut in",
+     "Two coats applied",
+     "No drips on the floor",
+     "Tape removed cleanly",
+     "Even colour all over"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Paint a Wall Smoothly",
+   "goal": "Get a smooth finish with no brush marks or bubbles.",
+   "video": {
+    "youtube_id": "JfzVxA44rKw",
+    "title": "How to Paint a Wall",
+    "channel": "Lick"
+   },
+   "steps": [
+    "Use a good quality roller sleeve for smooth walls.",
+    "Do not overload the roller with paint.",
+    "Roll slowly and evenly, keeping a wet edge.",
+    "Fix bubbles by rolling over them gently before they dry."
+   ],
+   "task": "Paint a wall so smooth it looks sprayed.",
+   "challenge": "Fix a bubbled patch without repainting the whole wall.",
+   "quiz": [
+    {
+     "q": "In what order do you paint a room?",
+     "options": [
+      "Walls, ceiling, floor",
+      "Ceiling, walls, woodwork",
+      "Floor, walls, ceiling",
+      "Woodwork first"
+     ],
+     "answer": 1,
+     "explain": "Top to bottom means drips fall on unpainted surfaces below."
+    },
+    {
+     "q": "What is a wet edge?",
+     "options": [
+      "A wet wall",
+      "Painting into paint that is still wet so no lines show",
+      "A wet brush",
+      "A leak"
+     ],
+     "answer": 1,
+     "explain": "Keeping a wet edge stops lines where one section meets the next."
+    },
+    {
+     "q": "Why wait between coats?",
+     "options": [
+      "To rest",
+      "So the first coat dries fully and the second sticks well",
+      "To save paint",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Painting too soon can lift the first coat and spoil the finish."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Ceilings Without Drips",
+   "goal": "Paint a ceiling without drips on your head or the floor.",
+   "video": {
+    "youtube_id": "JfzVxA44rKw",
+    "title": "How to Paint a Wall",
+    "channel": "Lick"
+   },
+   "steps": [
+    "Use a roller on a pole and stand to one side.",
+    "Load the roller lightly and roll away from yourself.",
+    "Work in small sections across the room.",
+    "Wear a hat and old clothes."
+   ],
+   "task": "Paint a ceiling with no drips on the floor.",
+   "challenge": "Paint a ceiling in one session with no lap marks.",
+   "quiz": [
+    {
+     "q": "In what order do you paint a room?",
+     "options": [
+      "Walls, ceiling, floor",
+      "Ceiling, walls, woodwork",
+      "Floor, walls, ceiling",
+      "Woodwork first"
+     ],
+     "answer": 1,
+     "explain": "Top to bottom means drips fall on unpainted surfaces below."
+    },
+    {
+     "q": "What is a wet edge?",
+     "options": [
+      "A wet wall",
+      "Painting into paint that is still wet so no lines show",
+      "A wet brush",
+      "A leak"
+     ],
+     "answer": 1,
+     "explain": "Keeping a wet edge stops lines where one section meets the next."
+    },
+    {
+     "q": "Why wait between coats?",
+     "options": [
+      "To rest",
+      "So the first coat dries fully and the second sticks well",
+      "To save paint",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Painting too soon can lift the first coat and spoil the finish."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Paint an Apartment",
+   "goal": "Plan and paint a whole small apartment room by room.",
+   "video": {
+    "youtube_id": "XU7EoZJ25bY",
+    "title": "How to Paint a Wall Smoothly",
+    "channel": "paintloving"
+   },
+   "steps": [
+    "List every room and the paint each needs.",
+    "Work out how much paint to buy: one litre covers about 10 square metres.",
+    "Paint one room at a time, top to bottom.",
+    "Keep a record of colours used in each room."
+   ],
+   "task": "Paint one full room in an apartment from start to finish.",
+   "challenge": "Work out the paint needed for a room without buying too much.",
+   "quiz": [
+    {
+     "q": "How do you avoid roller marks?",
+     "options": [
+      "Press hard",
+      "Load evenly, roll in a W and finish in one direction",
+      "Roll fast",
+      "Use a dry roller"
+     ],
+     "answer": 1,
+     "explain": "Even loading and a final pass in one direction leaves no marks."
+    },
+    {
+     "q": "What causes paint bubbles?",
+     "options": [
+      "Too much paint or a hot wall",
+      "Cold paint",
+      "Old brushes",
+      "Dark colours"
+     ],
+     "answer": 0,
+     "explain": "Too much paint or heat traps air and makes bubbles."
+    },
+    {
+     "q": "How do you fix a bubble?",
+     "options": [
+      "Ignore it",
+      "Roll over it gently before it dries",
+      "Sand the whole wall",
+      "Add more paint"
+     ],
+     "answer": 1,
+     "explain": "Gentle rolling while wet smooths bubbles away."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Colour: Pick a Palette",
+   "goal": "Pick colours that work together in a home.",
+   "video": {
+    "youtube_id": "XU7EoZJ25bY",
+    "title": "How to Paint a Wall Smoothly",
+    "channel": "paintloving"
+   },
+   "steps": [
+    "Learn the 60-30-10 rule: 60 percent main colour, 30 percent second, 10 percent accent.",
+    "Test paint samples on the wall in daylight and at night.",
+    "Pick light colours to make small rooms feel bigger.",
+    "Write down the exact paint names and codes you use."
+   ],
+   "task": "Pick a three-colour palette for one room and test samples.",
+   "challenge": "Pick colours for a dark room that make it feel bright.",
+   "quiz": [
+    {
+     "q": "How do you avoid roller marks?",
+     "options": [
+      "Press hard",
+      "Load evenly, roll in a W and finish in one direction",
+      "Roll fast",
+      "Use a dry roller"
+     ],
+     "answer": 1,
+     "explain": "Even loading and a final pass in one direction leaves no marks."
+    },
+    {
+     "q": "What causes paint bubbles?",
+     "options": [
+      "Too much paint or a hot wall",
+      "Cold paint",
+      "Old brushes",
+      "Dark colours"
+     ],
+     "answer": 0,
+     "explain": "Too much paint or heat traps air and makes bubbles."
+    },
+    {
+     "q": "How do you fix a bubble?",
+     "options": [
+      "Ignore it",
+      "Roll over it gently before it dries",
+      "Sand the whole wall",
+      "Add more paint"
+     ],
+     "answer": 1,
+     "explain": "Gentle rolling while wet smooths bubbles away."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Feature Walls",
+   "goal": "Paint one bold feature wall that lifts a room.",
+   "video": {
+    "youtube_id": "XU7EoZJ25bY",
+    "title": "How to Paint a Wall Smoothly",
+    "channel": "paintloving"
+   },
+   "steps": [
+    "Pick the wall you see first when you walk in.",
+    "Choose a bold colour that suits the room.",
+    "Paint it with two coats and crisp edges.",
+    "Keep the other walls calm so the feature wall stands out."
+   ],
+   "task": "Paint a feature wall with crisp edges.",
+   "challenge": "Pick a feature wall colour that suits the room.",
+   "quiz": [
+    {
+     "q": "How do you avoid roller marks?",
+     "options": [
+      "Press hard",
+      "Load evenly, roll in a W and finish in one direction",
+      "Roll fast",
+      "Use a dry roller"
+     ],
+     "answer": 1,
+     "explain": "Even loading and a final pass in one direction leaves no marks."
+    },
+    {
+     "q": "What causes paint bubbles?",
+     "options": [
+      "Too much paint or a hot wall",
+      "Cold paint",
+      "Old brushes",
+      "Dark colours"
+     ],
+     "answer": 0,
+     "explain": "Too much paint or heat traps air and makes bubbles."
+    },
+    {
+     "q": "How do you fix a bubble?",
+     "options": [
+      "Ignore it",
+      "Roll over it gently before it dries",
+      "Sand the whole wall",
+      "Add more paint"
+     ],
+     "answer": 1,
+     "explain": "Gentle rolling while wet smooths bubbles away."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Project: Paint a Full Room",
+   "goal": "Paint a complete room: ceiling, walls and woodwork.",
+   "video": {
+    "youtube_id": "q6-nuJ-DyxM",
+    "title": "How to Paint an Apartment",
+    "channel": "Opple House"
+   },
+   "steps": [
+    "Prepare the room fully: cover, fill, wash and mask.",
+    "Paint the ceiling, then walls, then skirting and doors.",
+    "Apply two coats everywhere.",
+    "Clean up, remove tape and check the finish in daylight."
+   ],
+   "task": "Finish a full room, painted and tidy.",
+   "challenge": "Paint a room with no missed spots.",
+   "quiz": [
+    {
+     "q": "How much does one litre of paint cover?",
+     "options": [
+      "1 square metre",
+      "About 10 square metres",
+      "100 square metres",
+      "Half a room"
+     ],
+     "answer": 1,
+     "explain": "A litre covers roughly 10 square metres with one coat."
+    },
+    {
+     "q": "What is the 60-30-10 rule?",
+     "options": [
+      "Paint prices",
+      "60 percent main colour, 30 percent second, 10 percent accent",
+      "Drying times",
+      "Room sizes"
+     ],
+     "answer": 1,
+     "explain": "The rule balances three colours so a room feels planned, not random."
+    },
+    {
+     "q": "Why test paint samples on the wall?",
+     "options": [
+      "For fun",
+      "Colours look different in daylight and at night",
+      "To use up paint",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Light changes how a colour looks, so test it in the real room."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Rollers and Brushes: Choose Right",
+   "goal": "Pick the right roller nap and brush for each job.",
+   "video": {
+    "youtube_id": "q6-nuJ-DyxM",
+    "title": "How to Paint an Apartment",
+    "channel": "Opple House"
+   },
+   "steps": [
+    "Roller nap is the length of the fluff: short for smooth walls, long for rough ones.",
+    "Use a synthetic brush for water-based paint.",
+    "Use a small brush for cutting in and a big one for doors.",
+    "Clean brushes well so they last."
+   ],
+   "task": "Pick the right roller and brush for three surfaces.",
+   "challenge": "Pick tools for a rough wall and a smooth door.",
+   "quiz": [
+    {
+     "q": "How much does one litre of paint cover?",
+     "options": [
+      "1 square metre",
+      "About 10 square metres",
+      "100 square metres",
+      "Half a room"
+     ],
+     "answer": 1,
+     "explain": "A litre covers roughly 10 square metres with one coat."
+    },
+    {
+     "q": "What is the 60-30-10 rule?",
+     "options": [
+      "Paint prices",
+      "60 percent main colour, 30 percent second, 10 percent accent",
+      "Drying times",
+      "Room sizes"
+     ],
+     "answer": 1,
+     "explain": "The rule balances three colours so a room feels planned, not random."
+    },
+    {
+     "q": "Why test paint samples on the wall?",
+     "options": [
+      "For fun",
+      "Colours look different in daylight and at night",
+      "To use up paint",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Light changes how a colour looks, so test it in the real room."
+    }
+   ],
+   "project": {
+    "title": "Paint a Full Room",
+    "brief": "Paint a complete room: ceiling, walls and woodwork.",
+    "checks": [
+     "Room fully prepared",
+     "Ceiling painted first",
+     "Walls painted with two coats",
+     "Woodwork painted smoothly",
+     "No missed spots",
+     "Room tidy on handover"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Paint Woodwork: Doors and Skirting",
+   "goal": "Paint doors and skirting boards smoothly.",
+   "video": {
+    "youtube_id": "q6-nuJ-DyxM",
+    "title": "How to Paint an Apartment",
+    "channel": "Opple House"
+   },
+   "steps": [
+    "Sand woodwork lightly and wipe off dust.",
+    "Use a small brush and long smooth strokes.",
+    "Paint doors from top to bottom.",
+    "Let the first coat dry fully before the second."
+   ],
+   "task": "Paint one door and its skirting smoothly.",
+   "challenge": "Paint a door with no brush marks.",
+   "quiz": [
+    {
+     "q": "How much does one litre of paint cover?",
+     "options": [
+      "1 square metre",
+      "About 10 square metres",
+      "100 square metres",
+      "Half a room"
+     ],
+     "answer": 1,
+     "explain": "A litre covers roughly 10 square metres with one coat."
+    },
+    {
+     "q": "What is the 60-30-10 rule?",
+     "options": [
+      "Paint prices",
+      "60 percent main colour, 30 percent second, 10 percent accent",
+      "Drying times",
+      "Room sizes"
+     ],
+     "answer": 1,
+     "explain": "The rule balances three colours so a room feels planned, not random."
+    },
+    {
+     "q": "Why test paint samples on the wall?",
+     "options": [
+      "For fun",
+      "Colours look different in daylight and at night",
+      "To use up paint",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Light changes how a colour looks, so test it in the real room."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Fix Drips and Runs",
+   "goal": "Fix paint drips before they dry hard.",
+   "video": {
+    "youtube_id": "snJ8kwcNTqE",
+    "title": "How to Choose a Roller Nap and Brush",
+    "channel": "paintplatform"
+   },
+   "steps": [
+    "Catch drips while wet: brush them out gently.",
+    "If a drip dries, sand it flat and repaint that spot.",
+    "Learn that thin coats drip less than thick ones.",
+    "Check your work in good light before you pack up."
+   ],
+   "task": "Fix three dried drips so they disappear.",
+   "challenge": "Paint a wall with zero drips.",
+   "quiz": [
+    {
+     "q": "What is roller nap?",
+     "options": [
+      "A sleep",
+      "The length of the fluff on a roller sleeve",
+      "A paint brand",
+      "A brush type"
+     ],
+     "answer": 1,
+     "explain": "Nap length suits the surface: short for smooth walls, long for rough ones."
+    },
+    {
+     "q": "Which brush suits water-based paint?",
+     "options": [
+      "A natural bristle brush",
+      "A synthetic brush",
+      "A wire brush",
+      "Any brush"
+     ],
+     "answer": 1,
+     "explain": "Synthetic brushes hold their shape in water-based paint."
+    },
+    {
+     "q": "Why clean brushes after use?",
+     "options": [
+      "For looks",
+      "So they stay soft and last for years",
+      "It is the law",
+      "To save water"
+     ],
+     "answer": 1,
+     "explain": "Dried paint ruins brushes; clean ones last for many jobs."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Drywall Repair Basics",
+   "goal": "Repair small holes and cracks in walls.",
+   "video": {
+    "youtube_id": "snJ8kwcNTqE",
+    "title": "How to Choose a Roller Nap and Brush",
+    "channel": "paintplatform"
+   },
+   "steps": [
+    "Drywall is the board used for most inside walls.",
+    "Fill small holes with filler and a filling knife.",
+    "Sand the filler flat when dry.",
+    "Prime the patch (paint a base coat) before the top coat."
+   ],
+   "task": "Repair three small holes so they disappear under paint.",
+   "challenge": "Repair a hole so you cannot find it after painting.",
+   "quiz": [
+    {
+     "q": "What is roller nap?",
+     "options": [
+      "A sleep",
+      "The length of the fluff on a roller sleeve",
+      "A paint brand",
+      "A brush type"
+     ],
+     "answer": 1,
+     "explain": "Nap length suits the surface: short for smooth walls, long for rough ones."
+    },
+    {
+     "q": "Which brush suits water-based paint?",
+     "options": [
+      "A natural bristle brush",
+      "A synthetic brush",
+      "A wire brush",
+      "Any brush"
+     ],
+     "answer": 1,
+     "explain": "Synthetic brushes hold their shape in water-based paint."
+    },
+    {
+     "q": "Why clean brushes after use?",
+     "options": [
+      "For looks",
+      "So they stay soft and last for years",
+      "It is the law",
+      "To save water"
+     ],
+     "answer": 1,
+     "explain": "Dried paint ruins brushes; clean ones last for many jobs."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Patch a Damaged Wall",
+   "goal": "Patch a bigger damaged area and blend it in.",
+   "video": {
+    "youtube_id": "snJ8kwcNTqE",
+    "title": "How to Choose a Roller Nap and Brush",
+    "channel": "paintplatform"
+   },
+   "steps": [
+    "Cut out the loose or damaged plaster.",
+    "Fill in layers, letting each dry.",
+    "Sand smooth and feather the edges (blend the filler into the wall).",
+    "Prime and paint the patch to match."
+   ],
+   "task": "Patch a damaged wall area and blend it in.",
+   "challenge": "Patch a wall so the repair is invisible.",
+   "quiz": [
+    {
+     "q": "What is roller nap?",
+     "options": [
+      "A sleep",
+      "The length of the fluff on a roller sleeve",
+      "A paint brand",
+      "A brush type"
+     ],
+     "answer": 1,
+     "explain": "Nap length suits the surface: short for smooth walls, long for rough ones."
+    },
+    {
+     "q": "Which brush suits water-based paint?",
+     "options": [
+      "A natural bristle brush",
+      "A synthetic brush",
+      "A wire brush",
+      "Any brush"
+     ],
+     "answer": 1,
+     "explain": "Synthetic brushes hold their shape in water-based paint."
+    },
+    {
+     "q": "Why clean brushes after use?",
+     "options": [
+      "For looks",
+      "So they stay soft and last for years",
+      "It is the law",
+      "To save water"
+     ],
+     "answer": 1,
+     "explain": "Dried paint ruins brushes; clean ones last for many jobs."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Project: Repair and Paint a Damaged Wall",
+   "goal": "Repair a damaged wall and paint it to match.",
+   "video": {
+    "youtube_id": "7AczE-EA1Is",
+    "title": "Drywall Repair for Beginners",
+    "channel": "Darco"
+   },
+   "steps": [
+    "Fill and sand the damage until smooth.",
+    "Prime the repair.",
+    "Paint two coats to match the wall.",
+    "Check the repair in daylight from different angles."
+   ],
+   "task": "Finish a repaired wall that matches the rest.",
+   "challenge": "Match the paint colour so the repair disappears.",
+   "quiz": [
+    {
+     "q": "What is drywall?",
+     "options": [
+      "A wet wall",
+      "The board used for most inside walls",
+      "A brick wall",
+      "A painted wall"
+     ],
+     "answer": 1,
+     "explain": "Drywall is the flat board that forms most interior walls."
+    },
+    {
+     "q": "Why prime a patch before painting?",
+     "options": [
+      "For colour",
+      "So the top coat sticks evenly and does not soak in",
+      "To save paint",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Filler soaks up paint, so primer seals it for an even top coat."
+    },
+    {
+     "q": "What is filler used for?",
+     "options": [
+      "Mixing paint",
+      "Filling holes and cracks in walls",
+      "Cleaning walls",
+      "Thinning paint"
+     ],
+     "answer": 1,
+     "explain": "Filler fills holes and cracks so walls are smooth to paint."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Repair Walls Like a Pro",
+   "goal": "Fix cracks, dents and peeling paint properly.",
+   "video": {
+    "youtube_id": "7AczE-EA1Is",
+    "title": "Drywall Repair for Beginners",
+    "channel": "Darco"
+   },
+   "steps": [
+    "Scrape off loose paint first.",
+    "Fill cracks with flexible filler.",
+    "Sand, prime and paint.",
+    "Learn that paint peels when the wall underneath is dirty or damp."
+   ],
+   "task": "Fix a cracked wall from scrape to paint.",
+   "challenge": "Fix peeling paint so it does not peel again.",
+   "quiz": [
+    {
+     "q": "What is drywall?",
+     "options": [
+      "A wet wall",
+      "The board used for most inside walls",
+      "A brick wall",
+      "A painted wall"
+     ],
+     "answer": 1,
+     "explain": "Drywall is the flat board that forms most interior walls."
+    },
+    {
+     "q": "Why prime a patch before painting?",
+     "options": [
+      "For colour",
+      "So the top coat sticks evenly and does not soak in",
+      "To save paint",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Filler soaks up paint, so primer seals it for an even top coat."
+    },
+    {
+     "q": "What is filler used for?",
+     "options": [
+      "Mixing paint",
+      "Filling holes and cracks in walls",
+      "Cleaning walls",
+      "Thinning paint"
+     ],
+     "answer": 1,
+     "explain": "Filler fills holes and cracks so walls are smooth to paint."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Painting and Decorating Basics",
+   "goal": "Review the full decorating process from prep to finish.",
+   "video": {
+    "youtube_id": "7AczE-EA1Is",
+    "title": "Drywall Repair for Beginners",
+    "channel": "Darco"
+   },
+   "steps": [
+    "List the steps in order: prepare, fill, sand, prime, paint.",
+    "Learn that prep is most of the job.",
+    "Practise cutting in on a practice board.",
+    "Paint a practice panel with two coats."
+   ],
+   "task": "Write the full decorating process in order from memory.",
+   "challenge": "Explain the whole process to a friend in two minutes.",
+   "quiz": [
+    {
+     "q": "What is drywall?",
+     "options": [
+      "A wet wall",
+      "The board used for most inside walls",
+      "A brick wall",
+      "A painted wall"
+     ],
+     "answer": 1,
+     "explain": "Drywall is the flat board that forms most interior walls."
+    },
+    {
+     "q": "Why prime a patch before painting?",
+     "options": [
+      "For colour",
+      "So the top coat sticks evenly and does not soak in",
+      "To save paint",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Filler soaks up paint, so primer seals it for an even top coat."
+    },
+    {
+     "q": "What is filler used for?",
+     "options": [
+      "Mixing paint",
+      "Filling holes and cracks in walls",
+      "Cleaning walls",
+      "Thinning paint"
+     ],
+     "answer": 1,
+     "explain": "Filler fills holes and cracks so walls are smooth to paint."
+    }
+   ],
+   "project": {
+    "title": "Repair and Paint a Damaged Wall",
+    "brief": "Repair a damaged wall and paint it to match.",
+    "checks": [
+     "Damage filled and sanded smooth",
+     "Repair primed",
+     "Two coats to match",
+     "Repair invisible in daylight",
+     "Edges blended",
+     "Wall looks like new"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Exterior Walls: The Basics",
+   "goal": "Know how outside painting differs from inside.",
+   "video": {
+    "youtube_id": "B6cIA3ABiqU",
+    "title": "How to Repair Walls",
+    "channel": "Sherwin-Williams"
+   },
+   "steps": [
+    "Outside walls need weatherproof paint.",
+    "Clean the wall and fix cracks before painting.",
+    "Paint on a dry day with no rain coming.",
+    "Use a long roller pole for high walls."
+   ],
+   "task": "Paint one outside wall section cleanly.",
+   "challenge": "Pick the right paint for an outside wall.",
+   "quiz": [
+    {
+     "q": "Why does paint peel?",
+     "options": [
+      "Old paint",
+      "The wall underneath was dirty or damp",
+      "Too many coats",
+      "Bright colours"
+     ],
+     "answer": 1,
+     "explain": "Paint cannot stick to dirty or damp walls, so it peels off."
+    },
+    {
+     "q": "What should you do before filling a crack?",
+     "options": [
+      "Paint it",
+      "Scrape off loose paint first",
+      "Ignore it",
+      "Wet it"
+     ],
+     "answer": 1,
+     "explain": "Loose paint must come off or the filler will not hold."
+    },
+    {
+     "q": "What is feathering when filling?",
+     "options": [
+      "Using a feather",
+      "Blending the filler edges into the wall",
+      "A paint technique",
+      "A brush type"
+     ],
+     "answer": 1,
+     "explain": "Feathering thins the filler edges so the patch blends in."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Textured Walls: Patch and Blend",
+   "goal": "Patch a textured wall so the repair blends in.",
+   "video": {
+    "youtube_id": "B6cIA3ABiqU",
+    "title": "How to Repair Walls",
+    "channel": "Sherwin-Williams"
+   },
+   "steps": [
+    "Learn that texture is the bumpy pattern on the wall surface.",
+    "Match the texture with a sponge or stipple brush.",
+    "Practise the texture on cardboard first.",
+    "Paint the patch to match when dry."
+   ],
+   "task": "Patch a textured wall so the repair blends in.",
+   "challenge": "Match a wall texture on the first try.",
+   "quiz": [
+    {
+     "q": "Why does paint peel?",
+     "options": [
+      "Old paint",
+      "The wall underneath was dirty or damp",
+      "Too many coats",
+      "Bright colours"
+     ],
+     "answer": 1,
+     "explain": "Paint cannot stick to dirty or damp walls, so it peels off."
+    },
+    {
+     "q": "What should you do before filling a crack?",
+     "options": [
+      "Paint it",
+      "Scrape off loose paint first",
+      "Ignore it",
+      "Wet it"
+     ],
+     "answer": 1,
+     "explain": "Loose paint must come off or the filler will not hold."
+    },
+    {
+     "q": "What is feathering when filling?",
+     "options": [
+      "Using a feather",
+      "Blending the filler edges into the wall",
+      "A paint technique",
+      "A brush type"
+     ],
+     "answer": 1,
+     "explain": "Feathering thins the filler edges so the patch blends in."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Clean Up and Care for Tools",
+   "goal": "Clean brushes and rollers so they last for years.",
+   "video": {
+    "youtube_id": "B6cIA3ABiqU",
+    "title": "How to Repair Walls",
+    "channel": "Sherwin-Williams"
+   },
+   "steps": [
+    "Wash water-based paint tools in warm soapy water.",
+    "Rinse until the water runs clear.",
+    "Dry brushes flat or hanging, never standing on the bristles.",
+    "Seal paint tins tightly for next time."
+   ],
+   "task": "Clean a full set of tools after a paint job.",
+   "challenge": "Clean a brush so it is soft and ready next time.",
+   "quiz": [
+    {
+     "q": "Why does paint peel?",
+     "options": [
+      "Old paint",
+      "The wall underneath was dirty or damp",
+      "Too many coats",
+      "Bright colours"
+     ],
+     "answer": 1,
+     "explain": "Paint cannot stick to dirty or damp walls, so it peels off."
+    },
+    {
+     "q": "What should you do before filling a crack?",
+     "options": [
+      "Paint it",
+      "Scrape off loose paint first",
+      "Ignore it",
+      "Wet it"
+     ],
+     "answer": 1,
+     "explain": "Loose paint must come off or the filler will not hold."
+    },
+    {
+     "q": "What is feathering when filling?",
+     "options": [
+      "Using a feather",
+      "Blending the filler edges into the wall",
+      "A paint technique",
+      "A brush type"
+     ],
+     "answer": 1,
+     "explain": "Feathering thins the filler edges so the patch blends in."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Price a Painting Job",
+   "goal": "Price a painting job from paint, time and a fair profit.",
+   "video": {
+    "youtube_id": "bLbUIevOxzY",
+    "title": "Painting and Decorating for Beginners",
+    "channel": "Painting and Decorating"
+   },
+   "steps": [
+    "Measure the walls and work out the paint needed.",
+    "Time the job and value your hours fairly.",
+    "Add 20 percent profit and round to a clean price.",
+    "Write a simple quote a customer can understand."
+   ],
+   "task": "Write a clear quote for painting one room.",
+   "challenge": "Price a two-room job fairly.",
+   "quiz": [
+    {
+     "q": "Why is preparation most of the decorating job?",
+     "options": [
+      "It is slow",
+      "Good prep makes the painting fast and the finish smooth",
+      "It uses more paint",
+      "It is fun"
+     ],
+     "answer": 1,
+     "explain": "Most decorating time is prep; good prep is what makes paint look professional."
+    },
+    {
+     "q": "What paint suits outside walls?",
+     "options": [
+      "Any paint",
+      "Weatherproof exterior paint",
+      "Ceiling paint",
+      "Gloss only"
+     ],
+     "answer": 1,
+     "explain": "Exterior paint resists rain and sun; interior paint would fail outside."
+    },
+    {
+     "q": "What should a painting quote include?",
+     "options": [
+      "Only the paint price",
+      "Paint, time and profit",
+      "Your name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real quote covers paint, your time and a fair profit."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Paint a Hallway and Stairs",
+   "goal": "Paint a hallway and stairs neatly, working top to bottom.",
+   "video": {
+    "youtube_id": "bLbUIevOxzY",
+    "title": "Painting and Decorating for Beginners",
+    "channel": "Painting and Decorating"
+   },
+   "steps": [
+    "Start at the top of the stairs and work down.",
+    "Cut in along the ceiling and skirting first.",
+    "Roll the walls in sections, keeping a wet edge.",
+    "Check for drips on the stairs as you go."
+   ],
+   "task": "Paint a hallway wall from top to bottom.",
+   "challenge": "Paint stairs without drips.",
+   "quiz": [
+    {
+     "q": "Why is preparation most of the decorating job?",
+     "options": [
+      "It is slow",
+      "Good prep makes the painting fast and the finish smooth",
+      "It uses more paint",
+      "It is fun"
+     ],
+     "answer": 1,
+     "explain": "Most decorating time is prep; good prep is what makes paint look professional."
+    },
+    {
+     "q": "What paint suits outside walls?",
+     "options": [
+      "Any paint",
+      "Weatherproof exterior paint",
+      "Ceiling paint",
+      "Gloss only"
+     ],
+     "answer": 1,
+     "explain": "Exterior paint resists rain and sun; interior paint would fail outside."
+    },
+    {
+     "q": "What should a painting quote include?",
+     "options": [
+      "Only the paint price",
+      "Paint, time and profit",
+      "Your name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real quote covers paint, your time and a fair profit."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Deal with Damp and Stains",
+   "goal": "Fix damp patches and stains before you paint.",
+   "video": {
+    "youtube_id": "bLbUIevOxzY",
+    "title": "Painting and Decorating for Beginners",
+    "channel": "Painting and Decorating"
+   },
+   "steps": [
+    "Find where the damp comes from and fix it first.",
+    "Let the wall dry fully.",
+    "Paint the stain with a stain-blocking primer.",
+    "Paint over it once the primer is dry."
+   ],
+   "task": "Treat a stain with stain-blocking primer.",
+   "challenge": "Explain why you must fix damp before painting.",
+   "quiz": [
+    {
+     "q": "Why is preparation most of the decorating job?",
+     "options": [
+      "It is slow",
+      "Good prep makes the painting fast and the finish smooth",
+      "It uses more paint",
+      "It is fun"
+     ],
+     "answer": 1,
+     "explain": "Most decorating time is prep; good prep is what makes paint look professional."
+    },
+    {
+     "q": "What paint suits outside walls?",
+     "options": [
+      "Any paint",
+      "Weatherproof exterior paint",
+      "Ceiling paint",
+      "Gloss only"
+     ],
+     "answer": 1,
+     "explain": "Exterior paint resists rain and sun; interior paint would fail outside."
+    },
+    {
+     "q": "What should a painting quote include?",
+     "options": [
+      "Only the paint price",
+      "Paint, time and profit",
+      "Your name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real quote covers paint, your time and a fair profit."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Patch a Textured Wall",
+   "goal": "Patch a textured wall so the repair blends in.",
+   "video": {
+    "youtube_id": "LLiKD1XTLc8",
+    "title": "How to Patch Textured Walls",
+    "channel": "Drywall Repair Tutorials"
+   },
+   "steps": [
+    "Clean the damaged area and remove loose bits.",
+    "Fill the hole with filler and let it dry.",
+    "Match the texture by dabbing the filler with a sponge.",
+    "Sand lightly and paint to match."
+   ],
+   "task": "Patch a textured wall so the repair blends in.",
+   "challenge": "Match a wall texture with a sponge.",
+   "quiz": [
+    {
+     "q": "How do you match texture when patching a wall?",
+     "options": [
+      "Paint over it",
+      "Dab the filler with a sponge to copy the pattern",
+      "Sand it flat",
+      "Use more filler"
+     ],
+     "answer": 1,
+     "explain": "Dabbing with a sponge copies the bumpy texture of the wall."
+    },
+    {
+     "q": "Why remove loose bits before patching?",
+     "options": [
+      "For looks",
+      "So the filler sticks to solid wall, not crumbling bits",
+      "It is faster",
+      "It saves filler"
+     ],
+     "answer": 1,
+     "explain": "Filler on loose crumbling bits will fall off; it needs a solid base."
+    },
+    {
+     "q": "When do you paint over a patch?",
+     "options": [
+      "Right away",
+      "After the filler is fully dry and sanded",
+      "Before filling",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Painting wet filler traps moisture and the paint peels."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone room, buy paint and plan the days.",
+   "video": {
+    "youtube_id": "LLiKD1XTLc8",
+    "title": "How to Patch Textured Walls",
+    "channel": "Drywall Repair Tutorials"
+   },
+   "steps": [
+    "Pick a real room that needs painting.",
+    "Choose colours with the owner and buy the paint.",
+    "List every tool and the steps in order.",
+    "Write a two-day plan with drying time."
+   ],
+   "task": "Have all capstone paint and tools bought and the plan written.",
+   "challenge": "Plan a capstone job that uses prep, repair and two coats.",
+   "quiz": [
+    {
+     "q": "How do you match texture when patching a wall?",
+     "options": [
+      "Paint over it",
+      "Dab the filler with a sponge to copy the pattern",
+      "Sand it flat",
+      "Use more filler"
+     ],
+     "answer": 1,
+     "explain": "Dabbing with a sponge copies the bumpy texture of the wall."
+    },
+    {
+     "q": "Why remove loose bits before patching?",
+     "options": [
+      "For looks",
+      "So the filler sticks to solid wall, not crumbling bits",
+      "It is faster",
+      "It saves filler"
+     ],
+     "answer": 1,
+     "explain": "Filler on loose crumbling bits will fall off; it needs a solid base."
+    },
+    {
+     "q": "When do you paint over a patch?",
+     "options": [
+      "Right away",
+      "After the filler is fully dry and sanded",
+      "Before filling",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Painting wet filler traps moisture and the paint peels."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Paint a Real Room",
+   "goal": "Paint a real room from prep to finish and present it.",
+   "video": {
+    "youtube_id": "LLiKD1XTLc8",
+    "title": "How to Patch Textured Walls",
+    "channel": "Drywall Repair Tutorials"
+   },
+   "steps": [
+    "Prepare, repair and paint the room following your plan.",
+    "Apply two coats everywhere and check in daylight.",
+    "Clean up fully and show the owner the result.",
+    "Present your quote, colours used and care notes."
+   ],
+   "task": "Present a finished painted room with photos and quote.",
+   "challenge": "Finish the room with time left for a final check.",
+   "quiz": [
+    {
+     "q": "How do you match texture when patching a wall?",
+     "options": [
+      "Paint over it",
+      "Dab the filler with a sponge to copy the pattern",
+      "Sand it flat",
+      "Use more filler"
+     ],
+     "answer": 1,
+     "explain": "Dabbing with a sponge copies the bumpy texture of the wall."
+    },
+    {
+     "q": "Why remove loose bits before patching?",
+     "options": [
+      "For looks",
+      "So the filler sticks to solid wall, not crumbling bits",
+      "It is faster",
+      "It saves filler"
+     ],
+     "answer": 1,
+     "explain": "Filler on loose crumbling bits will fall off; it needs a solid base."
+    },
+    {
+     "q": "When do you paint over a patch?",
+     "options": [
+      "Right away",
+      "After the filler is fully dry and sanded",
+      "Before filling",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Painting wet filler traps moisture and the paint peels."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Paint a Real Room",
+  "brief": "Paint a real room from preparation to finish — ceiling, walls and woodwork, two coats, tidy handover — and present it with the quote and colours used.",
+  "checks": [
+   "Room fully prepared: covered, filled, washed",
+   "Ceiling, walls and woodwork painted",
+   "Two coats everywhere with even coverage",
+   "Clean edges with no paint on ceilings or floors",
+   "No drips, runs or missed spots",
+   "Room clean and tidy on handover",
+   "Quote, colours and care notes presented"
+  ],
+  "deliverables": [
+   "Finished painted room",
+   "Quote with paint, time and price",
+   "List of colours and paint used",
+   "Before and after photos",
+   "Care note for the owner"
+  ]
+ }
+}

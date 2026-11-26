@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "photo-editing-photoshop",
+    "title": "Photo Editing with Photoshop",
+    "level": "Beginner to intermediate",
+    "tagline": "Retouch, cut out and design with Photoshop, from your first edit to client-ready images.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet Photoshop",
+      "goal": "Open Photoshop and know the main parts of the screen.",
+      "video": {
+        "youtube_id": "nfG2LE0zQ4Y",
+        "title": "Photoshop Tutorial for Beginners: A Free 3 Hour Masterclass",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Open Photoshop on your computer.",
+        "Look at the toolbar on the left. It holds your tools.",
+        "Look at the Layers panel on the right. Layers are like sheets of paper stacked up.",
+        "Open any photo to see it on the canvas in the middle."
+      ],
+      "task": "Open Photoshop and point to the toolbar, the Layers panel, and the canvas.",
+      "challenge": "Close Photoshop and open it again, then open a photo in under one minute.",
+      "quiz": [
+        {
+          "q": "What is a layer in Photoshop?",
+          "options": [
+            "A sheet you stack on top of your photo, so you can edit without harming it",
+            "The name of a photo file",
+            "The button that saves your work",
+            "A type of camera"
+          ],
+          "answer": 0,
+          "explain": "A layer is like a clear sheet of paper on top of your photo. You edit the sheet, not the photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet Photoshop\"?",
+          "options": [
+            "Select a person with the quick selection tool.",
+            "Design a poster with a cut-out photo and text.",
+            "Save a photo at the right size for the internet.",
+            "Open Photoshop and know the main parts of the screen."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Open Photoshop and know the main parts of the screen."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at the Layers panel on the right. Layers are like sheets of paper stacked up.",
+            "Open any photo to see it on the canvas in the middle.",
+            "Open Photoshop on your computer.",
+            "Look at the toolbar on the left. It holds your tools."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open Photoshop on your computer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Open and save a photo",
+      "goal": "Open a photo and save a copy so the original stays safe.",
+      "video": {
+        "youtube_id": "NNkGiab2dWU",
+        "title": "Master Photoshop with This Free Beginner Tutorial",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Open Photoshop and click File, then Open.",
+        "Pick a photo from your computer.",
+        "Click File, then Save As, and give it a new name.",
+        "Save it as a JPG or PSD file."
+      ],
+      "task": "Open a photo and save it with a new name.",
+      "challenge": "Open three photos and save each one with a new name.",
+      "quiz": [
+        {
+          "q": "What does it mean to crop a photo?",
+          "options": [
+            "To cut off the edges and keep only the part you want",
+            "To make the photo brighter",
+            "To add text to the photo",
+            "To change the photo color"
+          ],
+          "answer": 0,
+          "explain": "Cropping cuts off the edges of a photo so only the part you want stays."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Open and save a photo\"?",
+          "options": [
+            "Use Hue/Saturation to calm red skin.",
+            "Retouch one portrait from start to finish.",
+            "Open a photo and save a copy so the original stays safe.",
+            "Cut out a subject and remove the background."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Open a photo and save a copy so the original stays safe."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save it as a JPG or PSD file.",
+            "Open Photoshop and click File, then Open.",
+            "Pick a photo from your computer.",
+            "Click File, then Save As, and give it a new name."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open Photoshop and click File, then Open."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Layers are like sheets of paper",
+      "goal": "Make a new layer and paint on it.",
+      "video": {
+        "youtube_id": "xTzvQkOll2U",
+        "title": "Getting Started with Photoshop",
+        "channel": "PRO EDU"
+      },
+      "steps": [
+        "Open a photo in Photoshop.",
+        "Click the new layer button at the bottom of the Layers panel.",
+        "Pick the brush tool and paint a red dot on the new layer.",
+        "Hide the layer with the eye icon, then show it again."
+      ],
+      "task": "Paint on a new layer, then hide and show the layer.",
+      "challenge": "Paint on three layers, one for each color, and stack them.",
+      "quiz": [
+        {
+          "q": "What is a layer in Photoshop?",
+          "options": [
+            "A sheet you stack on top of your photo, so you can edit without harming it",
+            "The name of a photo file",
+            "The button that saves your work",
+            "A type of camera"
+          ],
+          "answer": 0,
+          "explain": "A layer is like a clear sheet of paper on top of your photo. You edit the sheet, not the photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Layers are like sheets of paper\"?",
+          "options": [
+            "Change colors without harming the photo.",
+            "Make a new layer and paint on it.",
+            "Combine two photos into one.",
+            "Make teeth look a little whiter."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a new layer and paint on it."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open a photo in Photoshop.",
+            "Click the new layer button at the bottom of the Layers panel.",
+            "Pick the brush tool and paint a red dot on the new layer.",
+            "Hide the layer with the eye icon, then show it again."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open a photo in Photoshop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Crop and straighten",
+      "goal": "Crop a photo to a better shape.",
+      "video": {
+        "youtube_id": "yQsYziKvx9c",
+        "title": "How to Use Layers & Masks in Photoshop | Day 3",
+        "channel": "PHLEARN"
+      },
+      "steps": [
+        "Open a photo that has too much empty space.",
+        "Pick the crop tool from the toolbar.",
+        "Drag the corners to cut off the extra space.",
+        "Press Enter to finish the crop."
+      ],
+      "task": "Crop a photo so the main subject fills the frame.",
+      "challenge": "Crop the same photo into a square and into a wide shape.",
+      "quiz": [
+        {
+          "q": "What does it mean to crop a photo?",
+          "options": [
+            "To cut off the edges and keep only the part you want",
+            "To make the photo brighter",
+            "To add text to the photo",
+            "To change the photo color"
+          ],
+          "answer": 0,
+          "explain": "Cropping cuts off the edges of a photo so only the part you want stays."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Crop and straighten\"?",
+          "options": [
+            "Crop a photo to a better shape.",
+            "Make a simple poster with a photo and words.",
+            "Fix a photo that looks too yellow.",
+            "Save your steps so you can reuse them."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Crop a photo to a better shape."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick the crop tool from the toolbar.",
+            "Drag the corners to cut off the extra space.",
+            "Press Enter to finish the crop.",
+            "Open a photo that has too much empty space."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a photo that has too much empty space."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Fix brightness",
+      "goal": "Make a dark photo brighter.",
+      "video": {
+        "youtube_id": "dVThXY45jGI",
+        "title": "Essential Photo Corrections",
+        "channel": "PRO EDU"
+      },
+      "steps": [
+        "Open a dark photo.",
+        "Click the Brightness/Contrast button in the Adjustments panel.",
+        "Move the brightness slider slowly to the right.",
+        "Stop when you can see the details clearly."
+      ],
+      "task": "Make a dark photo bright enough to see the details.",
+      "challenge": "Fix one photo that is too dark and one that is too bright.",
+      "quiz": [
+        {
+          "q": "What is a layer in Photoshop?",
+          "options": [
+            "A sheet you stack on top of your photo, so you can edit without harming it",
+            "The name of a photo file",
+            "The button that saves your work",
+            "A type of camera"
+          ],
+          "answer": 0,
+          "explain": "A layer is like a clear sheet of paper on top of your photo. You edit the sheet, not the photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix brightness\"?",
+          "options": [
+            "Remove blemishes with the spot healing brush.",
+            "Add a soft glow or double exposure to a photo.",
+            "Use batch steps to edit a folder of photos.",
+            "Make a dark photo brighter."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a dark photo brighter."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Move the brightness slider slowly to the right.",
+            "Stop when you can see the details clearly.",
+            "Open a dark photo.",
+            "Click the Brightness/Contrast button in the Adjustments panel."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open a dark photo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Fix colors",
+      "goal": "Remove a color tint from a photo.",
+      "video": {
+        "youtube_id": "zl-SZ0C1jLY",
+        "title": "Photoshop Tutorial: 3 Easy Photo Effects For Beginners",
+        "channel": "Photoshop Tutorials"
+      },
+      "steps": [
+        "Open a photo that looks too yellow or too blue.",
+        "Add a Color Balance adjustment layer.",
+        "Move the sliders until the colors look natural.",
+        "Compare before and after by hiding the layer."
+      ],
+      "task": "Remove a yellow tint from a photo.",
+      "challenge": "Fix one photo that looks too yellow and one that looks too blue.",
+      "quiz": [
+        {
+          "q": "What does it mean to crop a photo?",
+          "options": [
+            "To cut off the edges and keep only the part you want",
+            "To make the photo brighter",
+            "To add text to the photo",
+            "To change the photo color"
+          ],
+          "answer": 0,
+          "explain": "Cropping cuts off the edges of a photo so only the part you want stays."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix colors\"?",
+          "options": [
+            "Make the details in a photo crisp.",
+            "Give a photo a warm film look.",
+            "Remove a color tint from a photo.",
+            "Soften skin without making it look fake."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Remove a color tint from a photo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Compare before and after by hiding the layer.",
+            "Open a photo that looks too yellow or too blue.",
+            "Add a Color Balance adjustment layer.",
+            "Move the sliders until the colors look natural."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open a photo that looks too yellow or too blue."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Fix one old photo",
+      "goal": "Use everything you learned this week on one photo.",
+      "video": {
+        "youtube_id": "d-lhr83hEhk",
+        "title": "Photoshop Double Exposure Tutorial",
+        "channel": "PiXimperfect"
+      },
+      "steps": [
+        "Pick an old or dull photo.",
+        "Crop it to a better shape.",
+        "Fix the brightness and the colors.",
+        "Save it with a new name."
+      ],
+      "task": "Fix one old photo: crop it, brighten it, and fix the colors.",
+      "challenge": "Fix the same photo two ways and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is a layer in Photoshop?",
+          "options": [
+            "A sheet you stack on top of your photo, so you can edit without harming it",
+            "The name of a photo file",
+            "The button that saves your work",
+            "A type of camera"
+          ],
+          "answer": 0,
+          "explain": "A layer is like a clear sheet of paper on top of your photo. You edit the sheet, not the photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix one old photo\"?",
+          "options": [
+            "Combine a photo and text into a post.",
+            "Use everything you learned this week on one photo.",
+            "Design a poster with a cut-out photo and text.",
+            "Save a photo at the right size for the internet."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Use everything you learned this week on one photo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick an old or dull photo.",
+            "Crop it to a better shape.",
+            "Fix the brightness and the colors.",
+            "Save it with a new name."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick an old or dull photo."
+        }
+      ],
+      "project": {
+        "title": "Fix One Old Photo",
+        "brief": "Fix one old or dull photo: crop it, brighten it, and fix the colors.",
+        "checks": [
+          "Photo is cropped to a better shape",
+          "Brightness is fixed and details are clear",
+          "Colors look natural",
+          "No part is too dark or too bright",
+          "Original photo is untouched",
+          "Saved with a new name"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Select a person",
+      "goal": "Select a person with the quick selection tool.",
+      "video": {
+        "youtube_id": "BQQqnn2uZv4",
+        "title": "How To Remove a Background In Photoshop [For Beginners!]",
+        "channel": "Photoshop Training Channel"
+      },
+      "steps": [
+        "Open a photo of a person.",
+        "Pick the Quick Selection tool from the toolbar.",
+        "Click and drag over the person to select them.",
+        "Zoom in and fix any parts the tool missed."
+      ],
+      "task": "Select a person in a photo using the quick selection tool.",
+      "challenge": "Select a person, then a pet, then an object, and compare how easy each one is.",
+      "quiz": [
+        {
+          "q": "What is a layer mask?",
+          "options": [
+            "A way to hide parts of a layer without deleting them",
+            "A filter that makes photos black and white",
+            "A tool that crops photos",
+            "A type of file format"
+          ],
+          "answer": 0,
+          "explain": "A layer mask hides parts of a layer. You can bring them back any time. Nothing is deleted."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Select a person\"?",
+          "options": [
+            "Select a person with the quick selection tool.",
+            "Use Hue/Saturation to calm red skin.",
+            "Retouch one portrait from start to finish.",
+            "Pick your five best edits."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Select a person with the quick selection tool."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick the Quick Selection tool from the toolbar.",
+            "Click and drag over the person to select them.",
+            "Zoom in and fix any parts the tool missed.",
+            "Open a photo of a person."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a photo of a person."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Remove a background",
+      "goal": "Cut out a subject and remove the background.",
+      "video": {
+        "youtube_id": "fy4NeeSjxTo",
+        "title": "My Beauty Retouching Workflow #1 - How I Retouch a Beauty Photo in Photoshop Step by Step",
+        "channel": "Kate Chibulya"
+      },
+      "steps": [
+        "Open a photo and select the subject.",
+        "Click Select and Mask to clean up the edges.",
+        "Click OK, then add a layer mask.",
+        "The background disappears and only your subject stays."
+      ],
+      "task": "Remove the background from a photo of one person.",
+      "challenge": "Remove the background from a photo with a busy street behind the subject.",
+      "quiz": [
+        {
+          "q": "What does the Spot Healing Brush do?",
+          "options": [
+            "It removes small spots and blemishes by filling them with nearby pixels",
+            "It paints a new color on the photo",
+            "It makes the whole photo darker",
+            "It adds a border to the photo"
+          ],
+          "answer": 0,
+          "explain": "The Spot Healing Brush copies nearby clean skin over a spot, so the spot vanishes."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Remove a background\"?",
+          "options": [
+            "Make teeth look a little whiter.",
+            "Change colors without harming the photo.",
+            "Follow a short brief and deliver on time.",
+            "Cut out a subject and remove the background."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Cut out a subject and remove the background."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Click OK, then add a layer mask.",
+            "The background disappears and only your subject stays.",
+            "Open a photo and select the subject.",
+            "Click Select and Mask to clean up the edges."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open a photo and select the subject."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Put a person on a new background",
+      "goal": "Combine two photos into one.",
+      "video": {
+        "youtube_id": "fdD9faooCjU",
+        "title": "Photoshop Skin Retouching Tutorial",
+        "channel": "Ehab Photography"
+      },
+      "steps": [
+        "Open a photo of a person with no background.",
+        "Open a second photo for the new background.",
+        "Drag the person onto the background photo.",
+        "Resize the person so they look the right size."
+      ],
+      "task": "Place a cut-out person onto a new background photo.",
+      "challenge": "Place the same person on three backgrounds and pick the most real-looking one.",
+      "quiz": [
+        {
+          "q": "What is a layer mask?",
+          "options": [
+            "A way to hide parts of a layer without deleting them",
+            "A filter that makes photos black and white",
+            "A tool that crops photos",
+            "A type of file format"
+          ],
+          "answer": 0,
+          "explain": "A layer mask hides parts of a layer. You can bring them back any time. Nothing is deleted."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Put a person on a new background\"?",
+          "options": [
+            "Save your steps so you can reuse them.",
+            "Pick your best work and say why it works.",
+            "Combine two photos into one.",
+            "Fix a photo that looks too yellow."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Combine two photos into one."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Resize the person so they look the right size.",
+            "Open a photo of a person with no background.",
+            "Open a second photo for the new background.",
+            "Drag the person onto the background photo."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open a photo of a person with no background."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Add text to a photo",
+      "goal": "Make a simple poster with a photo and words.",
+      "video": {
+        "youtube_id": "9BfDEkXhXwg",
+        "title": "5 Ways to Color Correct Beautifully in Photoshop and Remove Any Color Cast",
+        "channel": "ShutterEvolve"
+      },
+      "steps": [
+        "Open a photo you like.",
+        "Pick the Type tool and click on the photo.",
+        "Type a short headline in big letters.",
+        "Pick a color that stands out from the photo."
+      ],
+      "task": "Add a big headline to a photo to make a poster.",
+      "challenge": "Make two posters from the same photo with different words.",
+      "quiz": [
+        {
+          "q": "What does the Spot Healing Brush do?",
+          "options": [
+            "It removes small spots and blemishes by filling them with nearby pixels",
+            "It paints a new color on the photo",
+            "It makes the whole photo darker",
+            "It adds a border to the photo"
+          ],
+          "answer": 0,
+          "explain": "The Spot Healing Brush copies nearby clean skin over a spot, so the spot vanishes."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add text to a photo\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Make a simple poster with a photo and words.",
+            "Add a soft glow or double exposure to a photo.",
+            "Use batch steps to edit a folder of photos."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a simple poster with a photo and words."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open a photo you like.",
+            "Pick the Type tool and click on the photo.",
+            "Type a short headline in big letters.",
+            "Pick a color that stands out from the photo."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open a photo you like."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Clean up spots",
+      "goal": "Remove blemishes with the spot healing brush.",
+      "video": {
+        "youtube_id": "PeD7uhc8R4U",
+        "title": "Photoshop for Beginners - 2024 - Lesson 7 - Layers (Part 1)",
+        "channel": "Terry Vanderheiden"
+      },
+      "steps": [
+        "Open a portrait photo.",
+        "Make a new layer above the photo.",
+        "Pick the Spot Healing Brush tool.",
+        "Click on each spot or pimple to make it vanish."
+      ],
+      "task": "Remove five spots from a portrait using the spot healing brush.",
+      "challenge": "Clean up a photo of a face, then zoom in and check your work.",
+      "quiz": [
+        {
+          "q": "What is a layer mask?",
+          "options": [
+            "A way to hide parts of a layer without deleting them",
+            "A filter that makes photos black and white",
+            "A tool that crops photos",
+            "A type of file format"
+          ],
+          "answer": 0,
+          "explain": "A layer mask hides parts of a layer. You can bring them back any time. Nothing is deleted."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Clean up spots\"?",
+          "options": [
+            "Remove blemishes with the spot healing brush.",
+            "Make the details in a photo crisp.",
+            "Give a photo a warm film look.",
+            "Open Photoshop and know the main parts of the screen."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Remove blemishes with the spot healing brush."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make a new layer above the photo.",
+            "Pick the Spot Healing Brush tool.",
+            "Click on each spot or pimple to make it vanish.",
+            "Open a portrait photo."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a portrait photo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Smooth skin gently",
+      "goal": "Soften skin without making it look fake.",
+      "video": {
+        "youtube_id": "xJLF4VuJHQA",
+        "title": "How to Remove Red Patches from Skin in Photoshop in Just 1 Minute",
+        "channel": "PiXimperfect"
+      },
+      "steps": [
+        "Open a portrait and duplicate the photo layer.",
+        "Use the skin smoothing filter with low settings.",
+        "Keep the skin texture. Do not smooth it too much.",
+        "Compare before and after. The skin should still look real."
+      ],
+      "task": "Smooth the skin on a portrait a little, keeping it natural.",
+      "challenge": "Smooth one portrait too much on purpose, then fix it back to natural.",
+      "quiz": [
+        {
+          "q": "What does the Spot Healing Brush do?",
+          "options": [
+            "It removes small spots and blemishes by filling them with nearby pixels",
+            "It paints a new color on the photo",
+            "It makes the whole photo darker",
+            "It adds a border to the photo"
+          ],
+          "answer": 0,
+          "explain": "The Spot Healing Brush copies nearby clean skin over a spot, so the spot vanishes."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Smooth skin gently\"?",
+          "options": [
+            "Save a photo at the right size for the internet.",
+            "Combine a photo and text into a post.",
+            "Open a photo and save a copy so the original stays safe.",
+            "Soften skin without making it look fake."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Soften skin without making it look fake."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Keep the skin texture. Do not smooth it too much.",
+            "Compare before and after. The skin should still look real.",
+            "Open a portrait and duplicate the photo layer.",
+            "Use the skin smoothing filter with low settings."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open a portrait and duplicate the photo layer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Make a poster",
+      "goal": "Design a poster with a cut-out photo and text.",
+      "video": {
+        "youtube_id": "nfG2LE0zQ4Y",
+        "title": "Photoshop Tutorial for Beginners: A Free 3 Hour Masterclass",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Pick a photo and remove its background.",
+        "Place the person on a plain color background.",
+        "Add a big headline and a small line of text.",
+        "Save the poster as a JPG."
+      ],
+      "task": "Design a poster with a cut-out photo, a headline, and a background color.",
+      "challenge": "Make the same poster in two color styles and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is a layer mask?",
+          "options": [
+            "A way to hide parts of a layer without deleting them",
+            "A filter that makes photos black and white",
+            "A tool that crops photos",
+            "A type of file format"
+          ],
+          "answer": 0,
+          "explain": "A layer mask hides parts of a layer. You can bring them back any time. Nothing is deleted."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a poster\"?",
+          "options": [
+            "Pick your five best edits.",
+            "Make a new layer and paint on it.",
+            "Design a poster with a cut-out photo and text.",
+            "Retouch one portrait from start to finish."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Design a poster with a cut-out photo and text."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save the poster as a JPG.",
+            "Pick a photo and remove its background.",
+            "Place the person on a plain color background.",
+            "Add a big headline and a small line of text."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a photo and remove its background."
+        }
+      ],
+      "project": {
+        "title": "Poster with a Cut-Out Photo",
+        "brief": "Design a poster with a cut-out photo, a headline, and a background color.",
+        "checks": [
+          "Background is cleanly removed",
+          "Headline is big and easy to read",
+          "Colors work well together",
+          "Text has no spelling mistakes",
+          "Photo and text do not overlap badly",
+          "Saved as a JPG"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Fix red patches on skin",
+      "goal": "Use Hue/Saturation to calm red skin.",
+      "video": {
+        "youtube_id": "NNkGiab2dWU",
+        "title": "Master Photoshop with This Free Beginner Tutorial",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Open a portrait with red patches on the skin.",
+        "Add a Hue/Saturation adjustment layer.",
+        "Pick Reds in the menu and lower the saturation a little.",
+        "Paint the fix only on the red areas with a mask."
+      ],
+      "task": "Calm red patches on a face using a Hue/Saturation layer.",
+      "challenge": "Fix a photo where the whole face looks too red.",
+      "quiz": [
+        {
+          "q": "What does JPEG mean for saving?",
+          "options": [
+            "A common photo file type that is small and easy to share",
+            "A Photoshop-only file type",
+            "A video file type",
+            "A type of camera lens"
+          ],
+          "answer": 0,
+          "explain": "JPEG is the most common photo file type. It is small and works everywhere."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix red patches on skin\"?",
+          "options": [
+            "Crop a photo to a better shape.",
+            "Use Hue/Saturation to calm red skin.",
+            "Change colors without harming the photo.",
+            "Follow a short brief and deliver on time."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Use Hue/Saturation to calm red skin."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open a portrait with red patches on the skin.",
+            "Add a Hue/Saturation adjustment layer.",
+            "Pick Reds in the menu and lower the saturation a little.",
+            "Paint the fix only on the red areas with a mask."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open a portrait with red patches on the skin."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Whiten teeth gently",
+      "goal": "Make teeth look a little whiter.",
+      "video": {
+        "youtube_id": "xTzvQkOll2U",
+        "title": "Getting Started with Photoshop",
+        "channel": "PRO EDU"
+      },
+      "steps": [
+        "Open a portrait where the teeth look yellow.",
+        "Select just the teeth with a soft brush on a new layer.",
+        "Add a Hue/Saturation layer and lower the yellow.",
+        "Keep it subtle. Teeth should never look blue."
+      ],
+      "task": "Whiten teeth slightly on a portrait.",
+      "challenge": "Whiten teeth on two photos and compare the results.",
+      "quiz": [
+        {
+          "q": "Why should you work on a copy of your photo?",
+          "options": [
+            "So the original photo stays safe if you make a mistake",
+            "So the photo loads faster",
+            "So the colors look better",
+            "So the file is smaller"
+          ],
+          "answer": 0,
+          "explain": "Always keep the original safe. Work on a copy, so mistakes never ruin the real photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Whiten teeth gently\"?",
+          "options": [
+            "Make teeth look a little whiter.",
+            "Save your steps so you can reuse them.",
+            "Pick your best work and say why it works.",
+            "Make a dark photo brighter."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make teeth look a little whiter."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Select just the teeth with a soft brush on a new layer.",
+            "Add a Hue/Saturation layer and lower the yellow.",
+            "Keep it subtle. Teeth should never look blue.",
+            "Open a portrait where the teeth look yellow."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a portrait where the teeth look yellow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Color correct a photo",
+      "goal": "Fix a photo that looks too yellow.",
+      "video": {
+        "youtube_id": "yQsYziKvx9c",
+        "title": "How to Use Layers & Masks in Photoshop | Day 3",
+        "channel": "PHLEARN"
+      },
+      "steps": [
+        "Open a photo with a strong yellow tint.",
+        "Add a Curves adjustment layer.",
+        "Click the grey eyedropper, then click something grey in the photo.",
+        "The colors should now look more natural."
+      ],
+      "task": "Color correct a yellow-tinted photo using Curves.",
+      "challenge": "Color correct three photos with different tints.",
+      "quiz": [
+        {
+          "q": "What does JPEG mean for saving?",
+          "options": [
+            "A common photo file type that is small and easy to share",
+            "A Photoshop-only file type",
+            "A video file type",
+            "A type of camera lens"
+          ],
+          "answer": 0,
+          "explain": "JPEG is the most common photo file type. It is small and works everywhere."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Color correct a photo\"?",
+          "options": [
+            "Use batch steps to edit a folder of photos.",
+            "Write a simple plan to keep getting better.",
+            "Remove a color tint from a photo.",
+            "Fix a photo that looks too yellow."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Fix a photo that looks too yellow."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Click the grey eyedropper, then click something grey in the photo.",
+            "The colors should now look more natural.",
+            "Open a photo with a strong yellow tint.",
+            "Add a Curves adjustment layer."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open a photo with a strong yellow tint."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Add a simple effect",
+      "goal": "Add a soft glow or double exposure to a photo.",
+      "video": {
+        "youtube_id": "dVThXY45jGI",
+        "title": "Essential Photo Corrections",
+        "channel": "PRO EDU"
+      },
+      "steps": [
+        "Open a photo you like.",
+        "Duplicate the photo layer.",
+        "Change the top layer to Screen mode and lower its opacity.",
+        "Save the soft, glowing result."
+      ],
+      "task": "Add a soft glow effect to a photo.",
+      "challenge": "Try the double exposure idea: blend two photos into one image.",
+      "quiz": [
+        {
+          "q": "Why should you work on a copy of your photo?",
+          "options": [
+            "So the original photo stays safe if you make a mistake",
+            "So the photo loads faster",
+            "So the colors look better",
+            "So the file is smaller"
+          ],
+          "answer": 0,
+          "explain": "Always keep the original safe. Work on a copy, so mistakes never ruin the real photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a simple effect\"?",
+          "options": [
+            "Open Photoshop and know the main parts of the screen.",
+            "Use everything you learned this week on one photo.",
+            "Add a soft glow or double exposure to a photo.",
+            "Give a photo a warm film look."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Add a soft glow or double exposure to a photo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save the soft, glowing result.",
+            "Open a photo you like.",
+            "Duplicate the photo layer.",
+            "Change the top layer to Screen mode and lower its opacity."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open a photo you like."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Sharpen a photo",
+      "goal": "Make the details in a photo crisp.",
+      "video": {
+        "youtube_id": "zl-SZ0C1jLY",
+        "title": "Photoshop Tutorial: 3 Easy Photo Effects For Beginners",
+        "channel": "Photoshop Tutorials"
+      },
+      "steps": [
+        "Open a slightly soft photo.",
+        "Duplicate the photo layer.",
+        "Use the Sharpen filter with a low amount.",
+        "Zoom in to 100 percent and check it does not look harsh."
+      ],
+      "task": "Sharpen a soft photo a little.",
+      "challenge": "Sharpen one photo too much, then undo it and do it gently.",
+      "quiz": [
+        {
+          "q": "What does JPEG mean for saving?",
+          "options": [
+            "A common photo file type that is small and easy to share",
+            "A Photoshop-only file type",
+            "A video file type",
+            "A type of camera lens"
+          ],
+          "answer": 0,
+          "explain": "JPEG is the most common photo file type. It is small and works everywhere."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Sharpen a photo\"?",
+          "options": [
+            "Select a person with the quick selection tool.",
+            "Make the details in a photo crisp.",
+            "Combine a photo and text into a post.",
+            "Open a photo and save a copy so the original stays safe."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make the details in a photo crisp."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open a slightly soft photo.",
+            "Duplicate the photo layer.",
+            "Use the Sharpen filter with a low amount.",
+            "Zoom in to 100 percent and check it does not look harsh."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open a slightly soft photo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Resize for the web",
+      "goal": "Save a photo at the right size for the internet.",
+      "video": {
+        "youtube_id": "d-lhr83hEhk",
+        "title": "Photoshop Double Exposure Tutorial",
+        "channel": "PiXimperfect"
+      },
+      "steps": [
+        "Open a finished photo.",
+        "Click Image, then Image Size.",
+        "Set the width to 1200 pixels.",
+        "Save a copy as a JPG for the web."
+      ],
+      "task": "Resize a photo to 1200 pixels wide and save it for the web.",
+      "challenge": "Resize the same photo for a phone wallpaper and for a profile picture.",
+      "quiz": [
+        {
+          "q": "Why should you work on a copy of your photo?",
+          "options": [
+            "So the original photo stays safe if you make a mistake",
+            "So the photo loads faster",
+            "So the colors look better",
+            "So the file is smaller"
+          ],
+          "answer": 0,
+          "explain": "Always keep the original safe. Work on a copy, so mistakes never ruin the real photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Resize for the web\"?",
+          "options": [
+            "Save a photo at the right size for the internet.",
+            "Pick your five best edits.",
+            "Make a new layer and paint on it.",
+            "Cut out a subject and remove the background."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Save a photo at the right size for the internet."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Click Image, then Image Size.",
+            "Set the width to 1200 pixels.",
+            "Save a copy as a JPG for the web.",
+            "Open a finished photo."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a finished photo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Retouch a portrait start to finish",
+      "goal": "Retouch one portrait from start to finish.",
+      "video": {
+        "youtube_id": "BQQqnn2uZv4",
+        "title": "How To Remove a Background In Photoshop [For Beginners!]",
+        "channel": "Photoshop Training Channel"
+      },
+      "steps": [
+        "Pick a portrait that needs work.",
+        "Clean up spots with the spot healing brush.",
+        "Fix the colors and smooth the skin gently.",
+        "Sharpen it a little and save it."
+      ],
+      "task": "Retouch one full portrait from start to finish.",
+      "challenge": "Retouch the same portrait twice and keep the better version.",
+      "quiz": [
+        {
+          "q": "What does JPEG mean for saving?",
+          "options": [
+            "A common photo file type that is small and easy to share",
+            "A Photoshop-only file type",
+            "A video file type",
+            "A type of camera lens"
+          ],
+          "answer": 0,
+          "explain": "JPEG is the most common photo file type. It is small and works everywhere."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Retouch a portrait start to finish\"?",
+          "options": [
+            "Follow a short brief and deliver on time.",
+            "Crop a photo to a better shape.",
+            "Combine two photos into one.",
+            "Retouch one portrait from start to finish."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Retouch one portrait from start to finish."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Fix the colors and smooth the skin gently.",
+            "Sharpen it a little and save it.",
+            "Pick a portrait that needs work.",
+            "Clean up spots with the spot healing brush."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a portrait that needs work."
+        }
+      ],
+      "project": {
+        "title": "Retouch a Portrait",
+        "brief": "Retouch one portrait from start to finish.",
+        "checks": [
+          "Spots are cleaned up",
+          "Skin looks smooth but still real",
+          "Colors look natural",
+          "Teeth look clean, not blue",
+          "Photo is sharp, not blurry",
+          "Saved as a JPG and a PSD"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Use adjustment layers",
+      "goal": "Change colors without harming the photo.",
+      "video": {
+        "youtube_id": "fy4NeeSjxTo",
+        "title": "My Beauty Retouching Workflow #1 - How I Retouch a Beauty Photo in Photoshop Step by Step",
+        "channel": "Kate Chibulya"
+      },
+      "steps": [
+        "Open a photo.",
+        "Add a Brightness/Contrast adjustment layer.",
+        "Add a Hue/Saturation adjustment layer.",
+        "Change the settings. Your photo is safe because the layers can be removed."
+      ],
+      "task": "Change a photo with two adjustment layers, then turn them off and on.",
+      "challenge": "Edit a photo using only adjustment layers, no direct changes.",
+      "quiz": [
+        {
+          "q": "What is an adjustment layer?",
+          "options": [
+            "A layer that changes brightness or color without touching the photo",
+            "A layer that holds text",
+            "A layer that holds the background",
+            "A layer that saves your file"
+          ],
+          "answer": 0,
+          "explain": "An adjustment layer changes how the photo looks, but the photo itself is never changed. You can remove the layer any time."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use adjustment layers\"?",
+          "options": [
+            "Make a dark photo brighter.",
+            "Make a simple poster with a photo and words.",
+            "Change colors without harming the photo.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Change colors without harming the photo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Change the settings. Your photo is safe because the layers can be removed.",
+            "Open a photo.",
+            "Add a Brightness/Contrast adjustment layer.",
+            "Add a Hue/Saturation adjustment layer."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open a photo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Record an action",
+      "goal": "Save your steps so you can reuse them.",
+      "video": {
+        "youtube_id": "fdD9faooCjU",
+        "title": "Photoshop Skin Retouching Tutorial",
+        "channel": "Ehab Photography"
+      },
+      "steps": [
+        "Open the Actions panel in Photoshop.",
+        "Click the record button.",
+        "Do a simple edit: brighten the photo and sharpen it.",
+        "Click stop, then play the action on a second photo."
+      ],
+      "task": "Record a simple action and play it on another photo.",
+      "challenge": "Record an action that resizes a photo and adds your name as text.",
+      "quiz": [
+        {
+          "q": "What does sharpening do to a photo?",
+          "options": [
+            "It makes edges and details look crisp",
+            "It makes the photo darker",
+            "It removes the background",
+            "It adds text to the photo"
+          ],
+          "answer": 0,
+          "explain": "Sharpening makes edges and small details stand out more clearly."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Record an action\"?",
+          "options": [
+            "Remove blemishes with the spot healing brush.",
+            "Save your steps so you can reuse them.",
+            "Write a simple plan to keep getting better.",
+            "Remove a color tint from a photo."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Save your steps so you can reuse them."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open the Actions panel in Photoshop.",
+            "Click the record button.",
+            "Do a simple edit: brighten the photo and sharpen it.",
+            "Click stop, then play the action on a second photo."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open the Actions panel in Photoshop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Edit many photos fast",
+      "goal": "Use batch steps to edit a folder of photos.",
+      "video": {
+        "youtube_id": "9BfDEkXhXwg",
+        "title": "5 Ways to Color Correct Beautifully in Photoshop and Remove Any Color Cast",
+        "channel": "ShutterEvolve"
+      },
+      "steps": [
+        "Put five photos in one folder.",
+        "Record a simple action: resize and brighten.",
+        "Use File, then Automate, then Batch.",
+        "Pick your action and your folder, then let Photoshop do the work."
+      ],
+      "task": "Batch edit five photos with one action.",
+      "challenge": "Batch edit ten photos and check each one after.",
+      "quiz": [
+        {
+          "q": "What is an adjustment layer?",
+          "options": [
+            "A layer that changes brightness or color without touching the photo",
+            "A layer that holds text",
+            "A layer that holds the background",
+            "A layer that saves your file"
+          ],
+          "answer": 0,
+          "explain": "An adjustment layer changes how the photo looks, but the photo itself is never changed. You can remove the layer any time."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit many photos fast\"?",
+          "options": [
+            "Use batch steps to edit a folder of photos.",
+            "Open Photoshop and know the main parts of the screen.",
+            "Use everything you learned this week on one photo.",
+            "Soften skin without making it look fake."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Use batch steps to edit a folder of photos."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record a simple action: resize and brighten.",
+            "Use File, then Automate, then Batch.",
+            "Pick your action and your folder, then let Photoshop do the work.",
+            "Put five photos in one folder."
+          ],
+          "answer": 3,
+          "explain": "Start with: Put five photos in one folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Make a photo look like film",
+      "goal": "Give a photo a warm film look.",
+      "video": {
+        "youtube_id": "PeD7uhc8R4U",
+        "title": "Photoshop for Beginners - 2024 - Lesson 7 - Layers (Part 1)",
+        "channel": "Terry Vanderheiden"
+      },
+      "steps": [
+        "Open a photo.",
+        "Add a Curves layer and lift the blacks a little.",
+        "Add a warm color tint.",
+        "Lower the contrast slightly for a soft film feel."
+      ],
+      "task": "Give a photo a warm film look.",
+      "challenge": "Make the same photo look like an old film photo and like a modern photo.",
+      "quiz": [
+        {
+          "q": "What does sharpening do to a photo?",
+          "options": [
+            "It makes edges and details look crisp",
+            "It makes the photo darker",
+            "It removes the background",
+            "It adds text to the photo"
+          ],
+          "answer": 0,
+          "explain": "Sharpening makes edges and small details stand out more clearly."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a photo look like film\"?",
+          "options": [
+            "Open a photo and save a copy so the original stays safe.",
+            "Select a person with the quick selection tool.",
+            "Design a poster with a cut-out photo and text.",
+            "Give a photo a warm film look."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Give a photo a warm film look."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a warm color tint.",
+            "Lower the contrast slightly for a soft film feel.",
+            "Open a photo.",
+            "Add a Curves layer and lift the blacks a little."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open a photo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Design a social media post",
+      "goal": "Combine a photo and text into a post.",
+      "video": {
+        "youtube_id": "xJLF4VuJHQA",
+        "title": "How to Remove Red Patches from Skin in Photoshop in Just 1 Minute",
+        "channel": "PiXimperfect"
+      },
+      "steps": [
+        "Open a photo and crop it square.",
+        "Add a short headline in big text.",
+        "Add a small line of text at the bottom.",
+        "Save it as a JPG for social media."
+      ],
+      "task": "Design a square social media post with a photo and headline.",
+      "challenge": "Design three posts in the same style for one business.",
+      "quiz": [
+        {
+          "q": "What is an adjustment layer?",
+          "options": [
+            "A layer that changes brightness or color without touching the photo",
+            "A layer that holds text",
+            "A layer that holds the background",
+            "A layer that saves your file"
+          ],
+          "answer": 0,
+          "explain": "An adjustment layer changes how the photo looks, but the photo itself is never changed. You can remove the layer any time."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Design a social media post\"?",
+          "options": [
+            "Cut out a subject and remove the background.",
+            "Use Hue/Saturation to calm red skin.",
+            "Combine a photo and text into a post.",
+            "Make a new layer and paint on it."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Combine a photo and text into a post."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save it as a JPG for social media.",
+            "Open a photo and crop it square.",
+            "Add a short headline in big text.",
+            "Add a small line of text at the bottom."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open a photo and crop it square."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Build a small portfolio",
+      "goal": "Pick your five best edits.",
+      "video": {
+        "youtube_id": "nfG2LE0zQ4Y",
+        "title": "Photoshop Tutorial for Beginners: A Free 3 Hour Masterclass",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Look at all the photos you edited this month.",
+        "Pick the five best ones.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each photo."
+      ],
+      "task": "Pick your five best edits and save them in a portfolio folder.",
+      "challenge": "Show your portfolio to a friend and ask which photo is best.",
+      "quiz": [
+        {
+          "q": "What does sharpening do to a photo?",
+          "options": [
+            "It makes edges and details look crisp",
+            "It makes the photo darker",
+            "It removes the background",
+            "It adds text to the photo"
+          ],
+          "answer": 0,
+          "explain": "Sharpening makes edges and small details stand out more clearly."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build a small portfolio\"?",
+          "options": [
+            "Make teeth look a little whiter.",
+            "Pick your five best edits.",
+            "Crop a photo to a better shape.",
+            "Combine two photos into one."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Pick your five best edits."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at all the photos you edited this month.",
+            "Pick the five best ones.",
+            "Save them in a folder called Portfolio.",
+            "Write one sentence about each photo."
+          ],
+          "answer": 0,
+          "explain": "Start with: Look at all the photos you edited this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Edit a photo for a client",
+      "goal": "Follow a short brief and deliver on time.",
+      "video": {
+        "youtube_id": "NNkGiab2dWU",
+        "title": "Master Photoshop with This Free Beginner Tutorial",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Read this brief: brighten a shop photo and add the shop name.",
+        "Open the photo and follow the brief step by step.",
+        "Check your work against the brief.",
+        "Save and export the final photo."
+      ],
+      "task": "Edit a photo from a short client brief.",
+      "challenge": "Ask a friend to write you a brief and follow it exactly.",
+      "quiz": [
+        {
+          "q": "What is an adjustment layer?",
+          "options": [
+            "A layer that changes brightness or color without touching the photo",
+            "A layer that holds text",
+            "A layer that holds the background",
+            "A layer that saves your file"
+          ],
+          "answer": 0,
+          "explain": "An adjustment layer changes how the photo looks, but the photo itself is never changed. You can remove the layer any time."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit a photo for a client\"?",
+          "options": [
+            "Follow a short brief and deliver on time.",
+            "Make a dark photo brighter.",
+            "Make a simple poster with a photo and words.",
+            "Fix a photo that looks too yellow."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Follow a short brief and deliver on time."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open the photo and follow the brief step by step.",
+            "Check your work against the brief.",
+            "Save and export the final photo.",
+            "Read this brief: brighten a shop photo and add the shop name."
+          ],
+          "answer": 3,
+          "explain": "Start with: Read this brief: brighten a shop photo and add the shop name."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best edits",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "xTzvQkOll2U",
+        "title": "Getting Started with Photoshop",
+        "channel": "PRO EDU"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three edits.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three edits and write why each one works.",
+      "challenge": "Show your best edit to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What does sharpening do to a photo?",
+          "options": [
+            "It makes edges and details look crisp",
+            "It makes the photo darker",
+            "It removes the background",
+            "It adds text to the photo"
+          ],
+          "answer": 0,
+          "explain": "Sharpening makes edges and small details stand out more clearly."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best edits\"?",
+          "options": [
+            "Remove a color tint from a photo.",
+            "Remove blemishes with the spot healing brush.",
+            "Add a soft glow or double exposure to a photo.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three edits."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "yQsYziKvx9c",
+        "title": "How to Use Layers & Masks in Photoshop | Day 3",
+        "channel": "PHLEARN"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your Photoshop skills.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is an adjustment layer?",
+          "options": [
+            "A layer that changes brightness or color without touching the photo",
+            "A layer that holds text",
+            "A layer that holds the background",
+            "A layer that saves your file"
+          ],
+          "answer": 0,
+          "explain": "An adjustment layer changes how the photo looks, but the photo itself is never changed. You can remove the layer any time."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Soften skin without making it look fake.",
+            "Make the details in a photo crisp.",
+            "Write a simple plan to keep getting better.",
+            "Use everything you learned this week on one photo."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Client Photo Pack",
+    "brief": "Edit a pack of five photos for a real or pretend small business: clean them up, fix colors, retouch one portrait, and add text to one poster.",
+    "checks": [
+      "All five photos are cropped well",
+      "Colors are fixed and natural",
+      "Portrait is retouched gently",
+      "Poster has clean text with no mistakes",
+      "All photos are the right size for their use",
+      "Originals are untouched",
+      "Files are named clearly and saved in one folder"
+    ],
+    "deliverables": [
+      "Five finished photos",
+      "One poster with text",
+      "Before-and-after of the portrait",
+      "A list of the edits you made to each photo",
+      "A short note on what you would improve next time"
+    ]
+  }
+}

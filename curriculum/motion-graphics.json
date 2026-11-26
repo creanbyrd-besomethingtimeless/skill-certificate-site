@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "motion-graphics",
+    "title": "Motion Graphics",
+    "level": "Beginner to intermediate",
+    "tagline": "Animate text, logos and graphics with After Effects for videos, ads and social media.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet After Effects",
+      "goal": "Open After Effects and know the main parts.",
+      "video": {
+        "youtube_id": "HcHq9XjGuzc",
+        "title": "Intro to Motion Graphics [1/4] | After Effects Tutorial",
+        "channel": "TipTut"
+      },
+      "steps": [
+        "Open Adobe After Effects on your computer.",
+        "Look at the timeline at the bottom.",
+        "Look at the composition panel in the middle.",
+        "Start a new composition."
+      ],
+      "task": "Open After Effects and find the timeline and the composition panel.",
+      "challenge": "Open After Effects and start a new composition in under one minute.",
+      "quiz": [
+        {
+          "q": "What is a keyframe?",
+          "options": [
+            "A point that marks a value, like position, at a certain time",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A keyframe marks a value at a time. Two keyframes make movement between them."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet After Effects\"?",
+          "options": [
+            "Make a 5-second motion graphic.",
+            "Animate numbers and bars.",
+            "Add music and sound effects.",
+            "Open After Effects and know the main parts."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Open After Effects and know the main parts."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at the composition panel in the middle.",
+            "Start a new composition.",
+            "Open Adobe After Effects on your computer.",
+            "Look at the timeline at the bottom."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open Adobe After Effects on your computer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Make your first moving text",
+      "goal": "Animate text moving across the screen.",
+      "video": {
+        "youtube_id": "6CW4Fkqa420",
+        "title": "How To Create Patterned Backgrounds With Shape Layers in After Effects",
+        "channel": "ukramedia"
+      },
+      "steps": [
+        "Create a new composition.",
+        "Add a text layer and type a word.",
+        "Move the playhead to the start.",
+        "Set a position keyframe, then move the text and set another one."
+      ],
+      "task": "Animate text moving across the screen.",
+      "challenge": "Animate text moving from left to right and back.",
+      "quiz": [
+        {
+          "q": "What is easing?",
+          "options": [
+            "Making movement start slow and end slow, so it feels natural",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Easing smooths movement. Real things speed up and slow down, they do not move at one speed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make your first moving text\"?",
+          "options": [
+            "Make a motion graphic for a business.",
+            "Make a 15-second motion graphic.",
+            "Animate text moving across the screen.",
+            "Make movement smooth with easing."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Animate text moving across the screen."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Set a position keyframe, then move the text and set another one.",
+            "Create a new composition.",
+            "Add a text layer and type a word.",
+            "Move the playhead to the start."
+          ],
+          "answer": 1,
+          "explain": "Start with: Create a new composition."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Learn about keyframes",
+      "goal": "Understand keyframes.",
+      "video": {
+        "youtube_id": "zEQ-CBAQq00",
+        "title": "5 Tips For Getting Started In After Effects",
+        "channel": "Shutterstock Tutorials"
+      },
+      "steps": [
+        "Learn the word keyframe: a point that marks a value at a time.",
+        "Set a keyframe for position at the start.",
+        "Set another keyframe at the end.",
+        "Play it back. The text should move between the two points."
+      ],
+      "task": "Set two keyframes to move text.",
+      "challenge": "Set keyframes to make text grow bigger.",
+      "quiz": [
+        {
+          "q": "What is a keyframe?",
+          "options": [
+            "A point that marks a value, like position, at a certain time",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A keyframe marks a value at a time. Two keyframes make movement between them."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn about keyframes\"?",
+          "options": [
+            "Make a layer move in 3D.",
+            "Understand keyframes.",
+            "Animate a shape moving and changing.",
+            "Use a mask to reveal text."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Understand keyframes."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Learn the word keyframe: a point that marks a value at a time.",
+            "Set a keyframe for position at the start.",
+            "Set another keyframe at the end.",
+            "Play it back. The text should move between the two points."
+          ],
+          "answer": 0,
+          "explain": "Start with: Learn the word keyframe: a point that marks a value at a time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Animate a logo",
+      "goal": "Make a logo appear with a simple animation.",
+      "video": {
+        "youtube_id": "VmV-edpQFt4",
+        "title": "Create Stylish Opener in After Effects",
+        "channel": "Dope Motions"
+      },
+      "steps": [
+        "Import a logo into After Effects.",
+        "Add it to your composition.",
+        "Set a keyframe for opacity at 0 percent.",
+        "Set another keyframe for opacity at 100 percent."
+      ],
+      "task": "Animate a logo fading in.",
+      "challenge": "Animate a logo scaling up from small to big.",
+      "quiz": [
+        {
+          "q": "What is easing?",
+          "options": [
+            "Making movement start slow and end slow, so it feels natural",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Easing smooths movement. Real things speed up and slow down, they do not move at one speed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a logo\"?",
+          "options": [
+            "Make a logo appear with a simple animation.",
+            "Make a logo appear in a cool way.",
+            "Add simple particles to your animation.",
+            "Animate a product for an advert."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make a logo appear with a simple animation."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add it to your composition.",
+            "Set a keyframe for opacity at 0 percent.",
+            "Set another keyframe for opacity at 100 percent.",
+            "Import a logo into After Effects."
+          ],
+          "answer": 3,
+          "explain": "Start with: Import a logo into After Effects."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Add a background",
+      "goal": "Add a colored background to your animation.",
+      "video": {
+        "youtube_id": "JgOkibCB1n4",
+        "title": "Adobe After Effects Basics Tutorial - 3D",
+        "channel": "Surfaced Studio"
+      },
+      "steps": [
+        "Create a new solid layer.",
+        "Pick a color for it.",
+        "Place it at the bottom of the layers.",
+        "Add text on top of it."
+      ],
+      "task": "Add a colored background to an animation.",
+      "challenge": "Make a background with a gradient.",
+      "quiz": [
+        {
+          "q": "What is a keyframe?",
+          "options": [
+            "A point that marks a value, like position, at a certain time",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A keyframe marks a value at a time. Two keyframes make movement between them."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a background\"?",
+          "options": [
+            "Make words move with the beat.",
+            "Make a short animation for social media.",
+            "Make a stiff animation move better.",
+            "Add a colored background to your animation."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Add a colored background to your animation."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Place it at the bottom of the layers.",
+            "Add text on top of it.",
+            "Create a new solid layer.",
+            "Pick a color for it."
+          ],
+          "answer": 2,
+          "explain": "Start with: Create a new solid layer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Make a lower third",
+      "goal": "Make a name tag that appears on screen.",
+      "video": {
+        "youtube_id": "pHWg1js_F08",
+        "title": "3 Motion Graphics Techniques | After Effects Tutorial",
+        "channel": "Animation Deconstructed"
+      },
+      "steps": [
+        "Create a new composition.",
+        "Add a rectangle shape.",
+        "Add text with a name.",
+        "Animate the rectangle and text sliding in."
+      ],
+      "task": "Make a lower third name tag.",
+      "challenge": "Make a lower third for a news show.",
+      "quiz": [
+        {
+          "q": "What is easing?",
+          "options": [
+            "Making movement start slow and end slow, so it feels natural",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Easing smooths movement. Real things speed up and slow down, they do not move at one speed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a lower third\"?",
+          "options": [
+            "Make a 5-second intro for a channel.",
+            "Find the style you love to make.",
+            "Make a name tag that appears on screen.",
+            "Make a smooth transition between two scenes."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a name tag that appears on screen."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Animate the rectangle and text sliding in.",
+            "Create a new composition.",
+            "Add a rectangle shape.",
+            "Add text with a name."
+          ],
+          "answer": 1,
+          "explain": "Start with: Create a new composition."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Animate text with presets",
+      "goal": "Use a text animation preset.",
+      "video": {
+        "youtube_id": "DKRi8qcq4Xo",
+        "title": "After Effects for Beginners: Create Your First Animation in 5 Easy Steps",
+        "channel": "Megan Friesth"
+      },
+      "steps": [
+        "Add a text layer.",
+        "Open the text animation presets.",
+        "Pick a preset like Fade Up.",
+        "Apply it and play it back."
+      ],
+      "task": "Apply a text animation preset.",
+      "challenge": "Try three presets and pick the best one.",
+      "quiz": [
+        {
+          "q": "What is a keyframe?",
+          "options": [
+            "A point that marks a value, like position, at a certain time",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A keyframe marks a value at a time. Two keyframes make movement between them."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate text with presets\"?",
+          "options": [
+            "Pick your best clips for a showreel.",
+            "Use a text animation preset.",
+            "Animate numbers and bars.",
+            "Add music and sound effects."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Use a text animation preset."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a text layer.",
+            "Open the text animation presets.",
+            "Pick a preset like Fade Up.",
+            "Apply it and play it back."
+          ],
+          "answer": 0,
+          "explain": "Start with: Add a text layer."
+        }
+      ],
+      "project": {
+        "title": "Make a 5-Second Motion Graphic",
+        "brief": "Make a 5-second motion graphic with animated text.",
+        "checks": [
+          "Text is animated",
+          "Background is added",
+          "Keyframes are used",
+          "Video is 5 seconds long",
+          "Exported as a video",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Your first motion graphic",
+      "goal": "Make a 5-second motion graphic.",
+      "video": {
+        "youtube_id": "bo2oPqridvY",
+        "title": "Adobe After Effects Tutorial for Beginners | A Free 3 Hour Masterclass",
+        "channel": "Kyle Hamrick"
+      },
+      "steps": [
+        "Pick a short phrase.",
+        "Animate the text with keyframes.",
+        "Add a colored background.",
+        "Export it as a video."
+      ],
+      "task": "Make a 5-second motion graphic.",
+      "challenge": "Show your motion graphic to a friend.",
+      "quiz": [
+        {
+          "q": "What is a lower third?",
+          "options": [
+            "A name tag that appears at the bottom of the screen",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A lower third is a small graphic at the bottom of the screen, usually with a name and title."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first motion graphic\"?",
+          "options": [
+            "Make a 5-second motion graphic.",
+            "Make a motion graphic for a business.",
+            "Make a 15-second motion graphic.",
+            "Pick your best motion graphics."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make a 5-second motion graphic."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Animate the text with keyframes.",
+            "Add a colored background.",
+            "Export it as a video.",
+            "Pick a short phrase."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a short phrase."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Ease your keyframes",
+      "goal": "Make movement smooth with easing.",
+      "video": {
+        "youtube_id": "ostDsH_Jjzw",
+        "title": "The Complete Guide to Keyframes in After Effects",
+        "channel": "FilterGrade"
+      },
+      "steps": [
+        "Select two keyframes.",
+        "Right-click and choose Easy Ease.",
+        "Play it back. The movement should start slow and end slow.",
+        "Compare with the version without easing."
+      ],
+      "task": "Add Easy Ease to your keyframes.",
+      "challenge": "Compare a move with and without easing.",
+      "quiz": [
+        {
+          "q": "What is a composition in After Effects?",
+          "options": [
+            "A project file that holds your layers and animation",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A composition is your project. It holds all your layers, keyframes and effects."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Ease your keyframes\"?",
+          "options": [
+            "Use a mask to reveal text.",
+            "Make a layer move in 3D.",
+            "Animate a countdown from 3 to 1.",
+            "Make movement smooth with easing."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make movement smooth with easing."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play it back. The movement should start slow and end slow.",
+            "Compare with the version without easing.",
+            "Select two keyframes.",
+            "Right-click and choose Easy Ease."
+          ],
+          "answer": 2,
+          "explain": "Start with: Select two keyframes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Animate a shape",
+      "goal": "Animate a shape moving and changing.",
+      "video": {
+        "youtube_id": "STw_5W_qWRY",
+        "title": "Graph Editor & Speed Curves",
+        "channel": "mamoworld"
+      },
+      "steps": [
+        "Draw a circle shape.",
+        "Set a keyframe for its position.",
+        "Move it and set another keyframe.",
+        "Add a keyframe to change its color."
+      ],
+      "task": "Animate a circle moving across the screen.",
+      "challenge": "Animate a shape that grows and changes color.",
+      "quiz": [
+        {
+          "q": "What is a lower third?",
+          "options": [
+            "A name tag that appears at the bottom of the screen",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A lower third is a small graphic at the bottom of the screen, usually with a name and title."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a shape\"?",
+          "options": [
+            "Animate a product for an advert.",
+            "Pick your best work and say why it works.",
+            "Animate a shape moving and changing.",
+            "Add simple particles to your animation."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Animate a shape moving and changing."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a keyframe to change its color.",
+            "Draw a circle shape.",
+            "Set a keyframe for its position.",
+            "Move it and set another keyframe."
+          ],
+          "answer": 1,
+          "explain": "Start with: Draw a circle shape."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Make a logo reveal",
+      "goal": "Make a logo appear in a cool way.",
+      "video": {
+        "youtube_id": "MZ6Lsrk82ag",
+        "title": "Default Easings in The Graph Editor",
+        "channel": "mamoworld"
+      },
+      "steps": [
+        "Import a logo.",
+        "Animate it scaling up from small.",
+        "Add a fade at the same time.",
+        "Export the logo reveal."
+      ],
+      "task": "Make a logo reveal.",
+      "challenge": "Make a logo reveal with a spin.",
+      "quiz": [
+        {
+          "q": "What is a composition in After Effects?",
+          "options": [
+            "A project file that holds your layers and animation",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A composition is your project. It holds all your layers, keyframes and effects."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a logo reveal\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Make a logo appear in a cool way.",
+            "Make a short animation for social media.",
+            "Make a stiff animation move better."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a logo appear in a cool way."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Import a logo.",
+            "Animate it scaling up from small.",
+            "Add a fade at the same time.",
+            "Export the logo reveal."
+          ],
+          "answer": 0,
+          "explain": "Start with: Import a logo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Make a kinetic title",
+      "goal": "Make words move with the beat.",
+      "video": {
+        "youtube_id": "lYw2cP88gO4",
+        "title": "Bouncing Balls and Constant Forces",
+        "channel": "mamoworld"
+      },
+      "steps": [
+        "Pick a short sentence.",
+        "Split it into words.",
+        "Animate each word to appear one by one.",
+        "Play it back with music."
+      ],
+      "task": "Make a kinetic title with words appearing one by one.",
+      "challenge": "Make a kinetic title for a song lyric.",
+      "quiz": [
+        {
+          "q": "What is a lower third?",
+          "options": [
+            "A name tag that appears at the bottom of the screen",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A lower third is a small graphic at the bottom of the screen, usually with a name and title."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a kinetic title\"?",
+          "options": [
+            "Make words move with the beat.",
+            "Make a 5-second intro for a channel.",
+            "Find the style you love to make.",
+            "Open After Effects and know the main parts."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make words move with the beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Split it into words.",
+            "Animate each word to appear one by one.",
+            "Play it back with music.",
+            "Pick a short sentence."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a short sentence."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Add a transition",
+      "goal": "Make a smooth transition between two scenes.",
+      "video": {
+        "youtube_id": "HcHq9XjGuzc",
+        "title": "Intro to Motion Graphics [1/4] | After Effects Tutorial",
+        "channel": "TipTut"
+      },
+      "steps": [
+        "Create two scenes in one composition.",
+        "Add a shape that wipes across the screen.",
+        "Time it to cover the change.",
+        "Play it back. The change should feel smooth."
+      ],
+      "task": "Make a wipe transition.",
+      "challenge": "Make a fade transition between two scenes.",
+      "quiz": [
+        {
+          "q": "What is a composition in After Effects?",
+          "options": [
+            "A project file that holds your layers and animation",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A composition is your project. It holds all your layers, keyframes and effects."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a transition\"?",
+          "options": [
+            "Add music and sound effects.",
+            "Pick your best clips for a showreel.",
+            "Animate text moving across the screen.",
+            "Make a smooth transition between two scenes."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a smooth transition between two scenes."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Time it to cover the change.",
+            "Play it back. The change should feel smooth.",
+            "Create two scenes in one composition.",
+            "Add a shape that wipes across the screen."
+          ],
+          "answer": 2,
+          "explain": "Start with: Create two scenes in one composition."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Make an infographic animation",
+      "goal": "Animate numbers and bars.",
+      "video": {
+        "youtube_id": "6CW4Fkqa420",
+        "title": "How To Create Patterned Backgrounds With Shape Layers in After Effects",
+        "channel": "ukramedia"
+      },
+      "steps": [
+        "Pick three numbers, like sales for three months.",
+        "Draw a bar for each number.",
+        "Animate the bars growing.",
+        "Add labels and export it."
+      ],
+      "task": "Animate three bars growing.",
+      "challenge": "Animate a pie chart filling up.",
+      "quiz": [
+        {
+          "q": "What is a lower third?",
+          "options": [
+            "A name tag that appears at the bottom of the screen",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A lower third is a small graphic at the bottom of the screen, usually with a name and title."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make an infographic animation\"?",
+          "options": [
+            "Pick your best motion graphics.",
+            "Understand keyframes.",
+            "Animate numbers and bars.",
+            "Make a 15-second motion graphic."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Animate numbers and bars."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add labels and export it.",
+            "Pick three numbers, like sales for three months.",
+            "Draw a bar for each number.",
+            "Animate the bars growing."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick three numbers, like sales for three months."
+        }
+      ],
+      "project": {
+        "title": "Make a Logo Reveal",
+        "brief": "Make a logo reveal animation.",
+        "checks": [
+          "Logo appears with animation",
+          "Easing is used",
+          "Video is under 10 seconds",
+          "Sound is added",
+          "Exported as a video",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Your first client-style graphic",
+      "goal": "Make a motion graphic for a business.",
+      "video": {
+        "youtube_id": "zEQ-CBAQq00",
+        "title": "5 Tips For Getting Started In After Effects",
+        "channel": "Shutterstock Tutorials"
+      },
+      "steps": [
+        "Pick a business, like a coffee shop.",
+        "Write a short message for it.",
+        "Animate the text and logo.",
+        "Export it as a video."
+      ],
+      "task": "Make a motion graphic for a business.",
+      "challenge": "Ask a friend to pick a business and make a graphic for it.",
+      "quiz": [
+        {
+          "q": "What is opacity?",
+          "options": [
+            "How see-through a layer is, from 0 percent to 100 percent",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Opacity controls how see-through something is. At 0 percent it is invisible. At 100 percent it is solid."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first client-style graphic\"?",
+          "options": [
+            "Make a logo appear with a simple animation.",
+            "Make a motion graphic for a business.",
+            "Make a layer move in 3D.",
+            "Animate a countdown from 3 to 1."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a motion graphic for a business."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a business, like a coffee shop.",
+            "Write a short message for it.",
+            "Animate the text and logo.",
+            "Export it as a video."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a business, like a coffee shop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Learn about masks",
+      "goal": "Use a mask to reveal text.",
+      "video": {
+        "youtube_id": "VmV-edpQFt4",
+        "title": "Create Stylish Opener in After Effects",
+        "channel": "Dope Motions"
+      },
+      "steps": [
+        "Add a text layer.",
+        "Draw a mask shape over it.",
+        "Animate the mask to reveal the text.",
+        "Play it back. The text should appear as the mask moves."
+      ],
+      "task": "Reveal text with a mask.",
+      "challenge": "Reveal a logo with a mask.",
+      "quiz": [
+        {
+          "q": "What is a mask in After Effects?",
+          "options": [
+            "A shape that hides or reveals part of a layer",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A mask cuts a shape out of a layer. You can animate it to reveal text or a logo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn about masks\"?",
+          "options": [
+            "Use a mask to reveal text.",
+            "Animate a product for an advert.",
+            "Pick your best work and say why it works.",
+            "Add a colored background to your animation."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Use a mask to reveal text."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Draw a mask shape over it.",
+            "Animate the mask to reveal the text.",
+            "Play it back. The text should appear as the mask moves.",
+            "Add a text layer."
+          ],
+          "answer": 3,
+          "explain": "Start with: Add a text layer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Add a particle effect",
+      "goal": "Add simple particles to your animation.",
+      "video": {
+        "youtube_id": "JgOkibCB1n4",
+        "title": "Adobe After Effects Basics Tutorial - 3D",
+        "channel": "Surfaced Studio"
+      },
+      "steps": [
+        "Add a particle effect to a layer.",
+        "Set the number of particles low.",
+        "Play it back. Small dots should float.",
+        "Use it behind a logo."
+      ],
+      "task": "Add particles behind a logo.",
+      "challenge": "Add falling snow to a scene.",
+      "quiz": [
+        {
+          "q": "What is opacity?",
+          "options": [
+            "How see-through a layer is, from 0 percent to 100 percent",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Opacity controls how see-through something is. At 0 percent it is invisible. At 100 percent it is solid."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a particle effect\"?",
+          "options": [
+            "Make a stiff animation move better.",
+            "Write a simple plan to keep getting better.",
+            "Make a name tag that appears on screen.",
+            "Add simple particles to your animation."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Add simple particles to your animation."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play it back. Small dots should float.",
+            "Use it behind a logo.",
+            "Add a particle effect to a layer.",
+            "Set the number of particles low."
+          ],
+          "answer": 2,
+          "explain": "Start with: Add a particle effect to a layer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Make a social media animation",
+      "goal": "Make a short animation for social media.",
+      "video": {
+        "youtube_id": "pHWg1js_F08",
+        "title": "3 Motion Graphics Techniques | After Effects Tutorial",
+        "channel": "Animation Deconstructed"
+      },
+      "steps": [
+        "Create a square composition.",
+        "Add bold text.",
+        "Animate the text with keyframes.",
+        "Export it for Instagram."
+      ],
+      "task": "Make a square animation for social media.",
+      "challenge": "Make a vertical animation for stories.",
+      "quiz": [
+        {
+          "q": "What is a mask in After Effects?",
+          "options": [
+            "A shape that hides or reveals part of a layer",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A mask cuts a shape out of a layer. You can animate it to reveal text or a logo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a social media animation\"?",
+          "options": [
+            "Open After Effects and know the main parts.",
+            "Use a text animation preset.",
+            "Make a short animation for social media.",
+            "Find the style you love to make."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a short animation for social media."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Export it for Instagram.",
+            "Create a square composition.",
+            "Add bold text.",
+            "Animate the text with keyframes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Create a square composition."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Make a YouTube intro",
+      "goal": "Make a 5-second intro for a channel.",
+      "video": {
+        "youtube_id": "DKRi8qcq4Xo",
+        "title": "After Effects for Beginners: Create Your First Animation in 5 Easy Steps",
+        "channel": "Megan Friesth"
+      },
+      "steps": [
+        "Pick a channel name.",
+        "Animate the name with keyframes.",
+        "Add a logo.",
+        "Add music and export it."
+      ],
+      "task": "Make a 5-second YouTube intro.",
+      "challenge": "Make intros for three channels and pick the best.",
+      "quiz": [
+        {
+          "q": "What is opacity?",
+          "options": [
+            "How see-through a layer is, from 0 percent to 100 percent",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Opacity controls how see-through something is. At 0 percent it is invisible. At 100 percent it is solid."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a YouTube intro\"?",
+          "options": [
+            "Make a 5-second motion graphic.",
+            "Make a 5-second intro for a channel.",
+            "Pick your best clips for a showreel.",
+            "Animate text moving across the screen."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a 5-second intro for a channel."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a channel name.",
+            "Animate the name with keyframes.",
+            "Add a logo.",
+            "Add music and export it."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a channel name."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Add sound",
+      "goal": "Add music and sound effects.",
+      "video": {
+        "youtube_id": "bo2oPqridvY",
+        "title": "Adobe After Effects Tutorial for Beginners | A Free 3 Hour Masterclass",
+        "channel": "Kyle Hamrick"
+      },
+      "steps": [
+        "Open your animation in After Effects.",
+        "Add a music track.",
+        "Add a sound effect at a key moment.",
+        "Export the video with sound."
+      ],
+      "task": "Add music and a sound effect to your animation.",
+      "challenge": "Add a whoosh sound to a transition.",
+      "quiz": [
+        {
+          "q": "What is a mask in After Effects?",
+          "options": [
+            "A shape that hides or reveals part of a layer",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A mask cuts a shape out of a layer. You can animate it to reveal text or a logo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add sound\"?",
+          "options": [
+            "Add music and sound effects.",
+            "Pick your best motion graphics.",
+            "Understand keyframes.",
+            "Make movement smooth with easing."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Add music and sound effects."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a music track.",
+            "Add a sound effect at a key moment.",
+            "Export the video with sound.",
+            "Open your animation in After Effects."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open your animation in After Effects."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Make a full motion graphic",
+      "goal": "Make a 15-second motion graphic.",
+      "video": {
+        "youtube_id": "ostDsH_Jjzw",
+        "title": "The Complete Guide to Keyframes in After Effects",
+        "channel": "FilterGrade"
+      },
+      "steps": [
+        "Write a short script.",
+        "Plan the scenes.",
+        "Animate each scene.",
+        "Add sound and export it."
+      ],
+      "task": "Make a 15-second motion graphic.",
+      "challenge": "Show your motion graphic to a friend.",
+      "quiz": [
+        {
+          "q": "What is opacity?",
+          "options": [
+            "How see-through a layer is, from 0 percent to 100 percent",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Opacity controls how see-through something is. At 0 percent it is invisible. At 100 percent it is solid."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a full motion graphic\"?",
+          "options": [
+            "Animate a countdown from 3 to 1.",
+            "Make a logo appear with a simple animation.",
+            "Animate a shape moving and changing.",
+            "Make a 15-second motion graphic."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a 15-second motion graphic."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Animate each scene.",
+            "Add sound and export it.",
+            "Write a short script.",
+            "Plan the scenes."
+          ],
+          "answer": 2,
+          "explain": "Start with: Write a short script."
+        }
+      ],
+      "project": {
+        "title": "Make a 15-Second Motion Graphic",
+        "brief": "Make a 15-second motion graphic.",
+        "checks": [
+          "Video is about 15 seconds",
+          "Has a clear message",
+          "Text is animated",
+          "Sound is added",
+          "Exported as a video",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Learn about 3D layers",
+      "goal": "Make a layer move in 3D.",
+      "video": {
+        "youtube_id": "STw_5W_qWRY",
+        "title": "Graph Editor & Speed Curves",
+        "channel": "mamoworld"
+      },
+      "steps": [
+        "Turn on 3D for a text layer.",
+        "Move it in 3D space.",
+        "Add a camera.",
+        "Play it back. The text should move in depth."
+      ],
+      "task": "Move a text layer in 3D.",
+      "challenge": "Make a logo spin in 3D.",
+      "quiz": [
+        {
+          "q": "What is a logo reveal?",
+          "options": [
+            "A short animation that makes a logo appear in a cool way",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A logo reveal is a short animation that introduces a logo, often at the start of a video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn about 3D layers\"?",
+          "options": [
+            "Add a colored background to your animation.",
+            "Make a logo appear in a cool way.",
+            "Make a layer move in 3D.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a layer move in 3D."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play it back. The text should move in depth.",
+            "Turn on 3D for a text layer.",
+            "Move it in 3D space.",
+            "Add a camera."
+          ],
+          "answer": 1,
+          "explain": "Start with: Turn on 3D for a text layer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Make a product animation",
+      "goal": "Animate a product for an advert.",
+      "video": {
+        "youtube_id": "MZ6Lsrk82ag",
+        "title": "Default Easings in The Graph Editor",
+        "channel": "mamoworld"
+      },
+      "steps": [
+        "Import a product photo.",
+        "Animate it sliding in.",
+        "Add text with the price.",
+        "Export the advert."
+      ],
+      "task": "Animate a product advert.",
+      "challenge": "Make a product animation for a shoe.",
+      "quiz": [
+        {
+          "q": "What is kinetic type?",
+          "options": [
+            "Text that moves in time with sound or music",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Kinetic type is moving text. Words appear, slide and dance, often in time with music."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a product animation\"?",
+          "options": [
+            "Make words move with the beat.",
+            "Animate a product for an advert.",
+            "Write a simple plan to keep getting better.",
+            "Make a name tag that appears on screen."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Animate a product for an advert."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Import a product photo.",
+            "Animate it sliding in.",
+            "Add text with the price.",
+            "Export the advert."
+          ],
+          "answer": 0,
+          "explain": "Start with: Import a product photo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Fix a stiff animation",
+      "goal": "Make a stiff animation move better.",
+      "video": {
+        "youtube_id": "lYw2cP88gO4",
+        "title": "Bouncing Balls and Constant Forces",
+        "channel": "mamoworld"
+      },
+      "steps": [
+        "Open an animation that looks stiff.",
+        "Add Easy Ease to the keyframes.",
+        "Add one more keyframe in the middle.",
+        "Play it back. It should look smoother."
+      ],
+      "task": "Fix a stiff animation with easing.",
+      "challenge": "Add a middle keyframe to an old animation.",
+      "quiz": [
+        {
+          "q": "What is a logo reveal?",
+          "options": [
+            "A short animation that makes a logo appear in a cool way",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A logo reveal is a short animation that introduces a logo, often at the start of a video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix a stiff animation\"?",
+          "options": [
+            "Make a stiff animation move better.",
+            "Open After Effects and know the main parts.",
+            "Use a text animation preset.",
+            "Make a smooth transition between two scenes."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make a stiff animation move better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add Easy Ease to the keyframes.",
+            "Add one more keyframe in the middle.",
+            "Play it back. It should look smoother.",
+            "Open an animation that looks stiff."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open an animation that looks stiff."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Build your style",
+      "goal": "Find the style you love to make.",
+      "video": {
+        "youtube_id": "HcHq9XjGuzc",
+        "title": "Intro to Motion Graphics [1/4] | After Effects Tutorial",
+        "channel": "TipTut"
+      },
+      "steps": [
+        "Look at all the motion graphics you made this month.",
+        "Pick the three you love most.",
+        "Write down what they have in common.",
+        "Make two more in that style."
+      ],
+      "task": "Pick your three favorite motion graphics and find what they have in common.",
+      "challenge": "Make two new motion graphics in your favorite style.",
+      "quiz": [
+        {
+          "q": "What is kinetic type?",
+          "options": [
+            "Text that moves in time with sound or music",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Kinetic type is moving text. Words appear, slide and dance, often in time with music."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build your style\"?",
+          "options": [
+            "Animate text moving across the screen.",
+            "Make a 5-second motion graphic.",
+            "Animate numbers and bars.",
+            "Find the style you love to make."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Find the style you love to make."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down what they have in common.",
+            "Make two more in that style.",
+            "Look at all the motion graphics you made this month.",
+            "Pick the three you love most."
+          ],
+          "answer": 2,
+          "explain": "Start with: Look at all the motion graphics you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Make a showreel",
+      "goal": "Pick your best clips for a showreel.",
+      "video": {
+        "youtube_id": "6CW4Fkqa420",
+        "title": "How To Create Patterned Backgrounds With Shape Layers in After Effects",
+        "channel": "ukramedia"
+      },
+      "steps": [
+        "Look at all your motion graphics from this month.",
+        "Pick your best five clips.",
+        "Edit them into a 30-second showreel.",
+        "Save it in a folder called Best Work."
+      ],
+      "task": "Make a 30-second showreel.",
+      "challenge": "Show your showreel to a friend.",
+      "quiz": [
+        {
+          "q": "What is a logo reveal?",
+          "options": [
+            "A short animation that makes a logo appear in a cool way",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A logo reveal is a short animation that introduces a logo, often at the start of a video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a showreel\"?",
+          "options": [
+            "Make movement smooth with easing.",
+            "Make a motion graphic for a business.",
+            "Pick your best clips for a showreel.",
+            "Understand keyframes."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Pick your best clips for a showreel."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save it in a folder called Best Work.",
+            "Look at all your motion graphics from this month.",
+            "Pick your best five clips.",
+            "Edit them into a 30-second showreel."
+          ],
+          "answer": 1,
+          "explain": "Start with: Look at all your motion graphics from this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Your portfolio",
+      "goal": "Pick your best motion graphics.",
+      "video": {
+        "youtube_id": "zEQ-CBAQq00",
+        "title": "5 Tips For Getting Started In After Effects",
+        "channel": "Shutterstock Tutorials"
+      },
+      "steps": [
+        "Look at all the work you made this month.",
+        "Pick your best five.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each one."
+      ],
+      "task": "Pick your best five motion graphics and save them in a portfolio.",
+      "challenge": "Share your portfolio with a friend and ask which one is best.",
+      "quiz": [
+        {
+          "q": "What is kinetic type?",
+          "options": [
+            "Text that moves in time with sound or music",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Kinetic type is moving text. Words appear, slide and dance, often in time with music."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your portfolio\"?",
+          "options": [
+            "Use a mask to reveal text.",
+            "Pick your best motion graphics.",
+            "Make a logo appear with a simple animation.",
+            "Animate a shape moving and changing."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Pick your best motion graphics."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at all the work you made this month.",
+            "Pick your best five.",
+            "Save them in a folder called Portfolio.",
+            "Write one sentence about each one."
+          ],
+          "answer": 0,
+          "explain": "Start with: Look at all the work you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Make a countdown",
+      "goal": "Animate a countdown from 3 to 1.",
+      "video": {
+        "youtube_id": "VmV-edpQFt4",
+        "title": "Create Stylish Opener in After Effects",
+        "channel": "Dope Motions"
+      },
+      "steps": [
+        "Create a new composition.",
+        "Add the number 3 in big text.",
+        "Animate it scaling up, then replace it with 2, then 1.",
+        "Export the countdown."
+      ],
+      "task": "Animate a countdown from 3 to 1.",
+      "challenge": "Make a countdown with a different color for each number.",
+      "quiz": [
+        {
+          "q": "What is a logo reveal?",
+          "options": [
+            "A short animation that makes a logo appear in a cool way",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A logo reveal is a short animation that introduces a logo, often at the start of a video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a countdown\"?",
+          "options": [
+            "Animate a countdown from 3 to 1.",
+            "Add a colored background to your animation.",
+            "Make a logo appear in a cool way.",
+            "Add simple particles to your animation."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Animate a countdown from 3 to 1."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add the number 3 in big text.",
+            "Animate it scaling up, then replace it with 2, then 1.",
+            "Export the countdown.",
+            "Create a new composition."
+          ],
+          "answer": 3,
+          "explain": "Start with: Create a new composition."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "JgOkibCB1n4",
+        "title": "Adobe After Effects Basics Tutorial - 3D",
+        "channel": "Surfaced Studio"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three motion graphics.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three motion graphics and write why each one works.",
+      "challenge": "Show your best motion graphic to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is kinetic type?",
+          "options": [
+            "Text that moves in time with sound or music",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Kinetic type is moving text. Words appear, slide and dance, often in time with music."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Make a name tag that appears on screen.",
+            "Make words move with the beat.",
+            "Make a short animation for social media.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three motion graphics."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "pHWg1js_F08",
+        "title": "3 Motion Graphics Techniques | After Effects Tutorial",
+        "channel": "Animation Deconstructed"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your motion graphics.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is a logo reveal?",
+          "options": [
+            "A short animation that makes a logo appear in a cool way",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A logo reveal is a short animation that introduces a logo, often at the start of a video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Make a smooth transition between two scenes.",
+            "Make a 5-second intro for a channel.",
+            "Write a simple plan to keep getting better.",
+            "Use a text animation preset."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Motion Graphics Showreel",
+    "brief": "Make a 30-second showreel: a logo reveal, a kinetic title, a social media animation, and a lower third. Each piece is animated, with sound, and edited into one video.",
+    "checks": [
+      "Showreel is 25 to 35 seconds long",
+      "Has a logo reveal",
+      "Has a kinetic title",
+      "Has a social media animation",
+      "Has a lower third",
+      "Has sound",
+      "Exports as a video"
+    ],
+    "deliverables": [
+      "Final showreel video",
+      "Four separate clips",
+      "A short note on each piece",
+      "A list of the effects used",
+      "A plan for your next showreel"
+    ]
+  }
+}

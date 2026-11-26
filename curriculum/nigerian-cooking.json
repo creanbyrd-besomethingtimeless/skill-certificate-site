@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "nigerian-cooking",
+    "title": "Nigerian Cooking",
+    "level": "Beginner",
+    "tagline": "Cook jollof, soups, stews and local favourites the way they are meant to taste.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "The Nigerian Kitchen: Tools and Staples",
+      "goal": "Set up your kitchen with the staples of Nigerian cooking.",
+      "video": {
+        "youtube_id": "z4tNAyRdo70",
+        "title": "How To Cook Perfect Party Jollof Rice: Tips for Smoky Nigerian Party Jollof Rice",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Stock the basics: rice, garri, yam, palm oil, groundnut oil, crayfish, stock cubes, peppers.",
+        "Learn the pepper mix: tatashe (bell pepper), scotch bonnet and onion blended together.",
+        "Keep a clean mortar or blender ready for grinding egusi, ogbono and crayfish.",
+        "Taste palm oil, crayfish and iru (locust beans) so you know their flavours.",
+        "Cook plain white rice and keep it for tomorrow's stew."
+      ],
+      "task": "Buy or list your Nigerian pantry staples and blend one pepper mix.",
+      "challenge": "Blend a pepper mix without water so it fries faster and tastes richer.",
+      "quiz": [
+        {
+          "q": "What three things go into a basic Nigerian pepper mix?",
+          "options": [
+            "Tomato, onion, garlic",
+            "Tatashe, scotch bonnet and onion",
+            "Pepper, salt, maggi",
+            "Chilli, ginger, garlic"
+          ],
+          "answer": 1,
+          "explain": "Tatashe, scotch bonnet and onion blended together is the base of most Nigerian stews."
+        },
+        {
+          "q": "Why blend pepper mix without water?",
+          "options": [
+            "It is cheaper",
+            "It fries faster and tastes richer",
+            "It is hotter",
+            "It keeps longer only"
+          ],
+          "answer": 1,
+          "explain": "A dry blend fries down quickly and gives a deeper, less sour stew."
+        },
+        {
+          "q": "What is iru?",
+          "options": [
+            "A pepper",
+            "Fermented locust beans used for flavour",
+            "A type of yam",
+            "A soup"
+          ],
+          "answer": 1,
+          "explain": "Iru (locust beans) adds a deep, savoury flavour to soups and stews."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Perfect White Rice and Stew Basics",
+      "goal": "Cook fluffy white rice and a simple tomato stew.",
+      "video": {
+        "youtube_id": "ToKUxEd0xcM",
+        "title": "Perfect Jollof Rice - Goat Meat Jollof Rice | Tips for Smoky Party Jollof",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Rinse rice until the water runs clear, then boil in salted water.",
+        "Blend tatashe, scotch bonnet and onion with a little tomato.",
+        "Fry the blend in groundnut oil until it darkens and the oil floats on top.",
+        "Season with stock cubes, salt and crayfish; add boiled meat or fish.",
+        "Serve the stew over the rice with a boiled egg if you like."
+      ],
+      "task": "Cook white rice and tomato stew from scratch.",
+      "challenge": "Fry the stew until the oil separates on top, then compare the taste with a quickly fried stew.",
+      "quiz": [
+        {
+          "q": "How do you know tomato stew is well fried?",
+          "options": [
+            "It is red",
+            "The oil separates and floats on top",
+            "It smells sweet",
+            "It is thick"
+          ],
+          "answer": 1,
+          "explain": "When the oil floats on top and the stew darkens, the raw tomato taste is gone."
+        },
+        {
+          "q": "Why rinse rice before cooking?",
+          "options": [
+            "To make it white",
+            "To remove starch so it stays separate",
+            "To cook faster",
+            "To add flavour"
+          ],
+          "answer": 1,
+          "explain": "Rinsing removes surface starch so the grains stay fluffy and separate."
+        },
+        {
+          "q": "What does crayfish add to stew?",
+          "options": [
+            "Heat",
+            "A deep savoury seafood flavour",
+            "Colour",
+            "Thickness"
+          ],
+          "answer": 1,
+          "explain": "Ground crayfish gives Nigerian stews their characteristic savoury depth."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Party Jollof Rice: The Smoky Secret",
+      "goal": "Cook smoky party jollof rice the way it is done at Nigerian parties.",
+      "video": {
+        "youtube_id": "Uhoiu5LMjXY",
+        "title": "Oven Baked Jollof Rice",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Blend peppers and fry the base in oil until dark and rich.",
+        "Add tomato paste and fry it well so it loses its sour taste.",
+        "Add stock, season, and stir in washed rice.",
+        "Cover tightly with foil and a lid, cook on low heat without stirring.",
+        "Let the bottom catch slightly for the smoky party flavour, then fluff."
+      ],
+      "task": "Cook a pot of party jollof rice.",
+      "challenge": "Cook it again using the foil-and-lid method and see if the smoke flavour appears.",
+      "quiz": [
+        {
+          "q": "What gives party jollof its smoky flavour?",
+          "options": [
+            "Liquid smoke",
+            "The rice catching slightly at the bottom of the pot",
+            "Charcoal",
+            "Burnt peppers"
+          ],
+          "answer": 1,
+          "explain": "A slight catch at the bottom of the pot gives the famous smoky taste."
+        },
+        {
+          "q": "Why cover the pot with foil and a lid?",
+          "options": [
+            "To cook faster",
+            "To trap steam so the rice cooks evenly",
+            "To keep flies out",
+            "To save gas"
+          ],
+          "answer": 1,
+          "explain": "A tight seal traps steam so the rice cooks evenly without burning."
+        },
+        {
+          "q": "Why fry tomato paste before adding rice?",
+          "options": [
+            "To make it red",
+            "To remove its raw, sour taste",
+            "To thicken it",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Unfried tomato paste tastes sour and raw; frying it deepens the flavour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Jollof Rice Variations",
+      "goal": "Cook jollof with goat meat, chicken or vegetables.",
+      "video": {
+        "youtube_id": "cg634FE2C-k",
+        "title": "Perfect Jollof Rice with Peppered Beef",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Boil your protein with onion, seasoning and a little water to make stock.",
+        "Use the stock as the cooking liquid for the jollof.",
+        "Add the cooked meat on top to steam with the rice, or fry it separately.",
+        "Try a vegetable jollof with carrots, peas and sweetcorn.",
+        "Serve with fried plantain and a simple salad."
+      ],
+      "task": "Cook jollof rice with a protein of your choice using homemade stock.",
+      "challenge": "Cook a vegetable jollof and compare the cooking time with the meat version.",
+      "quiz": [
+        {
+          "q": "Why cook jollof in meat stock instead of water?",
+          "options": [
+            "It is faster",
+            "Stock adds flavour the rice absorbs",
+            "It is cheaper",
+            "It cooks the rice quicker"
+          ],
+          "answer": 1,
+          "explain": "Rice cooked in stock absorbs all that flavour."
+        },
+        {
+          "q": "What should you add to jollof last?",
+          "options": [
+            "The rice",
+            "Delicate vegetables like peas, so they stay bright",
+            "The salt",
+            "The oil"
+          ],
+          "answer": 1,
+          "explain": "Peas and sweetcorn added late stay bright and do not go mushy."
+        },
+        {
+          "q": "What is the best partner for jollof at a party?",
+          "options": [
+            "Boiled yam",
+            "Fried plantain",
+            "Bread",
+            "Pounded yam"
+          ],
+          "answer": 1,
+          "explain": "Fried plantain is the classic partner for jollof rice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Egusi Soup from Scratch",
+      "goal": "Cook egusi soup with the frying method.",
+      "video": {
+        "youtube_id": "jNqaf1F7OpA",
+        "title": "Ogbono Egusi Combo Recipe",
+        "channel": "FabWoman"
+      },
+      "steps": [
+        "Grind egusi seeds into a fine powder.",
+        "Mix the egusi with a little water into a thick paste.",
+        "Fry onion and pepper in palm oil, then add the egusi in lumps and fry until it firms up.",
+        "Add stock, meat and fish, then simmer.",
+        "Add ugu or bitter leaf at the end and cook for 5 minutes."
+      ],
+      "task": "Cook egusi soup using the frying method.",
+      "challenge": "Try the boiling method another day and decide which texture you prefer.",
+      "quiz": [
+        {
+          "q": "What is egusi made from?",
+          "options": [
+            "Melon seeds",
+            "Groundnuts",
+            "Beans",
+            "Maize"
+          ],
+          "answer": 0,
+          "explain": "Egusi is ground melon seed, the thickener and heart of the soup."
+        },
+        {
+          "q": "Why fry egusi in lumps?",
+          "options": [
+            "To cook faster",
+            "So it forms firm, crumbly lumps instead of a smooth paste",
+            "To save oil",
+            "To make it spicy"
+          ],
+          "answer": 1,
+          "explain": "Frying egusi in lumps gives the classic crumbly texture."
+        },
+        {
+          "q": "When do leafy vegetables go into egusi soup?",
+          "options": [
+            "At the start",
+            "Near the end, so they stay green and fresh",
+            "With the meat",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Leaves added late stay green and keep their nutrients."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Ogbono Soup: The Draw Soup",
+      "goal": "Cook ogbono soup, with or without egusi.",
+      "video": {
+        "youtube_id": "QyGu8nX_VO4",
+        "title": "How to Make Ogbono Soup (Frying Method)",
+        "channel": "FitNigerian"
+      },
+      "steps": [
+        "Grind ogbono seeds into a smooth powder.",
+        "Heat palm oil, add the ogbono and stir until it melts and draws.",
+        "Add stock gradually, stirring so it does not go lumpy.",
+        "Add meat, fish, crayfish and seasoning, then simmer.",
+        "Add ugu leaves and cook for 5 minutes. Serve with a swallow."
+      ],
+      "task": "Cook ogbono soup and eat it with garri or fufu.",
+      "challenge": "Cook an ogbono and egusi combo and note how the texture changes.",
+      "quiz": [
+        {
+          "q": "What makes ogbono soup draw?",
+          "options": [
+            "Okra",
+            "The natural thickener in ground ogbono seeds",
+            "Palm oil",
+            "Meat stock"
+          ],
+          "answer": 1,
+          "explain": "Ogbono seeds contain a natural thickener that gives the soup its draw."
+        },
+        {
+          "q": "Why add stock gradually to ogbono?",
+          "options": [
+            "To save stock",
+            "To stop lumps forming",
+            "To cook faster",
+            "To keep it hot"
+          ],
+          "answer": 1,
+          "explain": "Adding liquid slowly while stirring keeps the soup smooth."
+        },
+        {
+          "q": "What is a 'swallow'?",
+          "options": [
+            "A drink",
+            "A starchy dough like eba or fufu eaten with soup",
+            "A fish",
+            "A spice"
+          ],
+          "answer": 1,
+          "explain": "Swallows are starchy doughs, eba, fufu or pounded yam, used to scoop soup."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: Jollof and Egusi Feast",
+      "goal": "Cook jollof rice and egusi soup for your household in one session.",
+      "video": {
+        "youtube_id": "SsjFg55ggqo",
+        "title": "How to Make Ogbono Soup (Boiling Method)",
+        "channel": "FitNigerian"
+      },
+      "steps": [
+        "Plan the menu: party jollof, egusi soup, a swallow, and fried plantain.",
+        "Write a shopping list and buy everything in one trip.",
+        "Start the soup first since it simmers longest.",
+        "Cook the jollof while the soup simmers.",
+        "Serve everything together and get feedback."
+      ],
+      "task": "Cook jollof rice and egusi soup in one session.",
+      "challenge": "Serve the meal to a guest and ask which dish they liked best.",
+      "quiz": [
+        {
+          "q": "Why start the soup before the jollof?",
+          "options": [
+            "Soup is harder",
+            "Soup simmers longest, so it starts first",
+            "Jollof is quick",
+            "To save gas"
+          ],
+          "answer": 1,
+          "explain": "Start with what takes longest so everything finishes together."
+        },
+        {
+          "q": "What is the key to smoky party jollof?",
+          "options": [
+            "More pepper",
+            "A slight catch at the bottom of the pot",
+            "More oil",
+            "Charcoal"
+          ],
+          "answer": 1,
+          "explain": "The slight catch at the bottom gives the smoky party flavour."
+        },
+        {
+          "q": "What should a Nigerian feast have?",
+          "options": [
+            "Only rice",
+            "A rice dish, a soup, a swallow and a side",
+            "Only soup",
+            "Only meat"
+          ],
+          "answer": 1,
+          "explain": "A proper spread balances rice, soup, swallow and a side like plantain."
+        }
+      ],
+      "project": {
+        "title": "Cook a Jollof and Egusi Feast",
+        "brief": "Cook party jollof rice and egusi soup with a swallow and plantain in one session.",
+        "checks": [
+          "Menu planned with a shopping list",
+          "Pepper base fried until oil separates",
+          "Jollof cooked with a smoky finish, not burnt",
+          "Egusi soup with correct crumbly texture",
+          "Swallow and plantain served with the meal",
+          "Feedback collected from the people who ate"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Afang Soup and Edikang Ikong",
+      "goal": "Cook Afang soup and its cousin Edikang Ikong.",
+      "video": {
+        "youtube_id": "GGcPLwF9Dn4",
+        "title": "How to Cook Egusi and Ogbono Soup",
+        "channel": "Ada's Recipes"
+      },
+      "steps": [
+        "Wash and slice waterleaf and Afang (okazi) leaves finely.",
+        "Boil meat and stockfish with seasoning to make a rich stock.",
+        "Add palm oil, crayfish and pepper to the stock.",
+        "Add waterleaf first, let it release water, then add Afang.",
+        "Simmer 10 minutes and serve with fufu or garri."
+      ],
+      "task": "Cook Afang soup.",
+      "challenge": "Cook Edikang Ikong another day and compare the leaf combinations.",
+      "quiz": [
+        {
+          "q": "What two leaves make Afang soup?",
+          "options": [
+            "Ugu and bitter leaf",
+            "Waterleaf and Afang (okazi) leaves",
+            "Scent leaf and ugu",
+            "Spinach and cabbage"
+          ],
+          "answer": 1,
+          "explain": "Afang uses waterleaf and Afang leaves."
+        },
+        {
+          "q": "Why add waterleaf before Afang?",
+          "options": [
+            "It is tougher",
+            "Waterleaf releases water that cooks the soup",
+            "It tastes better",
+            "It is cheaper"
+          ],
+          "answer": 1,
+          "explain": "Waterleaf gives out water as it cooks, forming the soup base."
+        },
+        {
+          "q": "Where does Afang soup come from?",
+          "options": [
+            "Yoruba land",
+            "The Efik and Ibibio people of the South-South",
+            "The North",
+            "Igbo land"
+          ],
+          "answer": 1,
+          "explain": "Afang is a classic soup of the Efik and Ibibio people."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Ayamase (Ofada Stew) and Ofada Rice",
+      "goal": "Cook the green pepper stew that goes with Ofada rice.",
+      "video": {
+        "youtube_id": "gA_sZWCrCkA",
+        "title": "How to Cook Ogbono Soup with Egusi",
+        "channel": "All Nigerian Recipes"
+      },
+      "steps": [
+        "Blend green peppers, green scotch bonnet and onion.",
+        "Boil the blend to remove water, then fry in palm oil.",
+        "Add iru, crayfish and assorted meats.",
+        "Cook Ofada rice separately until soft and slightly sticky.",
+        "Serve the stew over the rice with boiled eggs."
+      ],
+      "task": "Cook Ayamase and Ofada rice.",
+      "challenge": "Try Ayamase with white rice and note the difference.",
+      "quiz": [
+        {
+          "q": "What gives Ayamase its green colour?",
+          "options": [
+            "Spinach",
+            "Green peppers and green scotch bonnet",
+            "Ugu",
+            "Palm oil"
+          ],
+          "answer": 1,
+          "explain": "Ayamase is made from green peppers, which give it its colour and flavour."
+        },
+        {
+          "q": "What is iru and why is it in Ayamase?",
+          "options": [
+            "A pepper",
+            "Fermented locust beans that give a deep savoury flavour",
+            "A leaf",
+            "A meat"
+          ],
+          "answer": 1,
+          "explain": "Iru is essential to Ayamase's flavour."
+        },
+        {
+          "q": "What rice goes with Ayamase?",
+          "options": [
+            "Basmati",
+            "Ofada rice, a local short-grain rice",
+            "Brown rice",
+            "Jasmine"
+          ],
+          "answer": 1,
+          "explain": "Ofada rice is the traditional partner, with its nutty flavour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Nigerian Stew: The Everyday Pot",
+      "goal": "Cook a big pot of Nigerian tomato stew to last the week.",
+      "video": {
+        "youtube_id": "JR--5sPBQoM",
+        "title": "Fresh Plantain Fufu",
+        "channel": "9jafoodie"
+      },
+      "steps": [
+        "Blend a large pepper mix and boil off the water.",
+        "Fry in oil until dark and the oil separates.",
+        "Add stock, seasoning, crayfish and your proteins.",
+        "Simmer 20 minutes, then taste and adjust salt and heat.",
+        "Cool, portion and freeze in containers for the week."
+      ],
+      "task": "Cook a large pot of stew and portion it for the week.",
+      "challenge": "Use the stew three ways: with rice, with yam, and with bread.",
+      "quiz": [
+        {
+          "q": "Why boil the pepper mix before frying?",
+          "options": [
+            "To save oil",
+            "To remove water so it fries faster and tastes less sour",
+            "To make it red",
+            "To cool it"
+          ],
+          "answer": 1,
+          "explain": "Boiling off the water first shortens frying time and improves flavour."
+        },
+        {
+          "q": "How long does stew keep in the fridge?",
+          "options": [
+            "1 week",
+            "3 to 4 days",
+            "2 weeks",
+            "1 day"
+          ],
+          "answer": 1,
+          "explain": "Cooked stew keeps 3 to 4 days in the fridge; freeze it for longer."
+        },
+        {
+          "q": "What is the sign of a well-fried stew?",
+          "options": [
+            "It is bright red",
+            "Oil floats on top and it smells rich, not raw",
+            "It is thick",
+            "It bubbles"
+          ],
+          "answer": 1,
+          "explain": "Oil separation and a rich smell mean the raw tomato taste is gone."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Yam Porridge and Yam Dishes",
+      "goal": "Cook yam porridge and fried yam with stew.",
+      "video": {
+        "youtube_id": "Nzbo3Own-Ko",
+        "title": "Nigerian Afang Soup Recipe",
+        "channel": "9jafoodie"
+      },
+      "steps": [
+        "Peel yam, cut into chunks and rinse.",
+        "Boil yam in pepper mix, palm oil and stock until soft.",
+        "Mash a few pieces against the pot to thicken the porridge.",
+        "Add scent leaf or ugu at the end.",
+        "For fried yam, cut into fingers, salt, and fry until golden."
+      ],
+      "task": "Cook yam porridge.",
+      "challenge": "Cook fried yam with stew the next day and compare.",
+      "quiz": [
+        {
+          "q": "How do you thicken yam porridge?",
+          "options": [
+            "Add flour",
+            "Mash some yam pieces into the pot",
+            "Add more water",
+            "Add oil"
+          ],
+          "answer": 1,
+          "explain": "Mashing a few soft yam pieces thickens the porridge naturally."
+        },
+        {
+          "q": "What leaf is often added to yam porridge?",
+          "options": [
+            "Bitter leaf",
+            "Scent leaf",
+            "Cabbage",
+            "Lettuce"
+          ],
+          "answer": 1,
+          "explain": "Scent leaf adds a fresh aroma to yam porridge."
+        },
+        {
+          "q": "Why rinse cut yam?",
+          "options": [
+            "To make it white",
+            "To remove surface starch and dirt",
+            "To cook faster",
+            "To add flavour"
+          ],
+          "answer": 1,
+          "explain": "Rinsing removes starch and any dirt from peeling."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Suya: Marinade and Grilling",
+      "goal": "Make suya spice and grill suya at home.",
+      "video": {
+        "youtube_id": "vDH25t4ShAU",
+        "title": "How to Make Ayamase (Ofada Stew/Sauce)",
+        "channel": "9jafoodie"
+      },
+      "steps": [
+        "Mix the suya spice: ground peanuts, ginger, paprika, chilli and salt.",
+        "Cut beef thinly and marinate with oil and the spice mix.",
+        "Thread onto skewers and grill over charcoal or in the oven.",
+        "Turn often and brush with oil so it stays moist.",
+        "Serve with sliced onion, cabbage and extra suya spice."
+      ],
+      "task": "Make suya at home with homemade suya spice.",
+      "challenge": "Grill suya chicken the same way and compare.",
+      "quiz": [
+        {
+          "q": "What is the base of suya spice (yaji)?",
+          "options": [
+            "Ground peanuts",
+            "Ground maize",
+            "Ground rice",
+            "Ground beans"
+          ],
+          "answer": 0,
+          "explain": "Yaji is built on ground peanuts with ginger, paprika and chilli."
+        },
+        {
+          "q": "Why cut suya meat thinly?",
+          "options": [
+            "To save meat",
+            "Thin slices cook fast and take on more spice",
+            "It looks better",
+            "It is easier to chew only"
+          ],
+          "answer": 1,
+          "explain": "Thin slices grill quickly and carry more spice on their surface."
+        },
+        {
+          "q": "What is suya traditionally served with?",
+          "options": [
+            "Rice",
+            "Sliced onion and cabbage with extra spice",
+            "Bread",
+            "Yam"
+          ],
+          "answer": 1,
+          "explain": "Onion and cabbage with extra yaji are the classic suya accompaniments."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Peppered Beef, Chicken and Fish",
+      "goal": "Make peppered proteins for parties and small chops.",
+      "video": {
+        "youtube_id": "tgwIxTcF-dY",
+        "title": "How to Cook Nigerian Stew",
+        "channel": "NaijaFoodTube"
+      },
+      "steps": [
+        "Boil or grill your protein first until cooked.",
+        "Fry a thick pepper mix with onion until the oil separates.",
+        "Add the protein and toss so every piece is coated.",
+        "Cook on low for 5 minutes so the pepper clings.",
+        "Serve as a side or as small chops at a party."
+      ],
+      "task": "Cook peppered chicken.",
+      "challenge": "Cook peppered fish and note how the cooking time differs.",
+      "quiz": [
+        {
+          "q": "Why cook the protein before adding the pepper mix?",
+          "options": [
+            "To save time",
+            "So the pepper coats cooked meat instead of stewing raw meat",
+            "It tastes better",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Pre-cooked protein absorbs the pepper sauce without overcooking."
+        },
+        {
+          "q": "What makes a pepper mix thick enough to coat meat?",
+          "options": [
+            "More water",
+            "Frying it down until most water evaporates",
+            "More oil",
+            "More salt"
+          ],
+          "answer": 1,
+          "explain": "A well-fried, reduced pepper mix clings to meat instead of sliding off."
+        },
+        {
+          "q": "What is peppered meat often served as?",
+          "options": [
+            "A main course only",
+            "Small chops at parties",
+            "A soup",
+            "A breakfast"
+          ],
+          "answer": 1,
+          "explain": "Peppered chicken, beef and fish are classic party small chops."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: Cook a Party Spread",
+      "goal": "Cook a small party spread: rice, soup, suya and peppered chicken.",
+      "video": {
+        "youtube_id": "fpoWiRo9IjM",
+        "title": "How to Cook Beef Stir Fry Vegetable",
+        "channel": "SisiYemmieTV"
+      },
+      "steps": [
+        "Choose the menu and write a shopping list with costs.",
+        "Start the soup and stew first; grill suya last so it is hot.",
+        "Cook the rice while the soup simmers.",
+        "Plate everything on a big tray, party style.",
+        "Serve to family or friends and ask for honest feedback."
+      ],
+      "task": "Cook a party spread for at least 4 people.",
+      "challenge": "Cost the whole spread and work out the price per person.",
+      "quiz": [
+        {
+          "q": "What should you cook last at a party?",
+          "options": [
+            "The soup",
+            "Grilled items like suya, so they are hot",
+            "The rice",
+            "The stew"
+          ],
+          "answer": 1,
+          "explain": "Grilled food goes cold fast, so it is cooked last."
+        },
+        {
+          "q": "Why cost a party spread per person?",
+          "options": [
+            "To show off",
+            "So you can price it if you ever sell it",
+            "To save money",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Knowing the cost per person is the first step to selling food."
+        },
+        {
+          "q": "What makes a good party spread?",
+          "options": [
+            "One dish",
+            "A mix of rice, soup, grilled and peppered dishes",
+            "Only meat",
+            "Only rice"
+          ],
+          "answer": 1,
+          "explain": "Variety is what makes a party table feel like a party."
+        }
+      ],
+      "project": {
+        "title": "Cook a Party Spread",
+        "brief": "Cook a spread of rice, soup, suya and peppered chicken for at least 4 people.",
+        "checks": [
+          "Menu planned with costs per person",
+          "Soup and stew cooked and well seasoned",
+          "Rice cooked fluffy with a smoky finish",
+          "Suya grilled and served hot",
+          "Peppered chicken coated and tasty",
+          "Spread served together and feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Swallows: Eba, Fufu and Pounded Yam",
+      "goal": "Make smooth, lump-free swallows.",
+      "video": {
+        "youtube_id": "cOYCFfRyS8E",
+        "title": "How to Cook Beef Stir Fried Rice",
+        "channel": "SisiYemmieTV"
+      },
+      "steps": [
+        "Eba: boil water, pour in garri gradually while stirring hard, then knead.",
+        "Fufu: mix cassava flour with water, cook on low, stirring until smooth and stretchy.",
+        "Pounded yam: boil yam until very soft, then pound or blend until smooth.",
+        "Keep a bowl of water nearby to wet your hands and the spoon.",
+        "Shape into smooth balls and serve hot with soup."
+      ],
+      "task": "Make eba and eat it with egusi soup.",
+      "challenge": "Make fufu and compare the texture with eba.",
+      "quiz": [
+        {
+          "q": "How do you stop eba going lumpy?",
+          "options": [
+            "Add garri all at once",
+            "Pour garri in gradually while stirring hard",
+            "Use cold water",
+            "Add oil"
+          ],
+          "answer": 1,
+          "explain": "Gradual pouring with constant stirring keeps eba smooth."
+        },
+        {
+          "q": "What makes fufu stretchy?",
+          "options": [
+            "Palm oil",
+            "Cooking cassava flour slowly while stirring",
+            "Adding garri",
+            "Cold water"
+          ],
+          "answer": 1,
+          "explain": "Slow cooking and stirring develop fufu's stretchy texture."
+        },
+        {
+          "q": "Why wet your hands when shaping swallows?",
+          "options": [
+            "To cool them",
+            "So the hot dough does not stick to your hands",
+            "To add flavour",
+            "To wash them"
+          ],
+          "answer": 1,
+          "explain": "Wet hands stop the sticky dough clinging to your skin."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Fresh Plantain Fufu and Other Swallows",
+      "goal": "Make plantain fufu and try amala.",
+      "video": {
+        "youtube_id": "6D_cMIwrdG8",
+        "title": "How to Make Nigerian Yam Porridge",
+        "channel": "SisiYemmieTV"
+      },
+      "steps": [
+        "Boil unripe plantain until soft, then blend with a little of the cooking water.",
+        "Cook the blended plantain on low heat, stirring until firm.",
+        "Amala: boil water, add yam flour gradually, stir hard until smooth and dark.",
+        "Serve amala with ewedu and gbegiri, the classic combo.",
+        "Taste each swallow and note which soup it suits best."
+      ],
+      "task": "Make plantain fufu.",
+      "challenge": "Make amala with ewedu and gbegiri.",
+      "quiz": [
+        {
+          "q": "What is plantain fufu made from?",
+          "options": [
+            "Ripe plantain",
+            "Boiled unripe plantain, blended and cooked",
+            "Plantain flour",
+            "Yam"
+          ],
+          "answer": 1,
+          "explain": "Unripe plantain boiled and blended makes a soft, healthy swallow."
+        },
+        {
+          "q": "What two soups go with amala?",
+          "options": [
+            "Egusi and ogbono",
+            "Ewedu and gbegiri",
+            "Afang and edikang",
+            "Ogbono and afang"
+          ],
+          "answer": 1,
+          "explain": "Amala with ewedu and gbegiri is the classic Yoruba combination."
+        },
+        {
+          "q": "Why stir amala hard while adding the flour?",
+          "options": [
+            "To make it dark",
+            "To stop lumps forming",
+            "To cool it",
+            "To add air"
+          ],
+          "answer": 1,
+          "explain": "Constant hard stirring is what keeps amala smooth."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Ewedu, Gbegiri and Abula",
+      "goal": "Cook the Yoruba soup trio.",
+      "video": {
+        "youtube_id": "wAyevgTtRlM",
+        "title": "Nigerian Suya Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Ewedu: boil jute leaves with potash, then whisk until smooth and slimy.",
+        "Gbegiri: cook peeled beans until soft, blend, then cook with palm oil and seasoning.",
+        "Make a simple stew to go with them.",
+        "Serve all three soups over amala: abula.",
+        "Taste and adjust salt in each soup separately."
+      ],
+      "task": "Cook ewedu and gbegiri and serve with amala.",
+      "challenge": "Cook the full abula: ewedu, gbegiri and stew over amala.",
+      "quiz": [
+        {
+          "q": "What leaf is ewedu made from?",
+          "options": [
+            "Ugu",
+            "Jute leaves",
+            "Bitter leaf",
+            "Waterleaf"
+          ],
+          "answer": 1,
+          "explain": "Ewedu is jute leaf, whisked smooth."
+        },
+        {
+          "q": "What is gbegiri made from?",
+          "options": [
+            "Beans",
+            "Melon seed",
+            "Yam",
+            "Maize"
+          ],
+          "answer": 0,
+          "explain": "Gbegiri is cooked, blended beans."
+        },
+        {
+          "q": "What does 'abula' mean?",
+          "options": [
+            "A soup",
+            "A mix of ewedu, gbegiri and stew served together over amala",
+            "A swallow",
+            "A spice"
+          ],
+          "answer": 1,
+          "explain": "Abula is the trio of soups served together over amala."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Nigerian Fried Rice and Stir Fry",
+      "goal": "Cook Nigerian fried rice and a beef stir fry.",
+      "video": {
+        "youtube_id": "xAnBllcEmhQ",
+        "title": "The Most Succulent Grilled Chicken (Suya)",
+        "channel": "Cook with Lerato"
+      },
+      "steps": [
+        "Cook rice a day ahead or cool it well; cold rice fries better.",
+        "Fry chicken or beef, then set aside.",
+        "Fry onion, peppers, carrots and sweetcorn in oil.",
+        "Add rice, soy sauce and seasoning, and toss on high heat.",
+        "Add the protein back and serve hot."
+      ],
+      "task": "Cook Nigerian fried rice.",
+      "challenge": "Cook a beef and vegetable stir fry the next day.",
+      "quiz": [
+        {
+          "q": "Why use cold rice for fried rice?",
+          "options": [
+            "It is cheaper",
+            "Cold rice stays separate instead of turning mushy",
+            "It cooks faster",
+            "It tastes better"
+          ],
+          "answer": 1,
+          "explain": "Cold, dry rice fries into separate grains."
+        },
+        {
+          "q": "What vegetables go into Nigerian fried rice?",
+          "options": [
+            "Carrots, peas, sweetcorn and peppers",
+            "Cabbage only",
+            "Tomatoes only",
+            "Onions only"
+          ],
+          "answer": 0,
+          "explain": "Carrots, peas, sweetcorn and peppers are the classic mix."
+        },
+        {
+          "q": "Why fry the protein first and set it aside?",
+          "options": [
+            "To save time",
+            "So it does not overcook while the rice fries",
+            "It is tradition",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "Protein cooked first and added back at the end stays tender."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Pepper Soup: Catfish and Goat Meat",
+      "goal": "Cook Nigerian pepper soup, light and spicy.",
+      "video": {
+        "youtube_id": "z4tNAyRdo70",
+        "title": "How To Cook Perfect Party Jollof Rice: Tips for Smoky Nigerian Party Jollof Rice",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Boil the protein with onion and seasoning to make a light broth.",
+        "Add pepper soup spice, scent leaf and a little crayfish.",
+        "Simmer gently; pepper soup should be light, not thick.",
+        "For catfish, add the fish late so it does not break.",
+        "Serve hot in a bowl, with or without a swallow."
+      ],
+      "task": "Cook catfish pepper soup.",
+      "challenge": "Cook goat meat pepper soup and compare the cooking times.",
+      "quiz": [
+        {
+          "q": "What makes pepper soup different from stew?",
+          "options": [
+            "It is thicker",
+            "It is a light, spicy broth, not a fried stew",
+            "It has no pepper",
+            "It is eaten cold"
+          ],
+          "answer": 1,
+          "explain": "Pepper soup is a thin, spicy broth."
+        },
+        {
+          "q": "Why add catfish late to pepper soup?",
+          "options": [
+            "It is expensive",
+            "Fish breaks easily if cooked too long",
+            "It tastes better raw",
+            "It cooks faster"
+          ],
+          "answer": 1,
+          "explain": "Catfish is delicate; adding it late keeps it in whole pieces."
+        },
+        {
+          "q": "What leaf is often added to pepper soup?",
+          "options": [
+            "Bitter leaf",
+            "Scent leaf",
+            "Ugu",
+            "Cabbage"
+          ],
+          "answer": 1,
+          "explain": "Scent leaf gives pepper soup its fresh aroma."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Moimoi and Ekpang: Steamed Dishes",
+      "goal": "Make moimoi (bean pudding) and learn about steamed foods.",
+      "video": {
+        "youtube_id": "ToKUxEd0xcM",
+        "title": "Perfect Jollof Rice - Goat Meat Jollof Rice | Tips for Smoky Party Jollof",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Peel beans by soaking and rubbing off the skins.",
+        "Blend beans with peppers, onion and crayfish into a smooth batter.",
+        "Add oil, seasoning and optional egg or fish.",
+        "Pour into foil or leaves and steam for 45 minutes.",
+        "Test with a toothpick: it should come out clean."
+      ],
+      "task": "Make moimoi.",
+      "challenge": "Make moimoi in leaves if you can find them, and compare with foil.",
+      "quiz": [
+        {
+          "q": "What is moimoi made from?",
+          "options": [
+            "Yam",
+            "Peeled beans blended into a batter and steamed",
+            "Rice",
+            "Maize"
+          ],
+          "answer": 1,
+          "explain": "Moimoi is steamed bean pudding."
+        },
+        {
+          "q": "How do you know moimoi is done?",
+          "options": [
+            "It smells good",
+            "A toothpick comes out clean",
+            "It turns brown",
+            "It floats"
+          ],
+          "answer": 1,
+          "explain": "A clean toothpick means the centre is set."
+        },
+        {
+          "q": "Why peel beans for moimoi?",
+          "options": [
+            "To save time",
+            "The skins make it rough and bitter",
+            "They are poisonous",
+            "To make it white only"
+          ],
+          "answer": 1,
+          "explain": "Bean skins make moimoi gritty and slightly bitter."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Full Nigerian Menu",
+      "goal": "Cook a full Nigerian menu: soup, swallow, rice and a grilled dish.",
+      "video": {
+        "youtube_id": "Uhoiu5LMjXY",
+        "title": "Oven Baked Jollof Rice",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Choose the menu and write a shopping list with costs.",
+        "Start with the soup and stew, which take longest.",
+        "Make the swallow fresh just before serving.",
+        "Grill the suya last so it is hot.",
+        "Serve everything at once and photograph the table."
+      ],
+      "task": "Cook a full Nigerian menu for your household.",
+      "challenge": "Serve the menu to a guest and ask for their favourite dish.",
+      "quiz": [
+        {
+          "q": "Why make the swallow last?",
+          "options": [
+            "It is quick",
+            "Swallows go cold and stiff fast, so they are made fresh",
+            "It is hard",
+            "To save gas"
+          ],
+          "answer": 1,
+          "explain": "A swallow is best served hot and fresh from the pot."
+        },
+        {
+          "q": "What should a full Nigerian menu include?",
+          "options": [
+            "Only rice",
+            "A soup, a swallow, a rice dish and a grilled dish",
+            "Only soup",
+            "Only meat"
+          ],
+          "answer": 1,
+          "explain": "A full menu balances soup, swallow, rice and something grilled."
+        },
+        {
+          "q": "Why photograph your food?",
+          "options": [
+            "To show off",
+            "To track your progress and show customers later",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Photos record your progress and become your portfolio if you sell food."
+        }
+      ],
+      "project": {
+        "title": "Cook a Full Nigerian Menu",
+        "brief": "Cook a soup, a swallow, a rice dish and a grilled dish, served together.",
+        "checks": [
+          "Menu planned with costs",
+          "Soup cooked with correct texture and seasoning",
+          "Swallow smooth and lump-free",
+          "Rice dish cooked properly",
+          "Grilled dish served hot",
+          "Table photographed and feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Cooking for a Crowd: Scaling Nigerian Food",
+      "goal": "Scale Nigerian recipes up for parties.",
+      "video": {
+        "youtube_id": "cg634FE2C-k",
+        "title": "Perfect Jollof Rice with Peppered Beef",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Multiply your pepper mix and stock by the number of guests.",
+        "Use bigger pots; never fill a pot more than two-thirds full.",
+        "Cook rice in batches if your pot is too small.",
+        "Taste and adjust seasoning after scaling: salt does not always double neatly.",
+        "Keep food hot in a cooler or low oven until serving."
+      ],
+      "task": "Cook a pot of stew for 10 or more portions and freeze the extra.",
+      "challenge": "Cook jollof for a crowd using two pots and compare the results.",
+      "quiz": [
+        {
+          "q": "Why not fill a pot more than two-thirds full?",
+          "options": [
+            "It looks bad",
+            "Food needs room to cook evenly and not spill",
+            "It saves gas",
+            "It is tradition"
+          ],
+          "answer": 1,
+          "explain": "An overfull pot cooks unevenly and boils over."
+        },
+        {
+          "q": "Why taste after scaling a recipe?",
+          "options": [
+            "Salt is expensive",
+            "Seasoning does not always scale in a straight line",
+            "It is faster",
+            "To use less salt"
+          ],
+          "answer": 1,
+          "explain": "Doubling salt exactly can over-season; taste and adjust."
+        },
+        {
+          "q": "How do you keep party food hot?",
+          "options": [
+            "Leave it on the counter",
+            "In a cooler or a low oven",
+            "In the fridge",
+            "On high heat"
+          ],
+          "answer": 1,
+          "explain": "A cooler or low oven holds food hot safely until serving."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Food Costing: Price Your Nigerian Dishes",
+      "goal": "Cost a Nigerian dish and set a selling price.",
+      "video": {
+        "youtube_id": "jNqaf1F7OpA",
+        "title": "Ogbono Egusi Combo Recipe",
+        "channel": "FabWoman"
+      },
+      "steps": [
+        "List every ingredient in the dish with its market price.",
+        "Divide the total cost by the number of portions.",
+        "Add gas, transport and packaging costs per portion.",
+        "Set the price at 2.5 to 3 times the food cost for profit.",
+        "Compare your price with what others charge in your area."
+      ],
+      "task": "Cost one dish, like jollof with chicken, and set its selling price.",
+      "challenge": "Cost a soup and a swallow combo and price it for a customer.",
+      "quiz": [
+        {
+          "q": "What is food cost per portion?",
+          "options": [
+            "The menu price",
+            "Total ingredient cost divided by portions",
+            "The gas cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Food cost per portion is the ingredient cost for one serving."
+        },
+        {
+          "q": "Why price at 2.5 to 3 times food cost?",
+          "options": [
+            "To be expensive",
+            "To cover gas, transport, labour and still make profit",
+            "It is a law",
+            "To impress customers"
+          ],
+          "answer": 1,
+          "explain": "The multiplier covers all the costs beyond ingredients and leaves profit."
+        },
+        {
+          "q": "What costs must you add beyond ingredients?",
+          "options": [
+            "Nothing",
+            "Gas, transport, packaging and your time",
+            "Only packaging",
+            "Only transport"
+          ],
+          "answer": 1,
+          "explain": "Gas, transport, packaging and labour are real costs of every plate."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Packaging and Selling Nigerian Food",
+      "goal": "Package Nigerian food so it travels well and looks good.",
+      "video": {
+        "youtube_id": "QyGu8nX_VO4",
+        "title": "How to Make Ogbono Soup (Frying Method)",
+        "channel": "FitNigerian"
+      },
+      "steps": [
+        "Use food-grade containers that seal tightly.",
+        "Pack soup separately from rice and swallows.",
+        "Label with the dish name, date and heating instructions.",
+        "Keep hot food hot and cold food cold during delivery.",
+        "Ask customers for feedback and photos of the food."
+      ],
+      "task": "Package a full meal as if for a paying customer.",
+      "challenge": "Deliver or hand a packaged meal to someone and get their feedback.",
+      "quiz": [
+        {
+          "q": "Why pack soup separately from rice?",
+          "options": [
+            "It looks better",
+            "Soup soaks the rice and makes it soggy",
+            "It is cheaper",
+            "It is tradition"
+          ],
+          "answer": 1,
+          "explain": "Separate packing keeps each item in good condition until eaten."
+        },
+        {
+          "q": "What should a food label include?",
+          "options": [
+            "Only your name",
+            "Dish name, date and heating instructions",
+            "Only the price",
+            "Only the date"
+          ],
+          "answer": 1,
+          "explain": "Labels tell the customer what it is, when it was made and how to heat it."
+        },
+        {
+          "q": "Why ask customers for feedback?",
+          "options": [
+            "To be polite",
+            "It tells you what to improve and gives you testimonials",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Feedback improves your food and gives you words to show new customers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Festive Cooking: Christmas and Party Food",
+      "goal": "Plan and cook festive Nigerian food.",
+      "video": {
+        "youtube_id": "SsjFg55ggqo",
+        "title": "How to Make Ogbono Soup (Boiling Method)",
+        "channel": "FitNigerian"
+      },
+      "steps": [
+        "Plan the menu a week ahead: rice, soups, meats and small chops.",
+        "Cook and freeze stews and soups in advance.",
+        "Fry meats and make small chops on the day.",
+        "Cook jollof in a big pot or in batches.",
+        "Serve with drinks and a dessert like puff puff."
+      ],
+      "task": "Plan a festive menu and cook one dish from it.",
+      "challenge": "Cook and freeze a stew in advance, then reheat it and check the taste.",
+      "quiz": [
+        {
+          "q": "Why cook stews in advance for a party?",
+          "options": [
+            "To save gas",
+            "They freeze well and free up time on the day",
+            "They taste worse fresh",
+            "It is tradition"
+          ],
+          "answer": 1,
+          "explain": "Stews and soups freeze well, so the party day is less stressful."
+        },
+        {
+          "q": "What should be cooked fresh on the day?",
+          "options": [
+            "Stew",
+            "Fried meats and small chops",
+            "Soup",
+            "Rice"
+          ],
+          "answer": 1,
+          "explain": "Fried foods go soggy if made early, so they are cooked on the day."
+        },
+        {
+          "q": "What dessert is common at Nigerian parties?",
+          "options": [
+            "Cake only",
+            "Puff puff and other small chops",
+            "Ice cream only",
+            "Fruit only"
+          ],
+          "answer": 1,
+          "explain": "Puff puff is a classic Nigerian party sweet."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Regional Specialities: North, East, West",
+      "goal": "Cook one dish from each region of Nigeria.",
+      "video": {
+        "youtube_id": "GGcPLwF9Dn4",
+        "title": "How to Cook Egusi and Ogbono Soup",
+        "channel": "Ada's Recipes"
+      },
+      "steps": [
+        "North: try tuwo shinkafa with miyan kuka (baobab soup).",
+        "East: try ofe nsala (white soup) or ofe owerri.",
+        "West: try efo riro (vegetable soup) with assorted meat.",
+        "Compare the flavours: North is nutty, East is light and spicy, West is rich.",
+        "Note which regional dish your household likes best."
+      ],
+      "task": "Cook efo riro.",
+      "challenge": "Cook ofe nsala or miyan kuka and compare the flavours.",
+      "quiz": [
+        {
+          "q": "What is efo riro?",
+          "options": [
+            "A rice dish",
+            "A Yoruba vegetable soup with assorted meat",
+            "A stew",
+            "A swallow"
+          ],
+          "answer": 1,
+          "explain": "Efo riro is a rich Yoruba vegetable soup."
+        },
+        {
+          "q": "What is ofe nsala also called?",
+          "options": [
+            "White soup",
+            "Red soup",
+            "Draw soup",
+            "Pepper soup"
+          ],
+          "answer": 0,
+          "explain": "Ofe nsala is the Igbo white soup, light and spicy."
+        },
+        {
+          "q": "What is miyan kuka made from?",
+          "options": [
+            "Okra",
+            "Baobab leaves",
+            "Spinach",
+            "Bitter leaf"
+          ],
+          "answer": 1,
+          "explain": "Miyan kuka is a Northern soup made from baobab leaves."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Healthy Nigerian Cooking",
+      "goal": "Make Nigerian food lighter without losing flavour.",
+      "video": {
+        "youtube_id": "gA_sZWCrCkA",
+        "title": "How to Cook Ogbono Soup with Egusi",
+        "channel": "All Nigerian Recipes"
+      },
+      "steps": [
+        "Use less palm oil; mix it with groundnut oil or use it sparingly.",
+        "Grill or boil meat instead of frying it.",
+        "Add more vegetables to soups and reduce the meat.",
+        "Choose unripe plantain and whole grains over too much white rice.",
+        "Cut down salt and stock cubes; use herbs, crayfish and peppers for flavour."
+      ],
+      "task": "Cook a lighter version of a favourite dish.",
+      "challenge": "Cook the same dish the old way and the lighter way, and compare.",
+      "quiz": [
+        {
+          "q": "How can you cut palm oil without losing flavour?",
+          "options": [
+            "Use none",
+            "Use a smaller amount and add crayfish and peppers for depth",
+            "Use water",
+            "Use butter"
+          ],
+          "answer": 1,
+          "explain": "A little palm oil plus crayfish and pepper keeps the flavour with less fat."
+        },
+        {
+          "q": "What is a healthier way to cook meat?",
+          "options": [
+            "Deep fry it",
+            "Grill or boil it",
+            "Fry it twice",
+            "Eat it raw"
+          ],
+          "answer": 1,
+          "explain": "Grilling or boiling adds no extra fat."
+        },
+        {
+          "q": "What adds flavour without salt?",
+          "options": [
+            "Nothing",
+            "Herbs, crayfish, peppers and onions",
+            "Sugar",
+            "Water"
+          ],
+          "answer": 1,
+          "explain": "Herbs, crayfish and peppers build flavour so you need less salt."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Your Signature Nigerian Dish",
+      "goal": "Perfect one Nigerian dish you can cook brilliantly every time.",
+      "video": {
+        "youtube_id": "JR--5sPBQoM",
+        "title": "Fresh Plantain Fufu",
+        "channel": "9jafoodie"
+      },
+      "steps": [
+        "Pick the dish your household loves most from this course.",
+        "Write the recipe in your own words with exact amounts.",
+        "Cook it again, timing every step and noting problems.",
+        "Fix the problems and cook it once more.",
+        "Get a friend to taste it blind and guess the cook."
+      ],
+      "task": "Cook your signature Nigerian dish and write the final recipe.",
+      "challenge": "Cook it for someone new and record their feedback.",
+      "quiz": [
+        {
+          "q": "What is a signature dish?",
+          "options": [
+            "An expensive dish",
+            "A dish you can cook brilliantly and consistently",
+            "A dish with a fancy name",
+            "A dish only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature dish is one you have mastered."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you truly understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself proves you understand each step."
+        },
+        {
+          "q": "Why get a stranger to taste it?",
+          "options": [
+            "To show off",
+            "Fresh tasters give honest feedback",
+            "It is required",
+            "To waste food"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite; new tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Nigerian Kitchen in Review",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "Nzbo3Own-Ko",
+        "title": "Nigerian Afang Soup Recipe",
+        "channel": "9jafoodie"
+      },
+      "steps": [
+        "Re-cook jollof rice from memory.",
+        "Re-make a pepper mix and fry it until the oil separates.",
+        "Name five Nigerian soups and their main ingredients.",
+        "Check your food safety habits in the kitchen.",
+        "List your three strongest dishes and one to improve."
+      ],
+      "task": "Cook a full Nigerian meal from memory, no recipe.",
+      "challenge": "Teach one dish from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What are five classic Nigerian soups?",
+          "options": [
+            "Egusi, ogbono, afang, efo riro, ofe nsala",
+            "Tomato, chicken, vegetable, mushroom, corn",
+            "Pepper, okra, beans, yam, rice",
+            "Stew, jollof, fried rice, moi moi, suya"
+          ],
+          "answer": 0,
+          "explain": "Egusi, ogbono, afang, efo riro and ofe nsala are five classics."
+        },
+        {
+          "q": "Why teach a dish to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves food"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        },
+        {
+          "q": "What is the sign of a well-fried pepper base?",
+          "options": [
+            "It is bright red",
+            "Oil floats on top and the raw smell is gone",
+            "It is thick",
+            "It bubbles"
+          ],
+          "answer": 1,
+          "explain": "Oil separation is the classic sign."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Nigerian Feast",
+      "goal": "Plan your capstone feast and gather everything you need.",
+      "video": {
+        "youtube_id": "vDH25t4ShAU",
+        "title": "How to Make Ayamase (Ofada Stew/Sauce)",
+        "channel": "9jafoodie"
+      },
+      "steps": [
+        "Choose your capstone menu: a rice dish, a soup, a swallow and a grilled dish.",
+        "Write the full shopping list with costs.",
+        "Write the cooking timeline, working backwards from serving.",
+        "Check you have every tool and ingredient.",
+        "Do a trial run of the hardest dish if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone dish today.",
+      "quiz": [
+        {
+          "q": "What should your capstone menu show?",
+          "options": [
+            "Only expensive food",
+            "Everything you learned: pepper bases, soups, swallows, grilling and costing",
+            "Only one dish",
+            "Only desserts"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why cost your capstone menu?",
+          "options": [
+            "To show off",
+            "So you know the price per person if you ever sell it",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing is part of cooking as a business."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste food",
+            "To find problems before the real cook",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Nigerian Feast: A Full Menu for Your Household",
+    "brief": "Cook a complete Nigerian feast for your household or guests: a rice dish (jollof or fried rice), a soup with a swallow, and a grilled dish (suya or peppered chicken), with fried plantain on the side. Cost the whole menu and serve everything hot at the same time.",
+    "checks": [
+      "Menu planned with a shopping list and costs per person",
+      "Pepper base fried until oil separates, not raw",
+      "Rice dish cooked fluffy with good flavour",
+      "Soup cooked with correct texture and seasoning",
+      "Swallow smooth and lump-free, served hot",
+      "Grilled dish cooked and served hot",
+      "Feedback collected from at least one person who ate"
+    ],
+    "deliverables": [
+      "A photo of the finished feast on the table",
+      "Your written menu with the shopping list and costs",
+      "Your cooking timeline, working backwards from serving",
+      "Your signature Nigerian dish recipe in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

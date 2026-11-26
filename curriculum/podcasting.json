@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "podcasting",
+    "title": "Podcasting",
+    "level": "Beginner",
+    "tagline": "Plan, record and publish a podcast people actually finish, with gear you already own.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Pick your podcast idea",
+      "goal": "Choose what your podcast will be about.",
+      "video": {
+        "youtube_id": "u_Dy_grN_HY",
+        "title": "Yamaha URX22 Podcast Tutorial | Voice Recording, Editing & BGM Mixing",
+        "channel": "Yamaha"
+      },
+      "steps": [
+        "Write down five topics you love.",
+        "Pick the one you can talk about every week.",
+        "Write one sentence about who it is for.",
+        "Write your podcast name."
+      ],
+      "task": "Pick your podcast topic and write who it is for.",
+      "challenge": "Ask three friends which of your five topics they would listen to.",
+      "quiz": [
+        {
+          "q": "What is a podcast host?",
+          "options": [
+            "A service that stores your episodes and sends them to apps like Spotify",
+            "A person who talks on a podcast",
+            "A type of microphone",
+            "A recording app"
+          ],
+          "answer": 0,
+          "explain": "A podcast host stores your audio files and shares them with listening apps."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Pick your podcast idea\"?",
+          "options": [
+            "Finish your first episode.",
+            "Record an episode with a guest.",
+            "Make an episode your listeners asked for.",
+            "Choose what your podcast will be about."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Choose what your podcast will be about."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about who it is for.",
+            "Write your podcast name.",
+            "Write down five topics you love.",
+            "Pick the one you can talk about every week."
+          ],
+          "answer": 2,
+          "explain": "Start with: Write down five topics you love."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Plan your first 10 episodes",
+      "goal": "Write ten episode ideas.",
+      "video": {
+        "youtube_id": "9t6GjlMfRjQ",
+        "title": "Video Podcasting: Complete Guide",
+        "channel": "OnPodium"
+      },
+      "steps": [
+        "Write down ten episode ideas on your topic.",
+        "Pick the simplest one for your first episode.",
+        "Write a title for each idea.",
+        "Put them in order from easy to hard."
+      ],
+      "task": "Write ten episode ideas and pick the simplest for your first.",
+      "challenge": "Ask a friend to pick the three ideas they would listen to first.",
+      "quiz": [
+        {
+          "q": "Why should you record in a quiet room?",
+          "options": [
+            "So your voice is clear and listeners can hear every word",
+            "So the file is smaller",
+            "So the episode is shorter",
+            "So the music sounds better"
+          ],
+          "answer": 0,
+          "explain": "Background noise hides your voice. A quiet room makes your podcast easy to listen to."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your first 10 episodes\"?",
+          "options": [
+            "Warm up your voice before you record.",
+            "Record an episode with just you.",
+            "Write ten episode ideas.",
+            "Write a short description for your show."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write ten episode ideas."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put them in order from easy to hard.",
+            "Write down ten episode ideas on your topic.",
+            "Pick the simplest one for your first episode.",
+            "Write a title for each idea."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down ten episode ideas on your topic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Set up your recording space",
+      "goal": "Make a quiet corner for recording.",
+      "video": {
+        "youtube_id": "Q8pfZna6H6Q",
+        "title": "How to Start a Podcast - Beginner Podcasting Tutorial",
+        "channel": "Pat Flynn"
+      },
+      "steps": [
+        "Pick the quietest room in your home.",
+        "Close the windows and turn off fans.",
+        "Hang a blanket on the wall to soften echo.",
+        "Clap once and listen. It should sound dull, not echoey."
+      ],
+      "task": "Set up a quiet recording corner.",
+      "challenge": "Record 10 seconds in your room and listen for echo.",
+      "quiz": [
+        {
+          "q": "What is a podcast host?",
+          "options": [
+            "A service that stores your episodes and sends them to apps like Spotify",
+            "A person who talks on a podcast",
+            "A type of microphone",
+            "A recording app"
+          ],
+          "answer": 0,
+          "explain": "A podcast host stores your audio files and shares them with listening apps."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Set up your recording space\"?",
+          "options": [
+            "Tell a story in one episode.",
+            "Make a quiet corner for recording.",
+            "Design cover art for your podcast.",
+            "Cut out filler words and pauses."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a quiet corner for recording."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick the quietest room in your home.",
+            "Close the windows and turn off fans.",
+            "Hang a blanket on the wall to soften echo.",
+            "Clap once and listen. It should sound dull, not echoey."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick the quietest room in your home."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Your recording gear",
+      "goal": "Use the gear you already own.",
+      "video": {
+        "youtube_id": "I0wL1HH3bQ8",
+        "title": "How to Master Voiceover Storytelling: Acting Techniques",
+        "channel": "VO Boss"
+      },
+      "steps": [
+        "Use your phone or computer to record.",
+        "Use earphones with a mic if you have them.",
+        "Test the mic by recording 10 seconds.",
+        "Listen back. Your voice should be clear."
+      ],
+      "task": "Record 10 seconds with your phone and listen back.",
+      "challenge": "Record the same 10 seconds with earphones and with the phone mic.",
+      "quiz": [
+        {
+          "q": "Why should you record in a quiet room?",
+          "options": [
+            "So your voice is clear and listeners can hear every word",
+            "So the file is smaller",
+            "So the episode is shorter",
+            "So the music sounds better"
+          ],
+          "answer": 0,
+          "explain": "Background noise hides your voice. A quiet room makes your podcast easy to listen to."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your recording gear\"?",
+          "options": [
+            "Use the gear you already own.",
+            "Pick where your podcast will live.",
+            "Add an intro and outro to your show.",
+            "Make a short trailer for your show."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Use the gear you already own."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use earphones with a mic if you have them.",
+            "Test the mic by recording 10 seconds.",
+            "Listen back. Your voice should be clear.",
+            "Use your phone or computer to record."
+          ],
+          "answer": 3,
+          "explain": "Start with: Use your phone or computer to record."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Write your first episode plan",
+      "goal": "Plan your first episode.",
+      "video": {
+        "youtube_id": "tdwhqgiGHfM",
+        "title": "How to Start Voice Acting With No Experience (2026 Guide)",
+        "channel": "VO Journey Academy"
+      },
+      "steps": [
+        "Write a hook: one sentence that makes people stay.",
+        "Write three main points.",
+        "Write a short ending.",
+        "Read the plan out loud and time it."
+      ],
+      "task": "Write a plan with a hook, three points, and an ending.",
+      "challenge": "Read your plan out loud and cut any part that feels slow.",
+      "quiz": [
+        {
+          "q": "What is a podcast host?",
+          "options": [
+            "A service that stores your episodes and sends them to apps like Spotify",
+            "A person who talks on a podcast",
+            "A type of microphone",
+            "A recording app"
+          ],
+          "answer": 0,
+          "explain": "A podcast host stores your audio files and shares them with listening apps."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write your first episode plan\"?",
+          "options": [
+            "Publish your first episode.",
+            "Get your first ten listeners.",
+            "Plan four episodes for next month.",
+            "Plan your first episode."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Plan your first episode."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write a short ending.",
+            "Read the plan out loud and time it.",
+            "Write a hook: one sentence that makes people stay.",
+            "Write three main points."
+          ],
+          "answer": 2,
+          "explain": "Start with: Write a hook: one sentence that makes people stay."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Record your first episode",
+      "goal": "Record your first podcast episode.",
+      "video": {
+        "youtube_id": "yrjnpv1szHU",
+        "title": "6 Steps to Do Voice Overs Like a Pro (Without Hiring One)",
+        "channel": "Kapwing"
+      },
+      "steps": [
+        "Open your recording app.",
+        "Read your plan out loud.",
+        "Speak slowly and clearly.",
+        "Record for 10 to 15 minutes."
+      ],
+      "task": "Record your first episode.",
+      "challenge": "Record your first episode twice and pick the better take.",
+      "quiz": [
+        {
+          "q": "Why should you record in a quiet room?",
+          "options": [
+            "So your voice is clear and listeners can hear every word",
+            "So the file is smaller",
+            "So the episode is shorter",
+            "So the music sounds better"
+          ],
+          "answer": 0,
+          "explain": "Background noise hides your voice. A quiet room makes your podcast easy to listen to."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Record your first episode\"?",
+          "options": [
+            "Learn what your podcast numbers mean.",
+            "Make your voice sound clearer.",
+            "Record your first podcast episode.",
+            "Plan three episodes on one topic."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Record your first podcast episode."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record for 10 to 15 minutes.",
+            "Open your recording app.",
+            "Read your plan out loud.",
+            "Speak slowly and clearly."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open your recording app."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Edit your first episode",
+      "goal": "Edit your episode in a free app.",
+      "video": {
+        "youtube_id": "AJ_xFlQnLnQ",
+        "title": "How To Record Great Voice-Overs For Your YouTube Videos",
+        "channel": "Promolta"
+      },
+      "steps": [
+        "Open your recording in Audacity or Anchor.",
+        "Cut out long pauses and mistakes.",
+        "Make the volume even.",
+        "Save the edited audio."
+      ],
+      "task": "Edit your first episode and save it.",
+      "challenge": "Edit the same episode again and make it 2 minutes shorter.",
+      "quiz": [
+        {
+          "q": "What is a podcast host?",
+          "options": [
+            "A service that stores your episodes and sends them to apps like Spotify",
+            "A person who talks on a podcast",
+            "A type of microphone",
+            "A recording app"
+          ],
+          "answer": 0,
+          "explain": "A podcast host stores your audio files and shares them with listening apps."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit your first episode\"?",
+          "options": [
+            "Make podcasting a weekly habit.",
+            "Edit your episode in a free app.",
+            "Record an episode with a guest.",
+            "Make an episode your listeners asked for."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Edit your episode in a free app."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open your recording in Audacity or Anchor.",
+            "Cut out long pauses and mistakes.",
+            "Make the volume even.",
+            "Save the edited audio."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open your recording in Audacity or Anchor."
+        }
+      ],
+      "project": {
+        "title": "Record Your First Episode",
+        "brief": "Record your first podcast episode.",
+        "checks": [
+          "Episode is recorded",
+          "Plan was used",
+          "Voice is clear",
+          "Episode is 10 to 15 minutes long",
+          "Mistakes are cut out",
+          "Saved as a file"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Your first episode is done",
+      "goal": "Finish your first episode.",
+      "video": {
+        "youtube_id": "pABvTWSxOes",
+        "title": "How To Record Great Voice-Overs For Your YouTube Videos",
+        "channel": "Promolta"
+      },
+      "steps": [
+        "Listen to the whole edited episode.",
+        "Fix any problems you hear.",
+        "Add a short intro at the start.",
+        "Save the final file."
+      ],
+      "task": "Finish and save your first episode.",
+      "challenge": "Play your episode for a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is an intro in a podcast?",
+          "options": [
+            "A short start that tells listeners what the show is",
+            "The end of the episode",
+            "A guest interview",
+            "A sponsor message"
+          ],
+          "answer": 0,
+          "explain": "An intro is the short start of your episode. It can include music and your show name."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first episode is done\"?",
+          "options": [
+            "Finish your first episode.",
+            "Warm up your voice before you record.",
+            "Record an episode with just you.",
+            "Look at what worked this month."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Finish your first episode."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Fix any problems you hear.",
+            "Add a short intro at the start.",
+            "Save the final file.",
+            "Listen to the whole edited episode."
+          ],
+          "answer": 3,
+          "explain": "Start with: Listen to the whole edited episode."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Write a show description",
+      "goal": "Write a short description for your show.",
+      "video": {
+        "youtube_id": "WPni755-Krg",
+        "title": "How To Record Great Voice-Overs For Your YouTube Videos",
+        "channel": "Promolta"
+      },
+      "steps": [
+        "Write one sentence about what your show is.",
+        "Write one sentence about who it is for.",
+        "Keep it under 50 words.",
+        "Save it for your podcast host."
+      ],
+      "task": "Write a show description under 50 words.",
+      "challenge": "Write three descriptions and pick the best one.",
+      "quiz": [
+        {
+          "q": "What is a show note?",
+          "options": [
+            "A short written summary of an episode",
+            "A music track",
+            "A type of microphone",
+            "A podcast cover"
+          ],
+          "answer": 0,
+          "explain": "Show notes tell listeners what an episode is about. They help people find your show."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a show description\"?",
+          "options": [
+            "Cut out filler words and pauses.",
+            "Tell a story in one episode.",
+            "Celebrate and plan for the next 100.",
+            "Write a short description for your show."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Write a short description for your show."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Keep it under 50 words.",
+            "Save it for your podcast host.",
+            "Write one sentence about what your show is.",
+            "Write one sentence about who it is for."
+          ],
+          "answer": 2,
+          "explain": "Start with: Write one sentence about what your show is."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Make cover art",
+      "goal": "Design cover art for your podcast.",
+      "video": {
+        "youtube_id": "CFXqyl4C1J4",
+        "title": "Top 10 Voice Tips Actors 2023",
+        "channel": "Nick Dunning"
+      },
+      "steps": [
+        "Open Canva and pick podcast cover size.",
+        "Add your show name in big text.",
+        "Add a simple photo or icon.",
+        "Use bright colors."
+      ],
+      "task": "Design cover art for your podcast.",
+      "challenge": "Make two covers and ask a friend which they would click.",
+      "quiz": [
+        {
+          "q": "What is an intro in a podcast?",
+          "options": [
+            "A short start that tells listeners what the show is",
+            "The end of the episode",
+            "A guest interview",
+            "A sponsor message"
+          ],
+          "answer": 0,
+          "explain": "An intro is the short start of your episode. It can include music and your show name."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make cover art\"?",
+          "options": [
+            "Make a short trailer for your show.",
+            "Pick your best work and say why it works.",
+            "Design cover art for your podcast.",
+            "Add an intro and outro to your show."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Design cover art for your podcast."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use bright colors.",
+            "Open Canva and pick podcast cover size.",
+            "Add your show name in big text.",
+            "Add a simple photo or icon."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open Canva and pick podcast cover size."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Choose a podcast host",
+      "goal": "Pick where your podcast will live.",
+      "video": {
+        "youtube_id": "h70RM8kIVeo",
+        "title": "Vocal Warm-Up Exercises for Podcasting and Voice Work",
+        "channel": "Pressbooks"
+      },
+      "steps": [
+        "Look at free hosts like Anchor or Spotify for Podcasters.",
+        "Make an account.",
+        "Upload your first episode.",
+        "Add your cover art and description."
+      ],
+      "task": "Upload your first episode to a podcast host.",
+      "challenge": "Compare two free hosts and pick the one you like.",
+      "quiz": [
+        {
+          "q": "What is a show note?",
+          "options": [
+            "A short written summary of an episode",
+            "A music track",
+            "A type of microphone",
+            "A podcast cover"
+          ],
+          "answer": 0,
+          "explain": "Show notes tell listeners what an episode is about. They help people find your show."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Choose a podcast host\"?",
+          "options": [
+            "Write a simple plan to keep growing.",
+            "Pick where your podcast will live.",
+            "Get your first ten listeners.",
+            "Plan four episodes for next month."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Pick where your podcast will live."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at free hosts like Anchor or Spotify for Podcasters.",
+            "Make an account.",
+            "Upload your first episode.",
+            "Add your cover art and description."
+          ],
+          "answer": 0,
+          "explain": "Start with: Look at free hosts like Anchor or Spotify for Podcasters."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Publish your first episode",
+      "goal": "Publish your first episode.",
+      "video": {
+        "youtube_id": "3wtB-fTd2RE",
+        "title": "Voice Acting Techniques for Clear and Engaging Narration",
+        "channel": "Voiceovers Home"
+      },
+      "steps": [
+        "Open your podcast host.",
+        "Check your episode, cover art, and description.",
+        "Click Publish.",
+        "Share the link with three friends."
+      ],
+      "task": "Publish your first episode and share it.",
+      "challenge": "Ask your first three listeners what they thought.",
+      "quiz": [
+        {
+          "q": "What is an intro in a podcast?",
+          "options": [
+            "A short start that tells listeners what the show is",
+            "The end of the episode",
+            "A guest interview",
+            "A sponsor message"
+          ],
+          "answer": 0,
+          "explain": "An intro is the short start of your episode. It can include music and your show name."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Publish your first episode\"?",
+          "options": [
+            "Publish your first episode.",
+            "Learn what your podcast numbers mean.",
+            "Make your voice sound clearer.",
+            "Choose what your podcast will be about."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Publish your first episode."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Check your episode, cover art, and description.",
+            "Click Publish.",
+            "Share the link with three friends.",
+            "Open your podcast host."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open your podcast host."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Plan a series of episodes",
+      "goal": "Plan three episodes on one topic.",
+      "video": {
+        "youtube_id": "u_Dy_grN_HY",
+        "title": "Yamaha URX22 Podcast Tutorial | Voice Recording, Editing & BGM Mixing",
+        "channel": "Yamaha"
+      },
+      "steps": [
+        "Pick a topic with three parts.",
+        "Write a title for each part.",
+        "Record part one.",
+        "Tell listeners at the end that part two is coming."
+      ],
+      "task": "Plan three episodes as a series.",
+      "challenge": "Make a series about one skill you are learning.",
+      "quiz": [
+        {
+          "q": "What is a show note?",
+          "options": [
+            "A short written summary of an episode",
+            "A music track",
+            "A type of microphone",
+            "A podcast cover"
+          ],
+          "answer": 0,
+          "explain": "Show notes tell listeners what an episode is about. They help people find your show."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan a series of episodes\"?",
+          "options": [
+            "Make an episode your listeners asked for.",
+            "Make podcasting a weekly habit.",
+            "Write ten episode ideas.",
+            "Plan three episodes on one topic."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Plan three episodes on one topic."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record part one.",
+            "Tell listeners at the end that part two is coming.",
+            "Pick a topic with three parts.",
+            "Write a title for each part."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a topic with three parts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Interview a guest",
+      "goal": "Record an episode with a guest.",
+      "video": {
+        "youtube_id": "9t6GjlMfRjQ",
+        "title": "Video Podcasting: Complete Guide",
+        "channel": "OnPodium"
+      },
+      "steps": [
+        "Ask a friend to be your guest.",
+        "Write five questions for them.",
+        "Record the interview.",
+        "Edit the best parts into an episode."
+      ],
+      "task": "Record an interview episode with a guest.",
+      "challenge": "Record an interview over the phone or on a video call.",
+      "quiz": [
+        {
+          "q": "What is an intro in a podcast?",
+          "options": [
+            "A short start that tells listeners what the show is",
+            "The end of the episode",
+            "A guest interview",
+            "A sponsor message"
+          ],
+          "answer": 0,
+          "explain": "An intro is the short start of your episode. It can include music and your show name."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Interview a guest\"?",
+          "options": [
+            "Look at what worked this month.",
+            "Make a quiet corner for recording.",
+            "Record an episode with a guest.",
+            "Record an episode with just you."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Record an episode with a guest."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit the best parts into an episode.",
+            "Ask a friend to be your guest.",
+            "Write five questions for them.",
+            "Record the interview."
+          ],
+          "answer": 1,
+          "explain": "Start with: Ask a friend to be your guest."
+        }
+      ],
+      "project": {
+        "title": "Publish Your First Episode",
+        "brief": "Edit and publish your first episode.",
+        "checks": [
+          "Episode is edited",
+          "Cover art is made",
+          "Description is written",
+          "Episode is published",
+          "Link is shared",
+          "Feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Improve your voice",
+      "goal": "Warm up your voice before you record.",
+      "video": {
+        "youtube_id": "Q8pfZna6H6Q",
+        "title": "How to Start a Podcast - Beginner Podcasting Tutorial",
+        "channel": "Pat Flynn"
+      },
+      "steps": [
+        "Drink water before you record.",
+        "Hum for 30 seconds to warm up.",
+        "Read a paragraph out loud.",
+        "Record a test and listen to your voice."
+      ],
+      "task": "Warm up your voice and record a test.",
+      "challenge": "Record the same paragraph with and without a warm-up.",
+      "quiz": [
+        {
+          "q": "What is a podcast trailer?",
+          "options": [
+            "A short preview that tells new listeners what your show is about",
+            "A full episode",
+            "A type of ad",
+            "A recording tool"
+          ],
+          "answer": 0,
+          "explain": "A trailer is a short preview, usually under two minutes, that sells your show to new listeners."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Improve your voice\"?",
+          "options": [
+            "Use the gear you already own.",
+            "Warm up your voice before you record.",
+            "Tell a story in one episode.",
+            "Celebrate and plan for the next 100."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Warm up your voice before you record."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Drink water before you record.",
+            "Hum for 30 seconds to warm up.",
+            "Read a paragraph out loud.",
+            "Record a test and listen to your voice."
+          ],
+          "answer": 0,
+          "explain": "Start with: Drink water before you record."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Edit like a pro",
+      "goal": "Cut out filler words and pauses.",
+      "video": {
+        "youtube_id": "I0wL1HH3bQ8",
+        "title": "How to Master Voiceover Storytelling: Acting Techniques",
+        "channel": "VO Boss"
+      },
+      "steps": [
+        "Open an episode in your editor.",
+        "Find the ums, ahs, and long pauses.",
+        "Cut them out.",
+        "Listen back. The episode should sound smooth."
+      ],
+      "task": "Cut the filler words out of one episode.",
+      "challenge": "Edit an episode so it is 20 percent shorter.",
+      "quiz": [
+        {
+          "q": "Why should you plan an episode before you record?",
+          "options": [
+            "So you stay on topic and do not ramble",
+            "So the episode is longer",
+            "So the file is bigger",
+            "So the music is louder"
+          ],
+          "answer": 0,
+          "explain": "A plan keeps you on track. It helps you cover your points and finish on time."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit like a pro\"?",
+          "options": [
+            "Cut out filler words and pauses.",
+            "Make a short trailer for your show.",
+            "Pick your best work and say why it works.",
+            "Plan your first episode."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Cut out filler words and pauses."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find the ums, ahs, and long pauses.",
+            "Cut them out.",
+            "Listen back. The episode should sound smooth.",
+            "Open an episode in your editor."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open an episode in your editor."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Add music and sound",
+      "goal": "Add an intro and outro to your show.",
+      "video": {
+        "youtube_id": "tdwhqgiGHfM",
+        "title": "How to Start Voice Acting With No Experience (2026 Guide)",
+        "channel": "VO Journey Academy"
+      },
+      "steps": [
+        "Find free music for podcasts.",
+        "Add 10 seconds of music at the start.",
+        "Add 10 seconds at the end.",
+        "Save the episode with music."
+      ],
+      "task": "Add intro and outro music to your episode.",
+      "challenge": "Make a short intro that says your show name.",
+      "quiz": [
+        {
+          "q": "What is a podcast trailer?",
+          "options": [
+            "A short preview that tells new listeners what your show is about",
+            "A full episode",
+            "A type of ad",
+            "A recording tool"
+          ],
+          "answer": 0,
+          "explain": "A trailer is a short preview, usually under two minutes, that sells your show to new listeners."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add music and sound\"?",
+          "options": [
+            "Plan four episodes for next month.",
+            "Write a simple plan to keep growing.",
+            "Record your first podcast episode.",
+            "Add an intro and outro to your show."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Add an intro and outro to your show."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add 10 seconds at the end.",
+            "Save the episode with music.",
+            "Find free music for podcasts.",
+            "Add 10 seconds of music at the start."
+          ],
+          "answer": 2,
+          "explain": "Start with: Find free music for podcasts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Grow your listeners",
+      "goal": "Get your first ten listeners.",
+      "video": {
+        "youtube_id": "yrjnpv1szHU",
+        "title": "6 Steps to Do Voice Overs Like a Pro (Without Hiring One)",
+        "channel": "Kapwing"
+      },
+      "steps": [
+        "Share your episode with friends and family.",
+        "Ask them to follow your show.",
+        "Share it in one group where it fits.",
+        "Reply to every comment."
+      ],
+      "task": "Get your first ten listeners.",
+      "challenge": "Ask your first ten listeners what episode they want next.",
+      "quiz": [
+        {
+          "q": "Why should you plan an episode before you record?",
+          "options": [
+            "So you stay on topic and do not ramble",
+            "So the episode is longer",
+            "So the file is bigger",
+            "So the music is louder"
+          ],
+          "answer": 0,
+          "explain": "A plan keeps you on track. It helps you cover your points and finish on time."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Grow your listeners\"?",
+          "options": [
+            "Choose what your podcast will be about.",
+            "Edit your episode in a free app.",
+            "Get your first ten listeners.",
+            "Make your voice sound clearer."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Get your first ten listeners."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Reply to every comment.",
+            "Share your episode with friends and family.",
+            "Ask them to follow your show.",
+            "Share it in one group where it fits."
+          ],
+          "answer": 1,
+          "explain": "Start with: Share your episode with friends and family."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Read your numbers",
+      "goal": "Learn what your podcast numbers mean.",
+      "video": {
+        "youtube_id": "AJ_xFlQnLnQ",
+        "title": "How To Record Great Voice-Overs For Your YouTube Videos",
+        "channel": "Promolta"
+      },
+      "steps": [
+        "Open your host dashboard.",
+        "Find your plays and listeners.",
+        "Find which episode has the most plays.",
+        "Write down one thing you learned."
+      ],
+      "task": "Open your numbers and find your best episode.",
+      "challenge": "Write down three things your numbers tell you.",
+      "quiz": [
+        {
+          "q": "What is a podcast trailer?",
+          "options": [
+            "A short preview that tells new listeners what your show is about",
+            "A full episode",
+            "A type of ad",
+            "A recording tool"
+          ],
+          "answer": 0,
+          "explain": "A trailer is a short preview, usually under two minutes, that sells your show to new listeners."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Read your numbers\"?",
+          "options": [
+            "Finish your first episode.",
+            "Learn what your podcast numbers mean.",
+            "Make podcasting a weekly habit.",
+            "Write ten episode ideas."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Learn what your podcast numbers mean."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open your host dashboard.",
+            "Find your plays and listeners.",
+            "Find which episode has the most plays.",
+            "Write down one thing you learned."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open your host dashboard."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Make an episode from feedback",
+      "goal": "Make an episode your listeners asked for.",
+      "video": {
+        "youtube_id": "pABvTWSxOes",
+        "title": "How To Record Great Voice-Overs For Your YouTube Videos",
+        "channel": "Promolta"
+      },
+      "steps": [
+        "Read your comments and find a question.",
+        "Make an episode that answers it.",
+        "Say in the episode that a listener asked for it.",
+        "Publish it and tell that listener."
+      ],
+      "task": "Make an episode that answers a listener question.",
+      "challenge": "Ask your listeners what episode they want next.",
+      "quiz": [
+        {
+          "q": "Why should you plan an episode before you record?",
+          "options": [
+            "So you stay on topic and do not ramble",
+            "So the episode is longer",
+            "So the file is bigger",
+            "So the music is louder"
+          ],
+          "answer": 0,
+          "explain": "A plan keeps you on track. It helps you cover your points and finish on time."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make an episode from feedback\"?",
+          "options": [
+            "Make an episode your listeners asked for.",
+            "Look at what worked this month.",
+            "Make a quiet corner for recording.",
+            "Write a short description for your show."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make an episode your listeners asked for."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make an episode that answers it.",
+            "Say in the episode that a listener asked for it.",
+            "Publish it and tell that listener.",
+            "Read your comments and find a question."
+          ],
+          "answer": 3,
+          "explain": "Start with: Read your comments and find a question."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Record a solo episode",
+      "goal": "Record an episode with just you.",
+      "video": {
+        "youtube_id": "WPni755-Krg",
+        "title": "How To Record Great Voice-Overs For Your YouTube Videos",
+        "channel": "Promolta"
+      },
+      "steps": [
+        "Pick a topic you know well.",
+        "Write three points on paper.",
+        "Record for 15 minutes.",
+        "Edit it and publish it."
+      ],
+      "task": "Record a solo episode.",
+      "challenge": "Record a solo episode about something you learned this week.",
+      "quiz": [
+        {
+          "q": "What is a podcast trailer?",
+          "options": [
+            "A short preview that tells new listeners what your show is about",
+            "A full episode",
+            "A type of ad",
+            "A recording tool"
+          ],
+          "answer": 0,
+          "explain": "A trailer is a short preview, usually under two minutes, that sells your show to new listeners."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Record a solo episode\"?",
+          "options": [
+            "Celebrate and plan for the next 100.",
+            "Use the gear you already own.",
+            "Design cover art for your podcast.",
+            "Record an episode with just you."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Record an episode with just you."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record for 15 minutes.",
+            "Edit it and publish it.",
+            "Pick a topic you know well.",
+            "Write three points on paper."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a topic you know well."
+        }
+      ],
+      "project": {
+        "title": "Make a Trailer",
+        "brief": "Make a short trailer for your show.",
+        "checks": [
+          "Trailer is under 2 minutes",
+          "Show name is said clearly",
+          "Topic is clear",
+          "Intro music is added",
+          "Trailer is published",
+          "Shared with friends"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Record a story episode",
+      "goal": "Tell a story in one episode.",
+      "video": {
+        "youtube_id": "CFXqyl4C1J4",
+        "title": "Top 10 Voice Tips Actors 2023",
+        "channel": "Nick Dunning"
+      },
+      "steps": [
+        "Pick a true story from your life.",
+        "Plan the story: start, middle, end.",
+        "Record it like you are telling a friend.",
+        "Edit it and publish it."
+      ],
+      "task": "Record a story episode.",
+      "challenge": "Tell a story in under 10 minutes.",
+      "quiz": [
+        {
+          "q": "What is a call to action in a podcast?",
+          "options": [
+            "Asking listeners to do something, like follow or share",
+            "The end music",
+            "The episode title",
+            "A guest question"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks listeners to follow, rate, or share your show."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Record a story episode\"?",
+          "options": [
+            "Plan your first episode.",
+            "Pick where your podcast will live.",
+            "Tell a story in one episode.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Tell a story in one episode."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit it and publish it.",
+            "Pick a true story from your life.",
+            "Plan the story: start, middle, end.",
+            "Record it like you are telling a friend."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a true story from your life."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Make a trailer",
+      "goal": "Make a short trailer for your show.",
+      "video": {
+        "youtube_id": "h70RM8kIVeo",
+        "title": "Vocal Warm-Up Exercises for Podcasting and Voice Work",
+        "channel": "Pressbooks"
+      },
+      "steps": [
+        "Write three sentences about your show.",
+        "Record yourself saying them.",
+        "Add your intro music.",
+        "Publish it as your show trailer."
+      ],
+      "task": "Make a 1-minute trailer for your show.",
+      "challenge": "Play your trailer for a friend who has never heard your show.",
+      "quiz": [
+        {
+          "q": "What is a filler word?",
+          "options": [
+            "A word like um or ah that fills a pause while you think",
+            "A word in the show notes",
+            "A word in the title",
+            "A word in the intro music"
+          ],
+          "answer": 0,
+          "explain": "Filler words like um and ah make you sound unsure. Cutting them makes your podcast sound smooth."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a trailer\"?",
+          "options": [
+            "Publish your first episode.",
+            "Make a short trailer for your show.",
+            "Write a simple plan to keep growing.",
+            "Record your first podcast episode."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a short trailer for your show."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write three sentences about your show.",
+            "Record yourself saying them.",
+            "Add your intro music.",
+            "Publish it as your show trailer."
+          ],
+          "answer": 0,
+          "explain": "Start with: Write three sentences about your show."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Plan your next month",
+      "goal": "Plan four episodes for next month.",
+      "video": {
+        "youtube_id": "3wtB-fTd2RE",
+        "title": "Voice Acting Techniques for Clear and Engaging Narration",
+        "channel": "Voiceovers Home"
+      },
+      "steps": [
+        "Pick four episode ideas.",
+        "Write a title for each.",
+        "Pick one day each week to record.",
+        "Write the plan where you can see it."
+      ],
+      "task": "Plan four episodes for next month.",
+      "challenge": "Write a recording schedule for the next four weeks.",
+      "quiz": [
+        {
+          "q": "What is a call to action in a podcast?",
+          "options": [
+            "Asking listeners to do something, like follow or share",
+            "The end music",
+            "The episode title",
+            "A guest question"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks listeners to follow, rate, or share your show."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next month\"?",
+          "options": [
+            "Plan four episodes for next month.",
+            "Choose what your podcast will be about.",
+            "Edit your episode in a free app.",
+            "Plan three episodes on one topic."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Plan four episodes for next month."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write a title for each.",
+            "Pick one day each week to record.",
+            "Write the plan where you can see it.",
+            "Pick four episode ideas."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick four episode ideas."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Improve your sound",
+      "goal": "Make your voice sound clearer.",
+      "video": {
+        "youtube_id": "u_Dy_grN_HY",
+        "title": "Yamaha URX22 Podcast Tutorial | Voice Recording, Editing & BGM Mixing",
+        "channel": "Yamaha"
+      },
+      "steps": [
+        "Record in your quiet corner.",
+        "Speak close to the mic.",
+        "Use a blanket to soften echo.",
+        "Compare with your first episode."
+      ],
+      "task": "Record an episode with clearer sound.",
+      "challenge": "Record the same episode in a noisy room and a quiet room.",
+      "quiz": [
+        {
+          "q": "What is a filler word?",
+          "options": [
+            "A word like um or ah that fills a pause while you think",
+            "A word in the show notes",
+            "A word in the title",
+            "A word in the intro music"
+          ],
+          "answer": 0,
+          "explain": "Filler words like um and ah make you sound unsure. Cutting them makes your podcast sound smooth."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Improve your sound\"?",
+          "options": [
+            "Write ten episode ideas.",
+            "Finish your first episode.",
+            "Record an episode with a guest.",
+            "Make your voice sound clearer."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make your voice sound clearer."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use a blanket to soften echo.",
+            "Compare with your first episode.",
+            "Record in your quiet corner.",
+            "Speak close to the mic."
+          ],
+          "answer": 2,
+          "explain": "Start with: Record in your quiet corner."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Build a routine",
+      "goal": "Make podcasting a weekly habit.",
+      "video": {
+        "youtube_id": "9t6GjlMfRjQ",
+        "title": "Video Podcasting: Complete Guide",
+        "channel": "OnPodium"
+      },
+      "steps": [
+        "Pick one day each week to record.",
+        "Pick one day to edit.",
+        "Pick one day to publish.",
+        "Follow the routine for one month."
+      ],
+      "task": "Write a weekly podcast routine.",
+      "challenge": "Follow your routine for two weeks in a row.",
+      "quiz": [
+        {
+          "q": "What is a call to action in a podcast?",
+          "options": [
+            "Asking listeners to do something, like follow or share",
+            "The end music",
+            "The episode title",
+            "A guest question"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks listeners to follow, rate, or share your show."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build a routine\"?",
+          "options": [
+            "Write a short description for your show.",
+            "Warm up your voice before you record.",
+            "Make podcasting a weekly habit.",
+            "Make a quiet corner for recording."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make podcasting a weekly habit."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Follow the routine for one month.",
+            "Pick one day each week to record.",
+            "Pick one day to edit.",
+            "Pick one day to publish."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick one day each week to record."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Review your show",
+      "goal": "Look at what worked this month.",
+      "video": {
+        "youtube_id": "Q8pfZna6H6Q",
+        "title": "How to Start a Podcast - Beginner Podcasting Tutorial",
+        "channel": "Pat Flynn"
+      },
+      "steps": [
+        "Open your numbers.",
+        "Find your best episode and your worst episode.",
+        "Write down what made the best one work.",
+        "Write one change to make next month."
+      ],
+      "task": "Find your best and worst episodes and write why.",
+      "challenge": "Ask a listener to give you honest feedback.",
+      "quiz": [
+        {
+          "q": "What is a filler word?",
+          "options": [
+            "A word like um or ah that fills a pause while you think",
+            "A word in the show notes",
+            "A word in the title",
+            "A word in the intro music"
+          ],
+          "answer": 0,
+          "explain": "Filler words like um and ah make you sound unsure. Cutting them makes your podcast sound smooth."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your show\"?",
+          "options": [
+            "Cut out filler words and pauses.",
+            "Look at what worked this month.",
+            "Use the gear you already own.",
+            "Design cover art for your podcast."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Look at what worked this month."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open your numbers.",
+            "Find your best episode and your worst episode.",
+            "Write down what made the best one work.",
+            "Write one change to make next month."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open your numbers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Your first 100 listeners",
+      "goal": "Celebrate and plan for the next 100.",
+      "video": {
+        "youtube_id": "I0wL1HH3bQ8",
+        "title": "How to Master Voiceover Storytelling: Acting Techniques",
+        "channel": "VO Boss"
+      },
+      "steps": [
+        "Check your listener count.",
+        "Thank your listeners in an episode.",
+        "Write down what worked best this month.",
+        "Set a goal for next month."
+      ],
+      "task": "Thank your listeners and set a goal for next month.",
+      "challenge": "Write a plan to reach 200 listeners.",
+      "quiz": [
+        {
+          "q": "What is a call to action in a podcast?",
+          "options": [
+            "Asking listeners to do something, like follow or share",
+            "The end music",
+            "The episode title",
+            "A guest question"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks listeners to follow, rate, or share your show."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first 100 listeners\"?",
+          "options": [
+            "Celebrate and plan for the next 100.",
+            "Plan your first episode.",
+            "Pick where your podcast will live.",
+            "Add an intro and outro to your show."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Celebrate and plan for the next 100."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Thank your listeners in an episode.",
+            "Write down what worked best this month.",
+            "Set a goal for next month.",
+            "Check your listener count."
+          ],
+          "answer": 3,
+          "explain": "Start with: Check your listener count."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "tdwhqgiGHfM",
+        "title": "How to Start Voice Acting With No Experience (2026 Guide)",
+        "channel": "VO Journey Academy"
+      },
+      "steps": [
+        "Listen to all the episodes you made this month.",
+        "Pick your best three.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three episodes and write why each one works.",
+      "challenge": "Play your best episode for someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a filler word?",
+          "options": [
+            "A word like um or ah that fills a pause while you think",
+            "A word in the show notes",
+            "A word in the title",
+            "A word in the intro music"
+          ],
+          "answer": 0,
+          "explain": "Filler words like um and ah make you sound unsure. Cutting them makes your podcast sound smooth."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Record your first podcast episode.",
+            "Publish your first episode.",
+            "Get your first ten listeners.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Listen to all the episodes you made this month.",
+            "Pick your best three."
+          ],
+          "answer": 2,
+          "explain": "Start with: Listen to all the episodes you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep growing.",
+      "video": {
+        "youtube_id": "yrjnpv1szHU",
+        "title": "6 Steps to Do Voice Overs Like a Pro (Without Hiring One)",
+        "channel": "Kapwing"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep growing your podcast.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is a call to action in a podcast?",
+          "options": [
+            "Asking listeners to do something, like follow or share",
+            "The end music",
+            "The episode title",
+            "A guest question"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks listeners to follow, rate, or share your show."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Plan three episodes on one topic.",
+            "Learn what your podcast numbers mean.",
+            "Write a simple plan to keep growing.",
+            "Edit your episode in a free app."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep growing."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Launch Your Podcast",
+    "brief": "Launch your podcast with three episodes: an introduction episode, an interview episode, and a solo episode. Each episode has a title, show notes, and cover art.",
+    "checks": [
+      "Show is set up with art and description",
+      "Three episodes are published",
+      "Each episode has a title",
+      "Each episode has show notes",
+      "One episode is an interview",
+      "Trailer is published",
+      "Show is shared with friends"
+    ],
+    "deliverables": [
+      "Three episode files",
+      "Three show notes",
+      "Cover art",
+      "Trailer file",
+      "A list of your next ten episode ideas"
+    ]
+  }
+}

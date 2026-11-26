@@ -1,0 +1,1716 @@
+{
+  "course": {
+    "id": "muscle-building",
+    "title": "Muscle Building",
+    "level": "Beginner",
+    "tagline": "Build muscle with training, food and rest, and track real progress.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "How muscles grow",
+      "goal": "Learn the simple idea behind building muscle.",
+      "video": {
+        "youtube_id": "7fC4az9GGFA",
+        "title": "ULTIMATE beginners guide to building muscle // With FULL gym plan",
+        "channel": "Samuel Jordan Fitness"
+      },
+      "steps": [
+        "Watch the video and write the main idea in one sentence.",
+        "Learn this: muscles grow when you train them hard, then rest and eat well.",
+        "Write down 3 things muscles need: training, protein, sleep.",
+        "Set one small goal for the month."
+      ],
+      "task": "Write 3 things muscles need to grow.",
+      "challenge": "Explain muscle growth to a friend in one sentence.",
+      "quiz": [
+        {
+          "q": "What do muscles need to grow?",
+          "options": [
+            "Only training",
+            "Hard training, protein food and rest",
+            "Only food",
+            "Only sleep"
+          ],
+          "answer": 1,
+          "explain": "Training, protein and rest work together."
+        },
+        {
+          "q": "When do muscles actually grow?",
+          "options": [
+            "Only while lifting",
+            "Never",
+            "During rest, after training",
+            "During the warm-up"
+          ],
+          "answer": 2,
+          "explain": "Training breaks muscle down; rest rebuilds it stronger."
+        },
+        {
+          "q": "What is a good first goal?",
+          "options": [
+            "Train every day with no rest",
+            "Lift 100 kg tomorrow",
+            "Gain 10 kg in a week",
+            "Train 3 times a week for a month"
+          ],
+          "answer": 3,
+          "explain": "Three times a week is a safe, steady start."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Learn the 5 big moves",
+      "goal": "Learn the 5 moves that build the whole body.",
+      "video": {
+        "youtube_id": "xvha67L7kQo",
+        "title": "Beginner Gym Guide: A Complete Step-by-Step Plan to Build Muscle",
+        "channel": "Musclive"
+      },
+      "steps": [
+        "The 5 moves are: squat, push-up, row, hip hinge, plank.",
+        "Try each move once with light effort.",
+        "Write down which move felt hardest.",
+        "Practise the hardest move for 5 minutes."
+      ],
+      "task": "Try all 5 big moves once today.",
+      "challenge": "Name the 5 big moves from memory.",
+      "quiz": [
+        {
+          "q": "What are the 5 big moves?",
+          "options": [
+            "Running, jumping, dancing",
+            "Only arm moves",
+            "Squat, push-up, row, hip hinge, plank",
+            "Only leg moves"
+          ],
+          "answer": 2,
+          "explain": "The five moves cover the whole body."
+        },
+        {
+          "q": "Why learn big moves first?",
+          "options": [
+            "They are fancy",
+            "They are easy to skip",
+            "They do not matter",
+            "They work many muscles at once"
+          ],
+          "answer": 3,
+          "explain": "Big moves build the most strength."
+        },
+        {
+          "q": "What should you do with the hardest move?",
+          "options": [
+            "Practise it slowly and often",
+            "Skip it forever",
+            "Do it fast",
+            "Ignore it"
+          ],
+          "answer": 0,
+          "explain": "Slow practice turns a hard move into an easy one."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "The squat: your leg builder",
+      "goal": "Learn a strong squat with good form.",
+      "video": {
+        "youtube_id": "ixkQaZXVQjs",
+        "title": "The PERFECT Beginner Workout",
+        "channel": "ATHLEAN-X"
+      },
+      "steps": [
+        "Stand with feet a little wider than your hips.",
+        "Push your hips back like sitting in a chair.",
+        "Keep your chest up and knees with your toes.",
+        "Stand up by pressing through your whole foot."
+      ],
+      "task": "Do 3 sets of 8 slow squats.",
+      "challenge": "Hold the bottom of a squat for 3 seconds, 5 times.",
+      "quiz": [
+        {
+          "q": "Where should your knees point?",
+          "options": [
+            "In toward each other",
+            "Out to the sides",
+            "It does not matter",
+            "The same way as your toes"
+          ],
+          "answer": 3,
+          "explain": "Knees following the toes keeps the knee safe."
+        },
+        {
+          "q": "What should your chest do?",
+          "options": [
+            "Stay up tall",
+            "Fold down",
+            "Twist",
+            "Lean far back"
+          ],
+          "answer": 0,
+          "explain": "A tall chest keeps your back safe."
+        },
+        {
+          "q": "How do you stand up?",
+          "options": [
+            "Jump up",
+            "Press through your whole foot",
+            "Pull with your arms",
+            "Lean forward"
+          ],
+          "answer": 1,
+          "explain": "Pressing through the foot gives a strong stand."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "The push-up: your chest builder",
+      "goal": "Learn a push-up that builds chest, shoulders and arms.",
+      "video": {
+        "youtube_id": "lu_BObG6dj8",
+        "title": "How To Build Muscle (Explained In 5 Levels)",
+        "channel": "Jeff Nippard"
+      },
+      "steps": [
+        "Start with a wall push-up, then try a knee push-up.",
+        "Keep your body in one straight line.",
+        "Lower down for 2 seconds, push up in 1 second.",
+        "Breathe out as you push up."
+      ],
+      "task": "Do 3 sets of 5 knee push-ups.",
+      "challenge": "Try one full push-up from your toes.",
+      "quiz": [
+        {
+          "q": "What should your body look like?",
+          "options": [
+            "One straight line from head to knees or toes",
+            "Hips high",
+            "Belly sagging",
+            "Head hanging"
+          ],
+          "answer": 0,
+          "explain": "A straight line keeps the back safe."
+        },
+        {
+          "q": "How fast should you lower down?",
+          "options": [
+            "As fast as you can",
+            "Slowly, about 2 seconds",
+            "In 1 second",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "A slow lower works the muscle more."
+        },
+        {
+          "q": "When should you breathe out?",
+          "options": [
+            "As you lower down",
+            "Never",
+            "As you push up",
+            "Only at the end"
+          ],
+          "answer": 2,
+          "explain": "Breathing out on the push keeps you steady."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "The row: your back builder",
+      "goal": "Learn a row that builds your back and arms.",
+      "video": {
+        "youtube_id": "ybfLiRoOdt4",
+        "title": "How To Lose MORE Fat And KEEP/BUILD Muscle",
+        "channel": "Dr. William Li"
+      },
+      "steps": [
+        "Try a table row: hold a sturdy table edge, pull your chest up.",
+        "Squeeze your shoulder blades together at the top.",
+        "Lower down slowly for 2 seconds.",
+        "Keep your body straight the whole time."
+      ],
+      "task": "Do 3 sets of 8 table rows.",
+      "challenge": "Hold the top of a row for 2 seconds, 5 times.",
+      "quiz": [
+        {
+          "q": "What does a row train?",
+          "options": [
+            "Only your legs",
+            "Your back and arms",
+            "Only your toes",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Rows build the pulling muscles of the back."
+        },
+        {
+          "q": "What should you squeeze at the top?",
+          "options": [
+            "Your toes",
+            "Your neck",
+            "Your shoulder blades together",
+            "Your eyes"
+          ],
+          "answer": 2,
+          "explain": "Squeezing the shoulder blades works the back."
+        },
+        {
+          "q": "How should you lower down?",
+          "options": [
+            "Drop fast",
+            "Let go",
+            "Jump down",
+            "Slowly, for about 2 seconds"
+          ],
+          "answer": 3,
+          "explain": "A slow lower builds more muscle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Protein: food that builds muscle",
+      "goal": "Learn how much protein you need and where to get it.",
+      "video": {
+        "youtube_id": "PKtzFRHcDDw",
+        "title": "Push-up variations for chest growth",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Learn this: aim for protein at every meal.",
+        "List 5 protein foods: eggs, beans, fish, chicken, yoghurt.",
+        "Add one protein food to each meal today.",
+        "Write down what you ate and its protein."
+      ],
+      "task": "Add protein to every meal today.",
+      "challenge": "List 5 protein foods you can buy locally.",
+      "quiz": [
+        {
+          "q": "What does protein do?",
+          "options": [
+            "It gives quick energy only",
+            "It makes you thirsty",
+            "It builds and repairs muscle",
+            "It does nothing"
+          ],
+          "answer": 2,
+          "explain": "Protein is the building material for muscle."
+        },
+        {
+          "q": "When should you eat protein?",
+          "options": [
+            "Once a week",
+            "Only after training",
+            "Never",
+            "At every meal"
+          ],
+          "answer": 3,
+          "explain": "Protein at every meal helps muscles repair all day."
+        },
+        {
+          "q": "What is a cheap protein food?",
+          "options": [
+            "Eggs or beans",
+            "Sweets",
+            "Sugary drinks",
+            "White bread"
+          ],
+          "answer": 0,
+          "explain": "Eggs and beans are cheap and full of protein."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your first full-body workout",
+      "goal": "Put week 1 together: build your first full-body muscle workout.",
+      "video": {
+        "youtube_id": "PC56SMOML_k",
+        "title": "Follow-along leg workout with dumbbells",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Pick 5 moves: squat, push-up, row, hip hinge, plank.",
+        "Write 2 sets of 8 to 10 reps for each move.",
+        "Add a warm-up at the start.",
+        "Do the workout and write down your numbers."
+      ],
+      "task": "Do your full-body workout and record your reps.",
+      "challenge": "Do the workout again in 2 days.",
+      "quiz": [
+        {
+          "q": "What should a full-body workout have?",
+          "options": [
+            "Only arm moves",
+            "Only running",
+            "Only stretching",
+            "Moves for legs, push, pull and core"
+          ],
+          "answer": 3,
+          "explain": "A full-body workout trains everything."
+        },
+        {
+          "q": "How many sets suit a beginner?",
+          "options": [
+            "Two sets of each move",
+            "Ten sets",
+            "No sets",
+            "One set of 100"
+          ],
+          "answer": 0,
+          "explain": "Two sets is enough to learn and grow."
+        },
+        {
+          "q": "What should you write down?",
+          "options": [
+            "Nothing",
+            "Your reps for each move",
+            "Only the date",
+            "Only your name"
+          ],
+          "answer": 1,
+          "explain": "Written reps show your progress."
+        }
+      ],
+      "project": {
+        "title": "Your first full-body workout",
+        "brief": "Build your first full-body muscle workout with the 5 big moves, 2 sets of each, a warm-up, and record your reps.",
+        "checks": [
+          "Workout has the 5 big moves",
+          "Workout has 2 sets of each",
+          "Workout has a warm-up",
+          "Did the whole workout",
+          "Recorded reps",
+          "Wrote how it felt"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Rest days build muscle",
+      "goal": "Learn why rest is when muscles grow.",
+      "video": {
+        "youtube_id": "jVeu7W0uTgg",
+        "title": "10 MIN FULL BODY WORKOUT 🔥 For Beginners | No Equipment",
+        "channel": "My Fit Routine"
+      },
+      "steps": [
+        "Train 3 days this week and rest on the other days.",
+        "On rest days, walk gently or stretch.",
+        "Sleep 7 to 9 hours each night.",
+        "Write down how your muscles feel after rest."
+      ],
+      "task": "Take a rest day today and walk for 10 minutes.",
+      "challenge": "Sleep 8 hours tonight.",
+      "quiz": [
+        {
+          "q": "When do muscles grow?",
+          "options": [
+            "During rest, after training",
+            "Only while lifting",
+            "Never",
+            "During the warm-up"
+          ],
+          "answer": 0,
+          "explain": "Rest is when the body repairs and builds muscle."
+        },
+        {
+          "q": "How many rest days should a beginner have?",
+          "options": [
+            "No rest days",
+            "At least 2 to 3 days a week",
+            "One a month",
+            "Rest only when hurt"
+          ],
+          "answer": 1,
+          "explain": "Rest days let muscles repair."
+        },
+        {
+          "q": "What should you do on a rest day?",
+          "options": [
+            "Train hard",
+            "Sit all day",
+            "Walk gently or stretch",
+            "Eat nothing"
+          ],
+          "answer": 2,
+          "explain": "Gentle movement helps recovery."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Progressive overload, simply",
+      "goal": "Learn the key rule: do a little more over time.",
+      "video": {
+        "youtube_id": "CLsHz6BW-DE",
+        "title": "HWC Beginner Hypertrophy",
+        "channel": "TrainHeroic"
+      },
+      "steps": [
+        "Progressive overload means adding a little more each week.",
+        "Add 1 rep to one move this week.",
+        "Add 1 set to another move next week.",
+        "Write down your numbers so you can see the adds."
+      ],
+      "task": "Add 1 rep to your squats today.",
+      "challenge": "Add 1 rep to every move this week.",
+      "quiz": [
+        {
+          "q": "What is progressive overload?",
+          "options": [
+            "Doing the same forever",
+            "Doing a little more over time",
+            "Doing less each week",
+            "Quitting"
+          ],
+          "answer": 1,
+          "explain": "Small adds over time build muscle."
+        },
+        {
+          "q": "How much should you add each week?",
+          "options": [
+            "Double everything",
+            "Nothing",
+            "A little: 1 rep or 1 set",
+            "As much as possible"
+          ],
+          "answer": 2,
+          "explain": "Small adds are safe and steady."
+        },
+        {
+          "q": "Why write your numbers down?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "So you know what to add next"
+          ],
+          "answer": 3,
+          "explain": "Written numbers guide your progress."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Train your legs: lunges and hinges",
+      "goal": "Add lunges and hip hinges for stronger legs.",
+      "video": {
+        "youtube_id": "zPmkLSNLNR4",
+        "title": "How to Build Muscle as a Beginner | Complete Gym Guide",
+        "channel": "Kaifit Nation"
+      },
+      "steps": [
+        "Try a lunge: step forward, bend both knees, step back.",
+        "Try a hip hinge: push hips back, keep back flat, stand up.",
+        "Do 6 lunges per leg and 10 hip hinges.",
+        "Keep your back flat during the hinge."
+      ],
+      "task": "Do 3 sets of 6 lunges per leg.",
+      "challenge": "Do 10 hip hinges with a flat back.",
+      "quiz": [
+        {
+          "q": "What is a hip hinge?",
+          "options": [
+            "A jump",
+            "A run",
+            "Pushing your hips back with a flat back",
+            "A dance"
+          ],
+          "answer": 2,
+          "explain": "A hinge trains the back of the legs."
+        },
+        {
+          "q": "What should your back do in a hinge?",
+          "options": [
+            "Round over",
+            "Arch hard",
+            "Twist",
+            "Stay flat, not rounded"
+          ],
+          "answer": 3,
+          "explain": "A flat back keeps the hinge safe."
+        },
+        {
+          "q": "What do lunges train?",
+          "options": [
+            "Legs and balance",
+            "Only the arms",
+            "Only the neck",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Lunges build leg strength and balance."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Train your shoulders",
+      "goal": "Learn safe shoulder moves for a strong upper body.",
+      "video": {
+        "youtube_id": "JPxxkZmOjJ4",
+        "title": "How to build an amazing physique",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Try a pike push-up: hips high, bend elbows, push up.",
+        "Try a light dumbbell press if you have weights.",
+        "Do 2 sets of 8 reps.",
+        "Keep your neck relaxed and breathe normally."
+      ],
+      "task": "Do 2 sets of 8 pike push-ups.",
+      "challenge": "Hold a plank for 20 seconds, 3 times.",
+      "quiz": [
+        {
+          "q": "What is a pike push-up?",
+          "options": [
+            "A jump",
+            "A run",
+            "A dance",
+            "A push-up with hips high in the air"
+          ],
+          "answer": 3,
+          "explain": "A pike push-up trains the shoulders."
+        },
+        {
+          "q": "What should your neck do?",
+          "options": [
+            "Stay relaxed, not crunched",
+            "Crunch up",
+            "Drop down",
+            "Twist"
+          ],
+          "answer": 0,
+          "explain": "A relaxed neck keeps the move safe."
+        },
+        {
+          "q": "How many sets suit a beginner?",
+          "options": [
+            "Ten sets",
+            "Two sets",
+            "No sets",
+            "One set of 100"
+          ],
+          "answer": 1,
+          "explain": "Two sets is enough to learn."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Eat to build muscle",
+      "goal": "Learn how to eat a little more to grow.",
+      "video": {
+        "youtube_id": "R_57W9iCB0U",
+        "title": "Push-ups for chest growth",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "To build muscle, eat a little more than usual.",
+        "Add one extra healthy snack a day.",
+        "Eat protein at every meal.",
+        "Drink water through the day."
+      ],
+      "task": "Add one healthy snack today.",
+      "challenge": "Eat protein at every meal this week.",
+      "quiz": [
+        {
+          "q": "Why eat a little more to build muscle?",
+          "options": [
+            "Muscles need extra energy to grow",
+            "Food does not matter",
+            "Eating more makes you fat only",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "A small extra gives the body fuel to build."
+        },
+        {
+          "q": "What is a good muscle snack?",
+          "options": [
+            "Sweets",
+            "Yoghurt, eggs or nuts",
+            "Sugary drinks",
+            "Crisps"
+          ],
+          "answer": 1,
+          "explain": "Protein snacks help muscles repair."
+        },
+        {
+          "q": "Why drink water?",
+          "options": [
+            "It does nothing",
+            "It makes you weak",
+            "Water helps muscles work and recover",
+            "You never need it"
+          ],
+          "answer": 2,
+          "explain": "Water keeps muscles working well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Track your progress",
+      "goal": "Learn to track reps, weight and body size.",
+      "video": {
+        "youtube_id": "fp4c76SAFGo",
+        "title": "The Ultimate No-Gym Workout for Skinny Guys (Build Muscle at Home)",
+        "channel": "The Strength Code"
+      },
+      "steps": [
+        "Write down your reps for every move this week.",
+        "Measure your arms and chest with a tape.",
+        "Take a photo of yourself from the front.",
+        "Compare your numbers with last week."
+      ],
+      "task": "Record your reps and measurements today.",
+      "challenge": "Compare with last week's numbers.",
+      "quiz": [
+        {
+          "q": "Why track your reps?",
+          "options": [
+            "To fill paper",
+            "So you know when to add more",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "Tracking shows real progress."
+        },
+        {
+          "q": "What should you measure besides reps?",
+          "options": [
+            "Shoe size",
+            "Height",
+            "Arm and chest size",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Body measures show muscle growth."
+        },
+        {
+          "q": "How often should you compare?",
+          "options": [
+            "Every hour",
+            "Once a year",
+            "Never",
+            "Every week"
+          ],
+          "answer": 3,
+          "explain": "Weekly checks show the trend."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your 4-day split",
+      "goal": "Put week 2 together: split your training across 4 days.",
+      "video": {
+        "youtube_id": "40hOgeO-RaA",
+        "title": "Beginner Workout - Start Here If You Haven't Exercised in Years (Women Over 40)",
+        "channel": "Christine Hall Coaching"
+      },
+      "steps": [
+        "Day 1: legs. Day 2: push. Day 3: rest. Day 4: pull. Day 5: legs and core.",
+        "Write 3 moves for each day.",
+        "Do the split this week.",
+        "Write down your numbers each day."
+      ],
+      "task": "Write your 4-day split and start it.",
+      "challenge": "Finish all 4 training days this week.",
+      "quiz": [
+        {
+          "q": "What is a split?",
+          "options": [
+            "One workout only",
+            "A rest day",
+            "Training different body parts on different days",
+            "A type of food"
+          ],
+          "answer": 2,
+          "explain": "A split spreads work across the week."
+        },
+        {
+          "q": "Why split training?",
+          "options": [
+            "It is fancy",
+            "It is not needed",
+            "It makes you weaker",
+            "Each part gets full effort and rest"
+          ],
+          "answer": 3,
+          "explain": "Splits let each muscle work hard then rest."
+        },
+        {
+          "q": "How many moves per day suit a beginner?",
+          "options": [
+            "About 3 moves",
+            "20 moves",
+            "1 move",
+            "No moves"
+          ],
+          "answer": 0,
+          "explain": "Three moves is enough for a good session."
+        }
+      ],
+      "project": {
+        "title": "Your 4-day split",
+        "brief": "Split training across 4 days: legs, push, pull, legs and core, with 3 moves per day, and record your numbers.",
+        "checks": [
+          "Split has 4 training days",
+          "Each day has 3 moves",
+          "Rest days are included",
+          "Did all 4 days",
+          "Recorded numbers",
+          "Wrote what was hard"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Train your arms",
+      "goal": "Learn simple arm moves for bigger arms.",
+      "video": {
+        "youtube_id": "nbNwdIs-D_k",
+        "title": "The Foundational Beginner Workout Plan to Build Muscle - Day One: Legs and Intervals",
+        "channel": "Human Fit Project"
+      },
+      "steps": [
+        "Try a chair dip for the back of the arms.",
+        "Try a dumbbell curl if you have weights, or a water bottle curl.",
+        "Do 2 sets of 10 reps of each.",
+        "Move slowly and squeeze at the top."
+      ],
+      "task": "Do 2 sets of 10 chair dips and 10 curls.",
+      "challenge": "Hold a curl at the top for 2 seconds.",
+      "quiz": [
+        {
+          "q": "What is a chair dip?",
+          "options": [
+            "A jump",
+            "Sitting down",
+            "A dance",
+            "Hands on a chair, bend elbows to lower the body"
+          ],
+          "answer": 3,
+          "explain": "A chair dip trains the back of the arms."
+        },
+        {
+          "q": "What is a curl?",
+          "options": [
+            "Bending the elbow to lift a weight to the shoulder",
+            "A jump",
+            "A run",
+            "A stretch"
+          ],
+          "answer": 0,
+          "explain": "A curl trains the front of the arms."
+        },
+        {
+          "q": "How should you lift a curl?",
+          "options": [
+            "As fast as you can",
+            "Slowly, with a squeeze at the top",
+            "With a swing",
+            "Without breathing"
+          ],
+          "answer": 1,
+          "explain": "Slow curls work the muscle more."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Train your chest more",
+      "goal": "Add push-up versions to grow your chest.",
+      "video": {
+        "youtube_id": "GZFHzZSmTlA",
+        "title": "The Foundational Beginner Workout Plan to Build Muscle - Day Two: Shoulders and Abs",
+        "channel": "Human Fit Project"
+      },
+      "steps": [
+        "Try a wide push-up: hands wider than shoulders.",
+        "Try an incline push-up: hands on a table.",
+        "Do 2 sets of 8 reps of each.",
+        "Keep your body straight the whole time."
+      ],
+      "task": "Do 2 sets of 8 wide push-ups.",
+      "challenge": "Do 2 sets of 8 incline push-ups.",
+      "quiz": [
+        {
+          "q": "What does a wide push-up train?",
+          "options": [
+            "Chest, shoulders and arms",
+            "Only the legs",
+            "Only the toes",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Wide push-ups work the chest more."
+        },
+        {
+          "q": "What is an incline push-up?",
+          "options": [
+            "A jump",
+            "Hands on a raised surface like a table",
+            "A run",
+            "A handstand"
+          ],
+          "answer": 1,
+          "explain": "Incline push-ups are easier and build strength."
+        },
+        {
+          "q": "What should your body do in a push-up?",
+          "options": [
+            "Sag down",
+            "Hips high",
+            "Stay in one straight line",
+            "Head hanging"
+          ],
+          "answer": 2,
+          "explain": "A straight line keeps the push-up safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Train your back more",
+      "goal": "Add row versions to grow your back.",
+      "video": {
+        "youtube_id": "_EFlrkhuXxU",
+        "title": "The Foundational Beginner Workout Plan to Build Muscle - Day Three: Chest and Triceps",
+        "channel": "Human Fit Project"
+      },
+      "steps": [
+        "Try a one-arm row with a water bottle or dumbbell.",
+        "Pull the weight to your hip, squeeze, lower slowly.",
+        "Do 2 sets of 10 reps per arm.",
+        "Keep your back flat the whole time."
+      ],
+      "task": "Do 2 sets of 10 one-arm rows per arm.",
+      "challenge": "Hold the top of a row for 2 seconds.",
+      "quiz": [
+        {
+          "q": "What is a one-arm row?",
+          "options": [
+            "A jump",
+            "Pulling a weight to your hip with one arm",
+            "A run",
+            "A stretch"
+          ],
+          "answer": 1,
+          "explain": "A one-arm row trains the back and arms."
+        },
+        {
+          "q": "Where should you pull the weight?",
+          "options": [
+            "To your head",
+            "To your toes",
+            "To your hip",
+            "Behind your back"
+          ],
+          "answer": 2,
+          "explain": "Pulling to the hip works the back best."
+        },
+        {
+          "q": "What should your back do?",
+          "options": [
+            "Round over",
+            "Arch hard",
+            "Twist",
+            "Stay flat"
+          ],
+          "answer": 3,
+          "explain": "A flat back keeps the row safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Sleep for muscle growth",
+      "goal": "Learn why sleep is a muscle builder.",
+      "video": {
+        "youtube_id": "84ACKKZp6yw",
+        "title": "The Foundational Beginner Workout Plan to Build Muscle - Day Four: Back and Biceps",
+        "channel": "Human Fit Project"
+      },
+      "steps": [
+        "Sleep 7 to 9 hours tonight.",
+        "Go to bed at the same time each night.",
+        "Keep your room dark and cool.",
+        "Write down how strong you felt after good sleep."
+      ],
+      "task": "Sleep 8 hours tonight.",
+      "challenge": "Keep the same bedtime for 3 nights.",
+      "quiz": [
+        {
+          "q": "Why does sleep build muscle?",
+          "options": [
+            "Sleep does nothing",
+            "Sleep makes you weak",
+            "The body repairs muscle while you sleep",
+            "Sleep is only rest"
+          ],
+          "answer": 2,
+          "explain": "Deep sleep is when repair happens."
+        },
+        {
+          "q": "How much sleep should you aim for?",
+          "options": [
+            "3 hours",
+            "12 hours",
+            "No sleep",
+            "7 to 9 hours"
+          ],
+          "answer": 3,
+          "explain": "Seven to nine hours helps muscle repair."
+        },
+        {
+          "q": "What helps you sleep well?",
+          "options": [
+            "A dark, cool room and a set bedtime",
+            "Bright lights",
+            "Loud noise",
+            "Coffee at night"
+          ],
+          "answer": 0,
+          "explain": "A dark, cool room helps deep sleep."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Fix your form: common mistakes",
+      "goal": "Learn the 3 most common muscle-building mistakes.",
+      "video": {
+        "youtube_id": "7fC4az9GGFA",
+        "title": "ULTIMATE beginners guide to building muscle // With FULL gym plan",
+        "channel": "Samuel Jordan Fitness"
+      },
+      "steps": [
+        "Mistake 1: lifting too heavy with bad form. Fix: go lighter.",
+        "Mistake 2: rushing reps. Fix: slow down to 2 seconds.",
+        "Mistake 3: skipping legs. Fix: train legs every week.",
+        "Pick one mistake and fix it today."
+      ],
+      "task": "Pick one mistake and fix it today.",
+      "challenge": "Teach a friend the 3 mistakes.",
+      "quiz": [
+        {
+          "q": "Why is lifting too heavy a mistake?",
+          "options": [
+            "Heavy is always better",
+            "It is not a mistake",
+            "It builds muscle faster",
+            "Bad form can hurt you and works the wrong muscles"
+          ],
+          "answer": 3,
+          "explain": "Lighter weight with good form builds more."
+        },
+        {
+          "q": "Why slow down your reps?",
+          "options": [
+            "Slow reps work the muscle more",
+            "Slow is boring",
+            "Slow is wrong",
+            "Slow wastes time"
+          ],
+          "answer": 0,
+          "explain": "Slow, controlled reps build strength safely."
+        },
+        {
+          "q": "Why never skip legs?",
+          "options": [
+            "Legs do not matter",
+            "Legs are half your body and drive growth",
+            "Legs are ugly",
+            "It is fine to skip"
+          ],
+          "answer": 1,
+          "explain": "Training legs builds the whole body."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Build a home gym, cheap",
+      "goal": "Learn the few tools that build muscle at home.",
+      "video": {
+        "youtube_id": "xvha67L7kQo",
+        "title": "Beginner Gym Guide: A Complete Step-by-Step Plan to Build Muscle",
+        "channel": "Musclive"
+      },
+      "steps": [
+        "You need: a mat, water bottles or dumbbells, a sturdy chair.",
+        "A backpack with books works as a weight.",
+        "A resistance band adds pull to moves.",
+        "Write your home gym list and gather the tools."
+      ],
+      "task": "Gather your home gym tools today.",
+      "challenge": "Try a backpack squat with books inside.",
+      "quiz": [
+        {
+          "q": "What do you need for a home gym?",
+          "options": [
+            "A mat, weights and a sturdy chair",
+            "A full gym",
+            "Nothing",
+            "Only machines"
+          ],
+          "answer": 0,
+          "explain": "Simple tools are enough to build muscle."
+        },
+        {
+          "q": "What can a backpack do?",
+          "options": [
+            "Nothing",
+            "Work as a weight for squats",
+            "Only carry books",
+            "Replace food"
+          ],
+          "answer": 1,
+          "explain": "A heavy backpack adds load to moves."
+        },
+        {
+          "q": "What does a resistance band do?",
+          "options": [
+            "Nothing",
+            "Holds your hair",
+            "Adds pull to make moves harder",
+            "Replaces water"
+          ],
+          "answer": 2,
+          "explain": "A band adds resistance to any move."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your 4-week muscle plan",
+      "goal": "Put week 3 together: write a 4-week muscle plan.",
+      "video": {
+        "youtube_id": "ixkQaZXVQjs",
+        "title": "The PERFECT Beginner Workout",
+        "channel": "ATHLEAN-X"
+      },
+      "steps": [
+        "Write 4 weeks of training: 3 to 4 days a week.",
+        "Make each week a little harder: add 1 rep or 1 set.",
+        "Add protein notes and sleep notes to the plan.",
+        "Start week 1 of your plan."
+      ],
+      "task": "Write your 4-week plan.",
+      "challenge": "Start week 1 today.",
+      "quiz": [
+        {
+          "q": "How often should you train?",
+          "options": [
+            "Every day",
+            "3 to 4 times a week",
+            "Once a month",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Three to four times gives growth and rest."
+        },
+        {
+          "q": "How do you make each week harder?",
+          "options": [
+            "Double everything",
+            "Change all moves",
+            "Add 1 rep or 1 set",
+            "Make it shorter"
+          ],
+          "answer": 2,
+          "explain": "Small adds keep progress safe."
+        },
+        {
+          "q": "What else should your plan have?",
+          "options": [
+            "Nothing",
+            "Only pictures",
+            "Only prices",
+            "Protein and sleep notes"
+          ],
+          "answer": 3,
+          "explain": "Food and sleep are part of muscle growth."
+        }
+      ],
+      "project": {
+        "title": "Your 4-week muscle plan",
+        "brief": "Write a 4-week muscle plan with 3 to 4 training days a week, small weekly progress, protein notes and sleep notes.",
+        "checks": [
+          "Plan has 4 weeks",
+          "Each week is a little harder",
+          "Training is 3 to 4 days a week",
+          "Protein notes included",
+          "Sleep notes included",
+          "Started week 1"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Test your strength",
+      "goal": "Test how much stronger you have become.",
+      "video": {
+        "youtube_id": "lu_BObG6dj8",
+        "title": "How To Build Muscle (Explained In 5 Levels)",
+        "channel": "Jeff Nippard"
+      },
+      "steps": [
+        "Count your max squats with good form.",
+        "Count your max push-ups with good form.",
+        "Time your longest plank.",
+        "Write all three numbers down."
+      ],
+      "task": "Record your 3 test numbers today.",
+      "challenge": "Beat one number next week.",
+      "quiz": [
+        {
+          "q": "Why test your strength?",
+          "options": [
+            "To show off",
+            "It is not needed",
+            "To see how much you have grown",
+            "To make you tired"
+          ],
+          "answer": 2,
+          "explain": "Tests show progress in numbers."
+        },
+        {
+          "q": "What matters most in a test?",
+          "options": [
+            "Speed",
+            "Doing the most reps badly",
+            "Skipping rest",
+            "Good form"
+          ],
+          "answer": 3,
+          "explain": "Good form shows true strength."
+        },
+        {
+          "q": "How often should you test?",
+          "options": [
+            "Every 2 to 4 weeks",
+            "Every day",
+            "Once a year",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "A few weeks apart shows real change."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Deload: train lighter for a week",
+      "goal": "Learn what a deload is and why it helps.",
+      "video": {
+        "youtube_id": "ybfLiRoOdt4",
+        "title": "How To Lose MORE Fat And KEEP/BUILD Muscle",
+        "channel": "Dr. William Li"
+      },
+      "steps": [
+        "A deload means training lighter for one week.",
+        "Do half the sets and lighter weights this week.",
+        "Focus on perfect form.",
+        "Notice how fresh you feel after."
+      ],
+      "task": "Do a light week: half the sets, perfect form.",
+      "challenge": "Write down how you felt after the light week.",
+      "quiz": [
+        {
+          "q": "What is a deload?",
+          "options": [
+            "Quitting",
+            "A holiday",
+            "A test",
+            "A lighter training week to recover"
+          ],
+          "answer": 3,
+          "explain": "A deload lets the body catch up and recover."
+        },
+        {
+          "q": "Why train lighter sometimes?",
+          "options": [
+            "It lets tired muscles fully recover",
+            "It makes you weak",
+            "It is a waste",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "Light weeks prevent burnout and injury."
+        },
+        {
+          "q": "What should you focus on during a deload?",
+          "options": [
+            "Heavy weights",
+            "Perfect form",
+            "Speed",
+            "Skipping workouts"
+          ],
+          "answer": 1,
+          "explain": "Form work during a light week pays off later."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Eat for your goal: bulk or lean",
+      "goal": "Learn the difference between building size and staying lean.",
+      "video": {
+        "youtube_id": "PKtzFRHcDDw",
+        "title": "Push-up variations for chest growth",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "To gain size, eat a little more. To stay lean, eat a little less.",
+        "Pick your goal and write it down.",
+        "Adjust one snack up or down to match your goal.",
+        "Check your weight once a week."
+      ],
+      "task": "Write your goal: gain size or stay lean.",
+      "challenge": "Adjust one snack to match your goal.",
+      "quiz": [
+        {
+          "q": "What does bulking mean?",
+          "options": [
+            "Eating a little more to gain size",
+            "Eating nothing",
+            "Only lifting",
+            "Quitting"
+          ],
+          "answer": 0,
+          "explain": "Bulking means a small food extra to grow."
+        },
+        {
+          "q": "What does staying lean mean?",
+          "options": [
+            "Starving",
+            "Keeping body fat low while building muscle",
+            "Only running",
+            "Never eating"
+          ],
+          "answer": 1,
+          "explain": "Lean means muscle with little extra fat."
+        },
+        {
+          "q": "How often should you check your weight?",
+          "options": [
+            "Every hour",
+            "Once a year",
+            "Once a week",
+            "Never"
+          ],
+          "answer": 2,
+          "explain": "Weekly checks show the trend."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Stay consistent: the real secret",
+      "goal": "Learn why showing up beats perfect workouts.",
+      "video": {
+        "youtube_id": "PC56SMOML_k",
+        "title": "Follow-along leg workout with dumbbells",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Train 3 times this week, even if short.",
+        "If you miss a day, do a 10-minute version.",
+        "Tick off each workout on your calendar.",
+        "Write down one reason you keep going."
+      ],
+      "task": "Tick off all 3 workouts this week.",
+      "challenge": "Do a 10-minute workout on a busy day.",
+      "quiz": [
+        {
+          "q": "What matters most for muscle growth?",
+          "options": [
+            "One perfect workout",
+            "Showing up regularly",
+            "Expensive gear",
+            "The best gym"
+          ],
+          "answer": 1,
+          "explain": "Regular training beats rare perfect sessions."
+        },
+        {
+          "q": "What should you do if you miss a day?",
+          "options": [
+            "Quit the week",
+            "Train twice as hard",
+            "Do a short 10-minute version",
+            "Skip the whole month"
+          ],
+          "answer": 2,
+          "explain": "A short session keeps the habit alive."
+        },
+        {
+          "q": "Why tick off workouts?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "Seeing ticks keeps you going"
+          ],
+          "answer": 3,
+          "explain": "Ticks show your streak and keep you proud."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Train with a partner",
+      "goal": "Work out with a friend and help each other.",
+      "video": {
+        "youtube_id": "jVeu7W0uTgg",
+        "title": "10 MIN FULL BODY WORKOUT 🔥 For Beginners | No Equipment",
+        "channel": "My Fit Routine"
+      },
+      "steps": [
+        "Invite a friend to train with you.",
+        "Take turns watching form.",
+        "Cheer each other on after each set.",
+        "Write down what your partner did well."
+      ],
+      "task": "Train with a friend this week.",
+      "challenge": "Teach your friend your favourite move.",
+      "quiz": [
+        {
+          "q": "Why train with a partner?",
+          "options": [
+            "It is slower",
+            "It is not useful",
+            "Partners keep you going and make it fun",
+            "It makes you weaker"
+          ],
+          "answer": 2,
+          "explain": "A partner adds fun and keeps you honest."
+        },
+        {
+          "q": "What should you watch in a partner's form?",
+          "options": [
+            "Their clothes",
+            "Their speed",
+            "Their phone",
+            "Back, knees and straight body"
+          ],
+          "answer": 3,
+          "explain": "Watching form keeps your partner safe."
+        },
+        {
+          "q": "What should you say after a set?",
+          "options": [
+            "Kind words about what went well",
+            "Nothing",
+            "Only what was wrong",
+            "A joke"
+          ],
+          "answer": 0,
+          "explain": "Kind words keep a partner coming back."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Eat enough: calories, simply",
+      "goal": "Learn how much food you need to build muscle.",
+      "video": {
+        "youtube_id": "CLsHz6BW-DE",
+        "title": "HWC Beginner Hypertrophy",
+        "channel": "TrainHeroic"
+      },
+      "steps": [
+        "Eat 3 meals plus a snack each day.",
+        "Add a palm-sized protein food to each meal.",
+        "Add carbs like rice or yam for energy.",
+        "Drink water with your meals.",
+        "If you are not gaining, add a little more food each week.",
+        "Weigh yourself once a week."
+      ],
+      "task": "Add one extra protein food to each meal today.",
+      "challenge": "Eat 3 full meals every day this week.",
+      "quiz": [
+        {
+          "q": "Why do you need extra food to build muscle?",
+          "options": [
+            "Food does not matter",
+            "Muscles grow without food",
+            "It is a myth",
+            "Muscles need fuel and protein to grow"
+          ],
+          "answer": 3,
+          "explain": "Muscle is built from the food you eat."
+        },
+        {
+          "q": "How much protein should a meal have?",
+          "options": [
+            "About a palm-sized portion",
+            "A tiny bite",
+            "A whole chicken",
+            "None"
+          ],
+          "answer": 0,
+          "explain": "A palm-sized portion is a good guide for most people."
+        },
+        {
+          "q": "How often should you weigh yourself?",
+          "options": [
+            "Every hour",
+            "Once a week",
+            "Once a year",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Once a week shows real change without daily noise."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final project.",
+      "video": {
+        "youtube_id": "zPmkLSNLNR4",
+        "title": "How to Build Muscle as a Beginner | Complete Gym Guide",
+        "channel": "Kaifit Nation"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 moves you can now do well.",
+        "Practise your capstone workout once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 moves you can do well now.",
+      "challenge": "Do your capstone workout from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final project that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new gym"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own weights",
+            "You can do a full workout safely from memory",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "A full workout done well shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "JPxxkZmOjJ4",
+        "title": "How to build an amazing physique",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Do your capstone workout one more time.",
+        "Time each part and check your form.",
+        "Fix anything that felt rushed.",
+        "Rest well tonight and eat protein."
+      ],
+      "task": "Run your capstone workout and time each part.",
+      "challenge": "Fix one thing that felt rushed.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your shoes",
+            "Your form, your timing and your breathing",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking form and timing makes it smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Train hard all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well and eat protein"
+          ],
+          "answer": 3,
+          "explain": "Good rest and food help you perform best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: your muscle workout",
+      "goal": "Show what you learned: do your full muscle workout with good form.",
+      "video": {
+        "youtube_id": "R_57W9iCB0U",
+        "title": "Push-ups for chest growth",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Warm up for 5 minutes.",
+        "Do your full workout: 5 moves, good form, steady breathing.",
+        "Cool down and stretch for 5 minutes.",
+        "Write a short report: what you did and how it felt."
+      ],
+      "task": "Complete your capstone workout and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What is the first step of your capstone?",
+          "options": [
+            "A heavy lift",
+            "A sprint",
+            "A 5-minute warm-up",
+            "No warm-up"
+          ],
+          "answer": 2,
+          "explain": "A warm-up gets the body ready and safe."
+        },
+        {
+          "q": "What matters most in the capstone?",
+          "options": [
+            "Going as fast as you can",
+            "Lifting the most weight",
+            "Skipping rest",
+            "Good form and steady breathing"
+          ],
+          "answer": 3,
+          "explain": "Good form and breathing show real skill."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and how it felt",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your full muscle workout",
+    "brief": "Perform your own full muscle-building workout from start to finish: warm-up, 5 moves with good form, cool-down, and a short written report.",
+    "checks": [
+      "Warmed up for 5 minutes",
+      "Did all 5 moves with good form",
+      "Used progressive overload",
+      "Breathed steadily",
+      "Cooled down and stretched",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A written workout plan",
+      "A 4-week muscle plan",
+      "A list of your test numbers",
+      "A short video or notes from the workout",
+      "A written report"
+    ]
+  }
+}

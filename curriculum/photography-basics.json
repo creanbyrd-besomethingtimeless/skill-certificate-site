@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "photography-basics",
+    "title": "Photography Basics",
+    "level": "Beginner",
+    "tagline": "Take sharp, well-lit photos with any camera, from settings and light to editing and sharing.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet your camera",
+      "goal": "Learn the main parts of your camera.",
+      "video": {
+        "youtube_id": "NeuXOgHncCQ",
+        "title": "The Art of Drawing with Light",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Pick up your camera or phone camera.",
+        "Find the lens, the shutter button, and the screen.",
+        "Find the mode dial or mode menu.",
+        "Take one photo and look at it on the screen."
+      ],
+      "task": "Take a photo and find the lens, shutter button, and screen on your camera.",
+      "challenge": "Take ten photos of one thing from different spots.",
+      "quiz": [
+        {
+          "q": "What is the exposure triangle?",
+          "options": [
+            "ISO, aperture, and shutter speed, the three settings that control light",
+            "Three kinds of cameras",
+            "Three kinds of lenses",
+            "Three photo apps"
+          ],
+          "answer": 0,
+          "explain": "ISO, aperture and shutter speed work together to control how much light reaches your photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet your camera\"?",
+          "options": [
+            "Place your subject off the middle for a better photo.",
+            "Take a set of ten photos on one theme.",
+            "Crop photos to make them stronger.",
+            "Learn the main parts of your camera."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Learn the main parts of your camera."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find the mode dial or mode menu.",
+            "Take one photo and look at it on the screen.",
+            "Pick up your camera or phone camera.",
+            "Find the lens, the shutter button, and the screen."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick up your camera or phone camera."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "How light works",
+      "goal": "See how light changes a photo.",
+      "video": {
+        "youtube_id": "nzw4TJkEm5U",
+        "title": "Camera Anatomy Explained",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Take a photo of a friend near a window.",
+        "Take the same photo in a dark room.",
+        "Compare the two photos.",
+        "Notice how the window photo is brighter and clearer."
+      ],
+      "task": "Take the same photo in bright light and in dark light, then compare.",
+      "challenge": "Take a photo in the morning, at noon, and in the evening.",
+      "quiz": [
+        {
+          "q": "What does aperture do?",
+          "options": [
+            "It controls how much light comes through the lens and how blurry the background is",
+            "It controls the photo file size",
+            "It controls the camera battery",
+            "It controls the photo color"
+          ],
+          "answer": 0,
+          "explain": "Aperture is the opening in the lens. A low number means a big opening and a blurry background."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"How light works\"?",
+          "options": [
+            "Take a good portrait with just one light.",
+            "Share a set of five photos online.",
+            "See how light changes a photo.",
+            "Use lines in the scene to lead the eye."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: See how light changes a photo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Notice how the window photo is brighter and clearer.",
+            "Take a photo of a friend near a window.",
+            "Take the same photo in a dark room.",
+            "Compare the two photos."
+          ],
+          "answer": 1,
+          "explain": "Start with: Take a photo of a friend near a window."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "The exposure triangle",
+      "goal": "Learn the three settings that control light.",
+      "video": {
+        "youtube_id": "ZEZDlVdKCiM",
+        "title": "Full Frame vs Crop Sensor",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Learn the three words: ISO, aperture, shutter speed.",
+        "ISO controls how sensitive the camera is to light.",
+        "Aperture controls how much light comes through the lens.",
+        "Shutter speed controls how long the light comes in."
+      ],
+      "task": "Write down what ISO, aperture, and shutter speed each do.",
+      "challenge": "Take three photos of the same thing, changing one setting each time.",
+      "quiz": [
+        {
+          "q": "What is the exposure triangle?",
+          "options": [
+            "ISO, aperture, and shutter speed, the three settings that control light",
+            "Three kinds of cameras",
+            "Three kinds of lenses",
+            "Three photo apps"
+          ],
+          "answer": 0,
+          "explain": "ISO, aperture and shutter speed work together to control how much light reaches your photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"The exposure triangle\"?",
+          "options": [
+            "Take a clean photo of a product.",
+            "Learn the three settings that control light.",
+            "Frame your subject with something in front.",
+            "Bounce light back onto your subject."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Learn the three settings that control light."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Learn the three words: ISO, aperture, shutter speed.",
+            "ISO controls how sensitive the camera is to light.",
+            "Aperture controls how much light comes through the lens.",
+            "Shutter speed controls how long the light comes in."
+          ],
+          "answer": 0,
+          "explain": "Start with: Learn the three words: ISO, aperture, shutter speed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Aperture made simple",
+      "goal": "Use aperture to blur the background.",
+      "video": {
+        "youtube_id": "QYTN5zRBil8",
+        "title": "The Art of Active Observation",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Set your camera to Aperture mode, or A.",
+        "Set the aperture number low, like f/2.8.",
+        "Take a photo of a person with things behind them.",
+        "The background should look soft and blurry."
+      ],
+      "task": "Take a portrait with a blurry background using a low aperture number.",
+      "challenge": "Take the same portrait with a high aperture number and compare.",
+      "quiz": [
+        {
+          "q": "What does aperture do?",
+          "options": [
+            "It controls how much light comes through the lens and how blurry the background is",
+            "It controls the photo file size",
+            "It controls the camera battery",
+            "It controls the photo color"
+          ],
+          "answer": 0,
+          "explain": "Aperture is the opening in the lens. A low number means a big opening and a blurry background."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Aperture made simple\"?",
+          "options": [
+            "Use aperture to blur the background.",
+            "Take a good portrait of a friend.",
+            "Take clear photos inside your home.",
+            "Take a tasty photo of food."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Use aperture to blur the background."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Set the aperture number low, like f/2.8.",
+            "Take a photo of a person with things behind them.",
+            "The background should look soft and blurry.",
+            "Set your camera to Aperture mode, or A."
+          ],
+          "answer": 3,
+          "explain": "Start with: Set your camera to Aperture mode, or A."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Shutter speed made simple",
+      "goal": "Use shutter speed to freeze or blur motion.",
+      "video": {
+        "youtube_id": "jWD05if-5zs",
+        "title": "Aperture (The Pupil)",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Set your camera to Shutter mode, or S.",
+        "Set a fast speed like 1/500 to freeze motion.",
+        "Take a photo of someone jumping.",
+        "Set a slow speed like 1/30 and take the same photo."
+      ],
+      "task": "Freeze a jumping person with a fast shutter speed.",
+      "challenge": "Blur moving water with a slow shutter speed.",
+      "quiz": [
+        {
+          "q": "What is the exposure triangle?",
+          "options": [
+            "ISO, aperture, and shutter speed, the three settings that control light",
+            "Three kinds of cameras",
+            "Three kinds of lenses",
+            "Three photo apps"
+          ],
+          "answer": 0,
+          "explain": "ISO, aperture and shutter speed work together to control how much light reaches your photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shutter speed made simple\"?",
+          "options": [
+            "Take a wide photo of a place.",
+            "Take photos after dark.",
+            "Take photos at a real event.",
+            "Use shutter speed to freeze or blur motion."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Use shutter speed to freeze or blur motion."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take a photo of someone jumping.",
+            "Set a slow speed like 1/30 and take the same photo.",
+            "Set your camera to Shutter mode, or S.",
+            "Set a fast speed like 1/500 to freeze motion."
+          ],
+          "answer": 2,
+          "explain": "Start with: Set your camera to Shutter mode, or S."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "ISO made simple",
+      "goal": "Use ISO when the light is low.",
+      "video": {
+        "youtube_id": "axKEUnxqWZY",
+        "title": "DSLR Basic Settings Tutorial - Photography/Videography 101",
+        "channel": "Steve DiCasa"
+      },
+      "steps": [
+        "Set your camera to Manual or ISO mode.",
+        "Set ISO to 100 in bright light and take a photo.",
+        "Set ISO to 1600 in a dark room and take a photo.",
+        "Zoom in on the dark photo. You may see small dots, called noise."
+      ],
+      "task": "Take a photo at ISO 100 and one at ISO 1600, then compare.",
+      "challenge": "Find the highest ISO where your photos still look clean.",
+      "quiz": [
+        {
+          "q": "What does aperture do?",
+          "options": [
+            "It controls how much light comes through the lens and how blurry the background is",
+            "It controls the photo file size",
+            "It controls the camera battery",
+            "It controls the photo color"
+          ],
+          "answer": 0,
+          "explain": "Aperture is the opening in the lens. A low number means a big opening and a blurry background."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"ISO made simple\"?",
+          "options": [
+            "Make your photos look better with simple edits.",
+            "Take photos of life on the street.",
+            "Use ISO when the light is low.",
+            "Take photos in the soft light before sunset."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Use ISO when the light is low."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Zoom in on the dark photo. You may see small dots, called noise.",
+            "Set your camera to Manual or ISO mode.",
+            "Set ISO to 100 in bright light and take a photo.",
+            "Set ISO to 1600 in a dark room and take a photo."
+          ],
+          "answer": 1,
+          "explain": "Start with: Set your camera to Manual or ISO mode."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Take 10 good photos",
+      "goal": "Use what you learned this week to take ten good photos.",
+      "video": {
+        "youtube_id": "nz0wnQzSS5U",
+        "title": "Photography Basics Video Course",
+        "channel": "Photography Life"
+      },
+      "steps": [
+        "Pick one subject, like a friend or a pet.",
+        "Take ten photos using different light and settings.",
+        "Pick your best three.",
+        "Save them in a folder called Week 1."
+      ],
+      "task": "Take ten photos of one subject and pick your best three.",
+      "challenge": "Show your best photo to a friend and ask what they like about it.",
+      "quiz": [
+        {
+          "q": "What is the exposure triangle?",
+          "options": [
+            "ISO, aperture, and shutter speed, the three settings that control light",
+            "Three kinds of cameras",
+            "Three kinds of lenses",
+            "Three photo apps"
+          ],
+          "answer": 0,
+          "explain": "ISO, aperture and shutter speed work together to control how much light reaches your photo."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Take 10 good photos\"?",
+          "options": [
+            "Find the kind of photos you love to take.",
+            "Use what you learned this week to take ten good photos.",
+            "Take a set of ten photos on one theme.",
+            "Crop photos to make them stronger."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Use what you learned this week to take ten good photos."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick one subject, like a friend or a pet.",
+            "Take ten photos using different light and settings.",
+            "Pick your best three.",
+            "Save them in a folder called Week 1."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick one subject, like a friend or a pet."
+        }
+      ],
+      "project": {
+        "title": "10 Good Photos",
+        "brief": "Take ten good photos of one subject using different light and settings.",
+        "checks": [
+          "Ten photos taken",
+          "Different light used",
+          "Different settings used",
+          "Best three picked",
+          "Photos are sharp",
+          "Saved in a folder"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Rule of thirds",
+      "goal": "Place your subject off the middle for a better photo.",
+      "video": {
+        "youtube_id": "yhAmMUi2NmM",
+        "title": "Learn Photography for Beginners | Full photography course",
+        "channel": "Parker Photographic"
+      },
+      "steps": [
+        "Turn on the grid lines in your camera settings.",
+        "Place your subject where two grid lines cross.",
+        "Take the photo.",
+        "Compare it with a photo where the subject is in the middle."
+      ],
+      "task": "Take a photo with the subject on a grid line crossing.",
+      "challenge": "Take five photos using the rule of thirds.",
+      "quiz": [
+        {
+          "q": "What does shutter speed do?",
+          "options": [
+            "It controls how long light comes in, and whether motion looks frozen or blurry",
+            "It controls the photo color",
+            "It controls the camera size",
+            "It controls the file name"
+          ],
+          "answer": 0,
+          "explain": "Shutter speed is how long the camera takes the photo. Fast speeds freeze motion. Slow speeds blur it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Rule of thirds\"?",
+          "options": [
+            "Place your subject off the middle for a better photo.",
+            "Take a good portrait with just one light.",
+            "Share a set of five photos online.",
+            "Tell a story with five photos."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Place your subject off the middle for a better photo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Place your subject where two grid lines cross.",
+            "Take the photo.",
+            "Compare it with a photo where the subject is in the middle.",
+            "Turn on the grid lines in your camera settings."
+          ],
+          "answer": 3,
+          "explain": "Start with: Turn on the grid lines in your camera settings."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Leading lines",
+      "goal": "Use lines in the scene to lead the eye.",
+      "video": {
+        "youtube_id": "F8T94sdiNjc",
+        "title": "Aperture, Shutter Speed, ISO and Light Explained - Understanding Exposure",
+        "channel": "Tony Northrup"
+      },
+      "steps": [
+        "Find a road, a fence, or a path.",
+        "Stand so the line points to your subject.",
+        "Take the photo.",
+        "Check that the line leads the eye to the subject."
+      ],
+      "task": "Take a photo where a line leads to your subject.",
+      "challenge": "Find three leading lines in your home and photograph them.",
+      "quiz": [
+        {
+          "q": "What is ISO?",
+          "options": [
+            "How sensitive your camera is to light",
+            "The size of your photo",
+            "The name of a lens",
+            "The speed of your memory card"
+          ],
+          "answer": 0,
+          "explain": "ISO controls light sensitivity. Low ISO is best in bright light. High ISO helps in dark places."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Leading lines\"?",
+          "options": [
+            "Bounce light back onto your subject.",
+            "Take a clean photo of a product.",
+            "Pick your best ten photos.",
+            "Use lines in the scene to lead the eye."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Use lines in the scene to lead the eye."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take the photo.",
+            "Check that the line leads the eye to the subject.",
+            "Find a road, a fence, or a path.",
+            "Stand so the line points to your subject."
+          ],
+          "answer": 2,
+          "explain": "Start with: Find a road, a fence, or a path."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Framing",
+      "goal": "Frame your subject with something in front.",
+      "video": {
+        "youtube_id": "bx2a9EbobTY",
+        "title": "Shutter Speed Aperture and ISO - Camera Basics",
+        "channel": "Richard Chubb"
+      },
+      "steps": [
+        "Find a doorway, a window, or tree branches.",
+        "Stand behind it so it frames your subject.",
+        "Take the photo.",
+        "The frame should make the subject stand out."
+      ],
+      "task": "Take a photo framed by a doorway or branches.",
+      "challenge": "Take three framed photos in different places.",
+      "quiz": [
+        {
+          "q": "What does shutter speed do?",
+          "options": [
+            "It controls how long light comes in, and whether motion looks frozen or blurry",
+            "It controls the photo color",
+            "It controls the camera size",
+            "It controls the file name"
+          ],
+          "answer": 0,
+          "explain": "Shutter speed is how long the camera takes the photo. Fast speeds freeze motion. Slow speeds blur it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Framing\"?",
+          "options": [
+            "Take a tasty photo of food.",
+            "Pick your best work and say why it works.",
+            "Frame your subject with something in front.",
+            "Take clear photos inside your home."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Frame your subject with something in front."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "The frame should make the subject stand out.",
+            "Find a doorway, a window, or tree branches.",
+            "Stand behind it so it frames your subject.",
+            "Take the photo."
+          ],
+          "answer": 1,
+          "explain": "Start with: Find a doorway, a window, or tree branches."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Shoot a portrait",
+      "goal": "Take a good portrait of a friend.",
+      "video": {
+        "youtube_id": "8Iembhbb5wg",
+        "title": "ISO, Aperture & Shutter Speed Explained (Beginner Guide)",
+        "channel": "Leah Rohde"
+      },
+      "steps": [
+        "Ask a friend to stand near a window.",
+        "Use a low aperture number to blur the background.",
+        "Focus on their eyes.",
+        "Take ten photos and pick the best one."
+      ],
+      "task": "Take a portrait with the focus on the eyes.",
+      "challenge": "Take portraits of three different people.",
+      "quiz": [
+        {
+          "q": "What is ISO?",
+          "options": [
+            "How sensitive your camera is to light",
+            "The size of your photo",
+            "The name of a lens",
+            "The speed of your memory card"
+          ],
+          "answer": 0,
+          "explain": "ISO controls light sensitivity. Low ISO is best in bright light. High ISO helps in dark places."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a portrait\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Take a good portrait of a friend.",
+            "Take photos after dark.",
+            "Take photos at a real event."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Take a good portrait of a friend."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Ask a friend to stand near a window.",
+            "Use a low aperture number to blur the background.",
+            "Focus on their eyes.",
+            "Take ten photos and pick the best one."
+          ],
+          "answer": 0,
+          "explain": "Start with: Ask a friend to stand near a window."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Shoot a landscape",
+      "goal": "Take a wide photo of a place.",
+      "video": {
+        "youtube_id": "st_4GLsLcH4",
+        "title": "Use This Simple Trick for Better Photography Composition in Any Portrait",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Find a place with a wide view.",
+        "Use a high aperture number like f/8 or f/11.",
+        "Put something in the front, like a rock or a flower.",
+        "Take the photo and check the whole scene is sharp."
+      ],
+      "task": "Take a landscape photo with something in the front.",
+      "challenge": "Take a landscape at sunrise or sunset.",
+      "quiz": [
+        {
+          "q": "What does shutter speed do?",
+          "options": [
+            "It controls how long light comes in, and whether motion looks frozen or blurry",
+            "It controls the photo color",
+            "It controls the camera size",
+            "It controls the file name"
+          ],
+          "answer": 0,
+          "explain": "Shutter speed is how long the camera takes the photo. Fast speeds freeze motion. Slow speeds blur it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a landscape\"?",
+          "options": [
+            "Take a wide photo of a place.",
+            "Make your photos look better with simple edits.",
+            "Take photos of life on the street.",
+            "Learn the main parts of your camera."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Take a wide photo of a place."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use a high aperture number like f/8 or f/11.",
+            "Put something in the front, like a rock or a flower.",
+            "Take the photo and check the whole scene is sharp.",
+            "Find a place with a wide view."
+          ],
+          "answer": 3,
+          "explain": "Start with: Find a place with a wide view."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Golden hour",
+      "goal": "Take photos in the soft light before sunset.",
+      "video": {
+        "youtube_id": "DDwmsv8eW9o",
+        "title": "Full Walkthrough Tutorial: Portrait of a Doctor Pt. 1",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Go outside one hour before sunset.",
+        "Take photos of a person or a place.",
+        "Notice how the light is warm and soft.",
+        "Take ten photos and pick your best three."
+      ],
+      "task": "Take photos during golden hour and pick your best three.",
+      "challenge": "Take the same photo at noon and at golden hour, then compare.",
+      "quiz": [
+        {
+          "q": "What is ISO?",
+          "options": [
+            "How sensitive your camera is to light",
+            "The size of your photo",
+            "The name of a lens",
+            "The speed of your memory card"
+          ],
+          "answer": 0,
+          "explain": "ISO controls light sensitivity. Low ISO is best in bright light. High ISO helps in dark places."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Golden hour\"?",
+          "options": [
+            "Crop photos to make them stronger.",
+            "Find the kind of photos you love to take.",
+            "See how light changes a photo.",
+            "Take photos in the soft light before sunset."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Take photos in the soft light before sunset."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Notice how the light is warm and soft.",
+            "Take ten photos and pick your best three.",
+            "Go outside one hour before sunset.",
+            "Take photos of a person or a place."
+          ],
+          "answer": 2,
+          "explain": "Start with: Go outside one hour before sunset."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Your first photo set",
+      "goal": "Take a set of ten photos on one theme.",
+      "video": {
+        "youtube_id": "ccacQWFFLgI",
+        "title": "How to Create Great Portraits with Just One Light | Simple Portrait Lighting",
+        "channel": "Adorama TV"
+      },
+      "steps": [
+        "Pick a theme, like morning or streets.",
+        "Take ten photos on that theme.",
+        "Pick your best five.",
+        "Save them in a folder called My First Set."
+      ],
+      "task": "Take ten photos on one theme and pick your best five.",
+      "challenge": "Show your set to a friend and ask which photo tells the story best.",
+      "quiz": [
+        {
+          "q": "What does shutter speed do?",
+          "options": [
+            "It controls how long light comes in, and whether motion looks frozen or blurry",
+            "It controls the photo color",
+            "It controls the camera size",
+            "It controls the file name"
+          ],
+          "answer": 0,
+          "explain": "Shutter speed is how long the camera takes the photo. Fast speeds freeze motion. Slow speeds blur it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first photo set\"?",
+          "options": [
+            "Tell a story with five photos.",
+            "Learn the three settings that control light.",
+            "Take a set of ten photos on one theme.",
+            "Share a set of five photos online."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Take a set of ten photos on one theme."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save them in a folder called My First Set.",
+            "Pick a theme, like morning or streets.",
+            "Take ten photos on that theme.",
+            "Pick your best five."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a theme, like morning or streets."
+        }
+      ],
+      "project": {
+        "title": "Photo Set on One Theme",
+        "brief": "Take ten photos on one theme and pick your best five.",
+        "checks": [
+          "Ten photos taken on one theme",
+          "Best five picked",
+          "Photos tell a story together",
+          "Good light in most photos",
+          "Photos are sharp",
+          "Saved in a folder"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "One light portraits",
+      "goal": "Take a good portrait with just one light.",
+      "video": {
+        "youtube_id": "27a4-zbcpzQ",
+        "title": "Lighting Portraits with an Umbrella",
+        "channel": "Emily Teague"
+      },
+      "steps": [
+        "Place one lamp or window light to the side of your subject.",
+        "Turn off other lights in the room.",
+        "Take a portrait.",
+        "Move the light and take another portrait."
+      ],
+      "task": "Take a portrait with one light on the side.",
+      "challenge": "Take portraits with the light in front, on the side, and behind.",
+      "quiz": [
+        {
+          "q": "What is the rule of thirds?",
+          "options": [
+            "Placing your subject where grid lines cross, not in the middle",
+            "Always putting the subject in the middle",
+            "Taking three photos of everything",
+            "Using three lights"
+          ],
+          "answer": 0,
+          "explain": "The rule of thirds puts your subject off-center, where grid lines cross. It makes photos more interesting."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"One light portraits\"?",
+          "options": [
+            "Use aperture to blur the background.",
+            "Take a good portrait with just one light.",
+            "Take a clean photo of a product.",
+            "Pick your best ten photos."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Take a good portrait with just one light."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Place one lamp or window light to the side of your subject.",
+            "Turn off other lights in the room.",
+            "Take a portrait.",
+            "Move the light and take another portrait."
+          ],
+          "answer": 0,
+          "explain": "Start with: Place one lamp or window light to the side of your subject."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Use a reflector",
+      "goal": "Bounce light back onto your subject.",
+      "video": {
+        "youtube_id": "Nkp_QEGeWgs",
+        "title": "Dreamy Fiber Optic Light Painting Portrait Tutorial",
+        "channel": "Light Painting Photography"
+      },
+      "steps": [
+        "Hold a white board or a sheet of paper near your subject.",
+        "Angle it so light bounces onto their face.",
+        "Take a portrait.",
+        "Compare it with a portrait without the reflector."
+      ],
+      "task": "Take a portrait using a white board as a reflector.",
+      "challenge": "Try a reflector made from foil and one made from paper.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when cameras charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use a reflector\"?",
+          "options": [
+            "Bounce light back onto your subject.",
+            "Take a tasty photo of food.",
+            "Pick your best work and say why it works.",
+            "Use shutter speed to freeze or blur motion."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Bounce light back onto your subject."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Angle it so light bounces onto their face.",
+            "Take a portrait.",
+            "Compare it with a portrait without the reflector.",
+            "Hold a white board or a sheet of paper near your subject."
+          ],
+          "answer": 3,
+          "explain": "Start with: Hold a white board or a sheet of paper near your subject."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Shoot indoors",
+      "goal": "Take clear photos inside your home.",
+      "video": {
+        "youtube_id": "M6C8qSsOJic",
+        "title": "Fiber Optic Light Painting Portraits on a Cell Phone",
+        "channel": "Jason Rinehart"
+      },
+      "steps": [
+        "Find the brightest room in your home.",
+        "Open the curtains for more light.",
+        "Raise your ISO a little.",
+        "Take ten photos and pick your best three."
+      ],
+      "task": "Take ten indoor photos and pick your best three.",
+      "challenge": "Take an indoor photo of food near a window.",
+      "quiz": [
+        {
+          "q": "What is the rule of thirds?",
+          "options": [
+            "Placing your subject where grid lines cross, not in the middle",
+            "Always putting the subject in the middle",
+            "Taking three photos of everything",
+            "Using three lights"
+          ],
+          "answer": 0,
+          "explain": "The rule of thirds puts your subject off-center, where grid lines cross. It makes photos more interesting."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot indoors\"?",
+          "options": [
+            "Take photos at a real event.",
+            "Write a simple plan to keep getting better.",
+            "Use ISO when the light is low.",
+            "Take clear photos inside your home."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Take clear photos inside your home."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Raise your ISO a little.",
+            "Take ten photos and pick your best three.",
+            "Find the brightest room in your home.",
+            "Open the curtains for more light."
+          ],
+          "answer": 2,
+          "explain": "Start with: Find the brightest room in your home."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Shoot at night",
+      "goal": "Take photos after dark.",
+      "video": {
+        "youtube_id": "NeuXOgHncCQ",
+        "title": "The Art of Drawing with Light",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Go outside after dark with your camera.",
+        "Use a higher ISO, like 1600.",
+        "Hold the camera still or use a table.",
+        "Take ten photos and pick your best three."
+      ],
+      "task": "Take ten night photos and pick your best three.",
+      "challenge": "Take a photo of city lights at night.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when cameras charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot at night\"?",
+          "options": [
+            "Learn the main parts of your camera.",
+            "Use what you learned this week to take ten good photos.",
+            "Take photos after dark.",
+            "Take photos of life on the street."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Take photos after dark."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take ten photos and pick your best three.",
+            "Go outside after dark with your camera.",
+            "Use a higher ISO, like 1600.",
+            "Hold the camera still or use a table."
+          ],
+          "answer": 1,
+          "explain": "Start with: Go outside after dark with your camera."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Edit your photos",
+      "goal": "Make your photos look better with simple edits.",
+      "video": {
+        "youtube_id": "nzw4TJkEm5U",
+        "title": "Camera Anatomy Explained",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Open a photo in a free editor like Snapseed.",
+        "Make it a little brighter.",
+        "Add a little contrast.",
+        "Crop it to a better shape."
+      ],
+      "task": "Edit three photos: brighten, add contrast, and crop.",
+      "challenge": "Edit the same photo two ways and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is the rule of thirds?",
+          "options": [
+            "Placing your subject where grid lines cross, not in the middle",
+            "Always putting the subject in the middle",
+            "Taking three photos of everything",
+            "Using three lights"
+          ],
+          "answer": 0,
+          "explain": "The rule of thirds puts your subject off-center, where grid lines cross. It makes photos more interesting."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit your photos\"?",
+          "options": [
+            "Place your subject off the middle for a better photo.",
+            "Make your photos look better with simple edits.",
+            "Find the kind of photos you love to take.",
+            "See how light changes a photo."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make your photos look better with simple edits."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open a photo in a free editor like Snapseed.",
+            "Make it a little brighter.",
+            "Add a little contrast.",
+            "Crop it to a better shape."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open a photo in a free editor like Snapseed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Crop like a pro",
+      "goal": "Crop photos to make them stronger.",
+      "video": {
+        "youtube_id": "ZEZDlVdKCiM",
+        "title": "Full Frame vs Crop Sensor",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Open a photo with too much empty space.",
+        "Crop out the empty parts.",
+        "Keep the subject big in the frame.",
+        "Save the cropped photo."
+      ],
+      "task": "Crop three photos to make the subject bigger.",
+      "challenge": "Crop one photo into a square and one into a wide shape.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when cameras charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Crop like a pro\"?",
+          "options": [
+            "Crop photos to make them stronger.",
+            "Tell a story with five photos.",
+            "Learn the three settings that control light.",
+            "Use lines in the scene to lead the eye."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Crop photos to make them stronger."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Crop out the empty parts.",
+            "Keep the subject big in the frame.",
+            "Save the cropped photo.",
+            "Open a photo with too much empty space."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a photo with too much empty space."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Share your best photos",
+      "goal": "Share a set of five photos online.",
+      "video": {
+        "youtube_id": "QYTN5zRBil8",
+        "title": "The Art of Active Observation",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Pick your best five photos from this month.",
+        "Edit each one lightly.",
+        "Write one short caption for each.",
+        "Share them on your social media or with a friend."
+      ],
+      "task": "Share five of your best photos.",
+      "challenge": "Ask for feedback on your five photos and write down what you hear.",
+      "quiz": [
+        {
+          "q": "What is the rule of thirds?",
+          "options": [
+            "Placing your subject where grid lines cross, not in the middle",
+            "Always putting the subject in the middle",
+            "Taking three photos of everything",
+            "Using three lights"
+          ],
+          "answer": 0,
+          "explain": "The rule of thirds puts your subject off-center, where grid lines cross. It makes photos more interesting."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Share your best photos\"?",
+          "options": [
+            "Pick your best ten photos.",
+            "Use aperture to blur the background.",
+            "Frame your subject with something in front.",
+            "Share a set of five photos online."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Share a set of five photos online."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one short caption for each.",
+            "Share them on your social media or with a friend.",
+            "Pick your best five photos from this month.",
+            "Edit each one lightly."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick your best five photos from this month."
+        }
+      ],
+      "project": {
+        "title": "Share Your Best Photos",
+        "brief": "Share a set of five edited photos online.",
+        "checks": [
+          "Five photos picked",
+          "Each photo edited lightly",
+          "Each photo has a caption",
+          "Photos shared online or with friends",
+          "Feedback collected",
+          "Photos saved in a folder"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Shoot a product",
+      "goal": "Take a clean photo of a product.",
+      "video": {
+        "youtube_id": "jWD05if-5zs",
+        "title": "Aperture (The Pupil)",
+        "channel": "North of Wendigo"
+      },
+      "steps": [
+        "Pick a product, like a shoe or a bottle.",
+        "Put it on a plain background.",
+        "Light it from a window.",
+        "Take ten photos from different angles."
+      ],
+      "task": "Take ten product photos from different angles.",
+      "challenge": "Take a product photo on a white background and on a colored one.",
+      "quiz": [
+        {
+          "q": "What is a reflector?",
+          "options": [
+            "A white board or surface that bounces light back onto your subject",
+            "A camera flash",
+            "A type of lens",
+            "A photo editing app"
+          ],
+          "answer": 0,
+          "explain": "A reflector bounces light onto your subject. A white board or a sheet of paper works well."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a product\"?",
+          "options": [
+            "Use shutter speed to freeze or blur motion.",
+            "Take a good portrait of a friend.",
+            "Take a clean photo of a product.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Take a clean photo of a product."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take ten photos from different angles.",
+            "Pick a product, like a shoe or a bottle.",
+            "Put it on a plain background.",
+            "Light it from a window."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a product, like a shoe or a bottle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Shoot food",
+      "goal": "Take a tasty photo of food.",
+      "video": {
+        "youtube_id": "axKEUnxqWZY",
+        "title": "DSLR Basic Settings Tutorial - Photography/Videography 101",
+        "channel": "Steve DiCasa"
+      },
+      "steps": [
+        "Make or buy a plate of food.",
+        "Place it near a window for soft light.",
+        "Take a photo from above.",
+        "Add a fork or a cloth for style."
+      ],
+      "task": "Take a food photo from above near a window.",
+      "challenge": "Take food photos from three angles and pick the best.",
+      "quiz": [
+        {
+          "q": "What is noise in a photo?",
+          "options": [
+            "Small dots or grain that appear when ISO is very high",
+            "A sound the camera makes",
+            "A type of lens",
+            "A photo filter"
+          ],
+          "answer": 0,
+          "explain": "Noise is the grainy dots you see in dark photos taken at high ISO."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot food\"?",
+          "options": [
+            "Take a wide photo of a place.",
+            "Take a tasty photo of food.",
+            "Write a simple plan to keep getting better.",
+            "Use ISO when the light is low."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Take a tasty photo of food."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make or buy a plate of food.",
+            "Place it near a window for soft light.",
+            "Take a photo from above.",
+            "Add a fork or a cloth for style."
+          ],
+          "answer": 0,
+          "explain": "Start with: Make or buy a plate of food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Shoot an event",
+      "goal": "Take photos at a real event.",
+      "video": {
+        "youtube_id": "nz0wnQzSS5U",
+        "title": "Photography Basics Video Course",
+        "channel": "Photography Life"
+      },
+      "steps": [
+        "Go to a birthday or a small gathering.",
+        "Take photos of people, details, and the place.",
+        "Capture feelings: laughter, hugs, dancing.",
+        "Pick your best ten photos."
+      ],
+      "task": "Take photos at a real event and pick your best ten.",
+      "challenge": "Take photos at an event without using flash.",
+      "quiz": [
+        {
+          "q": "What is a reflector?",
+          "options": [
+            "A white board or surface that bounces light back onto your subject",
+            "A camera flash",
+            "A type of lens",
+            "A photo editing app"
+          ],
+          "answer": 0,
+          "explain": "A reflector bounces light onto your subject. A white board or a sheet of paper works well."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot an event\"?",
+          "options": [
+            "Take photos at a real event.",
+            "Learn the main parts of your camera.",
+            "Use what you learned this week to take ten good photos.",
+            "Take photos in the soft light before sunset."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Take photos at a real event."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take photos of people, details, and the place.",
+            "Capture feelings: laughter, hugs, dancing.",
+            "Pick your best ten photos.",
+            "Go to a birthday or a small gathering."
+          ],
+          "answer": 3,
+          "explain": "Start with: Go to a birthday or a small gathering."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Shoot street photos",
+      "goal": "Take photos of life on the street.",
+      "video": {
+        "youtube_id": "yhAmMUi2NmM",
+        "title": "Learn Photography for Beginners | Full photography course",
+        "channel": "Parker Photographic"
+      },
+      "steps": [
+        "Go to a busy street.",
+        "Take photos of people walking, shops, and signs.",
+        "Be kind and polite if someone asks.",
+        "Pick your best five photos."
+      ],
+      "task": "Take ten street photos and pick your best five.",
+      "challenge": "Take a street photo that tells a story without words.",
+      "quiz": [
+        {
+          "q": "What is noise in a photo?",
+          "options": [
+            "Small dots or grain that appear when ISO is very high",
+            "A sound the camera makes",
+            "A type of lens",
+            "A photo filter"
+          ],
+          "answer": 0,
+          "explain": "Noise is the grainy dots you see in dark photos taken at high ISO."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot street photos\"?",
+          "options": [
+            "See how light changes a photo.",
+            "Place your subject off the middle for a better photo.",
+            "Take a set of ten photos on one theme.",
+            "Take photos of life on the street."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Take photos of life on the street."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Be kind and polite if someone asks.",
+            "Pick your best five photos.",
+            "Go to a busy street.",
+            "Take photos of people walking, shops, and signs."
+          ],
+          "answer": 2,
+          "explain": "Start with: Go to a busy street."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Build your style",
+      "goal": "Find the kind of photos you love to take.",
+      "video": {
+        "youtube_id": "F8T94sdiNjc",
+        "title": "Aperture, Shutter Speed, ISO and Light Explained - Understanding Exposure",
+        "channel": "Tony Northrup"
+      },
+      "steps": [
+        "Look at all your photos from this month.",
+        "Pick the ten you love most.",
+        "Write down what they have in common.",
+        "Take five more photos in that style."
+      ],
+      "task": "Pick your ten favorite photos and find what they have in common.",
+      "challenge": "Take five new photos in your favorite style.",
+      "quiz": [
+        {
+          "q": "What is a reflector?",
+          "options": [
+            "A white board or surface that bounces light back onto your subject",
+            "A camera flash",
+            "A type of lens",
+            "A photo editing app"
+          ],
+          "answer": 0,
+          "explain": "A reflector bounces light onto your subject. A white board or a sheet of paper works well."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build your style\"?",
+          "options": [
+            "Use lines in the scene to lead the eye.",
+            "Take a good portrait with just one light.",
+            "Find the kind of photos you love to take.",
+            "Learn the three settings that control light."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Find the kind of photos you love to take."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take five more photos in that style.",
+            "Look at all your photos from this month.",
+            "Pick the ten you love most.",
+            "Write down what they have in common."
+          ],
+          "answer": 1,
+          "explain": "Start with: Look at all your photos from this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Make a photo series",
+      "goal": "Tell a story with five photos.",
+      "video": {
+        "youtube_id": "bx2a9EbobTY",
+        "title": "Shutter Speed Aperture and ISO - Camera Basics",
+        "channel": "Richard Chubb"
+      },
+      "steps": [
+        "Pick a story, like a day at the market.",
+        "Plan five photos: a start, three middle shots, and an end.",
+        "Take the five photos.",
+        "Put them in order and share them."
+      ],
+      "task": "Tell a story with five photos in order.",
+      "challenge": "Make a photo series about your morning routine.",
+      "quiz": [
+        {
+          "q": "What is noise in a photo?",
+          "options": [
+            "Small dots or grain that appear when ISO is very high",
+            "A sound the camera makes",
+            "A type of lens",
+            "A photo filter"
+          ],
+          "answer": 0,
+          "explain": "Noise is the grainy dots you see in dark photos taken at high ISO."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a photo series\"?",
+          "options": [
+            "Bounce light back onto your subject.",
+            "Tell a story with five photos.",
+            "Use aperture to blur the background.",
+            "Frame your subject with something in front."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Tell a story with five photos."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a story, like a day at the market.",
+            "Plan five photos: a start, three middle shots, and an end.",
+            "Take the five photos.",
+            "Put them in order and share them."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a story, like a day at the market."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Your portfolio",
+      "goal": "Pick your best ten photos.",
+      "video": {
+        "youtube_id": "8Iembhbb5wg",
+        "title": "ISO, Aperture & Shutter Speed Explained (Beginner Guide)",
+        "channel": "Leah Rohde"
+      },
+      "steps": [
+        "Look at all your photos from this month.",
+        "Pick your best ten.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each photo."
+      ],
+      "task": "Pick your best ten photos and save them in a portfolio.",
+      "challenge": "Show your portfolio to a friend and ask which photo is best.",
+      "quiz": [
+        {
+          "q": "What is a reflector?",
+          "options": [
+            "A white board or surface that bounces light back onto your subject",
+            "A camera flash",
+            "A type of lens",
+            "A photo editing app"
+          ],
+          "answer": 0,
+          "explain": "A reflector bounces light onto your subject. A white board or a sheet of paper works well."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your portfolio\"?",
+          "options": [
+            "Pick your best ten photos.",
+            "Use shutter speed to freeze or blur motion.",
+            "Take a good portrait of a friend.",
+            "Take clear photos inside your home."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Pick your best ten photos."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick your best ten.",
+            "Save them in a folder called Portfolio.",
+            "Write one sentence about each photo.",
+            "Look at all your photos from this month."
+          ],
+          "answer": 3,
+          "explain": "Start with: Look at all your photos from this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "st_4GLsLcH4",
+        "title": "Use This Simple Trick for Better Photography Composition in Any Portrait",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three photos.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three photos and write why each one works.",
+      "challenge": "Show your best photo to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is noise in a photo?",
+          "options": [
+            "Small dots or grain that appear when ISO is very high",
+            "A sound the camera makes",
+            "A type of lens",
+            "A photo filter"
+          ],
+          "answer": 0,
+          "explain": "Noise is the grainy dots you see in dark photos taken at high ISO."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Use ISO when the light is low.",
+            "Take a wide photo of a place.",
+            "Take photos after dark.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three photos."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "DDwmsv8eW9o",
+        "title": "Full Walkthrough Tutorial: Portrait of a Doctor Pt. 1",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your photography.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is a reflector?",
+          "options": [
+            "A white board or surface that bounces light back onto your subject",
+            "A camera flash",
+            "A type of lens",
+            "A photo editing app"
+          ],
+          "answer": 0,
+          "explain": "A reflector bounces light onto your subject. A white board or a sheet of paper works well."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Take photos in the soft light before sunset.",
+            "Make your photos look better with simple edits.",
+            "Write a simple plan to keep getting better.",
+            "Use what you learned this week to take ten good photos."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your First Photo Portfolio",
+    "brief": "Build a portfolio of ten photos: two portraits, two landscapes, two product or food photos, two event or street photos, and two free-choice photos. Edit them lightly and present them as a set.",
+    "checks": [
+      "Ten photos in total",
+      "Two portraits included",
+      "Two landscapes included",
+      "Two product or food photos included",
+      "Two event or street photos included",
+      "All photos edited lightly",
+      "Photos saved in one portfolio folder"
+    ],
+    "deliverables": [
+      "Ten finished photos",
+      "A short caption for each photo",
+      "Before-and-after of one edit",
+      "A note on your favorite style",
+      "A plan for your next photo project"
+    ]
+  }
+}

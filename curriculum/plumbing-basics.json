@@ -1,0 +1,1714 @@
+{
+ "course": {
+  "id": "plumbing-basics",
+  "title": "Plumbing Basics",
+  "level": "Beginner",
+  "tagline": "Fix leaks, fit pipes and install taps and toilets like a working plumber.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Plumbing Tools and Safety",
+   "goal": "Know the basic plumbing tools and the safety rules.",
+   "video": {
+    "youtube_id": "tBdiJfdCJjI",
+    "title": "How to Fix a Leaky Sink",
+    "channel": "Home Sweet Homemaker"
+   },
+   "steps": [
+    "Lay out a pipe wrench, adjustable wrench, pliers, tape measure and bucket.",
+    "Learn the first rule: turn the water off before you open any pipe.",
+    "Find the main stop tap (the tap that shuts off all water to the house) in your home.",
+    "Put on gloves and keep a towel and bucket close for drips."
+   ],
+   "task": "Find your home stop tap and test that it shuts the water off.",
+   "challenge": "Name every plumbing tool on your bench without looking.",
+   "quiz": [
+    {
+     "q": "What is the first thing to do before opening any pipe?",
+     "options": [
+      "Grab a wrench",
+      "Turn the water off at the stop tap",
+      "Put on gloves",
+      "Call a friend"
+     ],
+     "answer": 1,
+     "explain": "Turning the water off stops flooding before you open anything."
+    },
+    {
+     "q": "What is a stop tap?",
+     "options": [
+      "A tap that leaks",
+      "The tap that shuts off all water to the house",
+      "A tap in the garden",
+      "A broken tap"
+     ],
+     "answer": 1,
+     "explain": "The stop tap controls all water coming into the house."
+    },
+    {
+     "q": "Why keep a bucket and towel close when plumbing?",
+     "options": [
+      "To wash your hands",
+      "To catch drips and spills from pipes",
+      "To sit on",
+      "To clean tools"
+     ],
+     "answer": 1,
+     "explain": "Pipes always hold some water, so a bucket catches the spill."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "How Water Flows in a Home",
+   "goal": "Follow water from the street main to the tap and down the drain.",
+   "video": {
+    "youtube_id": "tBdiJfdCJjI",
+    "title": "How to Fix a Leaky Sink",
+    "channel": "Home Sweet Homemaker"
+   },
+   "steps": [
+    "Trace the cold water pipe from where it enters the house.",
+    "Find the hot water tank or heater and its pipes.",
+    "Learn that waste water flows downhill to the drain.",
+    "Draw a simple map of your home water pipes."
+   ],
+   "task": "Draw a simple map of the water pipes in your home.",
+   "challenge": "Explain to a friend where the water in a tap comes from.",
+   "quiz": [
+    {
+     "q": "What is the first thing to do before opening any pipe?",
+     "options": [
+      "Grab a wrench",
+      "Turn the water off at the stop tap",
+      "Put on gloves",
+      "Call a friend"
+     ],
+     "answer": 1,
+     "explain": "Turning the water off stops flooding before you open anything."
+    },
+    {
+     "q": "What is a stop tap?",
+     "options": [
+      "A tap that leaks",
+      "The tap that shuts off all water to the house",
+      "A tap in the garden",
+      "A broken tap"
+     ],
+     "answer": 1,
+     "explain": "The stop tap controls all water coming into the house."
+    },
+    {
+     "q": "Why keep a bucket and towel close when plumbing?",
+     "options": [
+      "To wash your hands",
+      "To catch drips and spills from pipes",
+      "To sit on",
+      "To clean tools"
+     ],
+     "answer": 1,
+     "explain": "Pipes always hold some water, so a bucket catches the spill."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Fix a Leaky Tap",
+   "goal": "Stop a dripping tap by changing its washer.",
+   "video": {
+    "youtube_id": "tBdiJfdCJjI",
+    "title": "How to Fix a Leaky Sink",
+    "channel": "Home Sweet Homemaker"
+   },
+   "steps": [
+    "Turn off the water to the tap first.",
+    "Take the tap handle off and unscrew the top.",
+    "Lift out the old rubber washer and match it at a shop.",
+    "Fit the new washer, put the tap back and turn the water on."
+   ],
+   "task": "Stop one dripping tap with a new washer.",
+   "challenge": "Stop a drip using only parts you already have.",
+   "quiz": [
+    {
+     "q": "What is the first thing to do before opening any pipe?",
+     "options": [
+      "Grab a wrench",
+      "Turn the water off at the stop tap",
+      "Put on gloves",
+      "Call a friend"
+     ],
+     "answer": 1,
+     "explain": "Turning the water off stops flooding before you open anything."
+    },
+    {
+     "q": "What is a stop tap?",
+     "options": [
+      "A tap that leaks",
+      "The tap that shuts off all water to the house",
+      "A tap in the garden",
+      "A broken tap"
+     ],
+     "answer": 1,
+     "explain": "The stop tap controls all water coming into the house."
+    },
+    {
+     "q": "Why keep a bucket and towel close when plumbing?",
+     "options": [
+      "To wash your hands",
+      "To catch drips and spills from pipes",
+      "To sit on",
+      "To clean tools"
+     ],
+     "answer": 1,
+     "explain": "Pipes always hold some water, so a bucket catches the spill."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Find and Stop a Leak",
+   "goal": "Find where a pipe leaks and stop the water fast.",
+   "video": {
+    "youtube_id": "EASsl77cUY8",
+    "title": "How to Fix a Leaking Pipe",
+    "channel": "Roger Wakefield"
+   },
+   "steps": [
+    "Dry the pipe with a cloth, then watch where water appears first.",
+    "Turn off the stop tap to stop the flow.",
+    "Put a bucket under the leak and mop up.",
+    "Mark the leak spot with tape so you can find it again."
+   ],
+   "task": "Find and mark a real or practice leak, then stop the water.",
+   "challenge": "Stop a leak in under two minutes from the moment you spot it.",
+   "quiz": [
+    {
+     "q": "What is the most common cause of a leaking pipe?",
+     "options": [
+      "Too much water",
+      "A worn joint or cracked fitting",
+      "Cold weather only",
+      "Hard water"
+     ],
+     "answer": 1,
+     "explain": "Joints wear out or crack over time, and that is where leaks start."
+    },
+    {
+     "q": "How do you find a small leak?",
+     "options": [
+      "Guess",
+      "Dry the pipe and watch where water appears first",
+      "Smell it",
+      "Shake the pipe"
+     ],
+     "answer": 1,
+     "explain": "Drying the pipe shows exactly where the water comes from."
+    },
+    {
+     "q": "What should you do first when you find a leak?",
+     "options": [
+      "Ignore it",
+      "Turn off the water and put a bucket under it",
+      "Paint over it",
+      "Tighten everything"
+     ],
+     "answer": 1,
+     "explain": "Stopping the water and catching drips limits damage while you fix it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Pipe Types: PVC, Copper and PEX",
+   "goal": "Tell PVC, copper and PEX pipes apart and know what each is for.",
+   "video": {
+    "youtube_id": "EASsl77cUY8",
+    "title": "How to Fix a Leaking Pipe",
+    "channel": "Roger Wakefield"
+   },
+   "steps": [
+    "Hold a white plastic PVC pipe, a copper pipe and a bendy PEX pipe.",
+    "Learn that PVC is for drains, copper for hot and cold water, PEX bends round corners.",
+    "Try bending PEX by hand and see how it flexes.",
+    "Note which pipes need glue, solder or push-fit joints."
+   ],
+   "task": "Label three pipes with their name and one job each.",
+   "challenge": "Pick the right pipe for a cold water line and explain why.",
+   "quiz": [
+    {
+     "q": "What is the most common cause of a leaking pipe?",
+     "options": [
+      "Too much water",
+      "A worn joint or cracked fitting",
+      "Cold weather only",
+      "Hard water"
+     ],
+     "answer": 1,
+     "explain": "Joints wear out or crack over time, and that is where leaks start."
+    },
+    {
+     "q": "How do you find a small leak?",
+     "options": [
+      "Guess",
+      "Dry the pipe and watch where water appears first",
+      "Smell it",
+      "Shake the pipe"
+     ],
+     "answer": 1,
+     "explain": "Drying the pipe shows exactly where the water comes from."
+    },
+    {
+     "q": "What should you do first when you find a leak?",
+     "options": [
+      "Ignore it",
+      "Turn off the water and put a bucket under it",
+      "Paint over it",
+      "Tighten everything"
+     ],
+     "answer": 1,
+     "explain": "Stopping the water and catching drips limits damage while you fix it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Cut and Measure Pipe",
+   "goal": "Measure and cut pipe square and clean.",
+   "video": {
+    "youtube_id": "EASsl77cUY8",
+    "title": "How to Fix a Leaking Pipe",
+    "channel": "Roger Wakefield"
+   },
+   "steps": [
+    "Measure the pipe twice and mark the cut with a pencil.",
+    "Cut PVC with a pipe cutter or fine saw in one steady motion.",
+    "Cut copper with a tube cutter, turning it a little at a time.",
+    "File the cut edge smooth and remove any burrs (rough bits)."
+   ],
+   "task": "Cut three pipes to exact lengths with clean square ends.",
+   "challenge": "Cut a pipe to length with less than 2mm of error.",
+   "quiz": [
+    {
+     "q": "What is the most common cause of a leaking pipe?",
+     "options": [
+      "Too much water",
+      "A worn joint or cracked fitting",
+      "Cold weather only",
+      "Hard water"
+     ],
+     "answer": 1,
+     "explain": "Joints wear out or crack over time, and that is where leaks start."
+    },
+    {
+     "q": "How do you find a small leak?",
+     "options": [
+      "Guess",
+      "Dry the pipe and watch where water appears first",
+      "Smell it",
+      "Shake the pipe"
+     ],
+     "answer": 1,
+     "explain": "Drying the pipe shows exactly where the water comes from."
+    },
+    {
+     "q": "What should you do first when you find a leak?",
+     "options": [
+      "Ignore it",
+      "Turn off the water and put a bucket under it",
+      "Paint over it",
+      "Tighten everything"
+     ],
+     "answer": 1,
+     "explain": "Stopping the water and catching drips limits damage while you fix it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Fix a Leaking Pipe Joint",
+   "goal": "Repair a leaking pipe joint with a new glued joint.",
+   "video": {
+    "youtube_id": "RWn-dp9gBvA",
+    "title": "How to Glue PVC Pipe",
+    "channel": "This Old House"
+   },
+   "steps": [
+    "Turn off the water and drain the pipe.",
+    "Cut out the leaking joint with a pipe cutter.",
+    "Clean and dry both pipe ends.",
+    "Glue a new joint in place, hold it still, and test for leaks."
+   ],
+   "task": "Fix a leaking pipe joint so it stays dry for 24 hours.",
+   "challenge": "Fix the joint with no glue drips on the outside.",
+   "quiz": [
+    {
+     "q": "What is PVC pipe used for?",
+     "options": [
+      "Hot water only",
+      "Drains and cold water pipes",
+      "Gas pipes",
+      "Electrical wires"
+     ],
+     "answer": 1,
+     "explain": "PVC is a plastic pipe used mainly for drains and cold water."
+    },
+    {
+     "q": "What is solvent weld glue?",
+     "options": [
+      "Normal glue",
+      "A glue that melts PVC so pieces fuse into one",
+      "Super glue",
+      "Wood glue"
+     ],
+     "answer": 1,
+     "explain": "Solvent weld softens the PVC surfaces so they bond as one piece."
+    },
+    {
+     "q": "Why hold a glued PVC joint still for 30 seconds?",
+     "options": [
+      "To keep warm",
+      "So the joint sets in the right position",
+      "To count",
+      "To let it cool"
+     ],
+     "answer": 1,
+     "explain": "Moving the joint too soon breaks the bond before it sets."
+    }
+   ],
+   "project": {
+    "title": "Fix a Leaking Pipe Joint",
+    "brief": "Cut out a leaking joint and replace it with a new glued joint.",
+    "checks": [
+     "Water turned off first",
+     "Leaking joint cut out cleanly",
+     "New joint glued and held",
+     "No leaks after 24 hours",
+     "Area left clean and dry",
+     "Fix explained to the homeowner"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Solvent Weld PVC Joints",
+   "goal": "Join PVC pipe with solvent weld glue the right way.",
+   "video": {
+    "youtube_id": "RWn-dp9gBvA",
+    "title": "How to Glue PVC Pipe",
+    "channel": "This Old House"
+   },
+   "steps": [
+    "Solvent weld is a glue that melts PVC so the pieces fuse into one.",
+    "Clean both surfaces, then brush primer (a cleaner that prepares the surface) on.",
+    "Brush cement on both parts and push them together with a quarter turn.",
+    "Hold still for 30 seconds, then wipe off extra glue."
+   ],
+   "task": "Make three solvent weld joints that hold water with no leaks.",
+   "challenge": "Make a joint that holds after one hour of drying.",
+   "quiz": [
+    {
+     "q": "What is PVC pipe used for?",
+     "options": [
+      "Hot water only",
+      "Drains and cold water pipes",
+      "Gas pipes",
+      "Electrical wires"
+     ],
+     "answer": 1,
+     "explain": "PVC is a plastic pipe used mainly for drains and cold water."
+    },
+    {
+     "q": "What is solvent weld glue?",
+     "options": [
+      "Normal glue",
+      "A glue that melts PVC so pieces fuse into one",
+      "Super glue",
+      "Wood glue"
+     ],
+     "answer": 1,
+     "explain": "Solvent weld softens the PVC surfaces so they bond as one piece."
+    },
+    {
+     "q": "Why hold a glued PVC joint still for 30 seconds?",
+     "options": [
+      "To keep warm",
+      "So the joint sets in the right position",
+      "To count",
+      "To let it cool"
+     ],
+     "answer": 1,
+     "explain": "Moving the joint too soon breaks the bond before it sets."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Thread Tape and Sealed Joints",
+   "goal": "Seal threaded pipe joints with thread tape so they do not drip.",
+   "video": {
+    "youtube_id": "RWn-dp9gBvA",
+    "title": "How to Glue PVC Pipe",
+    "channel": "This Old House"
+   },
+   "steps": [
+    "Thread tape is thin white tape that seals screw-thread joints.",
+    "Wrap the tape clockwise around the male thread, 4 to 5 turns.",
+    "Screw the joint together firmly with a wrench.",
+    "Turn the water on and check for drips."
+   ],
+   "task": "Seal two threaded joints with tape and no drips.",
+   "challenge": "Seal a joint first try with no leaks at all.",
+   "quiz": [
+    {
+     "q": "What is PVC pipe used for?",
+     "options": [
+      "Hot water only",
+      "Drains and cold water pipes",
+      "Gas pipes",
+      "Electrical wires"
+     ],
+     "answer": 1,
+     "explain": "PVC is a plastic pipe used mainly for drains and cold water."
+    },
+    {
+     "q": "What is solvent weld glue?",
+     "options": [
+      "Normal glue",
+      "A glue that melts PVC so pieces fuse into one",
+      "Super glue",
+      "Wood glue"
+     ],
+     "answer": 1,
+     "explain": "Solvent weld softens the PVC surfaces so they bond as one piece."
+    },
+    {
+     "q": "Why hold a glued PVC joint still for 30 seconds?",
+     "options": [
+      "To keep warm",
+      "So the joint sets in the right position",
+      "To count",
+      "To let it cool"
+     ],
+     "answer": 1,
+     "explain": "Moving the joint too soon breaks the bond before it sets."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Make a Perfect PVC Cement Joint",
+   "goal": "Make a PVC cement joint that never leaks.",
+   "video": {
+    "youtube_id": "5_CblCreVdc",
+    "title": "How to Make the Perfect PVC Pipe Cement Joint with Solvent Weld",
+    "channel": "Build a Hot Tub"
+   },
+   "steps": [
+    "Cut the pipe square and clean the ends.",
+    "Dry-fit the joint first (push it together without glue to check the fit).",
+    "Apply cement evenly, push together with a twist, and hold.",
+    "Wait the full drying time before turning the water on."
+   ],
+   "task": "Make a PVC joint that passes a pressure test with no leaks.",
+   "challenge": "Make five joints in a row with zero leaks.",
+   "quiz": [
+    {
+     "q": "What does primer do before solvent welding?",
+     "options": [
+      "Adds colour",
+      "Cleans and prepares the PVC surface so the cement bonds",
+      "Makes it dry faster",
+      "Stops leaks"
+     ],
+     "answer": 1,
+     "explain": "Primer cleans and softens the surface so the cement can fuse the joint."
+    },
+    {
+     "q": "What happens if you skip primer?",
+     "options": [
+      "Nothing",
+      "The joint is weak and may leak",
+      "It dries faster",
+      "It looks better"
+     ],
+     "answer": 1,
+     "explain": "Without primer the cement cannot bond well, so the joint can fail."
+    },
+    {
+     "q": "How long should you wait before turning water on after gluing PVC?",
+     "options": [
+      "Right away",
+      "The full drying time on the cement tin",
+      "One minute",
+      "One week"
+     ],
+     "answer": 1,
+     "explain": "The cement needs its full curing time to reach full strength."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Join Pipes with Elbows and Tees",
+   "goal": "Use elbow and tee fittings to turn corners and branch pipes.",
+   "video": {
+    "youtube_id": "5_CblCreVdc",
+    "title": "How to Make the Perfect PVC Pipe Cement Joint with Solvent Weld",
+    "channel": "Build a Hot Tub"
+   },
+   "steps": [
+    "An elbow turns a pipe 90 degrees; a tee branches one pipe into two.",
+    "Dry-fit the whole run before you glue anything.",
+    "Glue one joint at a time, holding each still.",
+    "Check the finished run is straight and level."
+   ],
+   "task": "Build a pipe run with two elbows and one tee, all leak-free.",
+   "challenge": "Build a pipe run that turns two corners and stays level.",
+   "quiz": [
+    {
+     "q": "What does primer do before solvent welding?",
+     "options": [
+      "Adds colour",
+      "Cleans and prepares the PVC surface so the cement bonds",
+      "Makes it dry faster",
+      "Stops leaks"
+     ],
+     "answer": 1,
+     "explain": "Primer cleans and softens the surface so the cement can fuse the joint."
+    },
+    {
+     "q": "What happens if you skip primer?",
+     "options": [
+      "Nothing",
+      "The joint is weak and may leak",
+      "It dries faster",
+      "It looks better"
+     ],
+     "answer": 1,
+     "explain": "Without primer the cement cannot bond well, so the joint can fail."
+    },
+    {
+     "q": "How long should you wait before turning water on after gluing PVC?",
+     "options": [
+      "Right away",
+      "The full drying time on the cement tin",
+      "One minute",
+      "One week"
+     ],
+     "answer": 1,
+     "explain": "The cement needs its full curing time to reach full strength."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Test Your Joints for Leaks",
+   "goal": "Pressure-test your pipework and find any weak joint.",
+   "video": {
+    "youtube_id": "5_CblCreVdc",
+    "title": "How to Make the Perfect PVC Pipe Cement Joint with Solvent Weld",
+    "channel": "Build a Hot Tub"
+   },
+   "steps": [
+    "Turn the water on slowly and watch every joint.",
+    "Dry each joint with a cloth, then check again after five minutes.",
+    "Mark any joint that weeps (lets out tiny drops) and redo it.",
+    "Write down which joints passed and which failed."
+   ],
+   "task": "Test a full pipe run and record every joint as pass or fail.",
+   "challenge": "Find a slow weep that only shows after ten minutes.",
+   "quiz": [
+    {
+     "q": "What does primer do before solvent welding?",
+     "options": [
+      "Adds colour",
+      "Cleans and prepares the PVC surface so the cement bonds",
+      "Makes it dry faster",
+      "Stops leaks"
+     ],
+     "answer": 1,
+     "explain": "Primer cleans and softens the surface so the cement can fuse the joint."
+    },
+    {
+     "q": "What happens if you skip primer?",
+     "options": [
+      "Nothing",
+      "The joint is weak and may leak",
+      "It dries faster",
+      "It looks better"
+     ],
+     "answer": 1,
+     "explain": "Without primer the cement cannot bond well, so the joint can fail."
+    },
+    {
+     "q": "How long should you wait before turning water on after gluing PVC?",
+     "options": [
+      "Right away",
+      "The full drying time on the cement tin",
+      "One minute",
+      "One week"
+     ],
+     "answer": 1,
+     "explain": "The cement needs its full curing time to reach full strength."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Common Solvent Weld Mistakes",
+   "goal": "Spot the mistakes that make PVC joints leak.",
+   "video": {
+    "youtube_id": "Ig-1uZOrlaM",
+    "title": "Solvent Welding Mistakes to Avoid",
+    "channel": "Mechanical Hub"
+   },
+   "steps": [
+    "Learn the big mistakes: no primer, too little glue, moving the joint too soon.",
+    "Look at photos of bad joints and name the mistake in each.",
+    "Practise the right way: clean, prime, glue, twist, hold.",
+    "Make one joint the wrong way on scrap to see it fail."
+   ],
+   "task": "List five solvent weld mistakes and how to avoid each.",
+   "challenge": "Spot the mistake in a leaking joint from a photo.",
+   "quiz": [
+    {
+     "q": "What is the biggest solvent weld mistake?",
+     "options": [
+      "Using too much primer",
+      "Moving the joint before it sets",
+      "Wearing gloves",
+      "Cutting the pipe square"
+     ],
+     "answer": 1,
+     "explain": "Moving a fresh joint breaks the bond and causes a leak."
+    },
+    {
+     "q": "Why dry-fit pipes before gluing?",
+     "options": [
+      "To waste time",
+      "To check the fit and lengths before glue makes it permanent",
+      "To clean them",
+      "To measure the glue"
+     ],
+     "answer": 1,
+     "explain": "Dry-fitting catches wrong lengths before glue locks everything in place."
+    },
+    {
+     "q": "What should you do with a joint that weeps?",
+     "options": [
+      "Ignore it",
+      "Cut it out and redo it",
+      "Paint over it",
+      "Tighten it"
+     ],
+     "answer": 1,
+     "explain": "A weeping joint will not heal; it must be cut out and remade."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Project: Build a Practice Pipe Frame",
+   "goal": "Build a small square pipe frame with four perfect joints.",
+   "video": {
+    "youtube_id": "Ig-1uZOrlaM",
+    "title": "Solvent Welding Mistakes to Avoid",
+    "channel": "Mechanical Hub"
+   },
+   "steps": [
+    "Cut four pipes and four elbows to size.",
+    "Dry-fit the square, then glue one joint at a time.",
+    "Check the frame is square by measuring both diagonals.",
+    "Test it under water pressure with no leaks."
+   ],
+   "task": "Finish a square pipe frame with four leak-free joints.",
+   "challenge": "Build the frame with all four corners exactly square.",
+   "quiz": [
+    {
+     "q": "What is the biggest solvent weld mistake?",
+     "options": [
+      "Using too much primer",
+      "Moving the joint before it sets",
+      "Wearing gloves",
+      "Cutting the pipe square"
+     ],
+     "answer": 1,
+     "explain": "Moving a fresh joint breaks the bond and causes a leak."
+    },
+    {
+     "q": "Why dry-fit pipes before gluing?",
+     "options": [
+      "To waste time",
+      "To check the fit and lengths before glue makes it permanent",
+      "To clean them",
+      "To measure the glue"
+     ],
+     "answer": 1,
+     "explain": "Dry-fitting catches wrong lengths before glue locks everything in place."
+    },
+    {
+     "q": "What should you do with a joint that weeps?",
+     "options": [
+      "Ignore it",
+      "Cut it out and redo it",
+      "Paint over it",
+      "Tighten it"
+     ],
+     "answer": 1,
+     "explain": "A weeping joint will not heal; it must be cut out and remade."
+    }
+   ],
+   "project": {
+    "title": "Build a Practice Pipe Frame",
+    "brief": "Build a square pipe frame with four perfect solvent weld joints.",
+    "checks": [
+     "Parts cut to size",
+     "Joints glued with primer and cement",
+     "Frame square on both diagonals",
+     "No leaks under pressure",
+     "Joints neat with no glue mess",
+     "Frame holds its shape"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Fit a New Tap Washer",
+   "goal": "Change tap washers so taps stop dripping.",
+   "video": {
+    "youtube_id": "Ig-1uZOrlaM",
+    "title": "Solvent Welding Mistakes to Avoid",
+    "channel": "Mechanical Hub"
+   },
+   "steps": [
+    "Turn off the water to the tap.",
+    "Take the tap apart and lift out the old washer.",
+    "Match the new washer size exactly.",
+    "Put the tap back together and test it."
+   ],
+   "task": "Change washers on two taps so neither drips.",
+   "challenge": "Change a washer in under ten minutes.",
+   "quiz": [
+    {
+     "q": "What is the biggest solvent weld mistake?",
+     "options": [
+      "Using too much primer",
+      "Moving the joint before it sets",
+      "Wearing gloves",
+      "Cutting the pipe square"
+     ],
+     "answer": 1,
+     "explain": "Moving a fresh joint breaks the bond and causes a leak."
+    },
+    {
+     "q": "Why dry-fit pipes before gluing?",
+     "options": [
+      "To waste time",
+      "To check the fit and lengths before glue makes it permanent",
+      "To clean them",
+      "To measure the glue"
+     ],
+     "answer": 1,
+     "explain": "Dry-fitting catches wrong lengths before glue locks everything in place."
+    },
+    {
+     "q": "What should you do with a joint that weeps?",
+     "options": [
+      "Ignore it",
+      "Cut it out and redo it",
+      "Paint over it",
+      "Tighten it"
+     ],
+     "answer": 1,
+     "explain": "A weeping joint will not heal; it must be cut out and remade."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Remove an Old Faucet",
+   "goal": "Take out an old bathroom faucet without breaking anything.",
+   "video": {
+    "youtube_id": "ch7uDJwNbRI",
+    "title": "How to Remove and Install a Bathroom Faucet",
+    "channel": "Homedit"
+   },
+   "steps": [
+    "Turn off the water under the sink.",
+    "Disconnect the water pipes from the faucet.",
+    "Unscrew the nuts holding the faucet to the sink.",
+    "Lift the old faucet out and clean the sink surface."
+   ],
+   "task": "Remove an old faucet cleanly with no damage to the sink.",
+   "challenge": "Remove a stuck faucet nut without breaking the pipe.",
+   "quiz": [
+    {
+     "q": "How do you remove an old faucet?",
+     "options": [
+      "Pull it hard",
+      "Turn off the water, disconnect the pipes, unscrew the nuts",
+      "Cut the sink",
+      "Hammer it"
+     ],
+     "answer": 1,
+     "explain": "Water off, pipes off, nuts off, then lift the faucet out."
+    },
+    {
+     "q": "Why connect hot to the left and cold to the right?",
+     "options": [
+      "It looks nice",
+      "It is the standard so everyone knows which is which",
+      "It saves water",
+      "It is the law everywhere"
+     ],
+     "answer": 1,
+     "explain": "Standard sides stop anyone scalding themselves by mistake."
+    },
+    {
+     "q": "What is a tap washer?",
+     "options": [
+      "A cleaning cloth",
+      "A small rubber ring that seals the tap shut",
+      "A tool",
+      "A type of tap"
+     ],
+     "answer": 1,
+     "explain": "The washer presses against the seat to stop water when the tap is closed."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Install a New Faucet",
+   "goal": "Fit a new bathroom faucet so it works and does not leak.",
+   "video": {
+    "youtube_id": "ch7uDJwNbRI",
+    "title": "How to Remove and Install a Bathroom Faucet",
+    "channel": "Homedit"
+   },
+   "steps": [
+    "Put the new faucet through the sink holes.",
+    "Tighten the nuts underneath, but not so tight they crack the sink.",
+    "Connect the hot and cold pipes to the right sides.",
+    "Turn the water on slowly and check every joint."
+   ],
+   "task": "Install a new faucet with no leaks at the base or pipes.",
+   "challenge": "Install a faucet that runs hot on the left, cold on the right.",
+   "quiz": [
+    {
+     "q": "How do you remove an old faucet?",
+     "options": [
+      "Pull it hard",
+      "Turn off the water, disconnect the pipes, unscrew the nuts",
+      "Cut the sink",
+      "Hammer it"
+     ],
+     "answer": 1,
+     "explain": "Water off, pipes off, nuts off, then lift the faucet out."
+    },
+    {
+     "q": "Why connect hot to the left and cold to the right?",
+     "options": [
+      "It looks nice",
+      "It is the standard so everyone knows which is which",
+      "It saves water",
+      "It is the law everywhere"
+     ],
+     "answer": 1,
+     "explain": "Standard sides stop anyone scalding themselves by mistake."
+    },
+    {
+     "q": "What is a tap washer?",
+     "options": [
+      "A cleaning cloth",
+      "A small rubber ring that seals the tap shut",
+      "A tool",
+      "A type of tap"
+     ],
+     "answer": 1,
+     "explain": "The washer presses against the seat to stop water when the tap is closed."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Traps and Drains: How Sinks Drain",
+   "goal": "Understand the trap (the U-bend under a sink) and clear a slow drain.",
+   "video": {
+    "youtube_id": "ch7uDJwNbRI",
+    "title": "How to Remove and Install a Bathroom Faucet",
+    "channel": "Homedit"
+   },
+   "steps": [
+    "The trap is the U-shaped pipe that holds water to block smells.",
+    "Put a bucket under the trap and unscrew it by hand.",
+    "Clean out the gunk inside and put it back.",
+    "Run water and check it drains fast with no leaks."
+   ],
+   "task": "Clean a sink trap so the sink drains fast again.",
+   "challenge": "Clear a slow drain without using chemicals.",
+   "quiz": [
+    {
+     "q": "How do you remove an old faucet?",
+     "options": [
+      "Pull it hard",
+      "Turn off the water, disconnect the pipes, unscrew the nuts",
+      "Cut the sink",
+      "Hammer it"
+     ],
+     "answer": 1,
+     "explain": "Water off, pipes off, nuts off, then lift the faucet out."
+    },
+    {
+     "q": "Why connect hot to the left and cold to the right?",
+     "options": [
+      "It looks nice",
+      "It is the standard so everyone knows which is which",
+      "It saves water",
+      "It is the law everywhere"
+     ],
+     "answer": 1,
+     "explain": "Standard sides stop anyone scalding themselves by mistake."
+    },
+    {
+     "q": "What is a tap washer?",
+     "options": [
+      "A cleaning cloth",
+      "A small rubber ring that seals the tap shut",
+      "A tool",
+      "A type of tap"
+     ],
+     "answer": 1,
+     "explain": "The washer presses against the seat to stop water when the tap is closed."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "How a Toilet Works",
+   "goal": "Know every part inside a toilet tank and what it does.",
+   "video": {
+    "youtube_id": "CYh5Ix_JONI",
+    "title": "FIX a Weak Flushing TOILET",
+    "channel": "See Jane Drill"
+   },
+   "steps": [
+    "Lift the tank lid and name the fill valve, flapper and overflow tube.",
+    "The fill valve refills the tank; the flapper lets water into the bowl.",
+    "Watch a flush and see each part move.",
+    "Draw and label the inside of a toilet tank."
+   ],
+   "task": "Draw and label all the parts inside a toilet tank.",
+   "challenge": "Explain a flush to a friend using your drawing.",
+   "quiz": [
+    {
+     "q": "What does the flapper do in a toilet?",
+     "options": [
+      "Fills the tank",
+      "Seals the tank outlet and lifts to let water into the bowl",
+      "Cleans the bowl",
+      "Stops smells"
+     ],
+     "answer": 1,
+     "explain": "The flapper is the rubber seal that holds tank water back until you flush."
+    },
+    {
+     "q": "Why clean the rim holes under the bowl edge?",
+     "options": [
+      "For looks",
+      "Blocked holes make a weak flush",
+      "To save water",
+      "To stop smells"
+     ],
+     "answer": 1,
+     "explain": "Rim holes wash water around the bowl; if they are blocked, the flush is weak."
+    },
+    {
+     "q": "Where should the tank water level sit?",
+     "options": [
+      "At the very top",
+      "About 2cm below the overflow tube",
+      "Half full",
+      "At the bottom"
+     ],
+     "answer": 1,
+     "explain": "The right level gives a full strong flush without wasting water."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Fix a Weak Flush",
+   "goal": "Fix a toilet that flushes weakly.",
+   "video": {
+    "youtube_id": "CYh5Ix_JONI",
+    "title": "FIX a Weak Flushing TOILET",
+    "channel": "See Jane Drill"
+   },
+   "steps": [
+    "Check the tank water level: it should sit about 2cm below the overflow tube.",
+    "Clean the rim holes under the bowl edge with a brush.",
+    "Check the flapper seals flat and is not worn.",
+    "Adjust the chain so it has only a little slack."
+   ],
+   "task": "Fix a weak flush so the bowl clears in one flush.",
+   "challenge": "Fix a weak flush using only cleaning and adjustment.",
+   "quiz": [
+    {
+     "q": "What does the flapper do in a toilet?",
+     "options": [
+      "Fills the tank",
+      "Seals the tank outlet and lifts to let water into the bowl",
+      "Cleans the bowl",
+      "Stops smells"
+     ],
+     "answer": 1,
+     "explain": "The flapper is the rubber seal that holds tank water back until you flush."
+    },
+    {
+     "q": "Why clean the rim holes under the bowl edge?",
+     "options": [
+      "For looks",
+      "Blocked holes make a weak flush",
+      "To save water",
+      "To stop smells"
+     ],
+     "answer": 1,
+     "explain": "Rim holes wash water around the bowl; if they are blocked, the flush is weak."
+    },
+    {
+     "q": "Where should the tank water level sit?",
+     "options": [
+      "At the very top",
+      "About 2cm below the overflow tube",
+      "Half full",
+      "At the bottom"
+     ],
+     "answer": 1,
+     "explain": "The right level gives a full strong flush without wasting water."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Project: Fix a Toilet That Will Not Flush Well",
+   "goal": "Diagnose and fix a poorly flushing toilet from start to finish.",
+   "video": {
+    "youtube_id": "CYh5Ix_JONI",
+    "title": "FIX a Weak Flushing TOILET",
+    "channel": "See Jane Drill"
+   },
+   "steps": [
+    "Check the water level, flapper, chain and rim holes.",
+    "Clean or replace the worn part you found.",
+    "Adjust the water level and chain slack.",
+    "Test with three flushes and record the result."
+   ],
+   "task": "Fix a toilet so it flushes strongly three times in a row.",
+   "challenge": "Fix it without buying a single new part.",
+   "quiz": [
+    {
+     "q": "What does the flapper do in a toilet?",
+     "options": [
+      "Fills the tank",
+      "Seals the tank outlet and lifts to let water into the bowl",
+      "Cleans the bowl",
+      "Stops smells"
+     ],
+     "answer": 1,
+     "explain": "The flapper is the rubber seal that holds tank water back until you flush."
+    },
+    {
+     "q": "Why clean the rim holes under the bowl edge?",
+     "options": [
+      "For looks",
+      "Blocked holes make a weak flush",
+      "To save water",
+      "To stop smells"
+     ],
+     "answer": 1,
+     "explain": "Rim holes wash water around the bowl; if they are blocked, the flush is weak."
+    },
+    {
+     "q": "Where should the tank water level sit?",
+     "options": [
+      "At the very top",
+      "About 2cm below the overflow tube",
+      "Half full",
+      "At the bottom"
+     ],
+     "answer": 1,
+     "explain": "The right level gives a full strong flush without wasting water."
+    }
+   ],
+   "project": {
+    "title": "Fix a Toilet That Will Not Flush Well",
+    "brief": "Diagnose and fix a poorly flushing toilet.",
+    "checks": [
+     "Water level checked",
+     "Flapper and chain checked",
+     "Rim holes cleaned",
+     "Worn part replaced if needed",
+     "Three strong flushes in a row",
+     "Toilet silent after filling"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Toilet Chains and Flappers",
+   "goal": "Set the chain and flapper so the flush works every time.",
+   "video": {
+    "youtube_id": "kgnx2KgVH1g",
+    "title": "How to Fix a Toilet That Won't Flush",
+    "channel": "Sensible Digs"
+   },
+   "steps": [
+    "The chain links the flush handle to the flapper.",
+    "Set the chain with about 1cm of slack: too loose and it will not lift.",
+    "Check the flapper sits flat and seals the hole.",
+    "Replace a flapper that is warped or stiff."
+   ],
+   "task": "Set a chain and flapper so the toilet flushes first time, every time.",
+   "challenge": "Fix a toilet that needs two pushes to flush.",
+   "quiz": [
+    {
+     "q": "What does the chain do in a toilet?",
+     "options": [
+      "Holds the lid",
+      "Links the flush handle to the flapper",
+      "Stops the water",
+      "Cleans the bowl"
+     ],
+     "answer": 1,
+     "explain": "Pulling the handle lifts the chain, which lifts the flapper to flush."
+    },
+    {
+     "q": "How much slack should the chain have?",
+     "options": [
+      "None at all",
+      "About 1cm",
+      "10cm",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "A little slack lets the flapper seal; too much slack means it will not lift."
+    },
+    {
+     "q": "What is a flange plunger?",
+     "options": [
+      "A normal plunger",
+      "A plunger with a rubber flap that seals a toilet drain",
+      "A toilet brush",
+      "A drain snake"
+     ],
+     "answer": 1,
+     "explain": "The flap fits the toilet outlet to make a tight seal for plunging."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Unblock a Toilet Safely",
+   "goal": "Clear a blocked toilet with a plunger and an auger.",
+   "video": {
+    "youtube_id": "kgnx2KgVH1g",
+    "title": "How to Fix a Toilet That Won't Flush",
+    "channel": "Sensible Digs"
+   },
+   "steps": [
+    "Use a flange plunger (one with a rubber flap at the bottom) for toilets.",
+    "Push and pull hard for 15 seconds without breaking the seal.",
+    "If the plunger fails, use a toilet auger (a hand crank snake) to reach the blockage.",
+    "Flush once to test, and never flush twice if the water is rising."
+   ],
+   "task": "Clear a blocked toilet with a plunger.",
+   "challenge": "Clear a blockage without flooding the floor.",
+   "quiz": [
+    {
+     "q": "What does the chain do in a toilet?",
+     "options": [
+      "Holds the lid",
+      "Links the flush handle to the flapper",
+      "Stops the water",
+      "Cleans the bowl"
+     ],
+     "answer": 1,
+     "explain": "Pulling the handle lifts the chain, which lifts the flapper to flush."
+    },
+    {
+     "q": "How much slack should the chain have?",
+     "options": [
+      "None at all",
+      "About 1cm",
+      "10cm",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "A little slack lets the flapper seal; too much slack means it will not lift."
+    },
+    {
+     "q": "What is a flange plunger?",
+     "options": [
+      "A normal plunger",
+      "A plunger with a rubber flap that seals a toilet drain",
+      "A toilet brush",
+      "A drain snake"
+     ],
+     "answer": 1,
+     "explain": "The flap fits the toilet outlet to make a tight seal for plunging."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Adjust the Fill Valve",
+   "goal": "Set the fill valve so the tank fills to the right level.",
+   "video": {
+    "youtube_id": "kgnx2KgVH1g",
+    "title": "How to Fix a Toilet That Won't Flush",
+    "channel": "Sensible Digs"
+   },
+   "steps": [
+    "Find the fill valve and its float (the part that rises with the water).",
+    "Turn the adjustment screw to raise or lower the water level.",
+    "Set the water about 2cm below the overflow tube.",
+    "Flush and watch the tank refill to the same level."
+   ],
+   "task": "Set a fill valve so the tank fills to the right level every time.",
+   "challenge": "Set the level using only the adjustment screw.",
+   "quiz": [
+    {
+     "q": "What does the chain do in a toilet?",
+     "options": [
+      "Holds the lid",
+      "Links the flush handle to the flapper",
+      "Stops the water",
+      "Cleans the bowl"
+     ],
+     "answer": 1,
+     "explain": "Pulling the handle lifts the chain, which lifts the flapper to flush."
+    },
+    {
+     "q": "How much slack should the chain have?",
+     "options": [
+      "None at all",
+      "About 1cm",
+      "10cm",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "A little slack lets the flapper seal; too much slack means it will not lift."
+    },
+    {
+     "q": "What is a flange plunger?",
+     "options": [
+      "A normal plunger",
+      "A plunger with a rubber flap that seals a toilet drain",
+      "A toilet brush",
+      "A drain snake"
+     ],
+     "answer": 1,
+     "explain": "The flap fits the toilet outlet to make a tight seal for plunging."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Replace a Flapper and Fill Valve",
+   "goal": "Replace the two parts that cause most toilet problems.",
+   "video": {
+    "youtube_id": "uMolSL6rt2M",
+    "title": "How Do You Fix a Broken Toilet Flush",
+    "channel": "Best Modern Toilet"
+   },
+   "steps": [
+    "Turn off the water and empty the tank.",
+    "Unhook the old flapper and clip the new one on.",
+    "Unscrew the old fill valve and fit the new one.",
+    "Turn the water on, set the level and test the flush."
+   ],
+   "task": "Replace a flapper and fill valve so the toilet works like new.",
+   "challenge": "Replace both parts in under 30 minutes.",
+   "quiz": [
+    {
+     "q": "What makes a toilet keep running?",
+     "options": [
+      "Too much water",
+      "A leaking flapper or a fill valve set too high",
+      "A broken seat",
+      "Cold weather"
+     ],
+     "answer": 1,
+     "explain": "If the flapper leaks or the level is too high, water keeps flowing."
+    },
+    {
+     "q": "How do you stop a running toilet?",
+     "options": [
+      "Flush twice",
+      "Fix the flapper seal or lower the fill level",
+      "Turn off the water forever",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Fixing the seal or the level stops the constant flow."
+    },
+    {
+     "q": "What is a fill valve?",
+     "options": [
+      "The flush handle",
+      "The valve that refills the tank after a flush",
+      "The drain pipe",
+      "The overflow tube"
+     ],
+     "answer": 1,
+     "explain": "The fill valve lets water back into the tank and stops it at the right level."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Fix a Running Toilet",
+   "goal": "Stop a toilet that keeps running and wastes water.",
+   "video": {
+    "youtube_id": "uMolSL6rt2M",
+    "title": "How Do You Fix a Broken Toilet Flush",
+    "channel": "Best Modern Toilet"
+   },
+   "steps": [
+    "A running toilet usually means the flapper leaks or the fill valve is set too high.",
+    "Check the flapper seal first, then the water level.",
+    "Replace the worn part you find.",
+    "Listen for silence: a fixed toilet makes no sound after filling."
+   ],
+   "task": "Stop a running toilet so it is silent after filling.",
+   "challenge": "Find the cause of a running toilet in five minutes.",
+   "quiz": [
+    {
+     "q": "What makes a toilet keep running?",
+     "options": [
+      "Too much water",
+      "A leaking flapper or a fill valve set too high",
+      "A broken seat",
+      "Cold weather"
+     ],
+     "answer": 1,
+     "explain": "If the flapper leaks or the level is too high, water keeps flowing."
+    },
+    {
+     "q": "How do you stop a running toilet?",
+     "options": [
+      "Flush twice",
+      "Fix the flapper seal or lower the fill level",
+      "Turn off the water forever",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Fixing the seal or the level stops the constant flow."
+    },
+    {
+     "q": "What is a fill valve?",
+     "options": [
+      "The flush handle",
+      "The valve that refills the tank after a flush",
+      "The drain pipe",
+      "The overflow tube"
+     ],
+     "answer": 1,
+     "explain": "The fill valve lets water back into the tank and stops it at the right level."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Price a Small Plumbing Job",
+   "goal": "Price a small job from parts, time and a fair profit.",
+   "video": {
+    "youtube_id": "uMolSL6rt2M",
+    "title": "How Do You Fix a Broken Toilet Flush",
+    "channel": "Best Modern Toilet"
+   },
+   "steps": [
+    "List the parts a tap change needs and their prices.",
+    "Time the job and value your hours fairly.",
+    "Add 20 percent profit and round to a clean price.",
+    "Write a simple quote a customer can understand."
+   ],
+   "task": "Write a clear quote for a tap change with parts and labour shown.",
+   "challenge": "Price a toilet fix fairly for a same-day call-out.",
+   "quiz": [
+    {
+     "q": "What makes a toilet keep running?",
+     "options": [
+      "Too much water",
+      "A leaking flapper or a fill valve set too high",
+      "A broken seat",
+      "Cold weather"
+     ],
+     "answer": 1,
+     "explain": "If the flapper leaks or the level is too high, water keeps flowing."
+    },
+    {
+     "q": "How do you stop a running toilet?",
+     "options": [
+      "Flush twice",
+      "Fix the flapper seal or lower the fill level",
+      "Turn off the water forever",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Fixing the seal or the level stops the constant flow."
+    },
+    {
+     "q": "What is a fill valve?",
+     "options": [
+      "The flush handle",
+      "The valve that refills the tank after a flush",
+      "The drain pipe",
+      "The overflow tube"
+     ],
+     "answer": 1,
+     "explain": "The fill valve lets water back into the tank and stops it at the right level."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Slow Drains and Simple Fixes",
+   "goal": "Fix slow drains with simple tools, no chemicals.",
+   "video": {
+    "youtube_id": "Y8WGWY2KKV8",
+    "title": "How to Fix a Slow Flushing Toilet",
+    "channel": "Liquid Image Co"
+   },
+   "steps": [
+    "Check the trap first: most slow drains are blocked there.",
+    "Use a plunger on the sink, then clean the trap.",
+    "Check the vent pipe on the roof is not blocked.",
+    "Know when to call a pro: many slow drains at once means a main line problem."
+   ],
+   "task": "Fix a slow drain using only a plunger and trap cleaning.",
+   "challenge": "Tell a main-line blockage from a local one.",
+   "quiz": [
+    {
+     "q": "What is the trap under a sink for?",
+     "options": [
+      "To catch jewellery",
+      "To hold water that blocks drain smells",
+      "To store tools",
+      "To slow the water"
+     ],
+     "answer": 1,
+     "explain": "The U-bend holds water as a seal that stops smells coming up from the drain."
+    },
+    {
+     "q": "What should you check first for a slow drain?",
+     "options": [
+      "The roof",
+      "The trap under the sink",
+      "The water tank",
+      "The tap"
+     ],
+     "answer": 1,
+     "explain": "Most slow drains are blocked in the trap, which is easy to clean."
+    },
+    {
+     "q": "When should you call a professional plumber?",
+     "options": [
+      "For a dripping tap",
+      "When many drains are slow at once, which means a main line problem",
+      "To change a washer",
+      "To clean a trap"
+     ],
+     "answer": 1,
+     "explain": "Many slow drains together point to a main line blockage, which needs pro tools."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone job, gather parts and plan the day.",
+   "video": {
+    "youtube_id": "Y8WGWY2KKV8",
+    "title": "How to Fix a Slow Flushing Toilet",
+    "channel": "Liquid Image Co"
+   },
+   "steps": [
+    "Pick three real fixes that show your skills.",
+    "Buy or gather all washers, valves and fittings.",
+    "Write a step-by-step plan with time for testing.",
+    "Tell the homeowner what you will do and what it costs."
+   ],
+   "task": "Have all capstone parts bought and the plan written.",
+   "challenge": "Plan a capstone job that uses pipes, taps and a toilet fix.",
+   "quiz": [
+    {
+     "q": "What is the trap under a sink for?",
+     "options": [
+      "To catch jewellery",
+      "To hold water that blocks drain smells",
+      "To store tools",
+      "To slow the water"
+     ],
+     "answer": 1,
+     "explain": "The U-bend holds water as a seal that stops smells coming up from the drain."
+    },
+    {
+     "q": "What should you check first for a slow drain?",
+     "options": [
+      "The roof",
+      "The trap under the sink",
+      "The water tank",
+      "The tap"
+     ],
+     "answer": 1,
+     "explain": "Most slow drains are blocked in the trap, which is easy to clean."
+    },
+    {
+     "q": "When should you call a professional plumber?",
+     "options": [
+      "For a dripping tap",
+      "When many drains are slow at once, which means a main line problem",
+      "To change a washer",
+      "To clean a trap"
+     ],
+     "answer": 1,
+     "explain": "Many slow drains together point to a main line blockage, which needs pro tools."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Fix Three Real Problems",
+   "goal": "Fix three real plumbing problems in one home and test them all.",
+   "video": {
+    "youtube_id": "Y8WGWY2KKV8",
+    "title": "How to Fix a Slow Flushing Toilet",
+    "channel": "Liquid Image Co"
+   },
+   "steps": [
+    "Fix each problem following your plan, turning water off first.",
+    "Test every fix: run taps, flush toilets, watch for leaks.",
+    "Clean up fully and show the homeowner each fix.",
+    "Present your job sheet with parts, time and price."
+   ],
+   "task": "Present three fixed problems, all tested and leak-free.",
+   "challenge": "Finish all three fixes with time left for a final check.",
+   "quiz": [
+    {
+     "q": "What is the trap under a sink for?",
+     "options": [
+      "To catch jewellery",
+      "To hold water that blocks drain smells",
+      "To store tools",
+      "To slow the water"
+     ],
+     "answer": 1,
+     "explain": "The U-bend holds water as a seal that stops smells coming up from the drain."
+    },
+    {
+     "q": "What should you check first for a slow drain?",
+     "options": [
+      "The roof",
+      "The trap under the sink",
+      "The water tank",
+      "The tap"
+     ],
+     "answer": 1,
+     "explain": "Most slow drains are blocked in the trap, which is easy to clean."
+    },
+    {
+     "q": "When should you call a professional plumber?",
+     "options": [
+      "For a dripping tap",
+      "When many drains are slow at once, which means a main line problem",
+      "To change a washer",
+      "To clean a trap"
+     ],
+     "answer": 1,
+     "explain": "Many slow drains together point to a main line blockage, which needs pro tools."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Fix Three Real Plumbing Problems",
+  "brief": "Fix three real plumbing problems in one home — a leak, a tap and a toilet — test them all and present the job sheet.",
+  "checks": [
+   "Leak fixed and dry for 24 hours",
+   "Tap fitted or repaired with no drips",
+   "Toilet flushing strongly and silently after filling",
+   "All joints tested under water pressure",
+   "Work area left clean and tidy",
+   "Homeowner shown each fix and how it works",
+   "Job sheet shows parts, time and price"
+  ],
+  "deliverables": [
+   "Three fixed problems, all tested",
+   "Job sheet with parts, time and price",
+   "Photos of each fix: before and after",
+   "List of parts used with prices",
+   "Short care note for the homeowner"
+  ]
+ }
+}

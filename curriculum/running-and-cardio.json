@@ -1,0 +1,1718 @@
+{
+  "course": {
+    "id": "running-and-cardio",
+    "title": "Running and Cardio",
+    "level": "Beginner",
+    "tagline": "Go from first run to 5K with a plan that builds stamina safely.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Your first run: walk and jog",
+      "goal": "Start running the safe way: mix walking and slow jogging.",
+      "video": {
+        "youtube_id": "Jsk3ISXrGHw",
+        "title": "Couch to 5K (The Simple Plan That Actually Works)",
+        "channel": "Athlete With Asthma"
+      },
+      "steps": [
+        "Walk fast for 5 minutes to warm up.",
+        "Jog slowly for 1 minute, then walk for 2 minutes.",
+        "Repeat 5 times.",
+        "Walk slowly for 5 minutes to cool down."
+      ],
+      "task": "Do 5 rounds of 1 minute jog, 2 minutes walk.",
+      "challenge": "Jog for 2 minutes in one round.",
+      "quiz": [
+        {
+          "q": "What is the best way to start running?",
+          "options": [
+            "Run fast for an hour",
+            "Mix short jogs with walking",
+            "Sprint at once",
+            "Never walk"
+          ],
+          "answer": 1,
+          "explain": "Short jogs with walks build stamina safely."
+        },
+        {
+          "q": "How should your first jog feel?",
+          "options": [
+            "Out of breath",
+            "Painful",
+            "Easy enough to talk while moving",
+            "Like a race"
+          ],
+          "answer": 2,
+          "explain": "You should be able to talk during an easy jog."
+        },
+        {
+          "q": "What should you do at the end?",
+          "options": [
+            "Stop suddenly",
+            "Sprint home",
+            "Sit down at once",
+            "Walk slowly for 5 minutes"
+          ],
+          "answer": 3,
+          "explain": "A slow walk cools the body down gently."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Good running shoes",
+      "goal": "Learn what makes a good running shoe and how it should fit.",
+      "video": {
+        "youtube_id": "O0TKLYB008M",
+        "title": "How to Run 5km Easily",
+        "channel": "IronManSheik"
+      },
+      "steps": [
+        "Wear shoes with soft soles and good grip.",
+        "Check the fit: a thumb's width between your longest toe and the shoe end.",
+        "Tie your laces snug, not tight.",
+        "Run in your shoes for 5 minutes and check for pain."
+      ],
+      "task": "Check your shoe fit with the thumb test.",
+      "challenge": "Walk and jog in your shoes and note any pain.",
+      "quiz": [
+        {
+          "q": "How should running shoes fit?",
+          "options": [
+            "Very tight",
+            "Two sizes too big",
+            "A thumb's width past your longest toe",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "A thumb's width stops toes hitting the front."
+        },
+        {
+          "q": "What should the sole do?",
+          "options": [
+            "Be flat and hard",
+            "Be slippery",
+            "It does not matter",
+            "Cushion your steps and grip the ground"
+          ],
+          "answer": 3,
+          "explain": "A soft, grippy sole protects your feet."
+        },
+        {
+          "q": "What should you do if shoes hurt?",
+          "options": [
+            "Stop and try a different pair",
+            "Keep running",
+            "Run faster",
+            "Ignore the pain"
+          ],
+          "answer": 0,
+          "explain": "Painful shoes can cause injury."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "How to breathe while running",
+      "goal": "Learn slow, steady breathing for running.",
+      "video": {
+        "youtube_id": "YACmfwcBDnM",
+        "title": "Couch to 5K",
+        "channel": "Dopa Productions"
+      },
+      "steps": [
+        "Breathe in through your nose and out through your mouth.",
+        "Try a rhythm: in for 3 steps, out for 3 steps.",
+        "Slow down if you cannot talk.",
+        "Practise the rhythm on your next walk-jog."
+      ],
+      "task": "Practise in-for-3, out-for-3 breathing on a walk.",
+      "challenge": "Run one round breathing only through your nose.",
+      "quiz": [
+        {
+          "q": "How should you breathe while running?",
+          "options": [
+            "Fast and shallow",
+            "Hold your breath",
+            "Only through your mouth",
+            "Slow and steady, in nose, out mouth"
+          ],
+          "answer": 3,
+          "explain": "Slow breathing keeps you calm and steady."
+        },
+        {
+          "q": "What is a good breathing rhythm?",
+          "options": [
+            "In for 3 steps, out for 3 steps",
+            "In for 1 step, out for 1 step",
+            "No rhythm",
+            "Hold breath for 10 steps"
+          ],
+          "answer": 0,
+          "explain": "A steady rhythm keeps breathing calm."
+        },
+        {
+          "q": "What should you do if you cannot talk while running?",
+          "options": [
+            "Run faster",
+            "Slow down",
+            "Stop running forever",
+            "Hold your breath"
+          ],
+          "answer": 1,
+          "explain": "Slowing down brings breathing back to calm."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Run tall: good form",
+      "goal": "Learn simple running form: tall body, relaxed arms.",
+      "video": {
+        "youtube_id": "PblCzVWJeww",
+        "title": "Sarah's top Couch to 5K tips",
+        "channel": "Team Tommy's"
+      },
+      "steps": [
+        "Stand tall and look forward, not down.",
+        "Keep your shoulders relaxed and down.",
+        "Swing your arms forward and back, not across your body.",
+        "Land softly on the middle of your foot."
+      ],
+      "task": "Run for 5 minutes focusing on tall posture.",
+      "challenge": "Ask a friend to watch your arms while you run.",
+      "quiz": [
+        {
+          "q": "Where should you look while running?",
+          "options": [
+            "Forward, not down at your feet",
+            "Down at your feet",
+            "Behind you",
+            "At your phone"
+          ],
+          "answer": 0,
+          "explain": "Looking forward keeps your body tall."
+        },
+        {
+          "q": "What should your arms do?",
+          "options": [
+            "Cross over your chest",
+            "Swing forward and back",
+            "Stay stiff",
+            "Wave around"
+          ],
+          "answer": 1,
+          "explain": "Arms swinging forward and back help you run."
+        },
+        {
+          "q": "How should your feet land?",
+          "options": [
+            "Hard on your heels",
+            "On your toes only",
+            "Softly on the middle of the foot",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "A soft landing protects your joints."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Walk fast to build stamina",
+      "goal": "Build your base with fast walking.",
+      "video": {
+        "youtube_id": "21ZduhnPRKU",
+        "title": "How to Get Started Running",
+        "channel": "REI"
+      },
+      "steps": [
+        "Walk fast for 20 minutes today.",
+        "Swing your arms as you walk.",
+        "Keep a pace where you breathe faster but can still talk.",
+        "Write down how far you walked."
+      ],
+      "task": "Walk fast for 20 minutes today.",
+      "challenge": "Walk fast for 30 minutes tomorrow.",
+      "quiz": [
+        {
+          "q": "What is stamina?",
+          "options": [
+            "Speed only",
+            "How long you can keep going without getting tired",
+            "Strength only",
+            "Flexibility"
+          ],
+          "answer": 1,
+          "explain": "Stamina is lasting power."
+        },
+        {
+          "q": "Why walk fast before running more?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "It builds your base safely",
+            "It makes you slower"
+          ],
+          "answer": 2,
+          "explain": "Fast walking builds stamina without strain."
+        },
+        {
+          "q": "How should fast walking feel?",
+          "options": [
+            "Out of breath",
+            "Like sleeping",
+            "Painful",
+            "Breathing faster but still able to talk"
+          ],
+          "answer": 3,
+          "explain": "You should be warm but able to talk."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Your first 2 km",
+      "goal": "Run and walk your first 2 kilometres.",
+      "video": {
+        "youtube_id": "EgtA5JnvYSY",
+        "title": "Low-Impact Aerobics Workout AND What Is Cardio?",
+        "channel": "The Fit RV"
+      },
+      "steps": [
+        "Warm up with a 5-minute fast walk.",
+        "Jog 2 minutes, walk 1 minute, repeat until you reach 2 km.",
+        "Cool down with a 5-minute slow walk.",
+        "Write down your time."
+      ],
+      "task": "Cover 2 km with jog and walk rounds.",
+      "challenge": "Jog 3 minutes in one round.",
+      "quiz": [
+        {
+          "q": "How should you reach 2 km first?",
+          "options": [
+            "By running non-stop at once",
+            "By sprinting",
+            "With jog and walk rounds",
+            "By walking only"
+          ],
+          "answer": 2,
+          "explain": "Jog-walk rounds get you there safely."
+        },
+        {
+          "q": "What should you do if you get tired?",
+          "options": [
+            "Quit",
+            "Run faster",
+            "Sit down for an hour",
+            "Walk until you feel ready, then jog again"
+          ],
+          "answer": 3,
+          "explain": "Walking breaks let you finish the distance."
+        },
+        {
+          "q": "Why write down your time?",
+          "options": [
+            "So you can see yourself getting faster",
+            "To fill paper",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 0,
+          "explain": "Your time shows progress."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your walk-jog plan",
+      "goal": "Put week 1 together: write your own walk-jog plan.",
+      "video": {
+        "youtube_id": "p7L5gMTdH1Q",
+        "title": "14 BASIC STEP AEROBICS MOVEMENTS FOR BEGINNERS",
+        "channel": "Rhythm n Health"
+      },
+      "steps": [
+        "Write 3 sessions for next week: walk-jog rounds.",
+        "Each session: warm-up, jog-walk rounds, cool-down.",
+        "Make each session a little longer than the last.",
+        "Do session 1 and write your time."
+      ],
+      "task": "Write your 3-session plan and do session 1.",
+      "challenge": "Do all 3 sessions this week.",
+      "quiz": [
+        {
+          "q": "What should each session have?",
+          "options": [
+            "Only running",
+            "Only walking",
+            "No warm-up",
+            "Warm-up, jog-walk rounds, cool-down"
+          ],
+          "answer": 3,
+          "explain": "A full session warms up, works and cools down."
+        },
+        {
+          "q": "How should sessions change through the week?",
+          "options": [
+            "Each one a little longer",
+            "Each one much harder",
+            "Each one shorter",
+            "They should stay the same"
+          ],
+          "answer": 0,
+          "explain": "Small adds build stamina safely."
+        },
+        {
+          "q": "Why write your plan down?",
+          "options": [
+            "To fill paper",
+            "So you can follow it and see progress",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "A written plan is easy to follow."
+        }
+      ],
+      "project": {
+        "title": "Your walk-jog plan",
+        "brief": "Write your own walk-jog plan with 3 sessions, warm-up, jog-walk rounds and cool-down, and do session 1.",
+        "checks": [
+          "Plan has 3 sessions",
+          "Each session has a warm-up",
+          "Each session has jog-walk rounds",
+          "Each session has a cool-down",
+          "Did session 1",
+          "Wrote your time down"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Rest and stretch for runners",
+      "goal": "Learn stretches that keep runners healthy.",
+      "video": {
+        "youtube_id": "xqToP1GlMyU",
+        "title": "Do This 10 Min Slow Jog Workout at Home (Standing, Low Impact, No Jumping)",
+        "channel": "Mist & Motion Fitness"
+      },
+      "steps": [
+        "Stretch your calves: step back, press the heel down, hold 20 seconds.",
+        "Stretch your thighs: hold your foot behind you, hold 20 seconds.",
+        "Stretch your hips: low lunge, hold 20 seconds per side.",
+        "Take a rest day today."
+      ],
+      "task": "Do the 3 stretches after your next run.",
+      "challenge": "Hold each stretch for 30 seconds.",
+      "quiz": [
+        {
+          "q": "Why stretch after running?",
+          "options": [
+            "It eases tight muscles",
+            "It makes you faster at once",
+            "It is only for show",
+            "It replaces rest"
+          ],
+          "answer": 0,
+          "explain": "Stretching after a run eases stiffness."
+        },
+        {
+          "q": "How long should you hold a stretch?",
+          "options": [
+            "1 second",
+            "About 20 seconds",
+            "5 minutes",
+            "No time"
+          ],
+          "answer": 1,
+          "explain": "Twenty seconds lets the muscle relax."
+        },
+        {
+          "q": "What is a good rest-day activity?",
+          "options": [
+            "A hard run",
+            "A sprint",
+            "A slow walk or gentle stretch",
+            "Lifting heavy"
+          ],
+          "answer": 2,
+          "explain": "Gentle movement helps recovery."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Run 5 minutes without stopping",
+      "goal": "Build up to 5 minutes of steady jogging.",
+      "video": {
+        "youtube_id": "DtXZy7yVt-g",
+        "title": "15-Minute Cardio Workout at Home (No Jumping)",
+        "channel": "Fire Up Fitness"
+      },
+      "steps": [
+        "Warm up with a 5-minute walk.",
+        "Jog slowly for 5 minutes without stopping.",
+        "If you need to, walk for 1 minute and try again.",
+        "Cool down with a slow walk."
+      ],
+      "task": "Jog for 5 minutes without stopping.",
+      "challenge": "Jog for 6 minutes without stopping.",
+      "quiz": [
+        {
+          "q": "How do you run longer?",
+          "options": [
+            "Run faster",
+            "Slow down and build up a little at a time",
+            "Hold your breath",
+            "Skip warm-ups"
+          ],
+          "answer": 1,
+          "explain": "Slow and steady builds distance."
+        },
+        {
+          "q": "What should you do if you must stop?",
+          "options": [
+            "Quit for the week",
+            "Sprint",
+            "Walk, then try again",
+            "Sit down for an hour"
+          ],
+          "answer": 2,
+          "explain": "A walk break is part of learning."
+        },
+        {
+          "q": "How fast should a steady jog be?",
+          "options": [
+            "As fast as you can",
+            "A sprint",
+            "It does not matter",
+            "Slow enough to talk"
+          ],
+          "answer": 3,
+          "explain": "Talking pace is the right pace."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Step aerobics for cardio",
+      "goal": "Learn simple step moves for cardio at home.",
+      "video": {
+        "youtube_id": "PimJFTDooVE",
+        "title": "Beginner Total Body Strength Training for Runners",
+        "channel": "Sunny Health & Fitness"
+      },
+      "steps": [
+        "Learn the basic step: up, up, down, down on a low step.",
+        "Try a knee lift on the step.",
+        "Try a side step on and off the step.",
+        "Do each move for 1 minute."
+      ],
+      "task": "Do 5 minutes of step moves.",
+      "challenge": "Add arm swings to your step moves.",
+      "quiz": [
+        {
+          "q": "What is step aerobics?",
+          "options": [
+            "Running",
+            "Lifting",
+            "Cardio moves on and off a low step",
+            "Dancing only"
+          ],
+          "answer": 2,
+          "explain": "Step aerobics uses a low platform for cardio."
+        },
+        {
+          "q": "How high should your step be?",
+          "options": [
+            "Very high",
+            "It does not matter",
+            "As high as a chair",
+            "Low, about 15 cm"
+          ],
+          "answer": 3,
+          "explain": "A low step is safe for beginners."
+        },
+        {
+          "q": "What should you do if you lose the rhythm?",
+          "options": [
+            "Slow down and march in place",
+            "Keep going fast",
+            "Jump off",
+            "Quit"
+          ],
+          "answer": 0,
+          "explain": "Slowing down gets your rhythm back."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Interval training, simply",
+      "goal": "Learn intervals: short faster bits with easy bits in between.",
+      "video": {
+        "youtube_id": "lspgMgAGDZM",
+        "title": "Heart Opening Yoga Flow",
+        "channel": "Sunny Health & Fitness"
+      },
+      "steps": [
+        "Walk fast for 2 minutes, then jog for 1 minute.",
+        "Repeat 5 times.",
+        "Cool down with a slow walk.",
+        "Write down how you felt."
+      ],
+      "task": "Do 5 rounds of 2 minutes fast walk, 1 minute jog.",
+      "challenge": "Try 1 minute fast, 2 minutes easy, 5 times.",
+      "quiz": [
+        {
+          "q": "What is interval training?",
+          "options": [
+            "Running non-stop",
+            "Sleeping",
+            "Lifting only",
+            "Short faster bits with easy bits in between"
+          ],
+          "answer": 3,
+          "explain": "Intervals mix effort and rest."
+        },
+        {
+          "q": "Why use intervals?",
+          "options": [
+            "They build speed and stamina faster",
+            "They waste time",
+            "They are only for pros",
+            "They do not work"
+          ],
+          "answer": 0,
+          "explain": "Intervals train the heart in short bursts."
+        },
+        {
+          "q": "How should the fast bit feel?",
+          "options": [
+            "Easy",
+            "Hard but doable for 1 minute",
+            "Impossible",
+            "Painful"
+          ],
+          "answer": 1,
+          "explain": "Hard but doable is the right effort."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Run on different ground",
+      "goal": "Learn how running feels on grass, road and track.",
+      "video": {
+        "youtube_id": "PwKT4hUJSQc",
+        "title": "30-Minute Easy Treadmill Walk",
+        "channel": "Sunny Health & Fitness"
+      },
+      "steps": [
+        "Run on grass today: it is softer on your legs.",
+        "Run on a road tomorrow: watch for cars and holes.",
+        "Try a track if you can: flat and safe.",
+        "Write down which ground felt best."
+      ],
+      "task": "Run on grass today.",
+      "challenge": "Try a new route this week.",
+      "quiz": [
+        {
+          "q": "Why is grass good for beginners?",
+          "options": [
+            "It is soft on the legs",
+            "It is hard",
+            "It is slippery",
+            "It is not useful"
+          ],
+          "answer": 0,
+          "explain": "Soft ground lowers impact on joints."
+        },
+        {
+          "q": "What should you watch for on roads?",
+          "options": [
+            "Nothing",
+            "Cars, holes and uneven ground",
+            "Only your phone",
+            "Only the time"
+          ],
+          "answer": 1,
+          "explain": "Roads need care for safety."
+        },
+        {
+          "q": "Why try different routes?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "It keeps running fun and fresh",
+            "It makes you slower"
+          ],
+          "answer": 2,
+          "explain": "New routes keep you motivated."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Strength for runners",
+      "goal": "Learn 3 strength moves that help runners.",
+      "video": {
+        "youtube_id": "qsgbkBGzXLM",
+        "title": "5 Minute Express Stretch",
+        "channel": "Sunny Health & Fitness"
+      },
+      "steps": [
+        "Do 10 squats, 10 lunges and a 20-second plank.",
+        "Rest 1 minute and repeat once.",
+        "Do this 2 times this week.",
+        "Write down your numbers."
+      ],
+      "task": "Do 2 rounds of squats, lunges and plank.",
+      "challenge": "Add 2 reps to each move next time.",
+      "quiz": [
+        {
+          "q": "Why do runners need strength?",
+          "options": [
+            "They do not need it",
+            "Strong legs prevent injury and help you run better",
+            "It makes them slower",
+            "It is only for lifters"
+          ],
+          "answer": 1,
+          "explain": "Strength protects joints and improves running."
+        },
+        {
+          "q": "What is a good runner strength move?",
+          "options": [
+            "A heavy deadlift",
+            "A handstand",
+            "A squat",
+            "A 100 kg lift"
+          ],
+          "answer": 2,
+          "explain": "Squats build the legs runners need."
+        },
+        {
+          "q": "How often should runners do strength?",
+          "options": [
+            "Every day",
+            "Never",
+            "Once a month",
+            "About 2 times a week"
+          ],
+          "answer": 3,
+          "explain": "Twice a week is enough to help."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your 3 km plan",
+      "goal": "Put week 2 together: build a plan to reach 3 km.",
+      "video": {
+        "youtube_id": "Jsk3ISXrGHw",
+        "title": "Couch to 5K (The Simple Plan That Actually Works)",
+        "channel": "Athlete With Asthma"
+      },
+      "steps": [
+        "Write 3 sessions: jog-walk rounds that reach 3 km.",
+        "Make the jog parts a little longer each session.",
+        "Do session 1 and write your time.",
+        "Rest one day between sessions."
+      ],
+      "task": "Write your 3 km plan and do session 1.",
+      "challenge": "Reach 3 km by the end of the week.",
+      "quiz": [
+        {
+          "q": "What is the goal this week?",
+          "options": [
+            "Run 10 km at once",
+            "Sprint 100 m",
+            "Reach 3 km with jog-walk rounds",
+            "Walk only"
+          ],
+          "answer": 2,
+          "explain": "Three kilometres is a safe next step."
+        },
+        {
+          "q": "How should the jog parts change?",
+          "options": [
+            "Much longer at once",
+            "Shorter",
+            "They should stay the same",
+            "A little longer each session"
+          ],
+          "answer": 3,
+          "explain": "Small adds build stamina safely."
+        },
+        {
+          "q": "Why rest between sessions?",
+          "options": [
+            "Rest lets the body repair and get stronger",
+            "Rest wastes time",
+            "Rest makes you weaker",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "Rest days are when the body gets stronger."
+        }
+      ],
+      "project": {
+        "title": "Your 3 km plan",
+        "brief": "Build a plan to reach 3 km with jog-walk rounds, longer jog parts each session, and rest days between sessions.",
+        "checks": [
+          "Plan reaches 3 km",
+          "Jog parts grow each session",
+          "Rest days are included",
+          "Did session 1",
+          "Wrote your times",
+          "Reached 3 km by the end of the week"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Run 10 minutes without stopping",
+      "goal": "Build up to 10 minutes of steady running.",
+      "video": {
+        "youtube_id": "O0TKLYB008M",
+        "title": "How to Run 5km Easily",
+        "channel": "IronManSheik"
+      },
+      "steps": [
+        "Warm up with a 5-minute walk.",
+        "Jog slowly for 10 minutes.",
+        "Walk if you must, then jog again.",
+        "Cool down with a slow walk and stretch."
+      ],
+      "task": "Jog for 10 minutes without stopping.",
+      "challenge": "Jog for 12 minutes without stopping.",
+      "quiz": [
+        {
+          "q": "How do you reach 10 minutes?",
+          "options": [
+            "Run fast at once",
+            "Hold your breath",
+            "Skip warm-ups",
+            "Build up a little at a time"
+          ],
+          "answer": 3,
+          "explain": "Small adds each week build distance."
+        },
+        {
+          "q": "What should you do if you need a break?",
+          "options": [
+            "Walk for 1 minute, then jog again",
+            "Quit",
+            "Sprint",
+            "Sit for an hour"
+          ],
+          "answer": 0,
+          "explain": "A short walk break is part of training."
+        },
+        {
+          "q": "How should a 10-minute jog feel?",
+          "options": [
+            "Like a race",
+            "Steady and talkable",
+            "Painful",
+            "Impossible"
+          ],
+          "answer": 1,
+          "explain": "Steady and talkable is the right pace."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Eat and drink for running",
+      "goal": "Learn simple food and water rules for runners.",
+      "video": {
+        "youtube_id": "YACmfwcBDnM",
+        "title": "Couch to 5K",
+        "channel": "Dopa Productions"
+      },
+      "steps": [
+        "Eat a light meal 2 hours before a run.",
+        "Drink water before, during and after long runs.",
+        "Eat carbs before a run for energy.",
+        "Eat protein after a run to repair muscles."
+      ],
+      "task": "Drink water before and after your run today.",
+      "challenge": "Eat a banana 1 hour before your run.",
+      "quiz": [
+        {
+          "q": "When should you eat before a run?",
+          "options": [
+            "A light meal about 2 hours before",
+            "Right before you start",
+            "Never eat",
+            "A heavy meal at once"
+          ],
+          "answer": 0,
+          "explain": "Two hours gives time to digest."
+        },
+        {
+          "q": "What should you eat before a run?",
+          "options": [
+            "A heavy fried meal",
+            "Carbs for energy, like a banana",
+            "Nothing",
+            "Only sweets"
+          ],
+          "answer": 1,
+          "explain": "Carbs give energy for the run."
+        },
+        {
+          "q": "Why drink water while running?",
+          "options": [
+            "It slows you down",
+            "It is not needed",
+            "You lose water in sweat",
+            "It makes you weak"
+          ],
+          "answer": 2,
+          "explain": "Water replaces sweat and keeps you strong."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Run in the morning",
+      "goal": "Learn how to run well in the morning.",
+      "video": {
+        "youtube_id": "PblCzVWJeww",
+        "title": "Sarah's top Couch to 5K tips",
+        "channel": "Team Tommy's"
+      },
+      "steps": [
+        "Wake up, drink a glass of water.",
+        "Eat a small snack like a banana.",
+        "Warm up with a 5-minute walk.",
+        "Run your session and stretch after."
+      ],
+      "task": "Run in the morning tomorrow.",
+      "challenge": "Run in the morning 3 times this week.",
+      "quiz": [
+        {
+          "q": "Why drink water first in the morning?",
+          "options": [
+            "It is a rule with no reason",
+            "You wake up a little dry",
+            "It makes you slow",
+            "It is not needed"
+          ],
+          "answer": 1,
+          "explain": "Water after sleep wakes the body up."
+        },
+        {
+          "q": "What is a good pre-run snack?",
+          "options": [
+            "A heavy meal",
+            "Nothing",
+            "A banana",
+            "A big fry-up"
+          ],
+          "answer": 2,
+          "explain": "A banana gives quick energy."
+        },
+        {
+          "q": "How long should you warm up?",
+          "options": [
+            "30 seconds",
+            "30 minutes",
+            "No time",
+            "About 5 minutes"
+          ],
+          "answer": 3,
+          "explain": "Five minutes wakes the body up."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Deal with a side stitch",
+      "goal": "Learn what a side stitch is and how to fix it.",
+      "video": {
+        "youtube_id": "21ZduhnPRKU",
+        "title": "How to Get Started Running",
+        "channel": "REI"
+      },
+      "steps": [
+        "A side stitch is a sharp pain under your ribs while running.",
+        "Slow down to a walk and breathe slowly.",
+        "Press gently on the sore spot while breathing out.",
+        "Do not eat a big meal right before running."
+      ],
+      "task": "Practise slow breathing on your next run.",
+      "challenge": "Walk for 2 minutes if a stitch comes.",
+      "quiz": [
+        {
+          "q": "What is a side stitch?",
+          "options": [
+            "A broken bone",
+            "A muscle tear",
+            "A sharp pain under the ribs while running",
+            "A heart problem"
+          ],
+          "answer": 2,
+          "explain": "A stitch is a common, harmless pain."
+        },
+        {
+          "q": "What should you do if you get one?",
+          "options": [
+            "Run faster",
+            "Hold your breath",
+            "Stop running forever",
+            "Slow to a walk and breathe slowly"
+          ],
+          "answer": 3,
+          "explain": "Slowing down and breathing eases a stitch."
+        },
+        {
+          "q": "How can you avoid a stitch?",
+          "options": [
+            "Do not eat a big meal right before running",
+            "Eat a lot before",
+            "Run on a full stomach",
+            "It cannot be avoided"
+          ],
+          "answer": 0,
+          "explain": "A light stomach helps prevent stitches."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Run with a friend",
+      "goal": "Run with a friend to make it fun and steady.",
+      "video": {
+        "youtube_id": "EgtA5JnvYSY",
+        "title": "Low-Impact Aerobics Workout AND What Is Cardio?",
+        "channel": "The Fit RV"
+      },
+      "steps": [
+        "Invite a friend to run with you.",
+        "Run at a pace where you can both talk.",
+        "Take turns leading the pace.",
+        "Write down how the run felt."
+      ],
+      "task": "Run with a friend this week.",
+      "challenge": "Run at talking pace for 15 minutes with a friend.",
+      "quiz": [
+        {
+          "q": "Why run with a friend?",
+          "options": [
+            "It is slower",
+            "It is not useful",
+            "It makes you weaker",
+            "It makes running fun and keeps you going"
+          ],
+          "answer": 3,
+          "explain": "A friend adds fun and keeps you honest."
+        },
+        {
+          "q": "What pace should you run with a friend?",
+          "options": [
+            "Talking pace",
+            "Sprint pace",
+            "Race pace",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Talking pace lets you both enjoy the run."
+        },
+        {
+          "q": "What should you do if your friend is faster?",
+          "options": [
+            "Try to keep up and get hurt",
+            "Run your own pace and meet at the end",
+            "Quit",
+            "Run alone forever"
+          ],
+          "answer": 1,
+          "explain": "Your own pace keeps you safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Your first 5K plan",
+      "goal": "Learn the plan that takes you from running to 5K.",
+      "video": {
+        "youtube_id": "p7L5gMTdH1Q",
+        "title": "14 BASIC STEP AEROBICS MOVEMENTS FOR BEGINNERS",
+        "channel": "Rhythm n Health"
+      },
+      "steps": [
+        "A 5K is 5 kilometres.",
+        "Build up: add 5 minutes to your long run each week.",
+        "Run 3 times a week: 2 short runs and 1 long run.",
+        "Write your 4-week 5K plan."
+      ],
+      "task": "Write your 4-week 5K plan.",
+      "challenge": "Add 5 minutes to your long run this week.",
+      "quiz": [
+        {
+          "q": "How far is a 5K?",
+          "options": [
+            "5 kilometres",
+            "500 metres",
+            "50 kilometres",
+            "5 miles"
+          ],
+          "answer": 0,
+          "explain": "A 5K is 5 kilometres."
+        },
+        {
+          "q": "How should you build to 5K?",
+          "options": [
+            "Run 5K at once",
+            "Add a little distance each week",
+            "Run faster only",
+            "Skip training"
+          ],
+          "answer": 1,
+          "explain": "Small weekly adds build you to 5K safely."
+        },
+        {
+          "q": "How many runs a week suit a beginner?",
+          "options": [
+            "7 runs a week",
+            "1 run a month",
+            "About 3 runs a week",
+            "Every day"
+          ],
+          "answer": 2,
+          "explain": "Three runs give growth and rest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your 5K plan",
+      "goal": "Put week 3 together: start your 4-week 5K plan.",
+      "video": {
+        "youtube_id": "xqToP1GlMyU",
+        "title": "Do This 10 Min Slow Jog Workout at Home (Standing, Low Impact, No Jumping)",
+        "channel": "Mist & Motion Fitness"
+      },
+      "steps": [
+        "Write your plan: 3 runs a week for 4 weeks.",
+        "Week 1: run 15 minutes, jog-walk as needed.",
+        "Add 5 minutes to the long run each week.",
+        "Do week 1, session 1 today."
+      ],
+      "task": "Write your 5K plan and start week 1.",
+      "challenge": "Finish all 3 runs in week 1.",
+      "quiz": [
+        {
+          "q": "How many weeks does the plan take?",
+          "options": [
+            "1 week",
+            "4 weeks",
+            "1 year",
+            "1 day"
+          ],
+          "answer": 1,
+          "explain": "Four weeks builds you to 5K safely."
+        },
+        {
+          "q": "What should each week add?",
+          "options": [
+            "Double everything",
+            "Nothing",
+            "A little more time or distance",
+            "Much harder runs"
+          ],
+          "answer": 2,
+          "explain": "Small adds keep progress safe."
+        },
+        {
+          "q": "What should you do if you miss a run?",
+          "options": [
+            "Quit the plan",
+            "Run twice as far",
+            "Skip the week",
+            "Do it the next day or move on"
+          ],
+          "answer": 3,
+          "explain": "One missed run does not ruin the plan."
+        }
+      ],
+      "project": {
+        "title": "Your 5K plan",
+        "brief": "Write a 4-week 5K plan with 3 runs a week, 2 short runs and 1 long run, adding 5 minutes to the long run each week.",
+        "checks": [
+          "Plan has 4 weeks",
+          "Plan has 3 runs a week",
+          "Long run grows 5 minutes a week",
+          "Started week 1",
+          "Finished all 3 runs in week 1",
+          "Wrote the plan down"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Run 20 minutes without stopping",
+      "goal": "Build up to 20 minutes of steady running.",
+      "video": {
+        "youtube_id": "DtXZy7yVt-g",
+        "title": "15-Minute Cardio Workout at Home (No Jumping)",
+        "channel": "Fire Up Fitness"
+      },
+      "steps": [
+        "Warm up with a 5-minute walk.",
+        "Jog slowly for 20 minutes.",
+        "Walk for 1 minute if you must, then jog again.",
+        "Cool down and stretch."
+      ],
+      "task": "Jog for 20 minutes without stopping.",
+      "challenge": "Jog for 25 minutes without stopping.",
+      "quiz": [
+        {
+          "q": "How do you reach 20 minutes?",
+          "options": [
+            "Run fast at once",
+            "Hold your breath",
+            "Add a few minutes each week",
+            "Skip warm-ups"
+          ],
+          "answer": 2,
+          "explain": "Small weekly adds build distance."
+        },
+        {
+          "q": "What should you do if you feel very tired?",
+          "options": [
+            "Push through the pain",
+            "Sprint",
+            "Stop for the week",
+            "Slow down or walk for a minute"
+          ],
+          "answer": 3,
+          "explain": "Slowing down keeps you safe."
+        },
+        {
+          "q": "What is a good pace for a long run?",
+          "options": [
+            "Slow and talkable",
+            "Race pace",
+            "Sprint pace",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Slow and talkable builds stamina."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Warm up and cool down well",
+      "goal": "Learn a full warm-up and cool-down for runners.",
+      "video": {
+        "youtube_id": "PimJFTDooVE",
+        "title": "Beginner Total Body Strength Training for Runners",
+        "channel": "Sunny Health & Fitness"
+      },
+      "steps": [
+        "Warm-up: 5-minute walk, leg swings, gentle jog.",
+        "Cool-down: 5-minute slow walk, calf and thigh stretches.",
+        "Do both every time you run.",
+        "Write the steps on a card."
+      ],
+      "task": "Do the full warm-up and cool-down today.",
+      "challenge": "Teach the warm-up to a friend.",
+      "quiz": [
+        {
+          "q": "What should a warm-up include?",
+          "options": [
+            "A sprint",
+            "Heavy lifting",
+            "Nothing",
+            "Walking, leg swings and a gentle jog"
+          ],
+          "answer": 3,
+          "explain": "A warm-up wakes the body up slowly."
+        },
+        {
+          "q": "What should a cool-down include?",
+          "options": [
+            "A slow walk and stretches",
+            "A sprint",
+            "Heavy lifting",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A cool-down slows the body down gently."
+        },
+        {
+          "q": "Why warm up and cool down every time?",
+          "options": [
+            "They waste time",
+            "They lower injury risk",
+            "They are only for show",
+            "They make you slower"
+          ],
+          "answer": 1,
+          "explain": "Warm-ups and cool-downs protect the body."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Race day: your first fun run",
+      "goal": "Learn how to enjoy your first 5K fun run.",
+      "video": {
+        "youtube_id": "lspgMgAGDZM",
+        "title": "Heart Opening Yoga Flow",
+        "channel": "Sunny Health & Fitness"
+      },
+      "steps": [
+        "Pick a local fun run and sign up.",
+        "Run your plan in the weeks before.",
+        "On race day, start slow and enjoy it.",
+        "Celebrate at the finish, whatever your time."
+      ],
+      "task": "Find a local fun run to aim for.",
+      "challenge": "Tell a friend about your race goal.",
+      "quiz": [
+        {
+          "q": "How should you start a race?",
+          "options": [
+            "Slowly, at your own pace",
+            "As fast as you can",
+            "At the very front",
+            "Without warming up"
+          ],
+          "answer": 0,
+          "explain": "Starting slow saves energy for the finish."
+        },
+        {
+          "q": "What should you do the week before a race?",
+          "options": [
+            "Run harder than ever",
+            "Run less and rest more",
+            "Stop eating",
+            "Skip sleep"
+          ],
+          "answer": 1,
+          "explain": "An easy week leaves you fresh for race day."
+        },
+        {
+          "q": "What matters most on race day?",
+          "options": [
+            "Winning",
+            "Beating everyone",
+            "Finishing and enjoying it",
+            "Your exact time"
+          ],
+          "answer": 2,
+          "explain": "Finishing your first race is the win."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Keep running for life",
+      "goal": "Learn how to keep running as a habit.",
+      "video": {
+        "youtube_id": "PwKT4hUJSQc",
+        "title": "30-Minute Easy Treadmill Walk",
+        "channel": "Sunny Health & Fitness"
+      },
+      "steps": [
+        "Run 3 times a week, even if short.",
+        "Join a local running group.",
+        "Set a new goal: a longer run or a faster time.",
+        "Write down why you love running."
+      ],
+      "task": "Join or find a running group this week.",
+      "challenge": "Set your next running goal.",
+      "quiz": [
+        {
+          "q": "How often should you run to keep the habit?",
+          "options": [
+            "Every day",
+            "About 3 times a week",
+            "Once a month",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Three times a week keeps the habit alive."
+        },
+        {
+          "q": "Why join a running group?",
+          "options": [
+            "It is slower",
+            "It is not useful",
+            "Friends keep you going",
+            "It makes you weaker"
+          ],
+          "answer": 2,
+          "explain": "A group adds fun and keeps you honest."
+        },
+        {
+          "q": "What is a good next goal?",
+          "options": [
+            "Quitting",
+            "Running less",
+            "No goal",
+            "A longer run or a faster time"
+          ],
+          "answer": 3,
+          "explain": "A new goal keeps you growing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Run your first 3 km",
+      "goal": "Run 3 km without stopping for long.",
+      "video": {
+        "youtube_id": "qsgbkBGzXLM",
+        "title": "5 Minute Express Stretch",
+        "channel": "Sunny Health & Fitness"
+      },
+      "steps": [
+        "Warm up with a 5-minute walk.",
+        "Run slowly and steadily.",
+        "If you need to stop, walk for 1 minute, then run again.",
+        "Breathe in through your nose and out through your mouth.",
+        "Finish with a 5-minute walk.",
+        "Stretch your legs after."
+      ],
+      "task": "Run 3 km today; walking breaks are fine.",
+      "challenge": "Run the whole 3 km with only 1 walking break.",
+      "quiz": [
+        {
+          "q": "What should you do if you need to stop?",
+          "options": [
+            "Sit down and quit",
+            "Sprint to finish",
+            "Walk for 1 minute, then run again",
+            "Run faster"
+          ],
+          "answer": 2,
+          "explain": "A short walk lets you recover and keep going."
+        },
+        {
+          "q": "Why run slowly at first?",
+          "options": [
+            "It is slower",
+            "It wastes time",
+            "It does not matter",
+            "So you can keep going longer"
+          ],
+          "answer": 3,
+          "explain": "A slow pace saves energy for the whole run."
+        },
+        {
+          "q": "What should you do after the run?",
+          "options": [
+            "Walk 5 minutes and stretch",
+            "Stop at once and sit down",
+            "Run more",
+            "Eat nothing"
+          ],
+          "answer": 0,
+          "explain": "A cool-down walk and stretch help you recover."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Train your core for running",
+      "goal": "Learn 3 core moves that help runners.",
+      "video": {
+        "youtube_id": "Jsk3ISXrGHw",
+        "title": "Couch to 5K (The Simple Plan That Actually Works)",
+        "channel": "Athlete With Asthma"
+      },
+      "steps": [
+        "Plank for 20 seconds.",
+        "Side plank for 15 seconds on each side.",
+        "Dead bug 10 times: lie on your back, arms up, legs up, lower one arm and the other leg slowly.",
+        "Breathe out as you tighten your belly.",
+        "Rest 30 seconds between moves.",
+        "Do 2 rounds."
+      ],
+      "task": "Do the 3 core moves today.",
+      "challenge": "Hold the plank for 30 seconds.",
+      "quiz": [
+        {
+          "q": "Why do runners need a strong core?",
+          "options": [
+            "It does not matter",
+            "It makes you faster at once",
+            "It is only for show",
+            "It keeps your body steady as you run"
+          ],
+          "answer": 3,
+          "explain": "A steady core keeps your running form clean."
+        },
+        {
+          "q": "How long should you hold a plank to start?",
+          "options": [
+            "About 20 seconds",
+            "5 minutes",
+            "1 second",
+            "No time"
+          ],
+          "answer": 0,
+          "explain": "Twenty seconds is a good start for a beginner."
+        },
+        {
+          "q": "What should you do with your breath in a plank?",
+          "options": [
+            "Hold your breath",
+            "Breathe slowly and steadily",
+            "Breathe fast",
+            "Stop breathing"
+          ],
+          "answer": 1,
+          "explain": "Slow steady breathing keeps the core working safely."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final run.",
+      "video": {
+        "youtube_id": "O0TKLYB008M",
+        "title": "How to Run 5km Easily",
+        "channel": "IronManSheik"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 things you learned about running.",
+        "Practise your capstone run once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 things you learned in this course.",
+      "challenge": "Run your capstone distance from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final run that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new pair of shoes"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own shoes",
+            "You can run your distance steadily and safely",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "A steady, safe run shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone run once more, then rest.",
+      "video": {
+        "youtube_id": "YACmfwcBDnM",
+        "title": "Couch to 5K",
+        "channel": "Dopa Productions"
+      },
+      "steps": [
+        "Run your capstone distance one more time.",
+        "Check your pace: slow and talkable.",
+        "Fix anything that felt hard.",
+        "Rest well tonight."
+      ],
+      "task": "Run your capstone distance and time it.",
+      "challenge": "Fix one hard part of your run.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your shoes",
+            "Your pace, your breathing and your form",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking pace and breathing makes the run smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Run hard all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well and drink water"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you run your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: run your 5K",
+      "goal": "Show what you learned: run 5 kilometres.",
+      "video": {
+        "youtube_id": "PblCzVWJeww",
+        "title": "Sarah's top Couch to 5K tips",
+        "channel": "Team Tommy's"
+      },
+      "steps": [
+        "Warm up with a 5-minute walk.",
+        "Run 5 km at a steady, talkable pace.",
+        "Walk for 1 minute if you must, then run again.",
+        "Cool down, stretch and write your report."
+      ],
+      "task": "Run your 5K and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "How far is your capstone run?",
+          "options": [
+            "500 metres",
+            "50 kilometres",
+            "5 kilometres",
+            "1 kilometre"
+          ],
+          "answer": 2,
+          "explain": "The capstone is a 5K run."
+        },
+        {
+          "q": "What pace should you run?",
+          "options": [
+            "Sprint pace",
+            "Race pace",
+            "It does not matter",
+            "Steady and talkable"
+          ],
+          "answer": 3,
+          "explain": "A steady pace gets you to the finish."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "Your time, your pace and how you felt",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Run your first 5K",
+    "brief": "Run 5 kilometres at a steady, talkable pace, with a warm-up and cool-down, and write a short report on your time, pace and how you felt.",
+    "checks": [
+      "Warmed up for 5 minutes",
+      "Ran 5 km steadily",
+      "Kept a talkable pace",
+      "Walked only if needed",
+      "Cooled down and stretched",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A written 5K plan",
+      "A list of your run times",
+      "A short video or notes from the run",
+      "A weekly running plan",
+      "A written report"
+    ]
+  }
+}

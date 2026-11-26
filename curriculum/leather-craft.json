@@ -1,0 +1,1714 @@
+{
+ "course": {
+  "id": "leather-craft",
+  "title": "Leather Craft",
+  "level": "Beginner",
+  "tagline": "Cut, stitch and finish leather wallets, belts and bags by hand.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Leather Craft Basics",
+   "goal": "Know the tools and materials of leather craft.",
+   "video": {
+    "youtube_id": "Qmfjj5nF-40",
+    "title": "How to Make a Leather Wallet",
+    "channel": "Klum House"
+   },
+   "steps": [
+    "Learn the tools: knife, awl (a pointed tool for holes), needles and thread.",
+    "Learn the materials: leather, thread, glue and dye.",
+    "Learn leather thickness: thin for wallets, thick for belts.",
+    "Set up a cutting mat and a clean bench."
+   ],
+   "task": "Label your tools and materials.",
+   "challenge": "Name three tools and what each does.",
+   "quiz": [
+    {
+     "q": "What is saddle stitch?",
+     "options": [
+      "One needle stitch",
+      "A hand stitch using two needles through the same hole",
+      "A machine stitch",
+      "A glue"
+     ],
+     "answer": 1,
+     "explain": "Saddle stitch passes two needles through each hole from opposite sides, making it very strong."
+    },
+    {
+     "q": "What is an awl?",
+     "options": [
+      "A knife",
+      "A pointed tool for making holes in leather",
+      "A hammer",
+      "A ruler"
+     ],
+     "answer": 1,
+     "explain": "An awl is a sharp pointed tool used to mark and punch holes in leather."
+    },
+    {
+     "q": "Why cut leather on a mat?",
+     "options": [
+      "For looks",
+      "So you do not damage the bench or the knife",
+      "It is faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "A cutting mat protects the bench and keeps the knife sharp."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Leather Types: Full Grain, Top Grain and Suede",
+   "goal": "Tell leather types apart and know what each suits.",
+   "video": {
+    "youtube_id": "Qmfjj5nF-40",
+    "title": "How to Make a Leather Wallet",
+    "channel": "Klum House"
+   },
+   "steps": [
+    "Learn that full grain is the best quality and lasts longest.",
+    "Learn that top grain is smooth and common in bags.",
+    "Learn that suede is soft and fuzzy on the surface.",
+    "Hold each type and feel the difference."
+   ],
+   "task": "Sort leather samples into full grain, top grain and suede.",
+   "challenge": "Pick the best leather for a wallet and explain why.",
+   "quiz": [
+    {
+     "q": "What is saddle stitch?",
+     "options": [
+      "One needle stitch",
+      "A hand stitch using two needles through the same hole",
+      "A machine stitch",
+      "A glue"
+     ],
+     "answer": 1,
+     "explain": "Saddle stitch passes two needles through each hole from opposite sides, making it very strong."
+    },
+    {
+     "q": "What is an awl?",
+     "options": [
+      "A knife",
+      "A pointed tool for making holes in leather",
+      "A hammer",
+      "A ruler"
+     ],
+     "answer": 1,
+     "explain": "An awl is a sharp pointed tool used to mark and punch holes in leather."
+    },
+    {
+     "q": "Why cut leather on a mat?",
+     "options": [
+      "For looks",
+      "So you do not damage the bench or the knife",
+      "It is faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "A cutting mat protects the bench and keeps the knife sharp."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Cutting Leather",
+   "goal": "Cut leather straight and clean with a knife.",
+   "video": {
+    "youtube_id": "Qmfjj5nF-40",
+    "title": "How to Make a Leather Wallet",
+    "channel": "Klum House"
+   },
+   "steps": [
+    "Use a sharp knife and a steel ruler.",
+    "Cut in one smooth stroke, not in sawing moves.",
+    "Cut on a mat so you do not damage the bench.",
+    "Check the edge is straight before you move on."
+   ],
+   "task": "Cut three straight leather strips.",
+   "challenge": "Cut a rectangle with clean straight edges.",
+   "quiz": [
+    {
+     "q": "What is saddle stitch?",
+     "options": [
+      "One needle stitch",
+      "A hand stitch using two needles through the same hole",
+      "A machine stitch",
+      "A glue"
+     ],
+     "answer": 1,
+     "explain": "Saddle stitch passes two needles through each hole from opposite sides, making it very strong."
+    },
+    {
+     "q": "What is an awl?",
+     "options": [
+      "A knife",
+      "A pointed tool for making holes in leather",
+      "A hammer",
+      "A ruler"
+     ],
+     "answer": 1,
+     "explain": "An awl is a sharp pointed tool used to mark and punch holes in leather."
+    },
+    {
+     "q": "Why cut leather on a mat?",
+     "options": [
+      "For looks",
+      "So you do not damage the bench or the knife",
+      "It is faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "A cutting mat protects the bench and keeps the knife sharp."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Marking and Measuring",
+   "goal": "Mark leather and measure before you cut.",
+   "video": {
+    "youtube_id": "JKymwvSfIO0",
+    "title": "How to Make Your Own Minimal Card Wallet",
+    "channel": "Weaver Leather Supply"
+   },
+   "steps": [
+    "Use a pencil or an awl to mark lines.",
+    "Measure twice, cut once.",
+    "Leave a little extra (a seam allowance) for stitching.",
+    "Draw your pattern on paper first, then trace it on leather."
+   ],
+   "task": "Draw a wallet pattern on paper and trace it on leather.",
+   "challenge": "Measure and mark a belt strip.",
+   "quiz": [
+    {
+     "q": "Which leather lasts longest?",
+     "options": [
+      "Suede",
+      "Full grain",
+      "Top grain",
+      "Bonded"
+     ],
+     "answer": 1,
+     "explain": "Full grain is the top layer of the hide and lasts the longest."
+    },
+    {
+     "q": "What is suede?",
+     "options": [
+      "Smooth leather",
+      "Soft fuzzy leather",
+      "Thick leather",
+      "Dyed leather"
+     ],
+     "answer": 1,
+     "explain": "Suede is the soft fuzzy underside of leather."
+    },
+    {
+     "q": "Which leather is best for a wallet?",
+     "options": [
+      "Thick belt leather",
+      "Thin flexible leather",
+      "Suede",
+      "Rawhide"
+     ],
+     "answer": 1,
+     "explain": "Wallets need thin flexible leather that folds easily."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Edge Bevelling and Burnishing",
+   "goal": "Make leather edges smooth and shiny.",
+   "video": {
+    "youtube_id": "JKymwvSfIO0",
+    "title": "How to Make Your Own Minimal Card Wallet",
+    "channel": "Weaver Leather Supply"
+   },
+   "steps": [
+    "Bevelling means cutting the sharp corner off an edge.",
+    "Burnishing means rubbing the edge smooth with water and a tool.",
+    "Apply a little water, then rub the edge until it shines.",
+    "Check the edge feels smooth with no rough spots."
+   ],
+   "task": "Bevel and burnish a leather strip until the edge shines.",
+   "challenge": "Explain bevelling and burnishing in plain words.",
+   "quiz": [
+    {
+     "q": "Which leather lasts longest?",
+     "options": [
+      "Suede",
+      "Full grain",
+      "Top grain",
+      "Bonded"
+     ],
+     "answer": 1,
+     "explain": "Full grain is the top layer of the hide and lasts the longest."
+    },
+    {
+     "q": "What is suede?",
+     "options": [
+      "Smooth leather",
+      "Soft fuzzy leather",
+      "Thick leather",
+      "Dyed leather"
+     ],
+     "answer": 1,
+     "explain": "Suede is the soft fuzzy underside of leather."
+    },
+    {
+     "q": "Which leather is best for a wallet?",
+     "options": [
+      "Thick belt leather",
+      "Thin flexible leather",
+      "Suede",
+      "Rawhide"
+     ],
+     "answer": 1,
+     "explain": "Wallets need thin flexible leather that folds easily."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Glueing Leather",
+   "goal": "Glue leather pieces together before stitching.",
+   "video": {
+    "youtube_id": "JKymwvSfIO0",
+    "title": "How to Make Your Own Minimal Card Wallet",
+    "channel": "Weaver Leather Supply"
+   },
+   "steps": [
+    "Use contact glue made for leather.",
+    "Spread a thin even layer on both pieces.",
+    "Wait until the glue is tacky (slightly sticky) before you join.",
+    "Press firmly and leave to dry."
+   ],
+   "task": "Glue two leather pieces together neatly.",
+   "challenge": "Glue a wallet pocket so it stays put.",
+   "quiz": [
+    {
+     "q": "Which leather lasts longest?",
+     "options": [
+      "Suede",
+      "Full grain",
+      "Top grain",
+      "Bonded"
+     ],
+     "answer": 1,
+     "explain": "Full grain is the top layer of the hide and lasts the longest."
+    },
+    {
+     "q": "What is suede?",
+     "options": [
+      "Smooth leather",
+      "Soft fuzzy leather",
+      "Thick leather",
+      "Dyed leather"
+     ],
+     "answer": 1,
+     "explain": "Suede is the soft fuzzy underside of leather."
+    },
+    {
+     "q": "Which leather is best for a wallet?",
+     "options": [
+      "Thick belt leather",
+      "Thin flexible leather",
+      "Suede",
+      "Rawhide"
+     ],
+     "answer": 1,
+     "explain": "Wallets need thin flexible leather that folds easily."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Make a Leather Card Wallet",
+   "goal": "Make a simple leather card wallet.",
+   "video": {
+    "youtube_id": "N_9ehCE33UQ",
+    "title": "How to Make a Simple, Easy Leather Card Wallet by Hand for Beginners",
+    "channel": "Weaver Leather Supply"
+   },
+   "steps": [
+    "Cut the wallet pieces from your pattern.",
+    "Glue the pockets in place.",
+    "Punch stitch holes along the edges.",
+    "Stitch the wallet together with saddle stitch."
+   ],
+   "task": "Finish a card wallet that holds cards snugly.",
+   "challenge": "Make a wallet with straight stitches and smooth edges.",
+   "quiz": [
+    {
+     "q": "What is bevelling?",
+     "options": [
+      "Dyeing leather",
+      "Cutting the sharp corner off a leather edge",
+      "Stitching leather",
+      "Gluing leather"
+     ],
+     "answer": 1,
+     "explain": "Bevelling trims the sharp edge corner so it can be smoothed."
+    },
+    {
+     "q": "What is burnishing?",
+     "options": [
+      "Painting leather",
+      "Rubbing a leather edge smooth until it shines",
+      "Cutting leather",
+      "Dyeing leather"
+     ],
+     "answer": 1,
+     "explain": "Burnishing rubs the edge with water and a tool until it is smooth and shiny."
+    },
+    {
+     "q": "Why glue leather before stitching?",
+     "options": [
+      "For looks",
+      "So pieces stay put while you stitch",
+      "It is faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Glue holds pieces in place so your stitching stays neat."
+    }
+   ],
+   "project": {
+    "title": "Make a Leather Card Wallet",
+    "brief": "Make a simple leather card wallet with saddle stitch.",
+    "checks": [
+     "Pieces cut cleanly",
+     "Pockets glued in place",
+     "Stitch holes punched evenly",
+     "Saddle stitch neat",
+     "Edges burnished",
+     "Holds cards snugly"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Saddle Stitch Basics",
+   "goal": "Learn saddle stitch, the strongest hand stitch for leather.",
+   "video": {
+    "youtube_id": "N_9ehCE33UQ",
+    "title": "How to Make a Simple, Easy Leather Card Wallet by Hand for Beginners",
+    "channel": "Weaver Leather Supply"
+   },
+   "steps": [
+    "Saddle stitch uses two needles, one on each end of a thread.",
+    "Pass each needle through the same hole from opposite sides.",
+    "Pull the thread tight and even each time.",
+    "Keep the stitches the same size and spacing."
+   ],
+   "task": "Saddle stitch a straight line of ten stitches.",
+   "challenge": "Stitch a line with even spacing.",
+   "quiz": [
+    {
+     "q": "What is bevelling?",
+     "options": [
+      "Dyeing leather",
+      "Cutting the sharp corner off a leather edge",
+      "Stitching leather",
+      "Gluing leather"
+     ],
+     "answer": 1,
+     "explain": "Bevelling trims the sharp edge corner so it can be smoothed."
+    },
+    {
+     "q": "What is burnishing?",
+     "options": [
+      "Painting leather",
+      "Rubbing a leather edge smooth until it shines",
+      "Cutting leather",
+      "Dyeing leather"
+     ],
+     "answer": 1,
+     "explain": "Burnishing rubs the edge with water and a tool until it is smooth and shiny."
+    },
+    {
+     "q": "Why glue leather before stitching?",
+     "options": [
+      "For looks",
+      "So pieces stay put while you stitch",
+      "It is faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Glue holds pieces in place so your stitching stays neat."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Punching Stitch Holes",
+   "goal": "Punch neat stitch holes with a pricking iron or awl.",
+   "video": {
+    "youtube_id": "N_9ehCE33UQ",
+    "title": "How to Make a Simple, Easy Leather Card Wallet by Hand for Beginners",
+    "channel": "Weaver Leather Supply"
+   },
+   "steps": [
+    "A pricking iron marks and punches holes in a straight line.",
+    "Punch on a cutting mat with a mallet.",
+    "Space holes evenly: about 3mm apart for wallets.",
+    "Check the holes line up on both pieces."
+   ],
+   "task": "Punch a straight line of stitch holes.",
+   "challenge": "Punch holes that line up on two pieces.",
+   "quiz": [
+    {
+     "q": "What is bevelling?",
+     "options": [
+      "Dyeing leather",
+      "Cutting the sharp corner off a leather edge",
+      "Stitching leather",
+      "Gluing leather"
+     ],
+     "answer": 1,
+     "explain": "Bevelling trims the sharp edge corner so it can be smoothed."
+    },
+    {
+     "q": "What is burnishing?",
+     "options": [
+      "Painting leather",
+      "Rubbing a leather edge smooth until it shines",
+      "Cutting leather",
+      "Dyeing leather"
+     ],
+     "answer": 1,
+     "explain": "Burnishing rubs the edge with water and a tool until it is smooth and shiny."
+    },
+    {
+     "q": "Why glue leather before stitching?",
+     "options": [
+      "For looks",
+      "So pieces stay put while you stitch",
+      "It is faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Glue holds pieces in place so your stitching stays neat."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Stitching a Wallet Pocket",
+   "goal": "Stitch a pocket onto a wallet neatly.",
+   "video": {
+    "youtube_id": "8Fx8NRtKhX8",
+    "title": "How to Make a Leather Wallet",
+    "channel": "Becky Stern"
+   },
+   "steps": [
+    "Glue the pocket in place first.",
+    "Punch holes through both layers.",
+    "Saddle stitch around three sides, leaving the top open.",
+    "Check the pocket holds a card snugly."
+   ],
+   "task": "Stitch a pocket that holds a card.",
+   "challenge": "Stitch a pocket with no loose threads.",
+   "quiz": [
+    {
+     "q": "How far apart are stitch holes for a wallet?",
+     "options": [
+      "10mm",
+      "About 3mm",
+      "1cm",
+      "5cm"
+     ],
+     "answer": 1,
+     "explain": "Wallet stitch holes are about 3mm apart for a neat strong seam."
+    },
+    {
+     "q": "Why backstitch at the start and end?",
+     "options": [
+      "For looks",
+      "To lock the thread so it cannot unravel",
+      "To save thread",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Backstitching two stitches locks the thread at both ends."
+    },
+    {
+     "q": "What is a stitching pony?",
+     "options": [
+      "A horse",
+      "A clamp that holds leather steady while you stitch",
+      "A needle",
+      "A thread"
+     ],
+     "answer": 1,
+     "explain": "A stitching pony holds the leather so both hands are free to stitch."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Wallet Design",
+   "goal": "Design a wallet with the right pockets and size.",
+   "video": {
+    "youtube_id": "8Fx8NRtKhX8",
+    "title": "How to Make a Leather Wallet",
+    "channel": "Becky Stern"
+   },
+   "steps": [
+    "A card wallet needs slots for 4 to 6 cards.",
+    "A bifold wallet folds in half and holds cards and cash.",
+    "Draw your wallet flat, then fold the paper to test it.",
+    "Check a card fits each slot before you cut leather."
+   ],
+   "task": "Draw a bifold wallet design on paper.",
+   "challenge": "Design a wallet with slots for six cards.",
+   "quiz": [
+    {
+     "q": "How far apart are stitch holes for a wallet?",
+     "options": [
+      "10mm",
+      "About 3mm",
+      "1cm",
+      "5cm"
+     ],
+     "answer": 1,
+     "explain": "Wallet stitch holes are about 3mm apart for a neat strong seam."
+    },
+    {
+     "q": "Why backstitch at the start and end?",
+     "options": [
+      "For looks",
+      "To lock the thread so it cannot unravel",
+      "To save thread",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Backstitching two stitches locks the thread at both ends."
+    },
+    {
+     "q": "What is a stitching pony?",
+     "options": [
+      "A horse",
+      "A clamp that holds leather steady while you stitch",
+      "A needle",
+      "A thread"
+     ],
+     "answer": 1,
+     "explain": "A stitching pony holds the leather so both hands are free to stitch."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Dyeing Leather",
+   "goal": "Dye leather evenly with leather dye.",
+   "video": {
+    "youtube_id": "8Fx8NRtKhX8",
+    "title": "How to Make a Leather Wallet",
+    "channel": "Becky Stern"
+   },
+   "steps": [
+    "Use dye made for leather, not paint.",
+    "Apply with a cloth or sponge in thin layers.",
+    "Let each layer dry before the next.",
+    "Finish with a leather conditioner to keep it soft."
+   ],
+   "task": "Dye a leather piece evenly with no streaks.",
+   "challenge": "Dye two pieces the same colour.",
+   "quiz": [
+    {
+     "q": "How far apart are stitch holes for a wallet?",
+     "options": [
+      "10mm",
+      "About 3mm",
+      "1cm",
+      "5cm"
+     ],
+     "answer": 1,
+     "explain": "Wallet stitch holes are about 3mm apart for a neat strong seam."
+    },
+    {
+     "q": "Why backstitch at the start and end?",
+     "options": [
+      "For looks",
+      "To lock the thread so it cannot unravel",
+      "To save thread",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Backstitching two stitches locks the thread at both ends."
+    },
+    {
+     "q": "What is a stitching pony?",
+     "options": [
+      "A horse",
+      "A clamp that holds leather steady while you stitch",
+      "A needle",
+      "A thread"
+     ],
+     "answer": 1,
+     "explain": "A stitching pony holds the leather so both hands are free to stitch."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Finishing Leather",
+   "goal": "Finish leather so it lasts: condition and seal the edges.",
+   "video": {
+    "youtube_id": "Gmf143sFOqc",
+    "title": "Saddle Stitch Tutorial: How to Hand Stitch Leather",
+    "channel": "Leather Stitching Tutorials"
+   },
+   "steps": [
+    "Apply leather conditioner to keep it soft.",
+    "Seal the edges with beeswax or edge paint.",
+    "Buff (rub) the surface with a soft cloth.",
+    "Check the leather feels smooth and looks even."
+   ],
+   "task": "Finish a wallet so it looks like a shop product.",
+   "challenge": "Condition a leather piece so it feels soft.",
+   "quiz": [
+    {
+     "q": "What is a bifold wallet?",
+     "options": [
+      "A wallet with a zip",
+      "A wallet that folds in half with cards and cash",
+      "A card holder",
+      "A coin purse"
+     ],
+     "answer": 1,
+     "explain": "A bifold folds in half and holds cards and cash inside."
+    },
+    {
+     "q": "How many card slots does a card wallet need?",
+     "options": [
+      "One",
+      "4 to 6",
+      "20",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "A card wallet usually holds 4 to 6 cards."
+    },
+    {
+     "q": "Why draw a wallet on paper first?",
+     "options": [
+      "For fun",
+      "To test the fold and sizes before cutting leather",
+      "It is the law",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "A paper test shows if the fold and slots work before you cut expensive leather."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Project: Make a Stitched Bifold Wallet",
+   "goal": "Make a bifold wallet with card slots and a cash pocket.",
+   "video": {
+    "youtube_id": "Gmf143sFOqc",
+    "title": "Saddle Stitch Tutorial: How to Hand Stitch Leather",
+    "channel": "Leather Stitching Tutorials"
+   },
+   "steps": [
+    "Cut all wallet pieces from your pattern.",
+    "Dye the leather and let it dry.",
+    "Glue and stitch the pockets and slots.",
+    "Burnish the edges and condition the leather."
+   ],
+   "task": "Finish a bifold wallet that holds cards and cash.",
+   "challenge": "Make a wallet with smooth edges and even stitches.",
+   "quiz": [
+    {
+     "q": "What is a bifold wallet?",
+     "options": [
+      "A wallet with a zip",
+      "A wallet that folds in half with cards and cash",
+      "A card holder",
+      "A coin purse"
+     ],
+     "answer": 1,
+     "explain": "A bifold folds in half and holds cards and cash inside."
+    },
+    {
+     "q": "How many card slots does a card wallet need?",
+     "options": [
+      "One",
+      "4 to 6",
+      "20",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "A card wallet usually holds 4 to 6 cards."
+    },
+    {
+     "q": "Why draw a wallet on paper first?",
+     "options": [
+      "For fun",
+      "To test the fold and sizes before cutting leather",
+      "It is the law",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "A paper test shows if the fold and slots work before you cut expensive leather."
+    }
+   ],
+   "project": {
+    "title": "Make a Stitched Bifold Wallet",
+    "brief": "Make a bifold wallet with card slots and a cash pocket.",
+    "checks": [
+     "Pieces cut cleanly",
+     "Leather dyed evenly",
+     "Pockets and slots stitched",
+     "Edges burnished",
+     "Holds cards and cash",
+     "Looks like a shop product"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Hand Stitching Like a Pro",
+   "goal": "Stitch leather cleanly with pro tips.",
+   "video": {
+    "youtube_id": "Gmf143sFOqc",
+    "title": "Saddle Stitch Tutorial: How to Hand Stitch Leather",
+    "channel": "Leather Stitching Tutorials"
+   },
+   "steps": [
+    "Keep the thread the same length each stitch.",
+    "Pull with the same force each time.",
+    "Use a stitching pony (a clamp that holds the leather) for steady work.",
+    "Backstitch (stitch backwards) two stitches at the start and end to lock the thread."
+   ],
+   "task": "Stitch a line that looks like a pro did it.",
+   "challenge": "Lock a stitch line so it cannot unravel.",
+   "quiz": [
+    {
+     "q": "What is a bifold wallet?",
+     "options": [
+      "A wallet with a zip",
+      "A wallet that folds in half with cards and cash",
+      "A card holder",
+      "A coin purse"
+     ],
+     "answer": 1,
+     "explain": "A bifold folds in half and holds cards and cash inside."
+    },
+    {
+     "q": "How many card slots does a card wallet need?",
+     "options": [
+      "One",
+      "4 to 6",
+      "20",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "A card wallet usually holds 4 to 6 cards."
+    },
+    {
+     "q": "Why draw a wallet on paper first?",
+     "options": [
+      "For fun",
+      "To test the fold and sizes before cutting leather",
+      "It is the law",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "A paper test shows if the fold and slots work before you cut expensive leather."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Card Holders",
+   "goal": "Make a slim leather card holder.",
+   "video": {
+    "youtube_id": "A4RVr-wsirY",
+    "title": "How to Hand Stitch Leather Like a Pro",
+    "channel": "Claridge Leather"
+   },
+   "steps": [
+    "Cut two pieces: front and back.",
+    "Glue and stitch three sides, leaving the top open.",
+    "Bevel and burnish the edges.",
+    "Test it with three cards."
+   ],
+   "task": "Make a card holder that holds three cards snugly.",
+   "challenge": "Make a card holder with a smooth finish.",
+   "quiz": [
+    {
+     "q": "What is a rivet?",
+     "options": [
+      "A stitch",
+      "A metal pin that holds leather together",
+      "A buckle",
+      "A dye"
+     ],
+     "answer": 1,
+     "explain": "Rivets are metal pins set through leather to hold parts together."
+    },
+    {
+     "q": "What is a keeper on a belt?",
+     "options": [
+      "The buckle",
+      "The small loop that holds the belt end flat",
+      "A hole",
+      "The tip"
+     ],
+     "answer": 1,
+     "explain": "The keeper loop stops the belt end flapping around."
+    },
+    {
+     "q": "Why use thick leather for a belt?",
+     "options": [
+      "For looks",
+      "So it does not stretch out of shape",
+      "It is cheaper",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Thick leather keeps a belt strong and stops it stretching."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Belt Basics",
+   "goal": "Know how a leather belt is made.",
+   "video": {
+    "youtube_id": "A4RVr-wsirY",
+    "title": "How to Hand Stitch Leather Like a Pro",
+    "channel": "Claridge Leather"
+   },
+   "steps": [
+    "A belt is a long strip with a buckle at one end.",
+    "Punch holes for the buckle pin and for sizing.",
+    "The belt should be thick enough not to stretch.",
+    "Measure the waist before you cut the strip."
+   ],
+   "task": "Measure a waist and cut a belt strip.",
+   "challenge": "Punch belt holes in a straight line.",
+   "quiz": [
+    {
+     "q": "What is a rivet?",
+     "options": [
+      "A stitch",
+      "A metal pin that holds leather together",
+      "A buckle",
+      "A dye"
+     ],
+     "answer": 1,
+     "explain": "Rivets are metal pins set through leather to hold parts together."
+    },
+    {
+     "q": "What is a keeper on a belt?",
+     "options": [
+      "The buckle",
+      "The small loop that holds the belt end flat",
+      "A hole",
+      "The tip"
+     ],
+     "answer": 1,
+     "explain": "The keeper loop stops the belt end flapping around."
+    },
+    {
+     "q": "Why use thick leather for a belt?",
+     "options": [
+      "For looks",
+      "So it does not stretch out of shape",
+      "It is cheaper",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Thick leather keeps a belt strong and stops it stretching."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Buckles and Hardware",
+   "goal": "Fit buckles and rivets to a belt.",
+   "video": {
+    "youtube_id": "A4RVr-wsirY",
+    "title": "How to Hand Stitch Leather Like a Pro",
+    "channel": "Claridge Leather"
+   },
+   "steps": [
+    "A rivet is a metal pin that holds leather together.",
+    "Set rivets with a rivet setter and mallet.",
+    "Fit the buckle and check it moves freely.",
+    "Check the belt holes are evenly spaced."
+   ],
+   "task": "Fit a buckle to a belt with rivets.",
+   "challenge": "Set rivets that hold firmly.",
+   "quiz": [
+    {
+     "q": "What is a rivet?",
+     "options": [
+      "A stitch",
+      "A metal pin that holds leather together",
+      "A buckle",
+      "A dye"
+     ],
+     "answer": 1,
+     "explain": "Rivets are metal pins set through leather to hold parts together."
+    },
+    {
+     "q": "What is a keeper on a belt?",
+     "options": [
+      "The buckle",
+      "The small loop that holds the belt end flat",
+      "A hole",
+      "The tip"
+     ],
+     "answer": 1,
+     "explain": "The keeper loop stops the belt end flapping around."
+    },
+    {
+     "q": "Why use thick leather for a belt?",
+     "options": [
+      "For looks",
+      "So it does not stretch out of shape",
+      "It is cheaper",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Thick leather keeps a belt strong and stops it stretching."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Project: Make a Leather Belt with a Hand-Stitched Keeper",
+   "goal": "Make a leather belt with a stitched keeper loop.",
+   "video": {
+    "youtube_id": "QF3ZZeSoufE",
+    "title": "How to Hand Stitch Leather: Get Better, Fast!",
+    "channel": "Leather Craft Tutorials"
+   },
+   "steps": [
+    "Cut the belt strip and bevel the edges.",
+    "Fit the buckle with rivets.",
+    "Make a keeper loop (the small loop that holds the belt end).",
+    "Hand stitch the keeper and burnish all edges."
+   ],
+   "task": "Finish a belt that fits and looks professional.",
+   "challenge": "Make a belt with a keeper that holds the end flat.",
+   "quiz": [
+    {
+     "q": "What should a leather price cover?",
+     "options": [
+      "Only the leather",
+      "Leather, thread, dye, hardware, time and profit",
+      "The thread only",
+      "Your time only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers all materials, your time and a fair profit."
+    },
+    {
+     "q": "Why condition leather?",
+     "options": [
+      "For colour",
+      "To keep it soft and stop it drying out",
+      "To make it shine",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Conditioner keeps leather soft and stops it cracking."
+    },
+    {
+     "q": "Why keep leather out of direct sun?",
+     "options": [
+      "It fades",
+      "Sun dries and fades leather",
+      "It gets hot",
+      "It smells"
+     ],
+     "answer": 1,
+     "explain": "Sun dries leather out and fades its colour."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Leather Bags: The Basics",
+   "goal": "Know how a simple leather bag is made.",
+   "video": {
+    "youtube_id": "QF3ZZeSoufE",
+    "title": "How to Hand Stitch Leather: Get Better, Fast!",
+    "channel": "Leather Craft Tutorials"
+   },
+   "steps": [
+    "A simple bag is two panels stitched together.",
+    "Add a strap and a pocket inside.",
+    "Use thicker leather so the bag holds its shape.",
+    "Draw the bag flat before you cut."
+   ],
+   "task": "Draw a simple tote bag pattern on paper.",
+   "challenge": "Cut two bag panels the same size.",
+   "quiz": [
+    {
+     "q": "What should a leather price cover?",
+     "options": [
+      "Only the leather",
+      "Leather, thread, dye, hardware, time and profit",
+      "The thread only",
+      "Your time only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers all materials, your time and a fair profit."
+    },
+    {
+     "q": "Why condition leather?",
+     "options": [
+      "For colour",
+      "To keep it soft and stop it drying out",
+      "To make it shine",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Conditioner keeps leather soft and stops it cracking."
+    },
+    {
+     "q": "Why keep leather out of direct sun?",
+     "options": [
+      "It fades",
+      "Sun dries and fades leather",
+      "It gets hot",
+      "It smells"
+     ],
+     "answer": 1,
+     "explain": "Sun dries leather out and fades its colour."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Leather Care",
+   "goal": "Care for leather so it lasts for years.",
+   "video": {
+    "youtube_id": "QF3ZZeSoufE",
+    "title": "How to Hand Stitch Leather: Get Better, Fast!",
+    "channel": "Leather Craft Tutorials"
+   },
+   "steps": [
+    "Clean leather with a damp cloth, not soap.",
+    "Condition it every few months.",
+    "Keep it out of direct sun and rain.",
+    "Tell customers how to care for their leather."
+   ],
+   "task": "Clean and condition a leather wallet.",
+   "challenge": "Write care instructions for a customer.",
+   "quiz": [
+    {
+     "q": "What should a leather price cover?",
+     "options": [
+      "Only the leather",
+      "Leather, thread, dye, hardware, time and profit",
+      "The thread only",
+      "Your time only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers all materials, your time and a fair profit."
+    },
+    {
+     "q": "Why condition leather?",
+     "options": [
+      "For colour",
+      "To keep it soft and stop it drying out",
+      "To make it shine",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Conditioner keeps leather soft and stops it cracking."
+    },
+    {
+     "q": "Why keep leather out of direct sun?",
+     "options": [
+      "It fades",
+      "Sun dries and fades leather",
+      "It gets hot",
+      "It smells"
+     ],
+     "answer": 1,
+     "explain": "Sun dries leather out and fades its colour."
+    }
+   ],
+   "project": {
+    "title": "Make a Leather Belt with a Hand-Stitched Keeper",
+    "brief": "Make a leather belt with a buckle and a stitched keeper loop.",
+    "checks": [
+     "Belt strip cut straight",
+     "Buckle fitted with rivets",
+     "Holes punched evenly",
+     "Keeper stitched by hand",
+     "Edges burnished",
+     "Belt fits and looks professional"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Leather Business Basics",
+   "goal": "Learn how a small leather business works.",
+   "video": {
+    "youtube_id": "briTRPFL5A0",
+    "title": "How to Make a Leather Card Holder",
+    "channel": "MiuraDesign"
+   },
+   "steps": [
+    "Work out the cost of one wallet: leather, thread, dye and time.",
+    "Add a fair profit.",
+    "Learn where to sell: markets, online and gift shops.",
+    "Keep a simple sales record."
+   ],
+   "task": "Work out the cost and price of one wallet.",
+   "challenge": "List three places you could sell leather goods.",
+   "quiz": [
+    {
+     "q": "What is a card holder?",
+     "options": [
+      "A wallet with a zip",
+      "A slim leather case that holds a few cards",
+      "A coin purse",
+      "A belt"
+     ],
+     "answer": 1,
+     "explain": "A card holder is a slim case, usually holding three or four cards."
+    },
+    {
+     "q": "How many sides of a card holder do you stitch?",
+     "options": [
+      "All four",
+      "Three, leaving the top open",
+      "One",
+      "Two"
+     ],
+     "answer": 1,
+     "explain": "Three sides are stitched and the top stays open so cards slide in."
+    },
+    {
+     "q": "Why test a card holder with real cards?",
+     "options": [
+      "For fun",
+      "To check the cards fit snugly, not loose or tight",
+      "It is the law",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Real cards show if the holder fits: too loose and cards fall out, too tight and they stick."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Price Your Leather Goods",
+   "goal": "Price leather goods so the business pays.",
+   "video": {
+    "youtube_id": "briTRPFL5A0",
+    "title": "How to Make a Leather Card Holder",
+    "channel": "MiuraDesign"
+   },
+   "steps": [
+    "Add up all costs for one item.",
+    "Add your time at a fair hourly rate.",
+    "Add profit and round to a clean price.",
+    "Compare your price with leather goods in shops."
+   ],
+   "task": "Price three leather items with costs shown.",
+   "challenge": "Price a wallet and belt set.",
+   "quiz": [
+    {
+     "q": "What is a card holder?",
+     "options": [
+      "A wallet with a zip",
+      "A slim leather case that holds a few cards",
+      "A coin purse",
+      "A belt"
+     ],
+     "answer": 1,
+     "explain": "A card holder is a slim case, usually holding three or four cards."
+    },
+    {
+     "q": "How many sides of a card holder do you stitch?",
+     "options": [
+      "All four",
+      "Three, leaving the top open",
+      "One",
+      "Two"
+     ],
+     "answer": 1,
+     "explain": "Three sides are stitched and the top stays open so cards slide in."
+    },
+    {
+     "q": "Why test a card holder with real cards?",
+     "options": [
+      "For fun",
+      "To check the cards fit snugly, not loose or tight",
+      "It is the law",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Real cards show if the holder fits: too loose and cards fall out, too tight and they stick."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Packaging and Presentation",
+   "goal": "Present leather goods so they sell.",
+   "video": {
+    "youtube_id": "briTRPFL5A0",
+    "title": "How to Make a Leather Card Holder",
+    "channel": "MiuraDesign"
+   },
+   "steps": [
+    "Wrap wallets in tissue and a small box.",
+    "Use a dust bag for belts and bags.",
+    "Add a care card with each item.",
+    "Keep a record of what you made and sold."
+   ],
+   "task": "Present three leather items ready to sell.",
+   "challenge": "Pack a wallet so it looks like a gift.",
+   "quiz": [
+    {
+     "q": "What is a card holder?",
+     "options": [
+      "A wallet with a zip",
+      "A slim leather case that holds a few cards",
+      "A coin purse",
+      "A belt"
+     ],
+     "answer": 1,
+     "explain": "A card holder is a slim case, usually holding three or four cards."
+    },
+    {
+     "q": "How many sides of a card holder do you stitch?",
+     "options": [
+      "All four",
+      "Three, leaving the top open",
+      "One",
+      "Two"
+     ],
+     "answer": 1,
+     "explain": "Three sides are stitched and the top stays open so cards slide in."
+    },
+    {
+     "q": "Why test a card holder with real cards?",
+     "options": [
+      "For fun",
+      "To check the cards fit snugly, not loose or tight",
+      "It is the law",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Real cards show if the holder fits: too loose and cards fall out, too tight and they stick."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Cut a Belt to Size",
+   "goal": "Cut a leather belt strip to the right length.",
+   "video": {
+    "youtube_id": "p-7iYrxcr3E",
+    "title": "How to Make a Leather Belt",
+    "channel": "The Leather Guy"
+   },
+   "steps": [
+    "Measure the waist and add extra for the buckle and holes.",
+    "Mark the length on the leather strip.",
+    "Cut in one smooth stroke with a sharp knife.",
+    "Check the strip is straight and even."
+   ],
+   "task": "Cut a belt strip to a measured size.",
+   "challenge": "Cut a belt strip with straight even edges.",
+   "quiz": [
+    {
+     "q": "How do you size a belt?",
+     "options": [
+      "Guess",
+      "Measure the waist and add extra for the buckle and holes",
+      "Use the trouser size",
+      "Cut it long and trim later"
+     ],
+     "answer": 1,
+     "explain": "Measure the waist, then add length for the buckle end and the holes."
+    },
+    {
+     "q": "Why punch belt holes evenly?",
+     "options": [
+      "For looks",
+      "So the belt fits at every hole",
+      "It is faster",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Even holes mean the belt adjusts in equal steps."
+    },
+    {
+     "q": "What holds a belt buckle to the leather?",
+     "options": [
+      "Glue only",
+      "Rivets or stitching",
+      "Tape",
+      "A knot"
+     ],
+     "answer": 1,
+     "explain": "Rivets or strong stitching hold the buckle firmly to the belt."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Dye and Finish a Belt",
+   "goal": "Dye a belt evenly and finish the edges.",
+   "video": {
+    "youtube_id": "p-7iYrxcr3E",
+    "title": "How to Make a Leather Belt",
+    "channel": "The Leather Guy"
+   },
+   "steps": [
+    "Apply leather dye in thin even layers.",
+    "Let each layer dry before the next.",
+    "Bevel and burnish the edges.",
+    "Condition the belt so it stays soft."
+   ],
+   "task": "Dye a belt evenly with no streaks.",
+   "challenge": "Finish a belt so it looks like a shop product.",
+   "quiz": [
+    {
+     "q": "How do you size a belt?",
+     "options": [
+      "Guess",
+      "Measure the waist and add extra for the buckle and holes",
+      "Use the trouser size",
+      "Cut it long and trim later"
+     ],
+     "answer": 1,
+     "explain": "Measure the waist, then add length for the buckle end and the holes."
+    },
+    {
+     "q": "Why punch belt holes evenly?",
+     "options": [
+      "For looks",
+      "So the belt fits at every hole",
+      "It is faster",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Even holes mean the belt adjusts in equal steps."
+    },
+    {
+     "q": "What holds a belt buckle to the leather?",
+     "options": [
+      "Glue only",
+      "Rivets or stitching",
+      "Tape",
+      "A knot"
+     ],
+     "answer": 1,
+     "explain": "Rivets or strong stitching hold the buckle firmly to the belt."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Make a Belt with a Different Buckle",
+   "goal": "Fit a different buckle style to a belt.",
+   "video": {
+    "youtube_id": "p-7iYrxcr3E",
+    "title": "How to Make a Leather Belt",
+    "channel": "The Leather Guy"
+   },
+   "steps": [
+    "Pick a buckle that suits the belt width.",
+    "Fit the buckle with rivets.",
+    "Check the buckle moves freely.",
+    "Test the belt on a waist."
+   ],
+   "task": "Fit a new buckle style to a belt.",
+   "challenge": "Fit a buckle that moves freely and holds well.",
+   "quiz": [
+    {
+     "q": "How do you size a belt?",
+     "options": [
+      "Guess",
+      "Measure the waist and add extra for the buckle and holes",
+      "Use the trouser size",
+      "Cut it long and trim later"
+     ],
+     "answer": 1,
+     "explain": "Measure the waist, then add length for the buckle end and the holes."
+    },
+    {
+     "q": "Why punch belt holes evenly?",
+     "options": [
+      "For looks",
+      "So the belt fits at every hole",
+      "It is faster",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Even holes mean the belt adjusts in equal steps."
+    },
+    {
+     "q": "What holds a belt buckle to the leather?",
+     "options": [
+      "Glue only",
+      "Rivets or stitching",
+      "Tape",
+      "A knot"
+     ],
+     "answer": 1,
+     "explain": "Rivets or strong stitching hold the buckle firmly to the belt."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Belt Care and Repairs",
+   "goal": "Care for belts and fix common belt problems.",
+   "video": {
+    "youtube_id": "LOw_SCqtjnI",
+    "title": "How to Make a Leather Belt",
+    "channel": "Skill Tree"
+   },
+   "steps": [
+    "Clean a belt with a damp cloth.",
+    "Condition it to keep it soft.",
+    "Fix a loose rivet with a rivet setter.",
+    "Tell customers how to care for their belt."
+   ],
+   "task": "Clean and condition a belt.",
+   "challenge": "Fix a belt with a loose rivet.",
+   "quiz": [
+    {
+     "q": "Why use thick leather for a belt?",
+     "options": [
+      "For looks",
+      "So it does not stretch out of shape",
+      "It is cheaper",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Thick leather keeps a belt strong and stops it stretching."
+    },
+    {
+     "q": "What is the keeper on a belt?",
+     "options": [
+      "The buckle",
+      "The small loop that holds the belt end flat",
+      "A hole",
+      "The tip"
+     ],
+     "answer": 1,
+     "explain": "The keeper loop stops the belt end flapping around."
+    },
+    {
+     "q": "How do you care for a leather belt?",
+     "options": [
+      "Soak it in water",
+      "Clean with a damp cloth and condition it",
+      "Leave it in the sun",
+      "Wash it with soap"
+     ],
+     "answer": 1,
+     "explain": "A damp cloth cleans it and conditioner keeps the leather soft."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone leather set, buy supplies and plan the days.",
+   "video": {
+    "youtube_id": "LOw_SCqtjnI",
+    "title": "How to Make a Leather Belt",
+    "channel": "Skill Tree"
+   },
+   "steps": [
+    "Pick three items that show your best skills.",
+    "Buy all leather, thread, dye and hardware.",
+    "Plan the making days.",
+    "Design care cards for the set."
+   ],
+   "task": "Have all capstone supplies bought and cards designed.",
+   "challenge": "Plan a capstone set of three leather items.",
+   "quiz": [
+    {
+     "q": "Why use thick leather for a belt?",
+     "options": [
+      "For looks",
+      "So it does not stretch out of shape",
+      "It is cheaper",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Thick leather keeps a belt strong and stops it stretching."
+    },
+    {
+     "q": "What is the keeper on a belt?",
+     "options": [
+      "The buckle",
+      "The small loop that holds the belt end flat",
+      "A hole",
+      "The tip"
+     ],
+     "answer": 1,
+     "explain": "The keeper loop stops the belt end flapping around."
+    },
+    {
+     "q": "How do you care for a leather belt?",
+     "options": [
+      "Soak it in water",
+      "Clean with a damp cloth and condition it",
+      "Leave it in the sun",
+      "Wash it with soap"
+     ],
+     "answer": 1,
+     "explain": "A damp cloth cleans it and conditioner keeps the leather soft."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Make and Present a Leather Set",
+   "goal": "Make a set of three leather items and present them.",
+   "video": {
+    "youtube_id": "LOw_SCqtjnI",
+    "title": "How to Make a Leather Belt",
+    "channel": "Skill Tree"
+   },
+   "steps": [
+    "Make the three items following your plan.",
+    "Check each item for stitching, edges and finish.",
+    "Condition and box the set neatly.",
+    "Present the set with costing and care notes."
+   ],
+   "task": "Present a finished leather set, checked and boxed.",
+   "challenge": "Finish the set with time left to fix any faults.",
+   "quiz": [
+    {
+     "q": "Why use thick leather for a belt?",
+     "options": [
+      "For looks",
+      "So it does not stretch out of shape",
+      "It is cheaper",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Thick leather keeps a belt strong and stops it stretching."
+    },
+    {
+     "q": "What is the keeper on a belt?",
+     "options": [
+      "The buckle",
+      "The small loop that holds the belt end flat",
+      "A hole",
+      "The tip"
+     ],
+     "answer": 1,
+     "explain": "The keeper loop stops the belt end flapping around."
+    },
+    {
+     "q": "How do you care for a leather belt?",
+     "options": [
+      "Soak it in water",
+      "Clean with a damp cloth and condition it",
+      "Leave it in the sun",
+      "Wash it with soap"
+     ],
+     "answer": 1,
+     "explain": "A damp cloth cleans it and conditioner keeps the leather soft."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Make and Present a Leather Set",
+  "brief": "Make a set of three leather items, check each for stitching and finish, condition and box them, and present the set with costing and care notes.",
+  "checks": [
+   "Three leather items in one set",
+   "Stitching even and secure",
+   "Edges bevelled and burnished",
+   "Dye even with no streaks",
+   "Hardware fitted firmly",
+   "Items conditioned and boxed neatly",
+   "Costing sheet shows materials, time and price"
+  ],
+  "deliverables": [
+   "Set of three leather items, boxed",
+   "Care notes for customers",
+   "Costing and pricing sheet",
+   "Photos of the set",
+   "List of materials used"
+  ]
+ }
+}

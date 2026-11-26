@@ -1,0 +1,1718 @@
+{
+  "course": {
+    "id": "mental-wellness-and-stress",
+    "title": "Mental Wellness and Stress",
+    "level": "Beginner",
+    "tagline": "Manage stress, sleep better and build habits that protect your mind.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What is stress?",
+      "goal": "Learn what stress is and how it feels in the body.",
+      "video": {
+        "youtube_id": "aG0mt69Y27s",
+        "title": "7 Science-Backed Ways to Fix Your Stress (That Actually Work)",
+        "channel": "Stick Theory"
+      },
+      "steps": [
+        "Watch the video and write down what stress means in your own words.",
+        "List 3 signs of stress: fast heartbeat, tight shoulders, racing thoughts.",
+        "Write down one thing that stressed you this week.",
+        "Notice how your body felt when you were stressed."
+      ],
+      "task": "Write 3 signs of stress you have felt.",
+      "challenge": "Notice one stress sign in your body today.",
+      "quiz": [
+        {
+          "q": "What is stress?",
+          "options": [
+            "A disease",
+            "The body's response to pressure or demand",
+            "Laziness",
+            "A bad habit"
+          ],
+          "answer": 1,
+          "explain": "Stress is how the body answers pressure."
+        },
+        {
+          "q": "What is a sign of stress?",
+          "options": [
+            "Feeling calm",
+            "Sleeping well",
+            "Fast heartbeat or tight shoulders",
+            "Feeling happy"
+          ],
+          "answer": 2,
+          "explain": "A fast heart and tight muscles are stress signs."
+        },
+        {
+          "q": "Why learn about stress?",
+          "options": [
+            "It is not needed",
+            "It wastes time",
+            "It makes stress worse",
+            "So you can spot it early and act"
+          ],
+          "answer": 3,
+          "explain": "Spotting stress early helps you handle it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Breathe to calm down",
+      "goal": "Learn slow breathing that calms stress fast.",
+      "video": {
+        "youtube_id": "d0vy1i1LW1s",
+        "title": "Dr Brian Alman Stress Release Workshop",
+        "channel": "Dr. Brian Alman"
+      },
+      "steps": [
+        "Breathe in for 4 counts through your nose.",
+        "Breathe out for 6 counts through your mouth.",
+        "Do this 5 times.",
+        "Notice how your body feels after."
+      ],
+      "task": "Do 5 slow breaths right now.",
+      "challenge": "Use slow breathing once today when you feel tense.",
+      "quiz": [
+        {
+          "q": "How should you breathe to calm down?",
+          "options": [
+            "Fast and shallow",
+            "Hold your breath",
+            "In for 4, out for 6",
+            "Do not breathe"
+          ],
+          "answer": 2,
+          "explain": "A long out-breath calms the body."
+        },
+        {
+          "q": "Why does slow breathing help?",
+          "options": [
+            "It does nothing",
+            "It makes stress worse",
+            "It is only for show",
+            "It slows the heart and relaxes muscles"
+          ],
+          "answer": 3,
+          "explain": "Slow breathing tells the body it is safe."
+        },
+        {
+          "q": "How many slow breaths should you do?",
+          "options": [
+            "About 5",
+            "1",
+            "100",
+            "None"
+          ],
+          "answer": 0,
+          "explain": "Five slow breaths is enough to feel calmer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Name what you feel",
+      "goal": "Learn to name your feelings in simple words.",
+      "video": {
+        "youtube_id": "Enz98dDXQfY",
+        "title": "18-Minute Movement Medicine",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Learn feeling words: happy, sad, angry, scared, tired, calm.",
+        "Write down how you feel right now.",
+        "Write down why you feel that way.",
+        "Say your feeling out loud to yourself."
+      ],
+      "task": "Write how you feel right now and why.",
+      "challenge": "Name your feeling 3 times today.",
+      "quiz": [
+        {
+          "q": "Why name your feelings?",
+          "options": [
+            "It makes it worse",
+            "It is silly",
+            "It does not matter",
+            "Naming a feeling makes it easier to handle"
+          ],
+          "answer": 3,
+          "explain": "Naming feelings gives you power over them."
+        },
+        {
+          "q": "What is a simple feeling word?",
+          "options": [
+            "Happy, sad, angry, scared, tired",
+            "A long science word",
+            "A number",
+            "A colour only"
+          ],
+          "answer": 0,
+          "explain": "Simple words describe feelings clearly."
+        },
+        {
+          "q": "What should you do after naming a feeling?",
+          "options": [
+            "Ignore it",
+            "Ask what you need right now",
+            "Hide it",
+            "Pretend it is gone"
+          ],
+          "answer": 1,
+          "explain": "Asking what you need turns feelings into action."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Move your body to feel better",
+      "goal": "Learn how gentle movement lifts your mood.",
+      "video": {
+        "youtube_id": "8TuRYV71Rgo",
+        "title": "10-Minute Yoga for Stress and Anxiety",
+        "channel": "Yoga With Bird"
+      },
+      "steps": [
+        "Walk for 10 minutes outside.",
+        "Stretch your arms and legs gently.",
+        "Dance to one song you like.",
+        "Write down how you felt after moving."
+      ],
+      "task": "Walk for 10 minutes today.",
+      "challenge": "Dance to one song today.",
+      "quiz": [
+        {
+          "q": "Why does movement help mood?",
+          "options": [
+            "It releases feel-good chemicals in the brain",
+            "It does nothing",
+            "It makes you tired",
+            "It is only for fitness"
+          ],
+          "answer": 0,
+          "explain": "Movement lifts mood and eases stress."
+        },
+        {
+          "q": "How long should you move to feel better?",
+          "options": [
+            "2 hours",
+            "Even 10 minutes helps",
+            "1 minute",
+            "All day"
+          ],
+          "answer": 1,
+          "explain": "Ten minutes of movement can lift your mood."
+        },
+        {
+          "q": "What is a good mood-lifting move?",
+          "options": [
+            "Sitting still",
+            "Lying down all day",
+            "A walk outside",
+            "Staring at a screen"
+          ],
+          "answer": 2,
+          "explain": "A walk outside clears the mind."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Sleep well, feel well",
+      "goal": "Learn how sleep protects your mind.",
+      "video": {
+        "youtube_id": "mhtN3SlPdFU",
+        "title": "Meditation for Beginners",
+        "channel": "Mindful"
+      },
+      "steps": [
+        "Sleep 7 to 8 hours tonight.",
+        "Go to bed at the same time as last night.",
+        "Keep your phone away from your bed.",
+        "Write down how you felt after good sleep."
+      ],
+      "task": "Sleep 7 to 8 hours tonight.",
+      "challenge": "Keep the same bedtime for 3 nights.",
+      "quiz": [
+        {
+          "q": "Why does sleep help your mind?",
+          "options": [
+            "Sleep does nothing",
+            "Sleep clears the mind and steadies mood",
+            "Sleep makes you sad",
+            "Sleep is a waste"
+          ],
+          "answer": 1,
+          "explain": "Good sleep helps you think and feel well."
+        },
+        {
+          "q": "How much sleep should you aim for?",
+          "options": [
+            "3 hours",
+            "12 hours",
+            "7 to 8 hours",
+            "No sleep"
+          ],
+          "answer": 2,
+          "explain": "Seven to eight hours is the healthy aim."
+        },
+        {
+          "q": "What should you do before bed?",
+          "options": [
+            "Watch bright screens",
+            "Drink coffee",
+            "Work late",
+            "Put your phone away and wind down"
+          ],
+          "answer": 3,
+          "explain": "Winding down helps you fall asleep."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Talk to someone you trust",
+      "goal": "Learn why talking helps and how to start.",
+      "video": {
+        "youtube_id": "f4zn9AzG5Bw",
+        "title": "Learn How to Meditate",
+        "channel": "SelfHelpToons"
+      },
+      "steps": [
+        "Pick one person you trust.",
+        "Tell them one thing that is on your mind.",
+        "Listen to them too.",
+        "Write down how you felt after talking."
+      ],
+      "task": "Talk to one person you trust today.",
+      "challenge": "Ask a friend how they are doing today.",
+      "quiz": [
+        {
+          "q": "Why does talking help?",
+          "options": [
+            "It makes things worse",
+            "It is weak",
+            "It shares the load and brings new ideas",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Talking lightens the load."
+        },
+        {
+          "q": "Who should you talk to?",
+          "options": [
+            "A stranger",
+            "Nobody",
+            "Only yourself",
+            "Someone you trust"
+          ],
+          "answer": 3,
+          "explain": "A trusted person listens without judging."
+        },
+        {
+          "q": "What should you do when a friend talks?",
+          "options": [
+            "Listen without judging",
+            "Interrupt",
+            "Give orders",
+            "Walk away"
+          ],
+          "answer": 0,
+          "explain": "Listening shows care."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your calm toolkit",
+      "goal": "Put week 1 together: build a toolkit of 5 calm tricks.",
+      "video": {
+        "youtube_id": "ELr1_5Prcd8",
+        "title": "Guided Meditation for Beginners",
+        "channel": "Be Nothing Like"
+      },
+      "steps": [
+        "Pick 5 tricks: slow breathing, walking, naming feelings, talking, stretching.",
+        "Write each trick on a card.",
+        "Use one trick today.",
+        "Keep the cards where you can see them."
+      ],
+      "task": "Write your 5 calm tricks on cards.",
+      "challenge": "Use one trick today.",
+      "quiz": [
+        {
+          "q": "What is a calm toolkit?",
+          "options": [
+            "A box of tools",
+            "A medicine",
+            "A phone",
+            "A set of tricks you use when stressed"
+          ],
+          "answer": 3,
+          "explain": "A toolkit is your personal set of calm tricks."
+        },
+        {
+          "q": "Why write tricks on cards?",
+          "options": [
+            "So you can find them fast when stressed",
+            "To fill paper",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 0,
+          "explain": "Cards make your tricks easy to reach."
+        },
+        {
+          "q": "How many tricks should your toolkit have?",
+          "options": [
+            "1",
+            "About 5",
+            "100",
+            "None"
+          ],
+          "answer": 1,
+          "explain": "Five tricks give you choices."
+        }
+      ],
+      "project": {
+        "title": "Your calm toolkit",
+        "brief": "Build a toolkit of 5 calm tricks on cards: slow breathing, walking, naming feelings, talking and stretching, and use one trick today.",
+        "checks": [
+          "Toolkit has 5 tricks",
+          "Each trick is on a card",
+          "Cards are easy to find",
+          "Used one trick today",
+          "Wrote how it felt",
+          "Kept the cards visible"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Spot your stress triggers",
+      "goal": "Learn what sets off your stress.",
+      "video": {
+        "youtube_id": "mEAe8-SYa30",
+        "title": "Meditation for beginners: 3 simple steps",
+        "channel": "Carol Trevor Yoga"
+      },
+      "steps": [
+        "A trigger is something that starts stress.",
+        "Write down 3 things that stressed you this week.",
+        "Circle the one that happens most often.",
+        "Write one small change for that trigger."
+      ],
+      "task": "Write 3 stress triggers from this week.",
+      "challenge": "Write one small change for your biggest trigger.",
+      "quiz": [
+        {
+          "q": "What is a stress trigger?",
+          "options": [
+            "Something that starts stress",
+            "A medicine",
+            "A type of food",
+            "A happy event"
+          ],
+          "answer": 0,
+          "explain": "A trigger is what sets stress off."
+        },
+        {
+          "q": "Why find your triggers?",
+          "options": [
+            "It makes stress worse",
+            "So you can plan for them",
+            "It is not needed",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "Knowing triggers helps you prepare."
+        },
+        {
+          "q": "What is a good change for a trigger?",
+          "options": [
+            "Changing everything at once",
+            "Ignoring it",
+            "One small step, like preparing the night before",
+            "Quitting"
+          ],
+          "answer": 2,
+          "explain": "One small change is doable."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Take a break the right way",
+      "goal": "Learn how to take short breaks that truly rest you.",
+      "video": {
+        "youtube_id": "xVmwaP7wpWc",
+        "title": "Webinar: Ways to deal with Anxiety",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Work for 25 minutes, then rest for 5 minutes.",
+        "In the break, stand up, stretch and drink water.",
+        "Do not check stressful messages in the break.",
+        "Use this pattern 3 times today."
+      ],
+      "task": "Use the 25-minute work, 5-minute rest pattern once.",
+      "challenge": "Use it 3 times today.",
+      "quiz": [
+        {
+          "q": "Why take short breaks?",
+          "options": [
+            "Breaks waste time",
+            "Breaks keep your mind fresh",
+            "Breaks make you lazy",
+            "They are not needed"
+          ],
+          "answer": 1,
+          "explain": "Short breaks stop tiredness building up."
+        },
+        {
+          "q": "What should you do in a break?",
+          "options": [
+            "Check stressful messages",
+            "Work more",
+            "Stand, stretch and drink water",
+            "Lie down and sleep"
+          ],
+          "answer": 2,
+          "explain": "Moving and water refresh the body."
+        },
+        {
+          "q": "How long should a short break be?",
+          "options": [
+            "1 hour",
+            "10 seconds",
+            "All day",
+            "About 5 minutes"
+          ],
+          "answer": 3,
+          "explain": "Five minutes is enough to refresh."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Write it out: journaling",
+      "goal": "Learn to write your thoughts to clear your mind.",
+      "video": {
+        "youtube_id": "bVfxAuNwmRM",
+        "title": "Living with Uncertainty - NHS Webinar",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Take a notebook and write for 5 minutes.",
+        "Write what happened today and how you felt.",
+        "Write one thing you are grateful for.",
+        "Do not worry about spelling or neatness."
+      ],
+      "task": "Write for 5 minutes tonight.",
+      "challenge": "Write every night this week.",
+      "quiz": [
+        {
+          "q": "What is journaling?",
+          "options": [
+            "Writing a book",
+            "A test",
+            "Writing your thoughts to clear your mind",
+            "A chore"
+          ],
+          "answer": 2,
+          "explain": "Journaling puts thoughts on paper so they stop spinning."
+        },
+        {
+          "q": "Why write what you are grateful for?",
+          "options": [
+            "It is silly",
+            "It wastes time",
+            "It does not matter",
+            "It trains your mind to notice good things"
+          ],
+          "answer": 3,
+          "explain": "Gratitude shifts focus to the good."
+        },
+        {
+          "q": "How long should you journal?",
+          "options": [
+            "About 5 minutes",
+            "2 hours",
+            "10 seconds",
+            "All night"
+          ],
+          "answer": 0,
+          "explain": "Five minutes is enough to clear your mind."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Say no kindly",
+      "goal": "Learn to say no without guilt.",
+      "video": {
+        "youtube_id": "rSv5Q0YeN6c",
+        "title": "What is Stress and Anxiety - NHS Webinar",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Practise saying: I cannot do that today, but I can help tomorrow.",
+        "Say no to one extra task this week.",
+        "Notice how you felt after saying no.",
+        "Write down one boundary you want to keep."
+      ],
+      "task": "Say no kindly to one extra task this week.",
+      "challenge": "Practise your no sentence out loud 3 times.",
+      "quiz": [
+        {
+          "q": "Why is saying no hard?",
+          "options": [
+            "It is easy",
+            "It is rude",
+            "It is not needed",
+            "We worry about letting people down"
+          ],
+          "answer": 3,
+          "explain": "Saying no feels hard because we care."
+        },
+        {
+          "q": "How should you say no?",
+          "options": [
+            "Kindly and clearly, with a reason",
+            "Angrily",
+            "By lying",
+            "By ignoring"
+          ],
+          "answer": 0,
+          "explain": "A kind, clear no keeps respect."
+        },
+        {
+          "q": "What is a boundary?",
+          "options": [
+            "A wall",
+            "A limit that protects your time and energy",
+            "A rule to punish others",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "A boundary is a healthy limit."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Eat well for your mind",
+      "goal": "Learn how food affects your mood.",
+      "video": {
+        "youtube_id": "oUpD1rncn98",
+        "title": "Strategies for Managing Stress and Anxiety - NHS Webinar",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Eat regular meals: do not skip breakfast.",
+        "Drink water through the day.",
+        "Eat less sugar and less caffeine when stressed.",
+        "Write down what you ate and how you felt."
+      ],
+      "task": "Eat 3 regular meals today.",
+      "challenge": "Drink 6 glasses of water today.",
+      "quiz": [
+        {
+          "q": "Why eat regular meals?",
+          "options": [
+            "Skipping meals makes mood worse",
+            "It does not matter",
+            "It makes you fat",
+            "It wastes time"
+          ],
+          "answer": 0,
+          "explain": "Regular meals keep energy and mood steady."
+        },
+        {
+          "q": "Why drink water?",
+          "options": [
+            "It does nothing",
+            "Even mild thirst can make you feel tired and low",
+            "It makes you weak",
+            "You never need it"
+          ],
+          "answer": 1,
+          "explain": "Water keeps the brain working well."
+        },
+        {
+          "q": "Why cut sugar when stressed?",
+          "options": [
+            "Sugar helps",
+            "Sugar is healthy",
+            "Sugar gives a quick high then a crash",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Sugar crashes make mood worse."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Move gently: yoga for stress",
+      "goal": "Use gentle yoga to calm stress.",
+      "video": {
+        "youtube_id": "2zur7hOpjIg",
+        "title": "What is Low Mood - NHS Webinar",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Do a slow forward fold with bent knees.",
+        "Rest in child's pose for 2 minutes.",
+        "Do 5 slow breaths lying on your back.",
+        "Notice how your body feels after."
+      ],
+      "task": "Do the gentle yoga routine today.",
+      "challenge": "Do it every evening this week.",
+      "quiz": [
+        {
+          "q": "Why does gentle yoga calm stress?",
+          "options": [
+            "It makes stress worse",
+            "Slow moves and breathing relax the body",
+            "It does nothing",
+            "It is only exercise"
+          ],
+          "answer": 1,
+          "explain": "Slow yoga tells the body it is safe."
+        },
+        {
+          "q": "What is a good pose when stressed?",
+          "options": [
+            "A handstand",
+            "A jump",
+            "Child's pose",
+            "A sprint"
+          ],
+          "answer": 2,
+          "explain": "Child's pose is restful and safe."
+        },
+        {
+          "q": "How should you breathe in yoga?",
+          "options": [
+            "Fast and hard",
+            "Hold your breath",
+            "Do not breathe",
+            "Slowly, out longer than in"
+          ],
+          "answer": 3,
+          "explain": "A long out-breath calms the body."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your daily calm routine",
+      "goal": "Put week 2 together: build a daily routine that protects your mind.",
+      "video": {
+        "youtube_id": "aG0mt69Y27s",
+        "title": "7 Science-Backed Ways to Fix Your Stress (That Actually Work)",
+        "channel": "Stick Theory"
+      },
+      "steps": [
+        "Morning: 5 slow breaths and a 10-minute walk.",
+        "Midday: one short break and water.",
+        "Evening: journal for 5 minutes and gentle yoga.",
+        "Follow the routine for 3 days."
+      ],
+      "task": "Write your daily calm routine.",
+      "challenge": "Follow it for 3 days.",
+      "quiz": [
+        {
+          "q": "What should a calm routine have?",
+          "options": [
+            "Only one habit",
+            "No habits",
+            "Morning, midday and evening habits",
+            "Only work"
+          ],
+          "answer": 2,
+          "explain": "Small habits through the day protect your mind."
+        },
+        {
+          "q": "Why follow it for 3 days?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "It is not needed",
+            "To see if it helps before changing it"
+          ],
+          "answer": 3,
+          "explain": "Three days shows if the routine works."
+        },
+        {
+          "q": "What should you do if a habit does not help?",
+          "options": [
+            "Swap it for another one",
+            "Quit everything",
+            "Force it",
+            "Ignore it"
+          ],
+          "answer": 0,
+          "explain": "Swapping keeps the routine working for you."
+        }
+      ],
+      "project": {
+        "title": "Your daily calm routine",
+        "brief": "Build a daily routine: morning breaths and a walk, a midday break, evening journaling and gentle yoga, and follow it for 3 days.",
+        "checks": [
+          "Routine has morning habits",
+          "Routine has a midday break",
+          "Routine has evening habits",
+          "Followed it for 3 days",
+          "Wrote what helped",
+          "Swapped one habit that did not help"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Meditation for beginners",
+      "goal": "Learn a simple 5-minute meditation.",
+      "video": {
+        "youtube_id": "d0vy1i1LW1s",
+        "title": "Dr Brian Alman Stress Release Workshop",
+        "channel": "Dr. Brian Alman"
+      },
+      "steps": [
+        "Sit tall with eyes closed or softly open.",
+        "Breathe slowly and count each out-breath to 10, then start again.",
+        "When your mind wanders, bring it back kindly.",
+        "Sit for 5 minutes."
+      ],
+      "task": "Meditate for 5 minutes today.",
+      "challenge": "Meditate every morning this week.",
+      "quiz": [
+        {
+          "q": "What is meditation?",
+          "options": [
+            "Sleeping",
+            "Thinking hard",
+            "Running",
+            "Sitting quietly and noticing your breath"
+          ],
+          "answer": 3,
+          "explain": "Meditation is quiet time with your breath."
+        },
+        {
+          "q": "What should you do when your mind wanders?",
+          "options": [
+            "Bring it back kindly",
+            "Get angry",
+            "Quit",
+            "Think harder"
+          ],
+          "answer": 0,
+          "explain": "Wandering is normal; bring the mind back gently."
+        },
+        {
+          "q": "How long should a beginner meditate?",
+          "options": [
+            "2 hours",
+            "About 5 minutes",
+            "5 seconds",
+            "All day"
+          ],
+          "answer": 1,
+          "explain": "Five minutes is a good start."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Handle worry with a plan",
+      "goal": "Learn to turn worry into a small plan.",
+      "video": {
+        "youtube_id": "Enz98dDXQfY",
+        "title": "18-Minute Movement Medicine",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Write down what you are worried about.",
+        "Ask: what can I do about it today?",
+        "Write one small step and do it.",
+        "Set a worry time: 10 minutes, then stop."
+      ],
+      "task": "Write one worry and one small step today.",
+      "challenge": "Use a 10-minute worry time today.",
+      "quiz": [
+        {
+          "q": "Why write worries down?",
+          "options": [
+            "It stops them spinning in your head",
+            "It makes them worse",
+            "It is silly",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Writing worries down makes them smaller."
+        },
+        {
+          "q": "What is a worry time?",
+          "options": [
+            "All day worrying",
+            "A set 10 minutes to worry, then stop",
+            "No worrying ever",
+            "A holiday"
+          ],
+          "answer": 1,
+          "explain": "A set worry time contains the worry."
+        },
+        {
+          "q": "What should you do after worry time?",
+          "options": [
+            "Keep worrying",
+            "Panic",
+            "Do one small step or let it go",
+            "Ignore everything"
+          ],
+          "answer": 2,
+          "explain": "A small step turns worry into action."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Digital breaks: rest your mind",
+      "goal": "Learn to take breaks from screens.",
+      "video": {
+        "youtube_id": "8TuRYV71Rgo",
+        "title": "10-Minute Yoga for Stress and Anxiety",
+        "channel": "Yoga With Bird"
+      },
+      "steps": [
+        "Put your phone away for 1 hour today.",
+        "Turn off notifications for one evening.",
+        "Do something offline: walk, read, cook.",
+        "Write down how you felt after the break."
+      ],
+      "task": "Put your phone away for 1 hour today.",
+      "challenge": "Have one screen-free evening this week.",
+      "quiz": [
+        {
+          "q": "Why take breaks from screens?",
+          "options": [
+            "Screens are harmless",
+            "Screens can feed stress and steal sleep",
+            "It is not needed",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "Screen breaks rest the mind."
+        },
+        {
+          "q": "What should you do instead of screens?",
+          "options": [
+            "Stare at a wall",
+            "Sleep all day",
+            "Walk, read or cook",
+            "Work more"
+          ],
+          "answer": 2,
+          "explain": "Offline activities refresh the mind."
+        },
+        {
+          "q": "How long should a screen break be?",
+          "options": [
+            "1 minute",
+            "1 week",
+            "Forever",
+            "Even 1 hour helps"
+          ],
+          "answer": 3,
+          "explain": "One hour is a good start."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Be kind to yourself",
+      "goal": "Learn self-compassion: talk to yourself like a friend.",
+      "video": {
+        "youtube_id": "mhtN3SlPdFU",
+        "title": "Meditation for Beginners",
+        "channel": "Mindful"
+      },
+      "steps": [
+        "Notice one harsh thought you had today.",
+        "Rewrite it kindly: I am learning, and that is OK.",
+        "Say one kind thing to yourself each morning.",
+        "Write down 3 things you did well this week."
+      ],
+      "task": "Say one kind thing to yourself today.",
+      "challenge": "Write 3 things you did well this week.",
+      "quiz": [
+        {
+          "q": "What is self-compassion?",
+          "options": [
+            "Being lazy",
+            "Ignoring problems",
+            "Talking to yourself kindly, like a friend",
+            "Bragging"
+          ],
+          "answer": 2,
+          "explain": "Self-compassion is kind self-talk."
+        },
+        {
+          "q": "Why rewrite harsh thoughts?",
+          "options": [
+            "It is silly",
+            "It wastes time",
+            "It does not matter",
+            "Kind words help you keep going"
+          ],
+          "answer": 3,
+          "explain": "Kind self-talk builds strength."
+        },
+        {
+          "q": "What should you do when you make a mistake?",
+          "options": [
+            "Learn from it and move on",
+            "Hate yourself",
+            "Quit",
+            "Hide"
+          ],
+          "answer": 0,
+          "explain": "Mistakes are how we learn."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Build good habits, one at a time",
+      "goal": "Learn how habits form and how to build one.",
+      "video": {
+        "youtube_id": "f4zn9AzG5Bw",
+        "title": "Learn How to Meditate",
+        "channel": "SelfHelpToons"
+      },
+      "steps": [
+        "Pick one small habit: a 5-minute walk after lunch.",
+        "Do it at the same time every day.",
+        "Tick it off on a calendar each day.",
+        "After 2 weeks, add one more habit."
+      ],
+      "task": "Pick one small habit and do it today.",
+      "challenge": "Tick it off on your calendar.",
+      "quiz": [
+        {
+          "q": "How do habits form?",
+          "options": [
+            "By thinking about it",
+            "By doing it once",
+            "By wishing",
+            "By doing a small thing at the same time each day"
+          ],
+          "answer": 3,
+          "explain": "Repeating a small thing builds a habit."
+        },
+        {
+          "q": "Why start with one habit?",
+          "options": [
+            "One habit is doable; many at once fail",
+            "One is too few",
+            "Many is better",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "One habit at a time sticks."
+        },
+        {
+          "q": "Why tick habits off?",
+          "options": [
+            "To fill paper",
+            "Seeing ticks keeps you going",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "Ticks show your streak."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Help a friend who is stressed",
+      "goal": "Learn how to support a stressed friend.",
+      "video": {
+        "youtube_id": "ELr1_5Prcd8",
+        "title": "Guided Meditation for Beginners",
+        "channel": "Be Nothing Like"
+      },
+      "steps": [
+        "Listen without judging or fixing.",
+        "Ask: what would help right now?",
+        "Offer one small thing: a walk, a talk, a meal.",
+        "Check in again tomorrow."
+      ],
+      "task": "Ask a friend how they are doing today.",
+      "challenge": "Offer one small help to a friend.",
+      "quiz": [
+        {
+          "q": "What is the best first step?",
+          "options": [
+            "Listen without judging",
+            "Give orders",
+            "Fix everything",
+            "Walk away"
+          ],
+          "answer": 0,
+          "explain": "Listening shows care."
+        },
+        {
+          "q": "What should you ask a stressed friend?",
+          "options": [
+            "What is wrong with you?",
+            "What would help right now?",
+            "Why are you stressed?",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Asking what helps respects their needs."
+        },
+        {
+          "q": "Why check in again tomorrow?",
+          "options": [
+            "It is annoying",
+            "It is not needed",
+            "It shows you truly care",
+            "It wastes time"
+          ],
+          "answer": 2,
+          "explain": "Checking in again shows real care."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your wellness plan",
+      "goal": "Put week 3 together: write your own 7-day wellness plan.",
+      "video": {
+        "youtube_id": "mEAe8-SYa30",
+        "title": "Meditation for beginners: 3 simple steps",
+        "channel": "Carol Trevor Yoga"
+      },
+      "steps": [
+        "Pick one habit for morning, midday and evening.",
+        "Add one walk and one talk with a friend each day.",
+        "Add one screen-free hour each evening.",
+        "Follow the plan for 7 days."
+      ],
+      "task": "Write your 7-day wellness plan.",
+      "challenge": "Follow it for 7 days.",
+      "quiz": [
+        {
+          "q": "What should a wellness plan have?",
+          "options": [
+            "Only one habit",
+            "Morning, midday and evening habits",
+            "No habits",
+            "Only work"
+          ],
+          "answer": 1,
+          "explain": "Small habits through the day protect your mind."
+        },
+        {
+          "q": "Why follow it for 7 days?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "A week shows if the plan works",
+            "It is not needed"
+          ],
+          "answer": 2,
+          "explain": "A week of practice shows real change."
+        },
+        {
+          "q": "What should you do if a day goes badly?",
+          "options": [
+            "Quit the plan",
+            "Punish yourself",
+            "Give up",
+            "Start fresh the next day"
+          ],
+          "answer": 3,
+          "explain": "One bad day does not ruin the plan."
+        }
+      ],
+      "project": {
+        "title": "Your wellness plan",
+        "brief": "Write your own 7-day wellness plan with morning, midday and evening habits, a daily walk, a daily talk and a screen-free hour, and follow it for 7 days.",
+        "checks": [
+          "Plan has 7 days",
+          "Plan has morning, midday and evening habits",
+          "Plan has a daily walk",
+          "Plan has a daily talk",
+          "Plan has a screen-free hour",
+          "Followed the plan for 7 days"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Know when to ask for help",
+      "goal": "Learn the signs that mean you should talk to a doctor or counsellor.",
+      "video": {
+        "youtube_id": "xVmwaP7wpWc",
+        "title": "Webinar: Ways to deal with Anxiety",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Signs: feeling low for more than 2 weeks, cannot sleep, cannot eat.",
+        "Asking for help is strong, not weak.",
+        "Write down who you would call: a doctor, a helpline, a trusted person.",
+        "Keep the number where you can find it."
+      ],
+      "task": "Write down who you would call for help.",
+      "challenge": "Keep the number in your phone.",
+      "quiz": [
+        {
+          "q": "When should you ask for professional help?",
+          "options": [
+            "Never",
+            "For every bad day",
+            "When low feelings last more than 2 weeks",
+            "Only after a year"
+          ],
+          "answer": 2,
+          "explain": "Long-lasting low feelings need expert help."
+        },
+        {
+          "q": "Is asking for help weak?",
+          "options": [
+            "Yes",
+            "It is shameful",
+            "It does not matter",
+            "No, it is strong and smart"
+          ],
+          "answer": 3,
+          "explain": "Asking for help takes courage."
+        },
+        {
+          "q": "Who can you ask for help?",
+          "options": [
+            "A doctor, a counsellor or a helpline",
+            "Nobody",
+            "Only yourself",
+            "A stranger"
+          ],
+          "answer": 0,
+          "explain": "Doctors and counsellors are trained to help."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Gratitude: notice the good",
+      "goal": "Learn a simple gratitude habit.",
+      "video": {
+        "youtube_id": "bVfxAuNwmRM",
+        "title": "Living with Uncertainty - NHS Webinar",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Each night, write 3 good things from the day.",
+        "They can be small: a good meal, a kind word, sunshine.",
+        "Say thank you to one person each week.",
+        "Do this for 7 nights."
+      ],
+      "task": "Write 3 good things tonight.",
+      "challenge": "Say thank you to one person this week.",
+      "quiz": [
+        {
+          "q": "What is gratitude?",
+          "options": [
+            "Bragging",
+            "Ignoring problems",
+            "Being fake",
+            "Noticing and naming good things"
+          ],
+          "answer": 3,
+          "explain": "Gratitude is noticing the good."
+        },
+        {
+          "q": "Why write 3 good things each night?",
+          "options": [
+            "It trains your mind to notice the good",
+            "It is silly",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Noticing good things lifts mood."
+        },
+        {
+          "q": "How small can a good thing be?",
+          "options": [
+            "It must be huge",
+            "As small as a kind word or sunshine",
+            "It must cost money",
+            "Small things do not count"
+          ],
+          "answer": 1,
+          "explain": "Small good things count just as much."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Review your month",
+      "goal": "Look back at your month of wellness work.",
+      "video": {
+        "youtube_id": "rSv5Q0YeN6c",
+        "title": "What is Stress and Anxiety - NHS Webinar",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 3.",
+        "List 3 tricks that helped you most.",
+        "List 1 thing that is still hard.",
+        "Write one fix for the hard thing."
+      ],
+      "task": "List 3 tricks that helped you most.",
+      "challenge": "Fix one hard thing in your routine.",
+      "quiz": [
+        {
+          "q": "Why review your month?",
+          "options": [
+            "To see what helped and what needs fixing",
+            "To fill paper",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 0,
+          "explain": "Reviewing shows real progress."
+        },
+        {
+          "q": "What should you do with a hard thing?",
+          "options": [
+            "Quit",
+            "Fix it with one small change",
+            "Ignore it",
+            "Change everything"
+          ],
+          "answer": 1,
+          "explain": "One small fix keeps the plan going."
+        },
+        {
+          "q": "What is a sign your toolkit works?",
+          "options": [
+            "You never feel stress",
+            "You feel worse",
+            "You feel calmer more often",
+            "Nothing changes"
+          ],
+          "answer": 2,
+          "explain": "Feeling calmer more often means it works."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Teach a friend your calm tricks",
+      "goal": "Teach someone else what helped you.",
+      "video": {
+        "youtube_id": "oUpD1rncn98",
+        "title": "Strategies for Managing Stress and Anxiety - NHS Webinar",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Show a friend your calm toolkit cards.",
+        "Teach them slow breathing.",
+        "Walk together for 10 minutes.",
+        "Ask them how they felt after."
+      ],
+      "task": "Teach slow breathing to one person.",
+      "challenge": "Walk with a friend this week.",
+      "quiz": [
+        {
+          "q": "Why teach someone else?",
+          "options": [
+            "It wastes time",
+            "Teaching helps you learn it better",
+            "It is not needed",
+            "It makes you tired"
+          ],
+          "answer": 1,
+          "explain": "Teaching locks in your own learning."
+        },
+        {
+          "q": "What is the first trick to teach?",
+          "options": [
+            "A long lecture",
+            "Nothing",
+            "Slow breathing",
+            "Only running"
+          ],
+          "answer": 2,
+          "explain": "Slow breathing is simple and works fast."
+        },
+        {
+          "q": "Why walk together?",
+          "options": [
+            "It is slower",
+            "It is not useful",
+            "It makes you weaker",
+            "Walking and talking help both of you"
+          ],
+          "answer": 3,
+          "explain": "A shared walk helps two people at once."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Build a calm morning routine",
+      "goal": "Learn a calm morning routine.",
+      "video": {
+        "youtube_id": "2zur7hOpjIg",
+        "title": "What is Low Mood - NHS Webinar",
+        "channel": "NHS"
+      },
+      "steps": [
+        "Wake up at the same time each day.",
+        "Drink water and stretch for 5 minutes.",
+        "Write down 1 thing you want to do today.",
+        "Eat a simple breakfast.",
+        "Avoid your phone for the first 15 minutes.",
+        "Leave the house on time, not in a rush."
+      ],
+      "task": "Try the calm morning routine tomorrow.",
+      "challenge": "Do the routine for 3 mornings in a row.",
+      "quiz": [
+        {
+          "q": "Why avoid your phone first thing?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "It fills your mind with noise before the day starts",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "A quiet start keeps your mind calm."
+        },
+        {
+          "q": "What should you write down in the morning?",
+          "options": [
+            "Everything you fear",
+            "Nothing",
+            "Only your dreams",
+            "One thing you want to do today"
+          ],
+          "answer": 3,
+          "explain": "One clear goal gives the day direction."
+        },
+        {
+          "q": "Why wake up at the same time?",
+          "options": [
+            "It helps your body clock stay steady",
+            "It is a rule",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "A steady wake time helps you sleep better too."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Handle a hard day",
+      "goal": "Learn what to do when a day goes badly.",
+      "video": {
+        "youtube_id": "aG0mt69Y27s",
+        "title": "7 Science-Backed Ways to Fix Your Stress (That Actually Work)",
+        "channel": "Stick Theory"
+      },
+      "steps": [
+        "Stop and take 5 slow breaths.",
+        "Name what went wrong in one sentence.",
+        "Pick one small thing you can fix.",
+        "Talk to someone you trust.",
+        "Do one kind thing for yourself.",
+        "Write down what you learned."
+      ],
+      "task": "Write down your plan for a hard day.",
+      "challenge": "Use the plan the next time a day goes badly.",
+      "quiz": [
+        {
+          "q": "What is the first step on a hard day?",
+          "options": [
+            "Panic",
+            "Give up",
+            "Shout",
+            "Stop and take 5 slow breaths"
+          ],
+          "answer": 3,
+          "explain": "Slow breaths calm you before you act."
+        },
+        {
+          "q": "Why name what went wrong?",
+          "options": [
+            "So it feels smaller and clearer",
+            "It makes it worse",
+            "It is a rule",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Naming a problem makes it easier to fix."
+        },
+        {
+          "q": "Why do one kind thing for yourself?",
+          "options": [
+            "It is selfish",
+            "It helps you feel better and keep going",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Kindness to yourself builds strength."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final project.",
+      "video": {
+        "youtube_id": "d0vy1i1LW1s",
+        "title": "Dr Brian Alman Stress Release Workshop",
+        "channel": "Dr. Brian Alman"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 tricks you can now use when stressed.",
+        "Practise your capstone routine once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 calm tricks you learned.",
+      "challenge": "Do your capstone routine from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final project that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new notebook"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own a notebook",
+            "You can use your toolkit calmly when stressed",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "Using your tricks calmly shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "Enz98dDXQfY",
+        "title": "18-Minute Movement Medicine",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Do your capstone routine one more time.",
+        "Check your toolkit cards are ready.",
+        "Fix anything that felt rushed.",
+        "Rest well tonight."
+      ],
+      "task": "Run your capstone routine and time each part.",
+      "challenge": "Fix one thing that felt rushed.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your notebook",
+            "Your tricks, your timing and your breathing",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking your tricks makes the routine smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Practise all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you do your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: your wellness plan",
+      "goal": "Show what you learned: present your wellness plan and use your toolkit.",
+      "video": {
+        "youtube_id": "8TuRYV71Rgo",
+        "title": "10-Minute Yoga for Stress and Anxiety",
+        "channel": "Yoga With Bird"
+      },
+      "steps": [
+        "Show your 7-day wellness plan.",
+        "Teach slow breathing to one person.",
+        "Do your calm routine from start to finish.",
+        "Write a short report on your month."
+      ],
+      "task": "Present your plan, teach breathing and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What should your plan show?",
+          "options": [
+            "Only one habit",
+            "Only work",
+            "7 days of habits that protect your mind",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "A full plan shows real skill."
+        },
+        {
+          "q": "What is the first trick to teach?",
+          "options": [
+            "A long lecture",
+            "Nothing",
+            "Only running",
+            "Slow breathing"
+          ],
+          "answer": 3,
+          "explain": "Slow breathing is simple and works fast."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and what you learned",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your wellness plan",
+    "brief": "Present your 7-day wellness plan, teach slow breathing to one person, do your calm routine from start to finish, and write a short report on your month.",
+    "checks": [
+      "Showed a 7-day plan",
+      "Taught slow breathing clearly",
+      "Did the full calm routine",
+      "Used the toolkit when stressed",
+      "Kept a journal for a week",
+      "Wrote a short report",
+      "Listed one habit to keep"
+    ],
+    "deliverables": [
+      "A written wellness plan",
+      "Calm toolkit cards",
+      "A journal from the month",
+      "A short video or notes from teaching",
+      "A written report"
+    ]
+  }
+}
