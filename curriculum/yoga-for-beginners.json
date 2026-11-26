@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "yoga-for-beginners",
+    "title": "Yoga for Beginners",
+    "level": "Beginner",
+    "tagline": "Build flexibility, strength and calm with daily yoga practice.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Your first yoga class",
+      "goal": "Learn what yoga is and do your first gentle flow.",
+      "video": {
+        "youtube_id": "v7AYKMP6rOE",
+        "title": "Yoga for Complete Beginners",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Lay out a mat or a soft towel on the floor.",
+        "Watch the video and follow the slow moves.",
+        "Breathe in through your nose and out through your nose.",
+        "Rest in a lying down pose at the end for 1 minute."
+      ],
+      "task": "Finish the video and rest lying down for 1 minute.",
+      "challenge": "Do the video again tomorrow and breathe slower.",
+      "quiz": [
+        {
+          "q": "What is yoga?",
+          "options": [
+            "A race",
+            "Slow moves, breathing and stretching done together",
+            "Heavy lifting",
+            "A dance show"
+          ],
+          "answer": 1,
+          "explain": "Yoga joins gentle movement with breathing."
+        },
+        {
+          "q": "How should you breathe in yoga?",
+          "options": [
+            "Fast through your mouth",
+            "Hold your breath",
+            "Slowly through your nose",
+            "Do not breathe"
+          ],
+          "answer": 2,
+          "explain": "Slow nose breathing keeps you calm."
+        },
+        {
+          "q": "What should you do at the end of a class?",
+          "options": [
+            "Run away fast",
+            "Jump up at once",
+            "Skip the rest",
+            "Rest lying down for a minute"
+          ],
+          "answer": 3,
+          "explain": "A short rest lets the body settle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Breathe well: the base of yoga",
+      "goal": "Learn slow belly breathing you will use in every class.",
+      "video": {
+        "youtube_id": "yetbSrCW1TQ",
+        "title": "Yoga for Beginners",
+        "channel": "Breathe and Flow"
+      },
+      "steps": [
+        "Sit tall and put one hand on your belly.",
+        "Breathe in slowly and feel your belly rise.",
+        "Breathe out slowly and feel it fall.",
+        "Do this for 2 minutes, counting to 4 in and 4 out."
+      ],
+      "task": "Practise belly breathing for 2 minutes.",
+      "challenge": "Breathe in for 4 counts, out for 6 counts, 5 times.",
+      "quiz": [
+        {
+          "q": "What is belly breathing?",
+          "options": [
+            "Breathing fast",
+            "Holding your breath",
+            "Breathing so your belly rises and falls",
+            "Breathing only in your chest"
+          ],
+          "answer": 2,
+          "explain": "Belly breathing is slow and deep."
+        },
+        {
+          "q": "Why breathe slowly in yoga?",
+          "options": [
+            "It makes you tired",
+            "It is only for show",
+            "It does not matter",
+            "It calms the body and mind"
+          ],
+          "answer": 3,
+          "explain": "Slow breathing tells the body to relax."
+        },
+        {
+          "q": "How long should you practise breathing today?",
+          "options": [
+            "About 2 minutes",
+            "2 seconds",
+            "2 hours",
+            "No time"
+          ],
+          "answer": 0,
+          "explain": "Two minutes is enough to feel calmer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Mountain pose: stand tall",
+      "goal": "Learn mountain pose, the base of all standing poses.",
+      "video": {
+        "youtube_id": "3_Q-yYfjeBM",
+        "title": "Full Body Gentle Flow",
+        "channel": "Boho Beautiful Yoga"
+      },
+      "steps": [
+        "Stand with feet together and arms by your sides.",
+        "Press all four corners of your feet into the floor.",
+        "Lift your chest and let your shoulders drop down.",
+        "Breathe slowly and hold for 30 seconds."
+      ],
+      "task": "Hold mountain pose for 1 minute.",
+      "challenge": "Stand in mountain pose with your eyes closed for 20 seconds.",
+      "quiz": [
+        {
+          "q": "What is mountain pose?",
+          "options": [
+            "A jump",
+            "A run",
+            "Lying down",
+            "Standing tall with feet together and arms relaxed"
+          ],
+          "answer": 3,
+          "explain": "Mountain pose is a tall, steady standing pose."
+        },
+        {
+          "q": "Where should your weight be?",
+          "options": [
+            "Spread across the whole foot",
+            "Only on your heels",
+            "Only on your toes",
+            "On one foot"
+          ],
+          "answer": 0,
+          "explain": "Weight across the whole foot keeps you steady."
+        },
+        {
+          "q": "What should your shoulders do?",
+          "options": [
+            "Rise up to your ears",
+            "Drop down and relax",
+            "Hunch forward",
+            "Stay stiff"
+          ],
+          "answer": 1,
+          "explain": "Relaxed shoulders help you stand tall."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Downward dog, the easy way",
+      "goal": "Learn a gentle downward dog with bent knees.",
+      "video": {
+        "youtube_id": "M9VSpOiwwDU",
+        "title": "Morning Yoga For Beginners",
+        "channel": "Sadhguru"
+      },
+      "steps": [
+        "Start on hands and knees.",
+        "Tuck your toes and lift your hips up high.",
+        "Keep your knees bent and your back long.",
+        "Hold for 20 seconds and breathe slowly."
+      ],
+      "task": "Hold a gentle downward dog for 20 seconds, 3 times.",
+      "challenge": "Pedal your feet: bend one knee, then the other, 5 times.",
+      "quiz": [
+        {
+          "q": "What shape does downward dog make?",
+          "options": [
+            "An upside-down V shape",
+            "A straight line",
+            "A circle",
+            "A square"
+          ],
+          "answer": 0,
+          "explain": "Downward dog makes a V shape with the body."
+        },
+        {
+          "q": "Why keep your knees bent?",
+          "options": [
+            "It makes it harder",
+            "It keeps your back long and safe",
+            "It is wrong",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Bent knees protect the back for beginners."
+        },
+        {
+          "q": "Where should you look in downward dog?",
+          "options": [
+            "Up at the ceiling",
+            "Behind you",
+            "Toward your belly or your feet",
+            "At the TV"
+          ],
+          "answer": 2,
+          "explain": "Looking down keeps your neck relaxed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Child's pose: rest well",
+      "goal": "Learn child's pose, the resting pose of yoga.",
+      "video": {
+        "youtube_id": "OQ6NfFIr2jw",
+        "title": "Yoga for Beginners",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Kneel on the mat and sit back toward your heels.",
+        "Fold forward and rest your forehead on the mat.",
+        "Stretch your arms forward or rest them by your sides.",
+        "Breathe slowly for 1 minute."
+      ],
+      "task": "Rest in child's pose for 2 minutes.",
+      "challenge": "Use child's pose whenever you need a rest in class.",
+      "quiz": [
+        {
+          "q": "What is child's pose for?",
+          "options": [
+            "Jumping",
+            "Resting during a yoga class",
+            "Running",
+            "Lifting"
+          ],
+          "answer": 1,
+          "explain": "Child's pose is a safe resting pose."
+        },
+        {
+          "q": "Where should your forehead go?",
+          "options": [
+            "In the air",
+            "On the ceiling",
+            "On the mat or on your hands",
+            "Behind you"
+          ],
+          "answer": 2,
+          "explain": "Resting the forehead down helps you relax."
+        },
+        {
+          "q": "When should you use child's pose?",
+          "options": [
+            "Never",
+            "Only at the end",
+            "Only if the teacher says so",
+            "Whenever you feel tired in class"
+          ],
+          "answer": 3,
+          "explain": "You can rest in child's pose any time you need it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Warrior 1: strong legs",
+      "goal": "Learn warrior 1, a strong standing pose.",
+      "video": {
+        "youtube_id": "6hZIzMpHl-c",
+        "title": "30 min Beginner Yoga",
+        "channel": "Yoga with Kassandra"
+      },
+      "steps": [
+        "Step one foot forward and bend the front knee.",
+        "Keep the back leg straight and the back heel down.",
+        "Lift your arms up high and look forward.",
+        "Hold for 20 seconds, then switch sides."
+      ],
+      "task": "Hold warrior 1 for 20 seconds on each side.",
+      "challenge": "Do warrior 1 with your back heel lifted if the floor version is hard.",
+      "quiz": [
+        {
+          "q": "What does warrior 1 build?",
+          "options": [
+            "Only the toes",
+            "Only the neck",
+            "Strong legs and a tall chest",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Warrior 1 builds leg strength and opens the chest."
+        },
+        {
+          "q": "What should the front knee do?",
+          "options": [
+            "Fall inward",
+            "Lock straight",
+            "Point sideways",
+            "Bend over the ankle, not past the toes"
+          ],
+          "answer": 3,
+          "explain": "The knee over the ankle keeps the pose safe."
+        },
+        {
+          "q": "Where should your arms go?",
+          "options": [
+            "Up high toward the sky",
+            "Behind your back",
+            "On the floor",
+            "Crossed over your chest"
+          ],
+          "answer": 0,
+          "explain": "Arms up high open the chest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your first flow",
+      "goal": "Put week 1 together: link 5 poses into a short flow.",
+      "video": {
+        "youtube_id": "X_0_p8uCiUM",
+        "title": "Beginner Yoga 1: Get Going!",
+        "channel": "Your Body Best"
+      },
+      "steps": [
+        "Pick 5 poses you learned: mountain, downward dog, child's pose, warrior 1, and a stretch.",
+        "Move slowly from one pose to the next, breathing as you go.",
+        "Hold each pose for 20 seconds.",
+        "End lying down and rest for 1 minute."
+      ],
+      "task": "Do your 5-pose flow and write down the order.",
+      "challenge": "Do the flow without looking at your notes.",
+      "quiz": [
+        {
+          "q": "What is a yoga flow?",
+          "options": [
+            "One pose only",
+            "A run",
+            "A jump",
+            "Poses linked together with breathing"
+          ],
+          "answer": 3,
+          "explain": "A flow links poses with breath."
+        },
+        {
+          "q": "How long should you hold each pose?",
+          "options": [
+            "About 20 seconds",
+            "1 second",
+            "5 minutes",
+            "No time"
+          ],
+          "answer": 0,
+          "explain": "Twenty seconds is enough to feel the pose."
+        },
+        {
+          "q": "What should you do at the end of a flow?",
+          "options": [
+            "Run away",
+            "Lie down and rest",
+            "Jump up",
+            "Skip the rest"
+          ],
+          "answer": 1,
+          "explain": "A rest at the end settles the body."
+        }
+      ],
+      "project": {
+        "title": "Your first flow",
+        "brief": "Link 5 poses you learned into a short flow, hold each pose for 20 seconds, and end lying down for 1 minute of rest.",
+        "checks": [
+          "Flow has 5 poses",
+          "Each pose held for 20 seconds",
+          "Moved slowly with breathing",
+          "Ended lying down",
+          "Rested for 1 minute",
+          "Wrote down the order"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Sun salutation, step by step",
+      "goal": "Learn the sun salutation, a classic series of moves.",
+      "video": {
+        "youtube_id": "Tr0XDiaHe0c",
+        "title": "Beginner Yoga 2: Just Breathe",
+        "channel": "Your Body Best"
+      },
+      "steps": [
+        "Start in mountain pose and breathe in.",
+        "Fold forward slowly as you breathe out.",
+        "Step back into a plank, then lower down.",
+        "Lift your chest, then press back to downward dog."
+      ],
+      "task": "Do one slow sun salutation.",
+      "challenge": "Do 3 sun salutations, breathing slowly.",
+      "quiz": [
+        {
+          "q": "What is a sun salutation?",
+          "options": [
+            "A series of yoga moves done in order",
+            "A dance",
+            "A race",
+            "A nap"
+          ],
+          "answer": 0,
+          "explain": "A sun salutation is a classic flow of poses."
+        },
+        {
+          "q": "How should you move in a sun salutation?",
+          "options": [
+            "As fast as you can",
+            "Slowly, with your breath",
+            "Without breathing",
+            "While jumping"
+          ],
+          "answer": 1,
+          "explain": "Slow moves with breath keep it safe."
+        },
+        {
+          "q": "What comes after the forward fold?",
+          "options": [
+            "A jump",
+            "A run",
+            "Stepping back into a plank",
+            "Lying down"
+          ],
+          "answer": 2,
+          "explain": "Stepping back moves you into the next pose."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Open your hips gently",
+      "goal": "Learn two easy hip stretches.",
+      "video": {
+        "youtube_id": "d-2iPUHyUBY",
+        "title": "Beginner Yoga 3: Calm",
+        "channel": "Your Body Best"
+      },
+      "steps": [
+        "Try a butterfly: sit, feet together, knees out, hold your feet.",
+        "Try a low lunge: step forward, back knee down, hands on the front knee.",
+        "Hold each stretch for 30 seconds.",
+        "Breathe slowly and never force the stretch."
+      ],
+      "task": "Do both hip stretches, 30 seconds each.",
+      "challenge": "Hold the butterfly for 1 minute.",
+      "quiz": [
+        {
+          "q": "What is a butterfly stretch?",
+          "options": [
+            "A jump",
+            "Sitting with feet together and knees out",
+            "A run",
+            "A dance"
+          ],
+          "answer": 1,
+          "explain": "Butterfly opens the hips gently."
+        },
+        {
+          "q": "How long should you hold a stretch?",
+          "options": [
+            "1 second",
+            "5 minutes",
+            "About 30 seconds",
+            "No time"
+          ],
+          "answer": 2,
+          "explain": "Thirty seconds lets the muscle relax."
+        },
+        {
+          "q": "What should you never do in a stretch?",
+          "options": [
+            "Breathe slowly",
+            "Hold still",
+            "Relax",
+            "Force it until it hurts"
+          ],
+          "answer": 3,
+          "explain": "Forcing a stretch can hurt you."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Twist gently for your back",
+      "goal": "Learn a simple seated twist.",
+      "video": {
+        "youtube_id": "bHi37AEaeaU",
+        "title": "Beginner Yoga 4: Support",
+        "channel": "Your Body Best"
+      },
+      "steps": [
+        "Sit tall with legs out in front of you.",
+        "Bend one knee and put that foot outside the other leg.",
+        "Twist toward the bent knee and look over your shoulder.",
+        "Hold for 20 seconds, then switch sides."
+      ],
+      "task": "Do a seated twist on each side for 20 seconds.",
+      "challenge": "Do the twist after your next flow.",
+      "quiz": [
+        {
+          "q": "What does a twist do?",
+          "options": [
+            "It hurts the back",
+            "Nothing",
+            "It stretches the back and belly gently",
+            "It makes you dizzy"
+          ],
+          "answer": 2,
+          "explain": "A gentle twist stretches the spine."
+        },
+        {
+          "q": "How should a twist feel?",
+          "options": [
+            "Sharp and painful",
+            "Like nothing",
+            "Very hard",
+            "Gentle, never sharp or painful"
+          ],
+          "answer": 3,
+          "explain": "A twist should feel like a gentle stretch."
+        },
+        {
+          "q": "What should your back do in a twist?",
+          "options": [
+            "Stay tall, not slumped",
+            "Slump forward",
+            "Arch hard",
+            "Bend sideways"
+          ],
+          "answer": 0,
+          "explain": "A tall back keeps the twist safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Balance: tree pose",
+      "goal": "Learn tree pose, a simple balance pose.",
+      "video": {
+        "youtube_id": "EPwiRJ3I4GI",
+        "title": "Beginner Yoga 13: In the Flow",
+        "channel": "Your Body Best"
+      },
+      "steps": [
+        "Stand in mountain pose and shift weight to one foot.",
+        "Put the other foot on your ankle or your calf, not your knee.",
+        "Bring your hands together at your chest.",
+        "Hold for 20 seconds, then switch sides."
+      ],
+      "task": "Hold tree pose for 20 seconds on each side.",
+      "challenge": "Hold tree pose with your eyes closed for 10 seconds.",
+      "quiz": [
+        {
+          "q": "Where should your foot go in tree pose?",
+          "options": [
+            "On your knee",
+            "On your toes only",
+            "In the air",
+            "On your ankle or calf, never on your knee"
+          ],
+          "answer": 3,
+          "explain": "The foot goes below the knee to keep it safe."
+        },
+        {
+          "q": "What helps you balance?",
+          "options": [
+            "Looking at one still spot",
+            "Looking around fast",
+            "Closing your eyes at once",
+            "Moving quickly"
+          ],
+          "answer": 0,
+          "explain": "A still gaze helps you stay steady."
+        },
+        {
+          "q": "What should you do if you wobble?",
+          "options": [
+            "Get angry",
+            "Smile, put your foot down and try again",
+            "Quit yoga",
+            "Push harder"
+          ],
+          "answer": 1,
+          "explain": "Wobbling is normal; try again calmly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Yoga for a calm morning",
+      "goal": "Build a short morning routine to wake up gently.",
+      "video": {
+        "youtube_id": "lNW0fNEEnFg",
+        "title": "45 Min Full Body Yoga for Beginners",
+        "channel": "Yoga with Kamya"
+      },
+      "steps": [
+        "Start with 5 slow breaths in bed.",
+        "Do a gentle stretch: arms up, side bends, forward fold.",
+        "Do 3 slow sun salutations.",
+        "Sit quietly for 1 minute and set one goal for the day."
+      ],
+      "task": "Do the morning routine tomorrow when you wake up.",
+      "challenge": "Do the routine for 3 mornings in a row.",
+      "quiz": [
+        {
+          "q": "Why do yoga in the morning?",
+          "options": [
+            "It wakes the body up gently",
+            "It makes you sleepy",
+            "It is only for show",
+            "It replaces breakfast"
+          ],
+          "answer": 0,
+          "explain": "Gentle morning yoga wakes the body slowly."
+        },
+        {
+          "q": "What is a good morning stretch?",
+          "options": [
+            "A heavy lift",
+            "Arms up and side bends",
+            "A sprint",
+            "A handstand"
+          ],
+          "answer": 1,
+          "explain": "Slow stretches wake the body safely."
+        },
+        {
+          "q": "How long should a morning routine be?",
+          "options": [
+            "2 hours",
+            "30 seconds",
+            "About 10 minutes",
+            "All morning"
+          ],
+          "answer": 2,
+          "explain": "Ten minutes is enough to start the day well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Stretch your hamstrings",
+      "goal": "Learn two easy stretches for the backs of your legs.",
+      "video": {
+        "youtube_id": "CRZmGnF382c",
+        "title": "Beginners Yoga Flow",
+        "channel": "Fightmaster Yoga"
+      },
+      "steps": [
+        "Try a seated forward fold: legs out, reach toward your toes.",
+        "Try a standing forward fold with bent knees.",
+        "Hold each for 30 seconds and breathe slowly.",
+        "Keep your back long, not rounded hard."
+      ],
+      "task": "Do both hamstring stretches for 30 seconds each.",
+      "challenge": "Reach a little further each week, never forcing it.",
+      "quiz": [
+        {
+          "q": "What are hamstrings?",
+          "options": [
+            "Arm muscles",
+            "The muscles at the back of your thighs",
+            "Neck muscles",
+            "Toe muscles"
+          ],
+          "answer": 1,
+          "explain": "Hamstrings run down the back of the thigh."
+        },
+        {
+          "q": "Why keep knees bent in a forward fold?",
+          "options": [
+            "It makes it harder",
+            "It is wrong",
+            "It protects your lower back",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Bent knees keep the back safe."
+        },
+        {
+          "q": "How should a stretch feel?",
+          "options": [
+            "Sharp pain",
+            "Nothing at all",
+            "Very hard",
+            "A gentle pull, not pain"
+          ],
+          "answer": 3,
+          "explain": "A gentle pull is the right feeling."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your morning flow",
+      "goal": "Put week 2 together: build your own 10-minute morning flow.",
+      "video": {
+        "youtube_id": "l0Ebi54JjUA",
+        "title": "Beginner Morning Yoga for Women",
+        "channel": "Brett Larkin Yoga"
+      },
+      "steps": [
+        "Pick 6 poses you know and write them in order.",
+        "Add breathing: in as you lift, out as you fold.",
+        "Do the flow and time it.",
+        "End with 1 minute of quiet sitting."
+      ],
+      "task": "Write your morning flow and do it tomorrow.",
+      "challenge": "Do your flow for 3 mornings this week.",
+      "quiz": [
+        {
+          "q": "What should a morning flow have?",
+          "options": [
+            "Only hard poses",
+            "Only jumping",
+            "Gentle poses, breathing and a quiet end",
+            "No breathing"
+          ],
+          "answer": 2,
+          "explain": "A morning flow is gentle and calm."
+        },
+        {
+          "q": "How many poses should it have?",
+          "options": [
+            "30 poses",
+            "1 pose",
+            "100 poses",
+            "About 6 poses"
+          ],
+          "answer": 3,
+          "explain": "Six poses fit well in 10 minutes."
+        },
+        {
+          "q": "Why end with quiet sitting?",
+          "options": [
+            "It settles the mind for the day",
+            "It wastes time",
+            "It is not needed",
+            "It makes you sleepy"
+          ],
+          "answer": 0,
+          "explain": "A quiet minute helps you start the day calm."
+        }
+      ],
+      "project": {
+        "title": "Your morning flow",
+        "brief": "Build your own 10-minute morning flow with 6 poses, breathing, and 1 minute of quiet sitting at the end.",
+        "checks": [
+          "Flow has 6 poses",
+          "Flow takes about 10 minutes",
+          "Breathing matches the moves",
+          "Ends with quiet sitting",
+          "Did the flow 3 mornings",
+          "Wrote the flow down"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Yoga for better sleep",
+      "goal": "Learn a gentle evening routine that helps you sleep.",
+      "video": {
+        "youtube_id": "HmESLL_7AUU",
+        "title": "45 Minute Gentle Yoga for Beginners",
+        "channel": "Breathe and Flow"
+      },
+      "steps": [
+        "Do a slow forward fold with bent knees.",
+        "Rest in child's pose for 2 minutes.",
+        "Lie on your back and hug your knees to your chest.",
+        "Breathe slowly for 2 minutes before bed."
+      ],
+      "task": "Do the evening routine tonight before bed.",
+      "challenge": "Do it every night this week.",
+      "quiz": [
+        {
+          "q": "Why do gentle yoga before bed?",
+          "options": [
+            "It wakes you up",
+            "It is only for show",
+            "It replaces sleep",
+            "It calms the body and helps sleep come"
+          ],
+          "answer": 3,
+          "explain": "Gentle evening yoga relaxes the body."
+        },
+        {
+          "q": "What is a good bedtime pose?",
+          "options": [
+            "Child's pose",
+            "A handstand",
+            "A jump",
+            "A sprint"
+          ],
+          "answer": 0,
+          "explain": "Child's pose is calm and restful."
+        },
+        {
+          "q": "How should you breathe before bed?",
+          "options": [
+            "Fast and hard",
+            "Slowly, out longer than in",
+            "Hold your breath",
+            "Do not breathe"
+          ],
+          "answer": 1,
+          "explain": "Slow out-breaths calm the body."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Open your chest and shoulders",
+      "goal": "Learn two easy stretches for the chest and shoulders.",
+      "video": {
+        "youtube_id": "kqmut7-RARw",
+        "title": "45 Min Full Body Yoga",
+        "channel": "Charlie Follows"
+      },
+      "steps": [
+        "Try a shoulder roll: roll shoulders back 10 times.",
+        "Try a chest opener: clasp hands behind your back and lift gently.",
+        "Hold the chest opener for 20 seconds.",
+        "Breathe slowly and keep your neck relaxed."
+      ],
+      "task": "Do both stretches, 3 times each.",
+      "challenge": "Do the chest opener after sitting for a long time.",
+      "quiz": [
+        {
+          "q": "Why stretch the chest?",
+          "options": [
+            "Sitting a lot makes the chest tight",
+            "It is not needed",
+            "It makes you taller",
+            "It is only for athletes"
+          ],
+          "answer": 0,
+          "explain": "Chest stretches undo tightness from sitting."
+        },
+        {
+          "q": "What should your neck do in a chest opener?",
+          "options": [
+            "Crunch up",
+            "Stay relaxed and long",
+            "Drop forward",
+            "Twist hard"
+          ],
+          "answer": 1,
+          "explain": "A relaxed neck keeps the stretch safe."
+        },
+        {
+          "q": "How many shoulder rolls should you do?",
+          "options": [
+            "1 time",
+            "100 times",
+            "About 10 times",
+            "No times"
+          ],
+          "answer": 2,
+          "explain": "Ten slow rolls wake up the shoulders."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Warrior 2: strong and steady",
+      "goal": "Learn warrior 2, a wide standing pose.",
+      "video": {
+        "youtube_id": "qq2-5waRsVA",
+        "title": "1 Hour Beginner Yoga",
+        "channel": "Yoga with Kassandra"
+      },
+      "steps": [
+        "Step your feet wide apart.",
+        "Bend the front knee over the ankle.",
+        "Stretch your arms out to the sides at shoulder height.",
+        "Look over your front hand and hold for 20 seconds."
+      ],
+      "task": "Hold warrior 2 for 20 seconds on each side.",
+      "challenge": "Move from warrior 1 to warrior 2 and back, slowly.",
+      "quiz": [
+        {
+          "q": "What is warrior 2?",
+          "options": [
+            "A jump",
+            "A wide stance with arms out to the sides",
+            "A run",
+            "Lying down"
+          ],
+          "answer": 1,
+          "explain": "Warrior 2 is a strong, wide standing pose."
+        },
+        {
+          "q": "Where should you look in warrior 2?",
+          "options": [
+            "At the floor",
+            "Behind you",
+            "Over your front hand",
+            "At the ceiling"
+          ],
+          "answer": 2,
+          "explain": "Looking over the front hand lines up the pose."
+        },
+        {
+          "q": "What should the back foot do?",
+          "options": [
+            "Lift off the floor",
+            "Turn inward",
+            "It does not matter",
+            "Stay flat on the floor, toes pointing out"
+          ],
+          "answer": 3,
+          "explain": "A flat back foot keeps you steady."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Yoga for stress: slow and easy",
+      "goal": "Use slow yoga to calm a busy mind.",
+      "video": {
+        "youtube_id": "tbV6RiTsgmA",
+        "title": "60 Minute Intro Class",
+        "channel": "Hungry Yoga"
+      },
+      "steps": [
+        "Sit and breathe slowly for 2 minutes.",
+        "Do a slow forward fold and hang your arms loose.",
+        "Rest in child's pose for 2 minutes.",
+        "Lie down and breathe slowly for 2 minutes."
+      ],
+      "task": "Do this calm routine when you feel stressed.",
+      "challenge": "Do it once a day this week.",
+      "quiz": [
+        {
+          "q": "How does yoga calm stress?",
+          "options": [
+            "It makes stress worse",
+            "It does nothing",
+            "Slow breathing and gentle moves relax the body",
+            "It is only exercise"
+          ],
+          "answer": 2,
+          "explain": "Slow yoga tells the body it is safe to relax."
+        },
+        {
+          "q": "What is a good pose when stressed?",
+          "options": [
+            "A handstand",
+            "A jump",
+            "A sprint",
+            "Child's pose"
+          ],
+          "answer": 3,
+          "explain": "Child's pose is restful and safe."
+        },
+        {
+          "q": "How should you breathe to calm down?",
+          "options": [
+            "Slowly, with a longer out-breath",
+            "Fast and hard",
+            "Hold your breath",
+            "Do not breathe"
+          ],
+          "answer": 0,
+          "explain": "A long out-breath calms the body."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Chair yoga: yoga anywhere",
+      "goal": "Learn yoga you can do sitting in a chair.",
+      "video": {
+        "youtube_id": "yOPPOYNv1DQ",
+        "title": "15 Minute Full Body Yoga Stretch Class | Day 2 - 30 Day Yoga Challenge",
+        "channel": "Humble Warrior Yoga"
+      },
+      "steps": [
+        "Sit tall in a chair with feet flat on the floor.",
+        "Do seated twists, shoulder rolls and neck stretches.",
+        "Stand behind the chair and do a gentle forward fold.",
+        "Breathe slowly through each move."
+      ],
+      "task": "Do a 5-minute chair yoga routine.",
+      "challenge": "Teach chair yoga to an older relative.",
+      "quiz": [
+        {
+          "q": "What is chair yoga?",
+          "options": [
+            "Yoga on a roof",
+            "Yoga in water",
+            "Yoga while running",
+            "Yoga done sitting or holding a chair"
+          ],
+          "answer": 3,
+          "explain": "Chair yoga makes yoga open to everyone."
+        },
+        {
+          "q": "Who is chair yoga good for?",
+          "options": [
+            "Anyone, including older people and office workers",
+            "Only athletes",
+            "Nobody",
+            "Only children"
+          ],
+          "answer": 0,
+          "explain": "Chair yoga suits all ages and bodies."
+        },
+        {
+          "q": "What should your feet do in chair yoga?",
+          "options": [
+            "Dangle in the air",
+            "Stay flat on the floor",
+            "Cross tightly",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Feet flat on the floor keep you steady."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Breathe deeper: 3-part breath",
+      "goal": "Learn a deeper breath in 3 parts.",
+      "video": {
+        "youtube_id": "zzonBs06mX8",
+        "title": "Fightmaster 30 Day Yoga Challenge Day 1",
+        "channel": "Fightmaster Yoga"
+      },
+      "steps": [
+        "Breathe into your belly first.",
+        "Then breathe into your ribs.",
+        "Then breathe into your upper chest.",
+        "Breathe out slowly in the reverse order."
+      ],
+      "task": "Practise 3-part breathing for 3 minutes.",
+      "challenge": "Use 3-part breathing at the start of your next class.",
+      "quiz": [
+        {
+          "q": "What is 3-part breathing?",
+          "options": [
+            "Filling belly, ribs and chest in order",
+            "Holding your breath",
+            "Breathing fast",
+            "Breathing only in the chest"
+          ],
+          "answer": 0,
+          "explain": "Three-part breathing fills the lungs fully."
+        },
+        {
+          "q": "Why breathe into the belly first?",
+          "options": [
+            "It is a rule with no reason",
+            "It helps the breath go deep",
+            "It makes you dizzy",
+            "It is wrong"
+          ],
+          "answer": 1,
+          "explain": "Starting low helps the breath fill the whole lungs."
+        },
+        {
+          "q": "How should you breathe out?",
+          "options": [
+            "Fast and hard",
+            "All at once",
+            "Slowly, in reverse order",
+            "Do not breathe out"
+          ],
+          "answer": 2,
+          "explain": "A slow out-breath keeps you calm."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your 20-minute flow",
+      "goal": "Put week 3 together: build your own 20-minute flow.",
+      "video": {
+        "youtube_id": "hNBWF2xvdOs",
+        "title": "Fightmaster 30 Day Yoga Challenge Day 3",
+        "channel": "Fightmaster Yoga"
+      },
+      "steps": [
+        "Pick 8 poses you know and write them in order.",
+        "Add sun salutations at the start.",
+        "End with a twist, child's pose and 2 minutes lying down.",
+        "Do the flow and time it."
+      ],
+      "task": "Write your flow and do it from start to finish.",
+      "challenge": "Do your flow twice this week.",
+      "quiz": [
+        {
+          "q": "What should a 20-minute flow have?",
+          "options": [
+            "Only hard poses",
+            "Warm-up poses, standing poses and a rest",
+            "Only one pose",
+            "No rest"
+          ],
+          "answer": 1,
+          "explain": "A full flow warms up, works and rests."
+        },
+        {
+          "q": "How many poses should it have?",
+          "options": [
+            "50 poses",
+            "1 pose",
+            "About 8 poses",
+            "100 poses"
+          ],
+          "answer": 2,
+          "explain": "Eight poses fit well in 20 minutes."
+        },
+        {
+          "q": "What should you do at the end?",
+          "options": [
+            "Jump up at once",
+            "Run away",
+            "Skip the rest",
+            "Lie down and rest for 2 minutes"
+          ],
+          "answer": 3,
+          "explain": "A rest at the end settles the body."
+        }
+      ],
+      "project": {
+        "title": "Your 20-minute flow",
+        "brief": "Build your own 20-minute flow with 8 poses, sun salutations at the start, and a twist, child's pose and 2 minutes of rest at the end.",
+        "checks": [
+          "Flow has 8 poses",
+          "Starts with sun salutations",
+          "Ends with a twist and rest",
+          "Flow takes about 20 minutes",
+          "Did the flow twice",
+          "Wrote the flow down"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Yoga for your back",
+      "goal": "Learn gentle poses that help a stiff back.",
+      "video": {
+        "youtube_id": "hbMrx_Al1pU",
+        "title": "Fightmaster 30 Day Yoga Challenge Day 4",
+        "channel": "Fightmaster Yoga"
+      },
+      "steps": [
+        "Try cat-cow: on hands and knees, arch and round your back slowly.",
+        "Try a gentle twist lying on your back.",
+        "Try child's pose for 2 minutes.",
+        "Move slowly and never force anything."
+      ],
+      "task": "Do cat-cow 10 times, slowly.",
+      "challenge": "Do the back routine every morning this week.",
+      "quiz": [
+        {
+          "q": "What is cat-cow?",
+          "options": [
+            "A jump",
+            "A run",
+            "Arching and rounding the back on hands and knees",
+            "A dance"
+          ],
+          "answer": 2,
+          "explain": "Cat-cow gently moves the spine."
+        },
+        {
+          "q": "How should cat-cow feel?",
+          "options": [
+            "Sharp and painful",
+            "Very hard",
+            "Like nothing",
+            "Gentle and smooth"
+          ],
+          "answer": 3,
+          "explain": "Cat-cow should feel like a gentle stretch."
+        },
+        {
+          "q": "What should you do if your back hurts?",
+          "options": [
+            "Move gently or stop and rest",
+            "Push through the pain",
+            "Do a handstand",
+            "Ignore it"
+          ],
+          "answer": 0,
+          "explain": "Gentle moves or rest keep a sore back safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Balance flow: tree and warrior",
+      "goal": "Link balance poses into a short flow.",
+      "video": {
+        "youtube_id": "hOiFFhNvHoA",
+        "title": "Fightmaster 30 Day Yoga Challenge Day 5",
+        "channel": "Fightmaster Yoga"
+      },
+      "steps": [
+        "Start in mountain pose and breathe.",
+        "Move to warrior 1, then warrior 2.",
+        "Move to tree pose on each side.",
+        "End in child's pose and rest."
+      ],
+      "task": "Do the balance flow slowly, 2 times.",
+      "challenge": "Hold each balance pose for 30 seconds.",
+      "quiz": [
+        {
+          "q": "What is a balance flow?",
+          "options": [
+            "One pose only",
+            "A run",
+            "A jump",
+            "Balance poses linked with breathing"
+          ],
+          "answer": 3,
+          "explain": "A balance flow links steady poses together."
+        },
+        {
+          "q": "What helps you stay balanced?",
+          "options": [
+            "Looking at one still spot and breathing slowly",
+            "Looking around fast",
+            "Holding your breath",
+            "Moving fast"
+          ],
+          "answer": 0,
+          "explain": "A still gaze and slow breath keep you steady."
+        },
+        {
+          "q": "What should you do if you fall out of a pose?",
+          "options": [
+            "Get angry",
+            "Smile and try again",
+            "Quit",
+            "Push harder"
+          ],
+          "answer": 1,
+          "explain": "Falling out is normal; try again calmly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Yoga nidra: deep rest",
+      "goal": "Learn a simple guided rest that relaxes the whole body.",
+      "video": {
+        "youtube_id": "ZSI3VUn6tI4",
+        "title": "Fightmaster 30 Day Yoga Challenge Day 7",
+        "channel": "Fightmaster Yoga"
+      },
+      "steps": [
+        "Lie down on your back with arms by your sides.",
+        "Close your eyes and breathe slowly.",
+        "Relax each part of your body from your toes to your head.",
+        "Rest quietly for 5 minutes."
+      ],
+      "task": "Do a 5-minute guided rest today.",
+      "challenge": "Do it before bed tonight.",
+      "quiz": [
+        {
+          "q": "What is yoga nidra?",
+          "options": [
+            "A deep guided rest done lying down",
+            "A fast workout",
+            "A race",
+            "A dance"
+          ],
+          "answer": 0,
+          "explain": "Yoga nidra is a rest that relaxes the whole body."
+        },
+        {
+          "q": "How should you lie in yoga nidra?",
+          "options": [
+            "Standing up",
+            "On your back, arms relaxed by your sides",
+            "Sitting in a chair",
+            "Upside down"
+          ],
+          "answer": 1,
+          "explain": "Lying down lets the body fully relax."
+        },
+        {
+          "q": "How long should you rest?",
+          "options": [
+            "5 seconds",
+            "5 hours",
+            "About 5 minutes",
+            "No time"
+          ],
+          "answer": 2,
+          "explain": "Five minutes is enough to feel rested."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Yoga for strong legs",
+      "goal": "Build leg strength with chair pose and warrior poses.",
+      "video": {
+        "youtube_id": "yYnIl4z6cpw",
+        "title": "Fightmaster 30 Day Yoga Challenge Day 8",
+        "channel": "Fightmaster Yoga"
+      },
+      "steps": [
+        "Try chair pose: bend your knees and lift your arms, like sitting in a chair.",
+        "Hold chair pose for 20 seconds.",
+        "Do warrior 1 and warrior 2 on each side.",
+        "Rest in child's pose at the end."
+      ],
+      "task": "Hold chair pose for 20 seconds, 3 times.",
+      "challenge": "Do warrior 1 and 2 on each side, slowly.",
+      "quiz": [
+        {
+          "q": "What is chair pose?",
+          "options": [
+            "Sitting on a chair",
+            "Bending the knees and lifting the arms like sitting",
+            "A jump",
+            "Lying down"
+          ],
+          "answer": 1,
+          "explain": "Chair pose builds strong legs."
+        },
+        {
+          "q": "What should your knees do in chair pose?",
+          "options": [
+            "Fall inward",
+            "Lock straight",
+            "Point the same way as your toes",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Knees following the toes keeps the pose safe."
+        },
+        {
+          "q": "Why hold chair pose?",
+          "options": [
+            "It is only for show",
+            "It makes you shorter",
+            "It does nothing",
+            "It builds strength in the legs"
+          ],
+          "answer": 3,
+          "explain": "Holding the pose makes the legs work."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Meditation: sit still for 5 minutes",
+      "goal": "Learn to sit quietly and watch your breath.",
+      "video": {
+        "youtube_id": "uKBzhC91zU0",
+        "title": "Fightmaster 30 Day Yoga Challenge Day 9",
+        "channel": "Fightmaster Yoga"
+      },
+      "steps": [
+        "Sit tall with your eyes closed or softly open.",
+        "Breathe slowly and notice each breath.",
+        "When your mind wanders, bring it back to the breath.",
+        "Sit for 5 minutes and then open your eyes slowly."
+      ],
+      "task": "Sit quietly for 5 minutes today.",
+      "challenge": "Sit for 5 minutes every morning this week.",
+      "quiz": [
+        {
+          "q": "What is meditation?",
+          "options": [
+            "Sleeping",
+            "Thinking hard",
+            "Sitting quietly and noticing your breath",
+            "Running"
+          ],
+          "answer": 2,
+          "explain": "Meditation is quiet time with your breath."
+        },
+        {
+          "q": "What should you do when your mind wanders?",
+          "options": [
+            "Get angry",
+            "Quit",
+            "Think harder",
+            "Gently bring it back to the breath"
+          ],
+          "answer": 3,
+          "explain": "Wandering is normal; bring the mind back kindly."
+        },
+        {
+          "q": "How long should a beginner meditate?",
+          "options": [
+            "About 5 minutes",
+            "2 hours",
+            "5 seconds",
+            "All day"
+          ],
+          "answer": 0,
+          "explain": "Five minutes is a good start."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Put it all together",
+      "goal": "Build your own 30-minute yoga class.",
+      "video": {
+        "youtube_id": "v7AYKMP6rOE",
+        "title": "Yoga for Complete Beginners",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Pick a warm-up, 8 poses, a balance pose and a rest.",
+        "Write the order on one page.",
+        "Do the class and time each part.",
+        "Fix anything that felt rushed."
+      ],
+      "task": "Write your 30-minute class and do it.",
+      "challenge": "Teach your class to a friend.",
+      "quiz": [
+        {
+          "q": "What should a full class have?",
+          "options": [
+            "Only hard poses",
+            "Only one pose",
+            "No rest",
+            "Warm-up, poses, balance and rest"
+          ],
+          "answer": 3,
+          "explain": "A full class warms up, works and rests."
+        },
+        {
+          "q": "Why write your class down?",
+          "options": [
+            "So you can follow it and improve it",
+            "To fill paper",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 0,
+          "explain": "A written class is easy to follow and fix."
+        },
+        {
+          "q": "What should you fix after testing?",
+          "options": [
+            "Nothing",
+            "Anything that felt rushed or unclear",
+            "Everything",
+            "Only the music"
+          ],
+          "answer": 1,
+          "explain": "Small fixes make the class better."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final class.",
+      "video": {
+        "youtube_id": "yetbSrCW1TQ",
+        "title": "Yoga for Beginners",
+        "channel": "Breathe and Flow"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 8 poses you can now do well.",
+        "Practise your capstone class once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 8 poses you can do well now.",
+      "challenge": "Do your capstone class from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final class that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new mat"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own a mat",
+            "You can lead a full class safely and calmly",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "Leading a full class well shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone class once more, then rest.",
+      "video": {
+        "youtube_id": "3_Q-yYfjeBM",
+        "title": "Full Body Gentle Flow",
+        "channel": "Boho Beautiful Yoga"
+      },
+      "steps": [
+        "Lead your capstone class one more time.",
+        "Time each part and check your breathing.",
+        "Fix anything that felt rushed.",
+        "Rest well tonight."
+      ],
+      "task": "Lead your capstone class and time each part.",
+      "challenge": "Fix one thing that felt rushed.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real class calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your mat",
+            "Your timing, your breathing and your poses",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking timing and breathing makes the class smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Practise all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you lead your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: lead your yoga class",
+      "goal": "Show what you learned: lead a full 30-minute yoga class.",
+      "video": {
+        "youtube_id": "M9VSpOiwwDU",
+        "title": "Morning Yoga For Beginners",
+        "channel": "Sadhguru"
+      },
+      "steps": [
+        "Welcome your students and set a calm mood.",
+        "Lead the warm-up, the poses and the balance work.",
+        "End with a rest and a kind closing.",
+        "Write a short report on how the class went."
+      ],
+      "task": "Lead your capstone class and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What is the first step of your class?",
+          "options": [
+            "A hard pose",
+            "A sprint",
+            "A calm welcome and slow breathing",
+            "No welcome"
+          ],
+          "answer": 2,
+          "explain": "A calm start settles everyone."
+        },
+        {
+          "q": "What matters most in the capstone?",
+          "options": [
+            "Going as fast as you can",
+            "Doing the hardest poses",
+            "Skipping rest",
+            "Safe poses, slow breathing and a calm voice"
+          ],
+          "answer": 3,
+          "explain": "Safe, calm teaching shows real skill."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you taught and how it went",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Lead your own yoga class",
+    "brief": "Lead a full 30-minute yoga class for a friend or family member: warm-up, poses, balance work, rest, and a short written report.",
+    "checks": [
+      "Welcomed students calmly",
+      "Led a safe warm-up",
+      "Taught 8 poses clearly",
+      "Included balance work",
+      "Ended with rest",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A written class plan",
+      "A list of poses you can do well",
+      "A short video or notes from the class",
+      "A weekly yoga plan",
+      "A written report"
+    ]
+  }
+}

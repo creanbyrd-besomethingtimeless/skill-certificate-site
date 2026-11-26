@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "writing-and-storytelling",
+    "title": "Writing and Storytelling",
+    "level": "Beginner",
+    "tagline": "Write stories people remember: characters, plot and endings that land.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What makes a good story?",
+      "goal": "Say what makes a story worth reading.",
+      "video": {
+        "youtube_id": "FiaK-kDGhzM",
+        "title": "Anatomy of a Story",
+        "channel": "Writing Fundamentals"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about what makes a good story: a person, a problem and a change in your notebook.",
+        "Write for 15 minutes using what makes a good story: a person, a problem and a change — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using what makes a good story: a person, a problem and a change more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write down your three favourite stories and what you like about each.",
+      "challenge": "Tell a friend in one minute why your favourite story works.",
+      "quiz": [
+        {
+          "q": "What does every good story need?",
+          "options": [
+            "A person, a problem and a change.",
+            "Ten characters.",
+            "A long description.",
+            "A happy ending."
+          ],
+          "answer": 0,
+          "explain": "Every good story has a person, a problem they face, and a change by the end."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Write a full scene with action and talk.",
+            "Say what makes a story worth reading.",
+            "Build a side character who helps or blocks your hero.",
+            "Start a second story with a new idea."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about What makes a good story? — its goal is: Say what makes a story worth reading."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "planning a story: start, middle, end",
+            "building tension: questions, delays and danger",
+            "fixing plot holes",
+            "what makes a good story: a person, a problem and a change"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was what makes a good story: a person, a problem and a change."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Find your idea",
+      "goal": "Find a story idea from your own life.",
+      "video": {
+        "youtube_id": "FiaK-kDGhzM",
+        "title": "Anatomy of a Story",
+        "channel": "Writing Fundamentals"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about finding story ideas from real life in your notebook.",
+        "Write for 15 minutes using finding story ideas from real life — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using finding story ideas from real life more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write ten story ideas from your own life.",
+      "challenge": "Pick your best idea and say it in one sentence.",
+      "quiz": [
+        {
+          "q": "Where do the best story ideas come from?",
+          "options": [
+            "Real life: things you felt, saw or wished for.",
+            "Only from books.",
+            "Only from dreams.",
+            "Only from the news."
+          ],
+          "answer": 0,
+          "explain": "Real life gives the best ideas: things you felt, saw or wished for."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Show feelings through action, not labels.",
+            "Finish a full first draft of your story.",
+            "Find a story idea from your own life.",
+            "Try writing from a different point of view."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Find your idea — its goal is: Find a story idea from your own life."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "finding story ideas from real life",
+            "writing a strong opening",
+            "writing the middle: things get harder",
+            "picking a strong title"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was finding story ideas from real life."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Meet your main character",
+      "goal": "Build a main character people care about.",
+      "video": {
+        "youtube_id": "FiaK-kDGhzM",
+        "title": "Anatomy of a Story",
+        "channel": "Writing Fundamentals"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about building a main character: want, flaw and strength in your notebook.",
+        "Write for 15 minutes using building a main character: want, flaw and strength — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using building a main character: want, flaw and strength more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write a short profile of your main character: name, age, want, flaw, strength.",
+      "challenge": "Describe your character to a friend in one minute.",
+      "quiz": [
+        {
+          "q": "What makes people care about a character?",
+          "options": [
+            "They want something badly and have a flaw to fight.",
+            "They are perfect.",
+            "They never change.",
+            "They have no problems."
+          ],
+          "answer": 0,
+          "explain": "People care when a character wants something badly and has a flaw to fight."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Write talk that sounds like real people.",
+            "End your story so it feels complete.",
+            "Put your stories together as a small collection.",
+            "Build a main character people care about."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Meet your main character — its goal is: Build a main character people care about."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "writing a scene with action and talk",
+            "building a main character: want, flaw and strength",
+            "building a side character",
+            "starting a second story"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was building a main character: want, flaw and strength."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Give your character a problem",
+      "goal": "Give your character a problem worth solving.",
+      "video": {
+        "youtube_id": "cc1m17huNzg",
+        "title": "Building Memorable Characters",
+        "channel": "Writing Fundamentals"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about giving your character a problem in your notebook.",
+        "Write for 15 minutes using giving your character a problem — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using giving your character a problem more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write three problems your character could face. Pick the hardest one.",
+      "challenge": "Tell a friend your character's problem in one sentence.",
+      "quiz": [
+        {
+          "q": "Why does a story need a problem?",
+          "options": [
+            "A problem creates tension and makes people keep reading.",
+            "Problems make stories boring.",
+            "Stories work best with no problems.",
+            "Problems are only for sad stories."
+          ],
+          "answer": 0,
+          "explain": "A problem creates tension. Without it, there is no reason to keep reading."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Give your character a problem worth solving.",
+            "Use the five senses to make a scene feel real.",
+            "Cut words and scenes your story does not need.",
+            "Read a story and steal one trick from it."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Give your character a problem — its goal is: Give your character a problem worth solving."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "showing feelings through action",
+            "finishing a full first draft",
+            "giving your character a problem",
+            "writing from a different point of view"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was giving your character a problem."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Plan your story",
+      "goal": "Plan your story in three parts.",
+      "video": {
+        "youtube_id": "cc1m17huNzg",
+        "title": "Building Memorable Characters",
+        "channel": "Writing Fundamentals"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about planning a story: start, middle, end in your notebook.",
+        "Write for 15 minutes using planning a story: start, middle, end — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using planning a story: start, middle, end more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write your story plan: start, middle and end, in three short lines.",
+      "challenge": "Tell your story plan to a friend and ask if it makes sense.",
+      "quiz": [
+        {
+          "q": "What goes in the middle of a story?",
+          "options": [
+            "The character tries to fix the problem and things get harder.",
+            "A long list of names.",
+            "The ending.",
+            "Nothing at all."
+          ],
+          "answer": 0,
+          "explain": "In the middle, the character tries to fix the problem and things get harder."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Keep readers guessing about what happens next.",
+            "Plan your story in three parts.",
+            "Find and fix things in your story that do not make sense.",
+            "Ask for feedback and use it."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Plan your story — its goal is: Plan your story in three parts."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "writing real dialogue",
+            "writing a strong ending",
+            "putting your stories together",
+            "planning a story: start, middle, end"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was planning a story: start, middle, end."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Write the opening",
+      "goal": "Write an opening that pulls people in.",
+      "video": {
+        "youtube_id": "cc1m17huNzg",
+        "title": "Building Memorable Characters",
+        "channel": "Writing Fundamentals"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about writing a strong opening in your notebook.",
+        "Write for 15 minutes using writing a strong opening — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using writing a strong opening more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write three different openings for your story. Pick the best one.",
+      "challenge": "Read your opening to a friend and ask if they want more.",
+      "quiz": [
+        {
+          "q": "What makes a good opening?",
+          "options": [
+            "It starts with action, a question or a surprise.",
+            "It lists the weather for a page.",
+            "It explains everything at once.",
+            "It apologises to the reader."
+          ],
+          "answer": 0,
+          "explain": "A good opening starts with action, a question or a surprise. It makes people want more."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Write the middle of your story.",
+            "Pick a title that fits your story and pulls readers in.",
+            "Write an opening that pulls people in.",
+            "Build a daily writing habit."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Write the opening — its goal is: Write an opening that pulls people in."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "writing a strong opening",
+            "describing with the five senses",
+            "cutting weak parts",
+            "reading like a writer"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was writing a strong opening."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Your first scene",
+      "goal": "Write a full scene with action and talk.",
+      "video": {
+        "youtube_id": "vPqdezPiKjQ",
+        "title": "How to Tell a Story in English",
+        "channel": "Shamim Sir"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about writing a scene with action and talk in your notebook.",
+        "Write for 15 minutes using writing a scene with action and talk — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using writing a scene with action and talk more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write one scene of 200 words or more.",
+      "challenge": "Read your scene out loud and fix anything that sounds stiff.",
+      "quiz": [
+        {
+          "q": "What should a scene have?",
+          "options": [
+            "Action, talk and a small change.",
+            "Only description.",
+            "Only talk.",
+            "A list of facts."
+          ],
+          "answer": 0,
+          "explain": "A scene has action, talk and a small change by the end of it."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Build a side character who helps or blocks your hero.",
+            "Start a second story with a new idea.",
+            "Edit your story in three passes: story, sentences, spelling.",
+            "Write a full scene with action and talk."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Your first scene — its goal is: Write a full scene with action and talk."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "building tension: questions, delays and danger",
+            "writing a scene with action and talk",
+            "fixing plot holes",
+            "getting feedback on your writing"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was writing a scene with action and talk."
+        }
+      ],
+      "project": {
+        "title": "Your First Scene",
+        "brief": "Write one full scene of 200 words or more from your story idea. It must have action, talk and a small change.",
+        "checks": [
+          "Your scene is 200 words or more",
+          "Your scene has action",
+          "Your scene has dialogue",
+          "Something changes by the end of the scene",
+          "You read it out loud",
+          "You fixed one stiff line"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Show, do not tell",
+      "goal": "Show feelings through action, not labels.",
+      "video": {
+        "youtube_id": "vPqdezPiKjQ",
+        "title": "How to Tell a Story in English",
+        "channel": "Shamim Sir"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about showing feelings through action in your notebook.",
+        "Write for 15 minutes using showing feelings through action — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using showing feelings through action more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Rewrite 'She was angry' as action: what did she do?",
+      "challenge": "Rewrite three telling sentences as showing sentences.",
+      "quiz": [
+        {
+          "q": "Which sentence shows anger?",
+          "options": [
+            "She slammed the door and her hands shook.",
+            "She was very angry.",
+            "She felt anger.",
+            "Anger was in her."
+          ],
+          "answer": 0,
+          "explain": "'She slammed the door and her hands shook' shows anger. 'She was angry' only tells it."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Show feelings through action, not labels.",
+            "Finish a full first draft of your story.",
+            "Try writing from a different point of view.",
+            "Share your story with real readers."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Show, do not tell — its goal is: Show feelings through action, not labels."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "writing the middle: things get harder",
+            "picking a strong title",
+            "showing feelings through action",
+            "building a daily writing habit"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was showing feelings through action."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Write real dialogue",
+      "goal": "Write talk that sounds like real people.",
+      "video": {
+        "youtube_id": "vPqdezPiKjQ",
+        "title": "How to Tell a Story in English",
+        "channel": "Shamim Sir"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about writing real dialogue in your notebook.",
+        "Write for 15 minutes using writing real dialogue — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using writing real dialogue more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write a chat between two people in your story.",
+      "challenge": "Read the chat out loud. Fix any line that sounds fake.",
+      "quiz": [
+        {
+          "q": "What makes dialogue sound real?",
+          "options": [
+            "Short lines, interruptions and each person sounding different.",
+            "Long perfect speeches.",
+            "Everyone sounding the same.",
+            "No contractions like don't or can't."
+          ],
+          "answer": 0,
+          "explain": "Real talk has short lines, interruptions and different voices. People rarely speak in perfect speeches."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "End your story so it feels complete.",
+            "Write talk that sounds like real people.",
+            "Put your stories together as a small collection.",
+            "Write a complete story in under 300 words."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Write real dialogue — its goal is: Write talk that sounds like real people."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "building a side character",
+            "starting a second story",
+            "editing in three passes",
+            "writing real dialogue"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was writing real dialogue."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Describe with senses",
+      "goal": "Use the five senses to make a scene feel real.",
+      "video": {
+        "youtube_id": "n9xiGCi8mQA",
+        "title": "Write Your Comic Book from Script to Screen",
+        "channel": "Jaimie Engle"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about describing with the five senses in your notebook.",
+        "Write for 15 minutes using describing with the five senses — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using describing with the five senses more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Describe a market using sight, sound, smell, taste and touch.",
+      "challenge": "Describe your room using all five senses in five lines.",
+      "quiz": [
+        {
+          "q": "Why use the senses in writing?",
+          "options": [
+            "They make the reader feel they are in the scene.",
+            "They make the story longer.",
+            "They replace the plot.",
+            "They are only for poems."
+          ],
+          "answer": 0,
+          "explain": "The senses put the reader inside the scene. They can see, hear and smell what you describe."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Cut words and scenes your story does not need.",
+            "Read a story and steal one trick from it.",
+            "Use the five senses to make a scene feel real.",
+            "Say what you learned about writing in 30 days."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Describe with senses — its goal is: Use the five senses to make a scene feel real."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "describing with the five senses",
+            "finishing a full first draft",
+            "writing from a different point of view",
+            "sharing your work with readers"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was describing with the five senses."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Build tension",
+      "goal": "Keep readers guessing about what happens next.",
+      "video": {
+        "youtube_id": "n9xiGCi8mQA",
+        "title": "Write Your Comic Book from Script to Screen",
+        "channel": "Jaimie Engle"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about building tension: questions, delays and danger in your notebook.",
+        "Write for 15 minutes using building tension: questions, delays and danger — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using building tension: questions, delays and danger more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Rewrite a calm scene so the reader worries about what happens next.",
+      "challenge": "End a scene on a question the reader wants answered.",
+      "quiz": [
+        {
+          "q": "What builds tension in a story?",
+          "options": [
+            "A question the reader wants answered.",
+            "Telling the ending early.",
+            "Long calm descriptions.",
+            "No problems at all."
+          ],
+          "answer": 0,
+          "explain": "Tension comes from a question the reader wants answered: will she make it? Will he find out?"
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Find and fix things in your story that do not make sense.",
+            "Ask for feedback and use it.",
+            "Write one more story in your own voice.",
+            "Keep readers guessing about what happens next."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Build tension — its goal is: Keep readers guessing about what happens next."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "writing a strong ending",
+            "building tension: questions, delays and danger",
+            "putting your stories together",
+            "writing a flash story under 300 words"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was building tension: questions, delays and danger."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Write the middle",
+      "goal": "Write the middle of your story.",
+      "video": {
+        "youtube_id": "n9xiGCi8mQA",
+        "title": "Write Your Comic Book from Script to Screen",
+        "channel": "Jaimie Engle"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about writing the middle: things get harder in your notebook.",
+        "Write for 15 minutes using writing the middle: things get harder — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using writing the middle: things get harder more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write 300 words of your story's middle.",
+      "challenge": "Make one thing go wrong for your character today.",
+      "quiz": [
+        {
+          "q": "What should happen in the middle?",
+          "options": [
+            "Things get harder before they get better.",
+            "Everything is solved at once.",
+            "The story ends.",
+            "Nothing changes."
+          ],
+          "answer": 0,
+          "explain": "In the middle, things get harder. That is what makes the ending worth reaching."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Write the middle of your story.",
+            "Pick a title that fits your story and pulls readers in.",
+            "Build a daily writing habit.",
+            "Plan your next 30 days of writing."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Write the middle — its goal is: Write the middle of your story."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "cutting weak parts",
+            "reading like a writer",
+            "writing the middle: things get harder",
+            "reviewing what you learned"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was writing the middle: things get harder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Make a side character",
+      "goal": "Build a side character who helps or blocks your hero.",
+      "video": {
+        "youtube_id": "diK3344VQhw",
+        "title": "How a Pulitzer-Nominated Author Builds Characters",
+        "channel": "Reedsy"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about building a side character in your notebook.",
+        "Write for 15 minutes using building a side character — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using building a side character more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write a short profile of one side character.",
+      "challenge": "Write a scene where the side character changes your hero's mind.",
+      "quiz": [
+        {
+          "q": "What is a side character for?",
+          "options": [
+            "To help or block the hero, and show who the hero is.",
+            "To fill pages.",
+            "To confuse the reader.",
+            "To tell the ending."
+          ],
+          "answer": 0,
+          "explain": "A side character helps or blocks the hero, and shows who the hero really is."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Start a second story with a new idea.",
+            "Build a side character who helps or blocks your hero.",
+            "Edit your story in three passes: story, sentences, spelling.",
+            "Say what makes a story worth reading."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Make a side character — its goal is: Build a side character who helps or blocks your hero."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "fixing plot holes",
+            "getting feedback on your writing",
+            "writing in your own voice",
+            "building a side character"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was building a side character."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Your first full draft",
+      "goal": "Finish a full first draft of your story.",
+      "video": {
+        "youtube_id": "diK3344VQhw",
+        "title": "How a Pulitzer-Nominated Author Builds Characters",
+        "channel": "Reedsy"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about finishing a full first draft in your notebook.",
+        "Write for 15 minutes using finishing a full first draft — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using finishing a full first draft more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write the ending and finish your first draft today.",
+      "challenge": "Read your whole draft in one sitting.",
+      "quiz": [
+        {
+          "q": "What is the goal of a first draft?",
+          "options": [
+            "To finish the story, not to make it perfect.",
+            "To be perfect on the first try.",
+            "To impress everyone.",
+            "To write as little as possible."
+          ],
+          "answer": 0,
+          "explain": "A first draft only needs to be finished. You fix it later. A perfect first draft does not exist."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Try writing from a different point of view.",
+            "Share your story with real readers.",
+            "Finish a full first draft of your story.",
+            "Find a story idea from your own life."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Your first full draft — its goal is: Finish a full first draft of your story."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "finishing a full first draft",
+            "picking a strong title",
+            "building a daily writing habit",
+            "planning your next 30 days"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was finishing a full first draft."
+        }
+      ],
+      "project": {
+        "title": "Your First Full Draft",
+        "brief": "Finish a full first draft of your story with a start, a middle and an end. It does not need to be perfect.",
+        "checks": [
+          "Your draft has a start",
+          "Your draft has a middle",
+          "Your draft has an end",
+          "Your main character has a clear problem",
+          "Your draft is at least 800 words",
+          "You read the whole draft in one sitting"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Write a strong ending",
+      "goal": "End your story so it feels complete.",
+      "video": {
+        "youtube_id": "diK3344VQhw",
+        "title": "How a Pulitzer-Nominated Author Builds Characters",
+        "channel": "Reedsy"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about writing a strong ending in your notebook.",
+        "Write for 15 minutes using writing a strong ending — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using writing a strong ending more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write two different endings. Pick the one that fits your story best.",
+      "challenge": "Ask a friend which ending they liked more and why.",
+      "quiz": [
+        {
+          "q": "What makes a good ending?",
+          "options": [
+            "It answers the main question and shows the change.",
+            "It adds five new problems.",
+            "It ends in the middle of a sentence.",
+            "It says 'to be continued' always."
+          ],
+          "answer": 0,
+          "explain": "A good ending answers the main question and shows how the character changed."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Put your stories together as a small collection.",
+            "Write a complete story in under 300 words.",
+            "Build a main character people care about.",
+            "End your story so it feels complete."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Write a strong ending — its goal is: End your story so it feels complete."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "starting a second story",
+            "writing a strong ending",
+            "editing in three passes",
+            "what makes a good story: a person, a problem and a change"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was writing a strong ending."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Cut the weak parts",
+      "goal": "Cut words and scenes your story does not need.",
+      "video": {
+        "youtube_id": "G-6z7JqvDoE",
+        "title": "Creating Proactive, Relatable, and Capable Characters — Lecture 5",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about cutting weak parts in your notebook.",
+        "Write for 15 minutes using cutting weak parts — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using cutting weak parts more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Cut 100 words from your draft without losing the story.",
+      "challenge": "Cut one whole scene that does not move the story forward.",
+      "quiz": [
+        {
+          "q": "Why cut words from a draft?",
+          "options": [
+            "Every word should earn its place. Cutting makes the story stronger.",
+            "Short stories are always better.",
+            "Long stories are bad.",
+            "Cutting is only for poems."
+          ],
+          "answer": 0,
+          "explain": "Every word should earn its place. Cutting weak words makes the strong ones shine."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Cut words and scenes your story does not need.",
+            "Read a story and steal one trick from it.",
+            "Say what you learned about writing in 30 days.",
+            "Give your character a problem worth solving."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Cut the weak parts — its goal is: Cut words and scenes your story does not need."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "writing from a different point of view",
+            "sharing your work with readers",
+            "cutting weak parts",
+            "finding story ideas from real life"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was cutting weak parts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Fix the plot holes",
+      "goal": "Find and fix things in your story that do not make sense.",
+      "video": {
+        "youtube_id": "G-6z7JqvDoE",
+        "title": "Creating Proactive, Relatable, and Capable Characters — Lecture 5",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about fixing plot holes in your notebook.",
+        "Write for 15 minutes using fixing plot holes — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using fixing plot holes more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "List three things in your story that do not make sense. Fix one.",
+      "challenge": "Ask a friend to find one plot hole in your story.",
+      "quiz": [
+        {
+          "q": "What is a plot hole?",
+          "options": [
+            "A part of the story that does not make sense.",
+            "A hole in the paper.",
+            "A boring chapter.",
+            "A long sentence."
+          ],
+          "answer": 0,
+          "explain": "A plot hole is a part that does not make sense — like a character knowing something they never learned."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Ask for feedback and use it.",
+            "Find and fix things in your story that do not make sense.",
+            "Write one more story in your own voice.",
+            "Plan your story in three parts."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Fix the plot holes — its goal is: Find and fix things in your story that do not make sense."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "putting your stories together",
+            "writing a flash story under 300 words",
+            "building a main character: want, flaw and strength",
+            "fixing plot holes"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was fixing plot holes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Make the title work",
+      "goal": "Pick a title that fits your story and pulls readers in.",
+      "video": {
+        "youtube_id": "G-6z7JqvDoE",
+        "title": "Creating Proactive, Relatable, and Capable Characters — Lecture 5",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about picking a strong title in your notebook.",
+        "Write for 15 minutes using picking a strong title — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using picking a strong title more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write ten titles for your story. Pick the best one.",
+      "challenge": "Ask three people which title they would click on.",
+      "quiz": [
+        {
+          "q": "What makes a good title?",
+          "options": [
+            "It fits the story and makes people curious.",
+            "It is as long as possible.",
+            "It gives away the ending.",
+            "It has nothing to do with the story."
+          ],
+          "answer": 0,
+          "explain": "A good title fits the story and makes people curious enough to start reading."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Build a daily writing habit.",
+            "Plan your next 30 days of writing.",
+            "Pick a title that fits your story and pulls readers in.",
+            "Write an opening that pulls people in."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Make the title work — its goal is: Pick a title that fits your story and pulls readers in."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "picking a strong title",
+            "reading like a writer",
+            "reviewing what you learned",
+            "giving your character a problem"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was picking a strong title."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Write a second story",
+      "goal": "Start a second story with a new idea.",
+      "video": {
+        "youtube_id": "AKHlanlzaIY",
+        "title": "Creative Writing — Ideas & Outlining",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about starting a second story in your notebook.",
+        "Write for 15 minutes using starting a second story — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using starting a second story more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write the opening of a second story, 200 words or more.",
+      "challenge": "Use a different setting from your first story.",
+      "quiz": [
+        {
+          "q": "Why write a second story?",
+          "options": [
+            "Each new story teaches you something the last one did not.",
+            "One story is never enough.",
+            "Second stories are always better.",
+            "You must write ten stories."
+          ],
+          "answer": 0,
+          "explain": "Each new story teaches you something. The second one is easier than the first."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Edit your story in three passes: story, sentences, spelling.",
+            "Say what makes a story worth reading.",
+            "Write a full scene with action and talk.",
+            "Start a second story with a new idea."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Write a second story — its goal is: Start a second story with a new idea."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "getting feedback on your writing",
+            "starting a second story",
+            "writing in your own voice",
+            "planning a story: start, middle, end"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was starting a second story."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Write in a new voice",
+      "goal": "Try writing from a different point of view.",
+      "video": {
+        "youtube_id": "AKHlanlzaIY",
+        "title": "Creative Writing — Ideas & Outlining",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about writing from a different point of view in your notebook.",
+        "Write for 15 minutes using writing from a different point of view — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using writing from a different point of view more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Rewrite one scene from another character's point of view.",
+      "challenge": "Write a short scene in first person: 'I'.",
+      "quiz": [
+        {
+          "q": "What is first person?",
+          "options": [
+            "The story told as 'I'.",
+            "The story told as 'he' or 'she'.",
+            "The story told by a crowd.",
+            "The story told as 'you'."
+          ],
+          "answer": 0,
+          "explain": "First person is 'I'. Third person is 'he' or 'she'. Each one feels different to read."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Try writing from a different point of view.",
+            "Share your story with real readers.",
+            "Find a story idea from your own life.",
+            "Show feelings through action, not labels."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Write in a new voice — its goal is: Try writing from a different point of view."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "building a daily writing habit",
+            "planning your next 30 days",
+            "writing from a different point of view",
+            "writing a strong opening"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was writing from a different point of view."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Your story collection",
+      "goal": "Put your stories together as a small collection.",
+      "video": {
+        "youtube_id": "AKHlanlzaIY",
+        "title": "Creative Writing — Ideas & Outlining",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about putting your stories together in your notebook.",
+        "Write for 15 minutes using putting your stories together — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using putting your stories together more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Gather your stories and write a one-line summary for each.",
+      "challenge": "Pick the best story for the front of your collection.",
+      "quiz": [
+        {
+          "q": "What holds a story collection together?",
+          "options": [
+            "A shared theme or feeling.",
+            "The same character in every story.",
+            "The same length for every story.",
+            "The same title for every story."
+          ],
+          "answer": 0,
+          "explain": "A collection holds together with a shared theme or feeling, not the same character."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Write a complete story in under 300 words.",
+            "Put your stories together as a small collection.",
+            "Build a main character people care about.",
+            "Write talk that sounds like real people."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Your story collection — its goal is: Put your stories together as a small collection."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "editing in three passes",
+            "what makes a good story: a person, a problem and a change",
+            "writing a scene with action and talk",
+            "putting your stories together"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was putting your stories together."
+        }
+      ],
+      "project": {
+        "title": "Your Revised Story",
+        "brief": "Revise your story: cut weak parts, fix plot holes, and write a strong title. Share it with two readers.",
+        "checks": [
+          "You cut at least 100 words",
+          "You fixed one plot hole",
+          "Your story has a strong title",
+          "Your ending answers the main question",
+          "Two people read it",
+          "You used at least one piece of feedback"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Read like a writer",
+      "goal": "Read a story and steal one trick from it.",
+      "video": {
+        "youtube_id": "WbMihK3tFMY",
+        "title": "Cook vs. Chef",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about reading like a writer in your notebook.",
+        "Write for 15 minutes using reading like a writer — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using reading like a writer more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Read a short story and write down three tricks the writer used.",
+      "challenge": "Use one of those tricks in your own story.",
+      "quiz": [
+        {
+          "q": "What does 'read like a writer' mean?",
+          "options": [
+            "Notice how the writer built the story, not just what happened.",
+            "Read very fast.",
+            "Read only the ending.",
+            "Read with a pen in your mouth."
+          ],
+          "answer": 0,
+          "explain": "Reading like a writer means noticing how the story was built, so you can use the same tricks."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Say what you learned about writing in 30 days.",
+            "Give your character a problem worth solving.",
+            "Read a story and steal one trick from it.",
+            "Use the five senses to make a scene feel real."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Read like a writer — its goal is: Read a story and steal one trick from it."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reading like a writer",
+            "sharing your work with readers",
+            "finding story ideas from real life",
+            "showing feelings through action"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was reading like a writer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Get feedback",
+      "goal": "Ask for feedback and use it.",
+      "video": {
+        "youtube_id": "WbMihK3tFMY",
+        "title": "Cook vs. Chef",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about getting feedback on your writing in your notebook.",
+        "Write for 15 minutes using getting feedback on your writing — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using getting feedback on your writing more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Ask two people to read your best story and tell you one strength and one fix.",
+      "challenge": "Fix the one thing both readers named.",
+      "quiz": [
+        {
+          "q": "What is the best way to take feedback?",
+          "options": [
+            "Listen, thank them, and fix what makes the story better.",
+            "Argue with every comment.",
+            "Ignore all feedback.",
+            "Rewrite the whole story each time."
+          ],
+          "answer": 0,
+          "explain": "Listen, thank them, and fix what makes the story better. You do not have to fix everything."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Write one more story in your own voice.",
+            "Plan your story in three parts.",
+            "Keep readers guessing about what happens next.",
+            "Ask for feedback and use it."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Get feedback — its goal is: Ask for feedback and use it."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "writing a flash story under 300 words",
+            "getting feedback on your writing",
+            "building a main character: want, flaw and strength",
+            "writing real dialogue"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was getting feedback on your writing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Write every day",
+      "goal": "Build a daily writing habit.",
+      "video": {
+        "youtube_id": "WbMihK3tFMY",
+        "title": "Cook vs. Chef",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about building a daily writing habit in your notebook.",
+        "Write for 15 minutes using building a daily writing habit — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using building a daily writing habit more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write 200 words today, even if they are rough.",
+      "challenge": "Write at the same time tomorrow too.",
+      "quiz": [
+        {
+          "q": "What matters most in a writing habit?",
+          "options": [
+            "Showing up every day, even for a short time.",
+            "Writing for five hours once a week.",
+            "Waiting for inspiration.",
+            "Writing only when you feel like it."
+          ],
+          "answer": 0,
+          "explain": "Showing up every day matters most. Short daily writing beats long rare writing."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Build a daily writing habit.",
+            "Plan your next 30 days of writing.",
+            "Write an opening that pulls people in.",
+            "Write the middle of your story."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Write every day — its goal is: Build a daily writing habit."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reviewing what you learned",
+            "giving your character a problem",
+            "building a daily writing habit",
+            "describing with the five senses"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was building a daily writing habit."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Edit like a pro",
+      "goal": "Edit your story in three passes: story, sentences, spelling.",
+      "video": {
+        "youtube_id": "OT4lttEspnk",
+        "title": "Plots and Genres",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about editing in three passes in your notebook.",
+        "Write for 15 minutes using editing in three passes — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using editing in three passes more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Do one editing pass on your best story: story first.",
+      "challenge": "Do the second pass: fix your sentences.",
+      "quiz": [
+        {
+          "q": "What should you fix first when editing?",
+          "options": [
+            "The story: does it make sense and hold together?",
+            "The commas.",
+            "The font.",
+            "The title."
+          ],
+          "answer": 0,
+          "explain": "Fix the story first: does it make sense? Then fix sentences. Spelling comes last."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Say what makes a story worth reading.",
+            "Edit your story in three passes: story, sentences, spelling.",
+            "Write a full scene with action and talk.",
+            "Build a side character who helps or blocks your hero."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Edit like a pro — its goal is: Edit your story in three passes: story, sentences, spelling."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "writing in your own voice",
+            "planning a story: start, middle, end",
+            "building tension: questions, delays and danger",
+            "editing in three passes"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was editing in three passes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Share your work",
+      "goal": "Share your story with real readers.",
+      "video": {
+        "youtube_id": "OT4lttEspnk",
+        "title": "Plots and Genres",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about sharing your work with readers in your notebook.",
+        "Write for 15 minutes using sharing your work with readers — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using sharing your work with readers more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Share your best story with three people.",
+      "challenge": "Share it in a group or online where writers gather.",
+      "quiz": [
+        {
+          "q": "Why share your writing?",
+          "options": [
+            "Real readers show you what works and what does not.",
+            "Sharing is only for famous writers.",
+            "Sharing makes your writing worse.",
+            "You should never share."
+          ],
+          "answer": 0,
+          "explain": "Real readers show you what works. Writing only for yourself keeps you blind to your weak spots."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Find a story idea from your own life.",
+            "Show feelings through action, not labels.",
+            "Share your story with real readers.",
+            "Finish a full first draft of your story."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Share your work — its goal is: Share your story with real readers."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "sharing your work with readers",
+            "planning your next 30 days",
+            "writing a strong opening",
+            "writing the middle: things get harder"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was sharing your work with readers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Write a flash story",
+      "goal": "Write a complete story in under 300 words.",
+      "video": {
+        "youtube_id": "OT4lttEspnk",
+        "title": "Plots and Genres",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about writing a flash story under 300 words in your notebook.",
+        "Write for 15 minutes using writing a flash story under 300 words — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using writing a flash story under 300 words more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write a full story in 300 words or less.",
+      "challenge": "Cut it to 200 words without losing the story.",
+      "quiz": [
+        {
+          "q": "What is a flash story?",
+          "options": [
+            "A complete story in very few words.",
+            "A story about lightning.",
+            "A story written very fast.",
+            "A story with no ending."
+          ],
+          "answer": 0,
+          "explain": "A flash story is a complete story in very few words — often under 300. Every word must work hard."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Build a main character people care about.",
+            "Write talk that sounds like real people.",
+            "End your story so it feels complete.",
+            "Write a complete story in under 300 words."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Write a flash story — its goal is: Write a complete story in under 300 words."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "what makes a good story: a person, a problem and a change",
+            "writing a flash story under 300 words",
+            "writing a scene with action and talk",
+            "building a side character"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was writing a flash story under 300 words."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Review your writing",
+      "goal": "Say what you learned about writing in 30 days.",
+      "video": {
+        "youtube_id": "jrIogch5DBU",
+        "title": "Plot Part 1",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about reviewing what you learned in your notebook.",
+        "Write for 15 minutes using reviewing what you learned — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using reviewing what you learned more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write down five writing skills you now have.",
+      "challenge": "Write a short note to a new writer with your best tip.",
+      "quiz": [
+        {
+          "q": "What is the most important writing skill?",
+          "options": [
+            "Finishing stories and fixing them.",
+            "Perfect spelling.",
+            "Big words.",
+            "Long sentences."
+          ],
+          "answer": 0,
+          "explain": "Finishing stories and fixing them is the core skill. Everything else grows from that."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Say what you learned about writing in 30 days.",
+            "Give your character a problem worth solving.",
+            "Use the five senses to make a scene feel real.",
+            "Cut words and scenes your story does not need."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Review your writing — its goal is: Say what you learned about writing in 30 days."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "finding story ideas from real life",
+            "showing feelings through action",
+            "reviewing what you learned",
+            "finishing a full first draft"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was reviewing what you learned."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Your writer's voice",
+      "goal": "Write one more story in your own voice.",
+      "video": {
+        "youtube_id": "jrIogch5DBU",
+        "title": "Plot Part 1",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about writing in your own voice in your notebook.",
+        "Write for 15 minutes using writing in your own voice — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using writing in your own voice more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write a new story opening in your own voice.",
+      "challenge": "Read it out loud. Does it sound like you? Fix it until it does.",
+      "quiz": [
+        {
+          "q": "What is a writer's voice?",
+          "options": [
+            "The way your writing sounds — your words, your rhythm, your view.",
+            "How loud you read.",
+            "Your accent.",
+            "Your handwriting."
+          ],
+          "answer": 0,
+          "explain": "Your voice is how your writing sounds: your words, your rhythm, your view of the world."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Plan your story in three parts.",
+            "Write one more story in your own voice.",
+            "Keep readers guessing about what happens next.",
+            "Find and fix things in your story that do not make sense."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Your writer's voice — its goal is: Write one more story in your own voice."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "building a main character: want, flaw and strength",
+            "writing real dialogue",
+            "writing a strong ending",
+            "writing in your own voice"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was writing in your own voice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Keep writing",
+      "goal": "Plan your next 30 days of writing.",
+      "video": {
+        "youtube_id": "jrIogch5DBU",
+        "title": "Plot Part 1",
+        "channel": "Brandon Sanderson"
+      },
+      "steps": [
+        "Watch today's video and write down the main idea about planning your next 30 days in your notebook.",
+        "Write for 15 minutes using planning your next 30 days — aim for one full page, not perfection.",
+        "Read what you wrote aloud and circle the three weakest sentences.",
+        "Rewrite those three sentences using planning your next 30 days more deliberately.",
+        "Share today's writing with one person and ask what they remember most."
+      ],
+      "task": "Write a simple plan: what will you write next month?",
+      "challenge": "Start the first story of your next 30 days today.",
+      "quiz": [
+        {
+          "q": "What should you do after 30 days of writing?",
+          "options": [
+            "Keep writing a little every day.",
+            "Stop and wait a year.",
+            "Throw your stories away.",
+            "Only write when inspired."
+          ],
+          "answer": 0,
+          "explain": "Keep writing a little every day. Thirty days is the start, not the end."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Write an opening that pulls people in.",
+            "Write the middle of your story.",
+            "Plan your next 30 days of writing.",
+            "Pick a title that fits your story and pulls readers in."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Keep writing — its goal is: Plan your next 30 days of writing."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "planning your next 30 days",
+            "giving your character a problem",
+            "describing with the five senses",
+            "cutting weak parts"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was planning your next 30 days."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Storyteller",
+    "brief": "Write a complete short story of 1,500 words or more, with a main character, a real problem, a middle where things get harder, and an ending that shows change. Share it with three readers.",
+    "checks": [
+      "Your story is 1,500 words or more",
+      "Your main character has a want and a flaw",
+      "Your story has a clear problem",
+      "Your middle makes things harder",
+      "Your ending shows change",
+      "You used showing, not telling, in at least three places",
+      "Three people read your story and gave feedback"
+    ],
+    "deliverables": [
+      "A complete short story of 1,500 words or more",
+      "A one-page plan of the story: character, problem, start, middle, end",
+      "A second short story of 300 words or more",
+      "A list of feedback from three readers",
+      "A short note on what you will write next"
+    ]
+  }
+}

@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "youtube-creator",
+    "title": "YouTube Creator",
+    "level": "Beginner",
+    "tagline": "Start a YouTube channel from zero: ideas, filming, editing, thumbnails and your first 100 subscribers.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Pick your channel idea",
+      "goal": "Choose what your channel will be about.",
+      "video": {
+        "youtube_id": "NR_V2nGSp98",
+        "title": "9 Ways to Get More YouTube Subscribers",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Write down five topics you love.",
+        "Pick the one you can talk about every week.",
+        "Write one sentence about who it is for.",
+        "Write your channel name."
+      ],
+      "task": "Pick your channel topic and write who it is for.",
+      "challenge": "Ask three friends which of your five topics they would watch.",
+      "quiz": [
+        {
+          "q": "What is a hook in a YouTube video?",
+          "options": [
+            "The first few seconds that make people want to keep watching",
+            "The end of the video",
+            "The thumbnail picture",
+            "The video description"
+          ],
+          "answer": 0,
+          "explain": "A hook is the start of your video. It tells viewers why they should stay."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Pick your channel idea\"?",
+          "options": [
+            "Edit your first video in CapCut.",
+            "Film a video that teaches one thing.",
+            "Film a video with another person.",
+            "Choose what your channel will be about."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Choose what your channel will be about."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about who it is for.",
+            "Write your channel name.",
+            "Write down five topics you love.",
+            "Pick the one you can talk about every week."
+          ],
+          "answer": 2,
+          "explain": "Start with: Write down five topics you love."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Set up your channel",
+      "goal": "Create your YouTube channel.",
+      "video": {
+        "youtube_id": "N0XTCZoxby0",
+        "title": "How to Get 100 Subscribers EVERY DAY on YouTube",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Go to YouTube and sign in.",
+        "Click your profile picture, then Create a channel.",
+        "Pick your channel name.",
+        "Add a short description about your channel."
+      ],
+      "task": "Create your YouTube channel with a name and description.",
+      "challenge": "Write a channel description in under 50 words.",
+      "quiz": [
+        {
+          "q": "What is a thumbnail?",
+          "options": [
+            "The small picture people see before they click a video",
+            "The video file itself",
+            "The channel banner",
+            "A comment on a video"
+          ],
+          "answer": 0,
+          "explain": "A thumbnail is the picture for your video. A clear, bright thumbnail gets more clicks."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Set up your channel\"?",
+          "options": [
+            "Use B-roll to make a video more interesting.",
+            "Make a YouTube Short under 60 seconds.",
+            "Create your YouTube channel.",
+            "Design a thumbnail people will click."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Create your YouTube channel."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a short description about your channel.",
+            "Go to YouTube and sign in.",
+            "Click your profile picture, then Create a channel.",
+            "Pick your channel name."
+          ],
+          "answer": 1,
+          "explain": "Start with: Go to YouTube and sign in."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Design your channel art",
+      "goal": "Make a banner and profile picture.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Create a YouTube banner in Canva.",
+        "Add your channel name in big text.",
+        "Make a simple profile picture.",
+        "Upload both to your channel."
+      ],
+      "task": "Design and upload a banner and profile picture.",
+      "challenge": "Make two banners and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is a hook in a YouTube video?",
+          "options": [
+            "The first few seconds that make people want to keep watching",
+            "The end of the video",
+            "The thumbnail picture",
+            "The video description"
+          ],
+          "answer": 0,
+          "explain": "A hook is the start of your video. It tells viewers why they should stay."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Design your channel art\"?",
+          "options": [
+            "Make a plan to reach 100 subscribers.",
+            "Make a banner and profile picture.",
+            "Upload your first video to YouTube.",
+            "Make better thumbnails."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a banner and profile picture."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Create a YouTube banner in Canva.",
+            "Add your channel name in big text.",
+            "Make a simple profile picture.",
+            "Upload both to your channel."
+          ],
+          "answer": 0,
+          "explain": "Start with: Create a YouTube banner in Canva."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Plan your first 10 videos",
+      "goal": "Write ten video ideas.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Write down ten video ideas on your topic.",
+        "Pick the simplest one for your first video.",
+        "Write the title for each idea.",
+        "Put them in order from easy to hard."
+      ],
+      "task": "Write ten video ideas and pick the simplest for your first video.",
+      "challenge": "Ask a friend to pick the three ideas they would watch first.",
+      "quiz": [
+        {
+          "q": "What is a thumbnail?",
+          "options": [
+            "The small picture people see before they click a video",
+            "The video file itself",
+            "The channel banner",
+            "A comment on a video"
+          ],
+          "answer": 0,
+          "explain": "A thumbnail is the picture for your video. A clear, bright thumbnail gets more clicks."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your first 10 videos\"?",
+          "options": [
+            "Write ten video ideas.",
+            "Write five titles for one video.",
+            "Get your first ten subscribers.",
+            "Make your voice sound clear."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Write ten video ideas."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick the simplest one for your first video.",
+            "Write the title for each idea.",
+            "Put them in order from easy to hard.",
+            "Write down ten video ideas on your topic."
+          ],
+          "answer": 3,
+          "explain": "Start with: Write down ten video ideas on your topic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Learn how YouTube search works",
+      "goal": "Find what people search for.",
+      "video": {
+        "youtube_id": "VUMVsGm0xOE",
+        "title": "CapCut App Video Editing Tutorial - COMPLETE Guide (2025)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Type your topic into the YouTube search bar.",
+        "Look at the suggestions that appear.",
+        "Write down five search phrases.",
+        "Use one phrase in your first video title."
+      ],
+      "task": "Find five search phrases people use for your topic.",
+      "challenge": "Search your topic and write down the top three videos.",
+      "quiz": [
+        {
+          "q": "What is a hook in a YouTube video?",
+          "options": [
+            "The first few seconds that make people want to keep watching",
+            "The end of the video",
+            "The thumbnail picture",
+            "The video description"
+          ],
+          "answer": 0,
+          "explain": "A hook is the start of your video. It tells viewers why they should stay."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn how YouTube search works\"?",
+          "options": [
+            "Make videos people watch to the end.",
+            "Learn what your numbers mean.",
+            "Make your videos look brighter.",
+            "Find what people search for."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Find what people search for."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down five search phrases.",
+            "Use one phrase in your first video title.",
+            "Type your topic into the YouTube search bar.",
+            "Look at the suggestions that appear."
+          ],
+          "answer": 2,
+          "explain": "Start with: Type your topic into the YouTube search bar."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Write your first script",
+      "goal": "Write a simple script for your first video.",
+      "video": {
+        "youtube_id": "C5O353fpPwM",
+        "title": "CapCut for PC & Mac: Beginner Tutorial 2026",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Write a hook: one sentence that makes people stay.",
+        "Write three main points.",
+        "Write a short ending with a call to action.",
+        "Read the script out loud and time it."
+      ],
+      "task": "Write a script with a hook, three points, and an ending.",
+      "challenge": "Read your script out loud and cut any part that feels slow.",
+      "quiz": [
+        {
+          "q": "What is a thumbnail?",
+          "options": [
+            "The small picture people see before they click a video",
+            "The video file itself",
+            "The channel banner",
+            "A comment on a video"
+          ],
+          "answer": 0,
+          "explain": "A thumbnail is the picture for your video. A clear, bright thumbnail gets more clicks."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write your first script\"?",
+          "options": [
+            "Make a video your viewers asked for.",
+            "Make a short video that tells new viewers what your channel is.",
+            "Write a simple script for your first video.",
+            "Plan three videos on one topic."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple script for your first video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Read the script out loud and time it.",
+            "Write a hook: one sentence that makes people stay.",
+            "Write three main points.",
+            "Write a short ending with a call to action."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write a hook: one sentence that makes people stay."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Film your first video",
+      "goal": "Film your first YouTube video.",
+      "video": {
+        "youtube_id": "foYyeGLf9yU",
+        "title": "How to Make A YouTube Video for Beginners START to FINISH!",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Set up your phone or camera on a tripod.",
+        "Stand near a window for light.",
+        "Film your script in one take.",
+        "Watch the video and check the sound."
+      ],
+      "task": "Film your first video.",
+      "challenge": "Film your first video twice and pick the better take.",
+      "quiz": [
+        {
+          "q": "What is a hook in a YouTube video?",
+          "options": [
+            "The first few seconds that make people want to keep watching",
+            "The end of the video",
+            "The thumbnail picture",
+            "The video description"
+          ],
+          "answer": 0,
+          "explain": "A hook is the start of your video. It tells viewers why they should stay."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Film your first video\"?",
+          "options": [
+            "Plan four videos for next month.",
+            "Film your first YouTube video.",
+            "Film a video that teaches one thing.",
+            "Film a video with another person."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Film your first YouTube video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Set up your phone or camera on a tripod.",
+            "Stand near a window for light.",
+            "Film your script in one take.",
+            "Watch the video and check the sound."
+          ],
+          "answer": 0,
+          "explain": "Start with: Set up your phone or camera on a tripod."
+        }
+      ],
+      "project": {
+        "title": "Film Your First Video",
+        "brief": "Film your first YouTube video from a script.",
+        "checks": [
+          "Video is filmed",
+          "Script was used",
+          "Sound is clear",
+          "Light is good",
+          "Video is at least 1 minute long",
+          "Saved as a file"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Edit your first video",
+      "goal": "Edit your first video in CapCut.",
+      "video": {
+        "youtube_id": "PxY9SswA5j8",
+        "title": "VIDEOGRAPHY BASICS for Beginners | Full Course, Start Here!",
+        "channel": "Pascal Basel"
+      },
+      "steps": [
+        "Open your video in CapCut.",
+        "Cut out the mistakes and long pauses.",
+        "Add captions.",
+        "Add music and export it in 1080p."
+      ],
+      "task": "Edit your first video and export it.",
+      "challenge": "Edit the same video again and make it 30 seconds shorter.",
+      "quiz": [
+        {
+          "q": "What is a call to action?",
+          "options": [
+            "Asking viewers to do something, like subscribe or comment",
+            "The end screen music",
+            "The video title",
+            "A type of camera"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks viewers to subscribe, like, or comment. Put it at the end of your video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit your first video\"?",
+          "options": [
+            "Edit your first video in CapCut.",
+            "Use B-roll to make a video more interesting.",
+            "Make a YouTube Short under 60 seconds.",
+            "Look at what worked this month."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Edit your first video in CapCut."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Cut out the mistakes and long pauses.",
+            "Add captions.",
+            "Add music and export it in 1080p.",
+            "Open your video in CapCut."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open your video in CapCut."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Make a thumbnail",
+      "goal": "Design a thumbnail people will click.",
+      "video": {
+        "youtube_id": "xKRh4PI-BKg",
+        "title": "The Ultimate Beginner Guide to Videography",
+        "channel": "Jason Neistadt"
+      },
+      "steps": [
+        "Open Canva and pick YouTube thumbnail size.",
+        "Add a big, bold headline with few words.",
+        "Add a clear photo of your face.",
+        "Use bright colors."
+      ],
+      "task": "Design a thumbnail for your first video.",
+      "challenge": "Make two thumbnails and ask a friend which they would click.",
+      "quiz": [
+        {
+          "q": "What is watch time?",
+          "options": [
+            "How long people watch your videos in total",
+            "How long it takes to upload",
+            "How long your video is",
+            "How long you spend filming"
+          ],
+          "answer": 0,
+          "explain": "Watch time is the total time people spend watching. More watch time helps your channel grow."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a thumbnail\"?",
+          "options": [
+            "Make better thumbnails.",
+            "Make a plan to reach 100 subscribers.",
+            "Celebrate and plan for the next 100.",
+            "Design a thumbnail people will click."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Design a thumbnail people will click."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a clear photo of your face.",
+            "Use bright colors.",
+            "Open Canva and pick YouTube thumbnail size.",
+            "Add a big, bold headline with few words."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open Canva and pick YouTube thumbnail size."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Upload your first video",
+      "goal": "Upload your first video to YouTube.",
+      "video": {
+        "youtube_id": "8BdZ0dUu7VQ",
+        "title": "Content Writing for SEO: How to Create Content that Ranks in Google",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Go to YouTube Studio and click Create, then Upload.",
+        "Pick your video file.",
+        "Add a title, a description, and your thumbnail.",
+        "Click Publish."
+      ],
+      "task": "Upload your first video to YouTube.",
+      "challenge": "Write a description for your video in under 100 words.",
+      "quiz": [
+        {
+          "q": "What is a call to action?",
+          "options": [
+            "Asking viewers to do something, like subscribe or comment",
+            "The end screen music",
+            "The video title",
+            "A type of camera"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks viewers to subscribe, like, or comment. Put it at the end of your video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Upload your first video\"?",
+          "options": [
+            "Make your voice sound clear.",
+            "Pick your best work and say why it works.",
+            "Upload your first video to YouTube.",
+            "Get your first ten subscribers."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Upload your first video to YouTube."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Click Publish.",
+            "Go to YouTube Studio and click Create, then Upload.",
+            "Pick your video file.",
+            "Add a title, a description, and your thumbnail."
+          ],
+          "answer": 1,
+          "explain": "Start with: Go to YouTube Studio and click Create, then Upload."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Write titles people click",
+      "goal": "Write five titles for one video.",
+      "video": {
+        "youtube_id": "DvwS7cV9GmQ",
+        "title": "SEO For Beginners: A Basic Search Engine Optimization Tutorial for Higher Google Rankings",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick one video idea.",
+        "Write five different titles for it.",
+        "Keep each title under 60 characters.",
+        "Pick the clearest and most interesting one."
+      ],
+      "task": "Write five titles for one video idea and pick the best.",
+      "challenge": "Look at five popular videos and write down what their titles do.",
+      "quiz": [
+        {
+          "q": "What is watch time?",
+          "options": [
+            "How long people watch your videos in total",
+            "How long it takes to upload",
+            "How long your video is",
+            "How long you spend filming"
+          ],
+          "answer": 0,
+          "explain": "Watch time is the total time people spend watching. More watch time helps your channel grow."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write titles people click\"?",
+          "options": [
+            "Write a simple plan to keep growing.",
+            "Write five titles for one video.",
+            "Learn what your numbers mean.",
+            "Make your videos look brighter."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Write five titles for one video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick one video idea.",
+            "Write five different titles for it.",
+            "Keep each title under 60 characters.",
+            "Pick the clearest and most interesting one."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick one video idea."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Grow your watch time",
+      "goal": "Make videos people watch to the end.",
+      "video": {
+        "youtube_id": "0R_3iarc8IA",
+        "title": "Content Marketing For Beginners: Complete Guide",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Watch your first video and find where it gets slow.",
+        "Cut the slow parts.",
+        "Start with a strong hook.",
+        "End with a reason to watch the next video."
+      ],
+      "task": "Cut the slow parts out of one of your videos.",
+      "challenge": "Watch a popular video and note where you almost left.",
+      "quiz": [
+        {
+          "q": "What is a call to action?",
+          "options": [
+            "Asking viewers to do something, like subscribe or comment",
+            "The end screen music",
+            "The video title",
+            "A type of camera"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks viewers to subscribe, like, or comment. Put it at the end of your video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Grow your watch time\"?",
+          "options": [
+            "Make videos people watch to the end.",
+            "Make a video your viewers asked for.",
+            "Make a short video that tells new viewers what your channel is.",
+            "Choose what your channel will be about."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make videos people watch to the end."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Cut the slow parts.",
+            "Start with a strong hook.",
+            "End with a reason to watch the next video.",
+            "Watch your first video and find where it gets slow."
+          ],
+          "answer": 3,
+          "explain": "Start with: Watch your first video and find where it gets slow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Plan a video series",
+      "goal": "Plan three videos on one topic.",
+      "video": {
+        "youtube_id": "H8ae6Gfo2Jk",
+        "title": "How to Make a YouTube Thumbnail in Canva (Easy AI Methods!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Pick a topic with three parts.",
+        "Write a title for each part.",
+        "Film part one.",
+        "Tell viewers at the end that part two is coming."
+      ],
+      "task": "Plan three videos as a series.",
+      "challenge": "Make a series about one skill you are learning.",
+      "quiz": [
+        {
+          "q": "What is watch time?",
+          "options": [
+            "How long people watch your videos in total",
+            "How long it takes to upload",
+            "How long your video is",
+            "How long you spend filming"
+          ],
+          "answer": 0,
+          "explain": "Watch time is the total time people spend watching. More watch time helps your channel grow."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan a video series\"?",
+          "options": [
+            "Film a video with another person.",
+            "Plan four videos for next month.",
+            "Create your YouTube channel.",
+            "Plan three videos on one topic."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Plan three videos on one topic."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Film part one.",
+            "Tell viewers at the end that part two is coming.",
+            "Pick a topic with three parts.",
+            "Write a title for each part."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a topic with three parts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Film a how-to video",
+      "goal": "Film a video that teaches one thing.",
+      "video": {
+        "youtube_id": "NR_V2nGSp98",
+        "title": "9 Ways to Get More YouTube Subscribers",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick one simple thing to teach.",
+        "Write the steps on paper.",
+        "Film each step clearly.",
+        "Edit the steps in order with captions."
+      ],
+      "task": "Film a how-to video that teaches one simple thing.",
+      "challenge": "Ask a friend to follow your how-to video.",
+      "quiz": [
+        {
+          "q": "What is a call to action?",
+          "options": [
+            "Asking viewers to do something, like subscribe or comment",
+            "The end screen music",
+            "The video title",
+            "A type of camera"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks viewers to subscribe, like, or comment. Put it at the end of your video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Film a how-to video\"?",
+          "options": [
+            "Look at what worked this month.",
+            "Make a banner and profile picture.",
+            "Film a video that teaches one thing.",
+            "Make a YouTube Short under 60 seconds."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Film a video that teaches one thing."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit the steps in order with captions.",
+            "Pick one simple thing to teach.",
+            "Write the steps on paper.",
+            "Film each step clearly."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick one simple thing to teach."
+        }
+      ],
+      "project": {
+        "title": "Edit and Upload a Video",
+        "brief": "Edit your first video and upload it to YouTube.",
+        "checks": [
+          "Video is edited",
+          "Mistakes are cut out",
+          "Captions are added",
+          "Thumbnail is made",
+          "Video is uploaded",
+          "Video is public"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Make a video with B-roll",
+      "goal": "Use B-roll to make a video more interesting.",
+      "video": {
+        "youtube_id": "N0XTCZoxby0",
+        "title": "How to Get 100 Subscribers EVERY DAY on YouTube",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Film yourself talking about a topic.",
+        "Film three B-roll shots, like close-ups.",
+        "Place the B-roll over the talking parts.",
+        "Watch the video. It should feel more alive."
+      ],
+      "task": "Add three B-roll shots to a talking video.",
+      "challenge": "Film B-roll before you film the talking part.",
+      "quiz": [
+        {
+          "q": "What is YouTube Studio?",
+          "options": [
+            "The free tool where you upload videos and see your numbers",
+            "A video editing app",
+            "A camera for YouTube",
+            "A paid YouTube plan"
+          ],
+          "answer": 0,
+          "explain": "YouTube Studio is where you upload videos, read comments, and check your analytics."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a video with B-roll\"?",
+          "options": [
+            "Write ten video ideas.",
+            "Use B-roll to make a video more interesting.",
+            "Make a plan to reach 100 subscribers.",
+            "Celebrate and plan for the next 100."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Use B-roll to make a video more interesting."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Film yourself talking about a topic.",
+            "Film three B-roll shots, like close-ups.",
+            "Place the B-roll over the talking parts.",
+            "Watch the video. It should feel more alive."
+          ],
+          "answer": 0,
+          "explain": "Start with: Film yourself talking about a topic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Improve your thumbnails",
+      "goal": "Make better thumbnails.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Look at your old thumbnails.",
+        "Look at five popular thumbnails in your niche.",
+        "Copy one idea: bigger text, brighter colors, or a clearer face.",
+        "Make a new thumbnail for your best video."
+      ],
+      "task": "Make a new thumbnail for your best video.",
+      "challenge": "Make three thumbnails for one video and pick the best.",
+      "quiz": [
+        {
+          "q": "What is a niche?",
+          "options": [
+            "The one topic your channel focuses on",
+            "A video editing style",
+            "A type of thumbnail",
+            "A YouTube award"
+          ],
+          "answer": 0,
+          "explain": "A niche is your channel topic. A clear niche helps the right people find you."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Improve your thumbnails\"?",
+          "options": [
+            "Make better thumbnails.",
+            "Make your voice sound clear.",
+            "Pick your best work and say why it works.",
+            "Find what people search for."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make better thumbnails."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at five popular thumbnails in your niche.",
+            "Copy one idea: bigger text, brighter colors, or a clearer face.",
+            "Make a new thumbnail for your best video.",
+            "Look at your old thumbnails."
+          ],
+          "answer": 3,
+          "explain": "Start with: Look at your old thumbnails."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Your first 10 subscribers",
+      "goal": "Get your first ten subscribers.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Share your video with friends and family.",
+        "Ask them to subscribe and comment.",
+        "Reply to every comment.",
+        "Post your video in one group where it fits."
+      ],
+      "task": "Get your first ten subscribers.",
+      "challenge": "Ask your first ten subscribers what video they want next.",
+      "quiz": [
+        {
+          "q": "What is YouTube Studio?",
+          "options": [
+            "The free tool where you upload videos and see your numbers",
+            "A video editing app",
+            "A camera for YouTube",
+            "A paid YouTube plan"
+          ],
+          "answer": 0,
+          "explain": "YouTube Studio is where you upload videos, read comments, and check your analytics."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first 10 subscribers\"?",
+          "options": [
+            "Make your videos look brighter.",
+            "Write a simple plan to keep growing.",
+            "Write a simple script for your first video.",
+            "Get your first ten subscribers."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Get your first ten subscribers."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Reply to every comment.",
+            "Post your video in one group where it fits.",
+            "Share your video with friends and family.",
+            "Ask them to subscribe and comment."
+          ],
+          "answer": 2,
+          "explain": "Start with: Share your video with friends and family."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Read your analytics",
+      "goal": "Learn what your numbers mean.",
+      "video": {
+        "youtube_id": "VUMVsGm0xOE",
+        "title": "CapCut App Video Editing Tutorial - COMPLETE Guide (2025)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Open YouTube Studio and click Analytics.",
+        "Find your views, watch time, and subscribers.",
+        "Find which video has the most views.",
+        "Write down one thing you learned."
+      ],
+      "task": "Open your analytics and find your best video.",
+      "challenge": "Write down three things your analytics tell you.",
+      "quiz": [
+        {
+          "q": "What is a niche?",
+          "options": [
+            "The one topic your channel focuses on",
+            "A video editing style",
+            "A type of thumbnail",
+            "A YouTube award"
+          ],
+          "answer": 0,
+          "explain": "A niche is your channel topic. A clear niche helps the right people find you."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Read your analytics\"?",
+          "options": [
+            "Choose what your channel will be about.",
+            "Film your first YouTube video.",
+            "Learn what your numbers mean.",
+            "Make a short video that tells new viewers what your channel is."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Learn what your numbers mean."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down one thing you learned.",
+            "Open YouTube Studio and click Analytics.",
+            "Find your views, watch time, and subscribers.",
+            "Find which video has the most views."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open YouTube Studio and click Analytics."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Make a video from feedback",
+      "goal": "Make a video your viewers asked for.",
+      "video": {
+        "youtube_id": "C5O353fpPwM",
+        "title": "CapCut for PC & Mac: Beginner Tutorial 2026",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Read your comments and find a question.",
+        "Make a video that answers it.",
+        "Say in the video that a viewer asked for it.",
+        "Upload it and reply to that viewer."
+      ],
+      "task": "Make a video that answers a viewer question.",
+      "challenge": "Ask your viewers what video they want next.",
+      "quiz": [
+        {
+          "q": "What is YouTube Studio?",
+          "options": [
+            "The free tool where you upload videos and see your numbers",
+            "A video editing app",
+            "A camera for YouTube",
+            "A paid YouTube plan"
+          ],
+          "answer": 0,
+          "explain": "YouTube Studio is where you upload videos, read comments, and check your analytics."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a video from feedback\"?",
+          "options": [
+            "Edit your first video in CapCut.",
+            "Make a video your viewers asked for.",
+            "Plan four videos for next month.",
+            "Create your YouTube channel."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a video your viewers asked for."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Read your comments and find a question.",
+            "Make a video that answers it.",
+            "Say in the video that a viewer asked for it.",
+            "Upload it and reply to that viewer."
+          ],
+          "answer": 0,
+          "explain": "Start with: Read your comments and find a question."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Film a collaboration",
+      "goal": "Film a video with another person.",
+      "video": {
+        "youtube_id": "foYyeGLf9yU",
+        "title": "How to Make A YouTube Video for Beginners START to FINISH!",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Ask a friend to join your video.",
+        "Plan the video together.",
+        "Film it in one session.",
+        "Edit it and upload it."
+      ],
+      "task": "Film a video with a friend.",
+      "challenge": "Film a video where you interview someone.",
+      "quiz": [
+        {
+          "q": "What is a niche?",
+          "options": [
+            "The one topic your channel focuses on",
+            "A video editing style",
+            "A type of thumbnail",
+            "A YouTube award"
+          ],
+          "answer": 0,
+          "explain": "A niche is your channel topic. A clear niche helps the right people find you."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Film a collaboration\"?",
+          "options": [
+            "Film a video with another person.",
+            "Look at what worked this month.",
+            "Make a banner and profile picture.",
+            "Design a thumbnail people will click."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Film a video with another person."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Plan the video together.",
+            "Film it in one session.",
+            "Edit it and upload it.",
+            "Ask a friend to join your video."
+          ],
+          "answer": 3,
+          "explain": "Start with: Ask a friend to join your video."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Make a short video",
+      "goal": "Make a YouTube Short under 60 seconds.",
+      "video": {
+        "youtube_id": "PxY9SswA5j8",
+        "title": "VIDEOGRAPHY BASICS for Beginners | Full Course, Start Here!",
+        "channel": "Pascal Basel"
+      },
+      "steps": [
+        "Pick one quick tip or funny moment.",
+        "Film it vertically on your phone.",
+        "Edit it in CapCut.",
+        "Upload it as a Short."
+      ],
+      "task": "Make a YouTube Short under 60 seconds.",
+      "challenge": "Make three Shorts from one long video.",
+      "quiz": [
+        {
+          "q": "What is YouTube Studio?",
+          "options": [
+            "The free tool where you upload videos and see your numbers",
+            "A video editing app",
+            "A camera for YouTube",
+            "A paid YouTube plan"
+          ],
+          "answer": 0,
+          "explain": "YouTube Studio is where you upload videos, read comments, and check your analytics."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a short video\"?",
+          "options": [
+            "Celebrate and plan for the next 100.",
+            "Write ten video ideas.",
+            "Upload your first video to YouTube.",
+            "Make a YouTube Short under 60 seconds."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a YouTube Short under 60 seconds."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit it in CapCut.",
+            "Upload it as a Short.",
+            "Pick one quick tip or funny moment.",
+            "Film it vertically on your phone."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick one quick tip or funny moment."
+        }
+      ],
+      "project": {
+        "title": "Make a YouTube Short",
+        "brief": "Make a Short under 60 seconds.",
+        "checks": [
+          "Video is under 60 seconds",
+          "Video is vertical",
+          "Has captions or text",
+          "Topic is clear",
+          "Uploaded as a Short",
+          "Shared with friends"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Grow to 100 subscribers",
+      "goal": "Make a plan to reach 100 subscribers.",
+      "video": {
+        "youtube_id": "xKRh4PI-BKg",
+        "title": "The Ultimate Beginner Guide to Videography",
+        "channel": "Jason Neistadt"
+      },
+      "steps": [
+        "Write down your subscriber count today.",
+        "Plan four videos for the next month.",
+        "Make one video each week.",
+        "Share each video with three people."
+      ],
+      "task": "Write a plan to reach 100 subscribers.",
+      "challenge": "Post your videos on a set day each week.",
+      "quiz": [
+        {
+          "q": "Why should you reply to comments?",
+          "options": [
+            "Because it builds a community and makes viewers come back",
+            "Because it makes the video longer",
+            "Because it changes the thumbnail",
+            "Because it costs nothing"
+          ],
+          "answer": 0,
+          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Grow to 100 subscribers\"?",
+          "options": [
+            "Find what people search for.",
+            "Write five titles for one video.",
+            "Make a plan to reach 100 subscribers.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a plan to reach 100 subscribers."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Share each video with three people.",
+            "Write down your subscriber count today.",
+            "Plan four videos for the next month.",
+            "Make one video each week."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down your subscriber count today."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Improve your sound",
+      "goal": "Make your voice sound clear.",
+      "video": {
+        "youtube_id": "8BdZ0dUu7VQ",
+        "title": "Content Writing for SEO: How to Create Content that Ranks in Google",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Record yourself in a quiet room.",
+        "Speak close to the phone.",
+        "Use a cheap microphone if you have one.",
+        "Compare the sound with your first video."
+      ],
+      "task": "Record a video with clear sound.",
+      "challenge": "Record the same video in a noisy room and a quiet room.",
+      "quiz": [
+        {
+          "q": "What is a YouTube Short?",
+          "options": [
+            "A vertical video under 60 seconds",
+            "A video with no sound",
+            "A video that is only a thumbnail",
+            "A paid video"
+          ],
+          "answer": 0,
+          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Improve your sound\"?",
+          "options": [
+            "Make videos people watch to the end.",
+            "Make your voice sound clear.",
+            "Write a simple plan to keep growing.",
+            "Write a simple script for your first video."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make your voice sound clear."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record yourself in a quiet room.",
+            "Speak close to the phone.",
+            "Use a cheap microphone if you have one.",
+            "Compare the sound with your first video."
+          ],
+          "answer": 0,
+          "explain": "Start with: Record yourself in a quiet room."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Improve your lighting",
+      "goal": "Make your videos look brighter.",
+      "video": {
+        "youtube_id": "DvwS7cV9GmQ",
+        "title": "SEO For Beginners: A Basic Search Engine Optimization Tutorial for Higher Google Rankings",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Film near a window in the daytime.",
+        "Turn off yellow room lights.",
+        "Use a white board to bounce light.",
+        "Compare with your first video."
+      ],
+      "task": "Film a video near a window and compare it with your first.",
+      "challenge": "Film the same video with light from the front and from behind.",
+      "quiz": [
+        {
+          "q": "Why should you reply to comments?",
+          "options": [
+            "Because it builds a community and makes viewers come back",
+            "Because it makes the video longer",
+            "Because it changes the thumbnail",
+            "Because it costs nothing"
+          ],
+          "answer": 0,
+          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Improve your lighting\"?",
+          "options": [
+            "Make your videos look brighter.",
+            "Choose what your channel will be about.",
+            "Film your first YouTube video.",
+            "Plan three videos on one topic."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make your videos look brighter."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Turn off yellow room lights.",
+            "Use a white board to bounce light.",
+            "Compare with your first video.",
+            "Film near a window in the daytime."
+          ],
+          "answer": 3,
+          "explain": "Start with: Film near a window in the daytime."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Make a channel trailer",
+      "goal": "Make a short video that tells new viewers what your channel is.",
+      "video": {
+        "youtube_id": "0R_3iarc8IA",
+        "title": "Content Marketing For Beginners: Complete Guide",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Write three sentences about your channel.",
+        "Film yourself saying them.",
+        "Add clips from your best videos.",
+        "Upload it as your channel trailer."
+      ],
+      "task": "Make a 30-second channel trailer.",
+      "challenge": "Show your trailer to a friend who has never seen your channel.",
+      "quiz": [
+        {
+          "q": "What is a YouTube Short?",
+          "options": [
+            "A vertical video under 60 seconds",
+            "A video with no sound",
+            "A video that is only a thumbnail",
+            "A paid video"
+          ],
+          "answer": 0,
+          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a channel trailer\"?",
+          "options": [
+            "Create your YouTube channel.",
+            "Edit your first video in CapCut.",
+            "Film a video that teaches one thing.",
+            "Make a short video that tells new viewers what your channel is."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a short video that tells new viewers what your channel is."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add clips from your best videos.",
+            "Upload it as your channel trailer.",
+            "Write three sentences about your channel.",
+            "Film yourself saying them."
+          ],
+          "answer": 2,
+          "explain": "Start with: Write three sentences about your channel."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Plan your next month",
+      "goal": "Plan four videos for next month.",
+      "video": {
+        "youtube_id": "H8ae6Gfo2Jk",
+        "title": "How to Make a YouTube Thumbnail in Canva (Easy AI Methods!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Pick four video ideas.",
+        "Write a title for each.",
+        "Pick one day each week to film.",
+        "Write the plan where you can see it."
+      ],
+      "task": "Plan four videos for next month.",
+      "challenge": "Write a filming schedule for the next four weeks.",
+      "quiz": [
+        {
+          "q": "Why should you reply to comments?",
+          "options": [
+            "Because it builds a community and makes viewers come back",
+            "Because it makes the video longer",
+            "Because it changes the thumbnail",
+            "Because it costs nothing"
+          ],
+          "answer": 0,
+          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next month\"?",
+          "options": [
+            "Design a thumbnail people will click.",
+            "Use B-roll to make a video more interesting.",
+            "Plan four videos for next month.",
+            "Make a banner and profile picture."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Plan four videos for next month."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write the plan where you can see it.",
+            "Pick four video ideas.",
+            "Write a title for each.",
+            "Pick one day each week to film."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick four video ideas."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Review your channel",
+      "goal": "Look at what worked this month.",
+      "video": {
+        "youtube_id": "NR_V2nGSp98",
+        "title": "9 Ways to Get More YouTube Subscribers",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Open your analytics.",
+        "Find your best video and your worst video.",
+        "Write down what made the best one work.",
+        "Write one change to make next month."
+      ],
+      "task": "Find your best and worst videos and write why.",
+      "challenge": "Ask a friend to watch your channel and give honest feedback.",
+      "quiz": [
+        {
+          "q": "What is a YouTube Short?",
+          "options": [
+            "A vertical video under 60 seconds",
+            "A video with no sound",
+            "A video that is only a thumbnail",
+            "A paid video"
+          ],
+          "answer": 0,
+          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your channel\"?",
+          "options": [
+            "Make better thumbnails.",
+            "Look at what worked this month.",
+            "Write ten video ideas.",
+            "Upload your first video to YouTube."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Look at what worked this month."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open your analytics.",
+            "Find your best video and your worst video.",
+            "Write down what made the best one work.",
+            "Write one change to make next month."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open your analytics."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Your first 100 subscribers",
+      "goal": "Celebrate and plan for the next 100.",
+      "video": {
+        "youtube_id": "N0XTCZoxby0",
+        "title": "How to Get 100 Subscribers EVERY DAY on YouTube",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Check your subscriber count.",
+        "Thank your subscribers in a video or post.",
+        "Write down what worked best this month.",
+        "Set a goal for next month."
+      ],
+      "task": "Thank your subscribers and set a goal for next month.",
+      "challenge": "Write a plan to reach 200 subscribers.",
+      "quiz": [
+        {
+          "q": "Why should you reply to comments?",
+          "options": [
+            "Because it builds a community and makes viewers come back",
+            "Because it makes the video longer",
+            "Because it changes the thumbnail",
+            "Because it costs nothing"
+          ],
+          "answer": 0,
+          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first 100 subscribers\"?",
+          "options": [
+            "Celebrate and plan for the next 100.",
+            "Find what people search for.",
+            "Write five titles for one video.",
+            "Get your first ten subscribers."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Celebrate and plan for the next 100."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Thank your subscribers in a video or post.",
+            "Write down what worked best this month.",
+            "Set a goal for next month.",
+            "Check your subscriber count."
+          ],
+          "answer": 3,
+          "explain": "Start with: Check your subscriber count."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Watch all the videos you made this month.",
+        "Pick your best three.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three videos and write why each one works.",
+      "challenge": "Show your best video to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a YouTube Short?",
+          "options": [
+            "A vertical video under 60 seconds",
+            "A video with no sound",
+            "A video that is only a thumbnail",
+            "A paid video"
+          ],
+          "answer": 0,
+          "explain": "A Short is a short vertical video. It is a fast way to reach new viewers."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Write a simple script for your first video.",
+            "Make videos people watch to the end.",
+            "Learn what your numbers mean.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Watch all the videos you made this month.",
+            "Pick your best three."
+          ],
+          "answer": 2,
+          "explain": "Start with: Watch all the videos you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep growing.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep growing your channel.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "Why should you reply to comments?",
+          "options": [
+            "Because it builds a community and makes viewers come back",
+            "Because it makes the video longer",
+            "Because it changes the thumbnail",
+            "Because it costs nothing"
+          ],
+          "answer": 0,
+          "explain": "Replying to comments makes viewers feel seen. They are more likely to watch your next video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Plan three videos on one topic.",
+            "Make a video your viewers asked for.",
+            "Write a simple plan to keep growing.",
+            "Film your first YouTube video."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep growing."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Launch Your Channel",
+    "brief": "Launch your YouTube channel with three videos: an introduction video, a how-to video, and a Short. Each video has a thumbnail, a title, and a description.",
+    "checks": [
+      "Channel is set up with art and description",
+      "Three videos are uploaded",
+      "Each video has a thumbnail",
+      "Each video has a clear title",
+      "Each video has a description",
+      "At least one Short is uploaded",
+      "Channel trailer is set"
+    ],
+    "deliverables": [
+      "Channel link",
+      "Three video links",
+      "Three thumbnails",
+      "A list of your next ten video ideas",
+      "A short note on what you learned"
+    ]
+  }
+}
