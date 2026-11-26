@@ -15,7 +15,7 @@
       "video": {
         "youtube_id": "hGU2T3_vNjU",
         "title": "How to Fade Hair the Easy Way",
-        "channel": "Victory Barber & Brand"
+        "channel": "Matty Conrad"
       },
       "steps": [
         "Get your tools ready: clipper with guards, trimmer and foil shaver.",
@@ -28,37 +28,37 @@
       "challenge": "Do welcome to barbing two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to barbing?",
+          "q": "What does a clipper guard number tell you?",
           "options": [
-            "You should rush through the technique to save time.",
-            "A clipper guard number equals one-eighth of an inch of hair left behind.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "How much hair the guard leaves behind",
+            "How fast the clipper cuts",
+            "How sharp the blade is",
+            "How long the haircut will take"
           ],
-          "answer": 1,
-          "explain": "A clipper guard number equals one-eighth of an inch of hair left behind."
+          "answer": 0,
+          "explain": "A higher guard number leaves more hair behind. A number 1 guard leaves about one-eighth of an inch."
         },
         {
-          "q": "Which tool is most essential for welcome to barbing?",
+          "q": "Which tool do you need most for a fade?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "clipper with guards",
-            "flat iron"
+            "Clipper with guards",
+            "Round brush",
+            "Hair dryer",
+            "Flat iron"
           ],
-          "answer": 2,
-          "explain": "The clipper with guards is the essential tool for this work."
+          "answer": 0,
+          "explain": "A clipper with guards is the main tool for fading. You change guards to blend the hair from short to long."
         },
         {
-          "q": "What should you always do when working on welcome to barbing?",
+          "q": "What should you always do between clients?",
           "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first",
-            "disinfect your clippers between clients"
+            "Disinfect your clippers",
+            "Use a hot iron on wet hair",
+            "Skip cleaning to save time",
+            "Use the same cape without shaking it out"
           ],
-          "answer": 3,
-          "explain": "You should always disinfect your clippers between clients."
+          "answer": 0,
+          "explain": "Always disinfect your clippers between clients. Clean tools keep every client safe."
         }
       ],
       "project": null
