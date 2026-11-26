@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "cybersecurity-basics",
+    "title": "Cybersecurity Basics",
+    "level": "Beginner",
+    "tagline": "Learn how attacks work and how to protect accounts, websites and small businesses.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Cybersecurity Is",
+      "goal": "Understand what cybersecurity protects and why it matters.",
+      "video": {
+        "youtube_id": "hXSFdwIOfnE",
+        "title": "Cyber Security Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Write down three things you want to protect: your money, your photos, your accounts.",
+        "List three ways each one could be stolen or damaged.",
+        "Learn the three goals of security: confidentiality, integrity and availability.",
+        "Find one recent news story about a hack and write down what went wrong."
+      ],
+      "task": "Write a short note: what cybersecurity is, in your own words, and why it matters to you.",
+      "challenge": "Ask a friend what they do to stay safe online and compare it with your list.",
+      "quiz": [
+        {
+          "q": "What does cybersecurity protect?",
+          "options": [
+            "Only computers",
+            "People, their data, their money and the systems they use",
+            "Only websites",
+            "Only passwords"
+          ],
+          "answer": 1,
+          "explain": "Cybersecurity protects people and their data, money and devices from theft, damage and spying."
+        },
+        {
+          "q": "What are the three goals of security?",
+          "options": [
+            "Fast, cheap, pretty",
+            "Confidentiality, integrity and availability",
+            "Passwords, firewalls, antivirus",
+            "Login, logout, lock"
+          ],
+          "answer": 1,
+          "explain": "The CIA triad: keep data private (confidentiality), correct (integrity) and reachable when needed (availability)."
+        },
+        {
+          "q": "Who needs cybersecurity?",
+          "options": [
+            "Only big companies",
+            "Everyone who uses a phone, email or the internet",
+            "Only banks",
+            "Only the government"
+          ],
+          "answer": 1,
+          "explain": "Anyone online is a target. Attackers go after ordinary people because their defences are usually weaker."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "How Hackers Think",
+      "goal": "Learn the main types of attacks so you can recognise them.",
+      "video": {
+        "youtube_id": "WpET9B3gDh4",
+        "title": "Cybersecurity Engineer Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Learn five attack types: phishing, malware, ransomware, social engineering and password attacks.",
+        "For each one, write down what the attacker wants and how they get it.",
+        "Learn the difference between a hacker, a cracker and an ethical hacker.",
+        "Find one example of each attack type in the news."
+      ],
+      "task": "Make a one-page guide to the five attack types with a real example for each.",
+      "challenge": "Explain to a friend, in simple words, what ransomware does.",
+      "quiz": [
+        {
+          "q": "What is phishing?",
+          "options": [
+            "A kind of fishing",
+            "A fake message that tricks you into giving away passwords or money",
+            "A virus",
+            "A password"
+          ],
+          "answer": 1,
+          "explain": "Phishing is a fake email or message that looks real and tricks you into clicking a bad link or sharing secrets."
+        },
+        {
+          "q": "What is ransomware?",
+          "options": [
+            "A kind of password",
+            "Malware that locks your files and demands money to unlock them",
+            "A firewall",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "Ransomware encrypts your files so you cannot open them, then demands payment for the key."
+        },
+        {
+          "q": "What is an ethical hacker?",
+          "options": [
+            "A criminal",
+            "A security professional who tests systems with permission to find and fix weaknesses",
+            "A police officer",
+            "A programmer"
+          ],
+          "answer": 1,
+          "explain": "Ethical hackers attack systems legally, with permission, to find holes before criminals do."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Passwords That Actually Protect You",
+      "goal": "Make strong, unique passwords and store them safely.",
+      "video": {
+        "youtube_id": "5ck8gagw27I",
+        "title": "Cyber Security Course 2026 [FREE]",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Check if your passwords are reused: list your accounts and mark any that share a password.",
+        "Make a strong password: at least 12 characters, mixed letters, numbers and symbols.",
+        "Use a passphrase: four random words joined together, like 'correct horse battery staple'.",
+        "Install a password manager and move your first five passwords into it."
+      ],
+      "task": "Move all your important accounts into a password manager with a unique password each.",
+      "challenge": "Change the password of your email account to a strong, unique one.",
+      "quiz": [
+        {
+          "q": "What makes a password strong?",
+          "options": [
+            "Short and easy to remember",
+            "Long, random and unique to one account",
+            "Your birthday",
+            "Your pet's name"
+          ],
+          "answer": 1,
+          "explain": "A strong password is long, random and used for only one account, so one leak cannot unlock everything."
+        },
+        {
+          "q": "Why is reusing passwords dangerous?",
+          "options": [
+            "It is not",
+            "Because one leaked password gives attackers the key to every account that shares it",
+            "It is slower",
+            "It uses more memory"
+          ],
+          "answer": 1,
+          "explain": "Attackers try leaked passwords on many sites. Reuse turns one breach into many."
+        },
+        {
+          "q": "What is a password manager?",
+          "options": [
+            "A notebook",
+            "An app that creates and stores strong unique passwords for you, protected by one master password",
+            "A kind of antivirus",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "A password manager remembers all your passwords, so you only need to remember one strong master password."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Two-Factor Authentication (2FA)",
+      "goal": "Add a second lock to your accounts with 2FA.",
+      "video": {
+        "youtube_id": "DHNLSoSEEXg",
+        "title": "Learn Complete Cyber Security Course Free 2026",
+        "channel": "Intellipaat"
+      },
+      "steps": [
+        "Learn what 2FA is: something you know (password) plus something you have (phone or key).",
+        "Turn on 2FA for your email account using an authenticator app.",
+        "Turn on 2FA for your bank and your main social media accounts.",
+        "Save your backup codes in a safe place, not on your phone."
+      ],
+      "task": "Turn on 2FA for your three most important accounts and save the backup codes.",
+      "challenge": "Test logging in with 2FA to make sure it works.",
+      "quiz": [
+        {
+          "q": "What is two-factor authentication?",
+          "options": [
+            "Two passwords",
+            "A second check after your password, like a code from your phone",
+            "A kind of firewall",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "2FA asks for a second proof, like a code from an app, so a stolen password alone is not enough."
+        },
+        {
+          "q": "Which is safer: a code by text message or an authenticator app?",
+          "options": [
+            "Text message",
+            "An authenticator app, because text messages can be intercepted",
+            "They are the same",
+            "Neither"
+          ],
+          "answer": 1,
+          "explain": "Authenticator apps are safer. Text codes can be stolen by SIM swap attacks."
+        },
+        {
+          "q": "Why save backup codes?",
+          "options": [
+            "To share them",
+            "So you can still get in if you lose your phone",
+            "To make login faster",
+            "To hide them"
+          ],
+          "answer": 1,
+          "explain": "Backup codes are your spare key. Without them, losing your phone can lock you out of your account."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Phishing: Spot the Fake",
+      "goal": "Recognise phishing emails and messages before you click.",
+      "video": {
+        "youtube_id": "g-eMgUROvUw",
+        "title": "CyberSecurity Full Course 2027",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Learn the five signs of phishing: urgency, strange sender, bad spelling, odd links and requests for secrets.",
+        "Open your spam folder and find one phishing email. List the signs it shows.",
+        "Hover over a link (do not click) to see where it really goes.",
+        "Practise: write down what you would do if your bank emailed you about a problem."
+      ],
+      "task": "Find three phishing signs in a real spam email and write them down.",
+      "challenge": "Show a friend a phishing email and ask them to spot the signs.",
+      "quiz": [
+        {
+          "q": "What is the most common sign of phishing?",
+          "options": [
+            "Perfect spelling",
+            "Urgency: 'Act now or your account will close!'",
+            "A friendly tone",
+            "A short message"
+          ],
+          "answer": 1,
+          "explain": "Phishing creates panic so you act without thinking. Real companies rarely demand instant action by email."
+        },
+        {
+          "q": "What should you do with a suspicious link?",
+          "options": [
+            "Click it to check",
+            "Hover to see the real address, and go to the site yourself instead of clicking",
+            "Forward it to friends",
+            "Reply to it"
+          ],
+          "answer": 1,
+          "explain": "Never click a suspicious link. Type the site's address yourself or use the app you already have."
+        },
+        {
+          "q": "What should you do if you clicked a phishing link?",
+          "options": [
+            "Ignore it",
+            "Change your password, turn on 2FA and check your accounts",
+            "Delete the email only",
+            "Restart your phone"
+          ],
+          "answer": 1,
+          "explain": "Act fast: change the password, turn on 2FA and check for strange activity."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Safe Browsing and Public Wi-Fi",
+      "goal": "Stay safe when you browse and when you use public Wi-Fi.",
+      "video": {
+        "youtube_id": "WICFRDTH60c",
+        "title": "How to get better security than passwords alone",
+        "channel": "Graham Cluley"
+      },
+      "steps": [
+        "Check that websites you log into start with https and show a padlock.",
+        "Turn on your browser's safe browsing and pop-up blocker.",
+        "Learn why public Wi-Fi is risky: anyone on it can watch unprotected traffic.",
+        "Use a VPN or your phone data for banking on public Wi-Fi."
+      ],
+      "task": "Check the five sites you use most and confirm they use https.",
+      "challenge": "Turn off automatic Wi-Fi connection on your phone so it does not join unknown networks.",
+      "quiz": [
+        {
+          "q": "What does https mean?",
+          "options": [
+            "The site is fast",
+            "The connection between you and the site is encrypted",
+            "The site is free",
+            "The site is popular"
+          ],
+          "answer": 1,
+          "explain": "https encrypts your connection, so others on the same network cannot read what you send."
+        },
+        {
+          "q": "Why is public Wi-Fi risky?",
+          "options": [
+            "It is slow",
+            "Because anyone on the same network can try to watch or intercept unprotected traffic",
+            "It costs money",
+            "It drains battery"
+          ],
+          "answer": 1,
+          "explain": "Public Wi-Fi is shared. Attackers on it can snoop on traffic that is not encrypted."
+        },
+        {
+          "q": "What does a VPN do?",
+          "options": [
+            "It makes Wi-Fi faster",
+            "It encrypts your internet traffic and hides it from the local network",
+            "It blocks all websites",
+            "It saves battery"
+          ],
+          "answer": 1,
+          "explain": "A VPN encrypts your traffic, so even on public Wi-Fi, snoops cannot read it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Personal Security Audit",
+      "goal": "Audit your own digital life and fix the biggest risks.",
+      "video": {
+        "youtube_id": "u5CU6ecN03Y",
+        "title": "Passwords, Password Managers & 2FA: Full Setup Walkthrough",
+        "channel": "SafeConnectHQ"
+      },
+      "steps": [
+        "List all your important accounts: email, bank, social media, shopping.",
+        "Check each one: is the password unique and strong? Is 2FA on?",
+        "Check your phone: is the screen lock on, is the software updated?",
+        "Write a fix list and complete the top five fixes."
+      ],
+      "task": "Finish your security audit and fix the top five risks you found.",
+      "challenge": "Teach one family member how to turn on 2FA.",
+      "quiz": [
+        {
+          "q": "What is a security audit?",
+          "options": [
+            "A test by a hacker",
+            "A check of your accounts, devices and habits to find and fix risks",
+            "A kind of antivirus",
+            "A password"
+          ],
+          "answer": 1,
+          "explain": "An audit is a review: what do you have, what protects it, and what is still weak?"
+        },
+        {
+          "q": "Which fix matters most?",
+          "options": [
+            "A new phone",
+            "A unique password and 2FA on your email, because email resets everything else",
+            "A new password manager",
+            "A VPN"
+          ],
+          "answer": 1,
+          "explain": "Your email can reset most other accounts. Protecting it with a unique password and 2FA protects everything."
+        },
+        {
+          "q": "Why update your phone and apps?",
+          "options": [
+            "For new features",
+            "Because updates fix security holes attackers use",
+            "To make them faster",
+            "To change the look"
+          ],
+          "answer": 1,
+          "explain": "Updates patch holes. Attackers target people who skip them."
+        }
+      ],
+      "project": {
+        "title": "Personal Security Audit",
+        "brief": "Audit your own digital life: list your important accounts, check each one for a unique strong password and 2FA, check your phone's lock and updates, and fix the top five risks you find.",
+        "checks": [
+          "You listed all your important accounts.",
+          "Each account was checked for a unique strong password.",
+          "2FA is on for your three most important accounts.",
+          "Your phone has a screen lock and is updated.",
+          "The top five risks you found are fixed.",
+          "You taught one person how to turn on 2FA."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Malware: Viruses, Ransomware and Spyware",
+      "goal": "Learn what malware is, how it spreads and how to stop it.",
+      "video": {
+        "youtube_id": "9HOpanT0GRs",
+        "title": "Harvard CS50's Intro to Cybersecurity – Full University Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Learn the main types: virus, worm, trojan, spyware and ransomware.",
+        "Learn how malware spreads: bad downloads, email attachments and fake updates.",
+        "Install a trusted antivirus and run a full scan.",
+        "Learn what to do if your computer starts acting strangely."
+      ],
+      "task": "Run a full antivirus scan on your computer and check the result.",
+      "challenge": "Find one program on your computer you do not recognise and check what it is.",
+      "quiz": [
+        {
+          "q": "What is a trojan?",
+          "options": [
+            "A virus that copies itself",
+            "Malware that pretends to be a useful program to trick you into installing it",
+            "A firewall",
+            "A kind of password"
+          ],
+          "answer": 1,
+          "explain": "A trojan hides inside something that looks harmless, like a free game or a fake update."
+        },
+        {
+          "q": "How does most malware get onto computers?",
+          "options": [
+            "Through the power cable",
+            "Through downloads, email attachments and fake updates that users open",
+            "Through the screen",
+            "Through Wi-Fi alone"
+          ],
+          "answer": 1,
+          "explain": "Most malware needs you to open it. A bad download or attachment is the usual way in."
+        },
+        {
+          "q": "What is spyware?",
+          "options": [
+            "A kind of firewall",
+            "Malware that secretly watches what you do and steals information",
+            "A backup tool",
+            "A password manager"
+          ],
+          "answer": 1,
+          "explain": "Spyware hides on your device and records what you type, where you go and what you do."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Networks: How the Internet Moves Data",
+      "goal": "Understand IP addresses, DNS and how data travels.",
+      "video": {
+        "youtube_id": "ug8W0sFiVJo",
+        "title": "Hands-On Cybersecurity and Ethical Hacking – Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Learn what an IP address is: your device's address on the network.",
+        "Learn what DNS does: it turns names like google.com into IP addresses.",
+        "Use ping to check if a website is reachable.",
+        "Use ipconfig or ifconfig to see your own IP address."
+      ],
+      "task": "Find your IP address, ping three websites and write down the results.",
+      "challenge": "Explain DNS to a friend in one sentence.",
+      "quiz": [
+        {
+          "q": "What is an IP address?",
+          "options": [
+            "A website name",
+            "A number that identifies a device on a network",
+            "A password",
+            "A kind of cable"
+          ],
+          "answer": 1,
+          "explain": "An IP address is like a home address for your device. It tells the network where to send data."
+        },
+        {
+          "q": "What does DNS do?",
+          "options": [
+            "It encrypts data",
+            "It turns website names into IP addresses",
+            "It blocks viruses",
+            "It speeds up Wi-Fi"
+          ],
+          "answer": 1,
+          "explain": "DNS is the internet's phone book. You type a name, DNS finds the number."
+        },
+        {
+          "q": "What is a packet?",
+          "options": [
+            "A kind of virus",
+            "A small chunk of data that travels across the network",
+            "A cable",
+            "A password"
+          ],
+          "answer": 1,
+          "explain": "Data travels in packets: small pieces that are sent separately and put back together at the other end."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Firewalls and What They Block",
+      "goal": "Understand firewalls and check yours is on.",
+      "video": {
+        "youtube_id": "fQbBPa0ADvs",
+        "title": "Computer Networking Fundamentals Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Learn what a firewall does: it blocks unwanted connections to your computer.",
+        "Check that your computer's firewall is turned on.",
+        "Learn the difference between inbound and outbound rules.",
+        "Block one program from the internet in your firewall settings."
+      ],
+      "task": "Check your firewall is on and list the programs allowed through it.",
+      "challenge": "Turn off any program you do not recognise in the firewall list.",
+      "quiz": [
+        {
+          "q": "What is a firewall?",
+          "options": [
+            "An antivirus",
+            "A barrier that controls which network connections can reach your computer",
+            "A kind of password",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A firewall watches network traffic and blocks connections that are not allowed."
+        },
+        {
+          "q": "What is the difference between inbound and outbound?",
+          "options": [
+            "There is none",
+            "Inbound is traffic coming in, outbound is traffic going out",
+            "Inbound is faster",
+            "Outbound is safer"
+          ],
+          "answer": 1,
+          "explain": "Inbound rules control what can connect to you. Outbound rules control what your computer can connect to."
+        },
+        {
+          "q": "Why block a program in the firewall?",
+          "options": [
+            "To make it faster",
+            "To stop a suspicious program from sending your data out",
+            "To save battery",
+            "To hide it"
+          ],
+          "answer": 1,
+          "explain": "Blocking a suspicious program stops it from sending data to the internet."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Linux Basics for Security",
+      "goal": "Learn the Linux basics every security learner needs.",
+      "video": {
+        "youtube_id": "sWbUDq4S6Y8",
+        "title": "Introduction to Linux – Full Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Install a Linux virtual machine with VirtualBox and Ubuntu or Kali.",
+        "Learn to move around: pwd, ls, cd and mkdir.",
+        "Learn to read files: cat, less and head.",
+        "Learn to check who you are and what is running: whoami and ps."
+      ],
+      "task": "Set up your Linux virtual machine and practise the basic commands.",
+      "challenge": "Create a folder, make a file in it and read it back.",
+      "quiz": [
+        {
+          "q": "Why do security learners use Linux?",
+          "options": [
+            "It is prettier",
+            "Because most security tools are built for Linux",
+            "It is faster",
+            "It has no viruses"
+          ],
+          "answer": 1,
+          "explain": "Most security tools, like Nmap and Wireshark, are made for Linux first."
+        },
+        {
+          "q": "What does ls do?",
+          "options": [
+            "It deletes files",
+            "It lists the files in a folder",
+            "It moves files",
+            "It copies files"
+          ],
+          "answer": 1,
+          "explain": "ls lists what is in the current folder."
+        },
+        {
+          "q": "What does pwd do?",
+          "options": [
+            "It changes your password",
+            "It shows the folder you are in",
+            "It lists files",
+            "It deletes a folder"
+          ],
+          "answer": 1,
+          "explain": "pwd prints the working directory: the folder you are currently in."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "The Command Line: Your First Lab",
+      "goal": "Get comfortable with the terminal and file permissions.",
+      "video": {
+        "youtube_id": "iBy5PdTpIYs",
+        "title": "CompTIA Security+ SY0-701 - Full Course 2026",
+        "channel": "Computer Networks Decoded"
+      },
+      "steps": [
+        "Learn file permissions: read, write and execute for owner, group and others.",
+        "Change permissions with chmod and see the effect.",
+        "Use sudo to run a command as the administrator.",
+        "Find a file with find and search inside files with grep."
+      ],
+      "task": "Change the permissions of a test file and check who can read it.",
+      "challenge": "Use grep to find a word inside a log file.",
+      "quiz": [
+        {
+          "q": "What are file permissions?",
+          "options": [
+            "Passwords",
+            "Rules that say who can read, write or run a file",
+            "File sizes",
+            "File names"
+          ],
+          "answer": 1,
+          "explain": "Permissions control who can read, change or run a file. They stop the wrong people touching important files."
+        },
+        {
+          "q": "What does sudo do?",
+          "options": [
+            "It deletes files",
+            "It runs a command with administrator power",
+            "It lists files",
+            "It changes your password"
+          ],
+          "answer": 1,
+          "explain": "sudo runs a command as the administrator, which is needed for system changes."
+        },
+        {
+          "q": "What does grep do?",
+          "options": [
+            "It deletes files",
+            "It searches inside files for lines that match a pattern",
+            "It copies files",
+            "It moves files"
+          ],
+          "answer": 1,
+          "explain": "grep finds lines containing a word or pattern, which is handy for reading logs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Virtual Machines and Safe Labs",
+      "goal": "Build a safe lab where you can practise without breaking anything.",
+      "video": {
+        "youtube_id": "ypNKKYUJE5o",
+        "title": "Can you find the bug? JavaScript security vulnerabilities course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Install VirtualBox on your computer.",
+        "Create a virtual machine and install Ubuntu or Kali Linux in it.",
+        "Take a snapshot so you can undo any mistake.",
+        "Set the network to NAT or host-only so the lab stays separate from your real network."
+      ],
+      "task": "Build your lab virtual machine and take a snapshot.",
+      "challenge": "Break something in the lab on purpose, then restore the snapshot.",
+      "quiz": [
+        {
+          "q": "What is a virtual machine?",
+          "options": [
+            "A real computer",
+            "A computer running inside your computer, separate from your real system",
+            "A kind of virus",
+            "A cloud server"
+          ],
+          "answer": 1,
+          "explain": "A virtual machine is a computer in software. It runs inside your real computer but is separate from it."
+        },
+        {
+          "q": "Why practise in a virtual machine?",
+          "options": [
+            "It is faster",
+            "Because mistakes stay inside the lab and cannot harm your real computer",
+            "It is cheaper",
+            "It looks better"
+          ],
+          "answer": 1,
+          "explain": "A lab VM is a safe sandbox. You can break things, test tools and learn without risking your real system."
+        },
+        {
+          "q": "What is a snapshot?",
+          "options": [
+            "A photo",
+            "A saved state of a virtual machine you can return to at any time",
+            "A backup of your files",
+            "A screenshot"
+          ],
+          "answer": 1,
+          "explain": "A snapshot saves the VM's exact state. You can roll back to it after a mistake."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Set Up a Safe Home Lab",
+      "goal": "Build a safe home lab with a Linux VM and the basic security tools.",
+      "video": {
+        "youtube_id": "hXSFdwIOfnE",
+        "title": "Cyber Security Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Install VirtualBox and a Linux virtual machine.",
+        "Install Wireshark, Nmap and a text editor in the VM.",
+        "Take a snapshot of the clean VM.",
+        "Write a one-page guide to your lab: what is installed and how to restore it."
+      ],
+      "task": "Finish your home lab and test that Wireshark and Nmap run.",
+      "challenge": "Show your lab guide to one person and explain what each tool does.",
+      "quiz": [
+        {
+          "q": "Why take a snapshot of a clean lab?",
+          "options": [
+            "To save space",
+            "So you can always return to a known-good state after experiments",
+            "To make it faster",
+            "To hide it"
+          ],
+          "answer": 1,
+          "explain": "A clean snapshot is your reset button. After any experiment, you can go back to a fresh lab."
+        },
+        {
+          "q": "What does Nmap do?",
+          "options": [
+            "It draws maps",
+            "It scans a network to find devices and open ports",
+            "It blocks attacks",
+            "It encrypts data"
+          ],
+          "answer": 1,
+          "explain": "Nmap probes a network and reports which devices are there and which services they offer."
+        },
+        {
+          "q": "Why keep the lab separate from your real network?",
+          "options": [
+            "It is faster",
+            "So experiments cannot touch your real computers or data",
+            "It saves battery",
+            "It looks better"
+          ],
+          "answer": 1,
+          "explain": "A separate lab network stops your experiments from reaching your real devices."
+        }
+      ],
+      "project": {
+        "title": "Set Up a Safe Home Lab",
+        "brief": "Build a safe home lab: install VirtualBox and a Linux virtual machine, install Wireshark and Nmap, take a snapshot of the clean VM, and write a one-page guide to your lab.",
+        "checks": [
+          "VirtualBox and a Linux VM are installed.",
+          "Wireshark and Nmap run in the VM.",
+          "A snapshot of the clean VM exists.",
+          "The lab network is separate from your real network.",
+          "A one-page lab guide exists.",
+          "You can explain what each tool does."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Wireshark: Watching Network Traffic",
+      "goal": "Capture and read network traffic with Wireshark.",
+      "video": {
+        "youtube_id": "WpET9B3gDh4",
+        "title": "Cybersecurity Engineer Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Open Wireshark and start a capture on your network interface.",
+        "Visit a website and watch the packets appear.",
+        "Filter the capture to show only DNS traffic.",
+        "Find one packet and read its source and destination addresses."
+      ],
+      "task": "Capture traffic for one minute and find the top three websites your computer talked to.",
+      "challenge": "Filter for HTTP traffic and read one request.",
+      "quiz": [
+        {
+          "q": "What is Wireshark?",
+          "options": [
+            "An antivirus",
+            "A tool that captures and shows network traffic packet by packet",
+            "A firewall",
+            "A kind of virus"
+          ],
+          "answer": 1,
+          "explain": "Wireshark records the packets on your network and lets you inspect them."
+        },
+        {
+          "q": "What is a filter in Wireshark?",
+          "options": [
+            "A kind of virus",
+            "A rule that shows only the packets you care about, like dns or http",
+            "A firewall rule",
+            "A password"
+          ],
+          "answer": 1,
+          "explain": "Filters hide the noise. Type 'dns' and you see only DNS packets."
+        },
+        {
+          "q": "Is it legal to capture traffic?",
+          "options": [
+            "Always",
+            "Only on networks you own or have permission to test",
+            "Never",
+            "Only on public Wi-Fi"
+          ],
+          "answer": 1,
+          "explain": "Capture only on your own network or with clear permission. Capturing others' traffic without permission is illegal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Password Attacks and How to Stop Them",
+      "goal": "Learn how passwords are attacked and how to defend them.",
+      "video": {
+        "youtube_id": "5ck8gagw27I",
+        "title": "Cyber Security Course 2026 [FREE]",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Learn three attacks: brute force, dictionary and credential stuffing.",
+        "Learn what hashing is: passwords are stored as scrambled values, not plain text.",
+        "Learn why long passwords beat complex short ones.",
+        "Check if your email has appeared in a breach."
+      ],
+      "task": "Check your email on a breach-checking site and change any password that was leaked.",
+      "challenge": "Turn on 2FA everywhere a leaked password was found.",
+      "quiz": [
+        {
+          "q": "What is a brute force attack?",
+          "options": [
+            "A kind of virus",
+            "Trying every possible password until one works",
+            "Stealing a password from a sticky note",
+            "Guessing once"
+          ],
+          "answer": 1,
+          "explain": "Brute force tries passwords one by one. Long passwords make this take years instead of minutes."
+        },
+        {
+          "q": "What is credential stuffing?",
+          "options": [
+            "A kind of firewall",
+            "Trying passwords leaked from one site on many other sites",
+            "A kind of backup",
+            "A password manager"
+          ],
+          "answer": 1,
+          "explain": "Credential stuffing reuses leaked passwords on other sites, which is why reusing passwords is so dangerous."
+        },
+        {
+          "q": "What is hashing?",
+          "options": [
+            "Encrypting with a key",
+            "Scrambling a password into a fixed value that cannot be turned back",
+            "Deleting a password",
+            "A kind of firewall"
+          ],
+          "answer": 1,
+          "explain": "Hashing turns a password into a scrambled value. The site checks your password by hashing it and comparing, never storing the real password."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Web Security: How Websites Get Hacked",
+      "goal": "Learn the most common web attacks and how to spot them.",
+      "video": {
+        "youtube_id": "DHNLSoSEEXg",
+        "title": "Learn Complete Cyber Security Course Free 2026",
+        "channel": "Intellipaat"
+      },
+      "steps": [
+        "Learn SQL injection: when user input is pasted into a database query.",
+        "Learn cross-site scripting (XSS): when an attacker injects code into a page.",
+        "Learn how to spot a vulnerable form: try a quote mark and watch the error.",
+        "Learn why sites must check and clean all user input."
+      ],
+      "task": "Find the OWASP Top 10 list and write a one-line summary of each item.",
+      "challenge": "Explain SQL injection to a friend in simple words.",
+      "quiz": [
+        {
+          "q": "What is SQL injection?",
+          "options": [
+            "A fast query",
+            "An attack where a user types SQL into a form and the site runs it",
+            "A kind of database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "SQL injection happens when input is pasted into a query. A crafted input can change the query and steal data."
+        },
+        {
+          "q": "What is cross-site scripting (XSS)?",
+          "options": [
+            "A kind of styling",
+            "An attack where bad code is injected into a web page and runs in other users' browsers",
+            "A kind of database",
+            "A firewall"
+          ],
+          "answer": 1,
+          "explain": "XSS injects scripts into a page. When others visit, the script runs in their browser and can steal their session."
+        },
+        {
+          "q": "What is the OWASP Top 10?",
+          "options": [
+            "A list of the best websites",
+            "A list of the ten most serious web security risks, updated regularly",
+            "A kind of firewall",
+            "A password list"
+          ],
+          "answer": 1,
+          "explain": "The OWASP Top 10 is the standard list of the most common and dangerous web security problems."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Social Engineering",
+      "goal": "Learn how attackers trick people, not computers.",
+      "video": {
+        "youtube_id": "g-eMgUROvUw",
+        "title": "CyberSecurity Full Course 2027",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Learn the main tricks: urgency, authority, curiosity and fear.",
+        "Learn what pretexting is: making up a story to get information.",
+        "Practise saying no to a suspicious request, even from someone who sounds official.",
+        "Write a rule for yourself: never share a password or code with anyone."
+      ],
+      "task": "Write down three social engineering tricks and how you would respond to each.",
+      "challenge": "Test a friend: send them a suspicious message and see if they spot it.",
+      "quiz": [
+        {
+          "q": "What is social engineering?",
+          "options": [
+            "Building social media apps",
+            "Tricking people into giving away secrets or access, instead of hacking computers",
+            "A kind of virus",
+            "A firewall"
+          ],
+          "answer": 1,
+          "explain": "Social engineering attacks people, not machines. It uses trust, fear and urgency to get secrets."
+        },
+        {
+          "q": "What is pretexting?",
+          "options": [
+            "A kind of password",
+            "Making up a believable story to trick someone into sharing information",
+            "A firewall rule",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "Pretexting is a made-up scenario, like pretending to be IT support, to get someone to share information."
+        },
+        {
+          "q": "Why does social engineering work?",
+          "options": [
+            "People are stupid",
+            "Because it uses normal human instincts: trust, helpfulness and fear",
+            "Because computers are weak",
+            "Because passwords are weak"
+          ],
+          "answer": 1,
+          "explain": "It works because it targets human nature. Being helpful and trusting is normal, and attackers exploit it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Encryption: How Secrets Stay Secret",
+      "goal": "Understand encryption and how it protects data.",
+      "video": {
+        "youtube_id": "WICFRDTH60c",
+        "title": "How to get better security than passwords alone",
+        "channel": "Graham Cluley"
+      },
+      "steps": [
+        "Learn what encryption does: it scrambles data so only the right key can read it.",
+        "Learn the difference between symmetric and asymmetric encryption.",
+        "Learn what HTTPS does for your browsing.",
+        "Check that your messaging apps use end-to-end encryption."
+      ],
+      "task": "Check three apps you use and confirm which ones use end-to-end encryption.",
+      "challenge": "Explain encryption to a friend using the locked-box analogy.",
+      "quiz": [
+        {
+          "q": "What is encryption?",
+          "options": [
+            "Deleting data",
+            "Scrambling data with a key so only someone with the key can read it",
+            "Copying data",
+            "A kind of password"
+          ],
+          "answer": 1,
+          "explain": "Encryption turns readable data into scrambled data. Only the key turns it back."
+        },
+        {
+          "q": "What is the difference between symmetric and asymmetric encryption?",
+          "options": [
+            "There is none",
+            "Symmetric uses one shared key, asymmetric uses a public key and a private key",
+            "Symmetric is slower",
+            "Asymmetric is for files only"
+          ],
+          "answer": 1,
+          "explain": "Symmetric encryption shares one key. Asymmetric uses a public key to lock and a private key to unlock."
+        },
+        {
+          "q": "What is end-to-end encryption?",
+          "options": [
+            "A kind of password",
+            "Encryption where only the sender and receiver can read the messages, not even the app company",
+            "A firewall",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "End-to-end encryption means only the two people talking can read the messages. The service in the middle cannot."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Backups and Recovery",
+      "goal": "Protect yourself from ransomware and accidents with backups.",
+      "video": {
+        "youtube_id": "u5CU6ecN03Y",
+        "title": "Passwords, Password Managers & 2FA: Full Setup Walkthrough",
+        "channel": "SafeConnectHQ"
+      },
+      "steps": [
+        "Follow the 3-2-1 rule: three copies, two different places, one offsite.",
+        "Back up your important files to an external drive or cloud.",
+        "Test the backup by restoring one file.",
+        "Set a reminder to back up every week."
+      ],
+      "task": "Back up your important files and test restoring one of them.",
+      "challenge": "Write down your backup plan: what, where and how often.",
+      "quiz": [
+        {
+          "q": "What is the 3-2-1 backup rule?",
+          "options": [
+            "Three passwords",
+            "Three copies of data, on two different kinds of storage, with one copy offsite",
+            "Three computers",
+            "Three days"
+          ],
+          "answer": 1,
+          "explain": "3-2-1 means three copies, two different media, one offsite. If one copy fails, others survive."
+        },
+        {
+          "q": "Why test a restore?",
+          "options": [
+            "To waste time",
+            "Because a backup you cannot restore is useless",
+            "To make it faster",
+            "To hide it"
+          ],
+          "answer": 1,
+          "explain": "Untested backups often fail when you need them. Restoring one file proves the backup works."
+        },
+        {
+          "q": "Why keep one copy offsite?",
+          "options": [
+            "To hide it",
+            "So a fire, flood or theft at home cannot destroy all copies at once",
+            "To make it faster",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "An offsite copy survives disasters at home. If all copies are in one place, one disaster takes them all."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Secure a Small Business",
+      "goal": "Do a security review for a small business and write a plan to fix it.",
+      "video": {
+        "youtube_id": "9HOpanT0GRs",
+        "title": "Harvard CS50's Intro to Cybersecurity – Full University Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Pick a small business, real or imaginary, with a website, email and a few computers.",
+        "List its assets: what data, money and systems does it have?",
+        "List its risks: phishing, ransomware, weak passwords, no backups.",
+        "Write a security plan with ten fixes, ordered by importance."
+      ],
+      "task": "Finish the security plan with ten fixes and a short explanation for each.",
+      "challenge": "Present the plan to one person in under three minutes.",
+      "quiz": [
+        {
+          "q": "What is a risk assessment?",
+          "options": [
+            "A kind of test",
+            "Listing what you have, what could go wrong, and how likely and bad each risk is",
+            "A firewall",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A risk assessment lists assets, threats and how bad each one would be, so you fix the worst first."
+        },
+        {
+          "q": "Which fix comes first for a small business?",
+          "options": [
+            "A new firewall",
+            "Unique passwords, 2FA and backups, because they stop the most common attacks",
+            "A new computer",
+            "A VPN"
+          ],
+          "answer": 1,
+          "explain": "The basics stop most attacks: unique passwords, 2FA and backups. Expensive tools come later."
+        },
+        {
+          "q": "What makes a security plan good?",
+          "options": [
+            "It is long",
+            "It is clear, ordered by importance, and each fix has a reason",
+            "It uses big words",
+            "It has many pages"
+          ],
+          "answer": 1,
+          "explain": "A good plan is short, clear and ordered. Each fix explains what it stops and why it matters."
+        }
+      ],
+      "project": {
+        "title": "Secure a Small Business",
+        "brief": "Do a security review for a small business: list its assets and risks, then write a security plan with ten fixes ordered by importance, with a short explanation for each.",
+        "checks": [
+          "The business's assets are listed.",
+          "The risks are listed with phishing, ransomware and weak passwords covered.",
+          "The plan has ten fixes.",
+          "The fixes are ordered by importance.",
+          "Each fix has a short explanation.",
+          "You can present the plan in under three minutes."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Ethical Hacking Tools Overview",
+      "goal": "Meet the main tools ethical hackers use, and when each one fits.",
+      "video": {
+        "youtube_id": "ug8W0sFiVJo",
+        "title": "Hands-On Cybersecurity and Ethical Hacking – Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Learn what Nmap, Wireshark, Burp Suite and Metasploit are for.",
+        "Install one tool in your lab and run it against your own VM.",
+        "Learn the rule: only test systems you own or have written permission to test.",
+        "Write a one-line summary of each tool's job."
+      ],
+      "task": "Install one new tool in your lab and test it against your own virtual machine.",
+      "challenge": "Write a short guide: which tool to use for which job.",
+      "quiz": [
+        {
+          "q": "What is Burp Suite for?",
+          "options": [
+            "Scanning networks",
+            "Testing web applications for security holes",
+            "Capturing traffic",
+            "Encrypting files"
+          ],
+          "answer": 1,
+          "explain": "Burp Suite sits between your browser and a website, letting you inspect and change requests to find web flaws."
+        },
+        {
+          "q": "What is Metasploit?",
+          "options": [
+            "A firewall",
+            "A framework for testing known vulnerabilities safely",
+            "A kind of virus",
+            "A password manager"
+          ],
+          "answer": 1,
+          "explain": "Metasploit is a toolkit for testing whether known vulnerabilities can be exploited, used by professionals with permission."
+        },
+        {
+          "q": "Why only test systems you own or have permission for?",
+          "options": [
+            "It is slower",
+            "Because testing without permission is illegal and can be treated as a crime",
+            "It is harder",
+            "It costs money"
+          ],
+          "answer": 1,
+          "explain": "Unauthorised testing is illegal, even with good intentions. Always get written permission first."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Nmap: Finding Devices on a Network",
+      "goal": "Scan a network with Nmap and read the results.",
+      "video": {
+        "youtube_id": "fQbBPa0ADvs",
+        "title": "Computer Networking Fundamentals Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Run a simple scan of your lab network with nmap 192.168.1.0/24.",
+        "List the devices Nmap found and their open ports.",
+        "Scan one device in detail to see which services it runs.",
+        "Save the results to a file for your notes."
+      ],
+      "task": "Scan your lab network and write down every device and open port you find.",
+      "challenge": "Close one port you do not need on your own VM.",
+      "quiz": [
+        {
+          "q": "What does Nmap do?",
+          "options": [
+            "It draws maps",
+            "It scans networks to find devices, open ports and services",
+            "It blocks attacks",
+            "It encrypts data"
+          ],
+          "answer": 1,
+          "explain": "Nmap probes a network and reports which devices are there and what services they offer."
+        },
+        {
+          "q": "What is a port?",
+          "options": [
+            "A kind of cable",
+            "A numbered door on a computer that a service listens on, like port 80 for websites",
+            "A password",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A port is a numbered endpoint. Services listen on ports: 80 for web, 22 for SSH, 443 for secure web."
+        },
+        {
+          "q": "Why close ports you do not need?",
+          "options": [
+            "To make it faster",
+            "Because every open port is a possible way in for an attacker",
+            "To save battery",
+            "To hide the computer"
+          ],
+          "answer": 1,
+          "explain": "Open ports are doors. Every open door is a chance for an attacker, so close the ones you do not use."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Incident Response: What to Do When Hacked",
+      "goal": "Learn the steps to take when something goes wrong.",
+      "video": {
+        "youtube_id": "sWbUDq4S6Y8",
+        "title": "Introduction to Linux – Full Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Learn the six steps: prepare, detect, contain, remove, recover, learn.",
+        "Practise the first step: disconnect the affected device from the network.",
+        "Learn what evidence to save before you clean up.",
+        "Write a one-page incident plan for your own computer."
+      ],
+      "task": "Write your personal incident plan: what to do first, who to call, what to save.",
+      "challenge": "Practise the plan with a pretend incident: a suspicious email you clicked.",
+      "quiz": [
+        {
+          "q": "What is the first thing to do when you suspect a hack?",
+          "options": [
+            "Delete everything",
+            "Disconnect from the network to stop the spread, then assess",
+            "Restart the computer",
+            "Ignore it"
+          ],
+          "answer": 1,
+          "explain": "Disconnecting stops the attacker from reaching more devices and stops data leaving."
+        },
+        {
+          "q": "Why save evidence before cleaning up?",
+          "options": [
+            "To show off",
+            "So you can work out what happened and prove it if needed",
+            "To waste time",
+            "To hide it"
+          ],
+          "answer": 1,
+          "explain": "Logs and files show what the attacker did. Cleaning up first destroys the clues."
+        },
+        {
+          "q": "What is the last step of incident response?",
+          "options": [
+            "Delete everything",
+            "Learn from it: fix the hole and update your defences",
+            "Ignore it",
+            "Buy a new computer"
+          ],
+          "answer": 1,
+          "explain": "After recovery, learn from the incident: fix the weakness so it cannot happen again the same way."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Security for Small Business",
+      "goal": "Apply what you learned to protect a small business.",
+      "video": {
+        "youtube_id": "iBy5PdTpIYs",
+        "title": "CompTIA Security+ SY0-701 - Full Course 2026",
+        "channel": "Computer Networks Decoded"
+      },
+      "steps": [
+        "List the five most common attacks on small businesses.",
+        "Write a simple password policy: unique passwords, a manager, 2FA.",
+        "Write a backup rule and a software update rule.",
+        "Write a one-page staff guide: how to spot phishing and what to do."
+      ],
+      "task": "Write a one-page security guide for a small business.",
+      "challenge": "Teach one person the three signs of phishing.",
+      "quiz": [
+        {
+          "q": "Why are small businesses targeted?",
+          "options": [
+            "They have more money",
+            "Because their defences are usually weaker and they still hold valuable data",
+            "They are easier to find",
+            "They have no data"
+          ],
+          "answer": 1,
+          "explain": "Attackers target small businesses because they are easier to break into than big companies, and their data is still valuable."
+        },
+        {
+          "q": "What is a password policy?",
+          "options": [
+            "A kind of firewall",
+            "Simple rules for passwords: unique, long, in a manager, with 2FA",
+            "A backup plan",
+            "A kind of virus"
+          ],
+          "answer": 1,
+          "explain": "A password policy is a short set of rules everyone follows, so passwords stop being the weak link."
+        },
+        {
+          "q": "Why train staff about phishing?",
+          "options": [
+            "To waste time",
+            "Because staff are the first line of defence: one click can open the door",
+            "To make them paranoid",
+            "To hide data"
+          ],
+          "answer": 1,
+          "explain": "Most breaches start with one person clicking one bad link. Training turns staff into a defence, not a weakness."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Careers in Cybersecurity and Certifications",
+      "goal": "Learn how to turn these skills into a job.",
+      "video": {
+        "youtube_id": "ypNKKYUJE5o",
+        "title": "Can you find the bug? JavaScript security vulnerabilities course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "List the main job roles: analyst, penetration tester, engineer and consultant.",
+        "Learn what CompTIA Security+, CEH and CISSP are for.",
+        "Find one entry-level job advert and list the skills it asks for.",
+        "Write a plan for your next three months of learning."
+      ],
+      "task": "Find three entry-level cybersecurity jobs and list the skills they ask for.",
+      "challenge": "Pick one certification to aim for and write your study plan.",
+      "quiz": [
+        {
+          "q": "What does a security analyst do?",
+          "options": [
+            "Hacks websites",
+            "Watches for threats, investigates alerts and helps fix problems",
+            "Sells antivirus",
+            "Writes code"
+          ],
+          "answer": 1,
+          "explain": "A security analyst monitors systems, checks alerts and investigates anything suspicious."
+        },
+        {
+          "q": "What is CompTIA Security+?",
+          "options": [
+            "A kind of firewall",
+            "A well-known entry-level security certification",
+            "A programming language",
+            "A company"
+          ],
+          "answer": 1,
+          "explain": "Security+ is a popular first certification. It proves you know the basics of security."
+        },
+        {
+          "q": "What matters most for a first security job?",
+          "options": [
+            "A degree",
+            "Hands-on skills, a lab, and proof you can find and fix problems",
+            "A suit",
+            "Many certificates"
+          ],
+          "answer": 1,
+          "explain": "Employers want proof you can do the work: a home lab, projects and clear explanations beat a pile of certificates."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Security+ Study Plan",
+      "goal": "Plan your study for the CompTIA Security+ exam.",
+      "video": {
+        "youtube_id": "hXSFdwIOfnE",
+        "title": "Cyber Security Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "List the five Security+ domains and what each covers.",
+        "Rate yourself on each domain from 1 to 5.",
+        "Pick your weakest domain and study it for one hour.",
+        "Do ten practice questions and check your answers."
+      ],
+      "task": "Write your Security+ study plan with a date for each domain.",
+      "challenge": "Do twenty practice questions and note your score.",
+      "quiz": [
+        {
+          "q": "What are the Security+ domains?",
+          "options": [
+            "Five subjects",
+            "The five areas the exam covers: attacks, architecture, operations, governance and security program management",
+            "Five companies",
+            "Five tools"
+          ],
+          "answer": 1,
+          "explain": "Security+ has five domains. Knowing what each covers tells you what to study."
+        },
+        {
+          "q": "Why rate yourself per domain?",
+          "options": [
+            "To show off",
+            "So you spend study time on your weakest areas, not your strongest",
+            "To waste time",
+            "To hide gaps"
+          ],
+          "answer": 1,
+          "explain": "Rating yourself shows where to focus. Studying what you already know wastes time."
+        },
+        {
+          "q": "How should you use practice questions?",
+          "options": [
+            "Memorise the answers",
+            "Do them, check why each answer is right or wrong, and learn the idea behind it",
+            "Skip the hard ones",
+            "Copy them"
+          ],
+          "answer": 1,
+          "explain": "Practice questions teach you the ideas. Understanding why an answer is right matters more than the score."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Staying Safe on Social Media",
+      "goal": "Protect yourself on social media: privacy settings and oversharing.",
+      "video": {
+        "youtube_id": "WpET9B3gDh4",
+        "title": "Cybersecurity Engineer Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Check the privacy settings on your main social media accounts.",
+        "Turn off location sharing on your posts.",
+        "Learn what oversharing is: posting details attackers can use, like your birthday or your school.",
+        "Review your friend list and remove people you do not know."
+      ],
+      "task": "Lock down your social media privacy settings and remove one piece of overshared information.",
+      "challenge": "Turn off location tags on your photos.",
+      "quiz": [
+        {
+          "q": "What is oversharing?",
+          "options": [
+            "Posting too often",
+            "Posting personal details that attackers can use to guess passwords or trick you",
+            "Posting long videos",
+            "Posting at night"
+          ],
+          "answer": 1,
+          "explain": "Oversharing gives attackers facts: your birthday, your pet's name, your school. Those facts answer security questions."
+        },
+        {
+          "q": "Why turn off location sharing?",
+          "options": [
+            "To save battery",
+            "So strangers cannot see where you are or where you live",
+            "To make posts faster",
+            "To hide photos"
+          ],
+          "answer": 1,
+          "explain": "Location tags tell strangers where you are right now, and patterns in them can reveal where you live or work."
+        },
+        {
+          "q": "Why review your friend list?",
+          "options": [
+            "To get more likes",
+            "Because fake accounts use friend requests to see your posts and learn about you",
+            "To save space",
+            "To hide posts"
+          ],
+          "answer": 1,
+          "explain": "Fake accounts send friend requests to see private posts. Only accept people you actually know."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Privacy: Your Data, Your Rules",
+      "goal": "Understand what data companies collect and how to limit it.",
+      "video": {
+        "youtube_id": "5ck8gagw27I",
+        "title": "Cyber Security Course 2026 [FREE]",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Check what permissions your apps have and remove the ones they do not need.",
+        "Turn off ad tracking on your phone.",
+        "Learn what cookies do and clear the ones you do not need.",
+        "Use a private browser window for searches you do not want saved."
+      ],
+      "task": "Review your app permissions and remove at least three you do not need.",
+      "challenge": "Clear your browser cookies and check what changes.",
+      "quiz": [
+        {
+          "q": "What are app permissions?",
+          "options": [
+            "Passwords",
+            "The access an app has to your camera, location, contacts and files",
+            "A kind of firewall",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "Permissions let apps use your camera, location or contacts. Many apps ask for more than they need."
+        },
+        {
+          "q": "What do cookies do?",
+          "options": [
+            "They make sites faster",
+            "They remember you: logins, settings and what you looked at",
+            "They block viruses",
+            "They save battery"
+          ],
+          "answer": 1,
+          "explain": "Cookies store small bits of data in your browser so sites remember you. They also let advertisers track you."
+        },
+        {
+          "q": "Why limit data collection?",
+          "options": [
+            "To save space",
+            "Because every piece of data collected can be leaked, sold or misused",
+            "To make apps faster",
+            "To hide from friends"
+          ],
+          "answer": 1,
+          "explain": "Data you do not share cannot be leaked. Limiting collection reduces what can go wrong."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Security Project",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "DHNLSoSEEXg",
+        "title": "Learn Complete Cyber Security Course Free 2026",
+        "channel": "Intellipaat"
+      },
+      "steps": [
+        "List the projects you did and pick the strongest one to finish.",
+        "Write a short plan: the problem, the audit, the fixes and the demo.",
+        "Practise explaining your work in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your lab or your audit."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your project.",
+      "challenge": "Show your project to one person and note their questions, then improve it.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone security project?",
+          "options": [
+            "Many tools",
+            "A real audit or lab with clear findings and fixes that make something safer",
+            "Loud colours",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A good capstone finds real risks, fixes them, and shows the before and after clearly."
+        },
+        {
+          "q": "Why practise explaining your work?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your work in simple words, you really understand it. That is what employers look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the tools",
+            "The problem, the audit or lab, the fixes and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the problem, what you will audit or build, the fixes you will make and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Audit and Secure a Real System",
+    "brief": "Pick a real system to secure: your own digital life, a family member's, or a small business. Do a full audit, fix the risks, set up a safe lab to test your fixes, and present a before-and-after report with a short demo.",
+    "checks": [
+      "The project covers a real system and you can explain what it is in one sentence.",
+      "A full audit lists the assets, risks and current protections.",
+      "The top risks are fixed: unique passwords, 2FA, updates and backups.",
+      "A safe lab was used to test at least one fix.",
+      "A before-and-after report shows what changed.",
+      "The report includes a short demo or screenshots.",
+      "You can present the project in under five minutes in simple words."
+    ],
+    "deliverables": [
+      "A written audit report with assets, risks and fixes.",
+      "A before-and-after comparison of the security state.",
+      "A safe lab setup with a guide.",
+      "A short demo video or screenshots of your work.",
+      "A one-page write-up of what you learned in 30 days."
+    ]
+  }
+}

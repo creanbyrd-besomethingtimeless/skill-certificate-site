@@ -2,6 +2,14 @@
 -- Run this whole file in the Supabase dashboard: SQL Editor > New query > paste > Run.
 -- It is safe to run more than once: tables and policies use IF NOT EXISTS / DROP IF EXISTS.
 -- Requires the pgcrypto extension for gen_random_uuid().
+--
+-- MULTI-SKILL MIGRATION: the site now teaches many skills, so progress,
+-- capstone_checks and certificates each carry a skill_slug column and
+-- their unique constraints are per skill. The migration below is
+-- idempotent over the live tables that already exist: it adds the column
+-- only if missing, backfills existing rows (all full-stack until now,
+-- except certificates, whose slug is derived from the skill name), and
+-- swaps the unique constraints only when the new one can hold.
 
 create extension if not exists "pgcrypto";
 
@@ -17,30 +25,56 @@ create table if not exists public.profiles (
 );
 
 -- ---------------------------------------------------------------------------
--- progress: one row per user per day. A row exists only when the day's quiz
--- was passed at 70 percent or more.
+-- progress: one row per user per skill per day. A row exists only when the
+-- day's quiz was passed at 70 percent or more.
 -- ---------------------------------------------------------------------------
 create table if not exists public.progress (
   id uuid primary key default gen_random_uuid(),
   user_id uuid not null references auth.users (id) on delete cascade,
+  skill_slug text not null default 'full-stack-web-development',
   day integer not null check (day >= 1 and day <= 30),
   completed_at timestamptz not null default now(),
   quiz_score integer not null default 0 check (quiz_score >= 0 and quiz_score <= 100),
-  created_at timestamptz not null default now(),
-  unique (user_id, day)
+  created_at timestamptz not null default now()
 );
 
+-- Migrate live tables that were created before skill_slug existed.
+alter table public.progress add column if not exists skill_slug text;
+update public.progress set skill_slug = 'full-stack-web-development' where skill_slug is null;
+alter table public.progress alter column skill_slug set not null;
+alter table public.progress alter column skill_slug set default 'full-stack-web-development';
+alter table public.progress drop constraint if exists progress_user_id_day_key;
+do $$ begin
+  if not exists (select 1 from pg_constraint where conname = 'progress_user_skill_day_key')
+     and not exists (select user_id, skill_slug, day from public.progress group by user_id, skill_slug, day having count(*) > 1) then
+    alter table public.progress add constraint progress_user_skill_day_key unique (user_id, skill_slug, day);
+  end if;
+end $$;
+
 -- ---------------------------------------------------------------------------
--- capstone_checks: one row per user per capstone check the user has ticked.
--- Check ids are plain text, for example capstone-plan, capstone-frontend.
+-- capstone_checks: one row per user per skill per capstone check the user
+-- has ticked. Check ids are plain text, for example capstone-plan,
+-- capstone-frontend.
 -- ---------------------------------------------------------------------------
 create table if not exists public.capstone_checks (
   id uuid primary key default gen_random_uuid(),
   user_id uuid not null references auth.users (id) on delete cascade,
+  skill_slug text not null default 'full-stack-web-development',
   check_id text not null,
-  checked_at timestamptz not null default now(),
-  unique (user_id, check_id)
+  checked_at timestamptz not null default now()
 );
+
+alter table public.capstone_checks add column if not exists skill_slug text;
+update public.capstone_checks set skill_slug = 'full-stack-web-development' where skill_slug is null;
+alter table public.capstone_checks alter column skill_slug set not null;
+alter table public.capstone_checks alter column skill_slug set default 'full-stack-web-development';
+alter table public.capstone_checks drop constraint if exists capstone_checks_user_id_check_id_key;
+do $$ begin
+  if not exists (select 1 from pg_constraint where conname = 'capstone_checks_user_skill_check_key')
+     and not exists (select user_id, skill_slug, check_id from public.capstone_checks group by user_id, skill_slug, check_id having count(*) > 1) then
+    alter table public.capstone_checks add constraint capstone_checks_user_skill_check_key unique (user_id, skill_slug, check_id);
+  end if;
+end $$;
 
 -- ---------------------------------------------------------------------------
 -- certificates: one row per user per skill. Code format is SC-YYYY-XXXXXX
@@ -52,16 +86,36 @@ create table if not exists public.certificates (
   user_id uuid not null references auth.users (id) on delete cascade,
   code text not null unique,
   skill text not null,
+  skill_slug text not null default 'full-stack-web-development',
   learner_name text not null,
   issued_at timestamptz not null default now(),
-  created_at timestamptz not null default now(),
-  unique (user_id, skill)
+  created_at timestamptz not null default now()
 );
 
+alter table public.certificates add column if not exists skill_slug text;
+-- Backfill from the skill NAME, slugified, so a certificate issued for
+-- another skill keeps its own slug instead of being lumped into
+-- full-stack. Falls back to full-stack when the name slugifies to nothing.
+update public.certificates
+  set skill_slug = coalesce(nullif(btrim(lower(regexp_replace(skill, '[^a-zA-Z0-9]+', '-', 'g')), '-'), ''), 'full-stack-web-development')
+  where skill_slug is null;
+alter table public.certificates alter column skill_slug set not null;
+alter table public.certificates alter column skill_slug set default 'full-stack-web-development';
+alter table public.certificates drop constraint if exists certificates_user_id_skill_key;
+do $$ begin
+  if not exists (select 1 from pg_constraint where conname = 'certificates_user_skill_key')
+     and not exists (select user_id, skill_slug from public.certificates group by user_id, skill_slug having count(*) > 1) then
+    alter table public.certificates add constraint certificates_user_skill_key unique (user_id, skill_slug);
+  end if;
+end $$;
+
 create index if not exists progress_user_id_idx on public.progress (user_id);
+create index if not exists progress_skill_slug_idx on public.progress (skill_slug);
 create index if not exists capstone_checks_user_id_idx on public.capstone_checks (user_id);
+create index if not exists capstone_checks_skill_slug_idx on public.capstone_checks (skill_slug);
 create index if not exists certificates_code_idx on public.certificates (code);
 create index if not exists certificates_user_id_idx on public.certificates (user_id);
+create index if not exists certificates_skill_slug_idx on public.certificates (skill_slug);
 
 -- ---------------------------------------------------------------------------
 -- Row Level Security. Users only see their own rows, except certificates,

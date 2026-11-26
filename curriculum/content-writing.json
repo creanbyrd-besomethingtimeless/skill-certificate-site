@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "content-writing",
+    "title": "Content Writing",
+    "level": "Beginner",
+    "tagline": "Write articles, posts and scripts people read to the end, and build a writing portfolio.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet content writing",
+      "goal": "Learn what content writing is.",
+      "video": {
+        "youtube_id": "8t2FWD45wNA",
+        "title": "Content Writing Tutorial for Beginners | What Is Content Writing | Content Writing Jobs",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Read three blog posts you like.",
+        "Notice how they start with a hook.",
+        "Notice how they use short paragraphs.",
+        "Write down what makes them easy to read."
+      ],
+      "task": "Read three blog posts and write down what makes them easy to read.",
+      "challenge": "Read a blog post and count its paragraphs.",
+      "quiz": [
+        {
+          "q": "What is a hook in writing?",
+          "options": [
+            "The first sentence that makes people want to keep reading",
+            "The end of an article",
+            "The title of a book",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A hook is the start of your writing. It grabs the reader and makes them stay."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet content writing\"?",
+          "options": [
+            "Write a short post for social media.",
+            "Write a description that sells a product.",
+            "Write a script for a short video.",
+            "Learn what content writing is."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Learn what content writing is."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Notice how they use short paragraphs.",
+            "Write down what makes them easy to read.",
+            "Read three blog posts you like.",
+            "Notice how they start with a hook."
+          ],
+          "answer": 2,
+          "explain": "Start with: Read three blog posts you like."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Write your first paragraph",
+      "goal": "Write a short paragraph.",
+      "video": {
+        "youtube_id": "kA_qd6Yahjs",
+        "title": "How to Write a Blog Post in WordPress | Blog Post kaise likhe | SEO Friendly Article Kaise Likhe",
+        "channel": "Your Technical Guide"
+      },
+      "steps": [
+        "Pick a topic you know well.",
+        "Write one clear idea in 3 to 5 sentences.",
+        "Use short sentences.",
+        "Read it out loud. It should sound natural."
+      ],
+      "task": "Write a paragraph of 3 to 5 sentences.",
+      "challenge": "Write three paragraphs on three topics.",
+      "quiz": [
+        {
+          "q": "Why should you use short paragraphs?",
+          "options": [
+            "Because they are easier to read, especially on a phone",
+            "Because they make the article longer",
+            "Because they use fewer words",
+            "Because they look better in print"
+          ],
+          "answer": 0,
+          "explain": "Short paragraphs are easy to scan. Long blocks of text make readers leave."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write your first paragraph\"?",
+          "options": [
+            "Write three pieces in different styles.",
+            "Write your best piece yet.",
+            "Write a short paragraph.",
+            "Write a caption for a photo."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a short paragraph."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Read it out loud. It should sound natural.",
+            "Pick a topic you know well.",
+            "Write one clear idea in 3 to 5 sentences.",
+            "Use short sentences."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a topic you know well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Write a headline",
+      "goal": "Write a headline people will click.",
+      "video": {
+        "youtube_id": "xRCEEzcQAtk",
+        "title": "How to Write Content that Ranks #1 on Google",
+        "channel": "Matt Diggity"
+      },
+      "steps": [
+        "Pick a topic.",
+        "Write five headlines for it.",
+        "Keep each one under 10 words.",
+        "Pick the clearest and most interesting one."
+      ],
+      "task": "Write five headlines for one topic and pick the best.",
+      "challenge": "Look at five popular articles and write down their headlines.",
+      "quiz": [
+        {
+          "q": "What is a hook in writing?",
+          "options": [
+            "The first sentence that makes people want to keep reading",
+            "The end of an article",
+            "The title of a book",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A hook is the start of your writing. It grabs the reader and makes them stay."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a headline\"?",
+          "options": [
+            "Follow a short brief.",
+            "Write a headline people will click.",
+            "Write a short story.",
+            "Edit a piece you wrote."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Write a headline people will click."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a topic.",
+            "Write five headlines for it.",
+            "Keep each one under 10 words.",
+            "Pick the clearest and most interesting one."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a topic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Know your reader",
+      "goal": "Write for one person.",
+      "video": {
+        "youtube_id": "Q8rN3JKqUc8",
+        "title": "How To ACTUALLY Write A Blog Post From Start To Finish | Neil Patel",
+        "channel": "Neil Patel"
+      },
+      "steps": [
+        "Pick a reader, like a friend.",
+        "Write down what they care about.",
+        "Write a paragraph just for them.",
+        "Use words they use every day."
+      ],
+      "task": "Write a paragraph for one specific reader.",
+      "challenge": "Write the same idea for a child and for an adult.",
+      "quiz": [
+        {
+          "q": "Why should you use short paragraphs?",
+          "options": [
+            "Because they are easier to read, especially on a phone",
+            "Because they make the article longer",
+            "Because they use fewer words",
+            "Because they look better in print"
+          ],
+          "answer": 0,
+          "explain": "Short paragraphs are easy to scan. Long blocks of text make readers leave."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Know your reader\"?",
+          "options": [
+            "Write for one person.",
+            "Write a clear email.",
+            "Rewrite a hard paragraph in simple words.",
+            "Plan four posts for one month."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Write for one person."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down what they care about.",
+            "Write a paragraph just for them.",
+            "Use words they use every day.",
+            "Pick a reader, like a friend."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a reader, like a friend."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Write a blog post outline",
+      "goal": "Plan a blog post.",
+      "video": {
+        "youtube_id": "U5u3UbfM_KU",
+        "title": "Build a Freelance Writing Business in 5 Hours a Week (Step-by-Step Plan)",
+        "channel": "Elna Cain"
+      },
+      "steps": [
+        "Pick a topic.",
+        "Write a headline.",
+        "Write three main points.",
+        "Write a short ending."
+      ],
+      "task": "Write an outline with a headline, three points, and an ending.",
+      "challenge": "Write outlines for three blog posts.",
+      "quiz": [
+        {
+          "q": "What is a hook in writing?",
+          "options": [
+            "The first sentence that makes people want to keep reading",
+            "The end of an article",
+            "The title of a book",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A hook is the start of your writing. It grabs the reader and makes them stay."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a blog post outline\"?",
+          "options": [
+            "Write a short newsletter.",
+            "Write an article with a list.",
+            "Find the writing style you love.",
+            "Plan a blog post."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Plan a blog post."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write three main points.",
+            "Write a short ending.",
+            "Pick a topic.",
+            "Write a headline."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a topic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Write your first blog post",
+      "goal": "Write a full blog post.",
+      "video": {
+        "youtube_id": "8BdZ0dUu7VQ",
+        "title": "Content Writing for SEO: How to Create Content that Ranks in Google",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Use your outline from yesterday.",
+        "Write 300 to 500 words.",
+        "Use short paragraphs.",
+        "Read it out loud and fix any unclear parts."
+      ],
+      "task": "Write a 300-word blog post.",
+      "challenge": "Ask a friend to read your post and say what was clear.",
+      "quiz": [
+        {
+          "q": "Why should you use short paragraphs?",
+          "options": [
+            "Because they are easier to read, especially on a phone",
+            "Because they make the article longer",
+            "Because they use fewer words",
+            "Because they look better in print"
+          ],
+          "answer": 0,
+          "explain": "Short paragraphs are easy to scan. Long blocks of text make readers leave."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write your first blog post\"?",
+          "options": [
+            "Write a review of something you used.",
+            "Write a 1000-word article.",
+            "Write a full blog post.",
+            "Write a guide that teaches one thing."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a full blog post."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Read it out loud and fix any unclear parts.",
+            "Use your outline from yesterday.",
+            "Write 300 to 500 words.",
+            "Use short paragraphs."
+          ],
+          "answer": 1,
+          "explain": "Start with: Use your outline from yesterday."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Write a blog post",
+      "goal": "Write and publish a blog post.",
+      "video": {
+        "youtube_id": "q0Ujy3EN0lk",
+        "title": "How to Write an SEO Friendly Article",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a topic.",
+        "Write 300 to 500 words.",
+        "Add a headline and subheadings.",
+        "Share it with a friend or post it online."
+      ],
+      "task": "Write and share a blog post.",
+      "challenge": "Write a blog post about something you learned this week.",
+      "quiz": [
+        {
+          "q": "What is a hook in writing?",
+          "options": [
+            "The first sentence that makes people want to keep reading",
+            "The end of an article",
+            "The title of a book",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A hook is the start of your writing. It grabs the reader and makes them stay."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a blog post\"?",
+          "options": [
+            "Pick your best pieces.",
+            "Write and publish a blog post.",
+            "Write a description that sells a product.",
+            "Write a script for a short video."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Write and publish a blog post."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a topic.",
+            "Write 300 to 500 words.",
+            "Add a headline and subheadings.",
+            "Share it with a friend or post it online."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a topic."
+        }
+      ],
+      "project": {
+        "title": "Write a Blog Post",
+        "brief": "Write and share a blog post.",
+        "checks": [
+          "Post is 300 to 500 words",
+          "Has a clear headline",
+          "Has short paragraphs",
+          "No spelling mistakes",
+          "Shared with a friend or online",
+          "Feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Write a social media post",
+      "goal": "Write a short post for social media.",
+      "video": {
+        "youtube_id": "DvwS7cV9GmQ",
+        "title": "SEO For Beginners: A Basic Search Engine Optimization Tutorial for Higher Google Rankings",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a topic.",
+        "Write it in under 50 words.",
+        "Add a question at the end.",
+        "Post it and see what people say."
+      ],
+      "task": "Write a social media post under 50 words.",
+      "challenge": "Write three social posts on one topic.",
+      "quiz": [
+        {
+          "q": "What is a headline?",
+          "options": [
+            "The title of an article or post",
+            "The first paragraph",
+            "The last sentence",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A headline is the title. It tells readers what the piece is about and makes them click."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a social media post\"?",
+          "options": [
+            "Write a short post for social media.",
+            "Write three pieces in different styles.",
+            "Write your best piece yet.",
+            "Write a pitch to a client."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Write a short post for social media."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write it in under 50 words.",
+            "Add a question at the end.",
+            "Post it and see what people say.",
+            "Pick a topic."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a topic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Write a caption",
+      "goal": "Write a caption for a photo.",
+      "video": {
+        "youtube_id": "Ml4mQJjgX6g",
+        "title": "Blogging Tips for Beginners That Actually Work",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a photo.",
+        "Write one sentence about it.",
+        "Add a question or a call to action.",
+        "Post it with the photo."
+      ],
+      "task": "Write a caption for a photo.",
+      "challenge": "Write captions for three photos.",
+      "quiz": [
+        {
+          "q": "What is an outline?",
+          "options": [
+            "A plan that lists the main points of your writing before you start",
+            "A finished article",
+            "A type of headline",
+            "A spell checker"
+          ],
+          "answer": 0,
+          "explain": "An outline is a plan. It lists your headline, main points and ending before you write."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a caption\"?",
+          "options": [
+            "Edit a piece you wrote.",
+            "Follow a short brief.",
+            "Write a post for someone else's blog.",
+            "Write a caption for a photo."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Write a caption for a photo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a question or a call to action.",
+            "Post it with the photo.",
+            "Pick a photo.",
+            "Write one sentence about it."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a photo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Tell a story",
+      "goal": "Write a short story.",
+      "video": {
+        "youtube_id": "-kOT39l0omU",
+        "title": "How to Write a Blog Post That Actually Gets Traffic",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a true story from your life.",
+        "Write it in three parts: start, middle, end.",
+        "Use short sentences.",
+        "Read it out loud."
+      ],
+      "task": "Write a short true story.",
+      "challenge": "Write a story about your morning.",
+      "quiz": [
+        {
+          "q": "What is a headline?",
+          "options": [
+            "The title of an article or post",
+            "The first paragraph",
+            "The last sentence",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A headline is the title. It tells readers what the piece is about and makes them click."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Tell a story\"?",
+          "options": [
+            "Plan four posts for one month.",
+            "Pick your best work and say why it works.",
+            "Write a short story.",
+            "Rewrite a hard paragraph in simple words."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a short story."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Read it out loud.",
+            "Pick a true story from your life.",
+            "Write it in three parts: start, middle, end.",
+            "Use short sentences."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a true story from your life."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Write an email",
+      "goal": "Write a clear email.",
+      "video": {
+        "youtube_id": "0R_3iarc8IA",
+        "title": "Content Marketing For Beginners: Complete Guide",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a topic for an email.",
+        "Write a clear subject line.",
+        "Write the email in short paragraphs.",
+        "End with a clear next step."
+      ],
+      "task": "Write a clear email.",
+      "challenge": "Write an email to a friend about a project.",
+      "quiz": [
+        {
+          "q": "What is an outline?",
+          "options": [
+            "A plan that lists the main points of your writing before you start",
+            "A finished article",
+            "A type of headline",
+            "A spell checker"
+          ],
+          "answer": 0,
+          "explain": "An outline is a plan. It lists your headline, main points and ending before you write."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write an email\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Write a clear email.",
+            "Write an article with a list.",
+            "Find the writing style you love."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Write a clear email."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a topic for an email.",
+            "Write a clear subject line.",
+            "Write the email in short paragraphs.",
+            "End with a clear next step."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a topic for an email."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Write a newsletter",
+      "goal": "Write a short newsletter.",
+      "video": {
+        "youtube_id": "jqEoZsIOrYw",
+        "title": "How to Write the Perfect Title Tag to Increase Your Click-Through Rate (CTR)",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick three things to share.",
+        "Write one paragraph for each.",
+        "Add a headline.",
+        "Send it to three friends."
+      ],
+      "task": "Write a short newsletter with three items.",
+      "challenge": "Write a newsletter for a small business.",
+      "quiz": [
+        {
+          "q": "What is a headline?",
+          "options": [
+            "The title of an article or post",
+            "The first paragraph",
+            "The last sentence",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A headline is the title. It tells readers what the piece is about and makes them click."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a newsletter\"?",
+          "options": [
+            "Write a short newsletter.",
+            "Write a review of something you used.",
+            "Write a 1000-word article.",
+            "Learn what content writing is."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Write a short newsletter."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one paragraph for each.",
+            "Add a headline.",
+            "Send it to three friends.",
+            "Pick three things to share."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick three things to share."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Write a how-to guide",
+      "goal": "Write a guide that teaches one thing.",
+      "video": {
+        "youtube_id": "fEaoxnf9KNE",
+        "title": "Use These Blog Post Templates to Write Better SEO Content",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick one simple thing to teach.",
+        "Write the steps in order.",
+        "Use numbers for each step.",
+        "Ask a friend to follow your guide."
+      ],
+      "task": "Write a how-to guide with numbered steps.",
+      "challenge": "Ask a friend to follow your guide and tell you what was unclear.",
+      "quiz": [
+        {
+          "q": "What is an outline?",
+          "options": [
+            "A plan that lists the main points of your writing before you start",
+            "A finished article",
+            "A type of headline",
+            "A spell checker"
+          ],
+          "answer": 0,
+          "explain": "An outline is a plan. It lists your headline, main points and ending before you write."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a how-to guide\"?",
+          "options": [
+            "Write a script for a short video.",
+            "Pick your best pieces.",
+            "Write a short paragraph.",
+            "Write a guide that teaches one thing."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Write a guide that teaches one thing."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use numbers for each step.",
+            "Ask a friend to follow your guide.",
+            "Pick one simple thing to teach.",
+            "Write the steps in order."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick one simple thing to teach."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Write a product description",
+      "goal": "Write a description that sells a product.",
+      "video": {
+        "youtube_id": "kNbdu-bov24",
+        "title": "How to Write an Excellent Blog Post (Tips for Beginners)",
+        "channel": "Video Information Producer"
+      },
+      "steps": [
+        "Pick a product.",
+        "Write what it is and what it does.",
+        "Write why it is good.",
+        "Keep it under 100 words."
+      ],
+      "task": "Write a product description under 100 words.",
+      "challenge": "Write descriptions for three products.",
+      "quiz": [
+        {
+          "q": "What is a headline?",
+          "options": [
+            "The title of an article or post",
+            "The first paragraph",
+            "The last sentence",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A headline is the title. It tells readers what the piece is about and makes them click."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a product description\"?",
+          "options": [
+            "Write a pitch to a client.",
+            "Write a headline people will click.",
+            "Write a description that sells a product.",
+            "Write your best piece yet."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a description that sells a product."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Keep it under 100 words.",
+            "Pick a product.",
+            "Write what it is and what it does.",
+            "Write why it is good."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a product."
+        }
+      ],
+      "project": {
+        "title": "Write Three Pieces",
+        "brief": "Write three pieces in different styles.",
+        "checks": [
+          "Blog post written",
+          "Social media post written",
+          "Product description written",
+          "All three are clear",
+          "No spelling mistakes",
+          "Saved in one folder"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Your first writing set",
+      "goal": "Write three pieces in different styles.",
+      "video": {
+        "youtube_id": "8t2FWD45wNA",
+        "title": "Content Writing Tutorial for Beginners | What Is Content Writing | Content Writing Jobs",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Write a blog post.",
+        "Write a social media post.",
+        "Write a product description.",
+        "Save all three in a folder called My First Set."
+      ],
+      "task": "Write three pieces in different styles.",
+      "challenge": "Show your three pieces to a friend.",
+      "quiz": [
+        {
+          "q": "Why should you know your reader?",
+          "options": [
+            "So you can use words they understand and talk about what they care about",
+            "So the article is longer",
+            "So the article is shorter",
+            "So you can use hard words"
+          ],
+          "answer": 0,
+          "explain": "Knowing your reader helps you pick the right words and topics. Write for one person, not everyone."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first writing set\"?",
+          "options": [
+            "Write for one person.",
+            "Write three pieces in different styles.",
+            "Follow a short brief.",
+            "Write a post for someone else's blog."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Write three pieces in different styles."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write a blog post.",
+            "Write a social media post.",
+            "Write a product description.",
+            "Save all three in a folder called My First Set."
+          ],
+          "answer": 0,
+          "explain": "Start with: Write a blog post."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Edit your writing",
+      "goal": "Edit a piece you wrote.",
+      "video": {
+        "youtube_id": "kA_qd6Yahjs",
+        "title": "How to Write a Blog Post in WordPress | Blog Post kaise likhe | SEO Friendly Article Kaise Likhe",
+        "channel": "Your Technical Guide"
+      },
+      "steps": [
+        "Read it out loud.",
+        "Cut any sentence that is not needed.",
+        "Fix spelling mistakes.",
+        "Read it again. It should sound clear."
+      ],
+      "task": "Edit a blog post you wrote.",
+      "challenge": "Edit the same post twice and pick the better version.",
+      "quiz": [
+        {
+          "q": "What is editing?",
+          "options": [
+            "Reading your work again to cut, fix and make it clearer",
+            "Writing the first draft",
+            "Choosing a headline",
+            "Publishing an article"
+          ],
+          "answer": 0,
+          "explain": "Editing is fixing your draft. You cut extra words, fix mistakes and make it clear."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit your writing\"?",
+          "options": [
+            "Edit a piece you wrote.",
+            "Plan four posts for one month.",
+            "Pick your best work and say why it works.",
+            "Plan a blog post."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Edit a piece you wrote."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Cut any sentence that is not needed.",
+            "Fix spelling mistakes.",
+            "Read it again. It should sound clear.",
+            "Read it out loud."
+          ],
+          "answer": 3,
+          "explain": "Start with: Read it out loud."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Write with simple words",
+      "goal": "Rewrite a hard paragraph in simple words.",
+      "video": {
+        "youtube_id": "xRCEEzcQAtk",
+        "title": "How to Write Content that Ranks #1 on Google",
+        "channel": "Matt Diggity"
+      },
+      "steps": [
+        "Pick a paragraph with hard words.",
+        "Replace each hard word with a simple one.",
+        "Read it out loud.",
+        "It should be easy for anyone to understand."
+      ],
+      "task": "Rewrite a hard paragraph in simple words.",
+      "challenge": "Write a paragraph using only words a 12-year-old would know.",
+      "quiz": [
+        {
+          "q": "Why should you know your reader?",
+          "options": [
+            "So you can use words they understand and talk about what they care about",
+            "So the article is longer",
+            "So the article is shorter",
+            "So you can use hard words"
+          ],
+          "answer": 0,
+          "explain": "Knowing your reader helps you pick the right words and topics. Write for one person, not everyone."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write with simple words\"?",
+          "options": [
+            "Find the writing style you love.",
+            "Write a simple plan to keep getting better.",
+            "Write a full blog post.",
+            "Rewrite a hard paragraph in simple words."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Rewrite a hard paragraph in simple words."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Read it out loud.",
+            "It should be easy for anyone to understand.",
+            "Pick a paragraph with hard words.",
+            "Replace each hard word with a simple one."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a paragraph with hard words."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Write a list article",
+      "goal": "Write an article with a list.",
+      "video": {
+        "youtube_id": "Q8rN3JKqUc8",
+        "title": "How To ACTUALLY Write A Blog Post From Start To Finish | Neil Patel",
+        "channel": "Neil Patel"
+      },
+      "steps": [
+        "Pick a topic, like 5 tips for better sleep.",
+        "Write five tips.",
+        "Write one sentence for each tip.",
+        "Add a headline and publish it."
+      ],
+      "task": "Write a list article with five tips.",
+      "challenge": "Write a list article with ten tips.",
+      "quiz": [
+        {
+          "q": "What is editing?",
+          "options": [
+            "Reading your work again to cut, fix and make it clearer",
+            "Writing the first draft",
+            "Choosing a headline",
+            "Publishing an article"
+          ],
+          "answer": 0,
+          "explain": "Editing is fixing your draft. You cut extra words, fix mistakes and make it clear."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a list article\"?",
+          "options": [
+            "Learn what content writing is.",
+            "Write and publish a blog post.",
+            "Write an article with a list.",
+            "Write a 1000-word article."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write an article with a list."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a headline and publish it.",
+            "Pick a topic, like 5 tips for better sleep.",
+            "Write five tips.",
+            "Write one sentence for each tip."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a topic, like 5 tips for better sleep."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Write a review",
+      "goal": "Write a review of something you used.",
+      "video": {
+        "youtube_id": "U5u3UbfM_KU",
+        "title": "Build a Freelance Writing Business in 5 Hours a Week (Step-by-Step Plan)",
+        "channel": "Elna Cain"
+      },
+      "steps": [
+        "Pick a product or a book.",
+        "Write what you liked.",
+        "Write what you did not like.",
+        "Give it a score out of 5."
+      ],
+      "task": "Write a review of a product you used.",
+      "challenge": "Write a review of a book you read.",
+      "quiz": [
+        {
+          "q": "Why should you know your reader?",
+          "options": [
+            "So you can use words they understand and talk about what they care about",
+            "So the article is longer",
+            "So the article is shorter",
+            "So you can use hard words"
+          ],
+          "answer": 0,
+          "explain": "Knowing your reader helps you pick the right words and topics. Write for one person, not everyone."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a review\"?",
+          "options": [
+            "Write a short post for social media.",
+            "Write a review of something you used.",
+            "Pick your best pieces.",
+            "Write a short paragraph."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Write a review of something you used."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a product or a book.",
+            "Write what you liked.",
+            "Write what you did not like.",
+            "Give it a score out of 5."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a product or a book."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Write a script",
+      "goal": "Write a script for a short video.",
+      "video": {
+        "youtube_id": "8BdZ0dUu7VQ",
+        "title": "Content Writing for SEO: How to Create Content that Ranks in Google",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a topic for a 1-minute video.",
+        "Write a hook.",
+        "Write three main points.",
+        "Write a short ending."
+      ],
+      "task": "Write a script for a 1-minute video.",
+      "challenge": "Read your script out loud and time it.",
+      "quiz": [
+        {
+          "q": "What is editing?",
+          "options": [
+            "Reading your work again to cut, fix and make it clearer",
+            "Writing the first draft",
+            "Choosing a headline",
+            "Publishing an article"
+          ],
+          "answer": 0,
+          "explain": "Editing is fixing your draft. You cut extra words, fix mistakes and make it clear."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a script\"?",
+          "options": [
+            "Write a script for a short video.",
+            "Write a pitch to a client.",
+            "Write a headline people will click.",
+            "Write a caption for a photo."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Write a script for a short video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write a hook.",
+            "Write three main points.",
+            "Write a short ending.",
+            "Pick a topic for a 1-minute video."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a topic for a 1-minute video."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Write a portfolio piece",
+      "goal": "Write your best piece yet.",
+      "video": {
+        "youtube_id": "q0Ujy3EN0lk",
+        "title": "How to Write an SEO Friendly Article",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick your best topic.",
+        "Write 500 words.",
+        "Edit it twice.",
+        "Save it in a folder called Portfolio."
+      ],
+      "task": "Write a 500-word piece for your portfolio.",
+      "challenge": "Ask a friend to read it and give feedback.",
+      "quiz": [
+        {
+          "q": "Why should you know your reader?",
+          "options": [
+            "So you can use words they understand and talk about what they care about",
+            "So the article is longer",
+            "So the article is shorter",
+            "So you can use hard words"
+          ],
+          "answer": 0,
+          "explain": "Knowing your reader helps you pick the right words and topics. Write for one person, not everyone."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a portfolio piece\"?",
+          "options": [
+            "Write a post for someone else's blog.",
+            "Write for one person.",
+            "Write a short story.",
+            "Write your best piece yet."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Write your best piece yet."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit it twice.",
+            "Save it in a folder called Portfolio.",
+            "Pick your best topic.",
+            "Write 500 words."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick your best topic."
+        }
+      ],
+      "project": {
+        "title": "Write a Portfolio Piece",
+        "brief": "Write a 500-word piece for your portfolio.",
+        "checks": [
+          "Piece is about 500 words",
+          "Has a clear headline",
+          "Has short paragraphs",
+          "Edited twice",
+          "No spelling mistakes",
+          "Saved in a portfolio folder"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Write for a client",
+      "goal": "Follow a short brief.",
+      "video": {
+        "youtube_id": "DvwS7cV9GmQ",
+        "title": "SEO For Beginners: A Basic Search Engine Optimization Tutorial for Higher Google Rankings",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Read this brief: a blog post about a coffee shop.",
+        "Write 300 words.",
+        "Use a friendly tone.",
+        "Check it against the brief."
+      ],
+      "task": "Write a blog post from a short brief.",
+      "challenge": "Ask a friend to write you a brief and follow it.",
+      "quiz": [
+        {
+          "q": "What is a portfolio for a writer?",
+          "options": [
+            "A set of your best pieces that shows clients what you can do",
+            "A type of headline",
+            "A writing app",
+            "A list of clients"
+          ],
+          "answer": 0,
+          "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write for a client\"?",
+          "options": [
+            "Plan a blog post.",
+            "Write a clear email.",
+            "Follow a short brief.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Follow a short brief."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Check it against the brief.",
+            "Read this brief: a blog post about a coffee shop.",
+            "Write 300 words.",
+            "Use a friendly tone."
+          ],
+          "answer": 1,
+          "explain": "Start with: Read this brief: a blog post about a coffee shop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Write a month of posts",
+      "goal": "Plan four posts for one month.",
+      "video": {
+        "youtube_id": "Ml4mQJjgX6g",
+        "title": "Blogging Tips for Beginners That Actually Work",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a topic.",
+        "Plan one post for each week.",
+        "Write all four posts.",
+        "Save them in a folder called Month Plan."
+      ],
+      "task": "Plan and write four posts for one month.",
+      "challenge": "Write the headlines for your four posts.",
+      "quiz": [
+        {
+          "q": "What is a call to action in writing?",
+          "options": [
+            "Asking readers to do something, like comment or share",
+            "The end of an article",
+            "The title of a book",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks readers to do something, like comment, share or buy."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a month of posts\"?",
+          "options": [
+            "Write a short newsletter.",
+            "Plan four posts for one month.",
+            "Write a simple plan to keep getting better.",
+            "Write a full blog post."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Plan four posts for one month."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a topic.",
+            "Plan one post for each week.",
+            "Write all four posts.",
+            "Save them in a folder called Month Plan."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a topic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Build your style",
+      "goal": "Find the writing style you love.",
+      "video": {
+        "youtube_id": "-kOT39l0omU",
+        "title": "How to Write a Blog Post That Actually Gets Traffic",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Look at all the pieces you wrote this month.",
+        "Pick the three you love most.",
+        "Write down what they have in common.",
+        "Write two more pieces in that style."
+      ],
+      "task": "Pick your three favorite pieces and find what they have in common.",
+      "challenge": "Write two new pieces in your favorite style.",
+      "quiz": [
+        {
+          "q": "What is a portfolio for a writer?",
+          "options": [
+            "A set of your best pieces that shows clients what you can do",
+            "A type of headline",
+            "A writing app",
+            "A list of clients"
+          ],
+          "answer": 0,
+          "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build your style\"?",
+          "options": [
+            "Find the writing style you love.",
+            "Learn what content writing is.",
+            "Write and publish a blog post.",
+            "Write a guide that teaches one thing."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Find the writing style you love."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick the three you love most.",
+            "Write down what they have in common.",
+            "Write two more pieces in that style.",
+            "Look at all the pieces you wrote this month."
+          ],
+          "answer": 3,
+          "explain": "Start with: Look at all the pieces you wrote this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Write a long article",
+      "goal": "Write a 1000-word article.",
+      "video": {
+        "youtube_id": "0R_3iarc8IA",
+        "title": "Content Marketing For Beginners: Complete Guide",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a topic you know well.",
+        "Write an outline.",
+        "Write 1000 words.",
+        "Edit it and share it."
+      ],
+      "task": "Write a 1000-word article.",
+      "challenge": "Write a 1000-word article and ask a friend to read it.",
+      "quiz": [
+        {
+          "q": "What is a call to action in writing?",
+          "options": [
+            "Asking readers to do something, like comment or share",
+            "The end of an article",
+            "The title of a book",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks readers to do something, like comment, share or buy."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a long article\"?",
+          "options": [
+            "Write a short paragraph.",
+            "Write a short post for social media.",
+            "Write a description that sells a product.",
+            "Write a 1000-word article."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Write a 1000-word article."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write 1000 words.",
+            "Edit it and share it.",
+            "Pick a topic you know well.",
+            "Write an outline."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a topic you know well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Make a writing portfolio",
+      "goal": "Pick your best pieces.",
+      "video": {
+        "youtube_id": "jqEoZsIOrYw",
+        "title": "How to Write the Perfect Title Tag to Increase Your Click-Through Rate (CTR)",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Look at all the pieces you wrote this month.",
+        "Pick your best five.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each piece."
+      ],
+      "task": "Pick your best five pieces and save them in a portfolio.",
+      "challenge": "Show your portfolio to a friend and ask which piece is best.",
+      "quiz": [
+        {
+          "q": "What is a portfolio for a writer?",
+          "options": [
+            "A set of your best pieces that shows clients what you can do",
+            "A type of headline",
+            "A writing app",
+            "A list of clients"
+          ],
+          "answer": 0,
+          "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a writing portfolio\"?",
+          "options": [
+            "Write a caption for a photo.",
+            "Write three pieces in different styles.",
+            "Pick your best pieces.",
+            "Write a headline people will click."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Pick your best pieces."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about each piece.",
+            "Look at all the pieces you wrote this month.",
+            "Pick your best five.",
+            "Save them in a folder called Portfolio."
+          ],
+          "answer": 1,
+          "explain": "Start with: Look at all the pieces you wrote this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Pitch a client",
+      "goal": "Write a pitch to a client.",
+      "video": {
+        "youtube_id": "fEaoxnf9KNE",
+        "title": "Use These Blog Post Templates to Write Better SEO Content",
+        "channel": "Ahrefs"
+      },
+      "steps": [
+        "Pick a business.",
+        "Write a short email offering your writing.",
+        "Include a link to your portfolio.",
+        "Send it or save it as a draft."
+      ],
+      "task": "Write a pitch email to a business.",
+      "challenge": "Write pitches for three businesses.",
+      "quiz": [
+        {
+          "q": "What is a call to action in writing?",
+          "options": [
+            "Asking readers to do something, like comment or share",
+            "The end of an article",
+            "The title of a book",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks readers to do something, like comment, share or buy."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Pitch a client\"?",
+          "options": [
+            "Edit a piece you wrote.",
+            "Write a pitch to a client.",
+            "Write for one person.",
+            "Write a short story."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Write a pitch to a client."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a business.",
+            "Write a short email offering your writing.",
+            "Include a link to your portfolio.",
+            "Send it or save it as a draft."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Write a guest post",
+      "goal": "Write a post for someone else's blog.",
+      "video": {
+        "youtube_id": "kNbdu-bov24",
+        "title": "How to Write an Excellent Blog Post (Tips for Beginners)",
+        "channel": "Video Information Producer"
+      },
+      "steps": [
+        "Pick a blog you like.",
+        "Read two of its posts.",
+        "Write a post in the same style.",
+        "Save it as a draft."
+      ],
+      "task": "Write a guest post in the style of a blog you like.",
+      "challenge": "Write a guest post pitch to a real blog.",
+      "quiz": [
+        {
+          "q": "What is a portfolio for a writer?",
+          "options": [
+            "A set of your best pieces that shows clients what you can do",
+            "A type of headline",
+            "A writing app",
+            "A list of clients"
+          ],
+          "answer": 0,
+          "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Write a guest post\"?",
+          "options": [
+            "Write a post for someone else's blog.",
+            "Plan a blog post.",
+            "Write a clear email.",
+            "Rewrite a hard paragraph in simple words."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Write a post for someone else's blog."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Read two of its posts.",
+            "Write a post in the same style.",
+            "Save it as a draft.",
+            "Pick a blog you like."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a blog you like."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "8t2FWD45wNA",
+        "title": "Content Writing Tutorial for Beginners | What Is Content Writing | Content Writing Jobs",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three pieces.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three pieces and write why each one works.",
+      "challenge": "Show your best piece to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a call to action in writing?",
+          "options": [
+            "Asking readers to do something, like comment or share",
+            "The end of an article",
+            "The title of a book",
+            "A type of font"
+          ],
+          "answer": 0,
+          "explain": "A call to action asks readers to do something, like comment, share or buy."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Write a full blog post.",
+            "Write a short newsletter.",
+            "Write an article with a list.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three pieces."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "kA_qd6Yahjs",
+        "title": "How to Write a Blog Post in WordPress | Blog Post kaise likhe | SEO Friendly Article Kaise Likhe",
+        "channel": "Your Technical Guide"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your writing.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is a portfolio for a writer?",
+          "options": [
+            "A set of your best pieces that shows clients what you can do",
+            "A type of headline",
+            "A writing app",
+            "A list of clients"
+          ],
+          "answer": 0,
+          "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Write a guide that teaches one thing.",
+            "Write a review of something you used.",
+            "Write a simple plan to keep getting better.",
+            "Write and publish a blog post."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your First Writing Portfolio",
+    "brief": "Build a portfolio of five pieces: a blog post, a how-to guide, a product description, a social media set, and a long article. Each piece is edited and ready to show a client.",
+    "checks": [
+      "Five pieces in total",
+      "Blog post included",
+      "How-to guide included",
+      "Product description included",
+      "Social media set included",
+      "Long article included",
+      "All pieces edited and saved in one folder"
+    ],
+    "deliverables": [
+      "Blog post",
+      "How-to guide",
+      "Product description",
+      "Social media set",
+      "Long article"
+    ]
+  }
+}

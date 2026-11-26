@@ -16,10 +16,11 @@
 <header class="site-header">
   <div class="container">
     <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <button type="button" class="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
     <nav class="main-nav">
       <a href="index.html">Home</a>
-      <a href="dashboard.html">Dashboard</a>
-      <a href="learn.html">Learn</a>
+      <a href="dashboard.html" id="nav-dashboard">Dashboard</a>
+      <a href="learn.html" id="nav-learn">Learn</a>
       <a href="certificate.html" class="active">Certificate</a>
       <button type="button" class="btn ghost small" data-sign-out>Sign out</button>
     </nav>
@@ -29,8 +30,8 @@
 <main class="section">
   <div class="container">
     <div class="notice hidden" data-setup-notice></div>
-    <h2 style="color:var(--navy)">Your certificate</h2>
-    <p class="muted">Full-Stack Web Development. It unlocks when all 30 days are complete and every capstone check is ticked.</p>
+    <h2 style="color:var(--navy)" id="cert-skill-title">Your certificate</h2>
+    <p class="muted" id="cert-skill-intro">Full-Stack Web Development. It unlocks when all 30 days are complete and every capstone check is ticked.</p>
 
     <div id="cert-status" class="success-box hidden"></div>
     <div id="cert-error" class="error hidden"></div>
@@ -39,7 +40,8 @@
     <div id="cert-locked" class="card hidden">
       <h3>Not unlocked yet</h3>
       <p id="cert-locked-detail">Finish all 30 days and tick every capstone check to unlock your certificate.</p>
-      <p><a class="btn" href="learn.html">Continue learning</a></p>
+      <p><a class="btn" href="learn.html" id="cert-continue-link">Continue learning</a></p>
+      <p><a id="cert-dashboard-link" href="dashboard.html">Back to dashboard</a> &middot; <a href="index.html#catalog">Browse all skills</a></p>
     </div>
 
     <div id="cert-ready" class="hidden">
@@ -79,6 +81,12 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
   window.SkillCertificate.initCertificatePage();
+  /* Keep the header nav on this skill (?skill=, default full-stack). */
+  var certSlug = window.SkillCourse ? window.SkillCourse.skillSlugFromUrl() : "full-stack-web-development";
+  var navDash = document.getElementById("nav-dashboard");
+  if (navDash) navDash.href = "dashboard.html?skill=" + encodeURIComponent(certSlug);
+  var navLearn = document.getElementById("nav-learn");
+  if (navLearn) navLearn.href = "learn.html?skill=" + encodeURIComponent(certSlug);
 });
 </script>
 </body>

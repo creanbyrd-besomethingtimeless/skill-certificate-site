@@ -1,0 +1,1720 @@
+{
+  "course": {
+    "id": "boxing-basics",
+    "title": "Boxing Basics",
+    "level": "Beginner",
+    "tagline": "Learn stance, punches and footwork, and train like a boxer from day one.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What is boxing?",
+      "goal": "Learn what boxing is and what you need to start.",
+      "video": {
+        "youtube_id": "kKDHdsVN0b8",
+        "title": "Basics of Boxing - Training for Beginners at Home",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "Watch the video and write the main idea in one sentence.",
+        "Boxing is a sport of punches, footwork and defence.",
+        "You need: space, comfy shoes, hand wraps or gloves if you have them.",
+        "Set one goal: learn the stance and the jab this week."
+      ],
+      "task": "Write what boxing is in your own words.",
+      "challenge": "List what you need to start boxing at home.",
+      "quiz": [
+        {
+          "q": "What is boxing?",
+          "options": [
+            "A dance",
+            "A sport of punches, footwork and defence",
+            "A race",
+            "Lifting only"
+          ],
+          "answer": 1,
+          "explain": "Boxing mixes punches, footwork and defence."
+        },
+        {
+          "q": "What do you need to start?",
+          "options": [
+            "A ring",
+            "A pro coach",
+            "Space and comfy shoes",
+            "Expensive gear"
+          ],
+          "answer": 2,
+          "explain": "Space and shoes are enough to start."
+        },
+        {
+          "q": "What should your first goal be?",
+          "options": [
+            "Win a fight",
+            "Punch as hard as you can",
+            "Skip learning",
+            "Learn the stance and the jab"
+          ],
+          "answer": 3,
+          "explain": "Stance and jab are the safe first steps."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "The boxing stance",
+      "goal": "Learn the stance: how boxers stand.",
+      "video": {
+        "youtube_id": "D8DouKeOkfI",
+        "title": "How to Box 101 | Complete Boxing Tutorial for Beginners",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "Stand sideways: one foot forward, one foot back.",
+        "Keep your knees soft and your weight balanced.",
+        "Raise your hands to guard your face.",
+        "Keep your chin down a little."
+      ],
+      "task": "Hold the stance for 1 minute.",
+      "challenge": "Practise stepping forward and back in stance.",
+      "quiz": [
+        {
+          "q": "How should a boxer stand?",
+          "options": [
+            "Facing straight on",
+            "On one leg",
+            "Sideways, one foot forward, one back",
+            "Sitting down"
+          ],
+          "answer": 2,
+          "explain": "A sideways stance protects the body."
+        },
+        {
+          "q": "Where should your hands be?",
+          "options": [
+            "Down by your sides",
+            "Behind your back",
+            "In your pockets",
+            "Up, guarding your face"
+          ],
+          "answer": 3,
+          "explain": "Hands up guard the face."
+        },
+        {
+          "q": "Why keep your chin down?",
+          "options": [
+            "It protects your chin from punches",
+            "It looks good",
+            "It does not matter",
+            "It makes you tired"
+          ],
+          "answer": 0,
+          "explain": "A tucked chin is safer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "The jab: your first punch",
+      "goal": "Learn the jab, the most important punch.",
+      "video": {
+        "youtube_id": "oZOXsO_LN7M",
+        "title": "Beginner to Boxer in 25 Minutes",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "From your stance, punch straight out with your front hand.",
+        "Turn your fist as it goes out.",
+        "Snap it back fast to guard.",
+        "Keep your other hand up guarding your face."
+      ],
+      "task": "Do 20 slow jabs, then 20 faster ones.",
+      "challenge": "Practise the jab in front of a mirror.",
+      "quiz": [
+        {
+          "q": "What is a jab?",
+          "options": [
+            "A kick",
+            "A jump",
+            "A spin",
+            "A quick straight punch with the front hand"
+          ],
+          "answer": 3,
+          "explain": "The jab is a fast, straight punch."
+        },
+        {
+          "q": "What should your other hand do?",
+          "options": [
+            "Stay up guarding your face",
+            "Drop down",
+            "Swing around",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "The other hand guards while you jab."
+        },
+        {
+          "q": "How should a jab come back?",
+          "options": [
+            "Slowly",
+            "Fast, back to guard",
+            "It stays out",
+            "It drops down"
+          ],
+          "answer": 1,
+          "explain": "A fast return keeps you safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "The cross: your power punch",
+      "goal": "Learn the cross, a strong straight punch.",
+      "video": {
+        "youtube_id": "fja58s9tkGI",
+        "title": "Learn to Box at Home: 5 Days to Master the Basics",
+        "channel": "MyBoxingCoach"
+      },
+      "steps": [
+        "From your stance, punch with your back hand.",
+        "Turn your back foot and hip as you punch.",
+        "Keep your front hand up guarding.",
+        "Snap the punch back fast to guard."
+      ],
+      "task": "Do 20 slow crosses, then 20 faster ones.",
+      "challenge": "Do jab-cross 10 times: 1-2, 1-2.",
+      "quiz": [
+        {
+          "q": "What is a cross?",
+          "options": [
+            "A straight punch with the back hand",
+            "A kick",
+            "A jump",
+            "A spin"
+          ],
+          "answer": 0,
+          "explain": "The cross is a strong straight punch."
+        },
+        {
+          "q": "What turns when you throw a cross?",
+          "options": [
+            "Only your arm",
+            "Your back foot and hip",
+            "Your head",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Hip turn gives the cross its power."
+        },
+        {
+          "q": "What is a 1-2?",
+          "options": [
+            "Two jumps",
+            "Two kicks",
+            "A jab followed by a cross",
+            "A dance move"
+          ],
+          "answer": 2,
+          "explain": "One-two is jab then cross."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Footwork: move like a boxer",
+      "goal": "Learn to move forward, back and side to side.",
+      "video": {
+        "youtube_id": "nH-NsajI2tM",
+        "title": "Boxing for Beginners",
+        "channel": "Precision Striking"
+      },
+      "steps": [
+        "Step forward with the front foot first, then the back foot.",
+        "Step back with the back foot first, then the front foot.",
+        "Keep your stance wide and your knees soft.",
+        "Never cross your feet."
+      ],
+      "task": "Move forward and back 10 times in stance.",
+      "challenge": "Move side to side 10 times in stance.",
+      "quiz": [
+        {
+          "q": "Why not cross your feet?",
+          "options": [
+            "It looks bad",
+            "Crossed feet make you lose balance",
+            "It is a rule with no reason",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Crossed feet leave you off balance."
+        },
+        {
+          "q": "Which foot moves first going forward?",
+          "options": [
+            "The back foot",
+            "Both at once",
+            "The front foot",
+            "Neither"
+          ],
+          "answer": 2,
+          "explain": "Front foot first keeps the stance wide."
+        },
+        {
+          "q": "What should your knees do?",
+          "options": [
+            "Lock straight",
+            "Stay stiff",
+            "It does not matter",
+            "Stay soft and bent"
+          ],
+          "answer": 3,
+          "explain": "Soft knees keep you balanced and ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "The hook: a side punch",
+      "goal": "Learn the hook, a punch that comes from the side.",
+      "video": {
+        "youtube_id": "xbD4zFdqgaU",
+        "title": "Shadow Boxing for Beginners",
+        "channel": "Precision Striking"
+      },
+      "steps": [
+        "From your stance, bend your front arm at 90 degrees.",
+        "Turn your front foot and hip as you swing.",
+        "Keep your elbow up at shoulder height.",
+        "Snap the punch back to guard."
+      ],
+      "task": "Do 10 slow hooks, then 10 faster ones.",
+      "challenge": "Do jab-cross-hook 5 times.",
+      "quiz": [
+        {
+          "q": "What is a hook?",
+          "options": [
+            "A straight punch",
+            "A kick",
+            "A punch that comes from the side",
+            "A jump"
+          ],
+          "answer": 2,
+          "explain": "A hook swings around from the side."
+        },
+        {
+          "q": "How bent should your arm be?",
+          "options": [
+            "Straight",
+            "Fully folded",
+            "It does not matter",
+            "About 90 degrees"
+          ],
+          "answer": 3,
+          "explain": "A 90-degree bend makes a strong hook."
+        },
+        {
+          "q": "Where should your elbow be?",
+          "options": [
+            "Up at shoulder height",
+            "Down low",
+            "Behind your back",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Elbow up keeps the hook strong."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your first combo",
+      "goal": "Put week 1 together: build your first punch combo.",
+      "video": {
+        "youtube_id": "jJpx8_ZSqFU",
+        "title": "Punching and Footwork for Beginners",
+        "channel": "Precision Striking"
+      },
+      "steps": [
+        "Your combo is: jab, cross, hook. That is 1-2-3.",
+        "Practise slowly 10 times.",
+        "Add footwork: step in, punch, step out.",
+        "Do the combo 10 times to a steady beat."
+      ],
+      "task": "Do your 1-2-3 combo 10 times.",
+      "challenge": "Do the combo while moving forward and back.",
+      "quiz": [
+        {
+          "q": "What is a combo?",
+          "options": [
+            "One punch only",
+            "A jump",
+            "A run",
+            "Punches put together in order"
+          ],
+          "answer": 3,
+          "explain": "A combo links punches together."
+        },
+        {
+          "q": "What is a 1-2-3?",
+          "options": [
+            "Jab, cross, hook",
+            "Three jumps",
+            "Three kicks",
+            "A dance"
+          ],
+          "answer": 0,
+          "explain": "One-two-three is jab, cross, hook."
+        },
+        {
+          "q": "Why add footwork to a combo?",
+          "options": [
+            "It is only for show",
+            "So you can hit and move safely",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Footwork lets you attack and stay safe."
+        }
+      ],
+      "project": {
+        "title": "Your first combo",
+        "brief": "Build your first punch combo: jab, cross, hook (1-2-3), with footwork, and do it 10 times to a steady beat.",
+        "checks": [
+          "Combo is jab-cross-hook",
+          "Practised slowly first",
+          "Added footwork",
+          "Did the combo 10 times",
+          "Kept guard up",
+          "Wrote the combo down"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Defence: block and slip",
+      "goal": "Learn two ways to avoid a punch.",
+      "video": {
+        "youtube_id": "28PU_W71OxM",
+        "title": "Learning to Box: The Basics",
+        "channel": "12 Minute Athlete"
+      },
+      "steps": [
+        "Block: raise your gloves to catch a punch.",
+        "Slip: move your head a little to one side.",
+        "Practise slipping left and right slowly.",
+        "Always return to guard after a slip."
+      ],
+      "task": "Practise 10 slips to the left and 10 to the right.",
+      "challenge": "Block an imaginary punch 10 times.",
+      "quiz": [
+        {
+          "q": "What is a block?",
+          "options": [
+            "Raising your gloves to catch a punch",
+            "Running away",
+            "A jump",
+            "A punch"
+          ],
+          "answer": 0,
+          "explain": "A block stops a punch with your gloves."
+        },
+        {
+          "q": "What is a slip?",
+          "options": [
+            "Falling down",
+            "Moving your head a little to dodge a punch",
+            "A jump",
+            "A run"
+          ],
+          "answer": 1,
+          "explain": "A slip dodges a punch with head movement."
+        },
+        {
+          "q": "What should you do after a slip?",
+          "options": [
+            "Drop your hands",
+            "Turn away",
+            "Return to guard",
+            "Close your eyes"
+          ],
+          "answer": 2,
+          "explain": "Returning to guard keeps you safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Shadow boxing: box the air",
+      "goal": "Learn shadow boxing: practise punches without a bag.",
+      "video": {
+        "youtube_id": "2bE3AHD96gI",
+        "title": "BOXING BASICS (Beginner Friendly)",
+        "channel": "Hitfit"
+      },
+      "steps": [
+        "Stand in front of a mirror in your stance.",
+        "Throw jab, cross, hook slowly, watching your form.",
+        "Add footwork: move as you punch.",
+        "Do 3 rounds of 2 minutes with 1 minute rest."
+      ],
+      "task": "Shadow box for 2 minutes in front of a mirror.",
+      "challenge": "Do 3 rounds of shadow boxing.",
+      "quiz": [
+        {
+          "q": "What is shadow boxing?",
+          "options": [
+            "Boxing a real person",
+            "Practising punches in the air",
+            "A dance",
+            "Sleeping"
+          ],
+          "answer": 1,
+          "explain": "Shadow boxing trains form without a bag."
+        },
+        {
+          "q": "Why use a mirror?",
+          "options": [
+            "It is only for show",
+            "It wastes time",
+            "So you can see your form",
+            "It is not needed"
+          ],
+          "answer": 2,
+          "explain": "A mirror shows mistakes in form."
+        },
+        {
+          "q": "How long should a round be?",
+          "options": [
+            "20 minutes",
+            "10 seconds",
+            "All day",
+            "About 2 minutes for a beginner"
+          ],
+          "answer": 3,
+          "explain": "Two-minute rounds suit a beginner."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "The uppercut: punch from below",
+      "goal": "Learn the uppercut, a punch that comes up from below.",
+      "video": {
+        "youtube_id": "uHFkBHxPlBE",
+        "title": "Low Impact Boxing Workout For Beginners",
+        "channel": "Get Fit With Rick"
+      },
+      "steps": [
+        "From your stance, drop your back hand a little.",
+        "Punch up in a short curve, turning your hip.",
+        "Keep your other hand up guarding.",
+        "Snap the punch back to guard."
+      ],
+      "task": "Do 10 slow uppercuts, then 10 faster ones.",
+      "challenge": "Do jab-cross-uppercut 5 times.",
+      "quiz": [
+        {
+          "q": "What is an uppercut?",
+          "options": [
+            "A straight punch",
+            "A kick",
+            "A punch that comes up from below",
+            "A jump"
+          ],
+          "answer": 2,
+          "explain": "An uppercut rises from below."
+        },
+        {
+          "q": "What turns when you throw an uppercut?",
+          "options": [
+            "Only your arm",
+            "Your head",
+            "Nothing",
+            "Your hip"
+          ],
+          "answer": 3,
+          "explain": "Hip turn gives the uppercut power."
+        },
+        {
+          "q": "Where does an uppercut aim?",
+          "options": [
+            "Up under the chin",
+            "At the feet",
+            "At the back",
+            "Anywhere"
+          ],
+          "answer": 0,
+          "explain": "An uppercut aims up at the chin."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Punch a bag safely",
+      "goal": "Learn how to hit a bag without hurting your hands.",
+      "video": {
+        "youtube_id": "af4NKPjHsqs",
+        "title": "Learn Shadow Boxing at Home in 15 Minutes",
+        "channel": "MyBoxingCoach"
+      },
+      "steps": [
+        "Wrap your hands or wear gloves.",
+        "Hit with the front of your fist, not your fingers.",
+        "Keep your wrist straight when you punch.",
+        "Start with light punches and build up."
+      ],
+      "task": "Practise light bag punches for 2 minutes.",
+      "challenge": "Check your wrist stays straight after each punch.",
+      "quiz": [
+        {
+          "q": "Why wrap your hands?",
+          "options": [
+            "It looks good",
+            "It is not needed",
+            "It makes you stronger",
+            "To protect your knuckles and wrists"
+          ],
+          "answer": 3,
+          "explain": "Wraps protect hands from injury."
+        },
+        {
+          "q": "What part of the fist should hit?",
+          "options": [
+            "The front knuckles",
+            "The fingers",
+            "The palm",
+            "The wrist"
+          ],
+          "answer": 0,
+          "explain": "Front knuckles spread the force safely."
+        },
+        {
+          "q": "Why keep your wrist straight?",
+          "options": [
+            "It looks good",
+            "A bent wrist can get hurt",
+            "It does not matter",
+            "It makes punches weaker"
+          ],
+          "answer": 1,
+          "explain": "A straight wrist protects the joint."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Boxing fitness: jump rope",
+      "goal": "Learn to skip rope, the boxer's favourite warm-up.",
+      "video": {
+        "youtube_id": "P475CpooIdE",
+        "title": "20-Min BOXING HIIT Workout at Home",
+        "channel": "Boxing Ready"
+      },
+      "steps": [
+        "Hold the rope handles lightly.",
+        "Jump small, on the balls of your feet.",
+        "Turn the rope with your wrists, not your arms.",
+        "Skip for 1 minute, rest, repeat 3 times."
+      ],
+      "task": "Skip for 1 minute, 3 times.",
+      "challenge": "Skip for 2 minutes without stopping.",
+      "quiz": [
+        {
+          "q": "Why do boxers skip rope?",
+          "options": [
+            "It builds footwork, timing and stamina",
+            "It is only for fun",
+            "It does not help",
+            "It wastes time"
+          ],
+          "answer": 0,
+          "explain": "Skipping trains feet, timing and heart."
+        },
+        {
+          "q": "How should you jump?",
+          "options": [
+            "High jumps",
+            "Small jumps on the balls of your feet",
+            "On your heels",
+            "On one leg"
+          ],
+          "answer": 1,
+          "explain": "Small jumps keep you light and fast."
+        },
+        {
+          "q": "What turns the rope?",
+          "options": [
+            "Your whole arms",
+            "Your shoulders",
+            "Your wrists",
+            "Your hips"
+          ],
+          "answer": 2,
+          "explain": "Wrist turns keep the rope smooth."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Boxing combos: put it together",
+      "goal": "Learn longer combos with punches and defence.",
+      "video": {
+        "youtube_id": "829gBpeZyjs",
+        "title": "Boxing Workout at Home: Punch, Defend, Counter in 15 Minutes",
+        "channel": "MyBoxingCoach"
+      },
+      "steps": [
+        "Try jab-cross-hook-uppercut: 1-2-3-4.",
+        "Try jab-jab-cross: 1-1-2.",
+        "Add a slip after each combo.",
+        "Practise slowly 10 times each."
+      ],
+      "task": "Do each combo 10 times slowly.",
+      "challenge": "Do the combos to a steady beat.",
+      "quiz": [
+        {
+          "q": "What is a 1-1-2?",
+          "options": [
+            "Three jumps",
+            "Jab, jab, cross",
+            "Three kicks",
+            "A dance"
+          ],
+          "answer": 1,
+          "explain": "One-one-two is jab, jab, cross."
+        },
+        {
+          "q": "Why add a slip after a combo?",
+          "options": [
+            "It is only for show",
+            "It wastes time",
+            "To stay safe after attacking",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "A slip after a combo keeps you safe."
+        },
+        {
+          "q": "How should you learn a long combo?",
+          "options": [
+            "All at once fast",
+            "Only the last punch",
+            "Never try",
+            "Slowly, one punch at a time"
+          ],
+          "answer": 3,
+          "explain": "Slow, piece by piece builds the combo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your 3-round workout",
+      "goal": "Put week 2 together: build a 3-round boxing workout.",
+      "video": {
+        "youtube_id": "kKDHdsVN0b8",
+        "title": "Basics of Boxing - Training for Beginners at Home",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "Round 1: shadow boxing, 2 minutes.",
+        "Round 2: bag work or combos, 2 minutes.",
+        "Round 3: footwork and defence, 2 minutes.",
+        "Rest 1 minute between rounds."
+      ],
+      "task": "Do your 3-round workout.",
+      "challenge": "Do it twice this week.",
+      "quiz": [
+        {
+          "q": "What should a boxing workout have?",
+          "options": [
+            "Only punching",
+            "Only running",
+            "Shadow boxing, bag work and footwork",
+            "Only resting"
+          ],
+          "answer": 2,
+          "explain": "A full workout trains punches, defence and feet."
+        },
+        {
+          "q": "How long should a round be?",
+          "options": [
+            "20 minutes",
+            "10 seconds",
+            "All day",
+            "About 2 minutes"
+          ],
+          "answer": 3,
+          "explain": "Two-minute rounds suit a beginner."
+        },
+        {
+          "q": "How long should you rest between rounds?",
+          "options": [
+            "About 1 minute",
+            "10 minutes",
+            "No rest",
+            "1 hour"
+          ],
+          "answer": 0,
+          "explain": "A minute of rest lets you recover."
+        }
+      ],
+      "project": {
+        "title": "Your 3-round workout",
+        "brief": "Build a 3-round boxing workout: shadow boxing, bag work and footwork, 2 minutes each, with 1 minute rest between rounds.",
+        "checks": [
+          "Workout has 3 rounds",
+          "Each round is 2 minutes",
+          "Rest is 1 minute",
+          "Rounds cover punches and footwork",
+          "Did the workout twice",
+          "Wrote the workout down"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Boxing fitness: push-ups and squats",
+      "goal": "Build strength for boxing with bodyweight moves.",
+      "video": {
+        "youtube_id": "D8DouKeOkfI",
+        "title": "How to Box 101 | Complete Boxing Tutorial for Beginners",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "Do 10 squats and 5 push-ups.",
+        "Rest 1 minute and repeat once.",
+        "Add a 20-second plank.",
+        "Do this 2 times this week."
+      ],
+      "task": "Do 2 rounds of squats, push-ups and plank.",
+      "challenge": "Add 2 reps to each move next time.",
+      "quiz": [
+        {
+          "q": "Why do boxers need leg strength?",
+          "options": [
+            "They do not need it",
+            "It makes them slow",
+            "It is only for lifters",
+            "Legs drive punches and footwork"
+          ],
+          "answer": 3,
+          "explain": "Strong legs power punches and movement."
+        },
+        {
+          "q": "What is a good boxer strength move?",
+          "options": [
+            "A squat",
+            "A heavy deadlift",
+            "A handstand",
+            "A 100 kg lift"
+          ],
+          "answer": 0,
+          "explain": "Squats build the legs boxers need."
+        },
+        {
+          "q": "How often should you do strength?",
+          "options": [
+            "Every day",
+            "About 2 times a week",
+            "Never",
+            "Once a month"
+          ],
+          "answer": 1,
+          "explain": "Twice a week is enough to help."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Defence: bob and weave",
+      "goal": "Learn to duck under a punch safely.",
+      "video": {
+        "youtube_id": "oZOXsO_LN7M",
+        "title": "Beginner to Boxer in 25 Minutes",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "Bend your knees and dip your body down.",
+        "Move your head in a small U shape.",
+        "Keep your hands up the whole time.",
+        "Come back up to guard."
+      ],
+      "task": "Practise 10 bobs and weaves slowly.",
+      "challenge": "Add a bob and weave after your combo.",
+      "quiz": [
+        {
+          "q": "What is bob and weave?",
+          "options": [
+            "Ducking under a punch in a U shape",
+            "Jumping",
+            "Running",
+            "Falling down"
+          ],
+          "answer": 0,
+          "explain": "Bob and weave ducks under punches."
+        },
+        {
+          "q": "What should your hands do?",
+          "options": [
+            "Drop down",
+            "Stay up guarding",
+            "Swing around",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Hands up keep you safe while ducking."
+        },
+        {
+          "q": "What should your knees do?",
+          "options": [
+            "Lock straight",
+            "Stay stiff",
+            "Bend to dip down",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Bent knees let you dip low."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Speed: fast hands drill",
+      "goal": "Learn a drill that makes your hands faster.",
+      "video": {
+        "youtube_id": "fja58s9tkGI",
+        "title": "Learn to Box at Home: 5 Days to Master the Basics",
+        "channel": "MyBoxingCoach"
+      },
+      "steps": [
+        "Throw jab-cross as fast as you can for 10 seconds.",
+        "Rest for 20 seconds.",
+        "Repeat 5 times.",
+        "Keep your form good even when fast."
+      ],
+      "task": "Do 5 rounds of 10 seconds fast punches.",
+      "challenge": "Count how many punches you throw in 10 seconds.",
+      "quiz": [
+        {
+          "q": "How do you get faster hands?",
+          "options": [
+            "Punching slowly only",
+            "Short fast bursts with rest",
+            "Never practising",
+            "Lifting heavy only"
+          ],
+          "answer": 1,
+          "explain": "Fast bursts train speed."
+        },
+        {
+          "q": "Why rest between fast bursts?",
+          "options": [
+            "Rest wastes time",
+            "Rest makes you slow",
+            "Rest keeps your form good",
+            "It is not needed"
+          ],
+          "answer": 2,
+          "explain": "Rest stops form falling apart."
+        },
+        {
+          "q": "What matters more: speed or form?",
+          "options": [
+            "Speed only",
+            "Form does not matter",
+            "Neither",
+            "Form first, speed follows"
+          ],
+          "answer": 3,
+          "explain": "Good form makes speed safe and real."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Boxing footwork drills",
+      "goal": "Practise footwork drills that make you move better.",
+      "video": {
+        "youtube_id": "nH-NsajI2tM",
+        "title": "Boxing for Beginners",
+        "channel": "Precision Striking"
+      },
+      "steps": [
+        "Do ladder steps: quick small steps forward and back.",
+        "Do side steps: move side to side in stance.",
+        "Do pivot turns: turn on your front foot.",
+        "Do each drill for 1 minute."
+      ],
+      "task": "Do each footwork drill for 1 minute.",
+      "challenge": "Combine footwork with punches for 2 minutes.",
+      "quiz": [
+        {
+          "q": "What is a pivot?",
+          "options": [
+            "A jump",
+            "A run",
+            "Turning on your front foot",
+            "A spin in the air"
+          ],
+          "answer": 2,
+          "explain": "A pivot turns your body without moving your feet."
+        },
+        {
+          "q": "Why practise footwork drills?",
+          "options": [
+            "They waste time",
+            "They are only for show",
+            "They do not help",
+            "They make your movement fast and balanced"
+          ],
+          "answer": 3,
+          "explain": "Footwork drills build speed and balance."
+        },
+        {
+          "q": "What should your feet never do?",
+          "options": [
+            "Cross over each other",
+            "Move fast",
+            "Stay wide",
+            "Step side to side"
+          ],
+          "answer": 0,
+          "explain": "Crossed feet lose balance."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Stay safe: boxing rules",
+      "goal": "Learn the safety rules of boxing.",
+      "video": {
+        "youtube_id": "xbD4zFdqgaU",
+        "title": "Shadow Boxing for Beginners",
+        "channel": "Precision Striking"
+      },
+      "steps": [
+        "Never punch someone who is not ready.",
+        "Always wear wraps or gloves when hitting a bag.",
+        "Stop if you feel dizzy or in pain.",
+        "Respect your training partner at all times."
+      ],
+      "task": "Write the 4 safety rules on a card.",
+      "challenge": "Tell a friend the safety rules.",
+      "quiz": [
+        {
+          "q": "Why wear wraps or gloves?",
+          "options": [
+            "It looks good",
+            "It is not needed",
+            "It makes you stronger",
+            "To protect your hands"
+          ],
+          "answer": 3,
+          "explain": "Wraps and gloves protect hands."
+        },
+        {
+          "q": "What should you do if you feel dizzy?",
+          "options": [
+            "Stop at once and rest",
+            "Keep going",
+            "Punch harder",
+            "Ignore it"
+          ],
+          "answer": 0,
+          "explain": "Dizziness means stop and rest."
+        },
+        {
+          "q": "Why respect your partner?",
+          "options": [
+            "It is a rule with no reason",
+            "Boxing is built on trust and safety",
+            "It does not matter",
+            "It makes you weak"
+          ],
+          "answer": 1,
+          "explain": "Respect keeps training safe for everyone."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Boxing combos with defence",
+      "goal": "Put punches and defence together.",
+      "video": {
+        "youtube_id": "jJpx8_ZSqFU",
+        "title": "Punching and Footwork for Beginners",
+        "channel": "Precision Striking"
+      },
+      "steps": [
+        "Throw jab-cross, then slip to the side.",
+        "Throw hook-uppercut, then bob and weave.",
+        "Throw 1-2-3, then step back to guard.",
+        "Practise slowly 10 times each."
+      ],
+      "task": "Do each punch-defence combo 10 times.",
+      "challenge": "Do the combos to a steady beat.",
+      "quiz": [
+        {
+          "q": "Why add defence after a combo?",
+          "options": [
+            "To stay safe after attacking",
+            "It is only for show",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Defence after attack keeps you safe."
+        },
+        {
+          "q": "What should you do after a combo?",
+          "options": [
+            "Drop your hands",
+            "Slip, weave or step back to guard",
+            "Turn away",
+            "Close your eyes"
+          ],
+          "answer": 1,
+          "explain": "Returning to guard keeps you safe."
+        },
+        {
+          "q": "How should you learn a new combo?",
+          "options": [
+            "All at once fast",
+            "Only the last punch",
+            "Slowly, one piece at a time",
+            "Never try"
+          ],
+          "answer": 2,
+          "explain": "Slow, piece by piece builds the combo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your boxing circuit",
+      "goal": "Put week 3 together: build a boxing circuit.",
+      "video": {
+        "youtube_id": "28PU_W71OxM",
+        "title": "Learning to Box: The Basics",
+        "channel": "12 Minute Athlete"
+      },
+      "steps": [
+        "Station 1: shadow boxing, 2 minutes.",
+        "Station 2: bag work, 2 minutes.",
+        "Station 3: skipping, 2 minutes.",
+        "Station 4: strength moves, 2 minutes."
+      ],
+      "task": "Do your boxing circuit once.",
+      "challenge": "Do it twice this week.",
+      "quiz": [
+        {
+          "q": "What is a circuit?",
+          "options": [
+            "One move only",
+            "Stations done one after another",
+            "A long run",
+            "A nap"
+          ],
+          "answer": 1,
+          "explain": "A circuit links stations together."
+        },
+        {
+          "q": "How long should each station be?",
+          "options": [
+            "20 minutes",
+            "10 seconds",
+            "About 2 minutes",
+            "All day"
+          ],
+          "answer": 2,
+          "explain": "Two minutes per station suits a beginner."
+        },
+        {
+          "q": "What should you do between stations?",
+          "options": [
+            "Run fast",
+            "Lift heavy",
+            "Stop for the day",
+            "Rest for 1 minute"
+          ],
+          "answer": 3,
+          "explain": "A short rest keeps the circuit safe."
+        }
+      ],
+      "project": {
+        "title": "Your boxing circuit",
+        "brief": "Build a boxing circuit with 4 stations: shadow boxing, bag work, skipping and strength, 2 minutes each.",
+        "checks": [
+          "Circuit has 4 stations",
+          "Each station is 2 minutes",
+          "Stations cover punches and fitness",
+          "Did the circuit once",
+          "Did it twice in the week",
+          "Wrote the circuit down"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Test your boxing skills",
+      "goal": "Test how much you have learned.",
+      "video": {
+        "youtube_id": "2bE3AHD96gI",
+        "title": "BOXING BASICS (Beginner Friendly)",
+        "channel": "Hitfit"
+      },
+      "steps": [
+        "Count how many jabs you can throw in 30 seconds with good form.",
+        "Count how many rounds you can shadow box.",
+        "Ask a friend to check your stance.",
+        "Write all three results down."
+      ],
+      "task": "Record your 3 test results today.",
+      "challenge": "Beat one result next week.",
+      "quiz": [
+        {
+          "q": "Why test your skills?",
+          "options": [
+            "To show off",
+            "It is not needed",
+            "To see how much you have learned",
+            "To make you tired"
+          ],
+          "answer": 2,
+          "explain": "Tests show progress."
+        },
+        {
+          "q": "What matters most in a test?",
+          "options": [
+            "Speed only",
+            "Doing the most badly",
+            "Skipping rest",
+            "Good form"
+          ],
+          "answer": 3,
+          "explain": "Good form shows true skill."
+        },
+        {
+          "q": "How often should you test?",
+          "options": [
+            "Every 2 to 4 weeks",
+            "Every day",
+            "Once a year",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "A few weeks apart shows real change."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Boxing history: learn the greats",
+      "goal": "Learn about famous boxers and what made them great.",
+      "video": {
+        "youtube_id": "uHFkBHxPlBE",
+        "title": "Low Impact Boxing Workout For Beginners",
+        "channel": "Get Fit With Rick"
+      },
+      "steps": [
+        "Watch a short video about a famous boxer.",
+        "Write down 3 things that made them great.",
+        "Pick one thing to copy in your training.",
+        "Tell a friend about the boxer."
+      ],
+      "task": "Write 3 things that made a great boxer great.",
+      "challenge": "Pick one thing to copy this week.",
+      "quiz": [
+        {
+          "q": "Why learn boxing history?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "It makes you slower",
+            "It teaches lessons from the greats"
+          ],
+          "answer": 3,
+          "explain": "History shows what greatness looks like."
+        },
+        {
+          "q": "What made great boxers great?",
+          "options": [
+            "Hard work, discipline and smart defence",
+            "Luck only",
+            "Talking only",
+            "Size only"
+          ],
+          "answer": 0,
+          "explain": "Work, discipline and defence made them great."
+        },
+        {
+          "q": "What should you copy from a great boxer?",
+          "options": [
+            "Everything at once",
+            "One good habit, like footwork",
+            "Nothing",
+            "Only their clothes"
+          ],
+          "answer": 1,
+          "explain": "One habit at a time is doable."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Keep training: your routine",
+      "goal": "Make boxing a weekly habit.",
+      "video": {
+        "youtube_id": "af4NKPjHsqs",
+        "title": "Learn Shadow Boxing at Home in 15 Minutes",
+        "channel": "MyBoxingCoach"
+      },
+      "steps": [
+        "Train 3 times a week, even if short.",
+        "Join a local boxing gym or class.",
+        "Set a new goal: learn a new combo.",
+        "Write your weekly boxing plan."
+      ],
+      "task": "Write your weekly boxing plan.",
+      "challenge": "Train 3 times this week.",
+      "quiz": [
+        {
+          "q": "How often should you train?",
+          "options": [
+            "About 3 times a week",
+            "Every day",
+            "Once a month",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "Three times a week keeps the habit alive."
+        },
+        {
+          "q": "Why join a boxing gym?",
+          "options": [
+            "It is slower",
+            "A coach and partners help you improve",
+            "It is not useful",
+            "It makes you weaker"
+          ],
+          "answer": 1,
+          "explain": "A gym gives coaching and sparring partners."
+        },
+        {
+          "q": "What is a good next goal?",
+          "options": [
+            "Quit",
+            "Train less",
+            "Learn a new combo",
+            "No goal"
+          ],
+          "answer": 2,
+          "explain": "A new combo keeps you growing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Boxing with a partner: pad work",
+      "goal": "Learn simple pad work with a partner.",
+      "video": {
+        "youtube_id": "P475CpooIdE",
+        "title": "20-Min BOXING HIIT Workout at Home",
+        "channel": "Boxing Ready"
+      },
+      "steps": [
+        "One person holds pads, the other punches.",
+        "Start with the jab only.",
+        "The holder calls out 'one' for a jab.",
+        "Swap roles after 1 minute.",
+        "Keep punches light and controlled.",
+        "Rest 30 seconds between rounds."
+      ],
+      "task": "Do 3 rounds of pad work with a friend.",
+      "challenge": "Add the cross: 'one-two'.",
+      "quiz": [
+        {
+          "q": "What is pad work?",
+          "options": [
+            "Punching a wall",
+            "Punching pads that a partner holds",
+            "Shadow boxing",
+            "Running"
+          ],
+          "answer": 1,
+          "explain": "Pad work lets you practise punches safely with a partner."
+        },
+        {
+          "q": "Why start with the jab only?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "So you learn one punch well first",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "One punch at a time builds clean skill."
+        },
+        {
+          "q": "When should you swap roles?",
+          "options": [
+            "Never",
+            "After 1 hour",
+            "It does not matter",
+            "After about 1 minute"
+          ],
+          "answer": 3,
+          "explain": "Swapping often keeps both partners learning."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Boxing fitness: squats and burpees",
+      "goal": "Learn two moves that build boxing fitness.",
+      "video": {
+        "youtube_id": "829gBpeZyjs",
+        "title": "Boxing Workout at Home: Punch, Defend, Counter in 15 Minutes",
+        "channel": "MyBoxingCoach"
+      },
+      "steps": [
+        "Do 10 squats.",
+        "Do 5 burpees: squat, jump back to a plank, jump forward, stand up.",
+        "Rest for 30 seconds.",
+        "Repeat 3 times.",
+        "Breathe out on the hard part.",
+        "Stop if you feel dizzy."
+      ],
+      "task": "Do the squat and burpee circuit today.",
+      "challenge": "Do 4 rounds next week.",
+      "quiz": [
+        {
+          "q": "What is a burpee?",
+          "options": [
+            "A punch",
+            "A run",
+            "A squat, a jump back, a push-up and a jump",
+            "A stretch"
+          ],
+          "answer": 2,
+          "explain": "A burpee works the whole body in one move."
+        },
+        {
+          "q": "Why rest between rounds?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "It makes you weak",
+            "So your body can recover"
+          ],
+          "answer": 3,
+          "explain": "Short rests keep the workout safe and strong."
+        },
+        {
+          "q": "What should you do if you feel dizzy?",
+          "options": [
+            "Stop and rest",
+            "Keep going",
+            "Run faster",
+            "Ignore it"
+          ],
+          "answer": 0,
+          "explain": "Stopping when dizzy keeps you safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Watch a boxing match and learn",
+      "goal": "Learn by watching real boxers.",
+      "video": {
+        "youtube_id": "kKDHdsVN0b8",
+        "title": "Basics of Boxing - Training for Beginners at Home",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "Watch 10 minutes of a boxing match.",
+        "Watch the boxer's feet, not just the punches.",
+        "Notice how they move in and out.",
+        "Write down one move they use well.",
+        "Try that move in shadow boxing.",
+        "Watch another match next week."
+      ],
+      "task": "Watch 10 minutes of a boxing match.",
+      "challenge": "Copy one move you saw into your shadow boxing.",
+      "quiz": [
+        {
+          "q": "What should you watch besides punches?",
+          "options": [
+            "The crowd",
+            "The lights",
+            "Nothing",
+            "The boxer's feet and movement"
+          ],
+          "answer": 3,
+          "explain": "Footwork is half of boxing."
+        },
+        {
+          "q": "Why write down one move?",
+          "options": [
+            "So you remember it and can practise it",
+            "It is a rule",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Writing it down locks the lesson in."
+        },
+        {
+          "q": "What should you do after watching?",
+          "options": [
+            "Forget it",
+            "Try the move in shadow boxing",
+            "Only watch more",
+            "Never practise"
+          ],
+          "answer": 1,
+          "explain": "Trying the move turns watching into learning."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final show.",
+      "video": {
+        "youtube_id": "D8DouKeOkfI",
+        "title": "How to Box 101 | Complete Boxing Tutorial for Beginners",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 skills you can now do.",
+        "Practise your capstone routine once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 boxing skills you learned.",
+      "challenge": "Do your capstone routine from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final show that proves what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new pair of gloves"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own gloves",
+            "You can shadow box a full routine safely",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "A full routine done well shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "oZOXsO_LN7M",
+        "title": "Beginner to Boxer in 25 Minutes",
+        "channel": "Tony Jeffries"
+      },
+      "steps": [
+        "Shadow box your capstone routine one more time.",
+        "Check your stance, your guard and your footwork.",
+        "Fix anything that felt rushed.",
+        "Rest well tonight."
+      ],
+      "task": "Shadow box your capstone routine and time it.",
+      "challenge": "Fix one thing that felt rushed.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real show calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your gloves",
+            "Your stance, guard and footwork",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking stance and guard makes it smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Practise all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you perform your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: your boxing routine",
+      "goal": "Show what you learned: perform your boxing routine.",
+      "video": {
+        "youtube_id": "fja58s9tkGI",
+        "title": "Learn to Box at Home: 5 Days to Master the Basics",
+        "channel": "MyBoxingCoach"
+      },
+      "steps": [
+        "Warm up with skipping for 2 minutes.",
+        "Shadow box your routine: stance, jabs, crosses, hooks, defence.",
+        "Cool down with slow walking and stretching.",
+        "Write a short report on how it went."
+      ],
+      "task": "Perform your boxing routine and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What is the first step of your routine?",
+          "options": [
+            "A hard punch",
+            "A sprint",
+            "A warm-up with skipping",
+            "No warm-up"
+          ],
+          "answer": 2,
+          "explain": "A warm-up gets the body ready."
+        },
+        {
+          "q": "What matters most in the routine?",
+          "options": [
+            "Going as fast as you can",
+            "Punching the hardest",
+            "Skipping defence",
+            "Good form, guard up and smooth footwork"
+          ],
+          "answer": 3,
+          "explain": "Form, guard and footwork show real skill."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and how it felt",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your boxing routine",
+    "brief": "Perform your boxing routine: warm-up with skipping, shadow boxing with stance, jabs, crosses, hooks and defence, cool-down, and a short written report.",
+    "checks": [
+      "Warmed up with skipping",
+      "Showed a correct stance",
+      "Threw jab, cross and hook well",
+      "Showed defence moves",
+      "Kept guard up",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A written boxing routine",
+      "A list of combos learned",
+      "A weekly training plan",
+      "A short video or notes from the routine",
+      "A written report"
+    ]
+  }
+}

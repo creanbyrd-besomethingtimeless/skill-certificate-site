@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TYE Skill Certificate - Learn Full-Stack Web Development in 30 Days</title>
-<meta name="description" content="Learn full-stack web development in 30 days, finish the capstone project, and earn a certificate you can show to employers.">
+<title>TYE Skill Certificate - Learn any skill in 30 days</title>
+<meta name="description" content="Learn any skill in 30 days, finish the capstone project, and earn a certificate you can show to employers. 123 skills to choose from.">
 <link rel="stylesheet" href="css/style.css">
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="js/config.js"></script>
@@ -15,16 +15,17 @@
 <header class="site-header">
   <div class="container">
     <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <button type="button" class="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
     <nav class="main-nav">
       <a href="index.html" class="active">Home</a>
       <a href="#how-it-works">How it works</a>
-      <a href="#outline">Course outline</a>
+      <a href="#catalog">Browse skills</a>
       <a href="verify.html">Verify a certificate</a>
       <span data-nav-signed-in class="hidden"><a href="dashboard.html">Dashboard</a></span>
       <span data-nav-signed-in class="hidden"><a href="learn.html">Learn</a></span>
       <span data-nav-signed-in class="hidden"><a href="certificate.html">Certificate</a></span>
       <span data-nav-signed-out><a href="auth.html">Sign in</a></span>
-      <span data-nav-signed-out><a class="btn small" href="auth.html" style="color:#fff">Start free</a></span>
+      <span data-nav-signed-out><a class="btn small" href="auth.html">Start free</a></span>
       <span data-nav-signed-in class="hidden"><button type="button" class="btn ghost small" data-sign-out>Sign out</button></span>
     </nav>
   </div>
@@ -34,51 +35,58 @@
   <section class="hero">
     <div class="container">
       <div class="notice hidden" data-setup-notice></div>
-      <h1>Learn full-stack web development in <span class="accent">30 days</span>. Earn a certificate you can show to employers.</h1>
-      <p class="lead">One focused lesson a day. A real video, a practical task, a short quiz, and a daily challenge. Finish all 30 days and the capstone project, and your certificate is yours.</p>
+      <h1>Learn any skill in <span class="accent">30 days</span>. Earn a certificate you can show to employers.</h1>
+      <p class="lead">Pick a skill, learn one focused lesson a day, finish the capstone project, and get a verifiable certificate. 123 skills, one clear path each.</p>
       <div class="hero-actions">
-        <a class="btn" href="auth.html">Start learning free</a>
-        <a class="btn ghost" href="#outline">See the 30 day plan</a>
+        <a class="btn" href="#catalog">Browse all 123 skills</a>
+        <a class="btn ghost" href="#how-it-works">How it works</a>
       </div>
       <div class="hero-meta">
-        <div><strong>30</strong> days, one lesson a day</div>
-        <div><strong>3</strong> weekly projects</div>
-        <div><strong>1</strong> capstone project</div>
-        <div><strong>1</strong> verifiable certificate</div>
+        <div><strong>123</strong> skills to choose from</div>
+        <div><strong>30</strong> days per skill</div>
+        <div><strong>1</strong> certificate per skill</div>
       </div>
     </div>
   </section>
 
-  <section class="section" id="how-it-works">
+  <section class="section" id="catalog">
+    <div class="container">
+      <h2>Browse skills</h2>
+      <p class="sub">Every skill takes 30 days and ends with a capstone project and a certificate. Search or filter by category to find yours.</p>
+      <div class="catalog-toolbar">
+        <div class="search-box">
+          <label for="catalog-search" style="margin:0 0 6px">Search skills</label>
+          <input type="text" id="catalog-search" placeholder="Try video editing, barbing, Python..." autocomplete="off">
+        </div>
+        <div class="chip-row" id="catalog-chips" role="group" aria-label="Filter by category"></div>
+      </div>
+      <p class="catalog-count" id="catalog-count"></p>
+      <div id="catalog-error" class="error hidden"></div>
+      <div class="skill-grid" id="skill-grid"><p class="muted">Loading skills...</p></div>
+    </div>
+  </section>
+
+  <section class="section alt" id="how-it-works">
     <div class="container">
       <h2>How it works</h2>
-      <p class="sub">No long lectures. No guessing what to do next. Every day has the same clear shape.</p>
+      <p class="sub">No long lectures. No guessing what to do next. Every skill follows the same clear shape.</p>
       <div class="grid grid-3">
         <div class="card">
           <span class="step-num">1</span>
-          <h3>Learn one thing a day</h3>
-          <p>Watch the day's video and work through the practical steps. Each lesson builds on the one before it, from your first web page to a deployed full-stack app.</p>
+          <h3>Pick a skill, learn one thing a day</h3>
+          <p>Choose from 123 skills and follow one focused lesson a day. Each day has a real video, practical steps and a hands-on task that builds on the day before.</p>
         </div>
         <div class="card">
           <span class="step-num">2</span>
           <h3>Prove it with a quiz and a task</h3>
-          <p>Every day ends with a hands-on task and a 3 question quiz. Pass the quiz at 70 percent or more to complete the day. You can retry as many times as you need.</p>
+          <p>Every day ends with a hands-on task and a short quiz. Pass the quiz at 70 percent or more to complete the day. You can retry as many times as you need.</p>
         </div>
         <div class="card">
           <span class="step-num">3</span>
           <h3>Finish the capstone, get certified</h3>
-          <p>Build your own full-stack app in the final week. When all 30 days are complete and every capstone check is ticked, your certificate unlocks with a verification code employers can check.</p>
+          <p>Build, make or perform your capstone in the final week. When all 30 days are complete and every capstone check is ticked, your certificate unlocks with a verification code employers can check.</p>
         </div>
       </div>
-    </div>
-  </section>
-
-  <section class="section alt" id="outline">
-    <div class="container">
-      <h2>30 day course outline</h2>
-      <p class="sub">Full-Stack Web Development. Weeks 1 to 4 take you from HTML basics to a deployed app with a database and login.</p>
-      <div id="outline-error" class="error hidden"></div>
-      <div id="course-outline"><p class="muted">Loading the course outline...</p></div>
     </div>
   </section>
 
@@ -88,13 +96,13 @@
       <p class="sub">A printable certificate with your name, the skill, the issue date, and a verification code in the format SC-YYYY-XXXXXX. Anyone can check it on the verification page.</p>
       <div class="cert-preview">
         <p class="cert-kicker">Certificate of Completion</p>
-        <h3>Full-Stack Web Development</h3>
+        <h3>Your Skill Name</h3>
         <p>This certificate is awarded to</p>
         <p class="cert-name">Your Name Here</p>
-        <p>for completing the 30 day Full-Stack Web Development course, including the capstone project.</p>
+        <p>for completing the 30 day course in your chosen skill, including the capstone project.</p>
         <p class="cert-code">Example code: SC-2026-ABC123</p>
       </div>
-      <p style="text-align:center; margin-top:24px"><a class="btn" href="auth.html">Start day 1</a></p>
+      <p style="text-align:center; margin-top:24px"><a class="btn" href="#catalog">Find your skill</a></p>
     </div>
   </section>
 
@@ -117,14 +125,99 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  var box = document.getElementById("course-outline");
-  var errBox = document.getElementById("outline-error");
-  window.SkillCourse.loadCurriculum().then(function () {
-    document.querySelectorAll("[data-course-title]").forEach(function (n) { n.textContent = window.SkillCourse.courseTitle(); });
-    window.SkillCourse.renderOutline(box);
+  var grid = document.getElementById("skill-grid");
+  var errBox = document.getElementById("catalog-error");
+  var countBox = document.getElementById("catalog-count");
+  var searchInput = document.getElementById("catalog-search");
+  var chipsBox = document.getElementById("catalog-chips");
+  var allSkills = [];
+  var categories = [];
+  var activeCategory = "All";
+  var query = "";
+  var signedIn = false;
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function startHref(skill) {
+    return signedIn
+      ? "learn.html?skill=" + encodeURIComponent(skill.slug)
+      : "auth.html";
+  }
+
+  function renderChips() {
+    var html = '<button type="button" class="chip' + (activeCategory === "All" ? " active" : "") + '" data-category="All">All</button>';
+    categories.forEach(function (cat) {
+      html += '<button type="button" class="chip' + (activeCategory === cat ? " active" : "") + '" data-category="' + esc(cat) + '">' + esc(cat) + "</button>";
+    });
+    chipsBox.innerHTML = html;
+    chipsBox.querySelectorAll(".chip").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        activeCategory = btn.getAttribute("data-category");
+        renderChips();
+        renderGrid();
+      });
+    });
+  }
+
+  function filteredSkills() {
+    var q = query.trim().toLowerCase();
+    return allSkills.filter(function (s) {
+      if (activeCategory !== "All" && s.category !== activeCategory) return false;
+      if (!q) return true;
+      return (s.name + " " + s.tagline + " " + s.category).toLowerCase().indexOf(q) !== -1;
+    });
+  }
+
+  function renderGrid() {
+    var list = filteredSkills();
+    countBox.textContent = list.length === allSkills.length
+      ? allSkills.length + " skills"
+      : list.length + " of " + allSkills.length + " skills";
+    if (!list.length) {
+      grid.innerHTML = '<p class="muted">No skills match that search. Try a different word or category.</p>';
+      return;
+    }
+    var html = "";
+    list.forEach(function (s) {
+      html += '<article class="skill-card">'
+        + '<p class="skill-category">' + esc(s.category) + "</p>"
+        + "<h3>" + esc(s.name) + "</h3>"
+        + '<p class="skill-tagline">' + esc(s.tagline) + "</p>"
+        + '<p class="skill-meta"><span>' + esc(s.level) + "</span><span>" + (s.duration_days || 30) + " days</span><span>Certificate included</span></p>"
+        + '<a class="btn small" href="' + startHref(s) + '">' + (signedIn ? "Start learning" : "Start free") + "</a>"
+        + "</article>";
+    });
+    grid.innerHTML = html;
+  }
+
+  searchInput.addEventListener("input", function () {
+    query = searchInput.value;
+    renderGrid();
+  });
+
+  window.SkillApp.getSession().then(function (session) {
+    signedIn = !!session;
+    if (allSkills.length) renderGrid();
+  });
+
+  fetch("./skills.json").then(function (res) {
+    if (!res.ok) throw new Error("Could not load skills.json (HTTP " + res.status + ").");
+    return res.json();
+  }).then(function (data) {
+    allSkills = data.skills || [];
+    categories = [];
+    allSkills.forEach(function (s) {
+      if (s.category && categories.indexOf(s.category) === -1) categories.push(s.category);
+    });
+    renderChips();
+    renderGrid();
   }).catch(function (err) {
-    if (box) box.innerHTML = '<p class="muted">The course outline could not be loaded yet.</p>';
-    if (errBox) { errBox.textContent = err.message || "Could not load curriculum.json."; errBox.classList.remove("hidden"); }
+    if (grid) grid.innerHTML = '<p class="muted">The skill catalog could not be loaded yet.</p>';
+    if (errBox) { errBox.textContent = err.message || "Could not load skills.json."; errBox.classList.remove("hidden"); }
   });
 });
 </script>

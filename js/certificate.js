@@ -2,11 +2,17 @@
  * The certificate unlocks only when all 30 days are complete AND every
  * capstone check is ticked. The verification code format is
  * SC-YYYY-XXXXXX, where XXXXXX is 6 random uppercase letters or digits.
+ *
+ * Multi-skill: the skill name comes from the loaded curriculum
+ * (course.title), and the skill slug is stored in skill_slug when that
+ * column exists in the certificates table (see course.js probe).
  */
 (function () {
   "use strict";
 
-  var SKILL_NAME = "Full-Stack Web Development";
+  var DEFAULT_SKILL_NAME = "Full-Stack Web Development";
+  var SKILL_NAME = DEFAULT_SKILL_NAME;
+  var currentSkill = "full-stack-web-development";
 
   function el(id) { return document.getElementById(id); }
   function esc(s) {
@@ -14,6 +20,11 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
   }
+
+  /* The skill name for this certificate. After initCertificatePage loads
+   * the curriculum it is the curriculum title; before that it is the
+   * default skill name. */
+  function skillName() { return SKILL_NAME; }
 
   function generateCode() {
     var year = new Date().getFullYear();
@@ -45,10 +56,13 @@
   async function findCertificate(user) {
     var client = window.SkillApp && window.SkillApp.getClient ? window.SkillApp.getClient() : null;
     if (!client || !user) return null;
-    var res = await client.from("certificates")
+    var query = client.from("certificates")
       .select("id, code, skill, learner_name, issued_at")
-      .eq("user_id", user.id).eq("skill", SKILL_NAME)
-      .maybeSingle();
+      .eq("user_id", user.id).eq("skill", SKILL_NAME);
+    if (window.SkillCourse && window.SkillCourse.skillSlugSupported("certificates")) {
+      query = query.eq("skill_slug", currentSkill);
+    }
+    var res = await query.maybeSingle();
     if (res.error) return null;
     return res.data || null;
   }
@@ -56,16 +70,19 @@
   async function createCertificate(user, learnerName) {
     var client = window.SkillApp && window.SkillApp.getClient ? window.SkillApp.getClient() : null;
     if (!client || !user) return null;
+    var useSlug = window.SkillCourse && window.SkillCourse.skillSlugSupported("certificates");
     /* Retry a few times in case the random code already exists. */
     for (var attempt = 0; attempt < 5; attempt++) {
       var code = generateCode();
-      var res = await client.from("certificates").insert({
+      var row = {
         user_id: user.id,
         code: code,
         skill: SKILL_NAME,
         learner_name: learnerName,
         issued_at: new Date().toISOString()
-      }).select().single();
+      };
+      if (useSlug) row.skill_slug = currentSkill;
+      var res = await client.from("certificates").insert(row).select().single();
       if (!res.error && res.data) return res.data;
       if (res.error && !/duplicate|unique/i.test(res.error.message || "")) return null;
     }
@@ -103,7 +120,34 @@
     var session = await window.SkillApp.requireAuth();
     if (!session) return;
     var user = session.user;
-    await window.SkillCourse.loadProgress(user);
+    /* Load the curriculum FIRST so the capstone checks (7) and the skill
+     * name are real. Without this the gate fell back to the 5-item
+     * default checklist and the certificate page showed the wrong count. */
+    var slug = window.SkillCourse ? window.SkillCourse.skillSlugFromUrl() : "full-stack-web-development";
+    currentSkill = slug;
+    try {
+      await window.SkillCourse.loadCurriculum(slug);
+      SKILL_NAME = window.SkillCourse.courseTitle() || DEFAULT_SKILL_NAME;
+      currentSkill = window.SkillCourse.skillSlug();
+    } catch (err) {
+      var loadErr = el("cert-error");
+      if (loadErr) {
+        loadErr.classList.remove("hidden");
+        loadErr.textContent = err.message || "Could not load the curriculum for this skill.";
+      }
+      return;
+    }
+    await window.SkillCourse.loadProgress(user, slug);
+    /* Show the skill name and keep links on this skill. */
+    var intro = el("cert-skill-intro");
+    if (intro) intro.textContent = SKILL_NAME + ". It unlocks when all 30 days are complete and every capstone check is ticked.";
+    var title = el("cert-skill-title");
+    if (title) title.textContent = "Your certificate: " + SKILL_NAME;
+    var learnLink = el("cert-continue-link");
+    if (learnLink) learnLink.href = "learn.html?skill=" + encodeURIComponent(currentSkill);
+    var dashLink = el("cert-dashboard-link");
+    if (dashLink) dashLink.href = "dashboard.html?skill=" + encodeURIComponent(currentSkill);
+
     var gate = gateStatus();
     var statusBox = el("cert-status");
     var lockedBox = el("cert-locked");
@@ -184,6 +228,7 @@
     if (!resultBox) return;
 
     if (!code) {
+      resultBox.className = "verify-result";
       resultBox.innerHTML = '<p class="muted">Enter a verification code to check a certificate, or open a verification link.</p>';
       return;
     }
@@ -202,13 +247,22 @@
       .select("code, skill, learner_name, issued_at")
       .eq("code", code).maybeSingle();
     if (res.error) {
-      resultBox.className = "verify-result invalid";
-      resultBox.innerHTML = "<p class=\"big\">Could not verify</p><p>Something went wrong while checking this code. Please try again.</p>";
+      /* Backend problem, not a bad code: a different heading and class
+       * from the not-found case, with retry guidance. */
+      resultBox.className = "verify-result unavailable";
+      resultBox.innerHTML = '<p class="big">Verification unavailable right now</p>'
+        + "<p>We could not reach the certificate records to check <span class=\"verify-code-shown\">" + esc(code) + "</span>. "
+        + "This is a problem on our side, not with your code. Wait a moment and try again.</p>";
       return;
     }
     if (!res.data) {
-      resultBox.className = "verify-result invalid";
-      resultBox.innerHTML = '<p class="big">Not found</p><p>No certificate matches code ' + esc(code) + ". Check the code and try again.</p>";
+      /* The code is well formed but matches nothing: unmistakable. */
+      resultBox.className = "verify-result not-found";
+      resultBox.innerHTML = '<p class="big">No certificate found</p>'
+        + "<p>No certificate matches the code <span class=\"verify-code-shown\">" + esc(code) + "</span>.</p>"
+        + "<p>Check the code carefully: it starts with SC-, then the year, then 6 letters or numbers. "
+        + "Copy it straight from the certificate if you can, and make sure no character is missing or swapped. "
+        + "If the code came from a certificate that was never saved, it will not verify.</p>";
       return;
     }
     var issued = res.data.issued_at
@@ -222,6 +276,7 @@
 
   window.SkillCertificate = {
     SKILL_NAME: SKILL_NAME,
+    skillName: skillName,
     generateCode: generateCode,
     isCodeFormat: isCodeFormat,
     gateStatus: gateStatus,

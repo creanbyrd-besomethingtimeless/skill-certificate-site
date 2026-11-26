@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "cooking-basics",
+    "title": "Cooking Basics",
+    "level": "Beginner",
+    "tagline": "Cook with confidence: knife skills, flavours and everyday meals that taste great.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Welcome to Your Kitchen",
+      "goal": "Set up your kitchen, learn the rules of safety, and cook your first simple meal.",
+      "video": {
+        "youtube_id": "HTOLYckww5w",
+        "title": "Kelvin's Easy Kitchen Basics | Learn Cooking Step by Step Before Culinary School",
+        "channel": "Fast Finger Kelvin"
+      },
+      "steps": [
+        "Clear and wipe down your work surface and wash your hands for 20 seconds.",
+        "Find and lay out your basic tools: a sharp knife, chopping board, pot, pan and wooden spoon.",
+        "Learn the golden rule: wash hands after touching raw meat, and keep raw and cooked food apart.",
+        "Read a recipe all the way through before you start cooking.",
+        "Boil water, add a pinch of salt, and cook one egg for 7 minutes, then cool it in cold water."
+      ],
+      "task": "Cook one boiled egg and peel it cleanly.",
+      "challenge": "Time yourself: can you peel the egg in under one minute without tearing the white?",
+      "quiz": [
+        {
+          "q": "Why should you read a whole recipe before you start cooking?",
+          "options": [
+            "To waste time",
+            "To know the steps, tools and timing in advance",
+            "To memorise it",
+            "Recipes are only for professionals"
+          ],
+          "answer": 1,
+          "explain": "Reading first stops surprises mid-cook, like missing ingredients or a step that needs an hour."
+        },
+        {
+          "q": "How long should you wash your hands?",
+          "options": [
+            "5 seconds",
+            "10 seconds",
+            "20 seconds",
+            "1 minute"
+          ],
+          "answer": 2,
+          "explain": "20 seconds with soap removes most germs from your hands."
+        },
+        {
+          "q": "Where should raw meat be kept?",
+          "options": [
+            "Next to cooked food",
+            "On the top shelf",
+            "Away from cooked and ready-to-eat food",
+            "In the cupboard"
+          ],
+          "answer": 2,
+          "explain": "Raw meat can drip juices carrying germs onto cooked food, so keep them apart."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Knife Skills: Hold, Grip and Cut Safely",
+      "goal": "Hold a knife correctly and make safe, even cuts.",
+      "video": {
+        "youtube_id": "vBuQTUp-r7E",
+        "title": "Learn the Absolute Basics of Cooking in This Crash Course",
+        "channel": "David Santander"
+      },
+      "steps": [
+        "Learn the pinch grip: thumb and forefinger pinching the blade just above the handle.",
+        "Curl your fingertips under (the claw) on the hand holding the food.",
+        "Place a damp cloth under your chopping board so it cannot slip.",
+        "Practise the rocking cut on an onion: steady, even slices, not sawing.",
+        "Cut a carrot into even batons about the same thickness so they cook evenly."
+      ],
+      "task": "Slice one onion and one carrot into even pieces using the claw grip.",
+      "challenge": "Cut the carrot batons so no two differ by more than a few millimetres.",
+      "quiz": [
+        {
+          "q": "What is the claw grip?",
+          "options": [
+            "Holding the knife by the tip",
+            "Curling fingertips under so the knuckles guide the blade",
+            "Holding food with your palm flat",
+            "Cutting with your eyes closed"
+          ],
+          "answer": 1,
+          "explain": "Curled fingertips keep your fingers behind the blade; the knuckles guide the knife."
+        },
+        {
+          "q": "Why put a damp cloth under a chopping board?",
+          "options": [
+            "To keep it clean",
+            "To stop it slipping",
+            "To sharpen the knife",
+            "To catch the food"
+          ],
+          "answer": 1,
+          "explain": "A slipping board is one of the commonest causes of knife cuts."
+        },
+        {
+          "q": "Why cut vegetables to even sizes?",
+          "options": [
+            "It looks nice only",
+            "So they cook at the same rate",
+            "To save time",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "Uneven pieces cook unevenly: small ones burn while big ones stay raw."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "How to Chop an Onion Without Tears",
+      "goal": "Dice an onion quickly and cleanly.",
+      "video": {
+        "youtube_id": "WJ8psfO97W0",
+        "title": "How to Boil and Poach an Egg",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Peel the onion and cut it in half through the root.",
+        "Leave the root end on: it holds the layers together.",
+        "Make horizontal cuts toward the root, then vertical cuts, then slice across.",
+        "Keep the claw grip and let the knife do the work with a smooth rocking motion.",
+        "Sweep the diced onion into a bowl and rinse the board."
+      ],
+      "task": "Dice two onions: one finely, one in larger chunks.",
+      "challenge": "Chill the onion in the fridge for 15 minutes first and see if your eyes water less.",
+      "quiz": [
+        {
+          "q": "Why leave the root end on when dicing an onion?",
+          "options": [
+            "It tastes better",
+            "It holds the layers together while you cut",
+            "It stops tears",
+            "It makes it sweeter"
+          ],
+          "answer": 1,
+          "explain": "The root holds the layers in place so your cuts stay neat."
+        },
+        {
+          "q": "What order of cuts gives a dice?",
+          "options": [
+            "Across, then vertical, then horizontal",
+            "Horizontal, then vertical, then across",
+            "Vertical only",
+            "Random chopping"
+          ],
+          "answer": 1,
+          "explain": "Horizontal then vertical cuts, finished by slicing across, make even dice."
+        },
+        {
+          "q": "What really causes onion tears?",
+          "options": [
+            "The smell",
+            "Sulfur compounds released when cells are cut",
+            "The colour",
+            "The cold"
+          ],
+          "answer": 1,
+          "explain": "Cutting releases sulfur compounds that irritate the eyes; a sharp knife and cold onion reduce them."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Garlic and Herbs: Small Cuts, Big Flavour",
+      "goal": "Chop garlic and fresh herbs without bruising them.",
+      "video": {
+        "youtube_id": "RDtdUgI5IDc",
+        "title": "How to Peel and Cut an Avocado",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Peel garlic by smashing the clove lightly with the flat of your knife.",
+        "Mince garlic with a rocking motion, scraping the pile back together as you go.",
+        "Pick herb leaves off woody stems; keep soft stems of parsley and coriander.",
+        "Chop herbs with a sharp knife in a few strokes; do not grind them back and forth.",
+        "Store leftover chopped herbs in a little oil in a sealed container."
+      ],
+      "task": "Mince 4 garlic cloves and chop a small bunch of parsley.",
+      "challenge": "Mince the garlic in under 2 minutes with no large chunks left.",
+      "quiz": [
+        {
+          "q": "How do you peel a garlic clove fast?",
+          "options": [
+            "Boil it",
+            "Smash it lightly with the flat of the knife",
+            "Freeze it",
+            "Soak it in oil"
+          ],
+          "answer": 1,
+          "explain": "A light smash loosens the skin so it slips off."
+        },
+        {
+          "q": "Why should you not over-chop fresh herbs?",
+          "options": [
+            "They lose colour",
+            "Bruising releases bitter flavours and darkens them",
+            "They get too small",
+            "They dry out instantly"
+          ],
+          "answer": 1,
+          "explain": "Too much chopping bruises herbs, turning them dark and bitter."
+        },
+        {
+          "q": "When should garlic go into a hot pan?",
+          "options": [
+            "First, alone",
+            "After the onion has softened, so it does not burn",
+            "Only at the end",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Garlic burns in under a minute; add it after the onion softens."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Boiling, Simmering and Steaming",
+      "goal": "Control heat and water to boil and simmer properly.",
+      "video": {
+        "youtube_id": "l9g5_pUr-jM",
+        "title": "How to Chop Herbs",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Learn the difference: a boil is big rolling bubbles, a simmer is small gentle bubbles.",
+        "Salt pasta water so it tastes like the sea, about 1 tablespoon per litre.",
+        "Boil an egg: 6 minutes for jammy, 10 for fully set; cool in cold water.",
+        "Simmer a simple tomato sauce on low for 15 minutes with the lid half on.",
+        "Steam vegetables in a colander over boiling water for 3 to 5 minutes."
+      ],
+      "task": "Boil eggs two ways (6 minutes and 10 minutes) and compare the yolks.",
+      "challenge": "Steam broccoli so it stays bright green and still has a bite.",
+      "quiz": [
+        {
+          "q": "What is the difference between boiling and simmering?",
+          "options": [
+            "Nothing",
+            "Boiling is rolling bubbles, simmering is gentle small bubbles",
+            "Simmering is hotter",
+            "Boiling uses no water"
+          ],
+          "answer": 1,
+          "explain": "A boil is vigorous; a simmer is gentle heat just below boiling."
+        },
+        {
+          "q": "Why salt pasta water?",
+          "options": [
+            "To make it boil faster",
+            "To season the pasta from the inside",
+            "To stop sticking only",
+            "To colour it"
+          ],
+          "answer": 1,
+          "explain": "Salted water seasons the pasta itself, which sauce alone cannot do."
+        },
+        {
+          "q": "Why cool boiled eggs in cold water?",
+          "options": [
+            "To make them peel easier and stop the yolk greying",
+            "To make them colder",
+            "To wash them",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "Cold water stops the cooking and shrinks the egg slightly from the shell, so it peels cleanly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Rice, Perfect Every Time",
+      "goal": "Cook fluffy, separate-grained rice on the stove.",
+      "video": {
+        "youtube_id": "Q0L8Zr81FiM",
+        "title": "How to Chop an Onion",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Rinse rice in cold water until the water runs mostly clear.",
+        "Use the ratio: 1 part rice to 1.5 parts water for long-grain white rice.",
+        "Bring to a boil, then drop to the lowest heat, cover, and do not lift the lid.",
+        "Cook 12 to 15 minutes, then rest off the heat for 10 minutes, lid still on.",
+        "Fluff gently with a fork, never stir while it cooks."
+      ],
+      "task": "Cook a pot of white rice with no sticking and no mush.",
+      "challenge": "Cook the rice again tomorrow using the finger measure (water one knuckle above the rice) and compare.",
+      "quiz": [
+        {
+          "q": "Why rinse rice before cooking?",
+          "options": [
+            "To make it whiter",
+            "To remove surface starch so grains stay separate",
+            "To cook it faster",
+            "To add flavour"
+          ],
+          "answer": 1,
+          "explain": "Excess starch makes rice sticky and clumpy."
+        },
+        {
+          "q": "Why must you not lift the lid while rice cooks?",
+          "options": [
+            "It lets steam escape and ruins the timing",
+            "It is dangerous",
+            "The rice burns",
+            "It cools the pot too much only"
+          ],
+          "answer": 0,
+          "explain": "Rice cooks in trapped steam; lifting the lid lets it out and leaves the top undercooked."
+        },
+        {
+          "q": "Why rest rice for 10 minutes after cooking?",
+          "options": [
+            "To cool it",
+            "So the steam finishes cooking and the grains firm up",
+            "To save gas",
+            "To wash the pot"
+          ],
+          "answer": 1,
+          "explain": "Resting lets moisture even out so the rice is fluffy, not wet."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: Your First Full Meal",
+      "goal": "Cook a complete simple meal from scratch using this week's skills.",
+      "video": {
+        "youtube_id": "co2S7d6JfPE",
+        "title": "How to Chop Garlic",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Plan a meal: rice, a protein, and a vegetable side.",
+        "Write a shopping list and a cooking order, starting with the slowest item.",
+        "Prep everything first: chop onions, garlic and herbs before any heat goes on.",
+        "Cook the rice, then the protein, then the vegetables, timing them to finish together.",
+        "Plate it neatly, taste, season, and serve."
+      ],
+      "task": "Cook a full meal for yourself or your household today.",
+      "challenge": "Cook the same meal again but finish everything within 45 minutes.",
+      "quiz": [
+        {
+          "q": "What does 'mise en place' mean?",
+          "options": [
+            "Cook fast",
+            "Everything in its place: prep before you cook",
+            "Clean as you go only",
+            "Season at the end"
+          ],
+          "answer": 1,
+          "explain": "Prepping and measuring everything first makes cooking calm and on time."
+        },
+        {
+          "q": "What should you cook first in a multi-dish meal?",
+          "options": [
+            "The fastest dish",
+            "The slowest dish, so all finish together",
+            "The tastiest dish",
+            "The vegetable"
+          ],
+          "answer": 1,
+          "explain": "Start with what takes longest so everything lands on the table at once."
+        },
+        {
+          "q": "Why taste and season at the end?",
+          "options": [
+            "Seasoning early is banned",
+            "Flavours concentrate as food cooks, so final seasoning is most accurate",
+            "Salt is unhealthy",
+            "It saves salt"
+          ],
+          "answer": 1,
+          "explain": "Sauces reduce and flavours build, so the final taste is the true one."
+        }
+      ],
+      "project": {
+        "title": "Cook a Complete Meal",
+        "brief": "Plan and cook a full meal: rice, a protein and a vegetable side, served at one time.",
+        "checks": [
+          "Meal planned with a shopping list and cooking order",
+          "Onions, garlic and herbs chopped safely with the claw grip",
+          "Rice cooked fluffy and separate, not sticky",
+          "Protein cooked through and seasoned",
+          "Vegetables cooked, not overdone",
+          "Everything served together, hot, and plated neatly"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Frying: Shallow, Deep and Stir-Fry",
+      "goal": "Fry food safely and get crisp, golden results.",
+      "video": {
+        "youtube_id": "EbE4vfIolIA",
+        "title": "How to Cook Rice",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Heat oil until it shimmers; test with a small piece of food: it should sizzle at once.",
+        "Pat food dry before frying so oil does not spit.",
+        "Do not crowd the pan: cook in batches so the temperature stays high.",
+        "Turn food once, not constantly, so a crust can form.",
+        "Drain fried food on a wire rack or paper towel, and season while hot."
+      ],
+      "task": "Shallow-fry plantain or chicken pieces until golden.",
+      "challenge": "Fry a second batch without crowding and compare the crispness.",
+      "quiz": [
+        {
+          "q": "Why pat food dry before frying?",
+          "options": [
+            "To save oil",
+            "Water in hot oil spits and drops the temperature",
+            "It looks better",
+            "It cooks faster only"
+          ],
+          "answer": 1,
+          "explain": "Water turns to steam violently in hot oil and cools the oil, making food soggy."
+        },
+        {
+          "q": "Why not crowd the pan?",
+          "options": [
+            "It uses more oil",
+            "The oil temperature drops and food steams instead of frying",
+            "It takes longer to turn",
+            "The pan breaks"
+          ],
+          "answer": 1,
+          "explain": "Crowding drops the oil temperature, so food goes soggy instead of crisp."
+        },
+        {
+          "q": "Why season fried food while it is hot?",
+          "options": [
+            "Salt sticks better to hot, slightly oily surfaces",
+            "It cools faster",
+            "It is tradition",
+            "Cold food rejects salt"
+          ],
+          "answer": 0,
+          "explain": "Salt clings to the hot surface; once food cools and dries, salt falls off."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "How to Cook Pasta Properly",
+      "goal": "Cook pasta al dente and pair it with a simple sauce.",
+      "video": {
+        "youtube_id": "FZgZPARYwFI",
+        "title": "How to Cook Pasta",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Use a large pot with plenty of salted water.",
+        "Add pasta only when the water is at a full rolling boil.",
+        "Stir in the first minute so it does not stick together.",
+        "Taste a piece 1 minute before the packet time: it should be firm, not soft.",
+        "Save a cup of pasta water to loosen and bind the sauce."
+      ],
+      "task": "Cook spaghetti and toss it in a quick garlic and tomato sauce.",
+      "challenge": "Cook the pasta so it finishes in the sauce, not in the water.",
+      "quiz": [
+        {
+          "q": "When should pasta go into the pot?",
+          "options": [
+            "In cold water",
+            "When the water is at a full rolling boil",
+            "After the sauce is ready",
+            "Any time"
+          ],
+          "answer": 1,
+          "explain": "Boiling water sets the surface starch quickly so pasta does not clump."
+        },
+        {
+          "q": "What does 'al dente' mean?",
+          "options": [
+            "Overcooked",
+            "Firm to the bite",
+            "Raw",
+            "Soft and mushy"
+          ],
+          "answer": 1,
+          "explain": "Al dente means firm to the bite, the correct texture for pasta."
+        },
+        {
+          "q": "Why save pasta water?",
+          "options": [
+            "To drink",
+            "Its starch helps the sauce cling and thicken",
+            "To clean the pot",
+            "To water plants"
+          ],
+          "answer": 1,
+          "explain": "Starchy pasta water helps the sauce stick to the pasta instead of sliding off."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Roasting Chicken and Vegetables",
+      "goal": "Roast a whole chicken with vegetables in one tray.",
+      "video": {
+        "youtube_id": "NGehmH2lbuU",
+        "title": "How to Make a Baked Potato",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Pat the chicken dry and season inside and out with salt, pepper and garlic.",
+        "Cut vegetables into similar sizes and toss in oil and salt.",
+        "Roast at 200°C, chicken on top of the vegetables so the juices drip down.",
+        "Cook until the juices run clear and the thickest part reaches 75°C.",
+        "Rest the chicken 10 minutes before carving so the juices stay in."
+      ],
+      "task": "Roast a whole chicken with potatoes and carrots.",
+      "challenge": "Carve the chicken neatly into 8 pieces.",
+      "quiz": [
+        {
+          "q": "Why rest roast chicken before carving?",
+          "options": [
+            "It cools down",
+            "Juices redistribute so the meat stays moist",
+            "It is easier to hold",
+            "The skin crisps more"
+          ],
+          "answer": 1,
+          "explain": "Cutting at once lets the juices run out; resting keeps them in the meat."
+        },
+        {
+          "q": "What temperature must chicken reach inside?",
+          "options": [
+            "60°C",
+            "75°C",
+            "90°C",
+            "100°C"
+          ],
+          "answer": 1,
+          "explain": "75°C kills harmful bacteria in poultry."
+        },
+        {
+          "q": "Why put vegetables under the chicken?",
+          "options": [
+            "To save space",
+            "Chicken juices drip down and flavour them",
+            "They cook slower",
+            "To keep them clean"
+          ],
+          "answer": 1,
+          "explain": "The drippings baste the vegetables with flavour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Soups and Stews: Building Flavour",
+      "goal": "Build a soup or stew in layers of flavour.",
+      "video": {
+        "youtube_id": "vUGqBIM7Cz4",
+        "title": "How to Cook Roast Chicken and Vegetables",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Start with onion, garlic and a little oil: the flavour base.",
+        "Brown meat or vegetables first for deeper colour and taste.",
+        "Add liquid, bring to a boil, then simmer low and slow.",
+        "Season in stages and taste at the end.",
+        "Skim any foam or fat from the surface while it simmers."
+      ],
+      "task": "Make a simple vegetable or chicken soup from scratch.",
+      "challenge": "Make the same soup with one extra spice and note the difference.",
+      "quiz": [
+        {
+          "q": "Why brown meat before adding liquid?",
+          "options": [
+            "To cook it faster",
+            "Browning creates deep savoury flavour",
+            "To make it soft",
+            "To remove fat"
+          ],
+          "answer": 1,
+          "explain": "Browning makes deep, rich flavours that water alone cannot make."
+        },
+        {
+          "q": "Why simmer a stew low and slow?",
+          "options": [
+            "To save gas",
+            "Tough fibres soften and flavours meld",
+            "It looks better",
+            "To keep it hot"
+          ],
+          "answer": 1,
+          "explain": "Gentle long cooking breaks down tough meat and blends flavours."
+        },
+        {
+          "q": "Why season in stages?",
+          "options": [
+            "Salt is expensive",
+            "Flavours build as food cooks, so you adjust as you go",
+            "It is a rule",
+            "To use less salt"
+          ],
+          "answer": 1,
+          "explain": "Seasoning in stages builds depth; one big dose at the end tastes flat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Eggs: Fried, Scrambled and Omelette",
+      "goal": "Cook eggs three ways with confidence.",
+      "video": {
+        "youtube_id": "NZ9eb_CWe_Q",
+        "title": "The Most Essential Knife Skills You Need For Everyday Cooking",
+        "channel": "Dalstrong"
+      },
+      "steps": [
+        "Fried egg: medium heat, a little oil, lid on for 1 minute to set the top.",
+        "Scrambled: low heat, constant slow stirring, take off the heat while still slightly runny.",
+        "Omelette: whisk eggs with salt, pour into a hot buttered pan, fill and fold.",
+        "Use fresh eggs: they hold their shape better in the pan.",
+        "Season eggs after cooking, not before, for a better texture."
+      ],
+      "task": "Cook one fried egg, one scrambled egg and one omelette.",
+      "challenge": "Make an omelette with a filling of your choice, folded without tearing.",
+      "quiz": [
+        {
+          "q": "Why cook scrambled eggs on low heat?",
+          "options": [
+            "To save gas",
+            "High heat makes them rubbery and dry",
+            "Low heat is faster",
+            "Eggs burn easily"
+          ],
+          "answer": 1,
+          "explain": "Gentle heat and slow stirring give soft, creamy curds."
+        },
+        {
+          "q": "Why take scrambled eggs off the heat while still slightly runny?",
+          "options": [
+            "They look better",
+            "Leftover heat finishes cooking them",
+            "To save time",
+            "They are raw"
+          ],
+          "answer": 1,
+          "explain": "The eggs keep cooking in their own heat, so stopping early stops them going dry."
+        },
+        {
+          "q": "How do you know an egg is fresh?",
+          "options": [
+            "It floats in water",
+            "It sinks and lies flat in water",
+            "It smells",
+            "It is heavy"
+          ],
+          "answer": 1,
+          "explain": "Fresh eggs sink and lie flat; old eggs float because air builds up inside."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Seasoning and Tasting Like a Cook",
+      "goal": "Season food with salt, acid, heat and sweetness in balance.",
+      "video": {
+        "youtube_id": "NlnOsnr94qM",
+        "title": "Knife Skills: Cutting Techniques",
+        "channel": "ELLICSR Kitchen"
+      },
+      "steps": [
+        "Taste as you cook, not only at the end.",
+        "Salt in small pinches and taste after each one.",
+        "Add acid (lemon, lime or vinegar) to brighten rich or fatty food.",
+        "Add a pinch of sugar or honey to balance tomato or chilli heat.",
+        "Write down what worked so you can repeat it."
+      ],
+      "task": "Take a plain soup and adjust it with salt, then lemon, then a pinch of sugar, tasting each step.",
+      "challenge": "Fix an over-salted soup using potato or extra water and record what worked.",
+      "quiz": [
+        {
+          "q": "What does acid like lemon do in a dish?",
+          "options": [
+            "Makes it sour only",
+            "Brightens and balances rich, fatty flavours",
+            "Makes it sweet",
+            "Thickens it"
+          ],
+          "answer": 1,
+          "explain": "Acid cuts through richness and lifts the other flavours."
+        },
+        {
+          "q": "What balances too much chilli heat?",
+          "options": [
+            "More salt",
+            "A little sweetness or dairy",
+            "More chilli",
+            "Water"
+          ],
+          "answer": 1,
+          "explain": "Sugar or dairy softens heat; water spreads it around."
+        },
+        {
+          "q": "Why season in small pinches?",
+          "options": [
+            "Salt is costly",
+            "You can always add more, but you cannot take it out",
+            "It dissolves better",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Over-salting is hard to fix, so build up slowly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: Cook for Two",
+      "goal": "Plan and cook a two-course meal for two people.",
+      "video": {
+        "youtube_id": "Zk2aJoFZIaY",
+        "title": "Chicken Fried Rice",
+        "channel": "Natasha's Kitchen"
+      },
+      "steps": [
+        "Choose a starter and a main that share ingredients to save money.",
+        "Write a timeline working backwards from serving time.",
+        "Prep all vegetables and seasonings before cooking anything.",
+        "Cook the main first if it needs resting, then the starter.",
+        "Serve both courses, ask for honest feedback, and note it down."
+      ],
+      "task": "Cook a two-course meal for two people.",
+      "challenge": "Serve the meal with a drink you made yourself, like fresh juice or zobo.",
+      "quiz": [
+        {
+          "q": "Why work backwards from serving time?",
+          "options": [
+            "It is faster",
+            "It makes sure every dish is ready at the right moment",
+            "It saves gas",
+            "It is a chef rule"
+          ],
+          "answer": 1,
+          "explain": "A backwards timeline stops dishes finishing too early or too late."
+        },
+        {
+          "q": "Why share ingredients between courses?",
+          "options": [
+            "To save money and reduce waste",
+            "To make cooking boring",
+            "To use less salt",
+            "It is required"
+          ],
+          "answer": 0,
+          "explain": "Shared ingredients cut cost and waste."
+        },
+        {
+          "q": "What is the best way to get useful feedback?",
+          "options": [
+            "Ask 'was it nice?'",
+            "Ask what they liked and what they would change",
+            "Do not ask",
+            "Ask only friends"
+          ],
+          "answer": 1,
+          "explain": "Specific questions give answers you can actually cook better with."
+        }
+      ],
+      "project": {
+        "title": "Cook a Two-Course Meal for Two",
+        "brief": "Cook a starter and a main for two people, served on time and on budget.",
+        "checks": [
+          "Two courses planned with a shared-ingredients list",
+          "Timeline written backwards from serving time",
+          "Both dishes seasoned and tasted before serving",
+          "Main course rested if needed and served hot",
+          "Starter and main served in order, without a long wait",
+          "Feedback collected and written down"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Baked Potatoes and Simple Sides",
+      "goal": "Make baked potatoes and two quick sides.",
+      "video": {
+        "youtube_id": "eJImdb1Dfh8",
+        "title": "Chicken Egg Fried Rice",
+        "channel": "Flavourfully Good"
+      },
+      "steps": [
+        "Scrub potatoes, prick with a fork, rub with oil and salt.",
+        "Bake at 200°C for about an hour until the skin is crisp and the inside is fluffy.",
+        "Make a quick side salad: wash, dry and chop leaves, add a simple oil and lemon dressing.",
+        "Steam green beans for 3 minutes, then toss with garlic butter.",
+        "Serve sides that contrast: one hot, one cold, one crunchy."
+      ],
+      "task": "Bake potatoes and serve with a salad and garlic green beans.",
+      "challenge": "Try a stuffed baked potato with a filling of your choice.",
+      "quiz": [
+        {
+          "q": "Why prick a potato before baking?",
+          "options": [
+            "To cook it faster",
+            "So steam escapes and it does not burst",
+            "To add flavour",
+            "To make holes for filling"
+          ],
+          "answer": 1,
+          "explain": "Steam builds inside a sealed potato and can make it burst."
+        },
+        {
+          "q": "Why dry salad leaves before dressing?",
+          "options": [
+            "They look better",
+            "Water stops dressing from sticking",
+            "They taste better",
+            "They stay green"
+          ],
+          "answer": 1,
+          "explain": "Wet leaves repel dressing, so the salad tastes watery."
+        },
+        {
+          "q": "How long should green beans steam?",
+          "options": [
+            "10 minutes",
+            "About 3 minutes, so they stay crisp",
+            "20 minutes",
+            "1 minute"
+          ],
+          "answer": 1,
+          "explain": "Three minutes keeps beans bright and crisp; longer makes them limp."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Stir-Fry: Fast, Hot and Fresh",
+      "goal": "Stir-fry vegetables and chicken in minutes.",
+      "video": {
+        "youtube_id": "HTOLYckww5w",
+        "title": "Kelvin's Easy Kitchen Basics | Learn Cooking Step by Step Before Culinary School",
+        "channel": "Fast Finger Kelvin"
+      },
+      "steps": [
+        "Cut everything into similar small sizes before heating the pan.",
+        "Get the pan very hot and add oil just before the food.",
+        "Cook in small batches so food fries instead of steaming.",
+        "Add sauce at the end and toss for 30 seconds.",
+        "Serve immediately over rice or noodles."
+      ],
+      "task": "Make a chicken and vegetable stir-fry.",
+      "challenge": "Stir-fry again using only vegetables and compare the timing.",
+      "quiz": [
+        {
+          "q": "Why must stir-fry ingredients be cut before the pan heats?",
+          "options": [
+            "To save time",
+            "Stir-frying is so fast there is no time to chop mid-cook",
+            "To keep them cold",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "A stir-fry takes minutes; if you stop to chop, the food in the pan burns."
+        },
+        {
+          "q": "Why cook stir-fry in small batches?",
+          "options": [
+            "It looks better",
+            "A crowded pan steams food instead of frying it",
+            "It saves oil",
+            "It is traditional"
+          ],
+          "answer": 1,
+          "explain": "Too much food drops the pan temperature and the food goes soggy."
+        },
+        {
+          "q": "When does sauce go into a stir-fry?",
+          "options": [
+            "At the start",
+            "At the end, tossed for 30 seconds",
+            "Before the oil",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Sauce added early burns or makes everything soggy; added last it coats and glazes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Chicken Fried Rice from Scratch",
+      "goal": "Make chicken fried rice with day-old rice.",
+      "video": {
+        "youtube_id": "vBuQTUp-r7E",
+        "title": "Learn the Absolute Basics of Cooking in This Crash Course",
+        "channel": "David Santander"
+      },
+      "steps": [
+        "Use cold, day-old rice: fresh rice turns mushy in the pan.",
+        "Scramble the egg first, remove it, then fry the chicken.",
+        "Add onion, garlic and vegetables, then the rice.",
+        "Season with soy sauce, a little salt and pepper.",
+        "Toss everything on high heat for 2 minutes, then add the egg back."
+      ],
+      "task": "Cook chicken fried rice for your household.",
+      "challenge": "Make a second version with different vegetables and note the best combo.",
+      "quiz": [
+        {
+          "q": "Why use day-old rice for fried rice?",
+          "options": [
+            "It is cheaper",
+            "Cold, dry rice fries into separate grains instead of mush",
+            "It tastes better",
+            "It cooks faster"
+          ],
+          "answer": 1,
+          "explain": "Fresh rice is too moist and clumps; cold rice stays separate."
+        },
+        {
+          "q": "Why scramble the egg first and set it aside?",
+          "options": [
+            "To save time",
+            "So it does not overcook while the rest fries",
+            "It is tradition",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "Egg cooks in seconds; adding it back at the end keeps it tender."
+        },
+        {
+          "q": "What does soy sauce add besides salt?",
+          "options": [
+            "Colour only",
+            "Savoury depth and colour",
+            "Sweetness",
+            "Thickness"
+          ],
+          "answer": 1,
+          "explain": "Soy sauce adds a deep savoury taste and a golden colour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Sauces: The Five You Will Use Most",
+      "goal": "Make a simple tomato sauce, a white sauce, a gravy, a stir-fry sauce and a dressing.",
+      "video": {
+        "youtube_id": "WJ8psfO97W0",
+        "title": "How to Boil and Poach an Egg",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Tomato sauce: onion, garlic, tomatoes, simmer 20 minutes.",
+        "White sauce: melt butter, stir in flour, add milk slowly, stir until thick.",
+        "Gravy: use roast pan juices, add flour, then stock, and simmer.",
+        "Stir-fry sauce: soy sauce, honey, garlic and a little water.",
+        "Dressing: 3 parts oil to 1 part lemon juice or vinegar, with salt."
+      ],
+      "task": "Make two sauces today and use them on a meal.",
+      "challenge": "Store the leftover sauce in a sealed container and label it with the date.",
+      "quiz": [
+        {
+          "q": "What is the flour-and-butter base of a white sauce called?",
+          "options": [
+            "A roux",
+            "A stock",
+            "A glaze",
+            "A marinade"
+          ],
+          "answer": 0,
+          "explain": "A roux is equal parts butter and flour cooked together, the base of white sauce."
+        },
+        {
+          "q": "Why add milk slowly to a roux?",
+          "options": [
+            "To save milk",
+            "To avoid lumps",
+            "To keep it hot",
+            "To make it white"
+          ],
+          "answer": 1,
+          "explain": "Adding liquid slowly while stirring stops lumps forming."
+        },
+        {
+          "q": "What is the classic oil-to-acid ratio for a dressing?",
+          "options": [
+            "1 to 1",
+            "3 parts oil to 1 part acid",
+            "1 part oil to 3 parts acid",
+            "5 to 1"
+          ],
+          "answer": 1,
+          "explain": "Three parts oil to one part acid gives a balanced dressing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Cooking on a Budget: Plan the Week",
+      "goal": "Plan a week of meals that wastes nothing.",
+      "video": {
+        "youtube_id": "RDtdUgI5IDc",
+        "title": "How to Peel and Cut an Avocado",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "List what you already have in the cupboard and fridge.",
+        "Plan meals around one or two cheap proteins, like eggs, beans or chicken.",
+        "Cook once, eat twice: make extra rice or stew and use it the next day.",
+        "Use leftovers in a new dish, like fried rice or a wrap.",
+        "Cost each meal and keep the week under your budget."
+      ],
+      "task": "Write a 7-day meal plan using what you already have plus one shop.",
+      "challenge": "Cost your plan and cut it by 10 percent without losing a meal.",
+      "quiz": [
+        {
+          "q": "What does 'cook once, eat twice' mean?",
+          "options": [
+            "Cook double and eat it all",
+            "Make extra and reuse it in another meal",
+            "Cook two dishes at once",
+            "Eat leftovers cold"
+          ],
+          "answer": 1,
+          "explain": "Cooking extra and reusing it saves time, gas and money."
+        },
+        {
+          "q": "What is the first step in budget meal planning?",
+          "options": [
+            "Go shopping",
+            "Check what you already have",
+            "Pick recipes",
+            "Ask friends"
+          ],
+          "answer": 1,
+          "explain": "Knowing what you have stops you buying things twice."
+        },
+        {
+          "q": "Why plan meals around one or two proteins?",
+          "options": [
+            "It is boring",
+            "Buying in bulk is cheaper and simpler",
+            "It tastes better",
+            "It saves water"
+          ],
+          "answer": 1,
+          "explain": "Fewer proteins bought in larger amounts cost less per meal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Kitchen Safety and First Aid",
+      "goal": "Prevent the commonest kitchen injuries and handle them calmly.",
+      "video": {
+        "youtube_id": "l9g5_pUr-jM",
+        "title": "How to Chop Herbs",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Keep pan handles turned in so they cannot be knocked.",
+        "Never put water on a grease fire: smother it with a lid or damp cloth.",
+        "Keep knives sharp: a dull knife slips and cuts worse.",
+        "For a small burn, run cool water over it for 10 minutes.",
+        "Know where your first aid kit is and keep a phone nearby."
+      ],
+      "task": "Do a safety check of your kitchen and fix three hazards.",
+      "challenge": "Practise the grease-fire rule: lid on, heat off, never water.",
+      "quiz": [
+        {
+          "q": "What should you never do to a grease fire?",
+          "options": [
+            "Smother it with a lid",
+            "Pour water on it",
+            "Turn off the heat",
+            "Step back"
+          ],
+          "answer": 1,
+          "explain": "Water turns to steam and throws burning oil everywhere."
+        },
+        {
+          "q": "Why is a dull knife more dangerous than a sharp one?",
+          "options": [
+            "It cuts slower",
+            "It slips off food and cuts you",
+            "It is heavier",
+            "It breaks"
+          ],
+          "answer": 1,
+          "explain": "A dull blade needs more force and slips, which causes deep cuts."
+        },
+        {
+          "q": "How long should you run cool water on a small burn?",
+          "options": [
+            "10 seconds",
+            "1 minute",
+            "10 minutes",
+            "30 minutes"
+          ],
+          "answer": 2,
+          "explain": "Ten minutes of cool running water cools the burn properly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: Three Dishes, One Table",
+      "goal": "Cook three different dishes and serve them together as a spread.",
+      "video": {
+        "youtube_id": "Q0L8Zr81FiM",
+        "title": "How to Chop an Onion",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Pick three dishes that use different methods: one fried, one boiled or stewed, one roasted.",
+        "Write a full shopping list and a cooking timeline.",
+        "Prep everything first, then cook in order of longest to shortest.",
+        "Keep finished dishes warm in a low oven while you finish the rest.",
+        "Serve all three at once, with a drink, and photograph the table."
+      ],
+      "task": "Cook a three-dish spread for your household.",
+      "challenge": "Serve the same spread to a guest and ask for their favourite dish.",
+      "quiz": [
+        {
+          "q": "Why use different cooking methods in one spread?",
+          "options": [
+            "To show off",
+            "Different methods give different textures and flavours",
+            "To save gas",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "A mix of fried, stewed and roasted food gives variety on the table."
+        },
+        {
+          "q": "How do you keep finished dishes warm?",
+          "options": [
+            "Leave them on the counter",
+            "In a low oven, covered",
+            "In the fridge",
+            "On high heat"
+          ],
+          "answer": 1,
+          "explain": "A low oven keeps food warm without overcooking it."
+        },
+        {
+          "q": "What is the best order to cook three dishes?",
+          "options": [
+            "Shortest first",
+            "Longest first, so all finish together",
+            "Tastiest first",
+            "Random"
+          ],
+          "answer": 1,
+          "explain": "Starting with the slowest dish means everything is ready at the same time."
+        }
+      ],
+      "project": {
+        "title": "Cook a Three-Dish Spread",
+        "brief": "Cook three dishes using different methods and serve them together.",
+        "checks": [
+          "Three dishes chosen using different cooking methods",
+          "Shopping list and timeline written",
+          "All prep done before cooking starts",
+          "Each dish seasoned and cooked properly",
+          "Dishes served together, warm, with a drink",
+          "Table photographed and feedback noted"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Freezing and Storing Leftovers",
+      "goal": "Store cooked food safely and reheat it well.",
+      "video": {
+        "youtube_id": "co2S7d6JfPE",
+        "title": "How to Chop Garlic",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Cool cooked food quickly in shallow containers, within 2 hours.",
+        "Label containers with the dish name and the date.",
+        "Freeze in flat bags or small portions so they thaw fast.",
+        "Thaw in the fridge overnight, never on the counter.",
+        "Reheat until steaming hot all the way through, 75°C."
+      ],
+      "task": "Cook extra stew, cool it, label it and freeze two portions.",
+      "challenge": "Thaw one portion in the fridge and reheat it properly the next day.",
+      "quiz": [
+        {
+          "q": "How fast must cooked food be cooled and stored?",
+          "options": [
+            "Within 2 hours",
+            "Within 6 hours",
+            "By bedtime",
+            "Next day"
+          ],
+          "answer": 0,
+          "explain": "Food left out over 2 hours sits in the danger zone where bacteria grow fast."
+        },
+        {
+          "q": "Why freeze in flat bags?",
+          "options": [
+            "They look neat",
+            "They freeze and thaw faster",
+            "They use less plastic",
+            "They stack better only"
+          ],
+          "answer": 1,
+          "explain": "Flat portions freeze and thaw quickly and evenly."
+        },
+        {
+          "q": "What temperature must reheated food reach?",
+          "options": [
+            "50°C",
+            "60°C",
+            "75°C",
+            "100°C"
+          ],
+          "answer": 2,
+          "explain": "Reheating to 75°C all the way through kills bacteria."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Cooking for Guests: Portions and Timing",
+      "goal": "Scale recipes up and serve guests without stress.",
+      "video": {
+        "youtube_id": "EbE4vfIolIA",
+        "title": "How to Cook Rice",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Multiply a recipe by the number of guests, keeping the ratios the same.",
+        "Add about 10 percent extra for big eaters and seconds.",
+        "Use a bigger pot, not a fuller one: food needs room to cook.",
+        "Set the table before you start cooking.",
+        "Serve in courses or family style so nobody waits hungry."
+      ],
+      "task": "Cook a meal for 4 or more people, scaling a recipe you already know.",
+      "challenge": "Time the meal from first prep to serving and write the real time down.",
+      "quiz": [
+        {
+          "q": "When scaling a recipe up, what stays the same?",
+          "options": [
+            "Cooking time only",
+            "The ratios of ingredients",
+            "The pot size",
+            "The salt only"
+          ],
+          "answer": 1,
+          "explain": "Doubling a recipe means doubling every ingredient to keep the balance."
+        },
+        {
+          "q": "Why add about 10 percent extra?",
+          "options": [
+            "To waste food",
+            "For big eaters and seconds",
+            "To look generous",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "A small buffer stops you running out when guests eat more."
+        },
+        {
+          "q": "Why use a bigger pot when cooking more?",
+          "options": [
+            "It looks better",
+            "Food needs space to cook evenly",
+            "It heats faster",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "An overfull pot steams instead of frying and cooks unevenly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Baking Basics: Your First Bread",
+      "goal": "Bake a simple loaf of bread from scratch.",
+      "video": {
+        "youtube_id": "FZgZPARYwFI",
+        "title": "How to Cook Pasta",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Mix flour, yeast, salt and warm water into a soft dough.",
+        "Knead for 10 minutes until smooth and springy.",
+        "Cover and leave to rise for 1 hour until doubled in size.",
+        "Shape into a loaf, rest 30 minutes, then bake at 200°C for 25 to 30 minutes.",
+        "Cool on a rack before slicing so the inside sets."
+      ],
+      "task": "Bake one loaf of bread.",
+      "challenge": "Bake a second loaf with herbs or garlic mixed into the dough.",
+      "quiz": [
+        {
+          "q": "Why knead bread dough?",
+          "options": [
+            "To make it soft",
+            "To build gluten so the bread rises and holds shape",
+            "To warm it",
+            "To remove air"
+          ],
+          "answer": 1,
+          "explain": "Kneading develops gluten, the stretchy network that traps gas and makes bread rise."
+        },
+        {
+          "q": "Why leave dough to rise?",
+          "options": [
+            "To rest",
+            "So yeast makes gas and the dough doubles",
+            "To cool it",
+            "To dry it"
+          ],
+          "answer": 1,
+          "explain": "Yeast feeds on sugars and releases gas, which makes the dough rise."
+        },
+        {
+          "q": "Why cool bread before slicing?",
+          "options": [
+            "It tastes better",
+            "The inside is still setting; cutting early makes it gummy",
+            "It is too hot to hold",
+            "The crust hardens"
+          ],
+          "answer": 1,
+          "explain": "Hot bread is still cooking inside; slicing early gives a doughy, gummy crumb."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "One-Pot Meals: Less Washing, More Flavour",
+      "goal": "Cook complete meals in a single pot.",
+      "video": {
+        "youtube_id": "NGehmH2lbuU",
+        "title": "How to Make a Baked Potato",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Brown the protein first, then remove it and cook the onions in the same pot.",
+        "Add rice or pasta, liquid and seasonings, then return the protein.",
+        "Keep the lid on and cook on low until the grains are done.",
+        "Stir once or twice only, so the bottom does not stick.",
+        "Rest 5 minutes, then serve straight from the pot."
+      ],
+      "task": "Cook a one-pot chicken and rice dish.",
+      "challenge": "Cook a one-pot pasta dish and compare the washing up.",
+      "quiz": [
+        {
+          "q": "Why brown the protein first in a one-pot meal?",
+          "options": [
+            "To cook it faster",
+            "Browning adds flavour that stays in the pot",
+            "To make it soft",
+            "To remove fat"
+          ],
+          "answer": 1,
+          "explain": "The browned bits left in the pot flavour everything that cooks after."
+        },
+        {
+          "q": "Why stir a one-pot rice dish only once or twice?",
+          "options": [
+            "It is boring",
+            "Too much stirring makes rice sticky and breaks it",
+            "It saves time",
+            "It cools the pot"
+          ],
+          "answer": 1,
+          "explain": "Over-stirring releases starch and turns rice gluey."
+        },
+        {
+          "q": "What is the main advantage of one-pot cooking?",
+          "options": [
+            "It is faster only",
+            "Fewer dishes and flavours that build in one pot",
+            "It uses less salt",
+            "It looks better"
+          ],
+          "answer": 1,
+          "explain": "One pot means less washing and flavours layering in the same pot."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Breakfast Like a Cook",
+      "goal": "Cook a proper breakfast spread in 30 minutes.",
+      "video": {
+        "youtube_id": "vUGqBIM7Cz4",
+        "title": "How to Cook Roast Chicken and Vegetables",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Start with the slowest item: boiled or baked potatoes.",
+        "Cook eggs last, since they take minutes.",
+        "Fry plantain or make pancakes while the eggs cook.",
+        "Make a quick fruit salad with whatever fruit you have.",
+        "Serve everything hot at once with tea or coffee."
+      ],
+      "task": "Cook a full breakfast: eggs, plantain or pancakes, and fruit.",
+      "challenge": "Time the breakfast and try to finish everything in 30 minutes.",
+      "quiz": [
+        {
+          "q": "What should you cook first at breakfast?",
+          "options": [
+            "The eggs",
+            "The slowest item, like potatoes",
+            "The fruit",
+            "The tea"
+          ],
+          "answer": 1,
+          "explain": "Slow items start first so everything finishes together."
+        },
+        {
+          "q": "Why cook eggs last?",
+          "options": [
+            "They are small",
+            "They cook in minutes and go cold fast",
+            "They are hard",
+            "They need a clean pan"
+          ],
+          "answer": 1,
+          "explain": "Eggs cook in 2 to 3 minutes and cool quickly, so they go last."
+        },
+        {
+          "q": "What makes a good breakfast spread?",
+          "options": [
+            "One big dish",
+            "A mix of hot, fresh and sweet items",
+            "Only eggs",
+            "Only fruit"
+          ],
+          "answer": 1,
+          "explain": "A mix of hot food, fresh fruit and a drink makes a balanced breakfast."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Taste, Adjust, Serve: The Cook's Final Check",
+      "goal": "Do a final taste-and-adjust pass on any dish.",
+      "video": {
+        "youtube_id": "NZ9eb_CWe_Q",
+        "title": "The Most Essential Knife Skills You Need For Everyday Cooking",
+        "channel": "Dalstrong"
+      },
+      "steps": [
+        "Taste with a clean spoon, not your fingers.",
+        "Ask: does it need salt, acid, heat or sweetness?",
+        "Adjust one thing at a time and taste again.",
+        "Check the temperature: hot food should be hot, cold food cold.",
+        "Garnish simply: fresh herbs or a squeeze of lemon."
+      ],
+      "task": "Take yesterday's leftovers and improve them with one adjustment.",
+      "challenge": "Cook a dish, then deliberately fix it three ways and record the best.",
+      "quiz": [
+        {
+          "q": "Why taste with a clean spoon?",
+          "options": [
+            "It looks professional",
+            "It avoids spreading germs from your mouth",
+            "It tastes better",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Double-dipping spreads germs into the food."
+        },
+        {
+          "q": "Why adjust only one thing at a time?",
+          "options": [
+            "To save salt",
+            "So you know what fixed it",
+            "It is faster",
+            "To use less seasoning"
+          ],
+          "answer": 1,
+          "explain": "Changing one thing at a time tells you exactly what worked."
+        },
+        {
+          "q": "What is a garnish for?",
+          "options": [
+            "To hide mistakes",
+            "To add colour, freshness or a final flavour lift",
+            "To make food bigger",
+            "To cool food"
+          ],
+          "answer": 1,
+          "explain": "A simple garnish adds colour and a last touch of flavour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Your Signature Dish",
+      "goal": "Choose and perfect one dish you can cook brilliantly.",
+      "video": {
+        "youtube_id": "NlnOsnr94qM",
+        "title": "Knife Skills: Cutting Techniques",
+        "channel": "ELLICSR Kitchen"
+      },
+      "steps": [
+        "Pick a dish you love and have cooked at least twice.",
+        "Write the recipe in your own words with exact amounts.",
+        "Cook it again, timing every step and noting problems.",
+        "Fix the problems: adjust seasoning, timing or method.",
+        "Cook it once more until it is consistent every time."
+      ],
+      "task": "Cook your chosen signature dish and write the final recipe down.",
+      "challenge": "Cook your signature dish for someone else and get their verdict.",
+      "quiz": [
+        {
+          "q": "What makes a dish a 'signature dish'?",
+          "options": [
+            "It is expensive",
+            "A dish you can cook brilliantly and consistently",
+            "A dish with a fancy name",
+            "A dish only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature dish is one you have mastered and can repeat with the same great result."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself forces you to understand each step."
+        },
+        {
+          "q": "Why cook the same dish several times?",
+          "options": [
+            "To waste food",
+            "Repetition builds consistency",
+            "To use up ingredients",
+            "It is boring"
+          ],
+          "answer": 1,
+          "explain": "Repeating a dish reveals the problems and locks in the good result."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision Week: Skills Check",
+      "goal": "Revisit the core skills from the whole course.",
+      "video": {
+        "youtube_id": "Zk2aJoFZIaY",
+        "title": "Chicken Fried Rice",
+        "channel": "Natasha's Kitchen"
+      },
+      "steps": [
+        "Re-practise knife skills: dice an onion and mince garlic.",
+        "Cook rice and a sauce from memory, without the recipe.",
+        "Name the five heat methods: boiling, frying, roasting, steaming, grilling.",
+        "Check your food safety habits: hand washing, storage, reheating.",
+        "List your three strongest skills and one you still want to improve."
+      ],
+      "task": "Cook a full meal from memory, using no recipe at all.",
+      "challenge": "Ask someone to watch you cook and point out one safety habit to fix.",
+      "quiz": [
+        {
+          "q": "What are the five basic heat methods?",
+          "options": [
+            "Boiling, frying, roasting, steaming, grilling",
+            "Boiling, freezing, frying, baking, eating",
+            "Steaming, grilling, washing, frying, roasting",
+            "Frying, baking, boiling, chilling, grilling"
+          ],
+          "answer": 0,
+          "explain": "Boiling, frying, roasting, steaming and grilling are the core ways to apply heat."
+        },
+        {
+          "q": "Why cook a meal from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Cooking without a recipe shows the skills are truly learned."
+        },
+        {
+          "q": "What should you do with a skill you still find weak?",
+          "options": [
+            "Ignore it",
+            "Practise it on purpose until it improves",
+            "Avoid it forever",
+            "Blame the recipe"
+          ],
+          "answer": 1,
+          "explain": "Deliberate practice on weak spots is how a cook keeps growing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Cook",
+      "goal": "Plan your capstone meal and gather everything you need.",
+      "video": {
+        "youtube_id": "eJImdb1Dfh8",
+        "title": "Chicken Egg Fried Rice",
+        "channel": "Flavourfully Good"
+      },
+      "steps": [
+        "Choose your capstone menu: a starter, a main and a side.",
+        "Write the full shopping list with costs.",
+        "Write the cooking timeline, working backwards from serving.",
+        "Check you have every tool and ingredient ready.",
+        "Cook a trial run of the hardest dish if you have time."
+      ],
+      "task": "Write your complete capstone plan and share it with a friend for feedback.",
+      "challenge": "Do a trial run of your capstone main dish today.",
+      "quiz": [
+        {
+          "q": "What should your capstone menu show?",
+          "options": [
+            "Only expensive food",
+            "Everything you learned: knife skills, heat control, seasoning and timing",
+            "Only one dish",
+            "Only desserts"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course: prep, cooking methods, seasoning and timing."
+        },
+        {
+          "q": "Why do a trial run of the hardest dish?",
+          "options": [
+            "To waste food",
+            "To find problems before the real cook",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds timing or seasoning problems while there is still time to fix them."
+        },
+        {
+          "q": "Why work backwards from serving time?",
+          "options": [
+            "It is faster",
+            "So every dish is ready at the same moment",
+            "It saves gas",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A backwards timeline is how cooks land a whole meal on the table hot."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Confident Cook's Final Meal",
+    "brief": "Cook a complete three-part meal from scratch for your household or guests: a starter, a main with rice or potatoes, and a side. Use the knife skills, heat control, seasoning and timing you learned across the 30 days, and serve everything hot at the same time.",
+    "checks": [
+      "Menu planned with a shopping list and a backwards timeline",
+      "Onions, garlic and herbs prepped safely with correct knife technique",
+      "Rice or potatoes cooked properly, not sticky or raw",
+      "Main dish seasoned, cooked through and tasty",
+      "Starter and side served with the main, all hot at once",
+      "Kitchen left clean and food stored safely afterwards",
+      "Feedback collected from at least one person who ate the meal"
+    ],
+    "deliverables": [
+      "A photo of the finished meal on the table",
+      "Your written menu with the shopping list and costs",
+      "Your cooking timeline, working backwards from serving time",
+      "Your signature dish recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

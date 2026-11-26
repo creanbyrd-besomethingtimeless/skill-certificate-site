@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "data-analysis-python",
+    "title": "Data Analysis with Python",
+    "level": "Beginner to intermediate",
+    "tagline": "Turn raw data into charts, reports and answers with Python, pandas and real datasets.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Data Analysis Is and Your Toolkit",
+      "goal": "Understand what a data analyst does and set up Python, pandas and Jupyter.",
+      "video": {
+        "youtube_id": "WcDaZ67TVRo",
+        "title": "Data Analysis with Python for Excel Users - Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Install Python, then install pandas, numpy and matplotlib with pip.",
+        "Install Jupyter Notebook with pip install notebook and launch it with jupyter notebook.",
+        "Make a new notebook and run print('Hello, data!') in a cell.",
+        "Import pandas as pd and numpy as np in a cell and check they load without errors."
+      ],
+      "task": "Set up your toolkit and run a notebook that prints the versions of pandas and numpy.",
+      "challenge": "Open a notebook and try running a cell, then re-running it after changing the code.",
+      "quiz": [
+        {
+          "q": "What does a data analyst do?",
+          "options": [
+            "Builds websites",
+            "Turns raw data into answers, charts and reports that help people decide",
+            "Designs logos",
+            "Fixes phones"
+          ],
+          "answer": 1,
+          "explain": "A data analyst cleans data, explores it, finds patterns and explains what it means."
+        },
+        {
+          "q": "What is pandas?",
+          "options": [
+            "A kind of animal",
+            "A Python library for working with tables of data",
+            "A chart type",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "pandas gives you DataFrames: tables you can sort, filter and summarise with a few lines of code."
+        },
+        {
+          "q": "What is a Jupyter Notebook?",
+          "options": [
+            "A paper notebook",
+            "A tool where you run Python code in cells and see results, charts and notes together",
+            "A website builder",
+            "A kind of database"
+          ],
+          "answer": 1,
+          "explain": "Jupyter lets you write code in cells, run them one by one, and see tables and charts right below the code."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Python Refresher for Data",
+      "goal": "Refresh the Python you need: variables, lists, loops and functions.",
+      "video": {
+        "youtube_id": "mLs61qDi_ys",
+        "title": "Pandas Full Course: Basic to Advanced",
+        "channel": "Simple Code Hub"
+      },
+      "steps": [
+        "Make a list of numbers and use a for loop to print each one.",
+        "Write a function that takes a list and returns its average.",
+        "Use a dictionary to store a person's name, age and city.",
+        "Import the csv module and read the first three rows of a small CSV file."
+      ],
+      "task": "Write a small script that reads a list of test scores and prints the average, highest and lowest.",
+      "challenge": "Read a CSV file and print how many rows it has.",
+      "quiz": [
+        {
+          "q": "What is a list in Python?",
+          "options": [
+            "A single value",
+            "An ordered collection of items, like [1, 2, 3]",
+            "A kind of loop",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A list holds items in order. You read them by position, starting at 0."
+        },
+        {
+          "q": "What does a function do?",
+          "options": [
+            "It deletes code",
+            "It groups code you can run again and again with different inputs",
+            "It prints errors",
+            "It saves files"
+          ],
+          "answer": 1,
+          "explain": "A function bundles steps together. You call it by name whenever you need that job done."
+        },
+        {
+          "q": "What is a CSV file?",
+          "options": [
+            "A picture file",
+            "A text file where values are separated by commas, like a simple spreadsheet",
+            "A Python program",
+            "A sound file"
+          ],
+          "answer": 1,
+          "explain": "CSV stands for comma-separated values. Each line is a row and commas split the columns."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Your First DataFrame",
+      "goal": "Load data into a pandas DataFrame and look at it.",
+      "video": {
+        "youtube_id": "r-uOLxNrNk8",
+        "title": "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Download a small CSV dataset, like a list of movies or sales.",
+        "Load it with pd.read_csv('file.csv') into a variable called df.",
+        "Print df.head() to see the first five rows.",
+        "Print df.shape to see how many rows and columns it has."
+      ],
+      "task": "Load a dataset of your choice and print its first five rows, its shape and its column names.",
+      "challenge": "Load the same file and print the last five rows with df.tail().",
+      "quiz": [
+        {
+          "q": "What is a DataFrame?",
+          "options": [
+            "A kind of chart",
+            "A table of data with rows and columns, like a spreadsheet in Python",
+            "A file",
+            "A loop"
+          ],
+          "answer": 1,
+          "explain": "A DataFrame is pandas' table. Rows are records, columns are fields, and you can filter and summarise them."
+        },
+        {
+          "q": "What does pd.read_csv() do?",
+          "options": [
+            "It writes a file",
+            "It reads a CSV file into a DataFrame",
+            "It deletes a file",
+            "It draws a chart"
+          ],
+          "answer": 1,
+          "explain": "read_csv loads a CSV file and turns it into a DataFrame you can work with."
+        },
+        {
+          "q": "What does df.head() show?",
+          "options": [
+            "The last rows",
+            "The first five rows of the DataFrame",
+            "The column names only",
+            "The file size"
+          ],
+          "answer": 1,
+          "explain": "head() shows the first five rows, which is a quick way to check your data loaded correctly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Selecting Columns and Rows",
+      "goal": "Pick out the columns and rows you need from a DataFrame.",
+      "video": {
+        "youtube_id": "vtgDGrUiUKk",
+        "title": "Pandas Full Course (2025)",
+        "channel": "Intellipaat"
+      },
+      "steps": [
+        "Select one column with df['price'] and print it.",
+        "Select two columns with df[['name', 'price']] and print them.",
+        "Select the first three rows with df.iloc[0:3].",
+        "Select rows by a label with df.loc[0] and print the result."
+      ],
+      "task": "From your dataset, show only the name and price columns for the first ten rows.",
+      "challenge": "Select the row with the highest price using sorting, then print it.",
+      "quiz": [
+        {
+          "q": "How do you select one column?",
+          "options": [
+            "df.column()",
+            "df['column_name']",
+            "df.select('column_name')",
+            "df.get_column()"
+          ],
+          "answer": 1,
+          "explain": "Square brackets with the column name give you that column as a Series."
+        },
+        {
+          "q": "What is the difference between loc and iloc?",
+          "options": [
+            "There is none",
+            "loc uses labels, iloc uses positions (numbers)",
+            "loc is faster",
+            "iloc only works on columns"
+          ],
+          "answer": 1,
+          "explain": "loc selects by label, like a name or index value. iloc selects by position number."
+        },
+        {
+          "q": "What does df[['a', 'b']] return?",
+          "options": [
+            "One column",
+            "A new DataFrame with just columns a and b",
+            "A list",
+            "An error"
+          ],
+          "answer": 1,
+          "explain": "Double brackets with a list of names return a DataFrame with only those columns."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Filtering Data",
+      "goal": "Filter rows with conditions to find exactly the data you want.",
+      "video": {
+        "youtube_id": "gtjxAH8uaP0",
+        "title": "Learn Pandas & Python for Data Analysis [Full Course]",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Filter rows where price is greater than 100 with df[df['price'] > 100].",
+        "Combine two conditions with & so both must be true.",
+        "Filter rows where the category equals 'Books'.",
+        "Count how many rows match your filter with len()."
+      ],
+      "task": "Find all products in your dataset that cost more than 5000 and are in stock.",
+      "challenge": "Find all rows where the city is Lagos or Abuja.",
+      "quiz": [
+        {
+          "q": "What does df[df['price'] > 100] do?",
+          "options": [
+            "It deletes rows",
+            "It returns only the rows where price is greater than 100",
+            "It sorts the data",
+            "It adds 100 to every price"
+          ],
+          "answer": 1,
+          "explain": "A condition inside square brackets filters the DataFrame to just the rows that pass the test."
+        },
+        {
+          "q": "What does & do between two conditions?",
+          "options": [
+            "OR",
+            "AND: both conditions must be true",
+            "NOT",
+            "It adds numbers"
+          ],
+          "answer": 1,
+          "explain": "& means AND. Both sides must be true for a row to be kept."
+        },
+        {
+          "q": "Why put each condition in brackets when using &?",
+          "options": [
+            "It looks better",
+            "Because & has higher priority than > and =, so brackets keep the logic right",
+            "It makes it faster",
+            "It is not needed"
+          ],
+          "answer": 1,
+          "explain": "Without brackets, & would bind first and the comparison would break. Always bracket each condition."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Sorting and Ranking",
+      "goal": "Sort data to find the biggest, smallest and most recent values.",
+      "video": {
+        "youtube_id": "b_SVtigyk78",
+        "title": "Data Visualization in Python | Matplotlib & Seaborn Tutorial for Beginners",
+        "channel": "Learn With Sarvesh AI"
+      },
+      "steps": [
+        "Sort your data by price from highest to lowest with sort_values().",
+        "Sort by two columns: first by category, then by price.",
+        "Use .nlargest(5, 'price') to get the five most expensive items.",
+        "Reset the index after sorting with reset_index(drop=True)."
+      ],
+      "task": "List the top 10 most expensive products and the 10 cheapest in your dataset.",
+      "challenge": "Sort your data by date and find the most recent record.",
+      "quiz": [
+        {
+          "q": "What does sort_values('price', ascending=False) do?",
+          "options": [
+            "It deletes the price column",
+            "It sorts rows from the highest price to the lowest",
+            "It sorts from lowest to highest",
+            "It counts prices"
+          ],
+          "answer": 1,
+          "explain": "ascending=False sorts from big to small. ascending=True (the default) sorts from small to big."
+        },
+        {
+          "q": "What does nlargest(5, 'price') return?",
+          "options": [
+            "The five cheapest items",
+            "The five most expensive items",
+            "Five random items",
+            "The first five rows"
+          ],
+          "answer": 1,
+          "explain": "nlargest(n, column) returns the n rows with the biggest values in that column."
+        },
+        {
+          "q": "Why reset the index after sorting?",
+          "options": [
+            "It is required",
+            "So the row numbers run 0, 1, 2 again in the new order instead of keeping old positions",
+            "It sorts again",
+            "It deletes rows"
+          ],
+          "answer": 1,
+          "explain": "After sorting, the old index stays attached. reset_index gives clean new numbers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Explore a Real Dataset",
+      "goal": "Explore a real dataset end to end: load it, look at it, filter it and summarise it.",
+      "video": {
+        "youtube_id": "6uNoJdKk_Ec",
+        "title": "Data Visualization for Beginners, with Seaborn",
+        "channel": "Mathew K Analytics"
+      },
+      "steps": [
+        "Pick a real CSV dataset with at least 100 rows and 4 columns.",
+        "Load it, print its shape, column names and first five rows.",
+        "Check for missing values and print how many each column has.",
+        "Filter, sort and group the data to answer three questions about it."
+      ],
+      "task": "Finish the exploration and write a short summary of three things you found.",
+      "challenge": "Find the most surprising fact in your dataset and write one sentence about it.",
+      "quiz": [
+        {
+          "q": "What should you do first with a new dataset?",
+          "options": [
+            "Draw a chart",
+            "Look at it: shape, columns, first rows and missing values",
+            "Delete rows",
+            "Sort it"
+          ],
+          "answer": 1,
+          "explain": "First look at your data. You need to know what you have before you can analyse it."
+        },
+        {
+          "q": "Why check for missing values?",
+          "options": [
+            "They look bad",
+            "Because missing data can break calculations and mislead your answers",
+            "To delete them all",
+            "To hide them"
+          ],
+          "answer": 1,
+          "explain": "Missing values can skew averages and break charts. You must know they are there before you decide what to do."
+        },
+        {
+          "q": "What is a good exploration summary?",
+          "options": [
+            "A list of file names",
+            "A few clear findings with numbers that answer real questions",
+            "A copy of the data",
+            "A long essay"
+          ],
+          "answer": 1,
+          "explain": "A good summary gives clear findings with numbers that answer the questions you asked."
+        }
+      ],
+      "project": {
+        "title": "Explore a Real Dataset",
+        "brief": "Pick a real CSV dataset with at least 100 rows and 4 columns. Load it, look at it, check missing values, filter and sort it, and write a short summary of three things you found.",
+        "checks": [
+          "The dataset has at least 100 rows and 4 columns.",
+          "You printed its shape, column names and first five rows.",
+          "You counted missing values in each column.",
+          "You filtered and sorted the data to answer three questions.",
+          "Your summary has three findings, each with a number.",
+          "Your code runs without errors in a notebook."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Handling Missing Data",
+      "goal": "Find missing values and decide what to do with them.",
+      "video": {
+        "youtube_id": "2dj0XwstjMs",
+        "title": "Matplotlib Line Charts Tutorial",
+        "channel": "Finxter"
+      },
+      "steps": [
+        "Use df.isna().sum() to count missing values in each column.",
+        "Drop rows with missing values using dropna() and check the new shape.",
+        "Fill missing numbers with the column average using fillna().",
+        "Fill missing text with a word like 'Unknown'."
+      ],
+      "task": "Clean a dataset: count missing values, fill the ones you can and drop the rest.",
+      "challenge": "Compare the average of a column before and after filling missing values.",
+      "quiz": [
+        {
+          "q": "What does NaN mean?",
+          "options": [
+            "Zero",
+            "Not a Number: a missing value",
+            "A very big number",
+            "A text value"
+          ],
+          "answer": 1,
+          "explain": "NaN marks a missing value. It is not zero; it means 'we do not have this value'."
+        },
+        {
+          "q": "When should you drop rows with missing values?",
+          "options": [
+            "Always",
+            "When only a few rows are missing and the rest of the data is still useful",
+            "Never",
+            "Only on Fridays"
+          ],
+          "answer": 1,
+          "explain": "Dropping is fine when few rows are affected. If many rows are missing, dropping can destroy your data."
+        },
+        {
+          "q": "Why fill missing numbers with the average?",
+          "options": [
+            "It is the only option",
+            "It keeps the row usable without changing the overall average much",
+            "It makes data bigger",
+            "It hides the problem"
+          ],
+          "answer": 1,
+          "explain": "Filling with the average keeps the row and barely moves the column's average, which is a safe default."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Cleaning Messy Data",
+      "goal": "Fix messy data: wrong types, extra spaces and duplicate rows.",
+      "video": {
+        "youtube_id": "R1PjbmucE8U",
+        "title": "Matplotlib Scatter Plots Tutorial",
+        "channel": "Finxter"
+      },
+      "steps": [
+        "Strip extra spaces from text with .str.strip().",
+        "Turn a text column of numbers into real numbers with pd.to_numeric().",
+        "Fix dates with pd.to_datetime() so you can sort and filter by date.",
+        "Remove duplicate rows with drop_duplicates() and check the new shape."
+      ],
+      "task": "Clean a messy dataset: fix types, strip spaces, fix dates and remove duplicates.",
+      "challenge": "Find and fix at least three different kinds of mess in your dataset.",
+      "quiz": [
+        {
+          "q": "Why strip spaces from text?",
+          "options": [
+            "It looks better",
+            "Because ' Lagos' and 'Lagos' look the same to us but are different values to Python",
+            "It saves memory",
+            "It sorts faster"
+          ],
+          "answer": 1,
+          "explain": "Extra spaces make the same word count as two different values, which breaks grouping and filtering."
+        },
+        {
+          "q": "What does pd.to_numeric() do?",
+          "options": [
+            "It deletes text",
+            "It turns text that looks like numbers into real numbers",
+            "It rounds numbers",
+            "It sorts numbers"
+          ],
+          "answer": 1,
+          "explain": "to_numeric converts a column of number-like text into numbers you can calculate with."
+        },
+        {
+          "q": "Why remove duplicates?",
+          "options": [
+            "They look bad",
+            "Because counting the same row twice inflates your results",
+            "They slow the computer",
+            "They use memory"
+          ],
+          "answer": 1,
+          "explain": "Duplicate rows double-count the same record, which skews totals and averages."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Grouping and Aggregating",
+      "goal": "Group rows and calculate totals, averages and counts per group.",
+      "video": {
+        "youtube_id": "lbRSzL7Gg_M",
+        "title": "Matplotlib Legends Tutorial",
+        "channel": "Finxter"
+      },
+      "steps": [
+        "Use df.groupby('category')['price'].mean() to get the average price per category.",
+        "Use .sum() and .count() to get totals and counts per group.",
+        "Group by two columns, like category and city.",
+        "Use .agg() to calculate several things at once."
+      ],
+      "task": "Find the average price, total sales and number of products for each category in your dataset.",
+      "challenge": "Group your data by month and find which month had the highest sales.",
+      "quiz": [
+        {
+          "q": "What does groupby do?",
+          "options": [
+            "It sorts the data",
+            "It splits rows into groups by a column's values so you can calculate per group",
+            "It deletes rows",
+            "It filters rows"
+          ],
+          "answer": 1,
+          "explain": "groupby splits the data into groups, like one group per category, then you calculate on each group."
+        },
+        {
+          "q": "What is an aggregate function?",
+          "options": [
+            "A function that deletes data",
+            "A function that turns many values into one, like sum, mean or count",
+            "A function that sorts",
+            "A function that draws charts"
+          ],
+          "answer": 1,
+          "explain": "Aggregates summarise many values into one number: total, average, count, biggest or smallest."
+        },
+        {
+          "q": "What does .agg(['mean', 'sum']) do?",
+          "options": [
+            "It deletes the data",
+            "It calculates both the mean and the sum in one step",
+            "It sorts twice",
+            "It counts rows"
+          ],
+          "answer": 1,
+          "explain": "agg() lets you run several aggregate functions at once on the same group."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Working with Dates",
+      "goal": "Work with dates: parse them, extract parts and filter by time.",
+      "video": {
+        "youtube_id": "j-Rh7XWZJgE",
+        "title": "Matplotlib Histograms Tutorial",
+        "channel": "Finxter"
+      },
+      "steps": [
+        "Turn a text column into dates with pd.to_datetime().",
+        "Extract the year, month and day into new columns.",
+        "Filter rows to only those after a certain date.",
+        "Group by month and count how many records fall in each month."
+      ],
+      "task": "From a dataset with dates, find the busiest month and the quietest month.",
+      "challenge": "Calculate the number of days between two dates in your data.",
+      "quiz": [
+        {
+          "q": "Why turn text into dates with to_datetime()?",
+          "options": [
+            "It looks better",
+            "So you can sort, filter and do maths with dates",
+            "It saves memory",
+            "It deletes text"
+          ],
+          "answer": 1,
+          "explain": "As text, dates are just words. As dates, you can compare them, sort them and subtract them."
+        },
+        {
+          "q": "How do you get the month from a date column?",
+          "options": [
+            "df['date'].month",
+            "df['date'].dt.month",
+            "df['date'].get_month()",
+            "df['month']"
+          ],
+          "answer": 1,
+          "explain": "The .dt accessor gives you parts of a date, like .dt.month, .dt.year and .dt.day."
+        },
+        {
+          "q": "What does resample('M') do?",
+          "options": [
+            "It deletes months",
+            "It groups time data by month",
+            "It sorts by month",
+            "It counts days"
+          ],
+          "answer": 1,
+          "explain": "resample('M') groups a time series into months so you can calculate per month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Combining DataFrames",
+      "goal": "Join tables together with merge and stack them with concat.",
+      "video": {
+        "youtube_id": "7e3BGIXwQvo",
+        "title": "Matplotlib 3D Plots Tutorial",
+        "channel": "Finxter"
+      },
+      "steps": [
+        "Load two related CSV files, like products and sales.",
+        "Merge them on a shared column with pd.merge().",
+        "Try an inner join and a left join and compare the row counts.",
+        "Stack two DataFrames with the same columns using pd.concat()."
+      ],
+      "task": "Join a products table and a sales table, then find total sales per product.",
+      "challenge": "Merge two tables and find which rows have no match in the other table.",
+      "quiz": [
+        {
+          "q": "What does pd.merge() do?",
+          "options": [
+            "It deletes a table",
+            "It joins two DataFrames on a shared column, like a database join",
+            "It sorts a table",
+            "It draws a chart"
+          ],
+          "answer": 1,
+          "explain": "merge combines two tables using a column they share, like a product id."
+        },
+        {
+          "q": "What is the difference between an inner join and a left join?",
+          "options": [
+            "There is none",
+            "Inner keeps only rows with a match in both tables. Left keeps all rows from the left table",
+            "Left is faster",
+            "Inner deletes the left table"
+          ],
+          "answer": 1,
+          "explain": "Inner join keeps only matches. Left join keeps every left row and fills missing right values with NaN."
+        },
+        {
+          "q": "What does pd.concat() do?",
+          "options": [
+            "It joins on a column",
+            "It stacks DataFrames on top of each other",
+            "It deletes rows",
+            "It sorts"
+          ],
+          "answer": 1,
+          "explain": "concat stacks tables vertically when they have the same columns."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Pivot Tables",
+      "goal": "Summarise data in a grid with pivot tables.",
+      "video": {
+        "youtube_id": "3eR5RZ7loJ4",
+        "title": "Matplotlib 3D Plots Advanced Tutorial",
+        "channel": "Finxter"
+      },
+      "steps": [
+        "Make a pivot table with rows as category and columns as city.",
+        "Use values='sales' and aggfunc='sum' to total sales in each cell.",
+        "Add margins=True to see row and column totals.",
+        "Use a pivot table to compare sales across months and categories."
+      ],
+      "task": "Build a pivot table of sales by product category and month.",
+      "challenge": "Find the best-selling category in each city using a pivot table.",
+      "quiz": [
+        {
+          "q": "What is a pivot table?",
+          "options": [
+            "A kind of chart",
+            "A summary grid that shows an aggregate for each combination of row and column values",
+            "A database",
+            "A filter"
+          ],
+          "answer": 1,
+          "explain": "A pivot table turns long data into a grid, like sales by category (rows) and city (columns)."
+        },
+        {
+          "q": "What does aggfunc do in a pivot table?",
+          "options": [
+            "It sorts the table",
+            "It decides how values combine in each cell, like sum or mean",
+            "It deletes cells",
+            "It names the table"
+          ],
+          "answer": 1,
+          "explain": "aggfunc picks the calculation for each cell, such as sum, mean or count."
+        },
+        {
+          "q": "What does margins=True add?",
+          "options": [
+            "A border",
+            "Row and column totals at the edges of the table",
+            "A title",
+            "Extra rows"
+          ],
+          "answer": 1,
+          "explain": "margins adds a Total row and column so you can see the overall numbers at a glance."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Sales Analysis Report",
+      "goal": "Analyse a sales dataset end to end and write a short report with numbers.",
+      "video": {
+        "youtube_id": "F57_0XPdhD8",
+        "title": "Matplotlib Animations Tutorial",
+        "channel": "Finxter"
+      },
+      "steps": [
+        "Pick a sales dataset with products, categories, dates and amounts.",
+        "Clean it: fix types, handle missing values and remove duplicates.",
+        "Group and pivot the data to answer: best category, best month, best city.",
+        "Write a short report with your findings and the numbers behind them."
+      ],
+      "task": "Finish the sales report with at least three findings, each with a number.",
+      "challenge": "Add one chart to your report that supports your main finding.",
+      "quiz": [
+        {
+          "q": "What makes a good analysis report?",
+          "options": [
+            "Long text",
+            "Clear findings, each backed by a number, and a short explanation of what it means",
+            "Many charts",
+            "Big words"
+          ],
+          "answer": 1,
+          "explain": "A good report gives clear findings with numbers and explains what each number means for the business."
+        },
+        {
+          "q": "Why clean data before analysing it?",
+          "options": [
+            "It looks better",
+            "Because dirty data gives wrong answers",
+            "It is faster",
+            "It uses less memory"
+          ],
+          "answer": 1,
+          "explain": "Analysis on dirty data gives wrong totals and averages. Clean first, analyse second."
+        },
+        {
+          "q": "How do you pick the main finding?",
+          "options": [
+            "The biggest number",
+            "The finding that matters most for the decision the report supports",
+            "The first finding",
+            "The most surprising one"
+          ],
+          "answer": 1,
+          "explain": "The main finding is the one that changes what someone should do next."
+        }
+      ],
+      "project": {
+        "title": "Sales Analysis Report",
+        "brief": "Analyse a sales dataset end to end: clean it, group and pivot it to find the best category, month and city, and write a short report with your findings and the numbers behind them.",
+        "checks": [
+          "The data is cleaned: types fixed, missing values handled, duplicates removed.",
+          "You found the best category by total sales.",
+          "You found the best month and the best city.",
+          "Your report has at least three findings with numbers.",
+          "Your report includes at least one chart.",
+          "Your report explains what the findings mean for the business."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Introduction to Matplotlib",
+      "goal": "Draw your first charts with Matplotlib.",
+      "video": {
+        "youtube_id": "-jTD74eEy2I",
+        "title": "Complete Data Visualization Course for Beginners | Matplotlib & Seaborn",
+        "channel": "Sheryians AI School"
+      },
+      "steps": [
+        "Make a line chart of monthly sales with plt.plot().",
+        "Add a title, x-label and y-label to the chart.",
+        "Make a bar chart of sales by category.",
+        "Save the chart to a file with plt.savefig()."
+      ],
+      "task": "Draw a line chart of sales over time and a bar chart of sales by category.",
+      "challenge": "Change the chart colours and add a grid to make it easier to read.",
+      "quiz": [
+        {
+          "q": "What is Matplotlib?",
+          "options": [
+            "A database",
+            "Python's main charting library for drawing line, bar and scatter charts",
+            "A kind of DataFrame",
+            "A file format"
+          ],
+          "answer": 1,
+          "explain": "Matplotlib draws charts. You give it data and it draws lines, bars and points."
+        },
+        {
+          "q": "What does plt.plot(x, y) do?",
+          "options": [
+            "It saves a file",
+            "It draws a line chart connecting the points",
+            "It prints a table",
+            "It deletes data"
+          ],
+          "answer": 1,
+          "explain": "plot() draws a line through your x and y values, which is good for showing change over time."
+        },
+        {
+          "q": "Why add labels and a title to a chart?",
+          "options": [
+            "To make it prettier",
+            "So anyone can understand what the chart shows without asking you",
+            "To make it bigger",
+            "To save it"
+          ],
+          "answer": 1,
+          "explain": "Labels and titles tell the reader what the axes mean and what the chart is about."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Bar Charts and Histograms",
+      "goal": "Show comparisons with bar charts and distributions with histograms.",
+      "video": {
+        "youtube_id": "O1f1nIxMH6g",
+        "title": "Data visualization - Matplotlib vs Seaborn vs Plotly",
+        "channel": "SP Learning Labs"
+      },
+      "steps": [
+        "Make a horizontal bar chart of the top 10 products.",
+        "Make a histogram of prices to see how they are spread out.",
+        "Add value labels on top of bars so readers can see exact numbers.",
+        "Use different colours to highlight the biggest bar."
+      ],
+      "task": "Draw a bar chart of your top 5 categories and a histogram of a numeric column.",
+      "challenge": "Make a histogram with 20 bins and compare it with one that has 5 bins.",
+      "quiz": [
+        {
+          "q": "When is a bar chart the right choice?",
+          "options": [
+            "For change over time",
+            "For comparing amounts across categories",
+            "For showing a spread",
+            "For maps"
+          ],
+          "answer": 1,
+          "explain": "Bar charts compare amounts across categories, like sales per product or per city."
+        },
+        {
+          "q": "What does a histogram show?",
+          "options": [
+            "Change over time",
+            "How values are spread out: how many fall into each range",
+            "A map",
+            "A list"
+          ],
+          "answer": 1,
+          "explain": "A histogram groups numbers into bins and shows how many fall in each bin, revealing the shape of the data."
+        },
+        {
+          "q": "What happens when you use more bins in a histogram?",
+          "options": [
+            "The chart gets bigger",
+            "You see more detail in the shape, but it can get noisy",
+            "The data changes",
+            "It becomes a bar chart"
+          ],
+          "answer": 1,
+          "explain": "More bins show finer detail. Too many bins make the chart noisy and hard to read."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Line Charts and Trends",
+      "goal": "Show change over time with line charts and spot trends.",
+      "video": {
+        "youtube_id": "BsTZwxHbf9g",
+        "title": "Weather Data Analysis with Python Pandas: Real Project Walkthrough",
+        "channel": "Mathew K Analytics"
+      },
+      "steps": [
+        "Plot daily or monthly values as a line chart.",
+        "Add a second line to compare two products over time.",
+        "Use a rolling average to smooth a noisy line.",
+        "Mark the highest and lowest points on the chart."
+      ],
+      "task": "Draw a line chart of sales over 12 months and add a 3-month rolling average.",
+      "challenge": "Compare two products on one chart and say which one is growing faster.",
+      "quiz": [
+        {
+          "q": "When is a line chart the right choice?",
+          "options": [
+            "For comparing categories",
+            "For showing how values change over time",
+            "For showing a spread",
+            "For counting items"
+          ],
+          "answer": 1,
+          "explain": "Line charts connect points in time order, which makes trends and patterns easy to see."
+        },
+        {
+          "q": "What is a rolling average?",
+          "options": [
+            "The average of everything",
+            "The average of the last few points, recalculated at each step, which smooths noise",
+            "The biggest value",
+            "The smallest value"
+          ],
+          "answer": 1,
+          "explain": "A rolling average averages a small window of recent points, which smooths out daily noise and shows the trend."
+        },
+        {
+          "q": "Why compare two lines on one chart?",
+          "options": [
+            "To make it prettier",
+            "So you can see which one grows faster and when they cross",
+            "To save space only",
+            "To hide one of them"
+          ],
+          "answer": 1,
+          "explain": "Two lines on one chart make it easy to compare growth and spot when one overtakes the other."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Scatter Plots and Relationships",
+      "goal": "Show relationships between two numbers with scatter plots.",
+      "video": {
+        "youtube_id": "5bgr1YnLSyk",
+        "title": "Star Wars Survey Analysis Using Python",
+        "channel": "Dataquest"
+      },
+      "steps": [
+        "Plot price against sales as a scatter plot.",
+        "Colour the points by category to see groups.",
+        "Add a trend line to see the general direction.",
+        "Look for outliers: points far from the rest."
+      ],
+      "task": "Draw a scatter plot of two numeric columns in your data and describe the relationship.",
+      "challenge": "Find one outlier in your data and check if it is a real value or a mistake.",
+      "quiz": [
+        {
+          "q": "What does a scatter plot show?",
+          "options": [
+            "Change over time",
+            "How two numbers relate to each other, one point per row",
+            "A list",
+            "A map"
+          ],
+          "answer": 1,
+          "explain": "A scatter plot puts one number on each axis. Each dot is a row, and the pattern shows the relationship."
+        },
+        {
+          "q": "What is an outlier?",
+          "options": [
+            "A missing value",
+            "A point far from the rest of the data",
+            "The average",
+            "A duplicate"
+          ],
+          "answer": 1,
+          "explain": "An outlier is a value far from the others. It may be a mistake, or it may be the most interesting point."
+        },
+        {
+          "q": "What does a trend line show?",
+          "options": [
+            "The exact values",
+            "The general direction of the relationship",
+            "The outliers",
+            "The average only"
+          ],
+          "answer": 1,
+          "explain": "A trend line summarises the direction: as one value grows, does the other grow, shrink or stay flat?"
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Seaborn for Better Charts",
+      "goal": "Make prettier, more informative charts with Seaborn.",
+      "video": {
+        "youtube_id": "aHdgGnlIewk",
+        "title": "Million Songs Dataset Analysis using Python",
+        "channel": "Hackers Realm"
+      },
+      "steps": [
+        "Make a bar chart with sns.barplot() and compare it with Matplotlib's.",
+        "Make a box plot to see the spread of values in each category.",
+        "Make a heatmap of a correlation matrix.",
+        "Set a Seaborn theme to make all your charts look consistent."
+      ],
+      "task": "Redraw your best chart with Seaborn and compare it with the Matplotlib version.",
+      "challenge": "Make a box plot that shows which category has the most spread-out prices.",
+      "quiz": [
+        {
+          "q": "What is Seaborn?",
+          "options": [
+            "A database",
+            "A charting library built on Matplotlib that makes nicer statistical charts with less code",
+            "A kind of DataFrame",
+            "A file format"
+          ],
+          "answer": 1,
+          "explain": "Seaborn sits on top of Matplotlib. It draws statistical charts like box plots and heatmaps with short code."
+        },
+        {
+          "q": "What does a box plot show?",
+          "options": [
+            "Change over time",
+            "The spread of values: median, quartiles and outliers",
+            "A list",
+            "A map"
+          ],
+          "answer": 1,
+          "explain": "A box plot shows the middle half of the data as a box, the median as a line, and outliers as dots."
+        },
+        {
+          "q": "What is a correlation matrix?",
+          "options": [
+            "A list of numbers",
+            "A table showing how strongly each pair of numbers moves together",
+            "A chart of dates",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A correlation matrix shows, for every pair of numeric columns, whether they rise together, fall together or are unrelated."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Exploratory Data Analysis (EDA)",
+      "goal": "Do a full EDA: describe, visualise and question a dataset.",
+      "video": {
+        "youtube_id": "xJl4_wrWWw4",
+        "title": "Exploratory Data Analysis: Vienna Hotels Part 1",
+        "channel": "Coding Nomads"
+      },
+      "steps": [
+        "Run df.describe() to get counts, means and quartiles for numeric columns.",
+        "Check the data types and missing values for every column.",
+        "Draw a chart for each key column: a histogram for numbers, a bar chart for categories.",
+        "Write down five questions the data can answer and five it cannot."
+      ],
+      "task": "Do a full EDA on a new dataset and write a one-page summary of what you found.",
+      "challenge": "Find one relationship in the data that surprises you and check it with a chart.",
+      "quiz": [
+        {
+          "q": "What is EDA?",
+          "options": [
+            "Drawing one chart",
+            "Exploring a dataset with summaries and charts to understand it before formal analysis",
+            "Building a model",
+            "Writing a report"
+          ],
+          "answer": 1,
+          "explain": "EDA is the first look: describe, plot and question the data so you understand it before you analyse it deeply."
+        },
+        {
+          "q": "What does df.describe() give you?",
+          "options": [
+            "The first rows",
+            "Counts, means, standard deviations, minimums and quartiles for numeric columns",
+            "A chart",
+            "The file size"
+          ],
+          "answer": 1,
+          "explain": "describe() summarises each numeric column: how many values, the average, the spread and the quartiles."
+        },
+        {
+          "q": "Why write down what the data cannot answer?",
+          "options": [
+            "To fill space",
+            "So you do not claim answers the data does not support",
+            "To make the report longer",
+            "To hide gaps"
+          ],
+          "answer": 1,
+          "explain": "Knowing the limits stops you from overclaiming. Honest analysis says what it cannot prove."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Full EDA and Dashboard Charts",
+      "goal": "Do a complete EDA on a real dataset and present it as a set of charts.",
+      "video": {
+        "youtube_id": "gsFLjlaWkOk",
+        "title": "Exploratory Data Analysis: Vienna Hotels Part 2",
+        "channel": "Coding Nomads"
+      },
+      "steps": [
+        "Pick a dataset you have not used before, with at least 500 rows.",
+        "Clean it and run a full EDA with describe() and charts for each key column.",
+        "Make at least five charts: line, bar, histogram, scatter and one more of your choice.",
+        "Write a short findings document with your charts and three key insights."
+      ],
+      "task": "Finish the EDA document with five charts and three insights.",
+      "challenge": "Present your findings to one person in under three minutes.",
+      "quiz": [
+        {
+          "q": "What makes a good EDA document?",
+          "options": [
+            "Many pages",
+            "Clear questions, clean data, honest charts and findings with numbers",
+            "Big words",
+            "Many tables"
+          ],
+          "answer": 1,
+          "explain": "A good EDA asks clear questions, shows clean data and charts, and gives findings backed by numbers."
+        },
+        {
+          "q": "How many charts should an EDA have?",
+          "options": [
+            "As many as possible",
+            "Enough to answer the questions: usually one per key column or relationship",
+            "Exactly three",
+            "One"
+          ],
+          "answer": 1,
+          "explain": "Each chart should answer a question. Extra charts that answer nothing only add noise."
+        },
+        {
+          "q": "Why present your findings out loud?",
+          "options": [
+            "To show off",
+            "Because explaining forces you to be clear, and questions reveal gaps",
+            "To waste time",
+            "To make it longer"
+          ],
+          "answer": 1,
+          "explain": "Presenting tests your understanding. If you cannot explain a finding simply, you do not fully understand it yet."
+        }
+      ],
+      "project": {
+        "title": "Full EDA and Dashboard Charts",
+        "brief": "Do a complete exploratory data analysis on a real dataset with at least 500 rows. Clean it, describe it, make at least five charts (line, bar, histogram, scatter and one more), and write a findings document with three key insights.",
+        "checks": [
+          "The dataset has at least 500 rows.",
+          "You cleaned the data and ran df.describe().",
+          "You made at least five charts of different types.",
+          "Each chart has a title and labels.",
+          "Your document has three key insights with numbers.",
+          "You can present your findings in under three minutes."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Working with Real Datasets",
+      "goal": "Find and load real datasets from public sources.",
+      "video": {
+        "youtube_id": "jWSAdhZJqhI",
+        "title": "Exploratory Data Analysis: Vienna Hotels Part 3",
+        "channel": "Coding Nomads"
+      },
+      "steps": [
+        "Download a dataset from Kaggle or a public data portal.",
+        "Load it and check its shape, columns and missing values.",
+        "Read the dataset's description to understand what each column means.",
+        "Pick one question the dataset can answer and plan your analysis."
+      ],
+      "task": "Find a dataset about a topic you care about and write down three questions it can answer.",
+      "challenge": "Load the dataset and check whether it is clean or messy.",
+      "quiz": [
+        {
+          "q": "Where can you find real datasets?",
+          "options": [
+            "Only in textbooks",
+            "Kaggle, public data portals, government open data sites and company data pages",
+            "Only from your job",
+            "Nowhere"
+          ],
+          "answer": 1,
+          "explain": "Kaggle, data.gov and other open data portals host thousands of free real datasets."
+        },
+        {
+          "q": "Why read the dataset description first?",
+          "options": [
+            "To waste time",
+            "So you know what each column means and what the data can and cannot tell you",
+            "To make it longer",
+            "To hide gaps"
+          ],
+          "answer": 1,
+          "explain": "The description tells you what the columns mean, how the data was collected and what its limits are."
+        },
+        {
+          "q": "What makes a dataset good for practice?",
+          "options": [
+            "It is huge",
+            "It has a clear topic, enough rows, and a mix of numbers, categories and dates",
+            "It is perfectly clean",
+            "It has no missing values"
+          ],
+          "answer": 1,
+          "explain": "A good practice dataset is big enough to explore, has mixed column types, and a topic you care about."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Statistics for Analysts",
+      "goal": "Use the statistics that matter: mean, median, mode and standard deviation.",
+      "video": {
+        "youtube_id": "DYuI4PCzOyw",
+        "title": "Mall Customer Segmentation Analysis using Python",
+        "channel": "Hackers Realm"
+      },
+      "steps": [
+        "Calculate the mean, median and mode of a column and compare them.",
+        "Calculate the standard deviation to see how spread out values are.",
+        "Use percentiles to find the value that 90% of rows fall below.",
+        "Explain in plain words what each number means for your data."
+      ],
+      "task": "Calculate mean, median and standard deviation for three columns and explain each in one sentence.",
+      "challenge": "Find a column where the mean and median are very different and explain why.",
+      "quiz": [
+        {
+          "q": "What is the median?",
+          "options": [
+            "The average",
+            "The middle value when data is sorted",
+            "The most common value",
+            "The biggest value"
+          ],
+          "answer": 1,
+          "explain": "The median is the middle value. Half the data is below it and half above it."
+        },
+        {
+          "q": "When is the median better than the mean?",
+          "options": [
+            "Always",
+            "When a few huge values would pull the mean up and mislead you",
+            "Never",
+            "Only for small data"
+          ],
+          "answer": 1,
+          "explain": "The mean is pulled by outliers. The median stays in the middle, so it describes typical values better when data is skewed."
+        },
+        {
+          "q": "What does standard deviation measure?",
+          "options": [
+            "The average",
+            "How spread out values are around the mean",
+            "The biggest value",
+            "The number of rows"
+          ],
+          "answer": 1,
+          "explain": "Standard deviation measures spread. A small value means data clusters near the mean; a big value means it is spread out."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Correlation and What It Does Not Prove",
+      "goal": "Measure correlation and learn why it does not prove cause.",
+      "video": {
+        "youtube_id": "pTjsr_0YWas",
+        "title": "Iris Dataset Analysis using Python",
+        "channel": "Hackers Realm"
+      },
+      "steps": [
+        "Calculate a correlation matrix with df.corr() for numeric columns.",
+        "Draw a heatmap of the correlations.",
+        "Find the strongest positive and strongest negative correlation.",
+        "Write one sentence for each: what it shows and what it does not prove."
+      ],
+      "task": "Find the strongest correlation in your dataset and explain it without claiming cause.",
+      "challenge": "Find two columns that look related but probably are not, and explain why.",
+      "quiz": [
+        {
+          "q": "What does a correlation of 0.9 mean?",
+          "options": [
+            "One causes the other",
+            "The two values rise together strongly",
+            "They are unrelated",
+            "One is 90% of the other"
+          ],
+          "answer": 1,
+          "explain": "A correlation near 1 means the values move together. Near -1 means they move in opposite directions. Near 0 means no clear link."
+        },
+        {
+          "q": "Why does correlation not prove causation?",
+          "options": [
+            "It does prove it",
+            "Because a third factor may cause both, or the link may be coincidence",
+            "Because correlations are always wrong",
+            "Because data lies"
+          ],
+          "answer": 1,
+          "explain": "Two things can rise together because a third thing drives both. Correlation shows a link, not a cause."
+        },
+        {
+          "q": "What is a heatmap good for?",
+          "options": [
+            "Showing change over time",
+            "Showing a whole correlation matrix at a glance with colour",
+            "Counting rows",
+            "Drawing maps"
+          ],
+          "answer": 1,
+          "explain": "A heatmap colours each cell by value, so strong and weak correlations jump out at a glance."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Telling Stories with Data",
+      "goal": "Turn findings into a story people remember and act on.",
+      "video": {
+        "youtube_id": "WcDaZ67TVRo",
+        "title": "Data Analysis with Python for Excel Users - Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Pick one main message from your analysis.",
+        "Order your charts so each one builds on the last.",
+        "Write a headline for each chart in plain words.",
+        "End with a clear recommendation: what should happen next."
+      ],
+      "task": "Turn your sales analysis into a three-chart story with a recommendation.",
+      "challenge": "Rewrite one chart title so a non-technical person understands it instantly.",
+      "quiz": [
+        {
+          "q": "What is data storytelling?",
+          "options": [
+            "Making up stories",
+            "Presenting findings as a clear story: context, evidence, and what to do next",
+            "Drawing many charts",
+            "Writing long reports"
+          ],
+          "answer": 1,
+          "explain": "Data storytelling turns numbers into a narrative people can follow and act on."
+        },
+        {
+          "q": "Why order charts like a story?",
+          "options": [
+            "To make it longer",
+            "So each chart builds on the last and the reader follows your thinking",
+            "To hide weak charts",
+            "To fill space"
+          ],
+          "answer": 1,
+          "explain": "Ordered charts guide the reader from the problem to the evidence to the recommendation."
+        },
+        {
+          "q": "What makes a good chart title?",
+          "options": [
+            "A technical name",
+            "A plain sentence that states the finding, like 'Sales doubled in December'",
+            "A question",
+            "A number only"
+          ],
+          "answer": 1,
+          "explain": "A good title states the finding in plain words, so the reader gets the point before reading the chart."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Building a Simple Dashboard",
+      "goal": "Build a small dashboard that shows key numbers and charts together.",
+      "video": {
+        "youtube_id": "mLs61qDi_ys",
+        "title": "Pandas Full Course: Basic to Advanced",
+        "channel": "Simple Code Hub"
+      },
+      "steps": [
+        "Pick three key numbers (KPIs) for your dataset and show them at the top.",
+        "Add three charts below: one trend, one comparison and one distribution.",
+        "Arrange them in a clean layout in a Jupyter Notebook or a simple web page.",
+        "Add a short line under each chart explaining what it shows."
+      ],
+      "task": "Build a one-page dashboard for your sales dataset with three KPIs and three charts.",
+      "challenge": "Show your dashboard to one person and ask them what they understand from it.",
+      "quiz": [
+        {
+          "q": "What is a KPI?",
+          "options": [
+            "A kind of chart",
+            "A key performance indicator: a single number that shows how something important is doing",
+            "A database",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A KPI is one number that matters, like total sales or average order value, shown big and clear."
+        },
+        {
+          "q": "What makes a good dashboard?",
+          "options": [
+            "Many charts",
+            "A few key numbers and charts that answer the main questions at a glance",
+            "Bright colours",
+            "Long text"
+          ],
+          "answer": 1,
+          "explain": "A good dashboard answers the main questions in seconds. Too many charts hide the important ones."
+        },
+        {
+          "q": "Why add a short line under each chart?",
+          "options": [
+            "To fill space",
+            "So the reader knows what the chart shows and why it matters",
+            "To make it longer",
+            "To hide the chart"
+          ],
+          "answer": 1,
+          "explain": "A short caption tells the reader what to look for, so they do not have to guess."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Presenting Your Analysis",
+      "goal": "Present your work clearly to people who are not analysts.",
+      "video": {
+        "youtube_id": "r-uOLxNrNk8",
+        "title": "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Write a one-page summary: the question, the answer and the evidence.",
+        "Pick your three best charts and give each a plain-words title.",
+        "Practise explaining your findings in under five minutes.",
+        "Prepare for two questions people might ask and write your answers."
+      ],
+      "task": "Write a one-page summary of your best analysis and practise presenting it.",
+      "challenge": "Present it to one person and note their questions.",
+      "quiz": [
+        {
+          "q": "What should a one-page summary contain?",
+          "options": [
+            "All your code",
+            "The question, the answer, the key numbers and what should happen next",
+            "Every chart",
+            "The raw data"
+          ],
+          "answer": 1,
+          "explain": "A one-page summary gives the question, the answer, the evidence and the next step, nothing more."
+        },
+        {
+          "q": "Why practise presenting?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you understand it and reveals gaps",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "Presenting tests your understanding. If you cannot explain a finding simply, you do not fully understand it yet."
+        },
+        {
+          "q": "How should you handle a question you cannot answer?",
+          "options": [
+            "Guess",
+            "Say you do not know and offer to check",
+            "Ignore it",
+            "Change the subject"
+          ],
+          "answer": 1,
+          "explain": "Saying 'I don't know, I'll check' is honest and builds trust. Guessing destroys it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Working with Excel Files",
+      "goal": "Read and write Excel files with pandas.",
+      "video": {
+        "youtube_id": "vtgDGrUiUKk",
+        "title": "Pandas Full Course (2025)",
+        "channel": "Intellipaat"
+      },
+      "steps": [
+        "Install openpyxl with pip install openpyxl.",
+        "Read an Excel file with pd.read_excel('data.xlsx').",
+        "Write a DataFrame to Excel with df.to_excel('output.xlsx', index=False).",
+        "Write two sheets into one Excel file using ExcelWriter."
+      ],
+      "task": "Read a sales spreadsheet from Excel, clean it, and save the cleaned version to a new file.",
+      "challenge": "Write a summary table and a chart-ready table to two sheets of one Excel file.",
+      "quiz": [
+        {
+          "q": "What does pd.read_excel() do?",
+          "options": [
+            "It deletes a file",
+            "It reads an Excel spreadsheet into a DataFrame",
+            "It writes a file",
+            "It draws a chart"
+          ],
+          "answer": 1,
+          "explain": "read_excel loads an Excel sheet into a DataFrame, just like read_csv does for CSV files."
+        },
+        {
+          "q": "Why use index=False when writing to Excel?",
+          "options": [
+            "It is faster",
+            "So pandas does not add an extra index column to your spreadsheet",
+            "It deletes rows",
+            "It sorts the data"
+          ],
+          "answer": 1,
+          "explain": "Without index=False, pandas writes the row numbers as an extra column, which clutters the spreadsheet."
+        },
+        {
+          "q": "What is ExcelWriter for?",
+          "options": [
+            "Reading files",
+            "Writing several DataFrames to different sheets of one Excel file",
+            "Deleting sheets",
+            "Sorting data"
+          ],
+          "answer": 1,
+          "explain": "ExcelWriter lets you write multiple sheets into a single workbook in one go."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Automating Reports with Python",
+      "goal": "Turn your analysis into a script that runs the whole report by itself.",
+      "video": {
+        "youtube_id": "gtjxAH8uaP0",
+        "title": "Learn Pandas & Python for Data Analysis [Full Course]",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Put your cleaning, grouping and chart steps into one Python script.",
+        "Make the script read the latest data file and save the charts to a folder.",
+        "Run the script from the terminal with python report.py.",
+        "Schedule it to run every week, or run it by hand when new data arrives."
+      ],
+      "task": "Turn your sales analysis into a single script that produces the charts and the numbers in one run.",
+      "challenge": "Add a line at the end of the script that prints 'Report done' with today's date.",
+      "quiz": [
+        {
+          "q": "What is an automated report?",
+          "options": [
+            "A report written by hand",
+            "A script that loads fresh data, analyses it and produces charts and numbers without you doing each step",
+            "A chart",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "An automated report script does the whole job: load, clean, analyse and chart, so you run one command and get the results."
+        },
+        {
+          "q": "Why put analysis in a script instead of a notebook?",
+          "options": [
+            "Scripts are faster always",
+            "So the same steps run the same way every time, with no missed steps",
+            "Notebooks cannot draw charts",
+            "Scripts use less memory"
+          ],
+          "answer": 1,
+          "explain": "A script runs top to bottom the same way every time, which makes results repeatable and easy to schedule."
+        },
+        {
+          "q": "What should a report script print at the end?",
+          "options": [
+            "Nothing",
+            "A short summary: what it did, how many rows it used and where the outputs are",
+            "The raw data",
+            "An error"
+          ],
+          "answer": 1,
+          "explain": "A short summary at the end tells you the run worked and where to find the results."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Analysis",
+      "goal": "Review everything, pick your capstone dataset and plan your report.",
+      "video": {
+        "youtube_id": "b_SVtigyk78",
+        "title": "Data Visualization in Python | Matplotlib & Seaborn Tutorial for Beginners",
+        "channel": "Learn With Sarvesh AI"
+      },
+      "steps": [
+        "List the datasets you worked with and pick the most interesting one.",
+        "Write a short plan: the questions, the data, the charts and the report.",
+        "Practise explaining your analysis in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your dashboard."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your analysis.",
+      "challenge": "Show your dashboard to one person and note their questions, then improve it.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone analysis?",
+          "options": [
+            "A huge dataset",
+            "A real question, clean data, honest charts and a clear recommendation",
+            "Many charts",
+            "Big words"
+          ],
+          "answer": 1,
+          "explain": "A good capstone answers a real question with clean data, honest charts and a recommendation someone can act on."
+        },
+        {
+          "q": "Why practise explaining your analysis?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your analysis in simple words, you really understand it. That is what employers look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the code",
+            "The questions, the data, the charts, the report and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the questions you will answer, the data you will use, the charts you will make and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Analyse a Real Dataset and Present a Dashboard",
+    "brief": "Pick a real dataset about a topic you care about. Clean it, explore it, find answers to real questions, and build a one-page dashboard with KPIs and charts. Write a short report with your findings and a recommendation, and present it in a short video or live demo.",
+    "checks": [
+      "The analysis answers a real question and you can state the question in one sentence.",
+      "The data is cleaned and the cleaning steps are explained.",
+      "The dashboard has at least three KPIs and three charts.",
+      "Each chart has a plain-words title and a short caption.",
+      "The report has at least three findings, each with a number.",
+      "The report ends with a clear recommendation.",
+      "You can present your analysis in under five minutes in simple words."
+    ],
+    "deliverables": [
+      "A cleaned dataset and the notebook with your analysis.",
+      "A one-page dashboard with KPIs and charts.",
+      "A short written report with findings and a recommendation.",
+      "A short demo video or screenshots of your dashboard.",
+      "A one-page write-up of what you learned in 30 days."
+    ]
+  }
+}

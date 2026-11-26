@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "continental-cooking",
+    "title": "Continental Cooking",
+    "level": "Beginner",
+    "tagline": "Cook pasta, rice dishes, chicken and continental favourites with real flavour.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Continental Cooking: What Is It?",
+      "goal": "Know what continental cooking means.",
+      "video": {
+        "youtube_id": "oqbYV4jWgck",
+        "title": "How to Make Pasta at Home By Food Fusion | Easy Step-by-Step Tutorial",
+        "channel": "Food Fusion"
+      },
+      "steps": [
+        "Continental means food from Europe and America: pasta, rice dishes, chicken, and more.",
+        "It uses olive oil, butter, herbs, and cheese a lot.",
+        "It is different from Nigerian food, but the skills are the same.",
+        "Learn the main ingredients: pasta, rice, chicken, tomatoes, and cheese.",
+        "Taste a pasta dish and a rice dish. Note the flavours."
+      ],
+      "task": "List five continental dishes you know.",
+      "challenge": "Taste a pasta dish and write down what you like about it.",
+      "quiz": [
+        {
+          "q": "What is continental cooking?",
+          "options": [
+            "Nigerian food",
+            "Food from Europe and America: pasta, rice, chicken, and more",
+            "Asian food only",
+            "Only desserts"
+          ],
+          "answer": 1,
+          "explain": "Continental cooking covers European and American dishes like pasta and roast chicken."
+        },
+        {
+          "q": "What ingredients does continental cooking use a lot?",
+          "options": [
+            "Palm oil and crayfish",
+            "Olive oil, butter, herbs, and cheese",
+            "Pepper and yam",
+            "Groundnut oil only"
+          ],
+          "answer": 1,
+          "explain": "Olive oil, butter, herbs, and cheese are common in continental cooking."
+        },
+        {
+          "q": "Why learn continental cooking?",
+          "options": [
+            "It is fancy",
+            "So you can cook for more customers and events",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Continental dishes open up more customers and events."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "How to Cook Pasta Properly",
+      "goal": "Cook pasta that is firm, not soft.",
+      "video": {
+        "youtube_id": "HXgXNvE8Zgg",
+        "title": "Easy Homemade Pasta Recipe | From Scratch in No Time!",
+        "channel": "Pasta Recipes"
+      },
+      "steps": [
+        "Use a large pot with plenty of salted water.",
+        "Add pasta only when the water is at a full rolling boil.",
+        "Stir in the first minute so it does not stick together.",
+        "Taste a piece 1 minute before the packet time. It should be firm, not soft.",
+        "Save a cup of pasta water to loosen the sauce."
+      ],
+      "task": "Cook spaghetti and toss it in a simple tomato sauce.",
+      "challenge": "Cook the pasta so it finishes in the sauce, not in the water.",
+      "quiz": [
+        {
+          "q": "When should pasta go into the pot?",
+          "options": [
+            "In cold water",
+            "When the water is at a full rolling boil",
+            "After the sauce is ready",
+            "Any time"
+          ],
+          "answer": 1,
+          "explain": "Boiling water sets the pasta so it does not clump."
+        },
+        {
+          "q": "What does 'al dente' mean?",
+          "options": [
+            "Overcooked",
+            "Firm to the bite",
+            "Raw",
+            "Soft and mushy"
+          ],
+          "answer": 1,
+          "explain": "Al dente is Italian for 'firm to the bite', the right texture for pasta."
+        },
+        {
+          "q": "Why save pasta water?",
+          "options": [
+            "To drink",
+            "Its starch helps the sauce stick to the pasta",
+            "To clean the pot",
+            "To water plants"
+          ],
+          "answer": 1,
+          "explain": "Starchy pasta water helps sauce coat the pasta."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Spaghetti with Tomato Sauce",
+      "goal": "Make spaghetti with a simple tomato sauce.",
+      "video": {
+        "youtube_id": "QzqhJ7ydI4w",
+        "title": "Easy Recipe Pasta Carbonara Italian Cooking",
+        "channel": "Dining and Cooking"
+      },
+      "steps": [
+        "Boil spaghetti in salted water until firm.",
+        "Fry garlic in olive oil for 30 seconds. Do not let it burn.",
+        "Add chopped tomatoes and cook for 10 minutes.",
+        "Add salt, pepper, and fresh basil.",
+        "Toss the pasta in the sauce with a splash of pasta water."
+      ],
+      "task": "Cook spaghetti with tomato sauce.",
+      "challenge": "Add grated cheese on top and serve.",
+      "quiz": [
+        {
+          "q": "Why fry garlic only briefly?",
+          "options": [
+            "It is faster",
+            "Garlic burns fast and tastes bitter",
+            "It saves oil",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Garlic burns in under a minute and turns bitter."
+        },
+        {
+          "q": "Why add pasta water to the sauce?",
+          "options": [
+            "To make more sauce",
+            "It helps the sauce stick to the pasta",
+            "To cool it",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Pasta water helps the sauce coat the pasta evenly."
+        },
+        {
+          "q": "What herb goes well with tomato sauce?",
+          "options": [
+            "Mint",
+            "Basil",
+            "Coriander",
+            "Parsley only"
+          ],
+          "answer": 1,
+          "explain": "Basil is the classic herb with tomato sauce."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Pasta Carbonara: The Classic",
+      "goal": "Make pasta carbonara the real way.",
+      "video": {
+        "youtube_id": "KbSYoIn0Sgk",
+        "title": "How To Make Italian Spaghetti with Tomato Sauce / Kids Favourite",
+        "channel": "Italian Kitchen"
+      },
+      "steps": [
+        "Carbonara uses eggs, cheese, and bacon, not cream.",
+        "Fry bacon or pancetta until crisp. Set aside.",
+        "Whisk eggs with grated cheese and pepper.",
+        "Cook pasta. Drain, keeping a cup of pasta water.",
+        "Toss hot pasta with bacon, then add the egg mix off the heat."
+      ],
+      "task": "Make pasta carbonara.",
+      "challenge": "Taste it and note how creamy it is without cream.",
+      "quiz": [
+        {
+          "q": "What is in real carbonara?",
+          "options": [
+            "Cream and chicken",
+            "Eggs, cheese, and bacon, not cream",
+            "Tomatoes and cheese",
+            "Milk and butter"
+          ],
+          "answer": 1,
+          "explain": "Real carbonara uses eggs, cheese, and bacon. No cream."
+        },
+        {
+          "q": "Why add the egg mix off the heat?",
+          "options": [
+            "It is faster",
+            "So the eggs do not turn into scrambled eggs",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Hot pasta cooks the eggs gently. Direct heat scrambles them."
+        },
+        {
+          "q": "Why keep pasta water for carbonara?",
+          "options": [
+            "To drink",
+            "It thins the sauce and helps it coat the pasta",
+            "To clean the pot",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Pasta water loosens the egg sauce so it coats the pasta."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Cacio e Pepe: Cheese and Pepper Pasta",
+      "goal": "Make cacio e pepe, a simple Roman pasta.",
+      "video": {
+        "youtube_id": "rL-bN0mu9L8",
+        "title": "Cacio e Pepe, a Recipe for Beginners",
+        "channel": "Italian Recipes"
+      },
+      "steps": [
+        "Cacio e pepe means cheese and pepper in Italian.",
+        "Cook pasta in a small amount of water so it is very starchy.",
+        "Mix grated cheese with black pepper and a little pasta water into a paste.",
+        "Toss hot pasta with the paste until creamy.",
+        "Serve at once with more cheese on top."
+      ],
+      "task": "Make cacio e pepe.",
+      "challenge": "Make it again and adjust the pepper to your taste.",
+      "quiz": [
+        {
+          "q": "What does cacio e pepe mean?",
+          "options": [
+            "Tomato and basil",
+            "Cheese and pepper",
+            "Garlic and oil",
+            "Chicken and rice"
+          ],
+          "answer": 1,
+          "explain": "Cacio e pepe is Italian for cheese and pepper."
+        },
+        {
+          "q": "Why cook pasta in little water?",
+          "options": [
+            "It is faster",
+            "So the water is very starchy and makes a creamy sauce",
+            "It saves water",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Very starchy water helps the cheese form a creamy sauce."
+        },
+        {
+          "q": "How many main ingredients does cacio e pepe have?",
+          "options": [
+            "10",
+            "Three: pasta, cheese, and pepper",
+            "5",
+            "2"
+          ],
+          "answer": 1,
+          "explain": "Cacio e pepe needs only pasta, cheese, and black pepper."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Homemade Pasta: From Scratch",
+      "goal": "Make fresh pasta at home.",
+      "video": {
+        "youtube_id": "Zk2aJoFZIaY",
+        "title": "Chicken Fried Rice",
+        "channel": "Natasha's Kitchen"
+      },
+      "steps": [
+        "Mix flour and eggs into a dough. Knead for 10 minutes.",
+        "Cover and rest for 30 minutes.",
+        "Roll the dough out thin with a rolling pin.",
+        "Cut into strips for noodles or squares for other shapes.",
+        "Cook fresh pasta for only 2 to 3 minutes."
+      ],
+      "task": "Make fresh pasta from scratch.",
+      "challenge": "Cook it with a simple tomato sauce.",
+      "quiz": [
+        {
+          "q": "What is fresh pasta made from?",
+          "options": [
+            "Flour and water only",
+            "Flour and eggs",
+            "Flour and milk",
+            "Flour and yeast"
+          ],
+          "answer": 1,
+          "explain": "Fresh pasta is flour and eggs kneaded into a dough."
+        },
+        {
+          "q": "Why rest pasta dough?",
+          "options": [
+            "To cool it",
+            "Resting makes it soft and easy to roll",
+            "To make it rise",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Resting relaxes the dough so it rolls out thin."
+        },
+        {
+          "q": "How long does fresh pasta cook?",
+          "options": [
+            "10 minutes",
+            "2 to 3 minutes",
+            "30 minutes",
+            "1 minute"
+          ],
+          "answer": 1,
+          "explain": "Fresh pasta is thin, so it cooks in 2 to 3 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Pasta Night",
+      "goal": "Cook three pasta dishes for your household.",
+      "video": {
+        "youtube_id": "_zdJyiEguwg",
+        "title": "Grilled Chicken Sandwich",
+        "channel": "Chef Jack Ovens"
+      },
+      "steps": [
+        "Pick three pastas: tomato spaghetti, carbonara, and cacio e pepe.",
+        "Write a shopping list and costs.",
+        "Cook each dish one at a time, starting with the slowest.",
+        "Serve all three and let everyone taste each one.",
+        "Ask which pasta they liked best and why."
+      ],
+      "task": "Cook three pasta dishes in one night.",
+      "challenge": "Cost the night and work out the price per person.",
+      "quiz": [
+        {
+          "q": "Why cook one pasta dish at a time?",
+          "options": [
+            "It is faster",
+            "So each dish is hot and fresh",
+            "It saves water",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Pasta goes soft fast, so cook each dish fresh."
+        },
+        {
+          "q": "Why ask tasters which pasta they liked best?",
+          "options": [
+            "To show off",
+            "It tells you what to cook again",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Taster feedback shows your best dishes."
+        },
+        {
+          "q": "What should a pasta night have?",
+          "options": [
+            "One dish",
+            "Three different pastas to compare",
+            "Only sauce",
+            "Only cheese"
+          ],
+          "answer": 1,
+          "explain": "Three different pastas show your range."
+        }
+      ],
+      "project": {
+        "title": "Cook a Pasta Night",
+        "brief": "Cook tomato spaghetti, carbonara, and cacio e pepe in one night.",
+        "checks": [
+          "Three different pasta dishes cooked",
+          "Each pasta firm, not soft",
+          "Sauces made well and tasty",
+          "All three served hot",
+          "Tasters picked a favourite",
+          "Costs worked out per person"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Chicken Fried Rice",
+      "goal": "Make chicken fried rice, continental style.",
+      "video": {
+        "youtube_id": "FZgZPARYwFI",
+        "title": "How to Cook Pasta",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Use cold, day-old rice. Fresh rice turns mushy.",
+        "Fry chicken first, then set it aside.",
+        "Fry onion, garlic, and vegetables.",
+        "Add rice and soy sauce. Toss on high heat.",
+        "Add the chicken back and serve hot."
+      ],
+      "task": "Make chicken fried rice.",
+      "challenge": "Make a second version with different vegetables.",
+      "quiz": [
+        {
+          "q": "Why use day-old rice for fried rice?",
+          "options": [
+            "It is cheaper",
+            "Cold rice stays separate instead of turning mushy",
+            "It cooks faster",
+            "It tastes better"
+          ],
+          "answer": 1,
+          "explain": "Cold, dry rice fries into separate grains."
+        },
+        {
+          "q": "Why fry chicken first and set it aside?",
+          "options": [
+            "To save time",
+            "So it does not overcook while the rice fries",
+            "It is tradition",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "Chicken cooked first and added back at the end stays tender."
+        },
+        {
+          "q": "What does soy sauce add?",
+          "options": [
+            "Colour only",
+            "A deep savoury taste and colour",
+            "Sweetness",
+            "Thickness"
+          ],
+          "answer": 1,
+          "explain": "Soy sauce adds a deep savoury taste and a golden colour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Egg Fried Rice: Quick and Tasty",
+      "goal": "Make egg fried rice in 10 minutes.",
+      "video": {
+        "youtube_id": "vUGqBIM7Cz4",
+        "title": "How to Cook Roast Chicken and Vegetables",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Scramble eggs first, then set them aside.",
+        "Fry onion and garlic in oil.",
+        "Add cold rice and toss on high heat.",
+        "Add soy sauce and the scrambled eggs.",
+        "Serve hot with spring onions on top."
+      ],
+      "task": "Make egg fried rice.",
+      "challenge": "Add chicken or prawns to make it a full meal.",
+      "quiz": [
+        {
+          "q": "Why scramble eggs first?",
+          "options": [
+            "To save time",
+            "So they do not overcook while the rice fries",
+            "It is tradition",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "Eggs cook in seconds. Adding them back at the end keeps them tender."
+        },
+        {
+          "q": "Why use cold rice?",
+          "options": [
+            "It is cheaper",
+            "Cold rice stays separate",
+            "It cooks faster",
+            "It tastes better"
+          ],
+          "answer": 1,
+          "explain": "Cold rice fries into separate grains instead of mush."
+        },
+        {
+          "q": "How long does egg fried rice take?",
+          "options": [
+            "1 hour",
+            "About 10 minutes",
+            "30 minutes",
+            "5 minutes"
+          ],
+          "answer": 1,
+          "explain": "Egg fried rice is fast: about 10 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Roast Chicken and Vegetables",
+      "goal": "Roast a whole chicken with vegetables.",
+      "video": {
+        "youtube_id": "eJImdb1Dfh8",
+        "title": "Chicken Egg Fried Rice",
+        "channel": "Flavourfully Good"
+      },
+      "steps": [
+        "Season chicken with salt, pepper, and garlic.",
+        "Cut vegetables into similar sizes and toss in oil.",
+        "Roast at 200°C, chicken on top of the vegetables.",
+        "Cook until juices run clear and the thickest part reaches 75°C.",
+        "Rest for 10 minutes before cutting."
+      ],
+      "task": "Roast a whole chicken with vegetables.",
+      "challenge": "Cut it into 8 pieces and serve it.",
+      "quiz": [
+        {
+          "q": "Why rest roast chicken?",
+          "options": [
+            "It cools down",
+            "Juices spread back so the meat stays moist",
+            "It is easier to hold",
+            "The skin gets crisp"
+          ],
+          "answer": 1,
+          "explain": "Cutting at once lets juices run out. Resting keeps them in."
+        },
+        {
+          "q": "What temperature must chicken reach?",
+          "options": [
+            "60°C",
+            "75°C",
+            "90°C",
+            "100°C"
+          ],
+          "answer": 1,
+          "explain": "Chicken must reach 75°C inside to be safe."
+        },
+        {
+          "q": "Why put vegetables under the chicken?",
+          "options": [
+            "To save space",
+            "Chicken juices drip down and flavour them",
+            "They cook slower",
+            "To keep them clean"
+          ],
+          "answer": 1,
+          "explain": "The drippings flavour the vegetables."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Grilled Chicken Sandwich",
+      "goal": "Make a grilled chicken sandwich.",
+      "video": {
+        "youtube_id": "oqbYV4jWgck",
+        "title": "How to Make Pasta at Home By Food Fusion | Easy Step-by-Step Tutorial",
+        "channel": "Food Fusion"
+      },
+      "steps": [
+        "Grill chicken breast until cooked through.",
+        "Toast bread or a bun on the grill.",
+        "Add lettuce, tomato, and a sauce you like.",
+        "Put the chicken in the sandwich and cut it in half.",
+        "Serve hot with chips or salad."
+      ],
+      "task": "Make a grilled chicken sandwich.",
+      "challenge": "Make a second one with a different sauce and compare.",
+      "quiz": [
+        {
+          "q": "How do you know grilled chicken is done?",
+          "options": [
+            "It smells good",
+            "The inside is white all the way through, not pink",
+            "It is brown outside",
+            "It feels soft"
+          ],
+          "answer": 1,
+          "explain": "Chicken must be white inside, not pink, to be safe."
+        },
+        {
+          "q": "Why toast the bread?",
+          "options": [
+            "It looks nice",
+            "Toasted bread holds the filling without going soggy",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Toasted bread stays firm and does not go soggy."
+        },
+        {
+          "q": "What goes well with a chicken sandwich?",
+          "options": [
+            "Soup only",
+            "Chips or salad",
+            "Rice only",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Chips or salad are the classic partners."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Creamy Chicken Pasta",
+      "goal": "Make creamy chicken pasta.",
+      "video": {
+        "youtube_id": "HXgXNvE8Zgg",
+        "title": "Easy Homemade Pasta Recipe | From Scratch in No Time!",
+        "channel": "Pasta Recipes"
+      },
+      "steps": [
+        "Fry chicken pieces until cooked. Set aside.",
+        "Fry garlic and mushrooms in the same pan.",
+        "Add cream and simmer gently for 5 minutes.",
+        "Add cooked pasta and the chicken. Toss well.",
+        "Serve with grated cheese on top."
+      ],
+      "task": "Make creamy chicken pasta.",
+      "challenge": "Try a version with spinach added.",
+      "quiz": [
+        {
+          "q": "Why fry chicken first and set it aside?",
+          "options": [
+            "To save time",
+            "So it does not overcook while the sauce cooks",
+            "It is tradition",
+            "To use less oil"
+          ],
+          "answer": 1,
+          "explain": "Chicken cooked first and added back at the end stays tender."
+        },
+        {
+          "q": "Why simmer cream gently?",
+          "options": [
+            "It is faster",
+            "High heat can split cream",
+            "It saves gas",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Cream on high heat can split. Gentle heat keeps it smooth."
+        },
+        {
+          "q": "What does cream add to pasta?",
+          "options": [
+            "Sweetness",
+            "A rich, smooth sauce",
+            "Colour",
+            "Crunch"
+          ],
+          "answer": 1,
+          "explain": "Cream makes a rich, smooth sauce."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Continental Rice Dishes",
+      "goal": "Cook continental rice dishes.",
+      "video": {
+        "youtube_id": "QzqhJ7ydI4w",
+        "title": "Easy Recipe Pasta Carbonara Italian Cooking",
+        "channel": "Dining and Cooking"
+      },
+      "steps": [
+        "Try a simple pilau: fry onion and spices, add rice and stock.",
+        "Try a vegetable rice: rice with mixed vegetables and herbs.",
+        "Use stock, not water, for more flavour.",
+        "Cook on low heat with the lid on. Do not lift the lid.",
+        "Rest for 10 minutes, then fluff with a fork."
+      ],
+      "task": "Cook a pilau rice.",
+      "challenge": "Cook a vegetable rice and compare.",
+      "quiz": [
+        {
+          "q": "Why cook rice in stock, not water?",
+          "options": [
+            "It is faster",
+            "Stock adds flavour the rice absorbs",
+            "It is cheaper",
+            "It cooks the rice quicker"
+          ],
+          "answer": 1,
+          "explain": "Rice cooked in stock absorbs all that flavour."
+        },
+        {
+          "q": "Why not lift the lid while rice cooks?",
+          "options": [
+            "It is dangerous",
+            "It lets steam out and ruins the cooking",
+            "It cools the pot",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Rice cooks in trapped steam. Lifting the lid lets it out."
+        },
+        {
+          "q": "Why rest rice after cooking?",
+          "options": [
+            "To cool it",
+            "So the steam finishes cooking and the grains firm up",
+            "To save gas",
+            "To wash the pot"
+          ],
+          "answer": 1,
+          "explain": "Resting lets moisture even out so rice is fluffy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A Continental Dinner",
+      "goal": "Cook a continental dinner for your household.",
+      "video": {
+        "youtube_id": "KbSYoIn0Sgk",
+        "title": "How To Make Italian Spaghetti with Tomato Sauce / Kids Favourite",
+        "channel": "Italian Kitchen"
+      },
+      "steps": [
+        "Pick the menu: a pasta dish, a rice dish, and roast chicken.",
+        "Write a shopping list and costs.",
+        "Start the roast chicken first since it takes longest.",
+        "Cook the pasta and rice while the chicken roasts.",
+        "Serve all three together and ask for feedback."
+      ],
+      "task": "Cook a continental dinner with three dishes.",
+      "challenge": "Cost the dinner and work out the price per person.",
+      "quiz": [
+        {
+          "q": "Why start the roast chicken first?",
+          "options": [
+            "It is harder",
+            "It takes the longest, so it starts first",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Start with what takes longest so all food finishes together."
+        },
+        {
+          "q": "What should a continental dinner have?",
+          "options": [
+            "One dish",
+            "A pasta dish, a rice dish, and a protein",
+            "Only pasta",
+            "Only rice"
+          ],
+          "answer": 1,
+          "explain": "A mix of pasta, rice, and protein makes a full dinner."
+        },
+        {
+          "q": "Why cost the dinner?",
+          "options": [
+            "To show off",
+            "So you know the price per person",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing tells you what to charge if you sell it."
+        }
+      ],
+      "project": {
+        "title": "Cook a Continental Dinner",
+        "brief": "Cook a pasta dish, a rice dish, and roast chicken, served together.",
+        "checks": [
+          "Three different dishes cooked",
+          "Roast chicken cooked through and juicy",
+          "Pasta firm, not soft",
+          "Rice fluffy and tasty",
+          "All served together, hot",
+          "Feedback collected from tasters"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Continental Soups: Creamy and Clear",
+      "goal": "Make continental soups.",
+      "video": {
+        "youtube_id": "rL-bN0mu9L8",
+        "title": "Cacio e Pepe, a Recipe for Beginners",
+        "channel": "Italian Recipes"
+      },
+      "steps": [
+        "Cream of tomato soup: cook tomatoes, blend, add cream.",
+        "Chicken soup: boil chicken with vegetables and herbs.",
+        "Blend smooth soups with a blender. Be careful: hot soup splashes.",
+        "Season well. Taste and adjust salt.",
+        "Serve with bread."
+      ],
+      "task": "Make a creamy tomato soup.",
+      "challenge": "Make a chicken soup and compare.",
+      "quiz": [
+        {
+          "q": "How do you make a soup creamy?",
+          "options": [
+            "Add milk",
+            "Blend it smooth and add cream",
+            "Add flour only",
+            "Cook it longer"
+          ],
+          "answer": 1,
+          "explain": "Blending smooth and adding cream makes a creamy soup."
+        },
+        {
+          "q": "Why be careful blending hot soup?",
+          "options": [
+            "It is messy",
+            "Hot soup splashes and can burn",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Hot soup in a blender can splash and burn you."
+        },
+        {
+          "q": "What goes well with soup?",
+          "options": [
+            "Rice",
+            "Bread",
+            "Pasta",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Bread is the classic partner for soup."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Salads: Fresh and Simple",
+      "goal": "Make continental salads.",
+      "video": {
+        "youtube_id": "Zk2aJoFZIaY",
+        "title": "Chicken Fried Rice",
+        "channel": "Natasha's Kitchen"
+      },
+      "steps": [
+        "Wash and dry salad leaves. Wet leaves make dressing slide off.",
+        "Add tomato, cucumber, and onion.",
+        "Make a dressing: 3 parts oil to 1 part lemon juice or vinegar, with salt.",
+        "Toss just before serving so leaves stay crisp.",
+        "Add cheese or chicken to make it a full meal."
+      ],
+      "task": "Make a simple salad with dressing.",
+      "challenge": "Make a chicken salad and serve it as a meal.",
+      "quiz": [
+        {
+          "q": "Why dry salad leaves?",
+          "options": [
+            "They look better",
+            "Water stops dressing from sticking",
+            "They taste better",
+            "They stay green"
+          ],
+          "answer": 1,
+          "explain": "Wet leaves repel dressing, so the salad tastes watery."
+        },
+        {
+          "q": "What is the classic dressing ratio?",
+          "options": [
+            "1 to 1",
+            "3 parts oil to 1 part acid",
+            "1 part oil to 3 parts acid",
+            "5 to 1"
+          ],
+          "answer": 1,
+          "explain": "Three parts oil to one part acid gives a balanced dressing."
+        },
+        {
+          "q": "Why toss salad just before serving?",
+          "options": [
+            "It looks nice",
+            "So leaves stay crisp",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Dressing left on leaves makes them go soft."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Continental Breakfast: Eggs and More",
+      "goal": "Cook a continental breakfast.",
+      "video": {
+        "youtube_id": "_zdJyiEguwg",
+        "title": "Grilled Chicken Sandwich",
+        "channel": "Chef Jack Ovens"
+      },
+      "steps": [
+        "Fry or scramble eggs.",
+        "Grill tomatoes and mushrooms.",
+        "Toast bread and add butter.",
+        "Add cheese or cold meat if you like.",
+        "Serve with tea, coffee, or juice."
+      ],
+      "task": "Cook a continental breakfast.",
+      "challenge": "Time it and try to finish in 30 minutes.",
+      "quiz": [
+        {
+          "q": "What is in a continental breakfast?",
+          "options": [
+            "Only eggs",
+            "Eggs, toast, grilled tomatoes, and cheese or cold meat",
+            "Only fruit",
+            "Only bread"
+          ],
+          "answer": 1,
+          "explain": "A continental breakfast has eggs, toast, grilled tomatoes, and cheese or cold meat."
+        },
+        {
+          "q": "Why grill tomatoes for breakfast?",
+          "options": [
+            "It looks nice",
+            "Grilling softens them and adds flavour",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Grilled tomatoes are soft and tasty with eggs."
+        },
+        {
+          "q": "How long should breakfast take?",
+          "options": [
+            "1 hour",
+            "About 30 minutes",
+            "10 minutes",
+            "5 minutes"
+          ],
+          "answer": 1,
+          "explain": "A simple breakfast takes about 30 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Stir Fry: Continental Style",
+      "goal": "Make a continental stir fry.",
+      "video": {
+        "youtube_id": "FZgZPARYwFI",
+        "title": "How to Cook Pasta",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Cut chicken and vegetables into similar small sizes.",
+        "Get the pan very hot and add oil.",
+        "Cook in small batches so food fries, not steams.",
+        "Add sauce at the end and toss for 30 seconds.",
+        "Serve over rice or noodles."
+      ],
+      "task": "Make a chicken and vegetable stir fry.",
+      "challenge": "Make a vegetable-only stir fry and compare.",
+      "quiz": [
+        {
+          "q": "Why cut stir fry ingredients small?",
+          "options": [
+            "They look nice",
+            "Small pieces cook fast",
+            "They save oil",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Small pieces cook quickly on high heat."
+        },
+        {
+          "q": "Why cook in small batches?",
+          "options": [
+            "It looks better",
+            "A crowded pan steams food instead of frying it",
+            "It saves oil",
+            "It is traditional"
+          ],
+          "answer": 1,
+          "explain": "Too much food drops the pan temperature and food goes soggy."
+        },
+        {
+          "q": "When does sauce go in?",
+          "options": [
+            "At the start",
+            "At the end, tossed for 30 seconds",
+            "Before the oil",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Sauce added last coats and glazes without burning."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Costing Continental Dishes",
+      "goal": "Work out what continental dishes cost.",
+      "video": {
+        "youtube_id": "vUGqBIM7Cz4",
+        "title": "How to Cook Roast Chicken and Vegetables",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "List every ingredient with its price.",
+        "Add gas and packaging costs.",
+        "Divide the total by the number of portions.",
+        "Charge 2 to 3 times the food cost for a profit.",
+        "Compare with restaurants near you."
+      ],
+      "task": "Cost a pasta dish and set its selling price.",
+      "challenge": "Cost a roast chicken dinner the same way.",
+      "quiz": [
+        {
+          "q": "What is the cost per portion?",
+          "options": [
+            "The menu price",
+            "Total ingredient cost divided by portions",
+            "The gas cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Cost per portion is the ingredient cost for one serving."
+        },
+        {
+          "q": "Why charge 2 to 3 times the food cost?",
+          "options": [
+            "To be expensive",
+            "To cover gas, packaging, and your time, and still make a profit",
+            "It is a law",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "The extra covers all the costs beyond ingredients and leaves profit."
+        },
+        {
+          "q": "Why compare with local restaurants?",
+          "options": [
+            "To copy them",
+            "So your price is fair for your area",
+            "To show off",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Local prices tell you what customers expect to pay."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Continental Cooking Mistakes and Fixes",
+      "goal": "Fix the commonest continental cooking problems.",
+      "video": {
+        "youtube_id": "eJImdb1Dfh8",
+        "title": "Chicken Egg Fried Rice",
+        "channel": "Flavourfully Good"
+      },
+      "steps": [
+        "Pasta went mushy? You cooked it too long or did not use enough water.",
+        "Sauce is too thin? Simmer it longer or add a little pasta water.",
+        "Chicken is dry? You overcooked it or did not rest it.",
+        "Rice is sticky? You did not rinse it or you stirred it too much.",
+        "Write down each problem and fix."
+      ],
+      "task": "Fix one continental cooking problem you have had.",
+      "challenge": "Cook a dish and write down what went right and wrong.",
+      "quiz": [
+        {
+          "q": "Why did pasta go mushy?",
+          "options": [
+            "Too much salt",
+            "It was cooked too long",
+            "Too little water",
+            "A cold oven"
+          ],
+          "answer": 1,
+          "explain": "Overcooking makes pasta soft and mushy."
+        },
+        {
+          "q": "How do you thicken a thin sauce?",
+          "options": [
+            "Add water",
+            "Simmer it longer",
+            "Add ice",
+            "Take it off the heat"
+          ],
+          "answer": 1,
+          "explain": "Simmering lets water evaporate and the sauce thicken."
+        },
+        {
+          "q": "Why is chicken dry?",
+          "options": [
+            "Too much salt",
+            "It was overcooked or not rested",
+            "Too little oil",
+            "A cold oven"
+          ],
+          "answer": 1,
+          "explain": "Overcooking dries chicken out. Resting keeps juices in."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Continental Feast",
+      "goal": "Cook a full continental feast.",
+      "video": {
+        "youtube_id": "oqbYV4jWgck",
+        "title": "How to Make Pasta at Home By Food Fusion | Easy Step-by-Step Tutorial",
+        "channel": "Food Fusion"
+      },
+      "steps": [
+        "Pick the menu: pasta, rice, chicken, and a salad.",
+        "Write a shopping list and costs.",
+        "Start the chicken first since it takes longest.",
+        "Cook pasta and rice while the chicken roasts.",
+        "Serve everything together and photograph the table."
+      ],
+      "task": "Cook a continental feast for your household.",
+      "challenge": "Serve it to a guest and ask for their favourite dish.",
+      "quiz": [
+        {
+          "q": "Why start the chicken first?",
+          "options": [
+            "It is harder",
+            "It takes the longest",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Slow food starts first so all food finishes together."
+        },
+        {
+          "q": "What should a continental feast have?",
+          "options": [
+            "One dish",
+            "Pasta, rice, chicken, and a salad",
+            "Only pasta",
+            "Only rice"
+          ],
+          "answer": 1,
+          "explain": "A feast balances pasta, rice, chicken, and salad."
+        },
+        {
+          "q": "Why photograph your food?",
+          "options": [
+            "To show off",
+            "Photos track your progress and show customers later",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Photos record your work and become your portfolio if you sell food."
+        }
+      ],
+      "project": {
+        "title": "Cook a Continental Feast",
+        "brief": "Cook pasta, rice, chicken, and a salad, served together.",
+        "checks": [
+          "Four different dishes cooked",
+          "Chicken cooked through and juicy",
+          "Pasta firm, not soft",
+          "Rice fluffy and tasty",
+          "Salad fresh and crisp",
+          "Table photographed and feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Cooking for Events: Continental Menus",
+      "goal": "Plan continental food for events.",
+      "video": {
+        "youtube_id": "HXgXNvE8Zgg",
+        "title": "Easy Homemade Pasta Recipe | From Scratch in No Time!",
+        "channel": "Pasta Recipes"
+      },
+      "steps": [
+        "Offer a pasta dish, a rice dish, and a chicken dish.",
+        "Add a salad and a dessert like a simple cake.",
+        "Cook in bulk: big pots of pasta and rice.",
+        "Keep food warm in a low oven or chafing dishes.",
+        "Serve with drinks and take photos."
+      ],
+      "task": "Plan a continental menu for 20 people on paper.",
+      "challenge": "Cook one dish from it for a group.",
+      "quiz": [
+        {
+          "q": "What should an event menu have?",
+          "options": [
+            "One dish",
+            "Pasta, rice, chicken, salad, and dessert",
+            "Only pasta",
+            "Only rice"
+          ],
+          "answer": 1,
+          "explain": "A full event menu balances pasta, rice, chicken, salad, and dessert."
+        },
+        {
+          "q": "Why cook in bulk for events?",
+          "options": [
+            "It is faster",
+            "Big pots serve many people",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Bulk cooking serves a crowd efficiently."
+        },
+        {
+          "q": "How do you keep event food warm?",
+          "options": [
+            "Leave it out",
+            "In a low oven or chafing dishes",
+            "In the fridge",
+            "On high heat"
+          ],
+          "answer": 1,
+          "explain": "A low oven or chafing dishes hold food hot safely."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Selling Continental Food: First Steps",
+      "goal": "Take your first steps toward selling continental food.",
+      "video": {
+        "youtube_id": "QzqhJ7ydI4w",
+        "title": "Easy Recipe Pasta Carbonara Italian Cooking",
+        "channel": "Dining and Cooking"
+      },
+      "steps": [
+        "Pick 3 or 4 dishes to sell. Keep the menu small.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your dishes in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you cook only what is sold."
+      ],
+      "task": "Take photos of your best continental dishes and show them to three people.",
+      "challenge": "Take one real order, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 3 or 4 dishes?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to cook well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you cook only what is sold and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Your Signature Continental Dish",
+      "goal": "Choose and perfect one continental dish you can cook brilliantly.",
+      "video": {
+        "youtube_id": "KbSYoIn0Sgk",
+        "title": "How To Make Italian Spaghetti with Tomato Sauce / Kids Favourite",
+        "channel": "Italian Kitchen"
+      },
+      "steps": [
+        "Pick the dish your household loves most from this course.",
+        "Write the recipe in your own words with exact amounts.",
+        "Cook it again, timing every step and noting problems.",
+        "Fix the problems and cook it once more.",
+        "Get someone new to taste it and give honest feedback."
+      ],
+      "task": "Cook your signature continental dish and write the final recipe down.",
+      "challenge": "Cook it for someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature dish?",
+          "options": [
+            "An expensive dish",
+            "A dish you can cook brilliantly every time",
+            "A dish with a fancy name",
+            "A dish only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature dish is one you have mastered."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you truly understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself proves you understand each step."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste food"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Continental Desserts: Simple Sweets",
+      "goal": "Make simple continental desserts.",
+      "video": {
+        "youtube_id": "rL-bN0mu9L8",
+        "title": "Cacio e Pepe, a Recipe for Beginners",
+        "channel": "Italian Recipes"
+      },
+      "steps": [
+        "Try a fruit salad with cream.",
+        "Try a simple chocolate mousse: melted chocolate, eggs, and cream.",
+        "Try pancakes with syrup and fruit.",
+        "Serve desserts in small portions. They are rich.",
+        "Keep desserts simple. Let the main meal shine."
+      ],
+      "task": "Make a fruit salad with cream.",
+      "challenge": "Make pancakes with syrup and fruit.",
+      "quiz": [
+        {
+          "q": "What is a simple continental dessert?",
+          "options": [
+            "A big cake",
+            "Fruit salad with cream or pancakes",
+            "Only ice cream",
+            "Only chocolate"
+          ],
+          "answer": 1,
+          "explain": "Simple desserts like fruit salad and pancakes suit a continental meal."
+        },
+        {
+          "q": "Why serve desserts in small portions?",
+          "options": [
+            "They are expensive",
+            "They are rich, so a little is enough",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Rich desserts are best in small portions."
+        },
+        {
+          "q": "Why keep desserts simple?",
+          "options": [
+            "It is cheaper",
+            "So the main meal shines",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A simple dessert lets the main meal be the star."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your continental cooking business.",
+      "video": {
+        "youtube_id": "Zk2aJoFZIaY",
+        "title": "Chicken Fried Rice",
+        "channel": "Natasha's Kitchen"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which dishes sell best and which do not.",
+        "Keep your money for cooking separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one continental dinner.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to cook",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for food, gas, and packaging."
+        },
+        {
+          "q": "Why keep cooking money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if the business is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Continental Food for Special Diets",
+      "goal": "Make continental food for special diets.",
+      "video": {
+        "youtube_id": "_zdJyiEguwg",
+        "title": "Grilled Chicken Sandwich",
+        "channel": "Chef Jack Ovens"
+      },
+      "steps": [
+        "Vegetarian pasta: use vegetables and cheese, no meat.",
+        "Gluten-free pasta: use pasta made without wheat.",
+        "Low-salt: use herbs and lemon instead of salt.",
+        "Ask customers about allergies before you cook.",
+        "Label every dish with what is in it."
+      ],
+      "task": "Make a vegetarian pasta.",
+      "challenge": "Make a low-salt dish and compare the taste.",
+      "quiz": [
+        {
+          "q": "What is vegetarian pasta?",
+          "options": [
+            "Pasta with fish",
+            "Pasta with vegetables and cheese, no meat",
+            "Pasta with chicken",
+            "Pasta with no sauce"
+          ],
+          "answer": 1,
+          "explain": "Vegetarian pasta uses vegetables and cheese, no meat."
+        },
+        {
+          "q": "What is gluten-free pasta?",
+          "options": [
+            "Pasta with no sauce",
+            "Pasta made without wheat",
+            "Pasta with no cheese",
+            "Pasta with no eggs"
+          ],
+          "answer": 1,
+          "explain": "Gluten-free pasta is made without wheat."
+        },
+        {
+          "q": "Why label every dish?",
+          "options": [
+            "To show off",
+            "So customers know what is in it",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Labels help customers with diets and allergies choose safely."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Continental Cooking Trends",
+      "goal": "Try new continental ideas and see what customers like.",
+      "video": {
+        "youtube_id": "FZgZPARYwFI",
+        "title": "How to Cook Pasta",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Try a new pasta shape each week.",
+        "Ask customers what flavours they want.",
+        "Try a new sauce or a new herb.",
+        "Watch what other cooks serve and learn from them.",
+        "Keep what works. Drop what does not sell."
+      ],
+      "task": "Try a new pasta shape today.",
+      "challenge": "Ask three people what continental dish they would like to try.",
+      "quiz": [
+        {
+          "q": "Why try new pasta shapes?",
+          "options": [
+            "To show off",
+            "New shapes keep customers interested",
+            "It is required",
+            "To waste money"
+          ],
+          "answer": 1,
+          "explain": "New shapes and flavours give customers a reason to return."
+        },
+        {
+          "q": "Why ask customers what they want?",
+          "options": [
+            "To be polite",
+            "Customers buy what they asked for",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Asking customers tells you what will sell."
+        },
+        {
+          "q": "Why drop dishes that do not sell?",
+          "options": [
+            "To save money",
+            "So you do not waste food and time",
+            "It is a rule",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "A dish that does not sell wastes food and money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Continental Cook's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "vUGqBIM7Cz4",
+        "title": "How to Cook Roast Chicken and Vegetables",
+        "channel": "Safefood"
+      },
+      "steps": [
+        "Cook pasta from memory, without the recipe.",
+        "Make a tomato sauce from memory.",
+        "Roast chicken from memory.",
+        "Name the main continental ingredients.",
+        "List your three strongest dishes and one to improve."
+      ],
+      "task": "Cook a full continental meal from memory, no recipe.",
+      "challenge": "Teach one continental dish to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What does 'al dente' mean?",
+          "options": [
+            "Overcooked",
+            "Firm to the bite",
+            "Raw",
+            "Soft and mushy"
+          ],
+          "answer": 1,
+          "explain": "Al dente means firm to the bite."
+        },
+        {
+          "q": "Why cook from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Cooking without a recipe shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a dish to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves food"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Feast",
+      "goal": "Plan your capstone continental feast.",
+      "video": {
+        "youtube_id": "eJImdb1Dfh8",
+        "title": "Chicken Egg Fried Rice",
+        "channel": "Flavourfully Good"
+      },
+      "steps": [
+        "Choose your capstone menu: pasta, rice, chicken, salad, and dessert.",
+        "Write the full shopping list with costs.",
+        "Write the cooking order, starting with the slowest dish.",
+        "Check you have every tool and ingredient.",
+        "Do a trial run of the hardest dish if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone dish today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only pasta",
+            "Everything you learned: pasta, rice, chicken, salad, and costing",
+            "Only chicken",
+            "Only rice"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why start with the slowest dish?",
+          "options": [
+            "It is harder",
+            "So everything finishes at the same time",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Slow food starts first so all food is ready together."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste food",
+            "To find problems before the real feast",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Continental Feast: Pasta, Rice, Chicken and More",
+    "brief": "Cook a full continental feast for your household or customers: a pasta dish, a rice dish, roast chicken, a fresh salad, and a simple dessert. Cost the whole feast, serve everything hot at the same time, and collect feedback.",
+    "checks": [
+      "Menu planned with a shopping list and costs per person",
+      "Pasta cooked firm, not soft, with a tasty sauce",
+      "Rice fluffy and well seasoned",
+      "Chicken cooked through and juicy",
+      "Salad fresh and crisp with a good dressing",
+      "Dessert made and served",
+      "Feedback collected from at least one person who ate"
+    ],
+    "deliverables": [
+      "A photo of the finished feast on the table",
+      "Your written menu with the shopping list and costs",
+      "Your cooking order, starting with the slowest dish",
+      "Your signature continental dish recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

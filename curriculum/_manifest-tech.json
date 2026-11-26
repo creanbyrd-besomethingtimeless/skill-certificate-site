@@ -1,0 +1,124 @@
+{
+  "skills": [
+    {
+      "slug": "frontend-web-development",
+      "name": "Frontend Web Development",
+      "category": "Tech & Code",
+      "tagline": "Build fast, beautiful websites with HTML, CSS and JavaScript, and ship a portfolio that proves it.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 10
+    },
+    {
+      "slug": "backend-development-nodejs",
+      "name": "Backend Development with Node.js",
+      "category": "Tech & Code",
+      "tagline": "Build APIs, databases and login systems with Node.js and Express, and deploy a working backend.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 13
+    },
+    {
+      "slug": "python-programming",
+      "name": "Python Programming",
+      "category": "Tech & Code",
+      "tagline": "Learn Python from zero and write real programs that automate work, handle data and solve problems.",
+      "level": "Beginner",
+      "videos_verified": 16
+    },
+    {
+      "slug": "javascript-programming",
+      "name": "JavaScript Programming",
+      "category": "Tech & Code",
+      "tagline": "Master JavaScript from the basics to real projects: apps, games and interactive pages.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 10
+    },
+    {
+      "slug": "react-development",
+      "name": "React Development",
+      "category": "Tech & Code",
+      "tagline": "Build modern web apps with React, components, state and real data from an API.",
+      "level": "Intermediate",
+      "videos_verified": 12
+    },
+    {
+      "slug": "flutter-app-development",
+      "name": "Mobile App Development with Flutter",
+      "category": "Tech & Code",
+      "tagline": "Build a real Android and iPhone app with Flutter and Dart, and run it on your own phone.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 10
+    },
+    {
+      "slug": "data-analysis-python",
+      "name": "Data Analysis with Python",
+      "category": "Tech & Code",
+      "tagline": "Turn raw data into charts, reports and answers with Python, pandas and real datasets.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 24
+    },
+    {
+      "slug": "sql-and-databases",
+      "name": "SQL and Databases",
+      "category": "Tech & Code",
+      "tagline": "Query, design and manage databases with SQL, from your first SELECT to real reports.",
+      "level": "Beginner",
+      "videos_verified": 10
+    },
+    {
+      "slug": "ui-ux-design",
+      "name": "UI and UX Design",
+      "category": "Tech & Code",
+      "tagline": "Design apps and websites people enjoy using, from research and wireframes to polished Figma screens.",
+      "level": "Beginner",
+      "videos_verified": 12
+    },
+    {
+      "slug": "cybersecurity-basics",
+      "name": "Cybersecurity Basics",
+      "category": "Tech & Code",
+      "tagline": "Learn how attacks work and how to protect accounts, websites and small businesses.",
+      "level": "Beginner",
+      "videos_verified": 13
+    },
+    {
+      "slug": "cloud-computing-aws",
+      "name": "Cloud Computing with AWS",
+      "category": "Tech & Code",
+      "tagline": "Launch servers, store files and deploy apps on Amazon Web Services, step by step.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 10
+    },
+    {
+      "slug": "devops-basics",
+      "name": "DevOps Basics",
+      "category": "Tech & Code",
+      "tagline": "Ship software with confidence: Git, CI, Docker and cloud deploys in one practical month.",
+      "level": "Intermediate",
+      "videos_verified": 11
+    },
+    {
+      "slug": "wordpress-website-building",
+      "name": "WordPress Website Building",
+      "category": "Tech & Code",
+      "tagline": "Build professional websites with WordPress, no code needed, and launch one for a real client.",
+      "level": "Beginner",
+      "videos_verified": 10
+    },
+    {
+      "slug": "game-development-unity",
+      "name": "Game Development with Unity",
+      "category": "Tech & Code",
+      "tagline": "Build and publish your first 2D game with Unity and C#, from idea to playable build.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 10
+    },
+    {
+      "slug": "ai-tools-for-work",
+      "name": "AI Tools for Work",
+      "category": "Tech & Code",
+      "tagline": "Use ChatGPT and other AI tools to write, plan, design and work faster every day.",
+      "level": "Beginner",
+      "videos_verified": 10
+    }
+  ]
+}

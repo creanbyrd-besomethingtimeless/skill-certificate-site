@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "bread-and-pastry-baking",
+    "title": "Bread and Pastry Baking",
+    "level": "Beginner",
+    "tagline": "Bake soft bread, meat pies and pastries from scratch, ready to sell.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Baking Basics: What You Need",
+      "goal": "Know your tools, your ingredients, and how an oven works.",
+      "video": {
+        "youtube_id": "uJOAwcib2C0",
+        "title": "HOW This 1-Minute Dough Makes Better Bread Than Your Bakery",
+        "channel": "The Apron"
+      },
+      "steps": [
+        "Find your tools: a big bowl, a baking tray, a rolling pin, and a clean cloth.",
+        "Learn the main ingredients: flour, yeast, sugar, salt, butter, and eggs.",
+        "Yeast is a tiny living thing that makes dough rise. Keep it dry and cool.",
+        "Learn your oven: preheat means turn it on early so it is hot before the food goes in.",
+        "Weigh or measure your ingredients. Baking needs exact amounts."
+      ],
+      "task": "List your baking tools and ingredients, and test your oven temperature.",
+      "challenge": "Bake nothing today. Just set up your space so it is clean and ready.",
+      "quiz": [
+        {
+          "q": "What does 'preheat' mean?",
+          "options": [
+            "Turn the oven off",
+            "Turn the oven on early so it is hot before baking",
+            "Open the oven door",
+            "Put food in a cold oven"
+          ],
+          "answer": 1,
+          "explain": "Preheating means the oven is at the right heat before the food goes in."
+        },
+        {
+          "q": "What does yeast do in dough?",
+          "options": [
+            "Makes it sweet",
+            "Makes it rise",
+            "Makes it salty",
+            "Makes it hard"
+          ],
+          "answer": 1,
+          "explain": "Yeast makes gas in the dough, and the gas makes the dough rise."
+        },
+        {
+          "q": "Why must baking amounts be exact?",
+          "options": [
+            "It looks nice",
+            "Too much or too little of one thing can spoil the bake",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Baking is like a recipe for a cake: wrong amounts give a wrong result."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your First White Bread",
+      "goal": "Bake a simple white loaf from scratch.",
+      "video": {
+        "youtube_id": "h4q_T5M3_FU",
+        "title": "The Easiest Sourdough Bread for Beginners! No Kneading, Just 4 Ingredients",
+        "channel": "Fast Easy Delicious"
+      },
+      "steps": [
+        "Mix flour, yeast, salt, and warm water in a big bowl.",
+        "Stir until it forms a soft dough. It will feel sticky at first.",
+        "Knead means push and fold the dough for 10 minutes until it feels smooth.",
+        "Cover the bowl with a cloth. Leave it for 1 hour until it doubles in size.",
+        "Shape it into a loaf. Bake at 200°C for 25 to 30 minutes."
+      ],
+      "task": "Bake one white loaf.",
+      "challenge": "Tap the bottom of the loaf. If it sounds hollow, it is done.",
+      "quiz": [
+        {
+          "q": "What is kneading?",
+          "options": [
+            "Mixing with a spoon",
+            "Pushing and folding dough until it is smooth",
+            "Cutting the dough",
+            "Rolling it flat"
+          ],
+          "answer": 1,
+          "explain": "Kneading pushes and folds the dough so it becomes smooth and stretchy."
+        },
+        {
+          "q": "How do you know dough has risen enough?",
+          "options": [
+            "It smells sweet",
+            "It has doubled in size",
+            "It turns brown",
+            "It feels cold"
+          ],
+          "answer": 1,
+          "explain": "Risen dough is about twice as big as when you started."
+        },
+        {
+          "q": "Why tap the bottom of a loaf?",
+          "options": [
+            "To cool it",
+            "A hollow sound means it is baked through",
+            "To make it soft",
+            "To check the colour"
+          ],
+          "answer": 1,
+          "explain": "A hollow tap means the inside is cooked, not doughy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "No-Knead Bread: The Easy Way",
+      "goal": "Bake bread without kneading, using time instead of effort.",
+      "video": {
+        "youtube_id": "LnlLH1GeDJU",
+        "title": "The Easiest Butter Bread: No Kneading! Tastier than store-bought",
+        "channel": "Fast Easy Delicious"
+      },
+      "steps": [
+        "Mix flour, a little yeast, salt, and water. Stir only until mixed.",
+        "Cover the bowl. Leave it on the counter for 12 to 18 hours.",
+        "The dough will bubble and rise slowly on its own.",
+        "Shape it gently. Do not punch all the air out.",
+        "Bake in a hot oven until the crust is golden and crisp."
+      ],
+      "task": "Mix a no-knead dough tonight and bake it tomorrow.",
+      "challenge": "Compare the no-knead loaf with yesterday's loaf. Which crust do you like more?",
+      "quiz": [
+        {
+          "q": "What does no-knead bread use instead of kneading?",
+          "options": [
+            "More yeast",
+            "Time: a long slow rise",
+            "More water",
+            "A machine"
+          ],
+          "answer": 1,
+          "explain": "A long slow rise does the work that kneading does."
+        },
+        {
+          "q": "Why not punch all the air out when shaping?",
+          "options": [
+            "It is messy",
+            "The air bubbles make the bread light",
+            "It wastes time",
+            "It makes it salty"
+          ],
+          "answer": 1,
+          "explain": "Air bubbles in the dough make the bread light and full of holes."
+        },
+        {
+          "q": "How long does no-knead dough rest?",
+          "options": [
+            "1 hour",
+            "12 to 18 hours",
+            "10 minutes",
+            "1 week"
+          ],
+          "answer": 1,
+          "explain": "No-knead dough rests overnight, 12 to 18 hours."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Butter Bread: Soft and Rich",
+      "goal": "Bake a soft butter bread that stays fresh for days.",
+      "video": {
+        "youtube_id": "f-3hL12hE_E",
+        "title": "Puff Pastry and Minced Meat Appetizer with a Trick That Few People Know!",
+        "channel": "Puff Pastry Kitchen"
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, salt, milk, and soft butter.",
+        "Knead for 10 minutes until the dough is smooth and a little shiny.",
+        "Let it rise for 1 hour until doubled.",
+        "Shape into a loaf or rolls. Brush the top with milk.",
+        "Bake at 180°C until golden. Brush with butter while still warm."
+      ],
+      "task": "Bake a butter bread loaf.",
+      "challenge": "Make the same dough into 8 small rolls instead of one loaf.",
+      "quiz": [
+        {
+          "q": "What makes butter bread soft?",
+          "options": [
+            "More water",
+            "Butter and milk in the dough",
+            "Less yeast",
+            "A cold oven"
+          ],
+          "answer": 1,
+          "explain": "Butter and milk make the crumb soft and rich."
+        },
+        {
+          "q": "Why brush the top with milk before baking?",
+          "options": [
+            "To make it sweet",
+            "It helps the top turn golden",
+            "To keep it cool",
+            "To add salt"
+          ],
+          "answer": 1,
+          "explain": "Milk on top helps the crust brown nicely."
+        },
+        {
+          "q": "Why brush butter on warm bread?",
+          "options": [
+            "To cool it",
+            "It adds shine and flavour",
+            "To make it last longer only",
+            "To stop it rising"
+          ],
+          "answer": 1,
+          "explain": "Butter brushed on warm bread melts in and adds flavour and shine."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Sourdough for Beginners",
+      "goal": "Start a simple sourdough loaf with just four things.",
+      "video": {
+        "youtube_id": "_b1xqfnpCgc",
+        "title": "Minced Meat Puff Pastry So Tasty That Everyone Will Ask for the Recipe!",
+        "channel": "Puff Pastry Kitchen"
+      },
+      "steps": [
+        "Sourdough uses a starter: a mix of flour and water that has sat for days.",
+        "If you have no starter, use a little yeast and a long rest instead.",
+        "Mix flour, water, salt, and your starter or yeast.",
+        "Let it rise slowly for several hours. Fold it a few times.",
+        "Bake in a very hot oven for a crisp crust."
+      ],
+      "task": "Bake a simple sourdough-style loaf.",
+      "challenge": "Start your own starter: mix flour and water in a jar and feed it daily.",
+      "quiz": [
+        {
+          "q": "What is a sourdough starter?",
+          "options": [
+            "A type of oven",
+            "Flour and water left to ferment, full of good yeast",
+            "A baking tray",
+            "A kind of flour"
+          ],
+          "answer": 1,
+          "explain": "A starter is flour and water that has fermented and is full of wild yeast."
+        },
+        {
+          "q": "Why fold the dough instead of kneading it?",
+          "options": [
+            "It is faster",
+            "Folding is gentle and keeps the air in",
+            "It is easier",
+            "It saves flour"
+          ],
+          "answer": 1,
+          "explain": "Gentle folding builds strength without pushing the air out."
+        },
+        {
+          "q": "Why bake sourdough in a very hot oven?",
+          "options": [
+            "To save time",
+            "High heat gives a crisp crust",
+            "To cook it faster only",
+            "To make it dark"
+          ],
+          "answer": 1,
+          "explain": "A very hot oven makes the crust crisp and the loaf rise fast."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Measuring and Mixing Like a Baker",
+      "goal": "Measure well and mix dough the right way.",
+      "video": {
+        "youtube_id": "Q-64YOS3rss",
+        "title": "10 Minutes Snack! Easy Flaky Meat Pie with Puff Pastry",
+        "channel": "Snack Recipes"
+      },
+      "steps": [
+        "Use a scale if you have one. It is more exact than cups.",
+        "Spoon flour into a cup and level it off. Do not pack it down.",
+        "Add water a little at a time. You can always add more.",
+        "Mix until there is no dry flour left, then stop.",
+        "Write down what you used so you can repeat a good bake."
+      ],
+      "task": "Bake a loaf using a scale, and write down every amount.",
+      "challenge": "Bake the same loaf using cups and see if the result is different.",
+      "quiz": [
+        {
+          "q": "Why is a scale better than cups for baking?",
+          "options": [
+            "It is faster",
+            "It is more exact",
+            "It is cheaper",
+            "It is easier to wash"
+          ],
+          "answer": 1,
+          "explain": "A scale measures the true weight, so every bake is the same."
+        },
+        {
+          "q": "Why add water a little at a time?",
+          "options": [
+            "To save water",
+            "You can add more but you cannot take it out",
+            "It is faster",
+            "It makes the dough white"
+          ],
+          "answer": 1,
+          "explain": "Too much water makes sticky dough that is hard to fix."
+        },
+        {
+          "q": "Why write down your amounts?",
+          "options": [
+            "To show friends",
+            "So you can repeat a good bake",
+            "It is required",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Notes let you repeat what worked and fix what did not."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: Bake Three Breads",
+      "goal": "Bake three different breads and compare them.",
+      "video": {
+        "youtube_id": "FlK7DITflzg",
+        "title": "I Stopped Rolling Dough — Now I Bake Dinner Pies This Way",
+        "channel": "Baking Tutorials"
+      },
+      "steps": [
+        "Pick three breads from this week: white, no-knead, and butter bread.",
+        "Make a shopping list and buy everything in one trip.",
+        "Start the no-knead dough the night before.",
+        "Bake one loaf at a time so the oven is free.",
+        "Taste all three with your household and pick a favourite."
+      ],
+      "task": "Bake three different breads in one day.",
+      "challenge": "Give one loaf to a neighbour and ask what they think.",
+      "quiz": [
+        {
+          "q": "Why start the no-knead dough the night before?",
+          "options": [
+            "It is easier",
+            "It needs 12 to 18 hours to rise",
+            "It tastes better cold",
+            "It saves flour"
+          ],
+          "answer": 1,
+          "explain": "No-knead dough rises slowly overnight."
+        },
+        {
+          "q": "Why bake one loaf at a time?",
+          "options": [
+            "To save gas",
+            "So each loaf gets full oven heat",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "One loaf at a time gets even heat and a better rise."
+        },
+        {
+          "q": "What should you compare between breads?",
+          "options": [
+            "Only the colour",
+            "Crust, softness, taste, and how long they stay fresh",
+            "Only the size",
+            "Only the smell"
+          ],
+          "answer": 1,
+          "explain": "Crust, softness, taste, and freshness tell you which bread is best."
+        }
+      ],
+      "project": {
+        "title": "Bake Three Different Breads",
+        "brief": "Bake a white loaf, a no-knead loaf, and a butter bread in one day.",
+        "checks": [
+          "Three different breads baked",
+          "No-knead dough started the night before",
+          "Each loaf risen well and baked through",
+          "Crusts golden, insides soft and not doughy",
+          "All three tasted and compared",
+          "Favourite picked and noted down"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Puff Puff: The Nigerian Favourite",
+      "goal": "Make puff puff, the sweet fried dough balls.",
+      "video": {
+        "youtube_id": "nJvnGLWqqgQ",
+        "title": "Spanish Puff Pastry Meat Pie (Murcia-Style)",
+        "channel": "GOYA Foods"
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, salt, and warm water into a thick batter.",
+        "Cover and leave for 1 hour until it rises and bubbles.",
+        "Heat oil in a deep pot. Test with a drop of batter: it should rise at once.",
+        "Drop spoonfuls of batter into the oil. Turn them until golden all over.",
+        "Drain on paper and serve warm."
+      ],
+      "task": "Make a batch of puff puff.",
+      "challenge": "Try a second batch with a little nutmeg or vanilla and compare.",
+      "quiz": [
+        {
+          "q": "How thick should puff puff batter be?",
+          "options": [
+            "Like water",
+            "Thick, so it holds its shape on a spoon",
+            "Like bread dough",
+            "Very runny"
+          ],
+          "answer": 1,
+          "explain": "Thick batter holds its shape and fries into round balls."
+        },
+        {
+          "q": "How do you know the oil is hot enough?",
+          "options": [
+            "It smokes",
+            "A drop of batter rises at once",
+            "It is quiet",
+            "It turns dark"
+          ],
+          "answer": 1,
+          "explain": "Batter that rises at once means the oil is ready."
+        },
+        {
+          "q": "Why turn puff puff while frying?",
+          "options": [
+            "To make it round",
+            "So it browns evenly all over",
+            "To cool it",
+            "To add flavour"
+          ],
+          "answer": 1,
+          "explain": "Turning gives an even golden colour on all sides."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Meat Pie: The Classic Snack",
+      "goal": "Make Nigerian meat pie with a flaky crust.",
+      "video": {
+        "youtube_id": "k6uHJ4kCjOw",
+        "title": "Nigerian Puff Puff Recipe: How to Make Puff Puff",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Make the filling: fry minced meat with onion, carrot, and potato.",
+        "Season well and let the filling cool. Hot filling melts the pastry.",
+        "Make the pastry: rub butter into flour until it looks like crumbs.",
+        "Add cold water a little at a time until it forms a dough.",
+        "Roll out, cut circles, fill, fold, seal, and bake until golden."
+      ],
+      "task": "Bake a batch of meat pies.",
+      "challenge": "Make a second batch with chicken filling instead of beef.",
+      "quiz": [
+        {
+          "q": "Why must meat pie filling be cool before filling?",
+          "options": [
+            "It tastes better",
+            "Hot filling melts the pastry",
+            "It is faster",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Hot filling melts the butter in the pastry and makes it soggy."
+        },
+        {
+          "q": "What does rubbing butter into flour do?",
+          "options": [
+            "Makes it sweet",
+            "It makes the pastry flaky",
+            "Makes it rise",
+            "Makes it brown"
+          ],
+          "answer": 1,
+          "explain": "Butter mixed into flour in crumbs makes a flaky crust."
+        },
+        {
+          "q": "Why use cold water for pastry?",
+          "options": [
+            "It is cleaner",
+            "Cold water keeps the butter solid so the pastry stays flaky",
+            "It is faster",
+            "It tastes better"
+          ],
+          "answer": 1,
+          "explain": "Warm water melts the butter and ruins the flaky layers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Puff Pastry: Layers of Butter",
+      "goal": "Use puff pastry to make quick, flaky snacks.",
+      "video": {
+        "youtube_id": "Ag6Wc5M7yh4",
+        "title": "You'll Never Need Another Puff Puff Recipe Again | Street Snacks Ep. 17",
+        "channel": "Blessings Cooking TV"
+      },
+      "steps": [
+        "Buy ready-made puff pastry or make a simple version at home.",
+        "Keep it cold. Warm pastry sticks and will not puff.",
+        "Cut into squares. Add a spoon of minced meat or cheese.",
+        "Fold and press the edges with a fork to seal.",
+        "Bake at 200°C until puffed up and golden."
+      ],
+      "task": "Make puff pastry meat snacks.",
+      "challenge": "Make a sweet version with jam or sugar and compare.",
+      "quiz": [
+        {
+          "q": "Why must puff pastry stay cold?",
+          "options": [
+            "It tastes better",
+            "Warm pastry sticks and will not puff up",
+            "It is easier to cut",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Cold butter in the pastry turns to steam in the oven and lifts the layers."
+        },
+        {
+          "q": "What makes puff pastry rise?",
+          "options": [
+            "Yeast",
+            "Steam from the butter layers",
+            "Sugar",
+            "Eggs"
+          ],
+          "answer": 1,
+          "explain": "Butter between the layers turns to steam and pushes the layers apart."
+        },
+        {
+          "q": "Why seal the edges with a fork?",
+          "options": [
+            "It looks nice",
+            "So the filling does not leak out",
+            "To make it flat",
+            "To cook it faster"
+          ],
+          "answer": 1,
+          "explain": "Sealed edges keep the filling inside while it bakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Dinner Pies Without Rolling",
+      "goal": "Make a dinner pie the easy way, with no rolling pin.",
+      "video": {
+        "youtube_id": "eMftXrp7ZS4",
+        "title": "Puff Puff (West African Doughnuts)",
+        "channel": "Lets Eat The World"
+      },
+      "steps": [
+        "Grease a baking dish and line it with pastry or bread dough.",
+        "Add your filling: meat, vegetables, and sauce.",
+        "Cover the top with more pastry or a lid of dough.",
+        "Cut a small hole in the top so steam can escape.",
+        "Bake until golden and bubbling. Rest 10 minutes before cutting."
+      ],
+      "task": "Bake a dinner pie.",
+      "challenge": "Make a second pie with a different filling and note which one your household likes best.",
+      "quiz": [
+        {
+          "q": "Why cut a hole in the top of a pie?",
+          "options": [
+            "It looks nice",
+            "So steam escapes and the pastry stays crisp",
+            "To check if it is done",
+            "To add flavour"
+          ],
+          "answer": 1,
+          "explain": "Steam trapped inside makes the pastry soggy."
+        },
+        {
+          "q": "Why rest a pie before cutting?",
+          "options": [
+            "It cools down",
+            "The filling sets so slices hold together",
+            "It tastes better",
+            "It is easier to hold"
+          ],
+          "answer": 1,
+          "explain": "Resting lets the hot filling firm up so slices do not fall apart."
+        },
+        {
+          "q": "What can you use instead of a rolling pin?",
+          "options": [
+            "Your hands and a bottle",
+            "A knife",
+            "A spoon",
+            "A plate"
+          ],
+          "answer": 0,
+          "explain": "You can press dough into a dish with your hands or roll it with a clean bottle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Scones and Small Bakes",
+      "goal": "Bake scones and other small, quick bakes.",
+      "video": {
+        "youtube_id": "Kd6CnzV6RJ8",
+        "title": "Quarantine Cooking: African Doughnuts",
+        "channel": "The Daily Evergreen"
+      },
+      "steps": [
+        "Mix flour, sugar, baking powder, and cold butter.",
+        "Rub the butter in until it looks like crumbs.",
+        "Add milk and mix just until it comes together. Do not over-mix.",
+        "Cut into rounds and bake at 200°C for 12 to 15 minutes.",
+        "Serve warm with butter and jam."
+      ],
+      "task": "Bake a batch of scones.",
+      "challenge": "Add raisins or cheese to half the batch and compare.",
+      "quiz": [
+        {
+          "q": "What makes scones rise?",
+          "options": [
+            "Yeast",
+            "Baking powder",
+            "Eggs",
+            "Sugar"
+          ],
+          "answer": 1,
+          "explain": "Baking powder makes gas when heated, so scones rise fast."
+        },
+        {
+          "q": "Why not over-mix scone dough?",
+          "options": [
+            "It wastes time",
+            "Over-mixing makes scones hard",
+            "It makes them sweet",
+            "It makes them flat"
+          ],
+          "answer": 1,
+          "explain": "Too much mixing makes tough, hard scones."
+        },
+        {
+          "q": "How long do scones bake?",
+          "options": [
+            "1 hour",
+            "12 to 15 minutes",
+            "30 minutes",
+            "5 minutes"
+          ],
+          "answer": 1,
+          "explain": "Scones are small, so they bake in 12 to 15 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Baking for Selling: Cost Your Bakes",
+      "goal": "Work out what your bakes cost and what to charge.",
+      "video": {
+        "youtube_id": "1i0JjmYi0OY",
+        "title": "EXTRA CRISPY Bread in 5 Minutes! No Kneading, Just Mix and Bake",
+        "channel": "Bread Baking"
+      },
+      "steps": [
+        "List every ingredient with its price.",
+        "Add gas and packaging costs.",
+        "Divide the total by the number of pieces you made.",
+        "Charge 2 to 3 times the cost per piece for a profit.",
+        "Compare with bakery prices near you."
+      ],
+      "task": "Cost a batch of puff puff and set a selling price per piece.",
+      "challenge": "Cost a batch of meat pies the same way.",
+      "quiz": [
+        {
+          "q": "What is the cost per piece?",
+          "options": [
+            "The selling price",
+            "Total cost divided by the number of pieces",
+            "The gas cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Cost per piece is the total cost shared across all the pieces you made."
+        },
+        {
+          "q": "Why charge 2 to 3 times the cost?",
+          "options": [
+            "To be expensive",
+            "To cover gas, packaging, and your time, and still make a profit",
+            "It is a law",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "The extra covers all the costs beyond ingredients and leaves profit."
+        },
+        {
+          "q": "What else must you add to the cost?",
+          "options": [
+            "Nothing",
+            "Gas and packaging",
+            "Only your time",
+            "Only transport"
+          ],
+          "answer": 1,
+          "explain": "Gas and packaging are real costs of every bake."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A Snack Box",
+      "goal": "Bake a snack box with puff puff, meat pie, and scones.",
+      "video": {
+        "youtube_id": "IUb_vjpKqcs",
+        "title": "Easiest Homemade White Bread Recipe: No Fancy Tools Needed",
+        "channel": "Bread Baking"
+      },
+      "steps": [
+        "Plan the box: puff puff, meat pie, and scones.",
+        "Write a shopping list with costs.",
+        "Make the meat pie filling first and let it cool.",
+        "Bake the meat pies, then the scones, then fry the puff puff.",
+        "Pack the box neatly and share it with friends or family."
+      ],
+      "task": "Bake a snack box with three items.",
+      "challenge": "Price the whole box as if you were selling it.",
+      "quiz": [
+        {
+          "q": "Why make the filling first?",
+          "options": [
+            "It is harder",
+            "It needs time to cool before it goes into pastry",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Filling must be cool, or it melts the pastry."
+        },
+        {
+          "q": "What order should you bake in?",
+          "options": [
+            "Any order",
+            "Longest first, so all finish together",
+            "Shortest first",
+            "Sweetest first"
+          ],
+          "answer": 1,
+          "explain": "Start with what takes longest so everything is ready together."
+        },
+        {
+          "q": "Why price the box as if selling it?",
+          "options": [
+            "To show off",
+            "It teaches you the real cost of your work",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Pricing practice turns baking into a business skill."
+        }
+      ],
+      "project": {
+        "title": "Bake a Three-Item Snack Box",
+        "brief": "Bake puff puff, meat pie, and scones, and pack them as one snack box.",
+        "checks": [
+          "Three different snacks baked or fried",
+          "Meat pie filling made and cooled first",
+          "Pastry golden and flaky, not soggy",
+          "Puff puff golden all over",
+          "Scones risen and soft inside",
+          "Box packed neatly and priced"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Buns and Rolls: Soft and Sweet",
+      "goal": "Bake soft buns and rolls for breakfast and snacks.",
+      "video": {
+        "youtube_id": "uJOAwcib2C0",
+        "title": "HOW This 1-Minute Dough Makes Better Bread Than Your Bakery",
+        "channel": "The Apron"
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, milk, and butter into a soft dough.",
+        "Knead for 10 minutes until smooth.",
+        "Let it rise for 1 hour until doubled.",
+        "Shape into small balls. Place them close together in a tray.",
+        "Bake at 180°C until golden. Brush with butter."
+      ],
+      "task": "Bake a tray of soft buns.",
+      "challenge": "Fill half the buns with jam or chocolate before baking.",
+      "quiz": [
+        {
+          "q": "Why place buns close together?",
+          "options": [
+            "To save space",
+            "They rise into each other and stay soft",
+            "It is faster",
+            "It looks nice"
+          ],
+          "answer": 1,
+          "explain": "Buns baked close together stay soft on the sides."
+        },
+        {
+          "q": "What makes buns sweet?",
+          "options": [
+            "More yeast",
+            "Sugar in the dough",
+            "More butter",
+            "A hot oven"
+          ],
+          "answer": 1,
+          "explain": "Sugar in the dough makes the buns sweet."
+        },
+        {
+          "q": "Why brush buns with butter after baking?",
+          "options": [
+            "To cool them",
+            "It adds shine and flavour",
+            "To make them last longer only",
+            "To stop them rising"
+          ],
+          "answer": 1,
+          "explain": "Butter on warm buns adds shine and a rich taste."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Flatbread and Chapati",
+      "goal": "Make flatbread on the stove, no oven needed.",
+      "video": {
+        "youtube_id": "h4q_T5M3_FU",
+        "title": "The Easiest Sourdough Bread for Beginners! No Kneading, Just 4 Ingredients",
+        "channel": "Fast Easy Delicious"
+      },
+      "steps": [
+        "Mix flour, salt, and warm water into a soft dough.",
+        "Knead for 5 minutes. Rest for 30 minutes.",
+        "Roll each piece into a thin circle.",
+        "Cook in a hot dry pan for 1 minute each side until puffed and spotted.",
+        "Brush with butter and keep warm under a cloth."
+      ],
+      "task": "Make flatbreads on the stove.",
+      "challenge": "Make a second batch with a little garlic butter and compare.",
+      "quiz": [
+        {
+          "q": "Why rest flatbread dough?",
+          "options": [
+            "To cool it",
+            "Resting makes it soft and easy to roll",
+            "To make it rise",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Resting relaxes the dough so it rolls out thin without springing back."
+        },
+        {
+          "q": "How do you know flatbread is done?",
+          "options": [
+            "It turns black",
+            "It puffs up and gets brown spots",
+            "It smells sweet",
+            "It goes hard"
+          ],
+          "answer": 1,
+          "explain": "Puffing and brown spots mean it is cooked through."
+        },
+        {
+          "q": "Why keep flatbread under a cloth?",
+          "options": [
+            "To hide it",
+            "To keep it warm and soft",
+            "To cool it",
+            "To make it crisp"
+          ],
+          "answer": 1,
+          "explain": "A cloth traps steam and keeps the bread soft."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Doughnuts: Fried and Glazed",
+      "goal": "Make doughnuts at home and glaze them simply.",
+      "video": {
+        "youtube_id": "LnlLH1GeDJU",
+        "title": "The Easiest Butter Bread: No Kneading! Tastier than store-bought",
+        "channel": "Fast Easy Delicious"
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, milk, butter, and egg into a soft dough.",
+        "Let it rise for 1 hour. Roll out and cut rings.",
+        "Let the rings rise again for 30 minutes.",
+        "Fry in hot oil for 1 minute each side until golden.",
+        "Dip in a simple glaze of icing sugar and milk."
+      ],
+      "task": "Make a batch of doughnuts.",
+      "challenge": "Try a second batch with a chocolate glaze.",
+      "quiz": [
+        {
+          "q": "Why let doughnut rings rise a second time?",
+          "options": [
+            "To make them bigger",
+            "A second rise makes them light and fluffy",
+            "To cool them",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "The second rise fills the rings with air so they fry up light."
+        },
+        {
+          "q": "How long do doughnuts fry?",
+          "options": [
+            "10 minutes",
+            "About 1 minute each side",
+            "5 minutes",
+            "30 seconds only"
+          ],
+          "answer": 1,
+          "explain": "Doughnuts are small and fry fast, about 1 minute per side."
+        },
+        {
+          "q": "What is a simple glaze?",
+          "options": [
+            "Icing sugar mixed with a little milk",
+            "Melted butter",
+            "Honey only",
+            "Jam"
+          ],
+          "answer": 0,
+          "explain": "Icing sugar and a little milk make a simple sweet glaze."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Banana Bread: Use Up Ripe Bananas",
+      "goal": "Bake banana bread with bananas that are too ripe to eat.",
+      "video": {
+        "youtube_id": "f-3hL12hE_E",
+        "title": "Puff Pastry and Minced Meat Appetizer with a Trick That Few People Know!",
+        "channel": "Puff Pastry Kitchen"
+      },
+      "steps": [
+        "Mash 3 very ripe bananas in a bowl.",
+        "Add sugar, melted butter, eggs, and a little vanilla.",
+        "Stir in flour and baking soda. Do not over-mix.",
+        "Pour into a lined loaf tin.",
+        "Bake at 180°C for 50 to 60 minutes. Test with a toothpick."
+      ],
+      "task": "Bake a banana bread loaf.",
+      "challenge": "Add nuts or chocolate chips to the next loaf.",
+      "quiz": [
+        {
+          "q": "Why use very ripe bananas?",
+          "options": [
+            "They are cheaper",
+            "Ripe bananas are sweeter and softer",
+            "They are easier to peel",
+            "They last longer"
+          ],
+          "answer": 1,
+          "explain": "Very ripe bananas are sweet and mash easily."
+        },
+        {
+          "q": "How do you test if banana bread is done?",
+          "options": [
+            "Smell it",
+            "A toothpick comes out clean",
+            "It turns dark",
+            "It feels heavy"
+          ],
+          "answer": 1,
+          "explain": "A clean toothpick means the middle is cooked."
+        },
+        {
+          "q": "Why not over-mix banana bread?",
+          "options": [
+            "It wastes time",
+            "Over-mixing makes it tough",
+            "It makes it sweet",
+            "It makes it flat"
+          ],
+          "answer": 1,
+          "explain": "Too much mixing makes the bread tough instead of soft."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Pastry for Beginners: Shortcrust",
+      "goal": "Make shortcrust pastry for tarts and pies.",
+      "video": {
+        "youtube_id": "_b1xqfnpCgc",
+        "title": "Minced Meat Puff Pastry So Tasty That Everyone Will Ask for the Recipe!",
+        "channel": "Puff Pastry Kitchen"
+      },
+      "steps": [
+        "Rub cold butter into flour until it looks like fine crumbs.",
+        "Add a pinch of salt and a little cold water.",
+        "Bring it together into a dough. Do not knead it.",
+        "Wrap and chill in the fridge for 30 minutes.",
+        "Roll out and line a tin. Fill and bake."
+      ],
+      "task": "Make a shortcrust tart with a jam or fruit filling.",
+      "challenge": "Make a savoury tart with egg and cheese filling.",
+      "quiz": [
+        {
+          "q": "Why chill shortcrust pastry?",
+          "options": [
+            "To make it sweet",
+            "Chilling keeps the butter cold so the pastry is crisp",
+            "To save time",
+            "To make it rise"
+          ],
+          "answer": 1,
+          "explain": "Cold butter in the pastry gives a crisp, crumbly result."
+        },
+        {
+          "q": "Why not knead shortcrust?",
+          "options": [
+            "It is messy",
+            "Kneading makes it tough",
+            "It wastes flour",
+            "It makes it sweet"
+          ],
+          "answer": 1,
+          "explain": "Kneading builds stretch in the dough and makes pastry tough."
+        },
+        {
+          "q": "What is shortcrust used for?",
+          "options": [
+            "Bread",
+            "Tarts and pies",
+            "Cakes",
+            "Doughnuts"
+          ],
+          "answer": 1,
+          "explain": "Shortcrust is the crisp pastry used for tarts and pies."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Baking Problems and Fixes",
+      "goal": "Fix the commonest baking problems.",
+      "video": {
+        "youtube_id": "Q-64YOS3rss",
+        "title": "10 Minutes Snack! Easy Flaky Meat Pie with Puff Pastry",
+        "channel": "Snack Recipes"
+      },
+      "steps": [
+        "Bread did not rise? Your yeast may be old, or the water was too hot.",
+        "Cake sank in the middle? The oven door was opened too early.",
+        "Pastry is soggy? The filling was too wet or the oven was too cool.",
+        "Bread is hard? It was over-baked or had too little water.",
+        "Write down each problem and fix, so you learn from it."
+      ],
+      "task": "Pick one baking problem you have had and fix it today.",
+      "challenge": "Bake a loaf and write down everything that went right and wrong.",
+      "quiz": [
+        {
+          "q": "Why does hot water kill yeast?",
+          "options": [
+            "Yeast likes cold",
+            "Water over 50°C kills the yeast",
+            "It makes it sweet",
+            "It makes it rise too fast"
+          ],
+          "answer": 1,
+          "explain": "Yeast is alive. Very hot water kills it, so the dough will not rise."
+        },
+        {
+          "q": "Why did the cake sink?",
+          "options": [
+            "Too much sugar",
+            "The oven door was opened too early",
+            "Too little flour",
+            "It was too hot"
+          ],
+          "answer": 1,
+          "explain": "Opening the door early lets hot air out and the cake falls."
+        },
+        {
+          "q": "What makes pastry soggy?",
+          "options": [
+            "Too much butter",
+            "A wet filling or an oven that is too cool",
+            "Too much flour",
+            "Too little salt"
+          ],
+          "answer": 1,
+          "explain": "Wet filling and low heat stop the pastry from crisping."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Bakery Table",
+      "goal": "Bake a table of bread, buns, and a pie for your household.",
+      "video": {
+        "youtube_id": "FlK7DITflzg",
+        "title": "I Stopped Rolling Dough — Now I Bake Dinner Pies This Way",
+        "channel": "Baking Tutorials"
+      },
+      "steps": [
+        "Pick the menu: a loaf, buns, and a dinner pie.",
+        "Write a shopping list with costs.",
+        "Start the bread first since it needs rising time.",
+        "Bake the pie while the bread cools.",
+        "Serve everything together and get feedback."
+      ],
+      "task": "Bake a loaf, buns, and a pie in one session.",
+      "challenge": "Cost the whole table and work out the price per person.",
+      "quiz": [
+        {
+          "q": "Why start the bread first?",
+          "options": [
+            "It is harder",
+            "Bread needs time to rise",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Bread needs an hour or more to rise, so it starts first."
+        },
+        {
+          "q": "What makes a good bakery table?",
+          "options": [
+            "One item",
+            "A mix of bread, buns, and something savoury",
+            "Only sweet things",
+            "Only bread"
+          ],
+          "answer": 1,
+          "explain": "A mix gives everyone something to enjoy."
+        },
+        {
+          "q": "Why cost the table?",
+          "options": [
+            "To show off",
+            "So you know what to charge if you sell it",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing turns baking into a business."
+        }
+      ],
+      "project": {
+        "title": "Bake a Bakery Table",
+        "brief": "Bake a loaf, a tray of buns, and a dinner pie, served together.",
+        "checks": [
+          "Three different bakes made",
+          "Bread risen well and baked through",
+          "Buns soft and golden",
+          "Pie golden with a crisp base",
+          "Everything served together",
+          "Costs worked out and feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Packaging Baked Goods",
+      "goal": "Pack your bakes so they stay fresh and look good.",
+      "video": {
+        "youtube_id": "nJvnGLWqqgQ",
+        "title": "Spanish Puff Pastry Meat Pie (Murcia-Style)",
+        "channel": "GOYA Foods"
+      },
+      "steps": [
+        "Let bakes cool fully before packing. Warm bakes go soggy in a bag.",
+        "Use clean paper bags or food boxes.",
+        "Label with the name, the date, and the ingredients.",
+        "Keep bread in a cloth bag or paper bag, not plastic, so the crust stays crisp.",
+        "Store cakes in a sealed box to keep them moist."
+      ],
+      "task": "Pack a batch of bakes as if for a customer.",
+      "challenge": "Give a packed box to someone and ask for feedback on the look.",
+      "quiz": [
+        {
+          "q": "Why cool bakes before packing?",
+          "options": [
+            "It saves time",
+            "Warm bakes make steam and go soggy",
+            "They taste better cold",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Warm food in a closed bag makes steam, and steam makes crusts soft."
+        },
+        {
+          "q": "Why not store bread in plastic?",
+          "options": [
+            "It is expensive",
+            "Plastic traps moisture and softens the crust",
+            "It is bad for health",
+            "It is hard to open"
+          ],
+          "answer": 1,
+          "explain": "Plastic traps moisture, so a crisp crust goes soft."
+        },
+        {
+          "q": "What should a label say?",
+          "options": [
+            "Only your name",
+            "Name, date, and ingredients",
+            "Only the price",
+            "Only the date"
+          ],
+          "answer": 1,
+          "explain": "Labels tell the buyer what it is, when it was made, and what is in it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Baking on a Budget",
+      "goal": "Bake well without spending too much.",
+      "video": {
+        "youtube_id": "k6uHJ4kCjOw",
+        "title": "Nigerian Puff Puff Recipe: How to Make Puff Puff",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Buy flour, yeast, and sugar in bigger bags. They cost less per kilo.",
+        "Use what you have: bananas going soft become banana bread.",
+        "Bake in batches so the oven is never half empty.",
+        "Use cheaper fillings like vegetables and beans for pies.",
+        "Cost each bake and keep a simple record."
+      ],
+      "task": "Plan a week of bakes using what you already have plus one shop.",
+      "challenge": "Cost your week of bakes and cut it by 10 percent.",
+      "quiz": [
+        {
+          "q": "Why buy flour in bigger bags?",
+          "options": [
+            "It tastes better",
+            "It costs less per kilo",
+            "It lasts longer only",
+            "It is easier to carry"
+          ],
+          "answer": 1,
+          "explain": "Bigger bags cost less for each kilo."
+        },
+        {
+          "q": "Why bake in batches?",
+          "options": [
+            "It is faster",
+            "A full oven uses gas better than a half-empty one",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Baking more at once saves gas and time."
+        },
+        {
+          "q": "What is a good cheap pie filling?",
+          "options": [
+            "Only meat",
+            "Vegetables and beans",
+            "Only cheese",
+            "Only fish"
+          ],
+          "answer": 1,
+          "explain": "Vegetables and beans are cheap, filling, and tasty."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Gluten-Free and Healthier Bakes",
+      "goal": "Bake lighter options for people who need them.",
+      "video": {
+        "youtube_id": "Ag6Wc5M7yh4",
+        "title": "You'll Never Need Another Puff Puff Recipe Again | Street Snacks Ep. 17",
+        "channel": "Blessings Cooking TV"
+      },
+      "steps": [
+        "Try a flour mix made for gluten-free baking.",
+        "Use less sugar and add fruit for sweetness.",
+        "Use oil instead of butter for a lighter bake.",
+        "Add oats or seeds for extra fibre and crunch.",
+        "Label your bakes clearly so buyers know what is in them."
+      ],
+      "task": "Bake a gluten-free or lighter loaf.",
+      "challenge": "Bake a low-sugar banana bread and compare the taste.",
+      "quiz": [
+        {
+          "q": "What does gluten-free mean?",
+          "options": [
+            "No sugar",
+            "No gluten, the protein in wheat",
+            "No fat",
+            "No eggs"
+          ],
+          "answer": 1,
+          "explain": "Gluten is the protein in wheat. Gluten-free bakes use other flours."
+        },
+        {
+          "q": "What adds sweetness without much sugar?",
+          "options": [
+            "Salt",
+            "Ripe fruit",
+            "Water",
+            "Oil"
+          ],
+          "answer": 1,
+          "explain": "Ripe fruit like banana adds natural sweetness."
+        },
+        {
+          "q": "Why label your bakes?",
+          "options": [
+            "To show off",
+            "So people with allergies know what is safe",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Clear labels keep people with allergies safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Festive Bakes: Christmas and Parties",
+      "goal": "Plan and bake for a party or festival.",
+      "video": {
+        "youtube_id": "eMftXrp7ZS4",
+        "title": "Puff Puff (West African Doughnuts)",
+        "channel": "Lets Eat The World"
+      },
+      "steps": [
+        "Plan the menu a week ahead: bread, snacks, and a cake.",
+        "Bake breads and pies in advance and freeze them.",
+        "Fry puff puff and doughnuts on the day so they are fresh.",
+        "Make a big snack box for guests.",
+        "Serve with drinks and take photos."
+      ],
+      "task": "Plan a party baking menu and bake one item from it.",
+      "challenge": "Bake and freeze a loaf in advance, then thaw and check the taste.",
+      "quiz": [
+        {
+          "q": "What bakes freeze well?",
+          "options": [
+            "Puff puff",
+            "Bread and pies",
+            "Doughnuts",
+            "Scones"
+          ],
+          "answer": 1,
+          "explain": "Bread and pies freeze well. Fried snacks do not."
+        },
+        {
+          "q": "What should be made fresh on the day?",
+          "options": [
+            "Bread",
+            "Fried snacks like puff puff",
+            "Pies",
+            "Cakes"
+          ],
+          "answer": 1,
+          "explain": "Fried snacks go soft if made early, so fry them on the day."
+        },
+        {
+          "q": "Why plan a week ahead?",
+          "options": [
+            "To show off",
+            "So you have time to shop and bake without stress",
+            "It is required",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "Planning ahead stops last-minute stress."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Your Signature Bake",
+      "goal": "Choose and perfect one bake you can make brilliantly.",
+      "video": {
+        "youtube_id": "Kd6CnzV6RJ8",
+        "title": "Quarantine Cooking: African Doughnuts",
+        "channel": "The Daily Evergreen"
+      },
+      "steps": [
+        "Pick the bake your household loves most from this course.",
+        "Write the recipe in your own words with exact amounts.",
+        "Bake it again, timing every step and noting problems.",
+        "Fix the problems and bake it once more.",
+        "Get someone new to taste it and give honest feedback."
+      ],
+      "task": "Bake your signature bake and write the final recipe down.",
+      "challenge": "Bake it for someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature bake?",
+          "options": [
+            "An expensive bake",
+            "A bake you can make brilliantly every time",
+            "A bake with a fancy name",
+            "A bake only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature bake is one you have mastered."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you truly understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself proves you understand each step."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste food"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Selling Your Bakes: First Steps",
+      "goal": "Take your first steps toward selling your bakes.",
+      "video": {
+        "youtube_id": "1i0JjmYi0OY",
+        "title": "EXTRA CRISPY Bread in 5 Minutes! No Kneading, Just Mix and Bake",
+        "channel": "Bread Baking"
+      },
+      "steps": [
+        "Pick 2 or 3 bakes to sell. Do not sell everything at once.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your bakes in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you bake only what is sold."
+      ],
+      "task": "Take photos of your best bakes and show them to three people.",
+      "challenge": "Take one real order, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 2 or 3 bakes?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to make well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you bake only what is sold and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell bakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your baking business.",
+      "video": {
+        "youtube_id": "IUb_vjpKqcs",
+        "title": "Easiest Homemade White Bread Recipe: No Fancy Tools Needed",
+        "channel": "Bread Baking"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which bakes sell best and which do not.",
+        "Keep your money for baking separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one batch of bakes.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to bake",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for ingredients, gas, and packaging."
+        },
+        {
+          "q": "Why keep baking money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if baking is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your baking."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Baker's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "uJOAwcib2C0",
+        "title": "HOW This 1-Minute Dough Makes Better Bread Than Your Bakery",
+        "channel": "The Apron"
+      },
+      "steps": [
+        "Bake a white loaf from memory, without the recipe.",
+        "Make a pastry by rubbing butter into flour.",
+        "Name three things yeast needs to work.",
+        "Check your costing: cost one bake from memory.",
+        "List your three strongest bakes and one to improve."
+      ],
+      "task": "Bake a full set from memory: a loaf and a snack.",
+      "challenge": "Teach one bake from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What three things does yeast need?",
+          "options": [
+            "Sugar, salt, oil",
+            "Warmth, food, and time",
+            "Cold, water, and flour",
+            "Heat, light, and air"
+          ],
+          "answer": 1,
+          "explain": "Yeast needs warmth, something to eat, and time to make gas."
+        },
+        {
+          "q": "Why bake from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Baking without a recipe shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a bake to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves flour"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Bake",
+      "goal": "Plan your capstone baking table and gather everything you need.",
+      "video": {
+        "youtube_id": "h4q_T5M3_FU",
+        "title": "The Easiest Sourdough Bread for Beginners! No Kneading, Just 4 Ingredients",
+        "channel": "Fast Easy Delicious"
+      },
+      "steps": [
+        "Choose your capstone menu: a bread, a pastry, and a sweet bake.",
+        "Write the full shopping list with costs.",
+        "Write the baking order, starting with the dough that needs the longest rise.",
+        "Check you have every tool and ingredient.",
+        "Do a trial run of the hardest bake if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone bake today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only expensive bakes",
+            "Everything you learned: bread, pastry, costing, and timing",
+            "Only one bake",
+            "Only sweet bakes"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why start with the longest-rising dough?",
+          "options": [
+            "It is harder",
+            "So everything finishes at the same time",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Long-rising dough starts first so all bakes finish together."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste food",
+            "To find problems before the real bake",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Baker's Table: Bread, Pastry and Something Sweet",
+    "brief": "Bake a full table for your household or customers: a loaf of bread, a pastry (meat pie or dinner pie), and a sweet bake (banana bread or doughnuts). Cost the whole table, pack it neatly, and serve or deliver it on time.",
+    "checks": [
+      "Menu planned with a shopping list and costs",
+      "Bread risen well, baked through, with a good crust",
+      "Pastry golden and flaky, not soggy",
+      "Sweet bake cooked through and tasty",
+      "Everything packed neatly and labelled",
+      "Costs worked out and price per item set",
+      "Feedback collected from at least one person who tasted the bakes"
+    ],
+    "deliverables": [
+      "A photo of the finished baking table",
+      "Your written menu with the shopping list and costs",
+      "Your baking order, starting with the longest-rising dough",
+      "Your signature bake recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

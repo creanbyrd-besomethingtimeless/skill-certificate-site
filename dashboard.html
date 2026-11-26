@@ -15,11 +15,12 @@
 <header class="site-header">
   <div class="container">
     <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <button type="button" class="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
     <nav class="main-nav">
       <a href="index.html">Home</a>
       <a href="dashboard.html" class="active">Dashboard</a>
-      <a href="learn.html">Learn</a>
-      <a href="certificate.html">Certificate</a>
+      <a href="learn.html" id="nav-learn">Learn</a>
+      <a href="certificate.html" id="nav-certificate">Certificate</a>
       <a href="verify.html">Verify</a>
       <button type="button" class="btn ghost small" data-sign-out>Sign out</button>
     </nav>
@@ -32,7 +33,7 @@
     <div id="dashboard-loading"><p class="muted">Loading your progress...</p></div>
     <div id="dashboard-content" class="hidden">
       <h2 style="color:var(--navy); margin-bottom:4px">Welcome back, <span id="user-name">learner</span></h2>
-      <p class="muted">Full-Stack Web Development - 30 days</p>
+      <p class="muted" id="dashboard-skill-line">Full-Stack Web Development - 30 days</p>
 
       <div class="stat-grid">
         <div class="stat"><strong id="stat-progress">0%</strong><span>Complete</span></div>
@@ -61,6 +62,10 @@
         </div>
       </div>
 
+      <h3 style="color:var(--navy); margin:32px 0 12px">Enrolled skills</h3>
+      <div class="enrolled-grid" id="enrolled-skills-list"><p class="muted">Loading your skills...</p></div>
+      <p style="margin-top:14px"><a href="index.html#catalog">Browse all 123 skills</a></p>
+
       <h3 style="color:var(--navy); margin:32px 0 12px">Your 30 days</h3>
       <div id="dashboard-outline-error" class="error hidden"></div>
       <ul class="day-list" id="dashboard-day-list"></ul>
@@ -82,13 +87,20 @@ document.addEventListener("DOMContentLoaded", async function () {
   var user = session.user;
   var name = (user.user_metadata && (user.user_metadata.full_name || user.user_metadata.name)) || user.email || "learner";
   document.getElementById("user-name").textContent = name;
+  var slug = window.SkillCourse.skillSlugFromUrl();
   try {
-    await window.SkillCourse.loadCurriculum();
+    await window.SkillCourse.loadCurriculum(slug);
+    slug = window.SkillCourse.skillSlug();
+    document.getElementById("dashboard-skill-line").textContent = window.SkillCourse.courseTitle() + " - 30 days";
+    var navLearn = document.getElementById("nav-learn");
+    if (navLearn) navLearn.href = "learn.html?skill=" + encodeURIComponent(slug);
+    var navCert = document.getElementById("nav-certificate");
+    if (navCert) navCert.href = "certificate.html?skill=" + encodeURIComponent(slug);
   } catch (err) {
     var e = document.getElementById("dashboard-outline-error");
-    if (e) { e.textContent = err.message || "Could not load curriculum.json."; e.classList.remove("hidden"); }
+    if (e) { e.textContent = err.message || "Could not load the curriculum for this skill."; e.classList.remove("hidden"); }
   }
-  await window.SkillCourse.loadProgress(user);
+  await window.SkillCourse.loadProgress(user, slug);
   if (!window.SkillApp.isConfigured()) {
     var note = document.getElementById("local-progress-note");
     if (note) note.textContent = "Supabase is not set up yet, so progress is saved in this browser only. It will not follow you to another device.";
@@ -96,6 +108,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   document.getElementById("dashboard-loading").classList.add("hidden");
   document.getElementById("dashboard-content").classList.remove("hidden");
   window.SkillCourse.renderDashboard();
+  window.SkillCourse.renderEnrolledSkills(document.getElementById("enrolled-skills-list"), user);
 });
 </script>
 </body>

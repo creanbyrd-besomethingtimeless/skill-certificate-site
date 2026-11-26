@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "catering-and-event-food",
+    "title": "Catering and Event Food",
+    "level": "Beginner to intermediate",
+    "tagline": "Cook for crowds: plan menus, cost plates and serve events like a pro.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Is Catering?",
+      "goal": "Know what catering is and the types of catering work.",
+      "video": {
+        "youtube_id": "_oX23mYAKEM",
+        "title": "How to Start a Catering Business in 11 Steps",
+        "channel": "Wix"
+      },
+      "steps": [
+        "Catering means cooking food for other people's events.",
+        "Types: weddings, birthdays, office lunches, and funerals.",
+        "Full service means you cook, serve, and clean up.",
+        "Drop-off means you cook and deliver, and the customer serves.",
+        "Pick the type that suits your skills, tools, and money."
+      ],
+      "task": "Write down which type of catering you want to do and why.",
+      "challenge": "List three events near you that might need a caterer.",
+      "quiz": [
+        {
+          "q": "What is catering?",
+          "options": [
+            "Cooking at home",
+            "Cooking food for other people's events",
+            "Running a restaurant",
+            "Selling raw food"
+          ],
+          "answer": 1,
+          "explain": "Catering is cooking for other people's events."
+        },
+        {
+          "q": "What is full-service catering?",
+          "options": [
+            "Cooking only",
+            "Cooking, serving, and cleaning up",
+            "Delivering only",
+            "Selling drinks only"
+          ],
+          "answer": 1,
+          "explain": "Full service means you cook, serve, and clean up."
+        },
+        {
+          "q": "What is drop-off catering?",
+          "options": [
+            "Cooking at the event",
+            "Cooking and delivering, and the customer serves",
+            "Serving only",
+            "Cleaning only"
+          ],
+          "answer": 1,
+          "explain": "Drop-off means you cook and deliver. The customer serves the food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Plan Your First Catering Menu",
+      "goal": "Plan a menu that works for a crowd.",
+      "video": {
+        "youtube_id": "ErfTAnu2BOo",
+        "title": "How to Write a Restaurant Business Plan",
+        "channel": "7shifts"
+      },
+      "steps": [
+        "Pick dishes that travel well and stay tasty when kept warm.",
+        "Offer a main, a side, and a small chop or snack.",
+        "Keep the menu small. Three or four dishes are enough.",
+        "Ask about allergies and diets before you plan.",
+        "Write the menu down with the price per person."
+      ],
+      "task": "Plan a menu for 20 people.",
+      "challenge": "Write the price per person for your menu.",
+      "quiz": [
+        {
+          "q": "Why keep a catering menu small?",
+          "options": [
+            "It is cheaper",
+            "A small menu is easier to cook well for a crowd",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high when cooking for many people."
+        },
+        {
+          "q": "Why ask about allergies first?",
+          "options": [
+            "To be polite",
+            "So you do not cook food that could harm someone",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Allergies can be serious. Always ask before you plan."
+        },
+        {
+          "q": "What should a catering menu have?",
+          "options": [
+            "Only rice",
+            "A main, a side, and a snack",
+            "Only soup",
+            "Only meat"
+          ],
+          "answer": 1,
+          "explain": "A main, a side, and a snack give guests a full meal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "How Much Food Per Person?",
+      "goal": "Work out how much food you need for a crowd.",
+      "video": {
+        "youtube_id": "Iigdrm4yGBw",
+        "title": "How to Start a Catering Business",
+        "channel": "Explore Startups"
+      },
+      "steps": [
+        "A good guide: about 500g of food per person in total.",
+        "Main dish: about 200g per person.",
+        "Rice: about 100g of dry rice per person.",
+        "Meat: about 150g per person.",
+        "Add 10 percent extra for big eaters and seconds."
+      ],
+      "task": "Work out the food amounts for a party of 50.",
+      "challenge": "Work out the amounts for a party of 100.",
+      "quiz": [
+        {
+          "q": "How much food per person in total?",
+          "options": [
+            "100g",
+            "About 500g",
+            "1kg",
+            "200g"
+          ],
+          "answer": 1,
+          "explain": "About 500g of food per person is a good guide."
+        },
+        {
+          "q": "How much dry rice per person?",
+          "options": [
+            "50g",
+            "About 100g",
+            "200g",
+            "300g"
+          ],
+          "answer": 1,
+          "explain": "About 100g of dry rice per person is enough."
+        },
+        {
+          "q": "Why add 10 percent extra?",
+          "options": [
+            "To waste food",
+            "For big eaters and seconds",
+            "To look generous",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "A small buffer stops you running out when guests eat more."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Costing a Catering Job",
+      "goal": "Work out what a catering job costs and what to charge.",
+      "video": {
+        "youtube_id": "kILgwJ1TPlo",
+        "title": "Types of Catering Services",
+        "channel": "Small Business Trends"
+      },
+      "steps": [
+        "List every ingredient with its price.",
+        "Add gas, transport, packaging, and your time.",
+        "Divide the total by the number of guests.",
+        "Add your profit on top: 20 to 30 percent is a good guide.",
+        "Write it all down in a simple quote for the customer."
+      ],
+      "task": "Cost a catering job for 20 people.",
+      "challenge": "Write a simple quote for the customer.",
+      "quiz": [
+        {
+          "q": "What is a quote?",
+          "options": [
+            "A recipe",
+            "A written price for a job",
+            "A menu",
+            "A photo"
+          ],
+          "answer": 1,
+          "explain": "A quote is a written price you give the customer before the job."
+        },
+        {
+          "q": "What costs must you add beyond food?",
+          "options": [
+            "Nothing",
+            "Gas, transport, packaging, and your time",
+            "Only packaging",
+            "Only transport"
+          ],
+          "answer": 1,
+          "explain": "Gas, transport, packaging, and your time are real costs."
+        },
+        {
+          "q": "How much profit should you add?",
+          "options": [
+            "5 percent",
+            "20 to 30 percent",
+            "100 percent",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Twenty to thirty percent profit is a fair guide for catering."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Cooking for a Crowd: Big Pots",
+      "goal": "Cook large amounts of food well.",
+      "video": {
+        "youtube_id": "1iz0A20fFqo",
+        "title": "The REAL Amount of Food You Need for Your Party!",
+        "channel": "Feel Good Events"
+      },
+      "steps": [
+        "Use big pots. Never fill a pot more than two-thirds full.",
+        "Cook rice in batches if your pot is too small.",
+        "Taste and adjust seasoning after scaling up. Salt does not always double neatly.",
+        "Keep food hot in a cooler or a low oven.",
+        "Work with a friend. Big jobs are team jobs."
+      ],
+      "task": "Cook a big pot of stew for 20 portions.",
+      "challenge": "Cook jollof rice in two pots and compare the results.",
+      "quiz": [
+        {
+          "q": "Why not fill a pot more than two-thirds full?",
+          "options": [
+            "It looks bad",
+            "Food needs room to cook evenly and not spill",
+            "It saves gas",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "An overfull pot cooks unevenly and boils over."
+        },
+        {
+          "q": "Why taste after scaling a recipe?",
+          "options": [
+            "Salt is expensive",
+            "Seasoning does not always scale in a straight line",
+            "It is faster",
+            "To use less salt"
+          ],
+          "answer": 1,
+          "explain": "Doubling salt exactly can over-season. Taste and adjust."
+        },
+        {
+          "q": "How do you keep catering food hot?",
+          "options": [
+            "Leave it out",
+            "In a cooler or a low oven",
+            "In the fridge",
+            "On high heat"
+          ],
+          "answer": 1,
+          "explain": "A cooler or low oven holds food hot safely until serving."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Jollof Rice for a Crowd",
+      "goal": "Cook party jollof for 50 people.",
+      "video": {
+        "youtube_id": "dq__JjrN09s",
+        "title": "How Do You Calculate Catering Per Person?",
+        "channel": "Marketing Food Online"
+      },
+      "steps": [
+        "Work out the rice amount: about 100g dry rice per person.",
+        "Blend a big pepper mix and fry it until the oil separates.",
+        "Add stock, season, and stir in the washed rice.",
+        "Cover tightly with foil and a lid. Cook on low heat.",
+        "Let the bottom catch slightly for the smoky party flavour."
+      ],
+      "task": "Cook a big pot of jollof rice.",
+      "challenge": "Serve it with fried plantain and chicken.",
+      "quiz": [
+        {
+          "q": "How much dry rice for 50 people?",
+          "options": [
+            "1kg",
+            "About 5kg",
+            "10kg",
+            "2kg"
+          ],
+          "answer": 1,
+          "explain": "About 100g per person means about 5kg for 50 people."
+        },
+        {
+          "q": "Why cover the pot with foil and a lid?",
+          "options": [
+            "To cook faster",
+            "To trap steam so the rice cooks evenly",
+            "To keep flies out",
+            "To save gas"
+          ],
+          "answer": 1,
+          "explain": "A tight seal traps steam so the rice cooks evenly."
+        },
+        {
+          "q": "What gives party jollof its smoky taste?",
+          "options": [
+            "Liquid smoke",
+            "The rice catching slightly at the bottom",
+            "Charcoal",
+            "Burnt peppers"
+          ],
+          "answer": 1,
+          "explain": "A slight catch at the bottom gives the smoky party flavour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: Cater a Small Party",
+      "goal": "Cater a small party for 10 to 20 people.",
+      "video": {
+        "youtube_id": "DW1GC_zAvRk",
+        "title": "How to Plan a Self-Catered Wedding",
+        "channel": "Sortra"
+      },
+      "steps": [
+        "Plan the menu: jollof, stew, and small chops.",
+        "Write the shopping list and costs.",
+        "Work out the food amounts per person.",
+        "Cook everything and pack it for delivery or serving.",
+        "Serve it and ask for honest feedback."
+      ],
+      "task": "Cater a small party for friends or family.",
+      "challenge": "Cost the job and work out your profit.",
+      "quiz": [
+        {
+          "q": "Why plan the menu first?",
+          "options": [
+            "It is faster",
+            "So you know what to buy and cook",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A planned menu tells you what to buy, how much, and what to charge."
+        },
+        {
+          "q": "Why cost the job?",
+          "options": [
+            "To show off",
+            "So you know your profit",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing tells you if the job made money."
+        },
+        {
+          "q": "Why ask for feedback?",
+          "options": [
+            "To be polite",
+            "It tells you what to improve",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Feedback shows what guests liked and what to fix."
+        }
+      ],
+      "project": {
+        "title": "Cater a Small Party",
+        "brief": "Cook and serve jollof, stew, and small chops for 10 to 20 people.",
+        "checks": [
+          "Menu planned with costs per person",
+          "Food amounts worked out correctly",
+          "Jollof cooked with a smoky finish",
+          "Stew well fried and seasoned",
+          "Small chops made and served",
+          "Feedback collected from guests"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Small Chops for Events",
+      "goal": "Make samosas, spring rolls, and puff puff for events.",
+      "video": {
+        "youtube_id": "wAyevgTtRlM",
+        "title": "Nigerian Suya Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Small chops are small snacks served at parties.",
+        "Make samosa filling: minced meat, onion, and carrot.",
+        "Fold samosas and spring rolls neatly so they do not open.",
+        "Fry in hot oil until golden. Drain well.",
+        "Pack in boxes with paper so they stay crisp."
+      ],
+      "task": "Make a tray of small chops: samosas, spring rolls, and puff puff.",
+      "challenge": "Pack them in a box as if for a customer.",
+      "quiz": [
+        {
+          "q": "What are small chops?",
+          "options": [
+            "A main meal",
+            "Small snacks served at parties",
+            "A soup",
+            "A drink"
+          ],
+          "answer": 1,
+          "explain": "Small chops are bite-size snacks served at events."
+        },
+        {
+          "q": "Why fold samosas neatly?",
+          "options": [
+            "It looks nice",
+            "So they do not open in the oil",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A loose fold opens in hot oil and the filling spills out."
+        },
+        {
+          "q": "Why pack small chops with paper?",
+          "options": [
+            "It looks nice",
+            "Paper soaks up oil and keeps them crisp",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Paper soaks up extra oil so the chops stay crisp."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Suya for Events",
+      "goal": "Grill suya for a party.",
+      "video": {
+        "youtube_id": "z4tNAyRdo70",
+        "title": "How To Cook Perfect Party Jollof Rice: Tips for Smoky Nigerian Party Jollof Rice",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Cut beef thinly and marinate with suya spice and oil.",
+        "Thread onto skewers, flat, not bunched up.",
+        "Grill over medium heat. Turn often.",
+        "Grill last, so the suya is hot when guests eat.",
+        "Serve with onion, cabbage, and extra spice."
+      ],
+      "task": "Grill suya for a group.",
+      "challenge": "Pack suya in foil for delivery and check it stays warm.",
+      "quiz": [
+        {
+          "q": "Why grill suya last?",
+          "options": [
+            "It is faster",
+            "Grilled food goes cold fast, so it is cooked last",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Suya is best hot. Grill it last so guests eat it hot."
+        },
+        {
+          "q": "Why thread suya flat?",
+          "options": [
+            "It looks nice",
+            "Flat slices cook evenly",
+            "It saves skewers",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Flat slices cook evenly. Bunched meat stays raw inside."
+        },
+        {
+          "q": "What do you serve with suya?",
+          "options": [
+            "Rice",
+            "Onion and cabbage with extra spice",
+            "Bread",
+            "Yam"
+          ],
+          "answer": 1,
+          "explain": "Onion and cabbage with extra yaji are the classic partners."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Meat Pies for Events",
+      "goal": "Bake meat pies in bulk for events.",
+      "video": {
+        "youtube_id": "Q-64YOS3rss",
+        "title": "10 Minutes Snack! Easy Flaky Meat Pie with Puff Pastry",
+        "channel": "Snack Recipes"
+      },
+      "steps": [
+        "Make a big batch of filling and let it cool.",
+        "Make pastry in batches. Keep it cold.",
+        "Roll, cut, fill, and seal each pie the same way.",
+        "Bake in batches so the oven is never half empty.",
+        "Pack in boxes when cool."
+      ],
+      "task": "Bake 20 meat pies.",
+      "challenge": "Cost the batch and set a price per pie.",
+      "quiz": [
+        {
+          "q": "Why make filling first?",
+          "options": [
+            "It is harder",
+            "It needs time to cool before it goes into pastry",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Filling must be cool, or it melts the pastry."
+        },
+        {
+          "q": "Why bake in batches?",
+          "options": [
+            "It is faster",
+            "A full oven uses gas better than a half-empty one",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Baking more at once saves gas and time."
+        },
+        {
+          "q": "Why keep pastry cold?",
+          "options": [
+            "It tastes better",
+            "Warm pastry sticks and will not stay flaky",
+            "It is easier to cut",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Cold pastry keeps the butter solid, so it bakes flaky."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Weddings: Plan a Self-Catered Wedding",
+      "goal": "Plan food for a wedding.",
+      "video": {
+        "youtube_id": "ak3u7P7mEDI",
+        "title": "Learn Small Chops (Complete Package in 14 mins): Samosa, Spring Roll, and Puff Puff",
+        "channel": "Small Chops Kitchen"
+      },
+      "steps": [
+        "Ask how many guests and what food they want.",
+        "Plan a menu with a main, sides, and small chops.",
+        "Cook stews and soups in advance and freeze them.",
+        "Fry small chops and grill suya on the day.",
+        "Set up a serving table with labels for each dish."
+      ],
+      "task": "Plan a wedding menu for 100 guests on paper.",
+      "challenge": "Work out the food amounts and costs.",
+      "quiz": [
+        {
+          "q": "Why cook stews in advance for a wedding?",
+          "options": [
+            "To save gas",
+            "They freeze well and free up time on the day",
+            "They taste worse fresh",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Stews freeze well, so the wedding day is less stressful."
+        },
+        {
+          "q": "What should be cooked fresh on the day?",
+          "options": [
+            "Stew",
+            "Fried snacks and grilled food",
+            "Soup",
+            "Rice"
+          ],
+          "answer": 1,
+          "explain": "Fried food goes soggy if made early, so it is cooked on the day."
+        },
+        {
+          "q": "Why label dishes on the serving table?",
+          "options": [
+            "It looks nice",
+            "So guests know what each dish is",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Labels help guests, especially those with allergies."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Office Lunches and Regular Orders",
+      "goal": "Win regular office lunch orders.",
+      "video": {
+        "youtube_id": "_oX23mYAKEM",
+        "title": "How to Start a Catering Business in 11 Steps",
+        "channel": "Wix"
+      },
+      "steps": [
+        "Office lunches need food that travels well and is ready on time.",
+        "Offer a simple weekly menu with two or three choices.",
+        "Pack each lunch in a sealed box with a label.",
+        "Deliver on time, every time. Late food loses customers.",
+        "Ask the office what they liked and what to change."
+      ],
+      "task": "Plan a weekly office lunch menu.",
+      "challenge": "Pack a lunch box as if for an office order.",
+      "quiz": [
+        {
+          "q": "What do office lunches need?",
+          "options": [
+            "Fancy food",
+            "Food that travels well and arrives on time",
+            "Only soup",
+            "Only rice"
+          ],
+          "answer": 1,
+          "explain": "Office food must travel well and be on time."
+        },
+        {
+          "q": "Why offer only two or three choices?",
+          "options": [
+            "It is cheaper",
+            "A small menu is easier to cook well every day",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and cooking simple."
+        },
+        {
+          "q": "Why is on-time delivery so important?",
+          "options": [
+            "It is polite",
+            "Late food loses customers fast",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Offices run on time. Late lunch means lost orders."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Food Safety for Caterers",
+      "goal": "Keep catering food safe.",
+      "video": {
+        "youtube_id": "ErfTAnu2BOo",
+        "title": "How to Write a Restaurant Business Plan",
+        "channel": "7shifts"
+      },
+      "steps": [
+        "Wash your hands often. Wear clean clothes and a hair cover.",
+        "Keep raw meat away from cooked food.",
+        "Keep hot food hot (above 60°C) and cold food cold (below 5°C).",
+        "Do not leave food out for more than 2 hours.",
+        "Label food with the date it was made."
+      ],
+      "task": "Do a food safety check of your kitchen.",
+      "challenge": "Write a food safety list for your catering work.",
+      "quiz": [
+        {
+          "q": "How long can food sit out safely?",
+          "options": [
+            "6 hours",
+            "2 hours",
+            "1 day",
+            "4 hours"
+          ],
+          "answer": 1,
+          "explain": "Food left out over 2 hours sits in the danger zone where germs grow fast."
+        },
+        {
+          "q": "Why keep raw meat away from cooked food?",
+          "options": [
+            "It looks bad",
+            "Raw meat can spread germs to cooked food",
+            "It tastes bad",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Raw meat juices carry germs that can make people sick."
+        },
+        {
+          "q": "What temperature must hot food stay above?",
+          "options": [
+            "40°C",
+            "60°C",
+            "80°C",
+            "100°C"
+          ],
+          "answer": 1,
+          "explain": "Hot food must stay above 60°C so germs cannot grow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: Cater a Wedding Table",
+      "goal": "Cater a wedding-style table for 20 or more people.",
+      "video": {
+        "youtube_id": "Iigdrm4yGBw",
+        "title": "How to Start a Catering Business",
+        "channel": "Explore Startups"
+      },
+      "steps": [
+        "Plan the menu: jollof, stew, small chops, and suya.",
+        "Write the shopping list, amounts, and costs.",
+        "Cook stews in advance. Fry and grill on the day.",
+        "Set up a serving table with labels.",
+        "Serve the food and ask for feedback."
+      ],
+      "task": "Cater a wedding-style table for your household or friends.",
+      "challenge": "Cost the job and work out your profit.",
+      "quiz": [
+        {
+          "q": "Why cook stews in advance?",
+          "options": [
+            "To save gas",
+            "They freeze well and free up time",
+            "They taste worse fresh",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Stews made early save time on the event day."
+        },
+        {
+          "q": "Why set up a serving table with labels?",
+          "options": [
+            "It looks nice",
+            "So guests know what each dish is",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Labels help guests choose, especially those with allergies."
+        },
+        {
+          "q": "Why cost the job?",
+          "options": [
+            "To show off",
+            "So you know your profit",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing tells you if the job made money."
+        }
+      ],
+      "project": {
+        "title": "Cater a Wedding-Style Table",
+        "brief": "Cook and serve a wedding-style menu for 20 or more people.",
+        "checks": [
+          "Menu planned with amounts and costs",
+          "Stews cooked in advance",
+          "Small chops fried fresh on the day",
+          "Suya grilled and served hot",
+          "Serving table set up with labels",
+          "Feedback collected from guests"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Packaging and Transport",
+      "goal": "Pack and carry catering food safely.",
+      "video": {
+        "youtube_id": "kILgwJ1TPlo",
+        "title": "Types of Catering Services",
+        "channel": "Small Business Trends"
+      },
+      "steps": [
+        "Use food-grade containers that seal tightly.",
+        "Pack soup separately from rice and swallows.",
+        "Use coolers to keep hot food hot and cold food cold.",
+        "Label every container with the dish name and date.",
+        "Drive carefully. Spilled food is wasted food."
+      ],
+      "task": "Pack a full meal as if for delivery.",
+      "challenge": "Carry it in a car and check it arrives in good shape.",
+      "quiz": [
+        {
+          "q": "Why pack soup separately from rice?",
+          "options": [
+            "It looks better",
+            "Soup soaks the rice and makes it soggy",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Separate packing keeps each item in good condition."
+        },
+        {
+          "q": "What should a label say?",
+          "options": [
+            "Only your name",
+            "Dish name and date",
+            "Only the price",
+            "Only the date"
+          ],
+          "answer": 1,
+          "explain": "Labels tell the customer what it is and when it was made."
+        },
+        {
+          "q": "Why use coolers?",
+          "options": [
+            "They look nice",
+            "They keep hot food hot and cold food cold",
+            "They are cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Coolers hold food at a safe temperature during transport."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Serving at Events: Set Up and Serve",
+      "goal": "Set up and serve food at an event like a pro.",
+      "video": {
+        "youtube_id": "1iz0A20fFqo",
+        "title": "The REAL Amount of Food You Need for Your Party!",
+        "channel": "Feel Good Events"
+      },
+      "steps": [
+        "Arrive early. Set up tables, cloths, and serving dishes.",
+        "Put labels on every dish.",
+        "Serve in order: start with small chops, then mains.",
+        "Keep food warm with chafing dishes or a low oven.",
+        "Smile, be polite, and help guests."
+      ],
+      "task": "Set up a serving table at home and practise serving.",
+      "challenge": "Serve a meal to friends as if at an event.",
+      "quiz": [
+        {
+          "q": "Why arrive early?",
+          "options": [
+            "It is polite",
+            "So you have time to set up without rushing",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Early arrival gives you time to set up well."
+        },
+        {
+          "q": "What are chafing dishes for?",
+          "options": [
+            "Decoration",
+            "Keeping food warm at events",
+            "Cooking",
+            "Storing food"
+          ],
+          "answer": 1,
+          "explain": "Chafing dishes keep food warm on the serving table."
+        },
+        {
+          "q": "Why label every dish?",
+          "options": [
+            "It looks nice",
+            "So guests know what each dish is",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Labels help guests, especially those with allergies."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Taking Catering Orders",
+      "goal": "Take a catering order like a professional.",
+      "video": {
+        "youtube_id": "dq__JjrN09s",
+        "title": "How Do You Calculate Catering Per Person?",
+        "channel": "Marketing Food Online"
+      },
+      "steps": [
+        "Ask the date, the number of guests, and the venue.",
+        "Ask about the menu, allergies, and budget.",
+        "Write a quote with the price per person and the total.",
+        "Take a deposit (money paid in advance) to book the date.",
+        "Confirm everything in writing a week before the event."
+      ],
+      "task": "Practise taking an order from a friend.",
+      "challenge": "Write a catering order form you can use for real customers.",
+      "quiz": [
+        {
+          "q": "What is a deposit?",
+          "options": [
+            "The full price",
+            "Money paid in advance to book the date",
+            "A tip",
+            "A discount"
+          ],
+          "answer": 1,
+          "explain": "A deposit books the date and covers your costs if the customer cancels."
+        },
+        {
+          "q": "Why confirm in writing a week before?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A written confirmation stops mistakes about date, numbers, and menu."
+        },
+        {
+          "q": "Why ask about the venue?",
+          "options": [
+            "To be polite",
+            "So you know what cooking and serving space you have",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "The venue tells you what equipment and space you will have."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Hiring Help for Big Events",
+      "goal": "Find and manage helpers for big catering jobs.",
+      "video": {
+        "youtube_id": "DW1GC_zAvRk",
+        "title": "How to Plan a Self-Catered Wedding",
+        "channel": "Sortra"
+      },
+      "steps": [
+        "For big events, you need helpers to cook, serve, and clean.",
+        "Hire people you trust. Train them on your menu and your rules.",
+        "Give each helper a clear job: cooking, serving, or cleaning.",
+        "Pay helpers fairly and on time.",
+        "Thank them after the event. Good helpers come back."
+      ],
+      "task": "Write a job list for a big event: who does what.",
+      "challenge": "Practise giving clear instructions to a helper.",
+      "quiz": [
+        {
+          "q": "Why give each helper a clear job?",
+          "options": [
+            "It is polite",
+            "So nothing is missed and no one is confused",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Clear jobs stop confusion and make the event run smoothly."
+        },
+        {
+          "q": "Why train helpers on your menu?",
+          "options": [
+            "To show off",
+            "So they can answer guest questions",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Helpers who know the menu can help guests and serve well."
+        },
+        {
+          "q": "Why pay helpers on time?",
+          "options": [
+            "It is a law",
+            "Good helpers come back when they are paid fairly and on time",
+            "It is polite",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "Fair, on-time pay keeps good helpers working with you."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Catering Business: First Steps",
+      "goal": "Take your first steps toward a catering business.",
+      "video": {
+        "youtube_id": "wAyevgTtRlM",
+        "title": "Nigerian Suya Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Pick 2 or 3 menus to offer. Keep it simple.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your food in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take bookings in advance so you plan well."
+      ],
+      "task": "Take photos of your best catering food and show them to three people.",
+      "challenge": "Take one real booking, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 2 or 3 menus?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to cook well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take bookings in advance?",
+          "options": [
+            "To show off",
+            "So you can plan and buy well",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance bookings mean no waste and no last-minute stress."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to book you",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People book with their eyes first. Good photos win jobs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Catering Mistakes and Fixes",
+      "goal": "Fix the commonest catering problems.",
+      "video": {
+        "youtube_id": "z4tNAyRdo70",
+        "title": "How To Cook Perfect Party Jollof Rice: Tips for Smoky Nigerian Party Jollof Rice",
+        "channel": "Sisi Jemimah's Recipes"
+      },
+      "steps": [
+        "Ran out of food? Next time, add 10 percent extra.",
+        "Food went cold? Use coolers and chafing dishes next time.",
+        "Food was too salty? Taste as you cook and season in small amounts.",
+        "Arrived late? Leave earlier and plan the route.",
+        "Write down each problem and fix."
+      ],
+      "task": "Fix one catering problem you have had.",
+      "challenge": "Write a list of three things you will do better next time.",
+      "quiz": [
+        {
+          "q": "What do you do if you ran out of food?",
+          "options": [
+            "Apologise only",
+            "Add 10 percent extra next time",
+            "Cook less",
+            "Charge less"
+          ],
+          "answer": 1,
+          "explain": "A 10 percent buffer stops you running out."
+        },
+        {
+          "q": "What do you do if food went cold?",
+          "options": [
+            "Serve it cold",
+            "Use coolers and chafing dishes next time",
+            "Reheat it fast",
+            "Throw it away"
+          ],
+          "answer": 1,
+          "explain": "Coolers and chafing dishes keep food hot until serving."
+        },
+        {
+          "q": "How do you stop food being too salty?",
+          "options": [
+            "Add water",
+            "Taste as you cook and season in small amounts",
+            "Add sugar",
+            "Cook it longer"
+          ],
+          "answer": 1,
+          "explain": "Tasting as you cook and adding salt slowly stops over-salting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: Cater a Full Event",
+      "goal": "Cater a full event for 30 or more people.",
+      "video": {
+        "youtube_id": "Q-64YOS3rss",
+        "title": "10 Minutes Snack! Easy Flaky Meat Pie with Puff Pastry",
+        "channel": "Snack Recipes"
+      },
+      "steps": [
+        "Plan the menu, amounts, costs, and timeline.",
+        "Cook stews in advance. Fry and grill on the day.",
+        "Set up the serving table with labels.",
+        "Serve the food, keep it warm, and help guests.",
+        "Clean up, cost the job, and ask for feedback."
+      ],
+      "task": "Cater a full event for your household or friends.",
+      "challenge": "Cost the job and work out your profit.",
+      "quiz": [
+        {
+          "q": "Why plan a timeline?",
+          "options": [
+            "To show off",
+            "So every dish is ready on time",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A timeline makes sure all food is ready when guests arrive."
+        },
+        {
+          "q": "Why clean up after the event?",
+          "options": [
+            "It is polite",
+            "Full-service catering includes cleaning up",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Cleaning up is part of good service and wins repeat bookings."
+        },
+        {
+          "q": "Why ask for feedback after a big event?",
+          "options": [
+            "To be polite",
+            "It tells you what to improve for the next event",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Feedback after a big event is the best way to get better."
+        }
+      ],
+      "project": {
+        "title": "Cater a Full Event",
+        "brief": "Cook and serve a full menu for 30 or more people.",
+        "checks": [
+          "Menu planned with amounts, costs, and timeline",
+          "Stews cooked in advance",
+          "Fresh food fried and grilled on the day",
+          "Serving table set up with labels",
+          "Food kept warm and served well",
+          "Job costed and feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Menu Design: Make Menus People Want",
+      "goal": "Design menus that sell.",
+      "video": {
+        "youtube_id": "ak3u7P7mEDI",
+        "title": "Learn Small Chops (Complete Package in 14 mins): Samosa, Spring Roll, and Puff Puff",
+        "channel": "Small Chops Kitchen"
+      },
+      "steps": [
+        "Offer a mix: a rice dish, a soup, a grilled dish, and small chops.",
+        "Give each menu a name, like 'Party Classic' or 'Wedding Feast'.",
+        "List the price per person clearly.",
+        "Offer one budget menu and one premium menu.",
+        "Update your menus when prices change."
+      ],
+      "task": "Design two menus: one budget, one premium.",
+      "challenge": "Show them to three people and ask which they would book.",
+      "quiz": [
+        {
+          "q": "Why give a menu a name?",
+          "options": [
+            "To show off",
+            "A name makes it easy to remember and book",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A named menu is a product customers can ask for by name."
+        },
+        {
+          "q": "Why offer a budget and a premium menu?",
+          "options": [
+            "It is fancy",
+            "So customers with different money can still book you",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Two price levels let more customers afford your food."
+        },
+        {
+          "q": "Why update menus when prices change?",
+          "options": [
+            "To show off",
+            "So you do not lose money on old prices",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Old prices can mean you cook at a loss when food costs rise."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Marketing Your Catering Business",
+      "goal": "Tell people about your catering business.",
+      "video": {
+        "youtube_id": "_oX23mYAKEM",
+        "title": "How to Start a Catering Business in 11 Steps",
+        "channel": "Wix"
+      },
+      "steps": [
+        "Take clear photos of every event you cater.",
+        "Ask happy customers to share your photos and your number.",
+        "Post your menus and prices on WhatsApp and social media.",
+        "Offer a small discount for a first booking.",
+        "Keep a list of past customers and message them about new menus."
+      ],
+      "task": "Post your catering menu on WhatsApp or social media.",
+      "challenge": "Ask a happy customer to share your number with a friend.",
+      "quiz": [
+        {
+          "q": "Why ask customers to share your number?",
+          "options": [
+            "To show off",
+            "Word of mouth is the best free advert",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Happy customers telling friends is the cheapest and best marketing."
+        },
+        {
+          "q": "Why post menus and prices?",
+          "options": [
+            "To show off",
+            "So people know what you offer and what it costs",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Clear menus and prices help people decide to book you."
+        },
+        {
+          "q": "Why keep a list of past customers?",
+          "options": [
+            "To show off",
+            "So you can tell them about new menus",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Past customers are the easiest people to book again."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your catering business.",
+      "video": {
+        "youtube_id": "ErfTAnu2BOo",
+        "title": "How to Write a Restaurant Business Plan",
+        "channel": "7shifts"
+      },
+      "steps": [
+        "Write down every booking: date, guests, menu, and price.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each month.",
+        "Note which menus sell best and which do not.",
+        "Keep your money for catering separate from your spending money."
+      ],
+      "task": "Start a simple booking book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one catering job.",
+      "quiz": [
+        {
+          "q": "Why write down every booking?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to cook",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written bookings stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for food, gas, transport, and helpers."
+        },
+        {
+          "q": "Why keep catering money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if the business is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Festive Catering: Christmas and Parties",
+      "goal": "Plan catering for Christmas and parties.",
+      "video": {
+        "youtube_id": "Iigdrm4yGBw",
+        "title": "How to Start a Catering Business",
+        "channel": "Explore Startups"
+      },
+      "steps": [
+        "Plan a month ahead. Bookings come early for Christmas.",
+        "Offer a special festive menu with a set price.",
+        "Cook stews and soups in advance and freeze them.",
+        "Hire extra helpers for the busy season.",
+        "Take deposits early so dates are booked."
+      ],
+      "task": "Plan a festive catering menu.",
+      "challenge": "Write a plan for the busy season: menus, helpers, and dates.",
+      "quiz": [
+        {
+          "q": "Why plan a month ahead for Christmas?",
+          "options": [
+            "To show off",
+            "Bookings come early and food prices rise",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Christmas bookings come early. Planning ahead secures dates and prices."
+        },
+        {
+          "q": "Why take deposits early?",
+          "options": [
+            "To show off",
+            "So dates are booked and you are paid if a customer cancels",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Early deposits lock in bookings and protect your income."
+        },
+        {
+          "q": "Why hire extra helpers for the busy season?",
+          "options": [
+            "It is fancy",
+            "So big jobs run smoothly",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Extra hands keep big festive jobs on time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Your Signature Catering Menu",
+      "goal": "Choose and perfect one catering menu you can deliver brilliantly.",
+      "video": {
+        "youtube_id": "kILgwJ1TPlo",
+        "title": "Types of Catering Services",
+        "channel": "Small Business Trends"
+      },
+      "steps": [
+        "Pick the menu your customers love most from this course.",
+        "Write it down with exact amounts, costs, and prices.",
+        "Cook it again, timing every step and noting problems.",
+        "Fix the problems and cook it once more.",
+        "Get feedback from someone who ate it."
+      ],
+      "task": "Cook your signature catering menu and write the final version down.",
+      "challenge": "Serve it to someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature menu?",
+          "options": [
+            "An expensive menu",
+            "A menu you can deliver brilliantly every time",
+            "A menu with a fancy name",
+            "A menu only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature menu is one you have mastered."
+        },
+        {
+          "q": "Why write exact amounts?",
+          "options": [
+            "To publish it",
+            "So you can repeat it the same way every time",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Exact amounts mean the same great food every time."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste food"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Growing Your Catering Business",
+      "goal": "Grow from small parties to big events.",
+      "video": {
+        "youtube_id": "1iz0A20fFqo",
+        "title": "The REAL Amount of Food You Need for Your Party!",
+        "channel": "Feel Good Events"
+      },
+      "steps": [
+        "Start with small parties. Do them well.",
+        "Ask every happy customer for a review or a referral.",
+        "Add one new menu each season.",
+        "Save some profit to buy better equipment.",
+        "Do not take a big job until you are ready for it."
+      ],
+      "task": "Write a growth plan: where you are now and where you want to be in a year.",
+      "challenge": "List one piece of equipment you want to buy next.",
+      "quiz": [
+        {
+          "q": "How do you grow a catering business?",
+          "options": [
+            "Take every job",
+            "Do small jobs well and grow step by step",
+            "Spend lots on adverts",
+            "Copy others"
+          ],
+          "answer": 1,
+          "explain": "Doing small jobs well builds a good name. Growth follows."
+        },
+        {
+          "q": "Why save profit for equipment?",
+          "options": [
+            "To show off",
+            "Better equipment lets you take bigger jobs",
+            "It is required",
+            "To waste money"
+          ],
+          "answer": 1,
+          "explain": "Good equipment makes big jobs possible."
+        },
+        {
+          "q": "Why not take a big job too soon?",
+          "options": [
+            "It is scary",
+            "A failed big job can ruin your name",
+            "It is expensive",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A big job done badly hurts your name. Grow into it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Catering and Food Allergies",
+      "goal": "Handle allergies safely at events.",
+      "video": {
+        "youtube_id": "dq__JjrN09s",
+        "title": "How Do You Calculate Catering Per Person?",
+        "channel": "Marketing Food Online"
+      },
+      "steps": [
+        "Ask about allergies when you take the booking.",
+        "Write allergies down and tell your helpers.",
+        "Cook allergy-free dishes separately, with clean tools.",
+        "Label dishes clearly at the serving table.",
+        "Never guess. If you are not sure, ask the customer."
+      ],
+      "task": "Write an allergy checklist for your catering work.",
+      "challenge": "Practise cooking one dish separately with clean tools.",
+      "quiz": [
+        {
+          "q": "Why ask about allergies at booking?",
+          "options": [
+            "To be polite",
+            "So you can plan safe food",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Knowing allergies early lets you plan safe dishes."
+        },
+        {
+          "q": "Why cook allergy-free dishes separately?",
+          "options": [
+            "It tastes better",
+            "So they are not touched by allergens",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Separate cooking with clean tools stops allergens getting into safe food."
+        },
+        {
+          "q": "Why never guess about allergies?",
+          "options": [
+            "It is rude",
+            "Guessing can harm someone",
+            "It is a rule",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "Allergies can be serious. Always ask if you are not sure."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Caterer's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "DW1GC_zAvRk",
+        "title": "How to Plan a Self-Catered Wedding",
+        "channel": "Sortra"
+      },
+      "steps": [
+        "Work out food amounts for 50 people from memory.",
+        "Cost a catering job from memory.",
+        "Name the types of catering: full service and drop-off.",
+        "Check your food safety habits.",
+        "List your three strongest skills and one to improve."
+      ],
+      "task": "Cater a small event from memory, no notes.",
+      "challenge": "Teach one catering skill from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What are the two main types of catering?",
+          "options": [
+            "Wedding and birthday",
+            "Full service and drop-off",
+            "Hot and cold",
+            "Big and small"
+          ],
+          "answer": 1,
+          "explain": "Full service means you cook, serve, and clean. Drop-off means you cook and deliver."
+        },
+        {
+          "q": "Why cater from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Catering without notes shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves food"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Event",
+      "goal": "Plan your capstone catering event and gather everything you need.",
+      "video": {
+        "youtube_id": "wAyevgTtRlM",
+        "title": "Nigerian Suya Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Choose your capstone menu: rice, stew, small chops, and suya.",
+        "Write the full shopping list with amounts and costs.",
+        "Write the cooking timeline, working backwards from serving.",
+        "Check you have every tool, container, and helper you need.",
+        "Do a trial run of the hardest dish if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone dish today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only expensive food",
+            "Everything you learned: planning, costing, cooking, and serving",
+            "Only one dish",
+            "Only small chops"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why work backwards from serving?",
+          "options": [
+            "It is faster",
+            "So every dish is ready on time",
+            "It saves gas",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A backwards timeline makes sure all food is ready when guests arrive."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste food",
+            "To find problems before the real event",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Caterer's Event: A Full Menu for 30 Guests",
+    "brief": "Cater a full event for 30 or more people: jollof rice, stew, small chops, and suya, with a serving table, labels, and food kept hot. Cost the whole job, serve it well, clean up, and collect feedback.",
+    "checks": [
+      "Menu planned with amounts, costs, and timeline",
+      "Jollof rice cooked for a crowd with a smoky finish",
+      "Stew well fried and seasoned",
+      "Small chops fried fresh and packed well",
+      "Suya grilled and served hot",
+      "Serving table set up with labels, food kept warm",
+      "Job costed and feedback collected"
+    ],
+    "deliverables": [
+      "A photo of your serving table and food",
+      "Your written menu with amounts, costs, and prices",
+      "Your cooking timeline, working backwards from serving",
+      "Your signature catering menu written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

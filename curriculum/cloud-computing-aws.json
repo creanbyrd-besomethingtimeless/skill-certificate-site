@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "cloud-computing-aws",
+    "title": "Cloud Computing with AWS",
+    "level": "Beginner to intermediate",
+    "tagline": "Launch servers, store files and deploy apps on Amazon Web Services, step by step.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Cloud Computing Is",
+      "goal": "Understand what the cloud is and why companies use it.",
+      "video": {
+        "youtube_id": "E5Xor3xa5-Y",
+        "title": "AWS for Beginners Full Course",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Write down three things you use that run in the cloud: email, streaming, storage.",
+        "Learn the three cloud models: IaaS, PaaS and SaaS, in plain words.",
+        "Learn the five benefits of the cloud: pay as you go, scale up, no hardware, fast to start, available everywhere.",
+        "Compare buying a server with renting one in the cloud."
+      ],
+      "task": "Write a short note: what the cloud is, in your own words, and one example of each model.",
+      "challenge": "Find one company that moved to the cloud and write down why.",
+      "quiz": [
+        {
+          "q": "What is cloud computing?",
+          "options": [
+            "A kind of weather",
+            "Using computers over the internet instead of owning your own machines",
+            "A kind of Wi-Fi",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "Cloud computing means renting computers, storage and services over the internet, instead of buying and running your own."
+        },
+        {
+          "q": "What does 'pay as you go' mean?",
+          "options": [
+            "You pay once",
+            "You pay only for what you use, like electricity",
+            "It is free",
+            "You pay yearly"
+          ],
+          "answer": 1,
+          "explain": "Pay as you go means you are billed for what you actually use, so you do not pay for idle machines."
+        },
+        {
+          "q": "What is the difference between IaaS, PaaS and SaaS?",
+          "options": [
+            "There is none",
+            "IaaS rents machines, PaaS rents a platform to build on, SaaS rents finished software",
+            "They are three companies",
+            "They are three prices"
+          ],
+          "answer": 1,
+          "explain": "IaaS gives you machines. PaaS gives you a platform to run code on. SaaS gives you ready software like Gmail."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your AWS Account and the Free Tier",
+      "goal": "Create an AWS account and understand what is free.",
+      "video": {
+        "youtube_id": "7HKot-brXFE",
+        "title": "AWS Certified Cloud Practitioner Study Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Go to aws.amazon.com and create a free account with your email.",
+        "Set up a strong password and turn on MFA for the root user.",
+        "Open the Billing page and set a budget alert at $0 so you are warned if you spend anything.",
+        "Open the AWS Management Console and find the EC2, S3 and IAM services."
+      ],
+      "task": "Create your AWS account, turn on MFA and set a $0 budget alert.",
+      "challenge": "List the three services you found and what each one does.",
+      "quiz": [
+        {
+          "q": "What is the AWS Free Tier?",
+          "options": [
+            "A free computer",
+            "A set of AWS services you can use free for 12 months, within limits",
+            "A kind of account",
+            "A discount"
+          ],
+          "answer": 1,
+          "explain": "The Free Tier gives you limited free use of many services for a year, so you can learn without paying."
+        },
+        {
+          "q": "Why turn on MFA for the root user?",
+          "options": [
+            "It is faster",
+            "Because the root user can do anything, including spending money, so it needs the strongest protection",
+            "It is required by law",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "The root user has full power over the account. MFA adds a second lock so a stolen password is not enough."
+        },
+        {
+          "q": "Why set a $0 budget alert?",
+          "options": [
+            "To get free money",
+            "So AWS warns you the moment you start spending, before the bill grows",
+            "To stop all services",
+            "To hide the bill"
+          ],
+          "answer": 1,
+          "explain": "A $0 alert warns you early. Cloud bills can grow fast if you leave services running."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "The AWS Console and Regions",
+      "goal": "Find your way around the AWS Console and pick the right region.",
+      "video": {
+        "youtube_id": "8-m7hqOqs9Y",
+        "title": "AWS Networking Full Course in 2 Hours (FREE)",
+        "channel": "Cloud X Berry"
+      },
+      "steps": [
+        "Open the console and use the search bar to find a service by name.",
+        "Change your region to one near you, like eu-west-1 (Ireland).",
+        "Learn what a region is: a separate AWS data centre location.",
+        "Check that a service you create lives in the region you picked."
+      ],
+      "task": "Change your region, find three services with the search bar and write down what they do.",
+      "challenge": "Explain in one sentence why you would pick a region near your users.",
+      "quiz": [
+        {
+          "q": "What is an AWS region?",
+          "options": [
+            "A kind of service",
+            "A separate geographic area with its own AWS data centres",
+            "A price plan",
+            "A user group"
+          ],
+          "answer": 1,
+          "explain": "A region is a location, like Ireland or Virginia, where AWS runs data centres. You pick one per service."
+        },
+        {
+          "q": "Why does the region matter?",
+          "options": [
+            "It does not",
+            "Because it affects speed for your users, price and which services are available",
+            "It changes the language",
+            "It hides services"
+          ],
+          "answer": 1,
+          "explain": "A region near your users is faster. Prices and available services also differ by region."
+        },
+        {
+          "q": "What is an Availability Zone?",
+          "options": [
+            "A kind of region",
+            "A separate data centre inside a region, so one failure does not take everything down",
+            "A price",
+            "A user"
+          ],
+          "answer": 1,
+          "explain": "Each region has several Availability Zones. Spreading across them keeps your app up when one fails."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "IAM: Users, Groups and Permissions",
+      "goal": "Understand IAM and why you should never use the root user daily.",
+      "video": {
+        "youtube_id": "lO5ZSNk-Ilg",
+        "title": "AWS Lambda Tutorial for Beginners: Python Function, Test Events, Logs",
+        "channel": "KGPTalkie"
+      },
+      "steps": [
+        "Learn what IAM is: it controls who can do what in your AWS account.",
+        "Create an IAM user for yourself with a password and MFA.",
+        "Put the user in a group and give the group a simple permission.",
+        "Log in as the IAM user and check what you can and cannot do."
+      ],
+      "task": "Create an IAM user for daily work and stop using the root user.",
+      "challenge": "Write down the difference between the root user and an IAM user.",
+      "quiz": [
+        {
+          "q": "What is IAM?",
+          "options": [
+            "A kind of server",
+            "Identity and Access Management: the service that controls who can do what in AWS",
+            "A database",
+            "A storage service"
+          ],
+          "answer": 1,
+          "explain": "IAM manages users, groups and permissions. It decides who can use which AWS service."
+        },
+        {
+          "q": "Why not use the root user every day?",
+          "options": [
+            "It is slower",
+            "Because root can do anything, including deleting the account, so a mistake or a leak is catastrophic",
+            "It costs money",
+            "It is hidden"
+          ],
+          "answer": 1,
+          "explain": "Root has unlimited power. Daily work should use an IAM user with only the permissions it needs."
+        },
+        {
+          "q": "What is the principle of least privilege?",
+          "options": [
+            "Give everyone full access",
+            "Give each user only the permissions they need, nothing more",
+            "Give no one access",
+            "Give access to friends"
+          ],
+          "answer": 1,
+          "explain": "Least privilege means giving the smallest set of permissions that still lets someone do their job."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "IAM Policies and Roles",
+      "goal": "Write simple policies and use roles to give permissions safely.",
+      "video": {
+        "youtube_id": "xtAqxZmnlHY",
+        "title": "Launch Your First AWS EC2 Instance: Key Pair, Security Group, SSH & Apache",
+        "channel": "bksdeoria"
+      },
+      "steps": [
+        "Read a simple JSON policy and identify what it allows.",
+        "Attach a managed policy like AmazonS3ReadOnlyAccess to your user.",
+        "Create a role that lets an EC2 server read from S3.",
+        "Test that your user can read S3 but cannot delete a bucket."
+      ],
+      "task": "Write a policy that allows listing S3 buckets but not deleting them.",
+      "challenge": "Explain in one sentence what a role is and when you would use one.",
+      "quiz": [
+        {
+          "q": "What is an IAM policy?",
+          "options": [
+            "A kind of server",
+            "A document that says what is allowed or denied, written in JSON",
+            "A password",
+            "A user"
+          ],
+          "answer": 1,
+          "explain": "A policy is a JSON document that lists what actions are allowed or denied on which resources."
+        },
+        {
+          "q": "What is an IAM role?",
+          "options": [
+            "A user",
+            "A set of permissions that a service or a person can take on temporarily",
+            "A password",
+            "A group"
+          ],
+          "answer": 1,
+          "explain": "A role is a bundle of permissions that AWS services or people assume when they need it, then give back."
+        },
+        {
+          "q": "Why use a role instead of a user's keys on a server?",
+          "options": [
+            "It is faster",
+            "Because roles give temporary permissions with no long-lived keys to steal",
+            "It is cheaper",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Roles give short-lived permissions. Storing a user's keys on a server is risky because keys can be stolen."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "S3: Your First Bucket",
+      "goal": "Create an S3 bucket and upload your first file.",
+      "video": {
+        "youtube_id": "SoLW3NKO5Ec",
+        "title": "AWS IAM Tutorial for Beginners | Users, Groups, Roles & Policies Explained",
+        "channel": "AWS with Jaymit"
+      },
+      "steps": [
+        "Open S3 in the console and create a bucket with a unique name.",
+        "Pick your region and leave the defaults on, including Block Public Access.",
+        "Upload a file to the bucket.",
+        "Download the file back and check it is the same."
+      ],
+      "task": "Create a bucket, upload three files and download one to check it works.",
+      "challenge": "Write down your bucket's name and region.",
+      "quiz": [
+        {
+          "q": "What is Amazon S3?",
+          "options": [
+            "A kind of server",
+            "Simple Storage Service: unlimited file storage in the cloud",
+            "A database",
+            "A kind of computer"
+          ],
+          "answer": 1,
+          "explain": "S3 stores files, called objects, in buckets. It is cheap, durable and can hold any amount of data."
+        },
+        {
+          "q": "What is a bucket?",
+          "options": [
+            "A kind of server",
+            "A container in S3 that holds your files, with a name that must be unique worldwide",
+            "A folder on your computer",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A bucket is a container for files in S3. Its name must be unique across all of AWS."
+        },
+        {
+          "q": "Why leave Block Public Access on?",
+          "options": [
+            "It is faster",
+            "So your files are private by default and cannot be seen by strangers",
+            "It saves money",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Block Public Access keeps your bucket private. You open only what you choose to share."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Static Website on S3",
+      "goal": "Host a simple website on S3 and share its link.",
+      "video": {
+        "youtube_id": "H89J90edFG0",
+        "title": "IAM Roles Explained: Why 'Switch Role' Fails (And How to Fix It) | AWS Hands-On #04",
+        "channel": "Light Cloud"
+      },
+      "steps": [
+        "Make a small website with an index.html file and a picture.",
+        "Upload the files to a bucket and turn on static website hosting.",
+        "Make the files public with a bucket policy that allows reading only.",
+        "Open the website link in your browser and share it with one person."
+      ],
+      "task": "Finish the S3 website and open it on your phone to check it loads.",
+      "challenge": "Add a second page and link it from the first.",
+      "quiz": [
+        {
+          "q": "What is static website hosting on S3?",
+          "options": [
+            "A kind of server",
+            "S3 serving your HTML files as a website, with no server to run",
+            "A database",
+            "A domain name"
+          ],
+          "answer": 1,
+          "explain": "S3 can serve a website made of plain HTML, CSS and images, with no server code needed."
+        },
+        {
+          "q": "Why use a bucket policy for a public website?",
+          "options": [
+            "It is faster",
+            "To allow the public to read the files while keeping the bucket itself safe",
+            "It saves money",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "A bucket policy opens read access to the files, so anyone can view the site, while write access stays private."
+        },
+        {
+          "q": "What is the difference between a static and a dynamic website?",
+          "options": [
+            "There is none",
+            "A static site shows the same files to everyone, a dynamic site builds pages per user",
+            "Static is faster always",
+            "Dynamic is cheaper"
+          ],
+          "answer": 1,
+          "explain": "Static sites serve fixed files. Dynamic sites run code to build pages for each visitor."
+        }
+      ],
+      "project": {
+        "title": "Static Website on S3",
+        "brief": "Build a small website with an index.html file and a picture, upload it to an S3 bucket with static website hosting on, make the files public with a read-only bucket policy, and share the live link.",
+        "checks": [
+          "An S3 bucket exists with a unique name.",
+          "Static website hosting is turned on.",
+          "The site has at least two pages linked together.",
+          "A bucket policy allows the public to read the files only.",
+          "The website loads in a browser on your phone.",
+          "Block Public Access is set correctly for the site to work."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "EC2: Your First Virtual Server",
+      "goal": "Launch your first EC2 server in the cloud.",
+      "video": {
+        "youtube_id": "C1xngudF_pI",
+        "title": "Build Your First AWS EC2 Server in under 15 Mins (Free Tier + $20 Credit!)",
+        "channel": "The Polymath Project"
+      },
+      "steps": [
+        "Open EC2 and click Launch Instance.",
+        "Pick Amazon Linux and a free tier instance type like t2.micro.",
+        "Create a key pair and download the .pem file somewhere safe.",
+        "Launch the instance and wait for it to show as running."
+      ],
+      "task": "Launch an EC2 instance and check it is running in the console.",
+      "challenge": "Write down your instance's public IP address.",
+      "quiz": [
+        {
+          "q": "What is Amazon EC2?",
+          "options": [
+            "A storage service",
+            "Elastic Compute Cloud: virtual servers you rent in the cloud",
+            "A database",
+            "A kind of website"
+          ],
+          "answer": 1,
+          "explain": "EC2 gives you virtual computers in the cloud. You pick the size, launch it and use it like a real server."
+        },
+        {
+          "q": "What is an instance type?",
+          "options": [
+            "A kind of file",
+            "The size of the server: how much CPU and memory it has",
+            "A price plan",
+            "A region"
+          ],
+          "answer": 1,
+          "explain": "An instance type sets the server's power. t2.micro is small and free tier eligible; bigger types cost more."
+        },
+        {
+          "q": "What is a key pair?",
+          "options": [
+            "A password",
+            "A pair of keys used to log into your server securely instead of a password",
+            "A kind of file",
+            "A username"
+          ],
+          "answer": 1,
+          "explain": "A key pair is a private key you keep and a public key AWS puts on the server. You log in with the private key."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Connecting to EC2 with SSH",
+      "goal": "Connect to your server with SSH and run commands on it.",
+      "video": {
+        "youtube_id": "ShrlSJ5S3yg",
+        "title": "AWS Lambda with EventBridge Service | Step-by-Step Tutorial",
+        "channel": "CodeOneDigest"
+      },
+      "steps": [
+        "Open a terminal and connect with ssh -i your-key.pem ec2-user@your-ip.",
+        "Run whoami and pwd to check you are on the server.",
+        "Update the server with sudo yum update.",
+        "Install a web server with sudo yum install httpd and start it."
+      ],
+      "task": "Connect to your server, install a web server and open your server's IP in a browser.",
+      "challenge": "Write down the commands you used.",
+      "quiz": [
+        {
+          "q": "What is SSH?",
+          "options": [
+            "A kind of website",
+            "Secure Shell: a way to log into a remote computer securely over the internet",
+            "A database",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "SSH lets you log into a server and run commands on it, with the connection encrypted."
+        },
+        {
+          "q": "Why use a key instead of a password for SSH?",
+          "options": [
+            "It is faster",
+            "Because a key is much harder to guess or steal than a password",
+            "It is cheaper",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Keys are long and random. Passwords can be guessed or brute forced; keys cannot be guessed."
+        },
+        {
+          "q": "What is a security group?",
+          "options": [
+            "A kind of user",
+            "A firewall for your EC2 instance that controls which traffic can reach it",
+            "A password",
+            "A folder"
+          ],
+          "answer": 1,
+          "explain": "A security group is a virtual firewall. It decides which ports and IPs can reach your server."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Security Groups and Firewalls",
+      "goal": "Control who can reach your server with security groups.",
+      "video": {
+        "youtube_id": "D527IL_BabE",
+        "title": "AWS S3 Storage Classes Tutorial | S3 Standard, Intelligent-Tiering, Glacier & Deep Archive",
+        "channel": "BluJay Technologies"
+      },
+      "steps": [
+        "Open your instance's security group in the console.",
+        "Allow SSH (port 22) only from your IP address.",
+        "Allow HTTP (port 80) from anywhere so people can see your website.",
+        "Test that your website loads in a browser."
+      ],
+      "task": "Lock down your security group so SSH only works from your IP.",
+      "challenge": "Explain in one sentence what a security group does.",
+      "quiz": [
+        {
+          "q": "What does a security group do?",
+          "options": [
+            "It stores files",
+            "It acts as a firewall, controlling which traffic can reach your EC2 instance",
+            "It backs up data",
+            "It encrypts data"
+          ],
+          "answer": 1,
+          "explain": "A security group is a virtual firewall for your instance. You set rules for which ports and IPs are allowed."
+        },
+        {
+          "q": "Why allow SSH only from your IP?",
+          "options": [
+            "It is faster",
+            "So attackers cannot even try to log in from anywhere else",
+            "It saves money",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Limiting SSH to your IP blocks login attempts from the rest of the internet."
+        },
+        {
+          "q": "What is port 80 for?",
+          "options": [
+            "SSH",
+            "HTTP web traffic",
+            "Email",
+            "File transfer"
+          ],
+          "answer": 1,
+          "explain": "Port 80 is the standard port for unencrypted web traffic. Port 443 is for HTTPS."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "S3 Storage Classes and Lifecycle",
+      "goal": "Save money by picking the right storage class for each file.",
+      "video": {
+        "youtube_id": "E5Xor3xa5-Y",
+        "title": "AWS for Beginners Full Course",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Learn the main S3 storage classes: Standard, Intelligent-Tiering, Glacier and Deep Archive.",
+        "Check the price difference between Standard and Glacier.",
+        "Set a lifecycle rule that moves old files to a cheaper class.",
+        "Set a rule that deletes files in a temporary folder after 30 days."
+      ],
+      "task": "Set a lifecycle rule on your bucket that moves files older than 90 days to Glacier.",
+      "challenge": "Write down which storage class you would pick for backups and why.",
+      "quiz": [
+        {
+          "q": "What is an S3 storage class?",
+          "options": [
+            "A kind of bucket",
+            "A tier that sets the price and how fast you can get your files back",
+            "A file type",
+            "A region"
+          ],
+          "answer": 1,
+          "explain": "Storage classes trade price against access speed. Standard is fast and pricier; Glacier is cheap and slow to retrieve."
+        },
+        {
+          "q": "What is S3 Intelligent-Tiering?",
+          "options": [
+            "A kind of bucket",
+            "A class that moves your files between tiers automatically based on how often you use them",
+            "A backup",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "Intelligent-Tiering watches how often you access each file and moves it to the cheapest tier that fits."
+        },
+        {
+          "q": "What is a lifecycle rule?",
+          "options": [
+            "A kind of policy",
+            "A rule that moves or deletes files automatically when they reach a certain age",
+            "A backup",
+            "A password"
+          ],
+          "answer": 1,
+          "explain": "Lifecycle rules automate storage: move old files to cheaper storage or delete temporary files after a set time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "CloudFront: Delivering Content Fast",
+      "goal": "Speed up your website with CloudFront, AWS's content delivery network.",
+      "video": {
+        "youtube_id": "7HKot-brXFE",
+        "title": "AWS Certified Cloud Practitioner Study Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Learn what a CDN does: it copies your files to servers near your users.",
+        "Create a CloudFront distribution for your S3 website.",
+        "Open your site through the CloudFront link and check it loads.",
+        "Compare the load time with the direct S3 link."
+      ],
+      "task": "Put your S3 website behind CloudFront and share the new link.",
+      "challenge": "Write down one benefit of using a CDN.",
+      "quiz": [
+        {
+          "q": "What is a CDN?",
+          "options": [
+            "A kind of database",
+            "A content delivery network: servers around the world that cache your files close to users",
+            "A backup",
+            "A firewall"
+          ],
+          "answer": 1,
+          "explain": "A CDN copies your files to edge servers near your users, so pages load fast no matter where they are."
+        },
+        {
+          "q": "What is CloudFront?",
+          "options": [
+            "A storage service",
+            "AWS's CDN service",
+            "A database",
+            "A kind of server"
+          ],
+          "answer": 1,
+          "explain": "CloudFront is AWS's content delivery network. It serves your content from the nearest edge location."
+        },
+        {
+          "q": "Why use a CDN for a website?",
+          "options": [
+            "It is cheaper always",
+            "So users far from your bucket still get fast load times",
+            "It hides the site",
+            "It backs up the site"
+          ],
+          "answer": 1,
+          "explain": "A CDN puts copies near users, so a visitor in another country does not wait for data to cross the world."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Databases on AWS: RDS",
+      "goal": "Run a managed database with Amazon RDS.",
+      "video": {
+        "youtube_id": "8-m7hqOqs9Y",
+        "title": "AWS Networking Full Course in 2 Hours (FREE)",
+        "channel": "Cloud X Berry"
+      },
+      "steps": [
+        "Learn what RDS is: a managed database service that handles backups and updates.",
+        "Create a free tier MySQL database with RDS.",
+        "Set a master username and password and keep them safe.",
+        "Connect to the database from your EC2 instance."
+      ],
+      "task": "Create an RDS MySQL database and connect to it from your computer.",
+      "challenge": "Write down the endpoint address of your database.",
+      "quiz": [
+        {
+          "q": "What is Amazon RDS?",
+          "options": [
+            "A storage service",
+            "Relational Database Service: managed databases in the cloud",
+            "A kind of server",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "RDS runs your database for you: it handles setup, backups, updates and scaling."
+        },
+        {
+          "q": "Why use a managed database?",
+          "options": [
+            "It is cheaper always",
+            "So you do not have to install, patch or back up the database yourself",
+            "It is faster always",
+            "It hides data"
+          ],
+          "answer": 1,
+          "explain": "A managed database removes the boring work: AWS handles backups, patches and hardware."
+        },
+        {
+          "q": "What is a database endpoint?",
+          "options": [
+            "A password",
+            "The address your app uses to connect to the database",
+            "A kind of table",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "The endpoint is the hostname and port your app connects to when it talks to the database."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Deploy a Website on EC2",
+      "goal": "Deploy a real website on an EC2 server with a database.",
+      "video": {
+        "youtube_id": "lO5ZSNk-Ilg",
+        "title": "AWS Lambda Tutorial for Beginners: Python Function, Test Events, Logs",
+        "channel": "KGPTalkie"
+      },
+      "steps": [
+        "Launch an EC2 instance and install a web server on it.",
+        "Upload your website files to the server.",
+        "Create an RDS database and connect your website to it.",
+        "Open the website in a browser and check it loads with data from the database."
+      ],
+      "task": "Finish the deployment and share the website link with one person.",
+      "challenge": "Write down the steps you took, in order.",
+      "quiz": [
+        {
+          "q": "What does deploying mean?",
+          "options": [
+            "Deleting a website",
+            "Putting your website on a server so others can visit it",
+            "Designing a website",
+            "Testing a website"
+          ],
+          "answer": 1,
+          "explain": "Deploying means moving your code onto a server and starting it, so the world can reach it."
+        },
+        {
+          "q": "Why use a separate database server?",
+          "options": [
+            "It is faster always",
+            "So the database can be backed up and scaled on its own, apart from the web server",
+            "It is cheaper always",
+            "It hides data"
+          ],
+          "answer": 1,
+          "explain": "Separating the database lets you back it up, scale it and protect it independently of the web server."
+        },
+        {
+          "q": "What should you check after deploying?",
+          "options": [
+            "Nothing",
+            "That the site loads, the data shows, and the server is secure",
+            "The colour only",
+            "The file size"
+          ],
+          "answer": 1,
+          "explain": "After deploying, check the site works, the data loads, and the security group only allows what it should."
+        }
+      ],
+      "project": {
+        "title": "Deploy a Website on EC2",
+        "brief": "Launch an EC2 instance, install a web server, upload your website files, create an RDS database and connect the website to it, then open the site in a browser and check it loads with data from the database.",
+        "checks": [
+          "An EC2 instance is running.",
+          "A web server is installed and serving your site.",
+          "An RDS database exists and the site connects to it.",
+          "The security group allows HTTP and SSH only from your IP.",
+          "The website loads in a browser with data from the database.",
+          "You can list the steps you took, in order."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Lambda: Serverless Functions",
+      "goal": "Run code without a server using AWS Lambda.",
+      "video": {
+        "youtube_id": "xtAqxZmnlHY",
+        "title": "Launch Your First AWS EC2 Instance: Key Pair, Security Group, SSH & Apache",
+        "channel": "bksdeoria"
+      },
+      "steps": [
+        "Learn what serverless means: you write code, AWS runs it when something happens.",
+        "Create a Lambda function in Python that returns 'Hello from Lambda'.",
+        "Test the function in the console.",
+        "Trigger it with a test event and read the logs."
+      ],
+      "task": "Create a Lambda function that greets you by name and test it.",
+      "challenge": "Write down one job Lambda is good for.",
+      "quiz": [
+        {
+          "q": "What is AWS Lambda?",
+          "options": [
+            "A kind of server",
+            "A service that runs your code when triggered, with no server to manage",
+            "A database",
+            "A storage service"
+          ],
+          "answer": 1,
+          "explain": "Lambda runs your code in response to events, like an upload or a schedule. You never manage a server."
+        },
+        {
+          "q": "What is serverless?",
+          "options": [
+            "No servers at all",
+            "You write code and the cloud provider runs it, without you managing servers",
+            "A kind of website",
+            "A free service"
+          ],
+          "answer": 1,
+          "explain": "Serverless means no server for you to run. The provider handles the machines and scales your code automatically."
+        },
+        {
+          "q": "What triggers a Lambda function?",
+          "options": [
+            "Only a schedule",
+            "Events like a file upload, a schedule, or an HTTP request",
+            "Only a button",
+            "Only a database"
+          ],
+          "answer": 1,
+          "explain": "Lambda runs when something happens: a file is uploaded, a timer fires, or a request arrives."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "EventBridge and Automation",
+      "goal": "Automate jobs with EventBridge schedules and events.",
+      "video": {
+        "youtube_id": "SoLW3NKO5Ec",
+        "title": "AWS IAM Tutorial for Beginners | Users, Groups, Roles & Policies Explained",
+        "channel": "AWS with Jaymit"
+      },
+      "steps": [
+        "Create an EventBridge rule that runs your Lambda function every hour.",
+        "Check the logs to confirm it ran.",
+        "Make a rule that triggers when a file is uploaded to S3.",
+        "Turn the rule off when you are done."
+      ],
+      "task": "Set up a scheduled Lambda that runs once a day and writes a log message.",
+      "challenge": "Write down two jobs you would automate with a schedule.",
+      "quiz": [
+        {
+          "q": "What is EventBridge?",
+          "options": [
+            "A database",
+            "AWS's service for schedules and events that trigger other services",
+            "A kind of server",
+            "A storage service"
+          ],
+          "answer": 1,
+          "explain": "EventBridge routes events and runs schedules. It connects services so one thing can trigger another."
+        },
+        {
+          "q": "Why schedule a Lambda function?",
+          "options": [
+            "It is faster",
+            "To run regular jobs, like a daily report or cleanup, without a server running all the time",
+            "It is cheaper always",
+            "It hides data"
+          ],
+          "answer": 1,
+          "explain": "A scheduled Lambda runs a job on time, then stops. You pay only for the seconds it runs."
+        },
+        {
+          "q": "What is an event-driven design?",
+          "options": [
+            "A kind of website",
+            "A design where things happen in response to events, not on a fixed schedule",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "Event-driven means work happens when something changes, like a file upload, instead of polling all the time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "VPC and Networking Basics",
+      "goal": "Understand how AWS networking works with VPCs.",
+      "video": {
+        "youtube_id": "H89J90edFG0",
+        "title": "IAM Roles Explained: Why 'Switch Role' Fails (And How to Fix It) | AWS Hands-On #04",
+        "channel": "Light Cloud"
+      },
+      "steps": [
+        "Learn what a VPC is: your own private network inside AWS.",
+        "Learn what subnets are: smaller networks inside a VPC.",
+        "Create a VPC with a public subnet and a private subnet.",
+        "Put your web server in the public subnet and your database in the private one."
+      ],
+      "task": "Draw a simple diagram of your VPC with public and private subnets.",
+      "challenge": "Explain in one sentence why the database goes in the private subnet.",
+      "quiz": [
+        {
+          "q": "What is a VPC?",
+          "options": [
+            "A kind of server",
+            "Virtual Private Cloud: your own isolated network inside AWS",
+            "A database",
+            "A storage service"
+          ],
+          "answer": 1,
+          "explain": "A VPC is your private network in AWS. You control its addresses, subnets and who can reach it."
+        },
+        {
+          "q": "What is a subnet?",
+          "options": [
+            "A kind of server",
+            "A smaller network inside a VPC, like a public or private section",
+            "A database",
+            "A password"
+          ],
+          "answer": 1,
+          "explain": "A subnet is a slice of your VPC. Public subnets can reach the internet; private ones cannot."
+        },
+        {
+          "q": "Why put the database in a private subnet?",
+          "options": [
+            "It is faster",
+            "So the internet cannot reach it directly. Only your app server can",
+            "It is cheaper",
+            "It hides the data"
+          ],
+          "answer": 1,
+          "explain": "A database in a private subnet has no public address, so attackers on the internet cannot connect to it directly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Monitoring with CloudWatch",
+      "goal": "Watch your services and get alerted when something goes wrong.",
+      "video": {
+        "youtube_id": "C1xngudF_pI",
+        "title": "Build Your First AWS EC2 Server in under 15 Mins (Free Tier + $20 Credit!)",
+        "channel": "The Polymath Project"
+      },
+      "steps": [
+        "Open CloudWatch and look at the CPU graph for your EC2 instance.",
+        "Create an alarm that warns you when CPU goes above 80%.",
+        "Read the logs from your Lambda function in CloudWatch Logs.",
+        "Set up an alarm that emails you when something breaks."
+      ],
+      "task": "Create a CloudWatch alarm for high CPU on your instance.",
+      "challenge": "Find one error in your Lambda logs and write down what it says.",
+      "quiz": [
+        {
+          "q": "What is CloudWatch?",
+          "options": [
+            "A kind of server",
+            "AWS's monitoring service: metrics, logs and alarms",
+            "A database",
+            "A storage service"
+          ],
+          "answer": 1,
+          "explain": "CloudWatch collects numbers and logs from your services and can warn you when something is wrong."
+        },
+        {
+          "q": "What is a metric?",
+          "options": [
+            "A kind of log",
+            "A number that shows how a service is doing, like CPU use or requests per minute",
+            "A kind of alarm",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A metric is a measurement over time, like CPU percent or how many requests your site got."
+        },
+        {
+          "q": "What is an alarm?",
+          "options": [
+            "A kind of log",
+            "A rule that sends a message when a metric crosses a limit you set",
+            "A kind of server",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "An alarm watches a metric and notifies you, by email or message, when it goes over your limit."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Costs and Billing",
+      "goal": "Understand what AWS costs and how to keep the bill low.",
+      "video": {
+        "youtube_id": "ShrlSJ5S3yg",
+        "title": "AWS Lambda with EventBridge Service | Step-by-Step Tutorial",
+        "channel": "CodeOneDigest"
+      },
+      "steps": [
+        "Open the Billing dashboard and see what you have used.",
+        "Learn the three main costs: compute (EC2), storage (S3) and data transfer.",
+        "Find the Cost Explorer and see which service costs the most.",
+        "Stop or delete anything you are not using."
+      ],
+      "task": "Check your bill, find your most expensive service, and stop anything you do not need.",
+      "challenge": "Write down three ways to keep an AWS bill low.",
+      "quiz": [
+        {
+          "q": "What costs the most in AWS for beginners?",
+          "options": [
+            "S3 storage",
+            "Usually EC2 servers left running, and data leaving AWS",
+            "IAM users",
+            "CloudWatch alarms"
+          ],
+          "answer": 1,
+          "explain": "Servers left running and data transfer out are the usual surprise costs. Storage is usually cheap."
+        },
+        {
+          "q": "What is Cost Explorer?",
+          "options": [
+            "A kind of server",
+            "A tool that shows what you spent, on which service, over time",
+            "A database",
+            "A billing alert"
+          ],
+          "answer": 1,
+          "explain": "Cost Explorer breaks down your spending by service and time, so you can see where the money goes."
+        },
+        {
+          "q": "How do you keep an AWS bill low?",
+          "options": [
+            "Never use AWS",
+            "Stop unused servers, use the right size, and set budget alerts",
+            "Delete your account",
+            "Use only S3"
+          ],
+          "answer": 1,
+          "explain": "Turn off what you do not use, pick the smallest size that works, and set alerts so surprises are caught early."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "API Gateway: Let the World Call Your Lambda",
+      "goal": "Put a public web address in front of your Lambda function with API Gateway.",
+      "video": {
+        "youtube_id": "D527IL_BabE",
+        "title": "AWS S3 Storage Classes Tutorial | S3 Standard, Intelligent-Tiering, Glacier & Deep Archive",
+        "channel": "BluJay Technologies"
+      },
+      "steps": [
+        "Learn what API Gateway does: it gives your function a URL anyone can call.",
+        "Create a REST API and connect it to your Lambda function.",
+        "Deploy the API and call its URL in a browser.",
+        "Check the response and read the logs."
+      ],
+      "task": "Create an API for your Lambda function and call it from your browser.",
+      "challenge": "Add a second route that returns a different message.",
+      "quiz": [
+        {
+          "q": "What is API Gateway?",
+          "options": [
+            "A database",
+            "AWS's service that gives your code a public web address and handles requests for it",
+            "A kind of server",
+            "A storage service"
+          ],
+          "answer": 1,
+          "explain": "API Gateway is the front door for your APIs. It takes web requests and passes them to your Lambda functions."
+        },
+        {
+          "q": "Why put API Gateway in front of Lambda?",
+          "options": [
+            "It is faster",
+            "So your function has a stable public URL and you can control who calls it",
+            "It is cheaper",
+            "It hides the function"
+          ],
+          "answer": 1,
+          "explain": "Lambda alone has no public address. API Gateway gives it one and adds controls like limits and keys."
+        },
+        {
+          "q": "What is a route in API Gateway?",
+          "options": [
+            "A kind of server",
+            "A URL path and method, like GET /hello, that maps to a function",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A route is a path plus a method. Each route points to the code that should answer it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Serverless App",
+      "goal": "Build a serverless app with S3, Lambda and an API.",
+      "video": {
+        "youtube_id": "E5Xor3xa5-Y",
+        "title": "AWS for Beginners Full Course",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Make a simple web page hosted on S3.",
+        "Create a Lambda function that returns data as JSON.",
+        "Connect the page to the function so it shows live data.",
+        "Test the whole flow in a browser and check the logs."
+      ],
+      "task": "Finish the serverless app and share the link with one person.",
+      "challenge": "Write down the three services you used and what each one does.",
+      "quiz": [
+        {
+          "q": "What makes an app serverless?",
+          "options": [
+            "It has no servers at all",
+            "It runs on services like S3 and Lambda, with no server for you to manage",
+            "It is free",
+            "It has no database"
+          ],
+          "answer": 1,
+          "explain": "A serverless app uses managed services for everything, so there is no server for you to run or patch."
+        },
+        {
+          "q": "Why is serverless good for small apps?",
+          "options": [
+            "It is always free",
+            "Because you pay only when it runs, and it scales by itself",
+            "It is faster always",
+            "It needs no code"
+          ],
+          "answer": 1,
+          "explain": "Serverless scales automatically and you pay per use, which fits apps with uneven traffic."
+        },
+        {
+          "q": "What should you check after building a serverless app?",
+          "options": [
+            "Nothing",
+            "That the page loads, the function runs, and the logs show no errors",
+            "The colour only",
+            "The file size"
+          ],
+          "answer": 1,
+          "explain": "Check the full flow: the page, the function and the logs, so you know every part works."
+        }
+      ],
+      "project": {
+        "title": "Serverless App",
+        "brief": "Build a serverless app: a web page hosted on S3, a Lambda function that returns data as JSON, and a connection between them so the page shows live data. Test the whole flow in a browser and check the logs.",
+        "checks": [
+          "A web page is hosted on S3.",
+          "A Lambda function returns data as JSON.",
+          "The page calls the function and shows live data.",
+          "The whole flow works in a browser.",
+          "CloudWatch logs show the function ran without errors.",
+          "You can name the three services used and what each does."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Security Best Practices on AWS",
+      "goal": "Apply the security habits that keep an AWS account safe.",
+      "video": {
+        "youtube_id": "7HKot-brXFE",
+        "title": "AWS Certified Cloud Practitioner Study Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Turn on MFA for the root user and for all IAM users.",
+        "Use roles instead of long-lived access keys where you can.",
+        "Enable CloudTrail so every action in your account is logged.",
+        "Review your security groups and close any port you do not need."
+      ],
+      "task": "Do a security check on your account and fix the top three issues.",
+      "challenge": "Write down your security rules for any future AWS account.",
+      "quiz": [
+        {
+          "q": "What is CloudTrail?",
+          "options": [
+            "A kind of server",
+            "A service that logs every action taken in your AWS account",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "CloudTrail records who did what and when in your account, which is vital for investigating problems."
+        },
+        {
+          "q": "Why use access keys carefully?",
+          "options": [
+            "They are slow",
+            "Because a leaked key lets anyone act as that user until it is deleted",
+            "They cost money",
+            "They expire daily"
+          ],
+          "answer": 1,
+          "explain": "Access keys are like passwords for programs. If one leaks, anyone can use it until you delete it."
+        },
+        {
+          "q": "What is the shared responsibility model?",
+          "options": [
+            "AWS does everything",
+            "AWS secures the cloud itself, and you secure what you put in it",
+            "You do everything",
+            "Nobody is responsible"
+          ],
+          "answer": 1,
+          "explain": "AWS secures the data centres and the services. You secure your data, your users and your settings."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Deploying with the AWS CLI",
+      "goal": "Use the command line to work with AWS faster.",
+      "video": {
+        "youtube_id": "8-m7hqOqs9Y",
+        "title": "AWS Networking Full Course in 2 Hours (FREE)",
+        "channel": "Cloud X Berry"
+      },
+      "steps": [
+        "Install the AWS CLI on your computer.",
+        "Configure it with your IAM user's access key.",
+        "List your S3 buckets with aws s3 ls.",
+        "Upload a file to S3 from the terminal."
+      ],
+      "task": "Upload your website to S3 using only the AWS CLI.",
+      "challenge": "Write down the three commands you used most.",
+      "quiz": [
+        {
+          "q": "What is the AWS CLI?",
+          "options": [
+            "A kind of server",
+            "A command-line tool that lets you control AWS from your terminal",
+            "A database",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "The AWS CLI lets you run AWS actions from the terminal, which is faster for repeated jobs and scripts."
+        },
+        {
+          "q": "Why use the CLI instead of the console?",
+          "options": [
+            "It is prettier",
+            "Because commands can be repeated, scripted and automated",
+            "It is faster always",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "The console is good for learning. The CLI is good for doing the same job many times or in a script."
+        },
+        {
+          "q": "What is aws configure?",
+          "options": [
+            "A kind of server",
+            "The command that sets up your access key, region and output format for the CLI",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "aws configure stores your credentials and default region so the CLI knows which account to talk to."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Introduction to Terraform",
+      "goal": "Describe your infrastructure as code with Terraform.",
+      "video": {
+        "youtube_id": "lO5ZSNk-Ilg",
+        "title": "AWS Lambda Tutorial for Beginners: Python Function, Test Events, Logs",
+        "channel": "KGPTalkie"
+      },
+      "steps": [
+        "Learn what infrastructure as code means: your servers and buckets written in files.",
+        "Install Terraform on your computer.",
+        "Write a small Terraform file that creates an S3 bucket.",
+        "Run terraform apply and check the bucket appears in the console."
+      ],
+      "task": "Write a Terraform file that creates an S3 bucket and an EC2 instance.",
+      "challenge": "Destroy the resources with terraform destroy and check they are gone.",
+      "quiz": [
+        {
+          "q": "What is infrastructure as code?",
+          "options": [
+            "A kind of code",
+            "Writing your servers, networks and buckets as files you can version and repeat",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "Infrastructure as code means your cloud setup lives in files. You can review it, version it and recreate it exactly."
+        },
+        {
+          "q": "What does terraform apply do?",
+          "options": [
+            "It deletes everything",
+            "It creates or updates the resources described in your Terraform files",
+            "It checks your code",
+            "It backs up data"
+          ],
+          "answer": 1,
+          "explain": "terraform apply reads your files and makes the real cloud match them."
+        },
+        {
+          "q": "Why destroy resources after testing?",
+          "options": [
+            "To hide them",
+            "So you stop paying for things you no longer need",
+            "To make it faster",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "Cloud resources cost money while they exist. Destroying test resources stops the bill."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Containers on AWS: ECS Basics",
+      "goal": "Run a containerised app on AWS with ECS.",
+      "video": {
+        "youtube_id": "xtAqxZmnlHY",
+        "title": "Launch Your First AWS EC2 Instance: Key Pair, Security Group, SSH & Apache",
+        "channel": "bksdeoria"
+      },
+      "steps": [
+        "Learn what a container is: a small package with your app and everything it needs.",
+        "Build a Docker image of a simple web app on your computer.",
+        "Push the image to Amazon ECR.",
+        "Run it on ECS Fargate and open it in a browser."
+      ],
+      "task": "Run a simple container on ECS Fargate and open it in a browser.",
+      "challenge": "Write down the difference between ECS and running a server yourself.",
+      "quiz": [
+        {
+          "q": "What is a container?",
+          "options": [
+            "A kind of server",
+            "A package that holds your app and its dependencies so it runs the same everywhere",
+            "A database",
+            "A storage bucket"
+          ],
+          "answer": 1,
+          "explain": "A container bundles your app with everything it needs, so it runs the same on your laptop and in the cloud."
+        },
+        {
+          "q": "What is Amazon ECR?",
+          "options": [
+            "A kind of server",
+            "Elastic Container Registry: a place to store your Docker images",
+            "A database",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "ECR stores your container images privately so AWS services can pull and run them."
+        },
+        {
+          "q": "What is ECS Fargate?",
+          "options": [
+            "A kind of server",
+            "A way to run containers on AWS without managing any servers",
+            "A database",
+            "A storage service"
+          ],
+          "answer": 1,
+          "explain": "Fargate runs your containers for you. You do not pick or manage the machines underneath."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "DynamoDB: NoSQL Database Basics",
+      "goal": "Store data in DynamoDB, AWS's NoSQL database.",
+      "video": {
+        "youtube_id": "SoLW3NKO5Ec",
+        "title": "AWS IAM Tutorial for Beginners | Users, Groups, Roles & Policies Explained",
+        "channel": "AWS with Jaymit"
+      },
+      "steps": [
+        "Learn the difference between a relational database and a NoSQL database.",
+        "Create a DynamoDB table with a partition key.",
+        "Add an item to the table in the console.",
+        "Read the item back and update one of its fields."
+      ],
+      "task": "Create a DynamoDB table for your app's data and add five items to it.",
+      "challenge": "Query the table for one item by its key.",
+      "quiz": [
+        {
+          "q": "What is DynamoDB?",
+          "options": [
+            "A kind of server",
+            "AWS's fast NoSQL database that stores items as documents",
+            "A storage service",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "DynamoDB is a NoSQL database. It stores items without a fixed schema and scales to huge amounts of data."
+        },
+        {
+          "q": "What is the difference between SQL and NoSQL?",
+          "options": [
+            "There is none",
+            "SQL databases use tables with fixed columns, NoSQL stores flexible items without a fixed schema",
+            "NoSQL is faster always",
+            "SQL is for small data only"
+          ],
+          "answer": 1,
+          "explain": "SQL uses strict tables. NoSQL stores items that can have different fields, which fits fast-changing data."
+        },
+        {
+          "q": "What is a partition key?",
+          "options": [
+            "A password",
+            "The field DynamoDB uses to find and spread your items",
+            "A kind of table",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "The partition key is how DynamoDB locates an item. Pick a key that spreads your data evenly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Route 53 and Custom Domains",
+      "goal": "Give your app a real domain name with Route 53.",
+      "video": {
+        "youtube_id": "H89J90edFG0",
+        "title": "IAM Roles Explained: Why 'Switch Role' Fails (And How to Fix It) | AWS Hands-On #04",
+        "channel": "Light Cloud"
+      },
+      "steps": [
+        "Learn what DNS does: it turns a name like example.com into an address.",
+        "Register a domain name in Route 53 or point one you own to AWS.",
+        "Create a record that points your domain to your CloudFront site.",
+        "Open your site with your own domain name in a browser."
+      ],
+      "task": "Point a domain name at your S3 website and open it with the new name.",
+      "challenge": "Write down the difference between an A record and a CNAME record.",
+      "quiz": [
+        {
+          "q": "What is Route 53?",
+          "options": [
+            "A kind of server",
+            "AWS's DNS service: it turns domain names into addresses",
+            "A database",
+            "A storage service"
+          ],
+          "answer": 1,
+          "explain": "Route 53 is AWS's domain name service. It routes visitors to your app when they type your domain."
+        },
+        {
+          "q": "What is a DNS record?",
+          "options": [
+            "A kind of file",
+            "An entry that says where a name points, like which server an address belongs to",
+            "A password",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A DNS record maps a name to an address. An A record points to an IP, a CNAME points to another name."
+        },
+        {
+          "q": "Why use your own domain name?",
+          "options": [
+            "It is faster",
+            "Because it looks professional and people can remember it",
+            "It is cheaper",
+            "It hides the site"
+          ],
+          "answer": 1,
+          "explain": "A real domain name is easy to remember and looks trustworthy, unlike a long cloud address."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "AWS Well-Architected Framework",
+      "goal": "Check your cloud setup against AWS's six pillars of good design.",
+      "video": {
+        "youtube_id": "C1xngudF_pI",
+        "title": "Build Your First AWS EC2 Server in under 15 Mins (Free Tier + $20 Credit!)",
+        "channel": "The Polymath Project"
+      },
+      "steps": [
+        "Learn the six pillars: operational excellence, security, reliability, performance, cost and sustainability.",
+        "Check your project against the security pillar: MFA, least privilege, encryption.",
+        "Check it against the reliability pillar: backups, multiple zones, alarms.",
+        "Write down one improvement for each pillar."
+      ],
+      "task": "Run a Well-Architected check on your capstone project and list six improvements.",
+      "challenge": "Fix the easiest improvement on your list.",
+      "quiz": [
+        {
+          "q": "What is the Well-Architected Framework?",
+          "options": [
+            "A kind of server",
+            "AWS's guide to building good cloud systems, organised into six pillars",
+            "A certification",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "The framework is a checklist for cloud design. Each pillar covers one quality: security, reliability, cost and more."
+        },
+        {
+          "q": "Why check reliability?",
+          "options": [
+            "It is faster",
+            "So your app keeps working when a server or a data centre fails",
+            "It is cheaper",
+            "It hides problems"
+          ],
+          "answer": 1,
+          "explain": "Reliability means your app survives failures: backups, multiple zones and alarms keep it up."
+        },
+        {
+          "q": "What does the cost pillar ask?",
+          "options": [
+            "Spend as little as possible",
+            "Use only what you need, pick the right size, and turn off what you do not use",
+            "Never use the cloud",
+            "Always use the biggest server"
+          ],
+          "answer": 1,
+          "explain": "The cost pillar is about using the right resources and no more, so you never pay for idle capacity."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "The AWS Certified Cloud Practitioner Exam",
+      "goal": "Prepare for the AWS Cloud Practitioner exam.",
+      "video": {
+        "youtube_id": "ShrlSJ5S3yg",
+        "title": "AWS Lambda with EventBridge Service | Step-by-Step Tutorial",
+        "channel": "CodeOneDigest"
+      },
+      "steps": [
+        "List the four exam domains and what each covers.",
+        "Rate yourself on each domain from 1 to 5.",
+        "Study your weakest domain for one hour.",
+        "Do twenty practice questions and check your answers."
+      ],
+      "task": "Write your exam study plan with a date for each domain.",
+      "challenge": "Do a full practice test and note your score.",
+      "quiz": [
+        {
+          "q": "What is the Cloud Practitioner exam?",
+          "options": [
+            "A kind of job",
+            "AWS's entry-level certification that tests cloud concepts and AWS basics",
+            "A programming test",
+            "A kind of server"
+          ],
+          "answer": 1,
+          "explain": "Cloud Practitioner is the first AWS certification. It tests cloud ideas, AWS services, security and billing."
+        },
+        {
+          "q": "Why rate yourself per domain?",
+          "options": [
+            "To show off",
+            "So you spend study time on your weakest areas, not your strongest",
+            "To waste time",
+            "To hide gaps"
+          ],
+          "answer": 1,
+          "explain": "Rating yourself shows where to focus. Studying what you already know wastes time."
+        },
+        {
+          "q": "How should you use practice questions?",
+          "options": [
+            "Memorise the answers",
+            "Do them, check why each answer is right or wrong, and learn the idea behind it",
+            "Skip the hard ones",
+            "Copy them"
+          ],
+          "answer": 1,
+          "explain": "Practice questions teach you the ideas. Understanding why an answer is right matters more than the score."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Cloud Project",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "D527IL_BabE",
+        "title": "AWS S3 Storage Classes Tutorial | S3 Standard, Intelligent-Tiering, Glacier & Deep Archive",
+        "channel": "BluJay Technologies"
+      },
+      "steps": [
+        "List the projects you built and pick the strongest one to finish.",
+        "Write a short plan: the problem, the services, the architecture and the demo.",
+        "Draw a simple diagram of your architecture.",
+        "Practise explaining your project in simple words, as if to a friend."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your project.",
+      "challenge": "Show your architecture diagram to one person and note their questions.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone cloud project?",
+          "options": [
+            "Many services",
+            "A real problem solved with the right services, a clear diagram and a working demo",
+            "Loud colours",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A good capstone solves a real problem with services that fit, a clear diagram and a demo that works."
+        },
+        {
+          "q": "Why draw an architecture diagram?",
+          "options": [
+            "To look pretty",
+            "So anyone can see how the services connect at a glance",
+            "To waste time",
+            "To hide problems"
+          ],
+          "answer": 1,
+          "explain": "A diagram shows the whole system in one picture: which services, how they connect, and where data flows."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the code",
+            "The problem, the services, the architecture and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the problem, the services you will use, how they fit together and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Build and Deploy a Complete Cloud App",
+    "brief": "Build a complete cloud application on AWS: a website hosted on S3 and CloudFront, a backend on EC2 or Lambda, a database on RDS, and monitoring with CloudWatch. Draw an architecture diagram, keep the bill near zero with the Free Tier, and present a live demo.",
+    "checks": [
+      "The app solves a real problem and you can explain the problem in one sentence.",
+      "The frontend is hosted on S3 with CloudFront.",
+      "The backend runs on EC2 or Lambda.",
+      "Data is stored in RDS or DynamoDB.",
+      "CloudWatch monitors the app and an alarm exists.",
+      "An architecture diagram shows how the services connect.",
+      "You can present a live demo and explain how it works in simple words."
+    ],
+    "deliverables": [
+      "A working cloud app with a live link.",
+      "An architecture diagram of the services used.",
+      "A README.md explaining the problem, the services and how to run it.",
+      "A short demo video or screenshots showing the app running.",
+      "A one-page write-up of what you learned in 30 days."
+    ]
+  }
+}

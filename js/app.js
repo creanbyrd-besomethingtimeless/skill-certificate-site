@@ -144,10 +144,24 @@
     });
   }
 
+  /* Mobile nav: the hamburger button opens and closes the menu so the
+   * links never wrap into a mess on small screens. */
+  function wireNavToggle() {
+    document.querySelectorAll(".nav-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var header = btn.closest(".site-header");
+        if (!header) return;
+        var open = header.classList.toggle("nav-open");
+        btn.setAttribute("aria-expanded", open ? "true" : "false");
+      });
+    });
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     if (!isConfigured()) showSetupNotice();
     currentYear();
     wireSignOut();
+    wireNavToggle();
     updateNav();
   });
 

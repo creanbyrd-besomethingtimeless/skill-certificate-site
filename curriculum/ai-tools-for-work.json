@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "ai-tools-for-work",
+    "title": "AI Tools for Work",
+    "level": "Beginner",
+    "tagline": "Use ChatGPT and other AI tools to write, plan, design and work faster every day.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What AI Is and What It Can Do for You",
+      "goal": "Understand what AI tools are and what they can help you do at work.",
+      "video": {
+        "youtube_id": "ZJMAAyB7Ya0",
+        "title": "ChatGPT for Complete Beginners — Set Up + Your First 5 Prompts",
+        "channel": "Simply AI Skills"
+      },
+      "steps": [
+        "Write down five tasks you do every week: emails, notes, plans, research, designs.",
+        "Learn what a large language model is: an AI trained on text that can write, explain and plan.",
+        "Learn what AI cannot do: it cannot know your private facts, and it can make mistakes.",
+        "Pick one task from your list to try with AI this week."
+      ],
+      "task": "Write a short note: what AI is, in your own words, and one task you will try it on.",
+      "challenge": "Ask a friend what AI tool they use and what they use it for.",
+      "quiz": [
+        {
+          "q": "What is an AI chatbot?",
+          "options": [
+            "A kind of search engine",
+            "A program you talk to in plain words that writes, explains and plans for you",
+            "A robot",
+            "A kind of app store"
+          ],
+          "answer": 1,
+          "explain": "An AI chatbot is a program you chat with. You describe what you need, and it writes, explains or plans it."
+        },
+        {
+          "q": "What can AI help you with at work?",
+          "options": [
+            "Everything",
+            "Writing, planning, summarising, brainstorming and learning, faster than doing it alone",
+            "Nothing",
+            "Only coding"
+          ],
+          "answer": 1,
+          "explain": "AI is good at drafting, summarising, planning and brainstorming. It speeds up work that starts with words."
+        },
+        {
+          "q": "What should you never trust AI with?",
+          "options": [
+            "Writing emails",
+            "Facts you have not checked, private data, or decisions that need a human",
+            "Planning",
+            "Summaries"
+          ],
+          "answer": 1,
+          "explain": "AI can make up facts and it remembers what you paste. Check its work and never share secrets."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Setting Up ChatGPT",
+      "goal": "Create your ChatGPT account and write your first prompts.",
+      "video": {
+        "youtube_id": "J8Ikk0FGXok",
+        "title": "ChatGPT Hacks for Beginners (With Prompts + Examples)",
+        "channel": "First Movers AI"
+      },
+      "steps": [
+        "Go to chat.openai.com and create a free account.",
+        "Start a new chat and ask: 'Explain what a budget is in simple words.'",
+        "Ask it to write a short email to a client about a delayed delivery.",
+        "Save the chat and give it a clear name."
+      ],
+      "task": "Set up ChatGPT and use it to write one real email you need to send this week.",
+      "challenge": "Ask it to explain one work topic you find confusing.",
+      "quiz": [
+        {
+          "q": "What is a prompt?",
+          "options": [
+            "A kind of password",
+            "The message you type to an AI to tell it what you want",
+            "A setting",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A prompt is your instruction to the AI. Clear prompts get better answers."
+        },
+        {
+          "q": "Do you need to pay for ChatGPT?",
+          "options": [
+            "Yes",
+            "No, there is a free version that is enough to start with",
+            "Only for emails",
+            "Only for images"
+          ],
+          "answer": 1,
+          "explain": "ChatGPT has a free plan. It is enough to learn with and to do real work."
+        },
+        {
+          "q": "What should you do with a good answer?",
+          "options": [
+            "Delete it",
+            "Save the chat so you can find it again",
+            "Share it publicly",
+            "Ignore it"
+          ],
+          "answer": 1,
+          "explain": "Save useful chats with clear names so you can reuse them later."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Writing Good Prompts",
+      "goal": "Write prompts that get clear, useful answers from AI.",
+      "video": {
+        "youtube_id": "CBbuS1DaqTI",
+        "title": "ChatGPT AI Full Course (How to Use ChatGPT Like a PRO)",
+        "channel": "Code Innings by WsCube Tech"
+      },
+      "steps": [
+        "Learn the four parts of a good prompt: task, context, format and tone.",
+        "Write a vague prompt and a clear prompt for the same job, and compare the answers.",
+        "Add context to a prompt: who the reader is and what the goal is.",
+        "Ask the AI to give its answer as a list, a table or a short paragraph."
+      ],
+      "task": "Rewrite three of your prompts using task, context, format and tone.",
+      "challenge": "Ask the AI to explain the same topic for a beginner and for an expert, and compare.",
+      "quiz": [
+        {
+          "q": "What makes a prompt good?",
+          "options": [
+            "It is long",
+            "It is clear: it says what to do, for whom, in what format and in what tone",
+            "It is short",
+            "It has no details"
+          ],
+          "answer": 1,
+          "explain": "A good prompt gives the AI enough to work with: the task, the context, the format and the tone."
+        },
+        {
+          "q": "Why add context to a prompt?",
+          "options": [
+            "It is fun",
+            "Because the AI gives better answers when it knows who the reader is and what the goal is",
+            "It is required",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Context shapes the answer. 'Write for a busy manager' gives a very different result from 'Write for a child'."
+        },
+        {
+          "q": "What should you do when the answer is wrong?",
+          "options": [
+            "Give up",
+            "Correct the AI, add detail and ask again",
+            "Delete the chat",
+            "Accept it"
+          ],
+          "answer": 1,
+          "explain": "AI improves with feedback. Point out the mistake and ask again with more detail."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Writing Emails with AI",
+      "goal": "Draft professional emails fast with AI, then make them yours.",
+      "video": {
+        "youtube_id": "poM2n8fBcag",
+        "title": "ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI",
+        "channel": "Kevin Stratvert"
+      },
+      "steps": [
+        "Ask the AI to draft an email asking a client for a meeting.",
+        "Edit the draft: fix the tone, add your details, remove anything that sounds wrong.",
+        "Ask the AI to shorten a long email to three sentences.",
+        "Ask the AI to write a polite follow-up for a client who has not replied."
+      ],
+      "task": "Draft and send one real work email with AI's help today.",
+      "challenge": "Write a follow-up email for a client who has not replied in a week.",
+      "quiz": [
+        {
+          "q": "Should you send an AI email without reading it?",
+          "options": [
+            "Yes, always",
+            "No, always read and edit it first so it sounds like you and is correct",
+            "Only short ones",
+            "Only to friends"
+          ],
+          "answer": 1,
+          "explain": "AI drafts can contain errors or the wrong tone. Always read, edit and make it yours before sending."
+        },
+        {
+          "q": "How can AI help with emails?",
+          "options": [
+            "It sends them for you",
+            "It drafts, shortens, polishes and suggests replies, so you write faster",
+            "It reads your inbox",
+            "It deletes spam"
+          ],
+          "answer": 1,
+          "explain": "AI drafts emails, shortens long ones, fixes tone and suggests replies, which saves time."
+        },
+        {
+          "q": "What makes an email professional?",
+          "options": [
+            "Long words",
+            "A clear subject, a polite greeting, short sentences and a clear next step",
+            "Many exclamation marks",
+            "A long signature"
+          ],
+          "answer": 1,
+          "explain": "A professional email is clear and short: a good subject, a polite start, and one clear action for the reader."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Planning Your Week with AI",
+      "goal": "Plan your work, projects and days with AI as your assistant.",
+      "video": {
+        "youtube_id": "WHCQo1C24Nc",
+        "title": "10 Best AI Tools 2026 That Actually Save You 5 Hours Every Week",
+        "channel": "ExplainIt Science"
+      },
+      "steps": [
+        "List everything you must do this week.",
+        "Ask the AI to turn the list into a day-by-day plan.",
+        "Ask it to break a big task into five small steps.",
+        "Ask it to spot what you forgot: what usually goes wrong with a plan like this?"
+      ],
+      "task": "Make a plan for next week with AI and follow it for three days.",
+      "challenge": "Break your biggest task into five small steps with AI's help.",
+      "quiz": [
+        {
+          "q": "How can AI help you plan?",
+          "options": [
+            "It does the work",
+            "It turns a messy list into a clear plan with steps and deadlines",
+            "It sets alarms",
+            "It sends emails"
+          ],
+          "answer": 1,
+          "explain": "AI organises your tasks into a plan, breaks big jobs into steps and spots gaps you missed."
+        },
+        {
+          "q": "Why break big tasks into small steps?",
+          "options": [
+            "It takes longer",
+            "Because small steps are easy to start and finish, which keeps you moving",
+            "It looks better",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Small steps are easy to begin. A huge task feels impossible; five small steps feel doable."
+        },
+        {
+          "q": "What should you do when the plan fails?",
+          "options": [
+            "Give up",
+            "Ask the AI to adjust the plan based on what actually happened",
+            "Ignore it",
+            "Blame the AI"
+          ],
+          "answer": 1,
+          "explain": "Plans change. Update the plan with what you learned instead of abandoning it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Summarising Long Documents",
+      "goal": "Turn long reports, articles and meetings into short summaries.",
+      "video": {
+        "youtube_id": "ZpBTqGflUFk",
+        "title": "TOP 5 BEST AI TOOLS YOU NEED TO TRY IN 2026!",
+        "channel": "AI Masstery"
+      },
+      "steps": [
+        "Paste a long article into the AI and ask for a five-bullet summary.",
+        "Ask it to explain the article in simple words.",
+        "Ask it to list the three most important points and one thing to do next.",
+        "Compare the summary with the original to check it is accurate."
+      ],
+      "task": "Summarise a long document you need to read this week into five bullets.",
+      "challenge": "Ask the AI to turn a meeting recording's notes into action items.",
+      "quiz": [
+        {
+          "q": "Why summarise with AI?",
+          "options": [
+            "It is fun",
+            "Because it turns long reading into a short version you can understand in minutes",
+            "It deletes the original",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "AI reads the whole document and pulls out the key points, so you get the meaning without reading every word."
+        },
+        {
+          "q": "Should you trust a summary without checking?",
+          "options": [
+            "Yes",
+            "No, always spot-check it against the original, because AI can miss or invent details",
+            "Only for short documents",
+            "Only for emails"
+          ],
+          "answer": 1,
+          "explain": "AI summaries can miss nuance or add details that were not there. Check the important parts yourself."
+        },
+        {
+          "q": "What is the best summary format?",
+          "options": [
+            "A long paragraph",
+            "Short bullets with the key points and one action",
+            "A table only",
+            "A single sentence"
+          ],
+          "answer": 1,
+          "explain": "Short bullets are easy to scan. Add one action so the summary leads to something useful."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Your AI Productivity Kit",
+      "goal": "Build a personal kit of prompts and workflows that save you time every day.",
+      "video": {
+        "youtube_id": "htZRCE2GgIs",
+        "title": "The Only AI Tools You Need: 12-Minute Guide",
+        "channel": "Jeff Su"
+      },
+      "steps": [
+        "Pick five tasks you do often: emails, plans, summaries, ideas, reports.",
+        "Write one good prompt for each task and save them in a document.",
+        "Use the kit for three days on real work.",
+        "Note which prompts saved the most time and improve the weakest one."
+      ],
+      "task": "Finish your productivity kit with five tested prompts.",
+      "challenge": "Use the kit for a full work week and note how much time it saved.",
+      "quiz": [
+        {
+          "q": "What is a prompt kit?",
+          "options": [
+            "A kind of app",
+            "A saved set of prompts you reuse for tasks you do often",
+            "A password list",
+            "A kind of file"
+          ],
+          "answer": 1,
+          "explain": "A prompt kit is your personal library of good prompts, so you do not start from scratch each time."
+        },
+        {
+          "q": "Why save prompts instead of writing them fresh each time?",
+          "options": [
+            "It is faster",
+            "Because a tested prompt gives good results every time, and you improve it once instead of every day",
+            "It is required",
+            "It saves memory"
+          ],
+          "answer": 1,
+          "explain": "A saved, tested prompt works reliably. Writing fresh each time means variable results."
+        },
+        {
+          "q": "How do you know a prompt is good?",
+          "options": [
+            "It is long",
+            "It gives you a useful answer you can use with little editing",
+            "It is short",
+            "It uses big words"
+          ],
+          "answer": 1,
+          "explain": "A good prompt is judged by its output: if the answer needs little fixing, the prompt works."
+        }
+      ],
+      "project": {
+        "title": "Your AI Productivity Kit",
+        "brief": "Build a personal kit of prompts and workflows for five tasks you do often: emails, plans, summaries, ideas and reports. Write one good prompt for each, use the kit for three days on real work, and note which prompts saved the most time.",
+        "checks": [
+          "Five tasks you do often are listed.",
+          "One good prompt exists for each task.",
+          "The prompts are saved in one document.",
+          "The kit was used for three days on real work.",
+          "You noted which prompts saved the most time.",
+          "The weakest prompt was improved."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Google Gemini for Everyday Work",
+      "goal": "Use Gemini for writing, research and working with Google apps.",
+      "video": {
+        "youtube_id": "F0XN6qhbHes",
+        "title": "7 FREE AI Tools for Beginners in 2026 (You Can Start Today!)",
+        "channel": "TechInform-24"
+      },
+      "steps": [
+        "Open Gemini and ask it to draft a message.",
+        "Ask it to summarise a long email thread.",
+        "Try Gemini in Google Docs or Gmail if it is available to you.",
+        "Compare Gemini's answer with ChatGPT's for the same prompt."
+      ],
+      "task": "Use Gemini to draft one document and summarise one email thread.",
+      "challenge": "Write down one thing Gemini does better than ChatGPT for you.",
+      "quiz": [
+        {
+          "q": "What is Google Gemini?",
+          "options": [
+            "A search engine",
+            "Google's AI assistant for writing, research and working with Google apps",
+            "A kind of browser",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "Gemini is Google's AI. It writes, explains and can work with Google Docs, Gmail and Drive."
+        },
+        {
+          "q": "When is Gemini a good choice?",
+          "options": [
+            "Always",
+            "When you already use Google apps and want AI inside them",
+            "Never",
+            "Only for images"
+          ],
+          "answer": 1,
+          "explain": "Gemini fits naturally if your work lives in Google Docs and Gmail, because it works inside them."
+        },
+        {
+          "q": "Should you use one AI tool or several?",
+          "options": [
+            "Only one",
+            "Several: each tool has strengths, and comparing answers helps you pick the best",
+            "Only ChatGPT",
+            "Only Gemini"
+          ],
+          "answer": 1,
+          "explain": "Different tools are good at different things. Using more than one lets you pick the best answer each time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Claude for Long Documents and Careful Writing",
+      "goal": "Use Claude for long reports, careful writing and analysing documents.",
+      "video": {
+        "youtube_id": "MfmUOUtAy-0",
+        "title": "NotebookLM: The Ultimate Beginner's Guide (Gemini Notebook)",
+        "channel": "Learn With Me AI"
+      },
+      "steps": [
+        "Upload a long document to Claude and ask for a summary.",
+        "Ask Claude to check a draft you wrote and suggest improvements.",
+        "Ask it to compare two versions of a document and list the differences.",
+        "Use Claude to draft a careful, formal letter."
+      ],
+      "task": "Use Claude to improve one long document you wrote.",
+      "challenge": "Ask Claude to summarise a report and list its three key points.",
+      "quiz": [
+        {
+          "q": "What is Claude good at?",
+          "options": [
+            "Short chats",
+            "Long documents, careful writing and analysing files you upload",
+            "Images",
+            "Videos"
+          ],
+          "answer": 1,
+          "explain": "Claude handles long documents well. It reads files you upload and gives careful, detailed answers."
+        },
+        {
+          "q": "Why upload a document instead of pasting it?",
+          "options": [
+            "It is faster",
+            "Because Claude can read the whole file and answer questions about it",
+            "It is required",
+            "It saves space"
+          ],
+          "answer": 1,
+          "explain": "Uploading lets Claude read the full document, so its answers are based on your actual file."
+        },
+        {
+          "q": "How should you use AI feedback on your writing?",
+          "options": [
+            "Accept it all",
+            "Read each suggestion, keep the ones that improve your writing, ignore the rest",
+            "Reject it all",
+            "Copy it exactly"
+          ],
+          "answer": 1,
+          "explain": "AI feedback is advice, not orders. Keep what helps your writing and ignore what does not."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "NotebookLM: Learn from Your Own Documents",
+      "goal": "Turn your own notes and files into a personal tutor with NotebookLM.",
+      "video": {
+        "youtube_id": "yFMVT3bcrJo",
+        "title": "Ultimate ChatGPT 4o Guide 2026: How to Use Chat GPT For Beginners",
+        "channel": "AI Master"
+      },
+      "steps": [
+        "Go to NotebookLM and create a notebook.",
+        "Add sources: upload a PDF, paste notes or add a web page.",
+        "Ask questions that can only be answered from your sources.",
+        "Generate an audio overview and listen to it."
+      ],
+      "task": "Create a notebook with your work notes and ask it five questions.",
+      "challenge": "Generate an audio overview of your sources and listen to it.",
+      "quiz": [
+        {
+          "q": "What is NotebookLM?",
+          "options": [
+            "A kind of chatbot",
+            "Google's AI that answers only from the documents you give it",
+            "A search engine",
+            "A kind of notebook app"
+          ],
+          "answer": 1,
+          "explain": "NotebookLM builds a notebook from your sources and answers questions using only those sources."
+        },
+        {
+          "q": "Why is NotebookLM good for learning?",
+          "options": [
+            "It knows everything",
+            "Because its answers come from your materials, so they match what you need to learn",
+            "It is faster",
+            "It is free"
+          ],
+          "answer": 1,
+          "explain": "NotebookLM answers from your files, so its answers are grounded in your own material, not general knowledge."
+        },
+        {
+          "q": "What is an audio overview?",
+          "options": [
+            "A kind of video",
+            "A spoken summary of your sources, like a short podcast",
+            "A kind of music",
+            "A phone call"
+          ],
+          "answer": 1,
+          "explain": "An audio overview turns your sources into a conversation you can listen to, like a podcast about your documents."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "AI for Research with Perplexity",
+      "goal": "Research topics with an AI that shows its sources.",
+      "video": {
+        "youtube_id": "ZJMAAyB7Ya0",
+        "title": "ChatGPT for Complete Beginners — Set Up + Your First 5 Prompts",
+        "channel": "Simply AI Skills"
+      },
+      "steps": [
+        "Ask Perplexity a question about a topic you need to learn.",
+        "Click the sources it cites and check they are real.",
+        "Ask a follow-up question to dig deeper.",
+        "Compare Perplexity's answer with a normal web search."
+      ],
+      "task": "Research one work topic with Perplexity and write down three facts with their sources.",
+      "challenge": "Check one source yourself to confirm it says what Perplexity claimed.",
+      "quiz": [
+        {
+          "q": "What is Perplexity?",
+          "options": [
+            "A search engine",
+            "An AI research tool that answers questions and shows the sources it used",
+            "A kind of chatbot",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "Perplexity answers questions like a chatbot, but it cites its sources so you can check them."
+        },
+        {
+          "q": "Why do sources matter?",
+          "options": [
+            "They look nice",
+            "Because you can check whether the answer is true",
+            "They are required",
+            "They make it longer"
+          ],
+          "answer": 1,
+          "explain": "Sources let you verify. An answer without sources is a claim; with sources, it is checkable."
+        },
+        {
+          "q": "Should you trust an AI answer with sources?",
+          "options": [
+            "Yes, always",
+            "Mostly, but still check the key facts yourself",
+            "No, never",
+            "Only for short answers"
+          ],
+          "answer": 1,
+          "explain": "Sources make answers more trustworthy, but AI can still misread a source. Check what matters."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "AI Images and Design",
+      "goal": "Make images, slides and simple designs with AI tools.",
+      "video": {
+        "youtube_id": "J8Ikk0FGXok",
+        "title": "ChatGPT Hacks for Beginners (With Prompts + Examples)",
+        "channel": "First Movers AI"
+      },
+      "steps": [
+        "Use an AI image tool to make a picture for a presentation.",
+        "Use Canva's AI tools to design a social media post.",
+        "Ask an AI to suggest a colour palette for your brand.",
+        "Check the image for mistakes: hands, text and strange details."
+      ],
+      "task": "Make three images for your work with AI and pick the best one.",
+      "challenge": "Design a simple flyer with Canva's AI tools.",
+      "quiz": [
+        {
+          "q": "What can AI image tools do?",
+          "options": [
+            "Replace designers",
+            "Make pictures, illustrations and designs from a text description",
+            "Take photos",
+            "Edit videos"
+          ],
+          "answer": 1,
+          "explain": "AI image tools create pictures from words. You describe what you want, and it draws it."
+        },
+        {
+          "q": "Why check AI images for mistakes?",
+          "options": [
+            "They are always perfect",
+            "Because AI often gets hands, text and small details wrong",
+            "It is required",
+            "It is fun"
+          ],
+          "answer": 1,
+          "explain": "AI images can have extra fingers, garbled text or strange objects. Always look closely before using one."
+        },
+        {
+          "q": "Can you use AI images for your business?",
+          "options": [
+            "Yes, always",
+            "Usually, but check the tool's rules and avoid copying real people's faces or brands",
+            "No, never",
+            "Only for free"
+          ],
+          "answer": 1,
+          "explain": "Most AI tools allow commercial use, but read their terms and avoid images that copy real brands or people."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "AI for Spreadsheets and Data",
+      "goal": "Use AI to work with spreadsheets, clean data and make charts.",
+      "video": {
+        "youtube_id": "CBbuS1DaqTI",
+        "title": "ChatGPT AI Full Course (How to Use ChatGPT Like a PRO)",
+        "channel": "Code Innings by WsCube Tech"
+      },
+      "steps": [
+        "Paste a small table into the AI and ask it to find the biggest and smallest values.",
+        "Ask it to write a formula for a spreadsheet task.",
+        "Ask it to explain what a formula does in plain words.",
+        "Ask it to suggest a chart for your data and say why."
+      ],
+      "task": "Use AI to write three spreadsheet formulas you need for your work.",
+      "challenge": "Ask AI to explain a formula you do not understand.",
+      "quiz": [
+        {
+          "q": "How can AI help with spreadsheets?",
+          "options": [
+            "It does the work",
+            "It writes formulas, explains them, cleans data and suggests charts",
+            "It opens Excel",
+            "It saves files"
+          ],
+          "answer": 1,
+          "explain": "AI writes formulas from a plain description, explains tricky ones and helps you clean and chart data."
+        },
+        {
+          "q": "Should you trust an AI formula without testing it?",
+          "options": [
+            "Yes",
+            "No, always test it on a copy of your data first",
+            "Only for simple ones",
+            "Only for sums"
+          ],
+          "answer": 1,
+          "explain": "AI formulas can have small errors. Test them on a copy before using them on real data."
+        },
+        {
+          "q": "What is the best way to ask for a formula?",
+          "options": [
+            "Just say 'make a formula'",
+            "Describe the data, the columns and what you want the answer to be",
+            "Paste the whole file",
+            "Say nothing"
+          ],
+          "answer": 1,
+          "explain": "A clear description of your data and your goal gets you a formula that actually works."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: AI Workflow for a Real Task",
+      "goal": "Build an end-to-end AI workflow for a real task you do at work.",
+      "video": {
+        "youtube_id": "poM2n8fBcag",
+        "title": "ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI",
+        "channel": "Kevin Stratvert"
+      },
+      "steps": [
+        "Pick one real task: a weekly report, a client update or a content plan.",
+        "Map the steps: gather, draft, check, polish, send.",
+        "Assign AI to the steps it does best and keep the human steps for yourself.",
+        "Run the workflow once and time how long it took versus doing it by hand."
+      ],
+      "task": "Finish the workflow and use it for one real task this week.",
+      "challenge": "Write down how much time it saved and what you would improve.",
+      "quiz": [
+        {
+          "q": "What is an AI workflow?",
+          "options": [
+            "A kind of app",
+            "A set of steps where AI does some parts and you do the rest, in a fixed order",
+            "A kind of prompt",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A workflow is a routine: AI drafts, you check, AI polishes, you send. Each step has a clear owner."
+        },
+        {
+          "q": "Which steps should AI do?",
+          "options": [
+            "All of them",
+            "The repetitive drafting and summarising, while you keep checking, deciding and sending",
+            "None of them",
+            "Only the first one"
+          ],
+          "answer": 1,
+          "explain": "AI is best at drafts and summaries. You keep the judgement: checking facts, deciding and sending."
+        },
+        {
+          "q": "How do you know a workflow works?",
+          "options": [
+            "It is fast",
+            "It saves time and the output is as good as or better than doing it by hand",
+            "It uses many tools",
+            "It is long"
+          ],
+          "answer": 1,
+          "explain": "A workflow works when it saves real time and the result is good. Measure both."
+        }
+      ],
+      "project": {
+        "title": "AI Workflow for a Real Task",
+        "brief": "Build an end-to-end AI workflow for one real task: a weekly report, a client update or a content plan. Map the steps, assign AI to the steps it does best, keep the human steps for yourself, and run the workflow once, timing it against doing it by hand.",
+        "checks": [
+          "One real task was chosen.",
+          "The steps are mapped from start to finish.",
+          "AI steps and human steps are clearly assigned.",
+          "The workflow was run once on a real task.",
+          "The time was measured against doing it by hand.",
+          "You wrote down what to improve."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "AI for Social Media and Marketing",
+      "goal": "Plan posts, write captions and schedule content with AI.",
+      "video": {
+        "youtube_id": "WHCQo1C24Nc",
+        "title": "10 Best AI Tools 2026 That Actually Save You 5 Hours Every Week",
+        "channel": "ExplainIt Science"
+      },
+      "steps": [
+        "Ask the AI to write five caption ideas for one product.",
+        "Ask it to turn one blog post into three social media posts.",
+        "Ask it to suggest the best times to post.",
+        "Edit the captions so they sound like you, not like a robot."
+      ],
+      "task": "Write a week's worth of social media posts with AI's help.",
+      "challenge": "Turn one of your blog posts into three social posts.",
+      "quiz": [
+        {
+          "q": "How can AI help with social media?",
+          "options": [
+            "It posts for you",
+            "It drafts captions, suggests ideas and turns one piece of content into many",
+            "It buys followers",
+            "It deletes comments"
+          ],
+          "answer": 1,
+          "explain": "AI drafts captions, generates ideas and repurposes content, so you create more in less time."
+        },
+        {
+          "q": "Why edit AI captions?",
+          "options": [
+            "It is fun",
+            "Because AI captions can sound generic, and your audience follows you for your voice",
+            "It is required",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Your voice is what makes your content yours. Edit AI drafts so they sound like you."
+        },
+        {
+          "q": "What makes a good social media post?",
+          "options": [
+            "Many hashtags",
+            "One clear idea, short words, and a reason to engage",
+            "A long essay",
+            "A stock photo"
+          ],
+          "answer": 1,
+          "explain": "A good post has one idea, short clear words and something for the reader to do or respond to."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "AI for Meetings",
+      "goal": "Use AI to prepare for meetings, take notes and follow up.",
+      "video": {
+        "youtube_id": "ZpBTqGflUFk",
+        "title": "TOP 5 BEST AI TOOLS YOU NEED TO TRY IN 2026!",
+        "channel": "AI Masstery"
+      },
+      "steps": [
+        "Ask the AI to draft an agenda for a meeting.",
+        "Use an AI note-taker or transcribe the meeting and ask AI to summarise it.",
+        "Ask the AI to turn the summary into action items with owners and dates.",
+        "Send the action items to the team after the meeting."
+      ],
+      "task": "Use AI to prepare an agenda for your next meeting.",
+      "challenge": "Turn one meeting's notes into action items with AI.",
+      "quiz": [
+        {
+          "q": "How can AI help before a meeting?",
+          "options": [
+            "It attends for you",
+            "It drafts the agenda and the questions to ask",
+            "It books the room",
+            "It sends invites"
+          ],
+          "answer": 1,
+          "explain": "AI drafts agendas and questions, so the meeting has a clear purpose before it starts."
+        },
+        {
+          "q": "How can AI help after a meeting?",
+          "options": [
+            "It forgets everything",
+            "It summarises notes into decisions and action items with owners and dates",
+            "It deletes the notes",
+            "It reschedules"
+          ],
+          "answer": 1,
+          "explain": "AI turns messy notes into a clear list: what was decided, who does what, and by when."
+        },
+        {
+          "q": "Should you tell people an AI is taking notes?",
+          "options": [
+            "No",
+            "Yes, always tell them and get their OK first",
+            "Only sometimes",
+            "Only if asked"
+          ],
+          "answer": 1,
+          "explain": "Recording a meeting without telling people is wrong and may be illegal. Always ask first."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "AI Ethics and Safety",
+      "goal": "Use AI responsibly: privacy, bias and honesty.",
+      "video": {
+        "youtube_id": "htZRCE2GgIs",
+        "title": "The Only AI Tools You Need: 12-Minute Guide",
+        "channel": "Jeff Su"
+      },
+      "steps": [
+        "Learn what AI bias is: AI can repeat unfair patterns from its training data.",
+        "Learn what not to paste into AI: passwords, private data, other people's secrets.",
+        "Learn to label AI-made content honestly when it matters.",
+        "Write three personal rules for how you will use AI."
+      ],
+      "task": "Write your three personal AI rules and stick them on your desk.",
+      "challenge": "Check one AI answer for bias: does it treat groups unfairly?",
+      "quiz": [
+        {
+          "q": "What is AI bias?",
+          "options": [
+            "A kind of error",
+            "When AI repeats unfair patterns from the data it was trained on",
+            "A kind of virus",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "AI learns from human data, which contains biases. It can repeat them unless you watch for it."
+        },
+        {
+          "q": "What should you never paste into an AI tool?",
+          "options": [
+            "Your name",
+            "Passwords, private data, and other people's confidential information",
+            "Your emails",
+            "Your plans"
+          ],
+          "answer": 1,
+          "explain": "What you paste may be stored or used to train the AI. Never share secrets or other people's private data."
+        },
+        {
+          "q": "Should you say when something was made by AI?",
+          "options": [
+            "No, never",
+            "Yes, when it matters: for work, school or anything people will judge as yours",
+            "Only for images",
+            "Only for long text"
+          ],
+          "answer": 1,
+          "explain": "Honesty matters. If people will judge the work as yours, say AI helped."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Automating Repetitive Work",
+      "goal": "Automate small repetitive jobs with AI and simple tools.",
+      "video": {
+        "youtube_id": "F0XN6qhbHes",
+        "title": "7 FREE AI Tools for Beginners in 2026 (You Can Start Today!)",
+        "channel": "TechInform-24"
+      },
+      "steps": [
+        "List five jobs you repeat every week.",
+        "Pick the most boring one and map its steps.",
+        "Use AI to draft the emails, messages or reports in that job.",
+        "Use a simple automation tool or a template to run it faster."
+      ],
+      "task": "Automate one repetitive job this week and measure the time saved.",
+      "challenge": "Write a template for the job so anyone could do it.",
+      "quiz": [
+        {
+          "q": "What is automation?",
+          "options": [
+            "A kind of AI",
+            "Making a computer do a repetitive job for you, so you do it once instead of every time",
+            "A kind of app",
+            "A robot"
+          ],
+          "answer": 1,
+          "explain": "Automation turns a repeated job into a routine a computer runs, so you set it up once and it repeats."
+        },
+        {
+          "q": "What is the best job to automate first?",
+          "options": [
+            "The hardest one",
+            "The most boring, repetitive one you do often",
+            "The most important one",
+            "The rarest one"
+          ],
+          "answer": 1,
+          "explain": "Start with the boring job you do most often. It saves the most time for the least effort."
+        },
+        {
+          "q": "What is a template?",
+          "options": [
+            "A kind of AI",
+            "A ready-made starting point you reuse, like an email or a report format",
+            "A kind of file",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "A template is a pre-made version of something you do often. You fill in the changing parts and send it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "AI for Learning New Skills",
+      "goal": "Use AI as a tutor to learn anything faster.",
+      "video": {
+        "youtube_id": "MfmUOUtAy-0",
+        "title": "NotebookLM: The Ultimate Beginner's Guide (Gemini Notebook)",
+        "channel": "Learn With Me AI"
+      },
+      "steps": [
+        "Pick something you want to learn and ask the AI to make a 7-day plan.",
+        "Ask it to explain a hard idea in simple words with an example.",
+        "Ask it to quiz you on what you learned.",
+        "Ask it to correct your mistakes and explain why they were wrong."
+      ],
+      "task": "Use AI to learn one new skill this week with a 7-day plan.",
+      "challenge": "Ask the AI to quiz you on what you learned.",
+      "quiz": [
+        {
+          "q": "How can AI help you learn?",
+          "options": [
+            "It learns for you",
+            "It explains simply, makes plans, quizzes you and corrects your mistakes",
+            "It does your homework",
+            "It reads for you"
+          ],
+          "answer": 1,
+          "explain": "AI is a patient tutor: it explains, plans, tests you and corrects you, as many times as you need."
+        },
+        {
+          "q": "Why ask AI to quiz you?",
+          "options": [
+            "It is fun",
+            "Because testing yourself shows what you really know and what to study next",
+            "It is required",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Quizzes reveal gaps. Knowing what you do not know tells you what to study."
+        },
+        {
+          "q": "Should AI do your homework?",
+          "options": [
+            "Yes",
+            "No, it should help you understand so you can do it yourself",
+            "Only sometimes",
+            "Only for easy work"
+          ],
+          "answer": 1,
+          "explain": "AI that does your homework teaches you nothing. AI that explains it helps you learn."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Building Your Personal AI Assistant",
+      "goal": "Combine everything into a personal AI assistant that fits how you work.",
+      "video": {
+        "youtube_id": "yFMVT3bcrJo",
+        "title": "Ultimate ChatGPT 4o Guide 2026: How to Use Chat GPT For Beginners",
+        "channel": "AI Master"
+      },
+      "steps": [
+        "List the tools you now use: chat, research, notes, images.",
+        "Write a daily routine: morning plan, midday check, end-of-day summary.",
+        "Set up your prompt kit, your templates and your workflows in one place.",
+        "Use the routine for one full week."
+      ],
+      "task": "Set up your personal AI assistant routine and use it for a week.",
+      "challenge": "Write down what worked and what you will change.",
+      "quiz": [
+        {
+          "q": "What is a personal AI assistant?",
+          "options": [
+            "A robot",
+            "Your own setup of AI tools, prompts and routines that fit how you work",
+            "A kind of app",
+            "A paid service"
+          ],
+          "answer": 1,
+          "explain": "A personal AI assistant is not one app. It is your tools, prompts and routines, arranged to fit your work."
+        },
+        {
+          "q": "Why build a routine instead of using AI randomly?",
+          "options": [
+            "It is faster",
+            "Because a routine makes AI a habit, not a one-off trick",
+            "It is required",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "A routine turns AI into a daily habit. Random use gives random results."
+        },
+        {
+          "q": "What should your routine include?",
+          "options": [
+            "Everything",
+            "A morning plan, a midday check and an end-of-day summary",
+            "Only emails",
+            "Only planning"
+          ],
+          "answer": 1,
+          "explain": "A simple routine covers the day: plan in the morning, check at midday, summarise at the end."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: AI-Powered Work System",
+      "goal": "Build a complete AI-powered work system for one area of your work.",
+      "video": {
+        "youtube_id": "ZJMAAyB7Ya0",
+        "title": "ChatGPT for Complete Beginners — Set Up + Your First 5 Prompts",
+        "channel": "Simply AI Skills"
+      },
+      "steps": [
+        "Pick one area: client work, content, admin or learning.",
+        "Design the system: tools, prompts, templates and workflows.",
+        "Run the system for one full week on real work.",
+        "Measure the time saved and write a short report on what worked."
+      ],
+      "task": "Finish the work system and run it for a week.",
+      "challenge": "Write a short report: time saved, what worked, what to improve.",
+      "quiz": [
+        {
+          "q": "What is a work system?",
+          "options": [
+            "A kind of app",
+            "A set of tools, prompts and routines that handle one area of work end to end",
+            "A kind of prompt",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A work system is the whole setup for one area: the tools, the prompts, the templates and the routine, working together."
+        },
+        {
+          "q": "How do you measure if a system works?",
+          "options": [
+            "By how many tools it uses",
+            "By time saved and quality of output compared with doing it by hand",
+            "By how long it is",
+            "By how pretty it is"
+          ],
+          "answer": 1,
+          "explain": "Measure time saved and output quality. A system that saves time but makes worse work has failed."
+        },
+        {
+          "q": "What should your report include?",
+          "options": [
+            "Only the time saved",
+            "Time saved, what worked, what did not, and what you will change",
+            "Only the tools",
+            "Only the prompts"
+          ],
+          "answer": 1,
+          "explain": "A good report is honest: what worked, what did not, and what you will change next."
+        }
+      ],
+      "project": {
+        "title": "AI-Powered Work System",
+        "brief": "Build a complete AI-powered work system for one area of your work: client work, content, admin or learning. Design the tools, prompts, templates and workflows, run the system for one full week on real work, and write a short report on time saved and what worked.",
+        "checks": [
+          "One area of work was chosen.",
+          "The system covers tools, prompts, templates and workflows.",
+          "The system ran for one full week on real work.",
+          "Time saved was measured.",
+          "A short report exists on what worked and what did not.",
+          "You can explain the system in simple words."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "AI for Presentations",
+      "goal": "Build clear, good-looking slides fast with AI.",
+      "video": {
+        "youtube_id": "J8Ikk0FGXok",
+        "title": "ChatGPT Hacks for Beginners (With Prompts + Examples)",
+        "channel": "First Movers AI"
+      },
+      "steps": [
+        "Ask the AI to make an outline for a short presentation on a topic you know.",
+        "Ask it to write the slide titles and one short bullet for each slide.",
+        "Use an AI slide tool to turn the outline into slides.",
+        "Fix the slides: check every fact, shorten long text, add one picture."
+      ],
+      "task": "Make a 5-slide presentation with AI for something you need to explain.",
+      "challenge": "Present the slides to a friend and ask what was unclear.",
+      "quiz": [
+        {
+          "q": "How can AI help with presentations?",
+          "options": [
+            "It presents for you",
+            "It writes outlines, slide text and speaker notes, so you focus on the story",
+            "It books the room",
+            "It deletes slides"
+          ],
+          "answer": 1,
+          "explain": "AI drafts the structure and the words. You shape the story and check the facts."
+        },
+        {
+          "q": "What makes a good slide?",
+          "options": [
+            "Many words",
+            "One idea, few words, and a picture that supports it",
+            "Small text",
+            "Many colours"
+          ],
+          "answer": 1,
+          "explain": "A good slide has one idea and few words. The audience listens to you, not the slide."
+        },
+        {
+          "q": "Should you read your slides out loud?",
+          "options": [
+            "Yes, word for word",
+            "No, the slide supports you; you speak the story in your own words",
+            "Only the first one",
+            "Only if nervous"
+          ],
+          "answer": 1,
+          "explain": "Reading slides bores the audience. Slides are cues; your voice tells the story."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "AI Translation and Language",
+      "goal": "Translate text and learn a new language with AI.",
+      "video": {
+        "youtube_id": "CBbuS1DaqTI",
+        "title": "ChatGPT AI Full Course (How to Use ChatGPT Like a PRO)",
+        "channel": "Code Innings by WsCube Tech"
+      },
+      "steps": [
+        "Translate a short message into another language with AI.",
+        "Ask the AI to explain a word or phrase you do not know.",
+        "Ask it to correct a sentence you wrote in another language.",
+        "Ask it to make a short dialogue for you to practise."
+      ],
+      "task": "Translate one real message and have a short practice conversation in another language.",
+      "challenge": "Ask the AI to teach you five useful phrases in a language you like.",
+      "quiz": [
+        {
+          "q": "How can AI help with translation?",
+          "options": [
+            "It replaces learning",
+            "It translates text, explains words and helps you practise a language",
+            "It speaks for you",
+            "It writes your CV"
+          ],
+          "answer": 1,
+          "explain": "AI translates, explains meanings and creates practice dialogues, which helps you learn a language."
+        },
+        {
+          "q": "Should you trust an AI translation for important documents?",
+          "options": [
+            "Yes, always",
+            "No, get a human to check important translations",
+            "Only for short ones",
+            "Only for emails"
+          ],
+          "answer": 1,
+          "explain": "AI translation is good for everyday use, but important documents need a human translator."
+        },
+        {
+          "q": "How do you learn a language with AI?",
+          "options": [
+            "Memorise everything",
+            "Practise short conversations daily and ask AI to correct you",
+            "Read a dictionary",
+            "Watch videos only"
+          ],
+          "answer": 1,
+          "explain": "Short daily practice with correction is how you learn. AI gives you endless patient practice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Voice AI: Dictation and Transcription",
+      "goal": "Turn your voice into text and turn audio into notes with AI.",
+      "video": {
+        "youtube_id": "poM2n8fBcag",
+        "title": "ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI",
+        "channel": "Kevin Stratvert"
+      },
+      "steps": [
+        "Use voice typing on your phone to write a message by speaking.",
+        "Record a short voice note and use AI to turn it into text.",
+        "Ask the AI to clean up the transcript: remove filler words and fix punctuation.",
+        "Use AI to summarise a voice recording into key points."
+      ],
+      "task": "Write one email by speaking it, then clean it up with AI.",
+      "challenge": "Record a two-minute idea and turn it into a written plan.",
+      "quiz": [
+        {
+          "q": "What is dictation?",
+          "options": [
+            "A kind of typing",
+            "Speaking into your device so it writes the words for you",
+            "A kind of AI",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "Dictation turns your speech into text. It is faster than typing for many people."
+        },
+        {
+          "q": "What is transcription?",
+          "options": [
+            "A kind of translation",
+            "Turning audio or video into written text",
+            "A kind of editing",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "Transcription writes down what was said in a recording, so you can search and read it."
+        },
+        {
+          "q": "Why clean up a transcript?",
+          "options": [
+            "It is fun",
+            "Because spoken words have filler words and no punctuation, so cleaning makes them readable",
+            "It is required",
+            "It saves space"
+          ],
+          "answer": 1,
+          "explain": "Speech is messy. Cleaning removes 'um' and 'like' and adds punctuation, so the text reads well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "AI for Job Hunting",
+      "goal": "Use AI to improve your CV, write cover letters and prepare for interviews.",
+      "video": {
+        "youtube_id": "WHCQo1C24Nc",
+        "title": "10 Best AI Tools 2026 That Actually Save You 5 Hours Every Week",
+        "channel": "ExplainIt Science"
+      },
+      "steps": [
+        "Paste your CV into the AI and ask what is missing for a job you want.",
+        "Ask it to write a cover letter for a real job posting.",
+        "Ask it to list likely interview questions and help you answer them.",
+        "Ask it to practise a mock interview with you, one question at a time."
+      ],
+      "task": "Improve your CV with AI and write a cover letter for a real job.",
+      "challenge": "Practise a mock interview with AI for ten minutes.",
+      "quiz": [
+        {
+          "q": "How can AI help with job hunting?",
+          "options": [
+            "It applies for you",
+            "It improves your CV, writes cover letters and helps you practise interviews",
+            "It finds jobs",
+            "It hires you"
+          ],
+          "answer": 1,
+          "explain": "AI polishes your CV, drafts cover letters and runs mock interviews, so you apply stronger."
+        },
+        {
+          "q": "Should you send an AI-written CV without editing it?",
+          "options": [
+            "Yes",
+            "No, make it true and yours: AI can invent experience you do not have",
+            "Only for short jobs",
+            "Only for tech jobs"
+          ],
+          "answer": 1,
+          "explain": "AI can add claims that are not true. Your CV must be honest and sound like you."
+        },
+        {
+          "q": "Why practise interviews with AI?",
+          "options": [
+            "It is fun",
+            "Because practising answers builds confidence and shows gaps in your preparation",
+            "It is required",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Practising out loud builds confidence. AI asks follow-ups and points out weak answers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "AI for Personal Finance Basics",
+      "goal": "Use AI to understand your money: budgets, saving and simple plans.",
+      "video": {
+        "youtube_id": "ZpBTqGflUFk",
+        "title": "TOP 5 BEST AI TOOLS YOU NEED TO TRY IN 2026!",
+        "channel": "AI Masstery"
+      },
+      "steps": [
+        "List your monthly income and your main expenses.",
+        "Ask the AI to make a simple budget from your numbers.",
+        "Ask it to explain saving, interest and debt in simple words.",
+        "Ask it to suggest three ways to save money each month."
+      ],
+      "task": "Make a simple monthly budget with AI's help.",
+      "challenge": "Ask the AI to explain one money topic you find confusing.",
+      "quiz": [
+        {
+          "q": "What is a budget?",
+          "options": [
+            "A kind of bank",
+            "A plan for how much money comes in and where it goes",
+            "A kind of app",
+            "A loan"
+          ],
+          "answer": 1,
+          "explain": "A budget is a plan: income in, expenses out. It shows where your money goes."
+        },
+        {
+          "q": "Can AI give financial advice?",
+          "options": [
+            "Yes, always follow it",
+            "It can explain ideas and make plans, but it is not a licensed adviser, so check big decisions with a human",
+            "No, never",
+            "Only for savings"
+          ],
+          "answer": 1,
+          "explain": "AI explains money ideas well, but it does not know your full situation. Big decisions need a human adviser."
+        },
+        {
+          "q": "What is the first step to saving?",
+          "options": [
+            "Earn more",
+            "Know what you spend, so you can see what to cut",
+            "Buy less",
+            "Open many accounts"
+          ],
+          "answer": 1,
+          "explain": "You cannot save what you cannot see. Tracking spending shows where the money goes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Sharing Your AI Work Online",
+      "goal": "Share what you built with AI in a way that shows your skills.",
+      "video": {
+        "youtube_id": "htZRCE2GgIs",
+        "title": "The Only AI Tools You Need: 12-Minute Guide",
+        "channel": "Jeff Su"
+      },
+      "steps": [
+        "Pick your best piece of work from this course.",
+        "Write a short post about it: the problem, the tools and what changed.",
+        "Add a screenshot or a short video of your system.",
+        "Post it and reply to one comment or question."
+      ],
+      "task": "Post about one thing you built with AI this month.",
+      "challenge": "Share your prompt kit with a friend who could use it.",
+      "quiz": [
+        {
+          "q": "Why share your AI work?",
+          "options": [
+            "To show off",
+            "Because sharing shows your skills, helps others and brings opportunities",
+            "It is required",
+            "It is fun"
+          ],
+          "answer": 1,
+          "explain": "Sharing shows what you can do. People remember visible work, and opportunities follow."
+        },
+        {
+          "q": "What makes a good post about your work?",
+          "options": [
+            "Many hashtags",
+            "The problem, the tools, the result, and one lesson learned",
+            "A long essay",
+            "A stock photo"
+          ],
+          "answer": 1,
+          "explain": "A good post tells a short story: the problem, what you did, what changed, and what you learned."
+        },
+        {
+          "q": "Should you share your prompts?",
+          "options": [
+            "No, keep them secret",
+            "Yes, sharing prompts helps others and shows you know what you are doing",
+            "Only for money",
+            "Only with friends"
+          ],
+          "answer": 1,
+          "explain": "Sharing prompts is generous and it proves your skill. Good prompts are a craft worth showing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Staying Current with AI",
+      "goal": "Keep up with AI tools as they change, without drowning in news.",
+      "video": {
+        "youtube_id": "F0XN6qhbHes",
+        "title": "7 FREE AI Tools for Beginners in 2026 (You Can Start Today!)",
+        "channel": "TechInform-24"
+      },
+      "steps": [
+        "Pick two trusted sources for AI news: one newsletter and one channel.",
+        "Try one new AI tool each month and decide if it earns a place in your kit.",
+        "Remove tools you no longer use from your kit.",
+        "Teach one person something you learned about AI this month."
+      ],
+      "task": "Pick your two AI news sources and try one new tool this month.",
+      "challenge": "Teach one person one AI skill you learned.",
+      "quiz": [
+        {
+          "q": "Why keep up with AI?",
+          "options": [
+            "It is fun",
+            "Because tools change fast, and new ones can save you hours",
+            "It is required",
+            "It is trendy"
+          ],
+          "answer": 1,
+          "explain": "AI tools change every month. A new tool can do in minutes what used to take hours."
+        },
+        {
+          "q": "How do you avoid drowning in AI news?",
+          "options": [
+            "Read everything",
+            "Pick two trusted sources and ignore the rest",
+            "Watch every video",
+            "Follow everyone"
+          ],
+          "answer": 1,
+          "explain": "Two good sources are enough. Chasing every new tool wastes the time AI is meant to save."
+        },
+        {
+          "q": "Why teach someone else?",
+          "options": [
+            "To show off",
+            "Because teaching forces you to understand it properly",
+            "It is required",
+            "It is fun"
+          ],
+          "answer": 1,
+          "explain": "Teaching tests your understanding. If you can explain it simply, you really know it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "AI and Your Career",
+      "goal": "Use AI skills to grow your career and find new work.",
+      "video": {
+        "youtube_id": "MfmUOUtAy-0",
+        "title": "NotebookLM: The Ultimate Beginner's Guide (Gemini Notebook)",
+        "channel": "Learn With Me AI"
+      },
+      "steps": [
+        "Add your AI skills to your CV with real examples of what you did.",
+        "Write a short post about a problem AI helped you solve.",
+        "Find one job or client that values AI skills.",
+        "Set a goal for the next 30 days of AI learning."
+      ],
+      "task": "Update your CV with your AI skills and real examples.",
+      "challenge": "Write a post about one problem AI helped you solve.",
+      "quiz": [
+        {
+          "q": "How do AI skills help your career?",
+          "options": [
+            "They do not",
+            "Because employers want people who can work faster and smarter with AI",
+            "Only for tech jobs",
+            "Only for writers"
+          ],
+          "answer": 1,
+          "explain": "AI skills make you faster and more capable. Employers pay for people who can do more, better, with AI."
+        },
+        {
+          "q": "What should you put on your CV?",
+          "options": [
+            "Every tool you tried",
+            "Real examples: what you did with AI and what it achieved",
+            "A list of tools",
+            "A certificate only"
+          ],
+          "answer": 1,
+          "explain": "Real examples beat tool lists. 'I cut report time from 4 hours to 1' is proof, not a claim."
+        },
+        {
+          "q": "Why share your AI work publicly?",
+          "options": [
+            "To show off",
+            "Because sharing shows your skills and brings opportunities",
+            "It is required",
+            "It is fun"
+          ],
+          "answer": 1,
+          "explain": "Sharing your work shows what you can do. Opportunities come to people whose work is visible."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your AI Project",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "yFMVT3bcrJo",
+        "title": "Ultimate ChatGPT 4o Guide 2026: How to Use Chat GPT For Beginners",
+        "channel": "AI Master"
+      },
+      "steps": [
+        "List the systems and kits you built and pick the strongest one to finish.",
+        "Write a short plan: the problem, the tools, the workflows and the demo.",
+        "Practise explaining your system in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your system."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your system.",
+      "challenge": "Show your system to one person and note their questions, then improve it.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone AI project?",
+          "options": [
+            "Many tools",
+            "A real work problem solved with a complete AI system that saves measurable time",
+            "Loud colours",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A good capstone solves a real problem with a complete system and proves it saves time."
+        },
+        {
+          "q": "Why practise explaining your system?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your system in simple words, you really understand it. That is what employers look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the tools",
+            "The problem, the tools, the workflows and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the problem, the tools and workflows, and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Build an AI-Powered Work System That Saves Real Time",
+    "brief": "Pick one area of your work and build a complete AI-powered system for it: a prompt kit, templates, workflows and a daily routine. Run it for two weeks on real work, measure the time saved, and present a short report with examples of your work before and after.",
+    "checks": [
+      "The system covers one real area of work and you can explain the problem in one sentence.",
+      "It includes a prompt kit, templates and at least two workflows.",
+      "It ran for two weeks on real work.",
+      "Time saved was measured and written down.",
+      "Before-and-after examples show the improvement.",
+      "A short report explains what worked and what to improve.",
+      "You can present the system in under five minutes in simple words."
+    ],
+    "deliverables": [
+      "A prompt kit with at least ten tested prompts.",
+      "Templates for your most common tasks.",
+      "At least two documented workflows.",
+      "A short report with time saved and before-and-after examples.",
+      "A one-page write-up of what you learned in 30 days."
+    ]
+  }
+}

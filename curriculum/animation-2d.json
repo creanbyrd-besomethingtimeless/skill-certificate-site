@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "animation-2d",
+    "title": "2D Animation",
+    "level": "Beginner to intermediate",
+    "tagline": "Bring drawings to life: timing, movement and your first short animated scene.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet animation",
+      "goal": "Learn what 2D animation is.",
+      "video": {
+        "youtube_id": "mUT0YRvkg90",
+        "title": "2D Animation for Beginners: Ultimate Tutorial and Workflow",
+        "channel": "Clip Studio Paint"
+      },
+      "steps": [
+        "Watch a short cartoon and notice how it moves.",
+        "Learn the word frame: one still picture in a moving video.",
+        "Learn that many frames played fast look like movement.",
+        "Draw three stick figures in different poses."
+      ],
+      "task": "Draw three stick figures in different poses.",
+      "challenge": "Watch a cartoon and count how many times a character blinks.",
+      "quiz": [
+        {
+          "q": "What is a frame in animation?",
+          "options": [
+            "One still picture. Many frames played fast look like movement",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A frame is one picture. When many frames play quickly, your eyes see movement."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet animation\"?",
+          "options": [
+            "Animate a short scene.",
+            "Animate a character doing something.",
+            "Animate two characters together.",
+            "Learn what 2D animation is."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Learn what 2D animation is."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Learn that many frames played fast look like movement.",
+            "Draw three stick figures in different poses.",
+            "Watch a short cartoon and notice how it moves.",
+            "Learn the word frame: one still picture in a moving video."
+          ],
+          "answer": 2,
+          "explain": "Start with: Watch a short cartoon and notice how it moves."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Draw your first flipbook",
+      "goal": "Make a flipbook with a bouncing ball.",
+      "video": {
+        "youtube_id": "uDqjIdI4bF4",
+        "title": "12 Principles of Animation (Official Full Series)",
+        "channel": "AlanBeckerTutorials"
+      },
+      "steps": [
+        "Take a small notepad.",
+        "Draw a ball at the top of page one.",
+        "Draw it a little lower on each page.",
+        "Flip the pages fast. The ball should bounce."
+      ],
+      "task": "Make a flipbook of a bouncing ball.",
+      "challenge": "Make a flipbook of a ball rolling across the page.",
+      "quiz": [
+        {
+          "q": "What is FPS?",
+          "options": [
+            "Frames per second, how many pictures play each second",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "FPS means frames per second. More frames per second means smoother movement."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Draw your first flipbook\"?",
+          "options": [
+            "Add sound to your animation.",
+            "Make a 10-second animation.",
+            "Make a flipbook with a bouncing ball.",
+            "Make movement fast or slow."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a flipbook with a bouncing ball."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Flip the pages fast. The ball should bounce.",
+            "Take a small notepad.",
+            "Draw a ball at the top of page one.",
+            "Draw it a little lower on each page."
+          ],
+          "answer": 1,
+          "explain": "Start with: Take a small notepad."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Learn about frames",
+      "goal": "Understand frames per second.",
+      "video": {
+        "youtube_id": "9_cx6jYaq8o",
+        "title": "Walk Cycle Tutorial | Moho Animation Tutorial",
+        "channel": "McCoy Buck"
+      },
+      "steps": [
+        "Learn the word FPS: frames per second, how many pictures play each second.",
+        "Most cartoons use 12 or 24 FPS.",
+        "Draw 12 pictures of a ball moving.",
+        "Play them fast to see the movement."
+      ],
+      "task": "Draw 12 frames of a ball moving.",
+      "challenge": "Draw 12 frames of a stick figure waving.",
+      "quiz": [
+        {
+          "q": "What is a frame in animation?",
+          "options": [
+            "One still picture. Many frames played fast look like movement",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A frame is one picture. When many frames play quickly, your eyes see movement."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn about frames\"?",
+          "options": [
+            "Plan an animation with a storyboard.",
+            "Understand frames per second.",
+            "Make movement start slow and end fast.",
+            "Animate a full walk cycle."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Understand frames per second."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Learn the word FPS: frames per second, how many pictures play each second.",
+            "Most cartoons use 12 or 24 FPS.",
+            "Draw 12 pictures of a ball moving.",
+            "Play them fast to see the movement."
+          ],
+          "answer": 0,
+          "explain": "Start with: Learn the word FPS: frames per second, how many pictures play each second."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Use a free animation app",
+      "goal": "Open a free animation app.",
+      "video": {
+        "youtube_id": "wTgtPN4tRKA",
+        "title": "How to Animate a Lion Walk Cycle - Step by Step",
+        "channel": "Storyframe School"
+      },
+      "steps": [
+        "Download a free app like Pencil2D or FlipaClip.",
+        "Open it and start a new project.",
+        "Find the timeline where frames sit.",
+        "Draw a circle on the first frame."
+      ],
+      "task": "Open an animation app and draw a circle on frame one.",
+      "challenge": "Draw a circle on frame one and move it on frame two.",
+      "quiz": [
+        {
+          "q": "What is FPS?",
+          "options": [
+            "Frames per second, how many pictures play each second",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "FPS means frames per second. More frames per second means smoother movement."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use a free animation app\"?",
+          "options": [
+            "Open a free animation app.",
+            "Animate a character blinking.",
+            "Animate a character running.",
+            "Animate a short story."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Open a free animation app."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open it and start a new project.",
+            "Find the timeline where frames sit.",
+            "Draw a circle on the first frame.",
+            "Download a free app like Pencil2D or FlipaClip."
+          ],
+          "answer": 3,
+          "explain": "Start with: Download a free app like Pencil2D or FlipaClip."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Animate a bouncing ball",
+      "goal": "Animate a ball bouncing in your app.",
+      "video": {
+        "youtube_id": "aC59FHtbrtI",
+        "title": "Tahoma2D / OpenToonz Animation Tutorial",
+        "channel": "Animate with Dermot"
+      },
+      "steps": [
+        "Draw a ball at the top on frame one.",
+        "Copy the frame and move the ball down a little.",
+        "Repeat until the ball hits the ground.",
+        "Play it back. The ball should bounce."
+      ],
+      "task": "Animate a bouncing ball in your app.",
+      "challenge": "Animate a ball bouncing twice.",
+      "quiz": [
+        {
+          "q": "What is a frame in animation?",
+          "options": [
+            "One still picture. Many frames played fast look like movement",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A frame is one picture. When many frames play quickly, your eyes see movement."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a bouncing ball\"?",
+          "options": [
+            "Animate a character jumping.",
+            "Animate a face changing feelings.",
+            "Color your animation.",
+            "Animate a ball bouncing in your app."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Animate a ball bouncing in your app."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Repeat until the ball hits the ground.",
+            "Play it back. The ball should bounce.",
+            "Draw a ball at the top on frame one.",
+            "Copy the frame and move the ball down a little."
+          ],
+          "answer": 2,
+          "explain": "Start with: Draw a ball at the top on frame one."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Animate a walking figure",
+      "goal": "Animate a stick figure walking.",
+      "video": {
+        "youtube_id": "DKRi8qcq4Xo",
+        "title": "After Effects for Beginners: Create Your First Animation in 5 Easy Steps",
+        "channel": "Megan Friesth"
+      },
+      "steps": [
+        "Draw a stick figure on frame one.",
+        "Copy the frame and move one leg forward.",
+        "Repeat, moving the other leg.",
+        "Play it back. The figure should walk."
+      ],
+      "task": "Animate a stick figure walking.",
+      "challenge": "Animate a stick figure running.",
+      "quiz": [
+        {
+          "q": "What is FPS?",
+          "options": [
+            "Frames per second, how many pictures play each second",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "FPS means frames per second. More frames per second means smoother movement."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a walking figure\"?",
+          "options": [
+            "Animate a character talking.",
+            "Make a stiff animation move better.",
+            "Animate a stick figure walking.",
+            "Animate a character waving."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Animate a stick figure walking."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play it back. The figure should walk.",
+            "Draw a stick figure on frame one.",
+            "Copy the frame and move one leg forward.",
+            "Repeat, moving the other leg."
+          ],
+          "answer": 1,
+          "explain": "Start with: Draw a stick figure on frame one."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Squash and stretch",
+      "goal": "Make a ball squash when it hits the ground.",
+      "video": {
+        "youtube_id": "bo2oPqridvY",
+        "title": "Adobe After Effects Tutorial for Beginners | A Free 3 Hour Masterclass",
+        "channel": "Kyle Hamrick"
+      },
+      "steps": [
+        "Animate a ball falling.",
+        "On the frame where it hits the ground, draw it flat and wide.",
+        "On the next frame, draw it tall and thin as it bounces up.",
+        "Play it back. It should look bouncy."
+      ],
+      "task": "Animate a ball with squash and stretch.",
+      "challenge": "Animate a ball that squashes and stretches twice.",
+      "quiz": [
+        {
+          "q": "What is a frame in animation?",
+          "options": [
+            "One still picture. Many frames played fast look like movement",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A frame is one picture. When many frames play quickly, your eyes see movement."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Squash and stretch\"?",
+          "options": [
+            "Find the style you love to animate.",
+            "Make a ball squash when it hits the ground.",
+            "Animate a character doing something.",
+            "Animate two characters together."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a ball squash when it hits the ground."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Animate a ball falling.",
+            "On the frame where it hits the ground, draw it flat and wide.",
+            "On the next frame, draw it tall and thin as it bounces up.",
+            "Play it back. It should look bouncy."
+          ],
+          "answer": 0,
+          "explain": "Start with: Animate a ball falling."
+        }
+      ],
+      "project": {
+        "title": "Animate a Bouncing Ball",
+        "brief": "Animate a ball bouncing with squash and stretch.",
+        "checks": [
+          "Ball bounces",
+          "Squash and stretch used",
+          "At least 12 frames",
+          "Movement looks smooth",
+          "Exported as a video",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Your first animated scene",
+      "goal": "Animate a short scene.",
+      "video": {
+        "youtube_id": "HcHq9XjGuzc",
+        "title": "Intro to Motion Graphics [1/4] | After Effects Tutorial",
+        "channel": "TipTut"
+      },
+      "steps": [
+        "Pick a simple scene, like a ball bouncing.",
+        "Draw the background on one layer.",
+        "Animate the ball on another layer.",
+        "Export the animation as a video."
+      ],
+      "task": "Animate a short scene and export it.",
+      "challenge": "Show your animation to a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is squash and stretch?",
+          "options": [
+            "Making a shape squash flat and stretch tall to show movement",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Squash and stretch makes movement look bouncy and alive. A ball squashes when it hits the ground."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first animated scene\"?",
+          "options": [
+            "Animate a short scene.",
+            "Add sound to your animation.",
+            "Make a 10-second animation.",
+            "Pick your best animations."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Animate a short scene."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Draw the background on one layer.",
+            "Animate the ball on another layer.",
+            "Export the animation as a video.",
+            "Pick a simple scene, like a ball bouncing."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a simple scene, like a ball bouncing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Learn timing",
+      "goal": "Make movement fast or slow.",
+      "video": {
+        "youtube_id": "pHWg1js_F08",
+        "title": "3 Motion Graphics Techniques | After Effects Tutorial",
+        "channel": "Animation Deconstructed"
+      },
+      "steps": [
+        "Animate a ball moving across the screen in 6 frames.",
+        "Animate the same ball in 12 frames.",
+        "The 12-frame version moves slower.",
+        "Pick the timing that looks best."
+      ],
+      "task": "Animate a ball in 6 frames and in 12 frames, then compare.",
+      "challenge": "Animate a character waving fast and slow.",
+      "quiz": [
+        {
+          "q": "What is a flipbook?",
+          "options": [
+            "A small book where drawings on each page make a moving picture when flipped",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A flipbook is a stack of drawings. Flipping the pages fast makes the drawings move."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn timing\"?",
+          "options": [
+            "Animate a full walk cycle.",
+            "Plan an animation with a storyboard.",
+            "Animate a face blinking and smiling.",
+            "Make movement fast or slow."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make movement fast or slow."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "The 12-frame version moves slower.",
+            "Pick the timing that looks best.",
+            "Animate a ball moving across the screen in 6 frames.",
+            "Animate the same ball in 12 frames."
+          ],
+          "answer": 2,
+          "explain": "Start with: Animate a ball moving across the screen in 6 frames."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Learn easing",
+      "goal": "Make movement start slow and end fast.",
+      "video": {
+        "youtube_id": "zEQ-CBAQq00",
+        "title": "5 Tips For Getting Started In After Effects",
+        "channel": "Shutterstock Tutorials"
+      },
+      "steps": [
+        "Animate a ball rolling.",
+        "Put the frames close together at the start.",
+        "Put them farther apart at the end.",
+        "Play it back. The ball should speed up."
+      ],
+      "task": "Animate a ball that speeds up.",
+      "challenge": "Animate a ball that slows down.",
+      "quiz": [
+        {
+          "q": "What is squash and stretch?",
+          "options": [
+            "Making a shape squash flat and stretch tall to show movement",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Squash and stretch makes movement look bouncy and alive. A ball squashes when it hits the ground."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn easing\"?",
+          "options": [
+            "Animate a short story.",
+            "Pick your best work and say why it works.",
+            "Make movement start slow and end fast.",
+            "Animate a character running."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make movement start slow and end fast."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play it back. The ball should speed up.",
+            "Animate a ball rolling.",
+            "Put the frames close together at the start.",
+            "Put them farther apart at the end."
+          ],
+          "answer": 1,
+          "explain": "Start with: Animate a ball rolling."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Animate a blinking eye",
+      "goal": "Animate a character blinking.",
+      "video": {
+        "youtube_id": "mUT0YRvkg90",
+        "title": "2D Animation for Beginners: Ultimate Tutorial and Workflow",
+        "channel": "Clip Studio Paint"
+      },
+      "steps": [
+        "Draw a face with open eyes.",
+        "Copy the frame and draw the eyes half closed.",
+        "Copy again and draw the eyes closed.",
+        "Play it back. The character should blink."
+      ],
+      "task": "Animate a character blinking.",
+      "challenge": "Animate a character blinking twice.",
+      "quiz": [
+        {
+          "q": "What is a flipbook?",
+          "options": [
+            "A small book where drawings on each page make a moving picture when flipped",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A flipbook is a stack of drawings. Flipping the pages fast makes the drawings move."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a blinking eye\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Animate a character blinking.",
+            "Animate a face changing feelings.",
+            "Color your animation."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Animate a character blinking."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Draw a face with open eyes.",
+            "Copy the frame and draw the eyes half closed.",
+            "Copy again and draw the eyes closed.",
+            "Play it back. The character should blink."
+          ],
+          "answer": 0,
+          "explain": "Start with: Draw a face with open eyes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Animate a jump",
+      "goal": "Animate a character jumping.",
+      "video": {
+        "youtube_id": "uDqjIdI4bF4",
+        "title": "12 Principles of Animation (Official Full Series)",
+        "channel": "AlanBeckerTutorials"
+      },
+      "steps": [
+        "Draw a character standing.",
+        "Draw it crouching down.",
+        "Draw it in the air with legs bent.",
+        "Play it back. The character should jump."
+      ],
+      "task": "Animate a character jumping.",
+      "challenge": "Animate a character jumping over a box.",
+      "quiz": [
+        {
+          "q": "What is squash and stretch?",
+          "options": [
+            "Making a shape squash flat and stretch tall to show movement",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Squash and stretch makes movement look bouncy and alive. A ball squashes when it hits the ground."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a jump\"?",
+          "options": [
+            "Animate a character jumping.",
+            "Animate a character talking.",
+            "Make a stiff animation move better.",
+            "Learn what 2D animation is."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Animate a character jumping."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Draw it crouching down.",
+            "Draw it in the air with legs bent.",
+            "Play it back. The character should jump.",
+            "Draw a character standing."
+          ],
+          "answer": 3,
+          "explain": "Start with: Draw a character standing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Animate a wave",
+      "goal": "Animate a character waving.",
+      "video": {
+        "youtube_id": "9_cx6jYaq8o",
+        "title": "Walk Cycle Tutorial | Moho Animation Tutorial",
+        "channel": "McCoy Buck"
+      },
+      "steps": [
+        "Draw a character with its arm down.",
+        "Copy the frame and raise the arm a little.",
+        "Repeat until the arm is up.",
+        "Play it back. The character should wave."
+      ],
+      "task": "Animate a character waving.",
+      "challenge": "Animate a character waving and smiling.",
+      "quiz": [
+        {
+          "q": "What is a flipbook?",
+          "options": [
+            "A small book where drawings on each page make a moving picture when flipped",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A flipbook is a stack of drawings. Flipping the pages fast makes the drawings move."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a wave\"?",
+          "options": [
+            "Animate two characters together.",
+            "Find the style you love to animate.",
+            "Make a flipbook with a bouncing ball.",
+            "Animate a character waving."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Animate a character waving."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Repeat until the arm is up.",
+            "Play it back. The character should wave.",
+            "Draw a character with its arm down.",
+            "Copy the frame and raise the arm a little."
+          ],
+          "answer": 2,
+          "explain": "Start with: Draw a character with its arm down."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Your first character scene",
+      "goal": "Animate a character doing something.",
+      "video": {
+        "youtube_id": "wTgtPN4tRKA",
+        "title": "How to Animate a Lion Walk Cycle - Step by Step",
+        "channel": "Storyframe School"
+      },
+      "steps": [
+        "Pick a simple action, like waving or jumping.",
+        "Draw the background.",
+        "Animate the character.",
+        "Export the animation."
+      ],
+      "task": "Animate a character doing one action.",
+      "challenge": "Show your animation to a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is squash and stretch?",
+          "options": [
+            "Making a shape squash flat and stretch tall to show movement",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Squash and stretch makes movement look bouncy and alive. A ball squashes when it hits the ground."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first character scene\"?",
+          "options": [
+            "Pick your best animations.",
+            "Understand frames per second.",
+            "Animate a character doing something.",
+            "Make a 10-second animation."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Animate a character doing something."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Export the animation.",
+            "Pick a simple action, like waving or jumping.",
+            "Draw the background.",
+            "Animate the character."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a simple action, like waving or jumping."
+        }
+      ],
+      "project": {
+        "title": "Animate a Character",
+        "brief": "Animate a character doing one action.",
+        "checks": [
+          "Character is drawn",
+          "Action is clear",
+          "At least 12 frames",
+          "Movement looks smooth",
+          "Exported as a video",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Add sound",
+      "goal": "Add sound to your animation.",
+      "video": {
+        "youtube_id": "aC59FHtbrtI",
+        "title": "Tahoma2D / OpenToonz Animation Tutorial",
+        "channel": "Animate with Dermot"
+      },
+      "steps": [
+        "Open your animation in a video editor.",
+        "Add a music track.",
+        "Add a sound effect at a key moment.",
+        "Export the video with sound."
+      ],
+      "task": "Add music and a sound effect to your animation.",
+      "challenge": "Add a voice to your animation.",
+      "quiz": [
+        {
+          "q": "What is a walk cycle?",
+          "options": [
+            "A set of frames that loops to show a character walking",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A walk cycle is a loop of frames showing one full step. It repeats to make a character walk."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add sound\"?",
+          "options": [
+            "Open a free animation app.",
+            "Add sound to your animation.",
+            "Plan an animation with a storyboard.",
+            "Animate a face blinking and smiling."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Add sound to your animation."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open your animation in a video editor.",
+            "Add a music track.",
+            "Add a sound effect at a key moment.",
+            "Export the video with sound."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open your animation in a video editor."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Animate a walk cycle",
+      "goal": "Animate a full walk cycle.",
+      "video": {
+        "youtube_id": "DKRi8qcq4Xo",
+        "title": "After Effects for Beginners: Create Your First Animation in 5 Easy Steps",
+        "channel": "Megan Friesth"
+      },
+      "steps": [
+        "Draw a character in eight poses: two steps.",
+        "Make each pose a frame.",
+        "Play the frames in a loop.",
+        "The character should walk in place."
+      ],
+      "task": "Animate an 8-frame walk cycle.",
+      "challenge": "Animate a walk cycle with a character carrying a bag.",
+      "quiz": [
+        {
+          "q": "What is a storyboard?",
+          "options": [
+            "A set of sketches that plan out an animation scene by scene",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A storyboard is a plan. It shows each scene as a sketch with a short note."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a walk cycle\"?",
+          "options": [
+            "Animate a full walk cycle.",
+            "Animate a short story.",
+            "Pick your best work and say why it works.",
+            "Animate a ball bouncing in your app."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Animate a full walk cycle."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make each pose a frame.",
+            "Play the frames in a loop.",
+            "The character should walk in place.",
+            "Draw a character in eight poses: two steps."
+          ],
+          "answer": 3,
+          "explain": "Start with: Draw a character in eight poses: two steps."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Animate a run cycle",
+      "goal": "Animate a character running.",
+      "video": {
+        "youtube_id": "bo2oPqridvY",
+        "title": "Adobe After Effects Tutorial for Beginners | A Free 3 Hour Masterclass",
+        "channel": "Kyle Hamrick"
+      },
+      "steps": [
+        "Draw a character in six running poses.",
+        "Make each pose a frame.",
+        "Play the frames in a loop.",
+        "The character should run in place."
+      ],
+      "task": "Animate a 6-frame run cycle.",
+      "challenge": "Animate a run cycle with a character jumping over a hurdle.",
+      "quiz": [
+        {
+          "q": "What is a walk cycle?",
+          "options": [
+            "A set of frames that loops to show a character walking",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A walk cycle is a loop of frames showing one full step. It repeats to make a character walk."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a run cycle\"?",
+          "options": [
+            "Color your animation.",
+            "Write a simple plan to keep getting better.",
+            "Animate a stick figure walking.",
+            "Animate a character running."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Animate a character running."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play the frames in a loop.",
+            "The character should run in place.",
+            "Draw a character in six running poses.",
+            "Make each pose a frame."
+          ],
+          "answer": 2,
+          "explain": "Start with: Draw a character in six running poses."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Animate a face",
+      "goal": "Animate a face changing feelings.",
+      "video": {
+        "youtube_id": "HcHq9XjGuzc",
+        "title": "Intro to Motion Graphics [1/4] | After Effects Tutorial",
+        "channel": "TipTut"
+      },
+      "steps": [
+        "Draw a face that is happy.",
+        "Copy it and make it surprised.",
+        "Copy it and make it sad.",
+        "Play the frames in order."
+      ],
+      "task": "Animate a face from happy to sad.",
+      "challenge": "Animate a face from calm to surprised.",
+      "quiz": [
+        {
+          "q": "What is a storyboard?",
+          "options": [
+            "A set of sketches that plan out an animation scene by scene",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A storyboard is a plan. It shows each scene as a sketch with a short note."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a face\"?",
+          "options": [
+            "Learn what 2D animation is.",
+            "Make a ball squash when it hits the ground.",
+            "Animate a face changing feelings.",
+            "Make a stiff animation move better."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Animate a face changing feelings."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play the frames in order.",
+            "Draw a face that is happy.",
+            "Copy it and make it surprised.",
+            "Copy it and make it sad."
+          ],
+          "answer": 1,
+          "explain": "Start with: Draw a face that is happy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Animate a talk",
+      "goal": "Animate a character talking.",
+      "video": {
+        "youtube_id": "pHWg1js_F08",
+        "title": "3 Motion Graphics Techniques | After Effects Tutorial",
+        "channel": "Animation Deconstructed"
+      },
+      "steps": [
+        "Draw a character with a closed mouth.",
+        "Draw it with an open mouth.",
+        "Alternate the two frames while audio plays.",
+        "The character should look like it is talking."
+      ],
+      "task": "Animate a character talking.",
+      "challenge": "Record your voice and animate a character to match it.",
+      "quiz": [
+        {
+          "q": "What is a walk cycle?",
+          "options": [
+            "A set of frames that loops to show a character walking",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A walk cycle is a loop of frames showing one full step. It repeats to make a character walk."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a talk\"?",
+          "options": [
+            "Animate a short scene.",
+            "Animate a character talking.",
+            "Find the style you love to animate.",
+            "Make a flipbook with a bouncing ball."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Animate a character talking."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Draw a character with a closed mouth.",
+            "Draw it with an open mouth.",
+            "Alternate the two frames while audio plays.",
+            "The character should look like it is talking."
+          ],
+          "answer": 0,
+          "explain": "Start with: Draw a character with a closed mouth."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Animate a scene with two characters",
+      "goal": "Animate two characters together.",
+      "video": {
+        "youtube_id": "zEQ-CBAQq00",
+        "title": "5 Tips For Getting Started In After Effects",
+        "channel": "Shutterstock Tutorials"
+      },
+      "steps": [
+        "Draw two characters.",
+        "Animate one waving.",
+        "Animate the other waving back.",
+        "Export the animation."
+      ],
+      "task": "Animate two characters waving at each other.",
+      "challenge": "Animate two characters having a short talk.",
+      "quiz": [
+        {
+          "q": "What is a storyboard?",
+          "options": [
+            "A set of sketches that plan out an animation scene by scene",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A storyboard is a plan. It shows each scene as a sketch with a short note."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a scene with two characters\"?",
+          "options": [
+            "Animate two characters together.",
+            "Pick your best animations.",
+            "Understand frames per second.",
+            "Make movement fast or slow."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Animate two characters together."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Animate one waving.",
+            "Animate the other waving back.",
+            "Export the animation.",
+            "Draw two characters."
+          ],
+          "answer": 3,
+          "explain": "Start with: Draw two characters."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Your first short animation",
+      "goal": "Make a 10-second animation.",
+      "video": {
+        "youtube_id": "mUT0YRvkg90",
+        "title": "2D Animation for Beginners: Ultimate Tutorial and Workflow",
+        "channel": "Clip Studio Paint"
+      },
+      "steps": [
+        "Write a simple story in three sentences.",
+        "Draw the scenes.",
+        "Animate the characters.",
+        "Add sound and export it."
+      ],
+      "task": "Make a 10-second animation.",
+      "challenge": "Show your animation to a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a walk cycle?",
+          "options": [
+            "A set of frames that loops to show a character walking",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "A walk cycle is a loop of frames showing one full step. It repeats to make a character walk."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first short animation\"?",
+          "options": [
+            "Animate a face blinking and smiling.",
+            "Open a free animation app.",
+            "Make movement start slow and end fast.",
+            "Make a 10-second animation."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a 10-second animation."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Animate the characters.",
+            "Add sound and export it.",
+            "Write a simple story in three sentences.",
+            "Draw the scenes."
+          ],
+          "answer": 2,
+          "explain": "Start with: Write a simple story in three sentences."
+        }
+      ],
+      "project": {
+        "title": "Make a 10-Second Animation",
+        "brief": "Make a 10-second animation with a story.",
+        "checks": [
+          "Animation is about 10 seconds",
+          "Has a clear story",
+          "Has a character",
+          "Has sound",
+          "Exported as a video",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Learn about storyboards",
+      "goal": "Plan an animation with a storyboard.",
+      "video": {
+        "youtube_id": "uDqjIdI4bF4",
+        "title": "12 Principles of Animation (Official Full Series)",
+        "channel": "AlanBeckerTutorials"
+      },
+      "steps": [
+        "Draw three boxes on paper.",
+        "Sketch one scene in each box.",
+        "Write one sentence under each box.",
+        "Use the storyboard to plan your next animation."
+      ],
+      "task": "Draw a 3-panel storyboard.",
+      "challenge": "Draw a storyboard for a 10-second animation.",
+      "quiz": [
+        {
+          "q": "What is timing in animation?",
+          "options": [
+            "How many frames a movement takes, which controls how fast or slow it feels",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Timing is the number of frames in a move. Fewer frames means faster. More frames means slower."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn about storyboards\"?",
+          "options": [
+            "Animate a ball bouncing in your app.",
+            "Animate a character blinking.",
+            "Plan an animation with a storyboard.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Plan an animation with a storyboard."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use the storyboard to plan your next animation.",
+            "Draw three boxes on paper.",
+            "Sketch one scene in each box.",
+            "Write one sentence under each box."
+          ],
+          "answer": 1,
+          "explain": "Start with: Draw three boxes on paper."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Animate a simple story",
+      "goal": "Animate a short story.",
+      "video": {
+        "youtube_id": "9_cx6jYaq8o",
+        "title": "Walk Cycle Tutorial | Moho Animation Tutorial",
+        "channel": "McCoy Buck"
+      },
+      "steps": [
+        "Use your storyboard from yesterday.",
+        "Animate each scene.",
+        "Put the scenes together.",
+        "Add sound and export it."
+      ],
+      "task": "Animate a short story from a storyboard.",
+      "challenge": "Animate a story about a lost ball.",
+      "quiz": [
+        {
+          "q": "What is easing in animation?",
+          "options": [
+            "Making movement start slow and speed up, or slow down at the end",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Easing makes movement feel natural. Real things speed up and slow down, they do not move at one speed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a simple story\"?",
+          "options": [
+            "Animate a character jumping.",
+            "Animate a short story.",
+            "Write a simple plan to keep getting better.",
+            "Animate a stick figure walking."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Animate a short story."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use your storyboard from yesterday.",
+            "Animate each scene.",
+            "Put the scenes together.",
+            "Add sound and export it."
+          ],
+          "answer": 0,
+          "explain": "Start with: Use your storyboard from yesterday."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Add color",
+      "goal": "Color your animation.",
+      "video": {
+        "youtube_id": "wTgtPN4tRKA",
+        "title": "How to Animate a Lion Walk Cycle - Step by Step",
+        "channel": "Storyframe School"
+      },
+      "steps": [
+        "Open an animation you made.",
+        "Add color to the characters.",
+        "Add color to the background.",
+        "Export the colored animation."
+      ],
+      "task": "Add color to one of your animations.",
+      "challenge": "Color the same animation in two styles and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is timing in animation?",
+          "options": [
+            "How many frames a movement takes, which controls how fast or slow it feels",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Timing is the number of frames in a move. Fewer frames means faster. More frames means slower."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add color\"?",
+          "options": [
+            "Color your animation.",
+            "Learn what 2D animation is.",
+            "Make a ball squash when it hits the ground.",
+            "Animate a character waving."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Color your animation."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add color to the characters.",
+            "Add color to the background.",
+            "Export the colored animation.",
+            "Open an animation you made."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open an animation you made."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Fix a stiff animation",
+      "goal": "Make a stiff animation move better.",
+      "video": {
+        "youtube_id": "aC59FHtbrtI",
+        "title": "Tahoma2D / OpenToonz Animation Tutorial",
+        "channel": "Animate with Dermot"
+      },
+      "steps": [
+        "Open an animation that looks stiff.",
+        "Add one more frame between each move.",
+        "Add squash and stretch to the ball or character.",
+        "Play it back. It should look smoother."
+      ],
+      "task": "Fix a stiff animation with more frames.",
+      "challenge": "Add squash and stretch to an old animation.",
+      "quiz": [
+        {
+          "q": "What is easing in animation?",
+          "options": [
+            "Making movement start slow and speed up, or slow down at the end",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Easing makes movement feel natural. Real things speed up and slow down, they do not move at one speed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix a stiff animation\"?",
+          "options": [
+            "Make a flipbook with a bouncing ball.",
+            "Animate a short scene.",
+            "Animate a character doing something.",
+            "Make a stiff animation move better."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a stiff animation move better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add squash and stretch to the ball or character.",
+            "Play it back. It should look smoother.",
+            "Open an animation that looks stiff.",
+            "Add one more frame between each move."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open an animation that looks stiff."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Build your style",
+      "goal": "Find the style you love to animate.",
+      "video": {
+        "youtube_id": "DKRi8qcq4Xo",
+        "title": "After Effects for Beginners: Create Your First Animation in 5 Easy Steps",
+        "channel": "Megan Friesth"
+      },
+      "steps": [
+        "Look at all the animations you made this month.",
+        "Pick the three you love most.",
+        "Write down what they have in common.",
+        "Make two more animations in that style."
+      ],
+      "task": "Pick your three favorite animations and find what they have in common.",
+      "challenge": "Make two new animations in your favorite style.",
+      "quiz": [
+        {
+          "q": "What is timing in animation?",
+          "options": [
+            "How many frames a movement takes, which controls how fast or slow it feels",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Timing is the number of frames in a move. Fewer frames means faster. More frames means slower."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build your style\"?",
+          "options": [
+            "Make movement fast or slow.",
+            "Add sound to your animation.",
+            "Find the style you love to animate.",
+            "Understand frames per second."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Find the style you love to animate."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make two more animations in that style.",
+            "Look at all the animations you made this month.",
+            "Pick the three you love most.",
+            "Write down what they have in common."
+          ],
+          "answer": 1,
+          "explain": "Start with: Look at all the animations you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Your portfolio",
+      "goal": "Pick your best animations.",
+      "video": {
+        "youtube_id": "bo2oPqridvY",
+        "title": "Adobe After Effects Tutorial for Beginners | A Free 3 Hour Masterclass",
+        "channel": "Kyle Hamrick"
+      },
+      "steps": [
+        "Look at all the animations you made this month.",
+        "Pick your best five.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each animation."
+      ],
+      "task": "Pick your best five animations and save them in a portfolio.",
+      "challenge": "Share your portfolio with a friend and ask which animation is best.",
+      "quiz": [
+        {
+          "q": "What is easing in animation?",
+          "options": [
+            "Making movement start slow and speed up, or slow down at the end",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Easing makes movement feel natural. Real things speed up and slow down, they do not move at one speed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your portfolio\"?",
+          "options": [
+            "Animate a full walk cycle.",
+            "Pick your best animations.",
+            "Open a free animation app.",
+            "Make movement start slow and end fast."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Pick your best animations."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at all the animations you made this month.",
+            "Pick your best five.",
+            "Save them in a folder called Portfolio.",
+            "Write one sentence about each animation."
+          ],
+          "answer": 0,
+          "explain": "Start with: Look at all the animations you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Animate a blink and a smile",
+      "goal": "Animate a face blinking and smiling.",
+      "video": {
+        "youtube_id": "HcHq9XjGuzc",
+        "title": "Intro to Motion Graphics [1/4] | After Effects Tutorial",
+        "channel": "TipTut"
+      },
+      "steps": [
+        "Draw a face with open eyes and a small smile.",
+        "Copy it and close the eyes.",
+        "Copy it and make the smile bigger.",
+        "Play the frames in order."
+      ],
+      "task": "Animate a face blinking and smiling.",
+      "challenge": "Animate a face that looks surprised, then happy.",
+      "quiz": [
+        {
+          "q": "What is timing in animation?",
+          "options": [
+            "How many frames a movement takes, which controls how fast or slow it feels",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Timing is the number of frames in a move. Fewer frames means faster. More frames means slower."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Animate a blink and a smile\"?",
+          "options": [
+            "Animate a face blinking and smiling.",
+            "Animate a ball bouncing in your app.",
+            "Animate a character blinking.",
+            "Animate a character running."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Animate a face blinking and smiling."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Copy it and close the eyes.",
+            "Copy it and make the smile bigger.",
+            "Play the frames in order.",
+            "Draw a face with open eyes and a small smile."
+          ],
+          "answer": 3,
+          "explain": "Start with: Draw a face with open eyes and a small smile."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "pHWg1js_F08",
+        "title": "3 Motion Graphics Techniques | After Effects Tutorial",
+        "channel": "Animation Deconstructed"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three animations.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three animations and write why each one works.",
+      "challenge": "Show your best animation to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is easing in animation?",
+          "options": [
+            "Making movement start slow and speed up, or slow down at the end",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Easing makes movement feel natural. Real things speed up and slow down, they do not move at one speed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Animate a stick figure walking.",
+            "Animate a character jumping.",
+            "Animate a face changing feelings.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three animations."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "zEQ-CBAQq00",
+        "title": "5 Tips For Getting Started In After Effects",
+        "channel": "Shutterstock Tutorials"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your animation.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is timing in animation?",
+          "options": [
+            "How many frames a movement takes, which controls how fast or slow it feels",
+            "A type of camera",
+            "A kind of paper",
+            "A music track"
+          ],
+          "answer": 0,
+          "explain": "Timing is the number of frames in a move. Fewer frames means faster. More frames means slower."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Animate a character waving.",
+            "Animate a character talking.",
+            "Write a simple plan to keep getting better.",
+            "Make a ball squash when it hits the ground."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your First Animated Short",
+    "brief": "Make a 30-second animated short: a character, a story with a start, middle and end, sound, and color. Export it as a video.",
+    "checks": [
+      "Animation is 25 to 35 seconds long",
+      "Has a clear story",
+      "Has at least one character",
+      "Has sound",
+      "Has color",
+      "Exports as a video",
+      "Shared with friends"
+    ],
+    "deliverables": [
+      "Final video file",
+      "Storyboard",
+      "Character drawings",
+      "A short note on the story",
+      "A plan for your next animation"
+    ]
+  }
+}

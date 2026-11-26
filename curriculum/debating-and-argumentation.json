@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "debating-and-argumentation",
+    "title": "Debating and Argumentation",
+    "level": "Beginner",
+    "tagline": "Argue any point with logic, evidence and calm confidence.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What is a debate?",
+      "goal": "Say what a debate is and how it works.",
+      "video": {
+        "youtube_id": "2AFJFm7eEMI",
+        "title": "How to write a debate in seven easy steps",
+        "channel": "Groobles Media"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for what a debate is: two sides, one motion, a judge in your own words.",
+        "Write a short for-and-against list on today's topic, using what a debate is: two sides, one motion, a judge.",
+        "Practise arguing one side of what a debate is: two sides, one motion, a judge aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate what a debate is: two sides, one motion, a judge with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write down what a debate is in two sentences.",
+      "challenge": "Explain a debate to a friend in one minute.",
+      "quiz": [
+        {
+          "q": "What is a debate?",
+          "options": [
+            "Two sides argue for and against one idea, and a judge picks the winner.",
+            "Two people shouting at each other.",
+            "One person talking alone.",
+            "A test with right and wrong answers."
+          ],
+          "answer": 0,
+          "explain": "A debate has two sides, one idea to argue about (called a motion), and a judge who picks the winner."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Give a two-minute speech for one side of a motion.",
+            "Say what a debate is and how it works.",
+            "Stay calm when someone attacks your point.",
+            "Use short notes, not a full script."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about What is a debate? — its goal is: Say what a debate is and how it works."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "linking evidence to your claim",
+            "rebutting with evidence",
+            "asking good questions in debate",
+            "what a debate is: two sides, one motion, a judge"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was what a debate is: two sides, one motion, a judge."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Know the motion",
+      "goal": "Understand what the motion asks you to argue.",
+      "video": {
+        "youtube_id": "2AFJFm7eEMI",
+        "title": "How to write a debate in seven easy steps",
+        "channel": "Groobles Media"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for understanding the motion in your own words.",
+        "Write a short for-and-against list on today's topic, using understanding the motion.",
+        "Practise arguing one side of understanding the motion aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate understanding the motion with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write a motion in your own words. Say what each side must prove.",
+      "challenge": "Pick a motion and argue both sides for one minute each.",
+      "quiz": [
+        {
+          "q": "What is a motion?",
+          "options": [
+            "The idea the debate is about, like 'School uniforms should be banned'.",
+            "A hand movement.",
+            "A type of speech.",
+            "The name of the judge."
+          ],
+          "answer": 0,
+          "explain": "The motion is the idea being debated. One side supports it, the other side opposes it."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Listen and write down the other side's points.",
+            "Debate a motion for four minutes.",
+            "Understand what the motion asks you to argue.",
+            "Debate a topic with strong feelings on both sides."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Know the motion — its goal is: Understand what the motion asks you to argue."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "understanding the motion",
+            "building a full argument: claim, evidence, link",
+            "logical fallacies: tricks that make arguments bad",
+            "speaking with confidence in debate"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was understanding the motion."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Build a claim",
+      "goal": "Make a clear claim you can defend.",
+      "video": {
+        "youtube_id": "2AFJFm7eEMI",
+        "title": "How to write a debate in seven easy steps",
+        "channel": "Groobles Media"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for making a clear claim in your own words.",
+        "Write a short for-and-against list on today's topic, using making a clear claim.",
+        "Practise arguing one side of making a clear claim aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate making a clear claim with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write three claims about one topic. Pick the strongest.",
+      "challenge": "Say your claim in one short sentence.",
+      "quiz": [
+        {
+          "q": "What is a claim?",
+          "options": [
+            "One clear point you want people to believe.",
+            "A long story.",
+            "A fact nobody can check.",
+            "An insult."
+          ],
+          "answer": 0,
+          "explain": "A claim is one clear point you want people to believe, like 'School uniforms save families money.'"
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Find the weak spot in an argument.",
+            "Argue for a side you disagree with.",
+            "Debate a new motion from start to finish.",
+            "Make a clear claim you can defend."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Build a claim — its goal is: Make a clear claim you can defend."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "a two-minute speech for one side",
+            "making a clear claim",
+            "staying calm under pressure",
+            "using short notes in debate"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was making a clear claim."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Find evidence",
+      "goal": "Find facts and examples that support your claim.",
+      "video": {
+        "youtube_id": "0K-aoZBKrNs",
+        "title": "Debating Tips and Techniques",
+        "channel": "How Do I Homeschool"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for finding evidence: facts, examples and stories in your own words.",
+        "Write a short for-and-against list on today's topic, using finding evidence: facts, examples and stories.",
+        "Practise arguing one side of finding evidence: facts, examples and stories aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate finding evidence: facts, examples and stories with a friend or family member for 5 minutes today."
+      ],
+      "task": "Find three pieces of evidence for your claim.",
+      "challenge": "Find one fact from a trusted source today.",
+      "quiz": [
+        {
+          "q": "What counts as good evidence?",
+          "options": [
+            "A fact from a trusted source or a real example.",
+            "Something you heard once.",
+            "A guess.",
+            "A loud opinion."
+          ],
+          "answer": 0,
+          "explain": "Good evidence is a fact from a trusted source or a real example. Guesses are not evidence."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Find facts and examples that support your claim.",
+            "Say what a rebuttal is and why it matters.",
+            "Use a real example to make your point clear.",
+            "Persuade with reasons, not pressure."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Find evidence — its goal is: Find facts and examples that support your claim."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "listening to the other side",
+            "a full four-minute debate",
+            "finding evidence: facts, examples and stories",
+            "debating a hard topic"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was finding evidence: facts, examples and stories."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Link evidence to your claim",
+      "goal": "Explain why your evidence proves your claim.",
+      "video": {
+        "youtube_id": "0K-aoZBKrNs",
+        "title": "Debating Tips and Techniques",
+        "channel": "How Do I Homeschool"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for linking evidence to your claim in your own words.",
+        "Write a short for-and-against list on today's topic, using linking evidence to your claim.",
+        "Practise arguing one side of linking evidence to your claim aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate linking evidence to your claim with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write one claim, one piece of evidence, and one line linking them.",
+      "challenge": "Explain to a friend why your evidence matters.",
+      "quiz": [
+        {
+          "q": "Why must you link evidence to your claim?",
+          "options": [
+            "Evidence alone does not prove anything. The link shows why it matters.",
+            "It makes your speech longer.",
+            "Judges like long speeches.",
+            "It hides weak evidence."
+          ],
+          "answer": 0,
+          "explain": "Evidence alone proves nothing. You must say why it supports your claim."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Answer a point with a fact, not just an opinion.",
+            "Explain why your evidence proves your claim.",
+            "Ask questions that test the other side's case.",
+            "Answer a question you did not expect."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Link evidence to your claim — its goal is: Explain why your evidence proves your claim."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "spotting weak arguments",
+            "arguing for a side you disagree with",
+            "a second full debate",
+            "linking evidence to your claim"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was linking evidence to your claim."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Build your first argument",
+      "goal": "Build a full argument: claim, evidence, link.",
+      "video": {
+        "youtube_id": "0K-aoZBKrNs",
+        "title": "Debating Tips and Techniques",
+        "channel": "How Do I Homeschool"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for building a full argument: claim, evidence, link in your own words.",
+        "Write a short for-and-against list on today's topic, using building a full argument: claim, evidence, link.",
+        "Practise arguing one side of building a full argument: claim, evidence, link aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate building a full argument: claim, evidence, link with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write one full argument with a claim, evidence and a link.",
+      "challenge": "Say your argument out loud in one minute.",
+      "quiz": [
+        {
+          "q": "What are the three parts of an argument?",
+          "options": [
+            "Claim, evidence, link.",
+            "Hello, joke, goodbye.",
+            "Fact, fact, fact.",
+            "Question, question, question."
+          ],
+          "answer": 0,
+          "explain": "An argument has three parts: a claim, evidence that supports it, and a link that explains why it matters."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Name three common tricks that make an argument bad.",
+            "Speak slowly, clearly and with energy.",
+            "Build a full argument: claim, evidence, link.",
+            "Debate as part of a team."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Build your first argument — its goal is: Build a full argument: claim, evidence, link."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "building a full argument: claim, evidence, link",
+            "rebuttal: answering the other side's points",
+            "using real examples",
+            "persuading with reasons, not pressure"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was building a full argument: claim, evidence, link."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Your first debate speech",
+      "goal": "Give a two-minute speech for one side of a motion.",
+      "video": {
+        "youtube_id": "P3w6LTkRCZQ",
+        "title": "How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)",
+        "channel": "Logical Fallacies"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for a two-minute speech for one side in your own words.",
+        "Write a short for-and-against list on today's topic, using a two-minute speech for one side.",
+        "Practise arguing one side of a two-minute speech for one side aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate a two-minute speech for one side with a friend or family member for 5 minutes today."
+      ],
+      "task": "Give a two-minute speech for the side you support.",
+      "challenge": "Give the same speech to a real person.",
+      "quiz": [
+        {
+          "q": "What should your first speech do?",
+          "options": [
+            "State your side, give two arguments and close clearly.",
+            "Attack the other side only.",
+            "Talk about everything at once.",
+            "Read from a script word for word."
+          ],
+          "answer": 0,
+          "explain": "A first speech states your side, gives two arguments and closes clearly."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Stay calm when someone attacks your point.",
+            "Use short notes, not a full script.",
+            "Judge a debate fairly.",
+            "Give a two-minute speech for one side of a motion."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Your first debate speech — its goal is: Give a two-minute speech for one side of a motion."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "rebutting with evidence",
+            "a two-minute speech for one side",
+            "asking good questions in debate",
+            "handling tough questions"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was a two-minute speech for one side."
+        }
+      ],
+      "project": {
+        "title": "Your First Debate Speech",
+        "brief": "Give a two-minute speech for one side of a motion. State your side, give two arguments with evidence, and close clearly.",
+        "checks": [
+          "You stated your side clearly",
+          "You gave two arguments",
+          "Each argument has evidence",
+          "You linked the evidence to your claim",
+          "You closed clearly",
+          "You spoke for about two minutes"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Listen to the other side",
+      "goal": "Listen and write down the other side's points.",
+      "video": {
+        "youtube_id": "P3w6LTkRCZQ",
+        "title": "How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)",
+        "channel": "Logical Fallacies"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for listening to the other side in your own words.",
+        "Write a short for-and-against list on today's topic, using listening to the other side.",
+        "Practise arguing one side of listening to the other side aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate listening to the other side with a friend or family member for 5 minutes today."
+      ],
+      "task": "Watch a debate and write down the other side's three main points.",
+      "challenge": "Repeat the other side's best point back, fairly.",
+      "quiz": [
+        {
+          "q": "Why listen carefully to the other side?",
+          "options": [
+            "You cannot answer points you did not hear.",
+            "Listening is a waste of time.",
+            "The other side is always wrong.",
+            "Judges do not care about listening."
+          ],
+          "answer": 0,
+          "explain": "You cannot answer points you did not hear. Good debaters listen first, then answer."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Listen and write down the other side's points.",
+            "Debate a motion for four minutes.",
+            "Debate a topic with strong feelings on both sides.",
+            "Use debate skills in a real-life disagreement."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Listen to the other side — its goal is: Listen and write down the other side's points."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "logical fallacies: tricks that make arguments bad",
+            "speaking with confidence in debate",
+            "listening to the other side",
+            "debating as a team"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was listening to the other side."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Spot a weak argument",
+      "goal": "Find the weak spot in an argument.",
+      "video": {
+        "youtube_id": "P3w6LTkRCZQ",
+        "title": "How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)",
+        "channel": "Logical Fallacies"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for spotting weak arguments in your own words.",
+        "Write a short for-and-against list on today's topic, using spotting weak arguments.",
+        "Practise arguing one side of spotting weak arguments aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate spotting weak arguments with a friend or family member for 5 minutes today."
+      ],
+      "task": "Find one weak argument in a talk you watch today.",
+      "challenge": "Explain to a friend why that argument is weak.",
+      "quiz": [
+        {
+          "q": "What makes an argument weak?",
+          "options": [
+            "No evidence, or evidence that does not fit the claim.",
+            "A short argument.",
+            "A quiet voice.",
+            "A simple claim."
+          ],
+          "answer": 0,
+          "explain": "An argument is weak when it has no evidence, or when the evidence does not fit the claim."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Argue for a side you disagree with.",
+            "Find the weak spot in an argument.",
+            "Debate a new motion from start to finish.",
+            "Say what you learned about debating in 30 days."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Spot a weak argument — its goal is: Find the weak spot in an argument."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "staying calm under pressure",
+            "using short notes in debate",
+            "judging a debate fairly",
+            "spotting weak arguments"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was spotting weak arguments."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "What is a rebuttal?",
+      "goal": "Say what a rebuttal is and why it matters.",
+      "video": {
+        "youtube_id": "NAi4wCfcCPU",
+        "title": "Debate in Action",
+        "channel": "VirtualSpeech"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for rebuttal: answering the other side's points in your own words.",
+        "Write a short for-and-against list on today's topic, using rebuttal: answering the other side's points.",
+        "Practise arguing one side of rebuttal: answering the other side's points aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate rebuttal: answering the other side's points with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write a rebuttal to one argument you disagree with.",
+      "challenge": "Say your rebuttal out loud in one minute.",
+      "quiz": [
+        {
+          "q": "What is a rebuttal?",
+          "options": [
+            "An answer to the other side's point, showing why it is wrong or weak.",
+            "A new argument of your own.",
+            "An insult.",
+            "A repeat of your first speech."
+          ],
+          "answer": 0,
+          "explain": "A rebuttal answers the other side's point and shows why it is wrong or weak."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Use a real example to make your point clear.",
+            "Persuade with reasons, not pressure.",
+            "Say what a rebuttal is and why it matters.",
+            "Debate your best motion yet, from start to finish."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about What is a rebuttal? — its goal is: Say what a rebuttal is and why it matters."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "rebuttal: answering the other side's points",
+            "a full four-minute debate",
+            "debating a hard topic",
+            "using debate skills in real life"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was rebuttal: answering the other side's points."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Rebut with evidence",
+      "goal": "Answer a point with a fact, not just an opinion.",
+      "video": {
+        "youtube_id": "NAi4wCfcCPU",
+        "title": "Debate in Action",
+        "channel": "VirtualSpeech"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for rebutting with evidence in your own words.",
+        "Write a short for-and-against list on today's topic, using rebutting with evidence.",
+        "Practise arguing one side of rebutting with evidence aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate rebutting with evidence with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write a rebuttal that uses one fact.",
+      "challenge": "Rebut a friend's point in a chat, using a fact.",
+      "quiz": [
+        {
+          "q": "What makes a rebuttal strong?",
+          "options": [
+            "A fact or a clear reason, not just 'you are wrong'.",
+            "Shouting louder.",
+            "Saying 'you are wrong' many times.",
+            "Changing the topic."
+          ],
+          "answer": 0,
+          "explain": "A strong rebuttal has a fact or a clear reason. 'You are wrong' alone proves nothing."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Ask questions that test the other side's case.",
+            "Answer a question you did not expect.",
+            "Argue any point with logic and calm confidence.",
+            "Answer a point with a fact, not just an opinion."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Rebut with evidence — its goal is: Answer a point with a fact, not just an opinion."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "arguing for a side you disagree with",
+            "rebutting with evidence",
+            "a second full debate",
+            "reviewing what you learned"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was rebutting with evidence."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Spot a logical fallacy",
+      "goal": "Name three common tricks that make an argument bad.",
+      "video": {
+        "youtube_id": "NAi4wCfcCPU",
+        "title": "Debate in Action",
+        "channel": "VirtualSpeech"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for logical fallacies: tricks that make arguments bad in your own words.",
+        "Write a short for-and-against list on today's topic, using logical fallacies: tricks that make arguments bad.",
+        "Practise arguing one side of logical fallacies: tricks that make arguments bad aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate logical fallacies: tricks that make arguments bad with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write down three fallacies and one example of each.",
+      "challenge": "Spot one fallacy in something you read or hear today.",
+      "quiz": [
+        {
+          "q": "What is a strawman fallacy?",
+          "options": [
+            "Attacking a weaker version of the other side's point, not the real one.",
+            "Building a straw house.",
+            "Lying about facts.",
+            "Talking too fast."
+          ],
+          "answer": 0,
+          "explain": "A strawman attacks a weaker version of the other side's point, not the real one. It is a cheap trick."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Name three common tricks that make an argument bad.",
+            "Speak slowly, clearly and with energy.",
+            "Debate as part of a team.",
+            "Plan your next 30 days of debate practice."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Spot a logical fallacy — its goal is: Name three common tricks that make an argument bad."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "using real examples",
+            "persuading with reasons, not pressure",
+            "logical fallacies: tricks that make arguments bad",
+            "your best debate: arguments, rebuttals, calm"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was logical fallacies: tricks that make arguments bad."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Stay calm under pressure",
+      "goal": "Stay calm when someone attacks your point.",
+      "video": {
+        "youtube_id": "vCcnitUBuME",
+        "title": "Rebuttals – what and how",
+        "channel": "104 London Debaters"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for staying calm under pressure in your own words.",
+        "Write a short for-and-against list on today's topic, using staying calm under pressure.",
+        "Practise arguing one side of staying calm under pressure aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate staying calm under pressure with a friend or family member for 5 minutes today."
+      ],
+      "task": "Practise answering a hard question slowly, after a short pause.",
+      "challenge": "Stay calm in a real disagreement today.",
+      "quiz": [
+        {
+          "q": "What should you do when you feel angry in a debate?",
+          "options": [
+            "Pause, breathe, and answer the point, not the person.",
+            "Shout back.",
+            "Walk away.",
+            "Attack the person."
+          ],
+          "answer": 0,
+          "explain": "Pause, breathe, and answer the point, not the person. Calm wins debates."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Use short notes, not a full script.",
+            "Stay calm when someone attacks your point.",
+            "Judge a debate fairly.",
+            "Say what a debate is and how it works."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Stay calm under pressure — its goal is: Stay calm when someone attacks your point."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "asking good questions in debate",
+            "handling tough questions",
+            "arguing any point with logic and calm",
+            "staying calm under pressure"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was staying calm under pressure."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Your first full debate",
+      "goal": "Debate a motion for four minutes.",
+      "video": {
+        "youtube_id": "vCcnitUBuME",
+        "title": "Rebuttals – what and how",
+        "channel": "104 London Debaters"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for a full four-minute debate in your own words.",
+        "Write a short for-and-against list on today's topic, using a full four-minute debate.",
+        "Practise arguing one side of a full four-minute debate aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate a full four-minute debate with a friend or family member for 5 minutes today."
+      ],
+      "task": "Debate a motion with a friend: two minutes each side.",
+      "challenge": "Ask a third person to judge who won and why.",
+      "quiz": [
+        {
+          "q": "What should you do in your closing speech?",
+          "options": [
+            "Sum up your best points and answer the other side's best point.",
+            "Add five new arguments.",
+            "Repeat everything word for word.",
+            "Say sorry for your speech."
+          ],
+          "answer": 0,
+          "explain": "A closing sums up your best points and answers the other side's best point. Never add new arguments at the end."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Debate a topic with strong feelings on both sides.",
+            "Use debate skills in a real-life disagreement.",
+            "Debate a motion for four minutes.",
+            "Understand what the motion asks you to argue."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Your first full debate — its goal is: Debate a motion for four minutes."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "a full four-minute debate",
+            "speaking with confidence in debate",
+            "debating as a team",
+            "planning your next 30 days"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was a full four-minute debate."
+        }
+      ],
+      "project": {
+        "title": "Your First Full Debate",
+        "brief": "Debate a motion with a friend: opening speeches, rebuttals and closings. Ask a third person to judge.",
+        "checks": [
+          "You gave an opening speech",
+          "You gave a rebuttal to the other side",
+          "You gave a closing speech",
+          "You used evidence, not just opinions",
+          "You stayed calm throughout",
+          "A judge picked a winner and said why"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Argue the other side",
+      "goal": "Argue for a side you disagree with.",
+      "video": {
+        "youtube_id": "vCcnitUBuME",
+        "title": "Rebuttals – what and how",
+        "channel": "104 London Debaters"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for arguing for a side you disagree with in your own words.",
+        "Write a short for-and-against list on today's topic, using arguing for a side you disagree with.",
+        "Practise arguing one side of arguing for a side you disagree with aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate arguing for a side you disagree with with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write two arguments for a side you disagree with.",
+      "challenge": "Debate for that side for two minutes.",
+      "quiz": [
+        {
+          "q": "Why argue a side you disagree with?",
+          "options": [
+            "It teaches you to see the whole issue and find weak spots.",
+            "It is a waste of time.",
+            "It makes you change your mind.",
+            "It confuses the judge."
+          ],
+          "answer": 0,
+          "explain": "Arguing the other side teaches you the whole issue and shows you where your own side is weak."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Debate a new motion from start to finish.",
+            "Say what you learned about debating in 30 days.",
+            "Make a clear claim you can defend.",
+            "Argue for a side you disagree with."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Argue the other side — its goal is: Argue for a side you disagree with."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "using short notes in debate",
+            "arguing for a side you disagree with",
+            "judging a debate fairly",
+            "what a debate is: two sides, one motion, a judge"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was arguing for a side you disagree with."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Use examples that stick",
+      "goal": "Use a real example to make your point clear.",
+      "video": {
+        "youtube_id": "1TSkkxu8on0",
+        "title": "Debating skills",
+        "channel": "Podium School"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for using real examples in your own words.",
+        "Write a short for-and-against list on today's topic, using using real examples.",
+        "Practise arguing one side of using real examples aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate using real examples with a friend or family member for 5 minutes today."
+      ],
+      "task": "Add one real example to each of your two arguments.",
+      "challenge": "Tell a friend your argument using only the example.",
+      "quiz": [
+        {
+          "q": "Why do real examples help?",
+          "options": [
+            "People remember examples better than abstract words.",
+            "Examples make speeches longer.",
+            "Examples replace evidence.",
+            "Examples are only for fun."
+          ],
+          "answer": 0,
+          "explain": "People remember real examples. An example makes an abstract point easy to see."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Use a real example to make your point clear.",
+            "Persuade with reasons, not pressure.",
+            "Debate your best motion yet, from start to finish.",
+            "Find facts and examples that support your claim."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Use examples that stick — its goal is: Use a real example to make your point clear."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "debating a hard topic",
+            "using debate skills in real life",
+            "using real examples",
+            "understanding the motion"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was using real examples."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Ask good questions",
+      "goal": "Ask questions that test the other side's case.",
+      "video": {
+        "youtube_id": "1TSkkxu8on0",
+        "title": "Debating skills",
+        "channel": "Podium School"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for asking good questions in debate in your own words.",
+        "Write a short for-and-against list on today's topic, using asking good questions in debate.",
+        "Practise arguing one side of asking good questions in debate aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate asking good questions in debate with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write three questions that test the other side's case.",
+      "challenge": "Ask one of those questions in a real chat.",
+      "quiz": [
+        {
+          "q": "What makes a good debate question?",
+          "options": [
+            "It asks for evidence or shows a gap in the other side's case.",
+            "It is very long.",
+            "It has no answer.",
+            "It insults the other side."
+          ],
+          "answer": 0,
+          "explain": "A good question asks for evidence or shows a gap. It makes the other side think, not just talk."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Answer a question you did not expect.",
+            "Ask questions that test the other side's case.",
+            "Argue any point with logic and calm confidence.",
+            "Explain why your evidence proves your claim."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Ask good questions — its goal is: Ask questions that test the other side's case."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "a second full debate",
+            "reviewing what you learned",
+            "making a clear claim",
+            "asking good questions in debate"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was asking good questions in debate."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Speak with confidence",
+      "goal": "Speak slowly, clearly and with energy.",
+      "video": {
+        "youtube_id": "1TSkkxu8on0",
+        "title": "Debating skills",
+        "channel": "Podium School"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for speaking with confidence in debate in your own words.",
+        "Write a short for-and-against list on today's topic, using speaking with confidence in debate.",
+        "Practise arguing one side of speaking with confidence in debate aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate speaking with confidence in debate with a friend or family member for 5 minutes today."
+      ],
+      "task": "Give your argument out loud, standing tall.",
+      "challenge": "Give your argument to a group of three people.",
+      "quiz": [
+        {
+          "q": "What helps most when you speak in a debate?",
+          "options": [
+            "Slow, clear speech and a steady voice.",
+            "Speaking as fast as possible.",
+            "Reading from a paper.",
+            "Whispering."
+          ],
+          "answer": 0,
+          "explain": "Slow, clear speech and a steady voice help people follow you and trust you."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Debate as part of a team.",
+            "Plan your next 30 days of debate practice.",
+            "Speak slowly, clearly and with energy.",
+            "Build a full argument: claim, evidence, link."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Speak with confidence — its goal is: Speak slowly, clearly and with energy."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "speaking with confidence in debate",
+            "persuading with reasons, not pressure",
+            "your best debate: arguments, rebuttals, calm",
+            "finding evidence: facts, examples and stories"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was speaking with confidence in debate."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Use notes well",
+      "goal": "Use short notes, not a full script.",
+      "video": {
+        "youtube_id": "JY5t6iUzajk",
+        "title": "How To Win (Almost) Every Argument",
+        "channel": "Debate Skills"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for using short notes in debate in your own words.",
+        "Write a short for-and-against list on today's topic, using using short notes in debate.",
+        "Practise arguing one side of using short notes in debate aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate using short notes in debate with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write your next speech as five short lines only.",
+      "challenge": "Give the speech using only those five lines.",
+      "quiz": [
+        {
+          "q": "Why use short notes instead of a full script?",
+          "options": [
+            "Notes keep you natural and talking to people.",
+            "Scripts are always better.",
+            "Notes make you forget.",
+            "Scripts are only for experts."
+          ],
+          "answer": 0,
+          "explain": "A full script makes you read, not talk. Short notes keep you natural and ready to answer."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Judge a debate fairly.",
+            "Say what a debate is and how it works.",
+            "Give a two-minute speech for one side of a motion.",
+            "Use short notes, not a full script."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Use notes well — its goal is: Use short notes, not a full script."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "handling tough questions",
+            "using short notes in debate",
+            "arguing any point with logic and calm",
+            "linking evidence to your claim"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was using short notes in debate."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Debate a hard topic",
+      "goal": "Debate a topic with strong feelings on both sides.",
+      "video": {
+        "youtube_id": "JY5t6iUzajk",
+        "title": "How To Win (Almost) Every Argument",
+        "channel": "Debate Skills"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for debating a hard topic in your own words.",
+        "Write a short for-and-against list on today's topic, using debating a hard topic.",
+        "Practise arguing one side of debating a hard topic aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate debating a hard topic with a friend or family member for 5 minutes today."
+      ],
+      "task": "Pick a hard topic and write two arguments for each side.",
+      "challenge": "Debate the hard topic with a friend for four minutes.",
+      "quiz": [
+        {
+          "q": "What is the hardest part of a hard topic?",
+          "options": [
+            "Staying calm and fair when feelings run high.",
+            "Finding any arguments.",
+            "Speaking loudly.",
+            "Winning at all costs."
+          ],
+          "answer": 0,
+          "explain": "Hard topics test your calm. Stay fair, answer the point, and never attack the person."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Debate a topic with strong feelings on both sides.",
+            "Use debate skills in a real-life disagreement.",
+            "Understand what the motion asks you to argue.",
+            "Listen and write down the other side's points."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Debate a hard topic — its goal is: Debate a topic with strong feelings on both sides."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "debating as a team",
+            "planning your next 30 days",
+            "debating a hard topic",
+            "building a full argument: claim, evidence, link"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was debating a hard topic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Your second full debate",
+      "goal": "Debate a new motion from start to finish.",
+      "video": {
+        "youtube_id": "JY5t6iUzajk",
+        "title": "How To Win (Almost) Every Argument",
+        "channel": "Debate Skills"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for a second full debate in your own words.",
+        "Write a short for-and-against list on today's topic, using a second full debate.",
+        "Practise arguing one side of a second full debate aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate a second full debate with a friend or family member for 5 minutes today."
+      ],
+      "task": "Debate a new motion with a friend: full speeches and rebuttals.",
+      "challenge": "Ask the judge what your weakest point was.",
+      "quiz": [
+        {
+          "q": "What should you do after a debate?",
+          "options": [
+            "Ask what was strong and what was weak.",
+            "Forget the debate at once.",
+            "Argue with the judge.",
+            "Never debate again."
+          ],
+          "answer": 0,
+          "explain": "Ask what was strong and what was weak. Feedback is how you grow as a debater."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Say what you learned about debating in 30 days.",
+            "Debate a new motion from start to finish.",
+            "Make a clear claim you can defend.",
+            "Find the weak spot in an argument."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Your second full debate — its goal is: Debate a new motion from start to finish."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "judging a debate fairly",
+            "what a debate is: two sides, one motion, a judge",
+            "a two-minute speech for one side",
+            "a second full debate"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was a second full debate."
+        }
+      ],
+      "project": {
+        "title": "Team Debate",
+        "brief": "Debate as a team of two. Plan who speaks first, who rebuts and who closes. Debate a hard topic.",
+        "checks": [
+          "Your team had one shared plan",
+          "Each person had a clear job",
+          "You gave at least two arguments with evidence",
+          "You rebutted the other side's best point",
+          "You stayed calm and fair",
+          "You asked the judge for feedback"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Persuade, do not bully",
+      "goal": "Persuade with reasons, not pressure.",
+      "video": {
+        "youtube_id": "0MJ8Wd7eAmE",
+        "title": "How to Argue and Negotiate",
+        "channel": "Dan Shapiro"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for persuading with reasons, not pressure in your own words.",
+        "Write a short for-and-against list on today's topic, using persuading with reasons, not pressure.",
+        "Practise arguing one side of persuading with reasons, not pressure aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate persuading with reasons, not pressure with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write a one-minute talk that persuades with reasons only.",
+      "challenge": "Persuade a friend to try something new, using reasons.",
+      "quiz": [
+        {
+          "q": "What is the difference between persuading and bullying?",
+          "options": [
+            "Persuading uses reasons. Bullying uses pressure and fear.",
+            "There is no difference.",
+            "Bullying is faster.",
+            "Persuading is only for debates."
+          ],
+          "answer": 0,
+          "explain": "Persuading uses reasons. Bullying uses pressure and fear. Good debaters persuade."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Debate your best motion yet, from start to finish.",
+            "Find facts and examples that support your claim.",
+            "Persuade with reasons, not pressure.",
+            "Say what a rebuttal is and why it matters."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Persuade, do not bully — its goal is: Persuade with reasons, not pressure."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "persuading with reasons, not pressure",
+            "using debate skills in real life",
+            "understanding the motion",
+            "listening to the other side"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was persuading with reasons, not pressure."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Handle a tough question",
+      "goal": "Answer a question you did not expect.",
+      "video": {
+        "youtube_id": "0MJ8Wd7eAmE",
+        "title": "How to Argue and Negotiate",
+        "channel": "Dan Shapiro"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for handling tough questions in your own words.",
+        "Write a short for-and-against list on today's topic, using handling tough questions.",
+        "Practise arguing one side of handling tough questions aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate handling tough questions with a friend or family member for 5 minutes today."
+      ],
+      "task": "Ask a friend to surprise you with three hard questions.",
+      "challenge": "Answer one question with 'I don't know, but here is what I think.'",
+      "quiz": [
+        {
+          "q": "What should you do if a question surprises you?",
+          "options": [
+            "Pause, think, and answer what you can honestly.",
+            "Panic and change the topic.",
+            "Make up a fact.",
+            "Refuse to answer."
+          ],
+          "answer": 0,
+          "explain": "Pause, think, and answer what you can honestly. A short pause looks calm, not weak."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Argue any point with logic and calm confidence.",
+            "Explain why your evidence proves your claim.",
+            "Answer a point with a fact, not just an opinion.",
+            "Answer a question you did not expect."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Handle a tough question — its goal is: Answer a question you did not expect."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reviewing what you learned",
+            "handling tough questions",
+            "making a clear claim",
+            "spotting weak arguments"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was handling tough questions."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Team debate",
+      "goal": "Debate as part of a team.",
+      "video": {
+        "youtube_id": "0MJ8Wd7eAmE",
+        "title": "How to Argue and Negotiate",
+        "channel": "Dan Shapiro"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for debating as a team in your own words.",
+        "Write a short for-and-against list on today's topic, using debating as a team.",
+        "Practise arguing one side of debating as a team aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate debating as a team with a friend or family member for 5 minutes today."
+      ],
+      "task": "Plan a team debate: who speaks first, who rebuts, who closes.",
+      "challenge": "Debate as a team with a friend.",
+      "quiz": [
+        {
+          "q": "What makes a good debate team?",
+          "options": [
+            "Each person has a clear job and the team shares one plan.",
+            "Everyone talks at once.",
+            "One person does everything.",
+            "No plan at all."
+          ],
+          "answer": 0,
+          "explain": "A good team shares one plan and each person has a clear job: first speaker, rebuttal, closing."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Debate as part of a team.",
+            "Plan your next 30 days of debate practice.",
+            "Build a full argument: claim, evidence, link.",
+            "Name three common tricks that make an argument bad."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Team debate — its goal is: Debate as part of a team."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "your best debate: arguments, rebuttals, calm",
+            "finding evidence: facts, examples and stories",
+            "debating as a team",
+            "rebuttal: answering the other side's points"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was debating as a team."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Judge a debate",
+      "goal": "Judge a debate fairly.",
+      "video": {
+        "youtube_id": "IDj1OBG5Tpw",
+        "title": "The Art of Arguing",
+        "channel": "Dan Shapiro"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for judging a debate fairly in your own words.",
+        "Write a short for-and-against list on today's topic, using judging a debate fairly.",
+        "Practise arguing one side of judging a debate fairly aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate judging a debate fairly with a friend or family member for 5 minutes today."
+      ],
+      "task": "Watch a debate and score each side on arguments and rebuttals.",
+      "challenge": "Judge a friend's debate and explain your scores.",
+      "quiz": [
+        {
+          "q": "What should a judge score?",
+          "options": [
+            "Arguments, evidence, rebuttals and clear speaking.",
+            "Who shouts loudest.",
+            "Who you agree with.",
+            "Who speaks longest."
+          ],
+          "answer": 0,
+          "explain": "A judge scores arguments, evidence, rebuttals and clear speaking — not who they agree with."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Say what a debate is and how it works.",
+            "Judge a debate fairly.",
+            "Give a two-minute speech for one side of a motion.",
+            "Stay calm when someone attacks your point."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Judge a debate — its goal is: Judge a debate fairly."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "arguing any point with logic and calm",
+            "linking evidence to your claim",
+            "rebutting with evidence",
+            "judging a debate fairly"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was judging a debate fairly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Argue in everyday life",
+      "goal": "Use debate skills in a real-life disagreement.",
+      "video": {
+        "youtube_id": "IDj1OBG5Tpw",
+        "title": "The Art of Arguing",
+        "channel": "Dan Shapiro"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for using debate skills in real life in your own words.",
+        "Write a short for-and-against list on today's topic, using using debate skills in real life.",
+        "Practise arguing one side of using debate skills in real life aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate using debate skills in real life with a friend or family member for 5 minutes today."
+      ],
+      "task": "Use claim, evidence and link in a real disagreement today.",
+      "challenge": "Win a point calmly, without raising your voice.",
+      "quiz": [
+        {
+          "q": "What is the best debate skill for real life?",
+          "options": [
+            "Listening first, then answering the point.",
+            "Talking the most.",
+            "Never giving in.",
+            "Always winning."
+          ],
+          "answer": 0,
+          "explain": "Listening first, then answering the point, works in real life too. Most arguments fail because nobody listens."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Understand what the motion asks you to argue.",
+            "Listen and write down the other side's points.",
+            "Use debate skills in a real-life disagreement.",
+            "Debate a motion for four minutes."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Argue in everyday life — its goal is: Use debate skills in a real-life disagreement."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "using debate skills in real life",
+            "planning your next 30 days",
+            "building a full argument: claim, evidence, link",
+            "logical fallacies: tricks that make arguments bad"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was using debate skills in real life."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Review your debates",
+      "goal": "Say what you learned about debating in 30 days.",
+      "video": {
+        "youtube_id": "IDj1OBG5Tpw",
+        "title": "The Art of Arguing",
+        "channel": "Dan Shapiro"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for reviewing what you learned in your own words.",
+        "Write a short for-and-against list on today's topic, using reviewing what you learned.",
+        "Practise arguing one side of reviewing what you learned aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate reviewing what you learned with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write down five debate skills you now have.",
+      "challenge": "Write a short note to a new debater with your best tip.",
+      "quiz": [
+        {
+          "q": "What is the most important debate skill?",
+          "options": [
+            "Building a clear argument and answering the other side.",
+            "Speaking the longest.",
+            "Using the biggest words.",
+            "Never losing."
+          ],
+          "answer": 0,
+          "explain": "The core skill is a clear argument plus a fair answer to the other side. Everything else grows from that."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Make a clear claim you can defend.",
+            "Find the weak spot in an argument.",
+            "Argue for a side you disagree with.",
+            "Say what you learned about debating in 30 days."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Review your debates — its goal is: Say what you learned about debating in 30 days."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "what a debate is: two sides, one motion, a judge",
+            "reviewing what you learned",
+            "a two-minute speech for one side",
+            "staying calm under pressure"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was reviewing what you learned."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Your best debate yet",
+      "goal": "Debate your best motion yet, from start to finish.",
+      "video": {
+        "youtube_id": "Mn71v3brJ0Q",
+        "title": "Debate Champion on Arguing",
+        "channel": "Bo Seo"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for your best debate: arguments, rebuttals, calm in your own words.",
+        "Write a short for-and-against list on today's topic, using your best debate: arguments, rebuttals, calm.",
+        "Practise arguing one side of your best debate: arguments, rebuttals, calm aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate your best debate: arguments, rebuttals, calm with a friend or family member for 5 minutes today."
+      ],
+      "task": "Debate your best motion with a friend and record it.",
+      "challenge": "Ask the judge to score you from 1 to 10 and say why.",
+      "quiz": [
+        {
+          "q": "What makes a debate your best yet?",
+          "options": [
+            "Clear arguments, good evidence and calm rebuttals.",
+            "The loudest voice.",
+            "The most arguments.",
+            "The longest speeches."
+          ],
+          "answer": 0,
+          "explain": "Clear arguments, good evidence and calm rebuttals make your best debate. Volume never does."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Debate your best motion yet, from start to finish.",
+            "Find facts and examples that support your claim.",
+            "Say what a rebuttal is and why it matters.",
+            "Use a real example to make your point clear."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Your best debate yet — its goal is: Debate your best motion yet, from start to finish."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "understanding the motion",
+            "listening to the other side",
+            "your best debate: arguments, rebuttals, calm",
+            "a full four-minute debate"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was your best debate: arguments, rebuttals, calm."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Debate anywhere",
+      "goal": "Argue any point with logic and calm confidence.",
+      "video": {
+        "youtube_id": "Mn71v3brJ0Q",
+        "title": "Debate Champion on Arguing",
+        "channel": "Bo Seo"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for arguing any point with logic and calm in your own words.",
+        "Write a short for-and-against list on today's topic, using arguing any point with logic and calm.",
+        "Practise arguing one side of arguing any point with logic and calm aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate arguing any point with logic and calm with a friend or family member for 5 minutes today."
+      ],
+      "task": "Debate a surprise topic for two minutes, with no prep.",
+      "challenge": "Argue a point in a real meeting or class today.",
+      "quiz": [
+        {
+          "q": "What is the mark of a good debater?",
+          "options": [
+            "They can argue any point with logic and calm.",
+            "They never lose.",
+            "They never feel nervous.",
+            "They always agree with the judge."
+          ],
+          "answer": 0,
+          "explain": "A good debater can argue any point with logic and calm. Losing a debate is fine — learning from it is the point."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Explain why your evidence proves your claim.",
+            "Argue any point with logic and calm confidence.",
+            "Answer a point with a fact, not just an opinion.",
+            "Ask questions that test the other side's case."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Debate anywhere — its goal is: Argue any point with logic and calm confidence."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "making a clear claim",
+            "spotting weak arguments",
+            "arguing for a side you disagree with",
+            "arguing any point with logic and calm"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was arguing any point with logic and calm."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Keep debating",
+      "goal": "Plan your next 30 days of debate practice.",
+      "video": {
+        "youtube_id": "Mn71v3brJ0Q",
+        "title": "Debate Champion on Arguing",
+        "channel": "Bo Seo"
+      },
+      "steps": [
+        "Watch today's video and write down the main technique for planning your next 30 days in your own words.",
+        "Write a short for-and-against list on today's topic, using planning your next 30 days.",
+        "Practise arguing one side of planning your next 30 days aloud for 3 minutes, then switch sides.",
+        "Write a one-paragraph rebuttal to the strongest point on the other side.",
+        "Debate planning your next 30 days with a friend or family member for 5 minutes today."
+      ],
+      "task": "Write a simple plan: what will you debate next month?",
+      "challenge": "Start your next debate today.",
+      "quiz": [
+        {
+          "q": "What should you do after 30 days of debating?",
+          "options": [
+            "Keep debating a little every week.",
+            "Stop and never debate again.",
+            "Only debate when forced.",
+            "Forget everything you learned."
+          ],
+          "answer": 0,
+          "explain": "Keep debating a little every week. Thirty days is the start, not the end."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Build a full argument: claim, evidence, link.",
+            "Name three common tricks that make an argument bad.",
+            "Plan your next 30 days of debate practice.",
+            "Speak slowly, clearly and with energy."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Keep debating — its goal is: Plan your next 30 days of debate practice."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "planning your next 30 days",
+            "finding evidence: facts, examples and stories",
+            "rebuttal: answering the other side's points",
+            "using real examples"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was planning your next 30 days."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Debater",
+    "brief": "Debate a motion in front of a small audience. Give an opening speech, rebut the other side, and close with your best points. Ask the audience to judge.",
+    "checks": [
+      "You stated your side clearly",
+      "You gave three arguments with evidence",
+      "You rebutted the other side's best point",
+      "You stayed calm under pressure",
+      "You closed with your best points",
+      "You spoke clearly and slowly",
+      "You asked the judge for feedback and wrote it down"
+    ],
+    "deliverables": [
+      "A video or audio recording of your debate",
+      "A one-page plan of your case: motion, side, three arguments, evidence",
+      "A written rebuttal of the other side's best point",
+      "A list of feedback from the judge and audience",
+      "A short note on what you will improve next"
+    ]
+  }
+}

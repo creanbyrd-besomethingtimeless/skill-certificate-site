@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "backend-development-nodejs",
+    "title": "Backend Development with Node.js",
+    "level": "Beginner to intermediate",
+    "tagline": "Build APIs, databases and login systems with Node.js and Express, and deploy a working backend.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Node.js Is and How to Install It",
+      "goal": "Explain what Node.js is and run your first Node program.",
+      "video": {
+        "youtube_id": "MIJt9H69QVc",
+        "title": "Node JS Full Course 2024",
+        "channel": "Sangam Mukherjee"
+      },
+      "steps": [
+        "Install Node.js LTS from nodejs.org and check node -v and npm -v in the terminal.",
+        "Create a folder server-basics and a file app.js.",
+        "Write console.log('Hello from Node') and run it with node app.js.",
+        "Use process.argv to print a name passed on the command line."
+      ],
+      "task": "Run a Node script that prints a greeting using your name from the command line.",
+      "challenge": "Print the current date and your Node version from the same script.",
+      "quiz": [
+        {
+          "q": "What is Node.js?",
+          "options": [
+            "A front-end framework",
+            "A JavaScript runtime that runs outside the browser",
+            "A database",
+            "A CSS tool"
+          ],
+          "answer": 1,
+          "explain": "Node.js lets JavaScript run on a server or your computer, not just in a browser."
+        },
+        {
+          "q": "Which command runs a Node file?",
+          "options": [
+            "run app.js",
+            "node app.js",
+            "npm start app.js",
+            "open app.js"
+          ],
+          "answer": 1,
+          "explain": "node followed by the file name executes it."
+        },
+        {
+          "q": "What is npm?",
+          "options": [
+            "A text editor",
+            "The Node package manager for installing libraries",
+            "A database",
+            "A testing tool"
+          ],
+          "answer": 1,
+          "explain": "npm installs and manages third-party packages for Node projects."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Modules, require and the File System",
+      "goal": "Split code into modules and read and write files with Node.",
+      "video": {
+        "youtube_id": "HXdLCH_3J-k",
+        "title": "Node.js Full Course 2026",
+        "channel": "Elcode"
+      },
+      "steps": [
+        "Create a math.js module that exports add and subtract functions.",
+        "Import it into app.js with require and use both functions.",
+        "Read a text file with fs.readFileSync and print its contents.",
+        "Write a new file with fs.writeFileSync containing a log line."
+      ],
+      "task": "Build a small script that reads names from a file and writes a greeting for each into another file.",
+      "challenge": "Rewrite the file reading using the async fs.promises version.",
+      "quiz": [
+        {
+          "q": "How do you share a function from a Node module?",
+          "options": [
+            "export it with module.exports",
+            "Make it global",
+            "Copy it everywhere",
+            "Use import only"
+          ],
+          "answer": 0,
+          "explain": "module.exports exposes values; require() loads them in another file."
+        },
+        {
+          "q": "What does fs.readFileSync do?",
+          "options": [
+            "Reads a file and blocks until it is done",
+            "Deletes a file",
+            "Creates a folder",
+            "Downloads a file"
+          ],
+          "answer": 0,
+          "explain": "The Sync version blocks execution until the file is read."
+        },
+        {
+          "q": "Why split code into modules?",
+          "options": [
+            "It runs faster",
+            "Smaller files are easier to read, test and reuse",
+            "Node requires it",
+            "It hides errors"
+          ],
+          "answer": 1,
+          "explain": "Modules keep code organised and reusable."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "npm, package.json and Dependencies",
+      "goal": "Manage a project with npm and install real packages.",
+      "video": {
+        "youtube_id": "VWQrqVtsR2E",
+        "title": "Complete Backend Course | Beginner to Advanced | Node.js, Express, MongoDB",
+        "channel": "Vivek Mishra"
+      },
+      "steps": [
+        "Run npm init -y to create a package.json in your project.",
+        "Install express with npm install express and inspect node_modules.",
+        "Install nodemon as a dev dependency and add a dev script to package.json.",
+        "Run your app with npm run dev and confirm nodemon restarts it on changes."
+      ],
+      "task": "Set up a project with package.json, Express installed and a dev script that runs with nodemon.",
+      "challenge": "Install the dotenv package and load a PORT value from a .env file.",
+      "quiz": [
+        {
+          "q": "What does package.json store?",
+          "options": [
+            "Your code",
+            "Project metadata, scripts and dependencies",
+            "Database data",
+            "Images"
+          ],
+          "answer": 1,
+          "explain": "package.json lists the project's name, scripts and installed packages."
+        },
+        {
+          "q": "What is the difference between dependencies and devDependencies?",
+          "options": [
+            "No difference",
+            "devDependencies are only needed during development, like testing tools",
+            "devDependencies run in production",
+            "Dependencies are optional"
+          ],
+          "answer": 1,
+          "explain": "Dev tools such as nodemon belong in devDependencies."
+        },
+        {
+          "q": "What does npm install do?",
+          "options": [
+            "Deletes node_modules",
+            "Installs the packages listed in package.json",
+            "Runs the app",
+            "Creates a database"
+          ],
+          "answer": 1,
+          "explain": "npm install reads package.json and downloads the listed packages."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Your First HTTP Server with Node",
+      "goal": "Serve responses over HTTP using only Node's built-in modules.",
+      "video": {
+        "youtube_id": "Oe421EPjeBE",
+        "title": "Learn Node.js and Express with This Free 8-hour Back End Development Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Create a server with http.createServer that replies 'Hello World'.",
+        "Make it listen on port 3000 and visit http://localhost:3000 in a browser.",
+        "Read req.url and return a different message for /about.",
+        "Set the Content-Type header to application/json and return a JSON object."
+      ],
+      "task": "Build a plain Node server with three routes: /, /about and /api/time returning the current time as JSON.",
+      "challenge": "Return a 404 status and message for any unknown route.",
+      "quiz": [
+        {
+          "q": "What does listen(3000) do?",
+          "options": [
+            "Saves a file",
+            "Makes the server accept requests on port 3000",
+            "Installs a package",
+            "Prints a message"
+          ],
+          "answer": 1,
+          "explain": "listen binds the server to a port so browsers can reach it."
+        },
+        {
+          "q": "What is localhost?",
+          "options": [
+            "A public website",
+            "Your own computer, addressed by name",
+            "A database",
+            "A cloud server"
+          ],
+          "answer": 1,
+          "explain": "localhost refers to the machine you are working on."
+        },
+        {
+          "q": "Which header tells the client the response is JSON?",
+          "options": [
+            "Content-Type: application/json",
+            "Accept: text/html",
+            "Type: json",
+            "Format: json"
+          ],
+          "answer": 0,
+          "explain": "Content-Type describes the body format being sent."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Express: Routing and Responses",
+      "goal": "Build a server faster with Express routing.",
+      "video": {
+        "youtube_id": "g09PoiCob4Y",
+        "title": "Backend Complete Course | NodeJS, ExpressJS, JWT, PostgreSQL, Prisma",
+        "channel": "PedroTech"
+      },
+      "steps": [
+        "Install Express and create an app with app.get for / and /hello.",
+        "Return JSON with res.json and a status code with res.status.",
+        "Add a route with a parameter, /users/:id, and return the id.",
+        "Add a 404 handler at the end of your route list."
+      ],
+      "task": "Build an Express server with five routes, including one with a URL parameter.",
+      "challenge": "Add a route that reads a query string like ?search=shoes and echoes it back.",
+      "quiz": [
+        {
+          "q": "What is Express?",
+          "options": [
+            "A database",
+            "A minimal web framework for Node.js",
+            "A front-end library",
+            "A testing tool"
+          ],
+          "answer": 1,
+          "explain": "Express adds routing and helpers on top of Node's HTTP module."
+        },
+        {
+          "q": "How do you read a route parameter :id in Express?",
+          "options": [
+            "req.param",
+            "req.params.id",
+            "req.query.id",
+            "req.body.id"
+          ],
+          "answer": 1,
+          "explain": "Route parameters live in req.params."
+        },
+        {
+          "q": "What does res.json() do?",
+          "options": [
+            "Sends an HTML page",
+            "Sends a JSON response with the right header",
+            "Saves to a database",
+            "Redirects"
+          ],
+          "answer": 1,
+          "explain": "res.json serialises the value and sets the JSON content type."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Middleware: The Express Pipeline",
+      "goal": "Use middleware to log, parse and protect requests.",
+      "video": {
+        "youtube_id": "Gs8a1PWlXMI",
+        "title": "Express.js Crash Course | Build a RESTful API with Middleware in Just 30 Minutes!",
+        "channel": "Code With Ghazi"
+      },
+      "steps": [
+        "Add express.json() so your server can read JSON request bodies.",
+        "Write a logger middleware that prints the method and URL of every request.",
+        "Write a middleware that blocks requests missing a header and returns 401.",
+        "Apply the logger to all routes and the guard to one route only."
+      ],
+      "task": "Add logging middleware and JSON body parsing to your server, plus a guard on one route.",
+      "challenge": "Write middleware that measures how long each request takes and logs it.",
+      "quiz": [
+        {
+          "q": "What is middleware in Express?",
+          "options": [
+            "A database table",
+            "A function that runs during request handling, before or after routes",
+            "A front-end component",
+            "A type of test"
+          ],
+          "answer": 1,
+          "explain": "Middleware functions run in sequence and can inspect or change requests and responses."
+        },
+        {
+          "q": "What does next() do?",
+          "options": [
+            "Ends the response",
+            "Passes control to the next middleware or route",
+            "Restarts the server",
+            "Deletes the request"
+          ],
+          "answer": 1,
+          "explain": "Calling next() moves the request along the pipeline."
+        },
+        {
+          "q": "Why add express.json()?",
+          "options": [
+            "To serve HTML",
+            "To parse JSON request bodies into req.body",
+            "To speed up the server",
+            "To connect a database"
+          ],
+          "answer": 1,
+          "explain": "Without it, req.body is undefined for JSON requests."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: A Notes REST API",
+      "goal": "Build a complete in-memory REST API for notes.",
+      "video": {
+        "youtube_id": "uNCrMvkPUAE",
+        "title": "Node JS Tutorial | Creation of Rest-Apis with Node and Express.js",
+        "channel": "Vyeron"
+      },
+      "steps": [
+        "Design the routes: GET /notes, GET /notes/:id, POST /notes, PUT /notes/:id, DELETE /notes/:id.",
+        "Store notes in an array and give each a unique id.",
+        "Validate POST bodies and return 400 when title is missing.",
+        "Test every route with curl or Postman."
+      ],
+      "task": "Ship a working notes API with all five CRUD routes and validation.",
+      "challenge": "Add a search query ?q= that filters notes by title.",
+      "quiz": [
+        {
+          "q": "What does REST stand for?",
+          "options": [
+            "Remote Execution Standard Tool",
+            "Representational State Transfer",
+            "Real-time Express Server Technology",
+            "Request Endpoint State Transfer"
+          ],
+          "answer": 1,
+          "explain": "REST is an architectural style for APIs built on HTTP verbs and resources."
+        },
+        {
+          "q": "Which HTTP verb creates a resource?",
+          "options": [
+            "GET",
+            "POST",
+            "DELETE",
+            "PUT"
+          ],
+          "answer": 1,
+          "explain": "POST creates; GET reads; PUT updates; DELETE removes."
+        },
+        {
+          "q": "What status code means 'created'?",
+          "options": [
+            "200",
+            "201",
+            "404",
+            "500"
+          ],
+          "answer": 1,
+          "explain": "201 Created is the correct response after a successful POST."
+        }
+      ],
+      "project": {
+        "title": "Notes REST API",
+        "brief": "Build a complete REST API for notes using Express, with in-memory storage, five CRUD routes and validation.",
+        "checks": [
+          "GET, POST, PUT and DELETE routes all work",
+          "POST returns 400 when the title is missing",
+          "Unknown ids return 404 with a clear message",
+          "JSON body parsing is enabled with express.json()",
+          "Every route tested with curl or Postman",
+          "Code is split into at least two files"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "CRUD with Real Data and Validation",
+      "goal": "Make your API robust with validation and proper status codes.",
+      "video": {
+        "youtube_id": "fgTGADljAeg",
+        "title": "Build A REST API With Node.js, Express, & MongoDB - Quick",
+        "channel": "Web Dev Simplified"
+      },
+      "steps": [
+        "Add validation for every field on create and update.",
+        "Return 404 with a clear message when an id does not exist.",
+        "Add pagination with ?page= and ?limit= on the list route.",
+        "Return consistent JSON shapes for success and error responses."
+      ],
+      "task": "Upgrade your notes API with validation, 404 handling and pagination.",
+      "challenge": "Add sorting with ?sort=title or ?sort=created.",
+      "quiz": [
+        {
+          "q": "Which status code means the resource was not found?",
+          "options": [
+            "400",
+            "401",
+            "404",
+            "500"
+          ],
+          "answer": 2,
+          "explain": "404 means the requested resource does not exist."
+        },
+        {
+          "q": "Why validate input on the server?",
+          "options": [
+            "Clients can send anything, so the server is the last line of defence",
+            "It makes responses faster",
+            "Browsers require it",
+            "It replaces authentication"
+          ],
+          "answer": 0,
+          "explain": "Never trust client input; validate every value server-side."
+        },
+        {
+          "q": "What is pagination?",
+          "options": [
+            "Deleting old data",
+            "Splitting a long list into pages of results",
+            "Sorting alphabetically",
+            "Compressing responses"
+          ],
+          "answer": 1,
+          "explain": "Pagination returns a slice of results so clients are not flooded."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Working with MongoDB and Mongoose",
+      "goal": "Connect Node to MongoDB and model data with Mongoose.",
+      "video": {
+        "youtube_id": "X2bHZ7R_4Kk",
+        "title": "Express API Tutorial: Introduction",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Install mongoose and connect to a local or Atlas MongoDB database.",
+        "Define a Note schema with title, body and timestamps.",
+        "Replace your in-memory array with database calls.",
+        "Test create, read, update and delete against the real database."
+      ],
+      "task": "Move your notes API from an array to MongoDB with a Mongoose model.",
+      "challenge": "Add a second model, Category, and link notes to categories by id.",
+      "quiz": [
+        {
+          "q": "What is Mongoose?",
+          "options": [
+            "A database server",
+            "An ODM that models MongoDB data in Node.js",
+            "A front-end framework",
+            "A testing library"
+          ],
+          "answer": 1,
+          "explain": "Mongoose adds schemas, validation and helper methods over the MongoDB driver."
+        },
+        {
+          "q": "What is a schema?",
+          "options": [
+            "A password",
+            "The shape and rules of a collection's documents",
+            "A server route",
+            "A backup file"
+          ],
+          "answer": 1,
+          "explain": "A schema defines fields, types and validation for documents."
+        },
+        {
+          "q": "Why use a database instead of an array?",
+          "options": [
+            "Arrays are slow",
+            "Data survives restarts and can grow beyond memory",
+            "Databases are free",
+            "Arrays cannot store objects"
+          ],
+          "answer": 1,
+          "explain": "In-memory data disappears when the server restarts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "SQL Databases with PostgreSQL and Prisma",
+      "goal": "Query a relational database from Node with Prisma.",
+      "video": {
+        "youtube_id": "fdq0V7uIXtc",
+        "title": "Express API Tutorial: GET Endpoints",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Install Prisma and set up a PostgreSQL database (local or hosted).",
+        "Define a Note model in schema.prisma and run a migration.",
+        "Use Prisma Client to create and list notes.",
+        "Compare the Prisma code with the Mongoose code from yesterday."
+      ],
+      "task": "Build a second version of the notes API backed by PostgreSQL through Prisma.",
+      "challenge": "Add a relation so each note belongs to a user.",
+      "quiz": [
+        {
+          "q": "What is Prisma?",
+          "options": [
+            "A database engine",
+            "An ORM that generates a typed client for SQL databases",
+            "A web framework",
+            "A cache"
+          ],
+          "answer": 1,
+          "explain": "Prisma lets you query SQL databases with type-safe JavaScript."
+        },
+        {
+          "q": "What is a migration?",
+          "options": [
+            "Moving servers",
+            "A versioned change to the database structure",
+            "A backup",
+            "A query"
+          ],
+          "answer": 1,
+          "explain": "Migrations track schema changes so databases can be updated safely."
+        },
+        {
+          "q": "When is SQL a better fit than MongoDB?",
+          "options": [
+            "Never",
+            "When data is highly relational and needs strict consistency",
+            "When you need speed only",
+            "When data is unstructured"
+          ],
+          "answer": 1,
+          "explain": "Relational data with joins and transactions suits SQL databases."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Authentication with JWT",
+      "goal": "Add signup, login and protected routes with JSON Web Tokens.",
+      "video": {
+        "youtube_id": "e_aNOyeqsAU",
+        "title": "Express API Tutorial: Routing Parameters",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Install bcryptjs and jsonwebtoken.",
+        "Create a User model and a /auth/register route that hashes passwords.",
+        "Create a /auth/login route that checks the password and issues a JWT.",
+        "Protect the notes routes with middleware that verifies the token."
+      ],
+      "task": "Add register, login and a protected route to your API; only logged-in users can manage notes.",
+      "challenge": "Add token expiry of one hour and return a clear error when a token is expired.",
+      "quiz": [
+        {
+          "q": "What is a JWT?",
+          "options": [
+            "A password",
+            "A signed token that proves who a user is",
+            "A database record",
+            "A cookie file"
+          ],
+          "answer": 1,
+          "explain": "A JSON Web Token carries claims and a signature the server can verify."
+        },
+        {
+          "q": "Why hash passwords?",
+          "options": [
+            "To make them shorter",
+            "So a stolen database does not expose real passwords",
+            "To speed up login",
+            "To meet a style rule"
+          ],
+          "answer": 1,
+          "explain": "Hashing is one-way, so leaked hashes cannot be turned back into passwords."
+        },
+        {
+          "q": "Where should the JWT check happen?",
+          "options": [
+            "In the front-end only",
+            "In server middleware before protected routes",
+            "In the database",
+            "Nowhere"
+          ],
+          "answer": 1,
+          "explain": "The server must verify the token; front-end checks are cosmetic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Passwords, Sessions and Security Basics",
+      "goal": "Harden your API against common attacks.",
+      "video": {
+        "youtube_id": "hapS6wpKuX8",
+        "title": "Express API Tutorial: JSON Request Body",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Add rate limiting to the login route.",
+        "Sanitise inputs and never log passwords or tokens.",
+        "Store secrets in environment variables, never in code.",
+        "Add helmet to set secure HTTP headers."
+      ],
+      "task": "Audit your API and fix at least five security issues.",
+      "challenge": "Try sending a SQL-injection-style string and a huge payload; confirm the server handles both safely.",
+      "quiz": [
+        {
+          "q": "Why keep secrets in environment variables?",
+          "options": [
+            "They load faster",
+            "Code in Git history is hard to erase, but env vars stay on the server",
+            "It is a style preference",
+            "Variables are encrypted"
+          ],
+          "answer": 1,
+          "explain": "Secrets committed to Git leak; env vars keep them out of the repo."
+        },
+        {
+          "q": "What does rate limiting do?",
+          "options": [
+            "Speeds up responses",
+            "Limits how many requests one client can make in a time window",
+            "Blocks all traffic",
+            "Compresses data"
+          ],
+          "answer": 1,
+          "explain": "Rate limits slow down brute-force and abuse attempts."
+        },
+        {
+          "q": "What is helmet for?",
+          "options": [
+            "Testing",
+            "Setting secure HTTP headers automatically",
+            "Hashing passwords",
+            "Logging"
+          ],
+          "answer": 1,
+          "explain": "Helmet sets headers that reduce common web attacks."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "File Uploads and Serving Files",
+      "goal": "Accept and serve uploaded files with Multer.",
+      "video": {
+        "youtube_id": "cqapa6mI3jE",
+        "title": "Express API Tutorial: Update and Delete",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Install multer and add an upload route for a single image.",
+        "Store uploads in an uploads folder with unique file names.",
+        "Serve the folder statically with express.static.",
+        "Limit file size and accept only image types."
+      ],
+      "task": "Add profile-picture upload to your API and return a URL for the uploaded file.",
+      "challenge": "Add an endpoint that lists all uploaded file names and sizes.",
+      "quiz": [
+        {
+          "q": "What does Multer do?",
+          "options": [
+            "A database",
+            "Middleware that handles multipart file uploads in Express",
+            "A front-end uploader",
+            "A cloud service"
+          ],
+          "answer": 1,
+          "explain": "Multer parses multipart/form-data and saves uploaded files."
+        },
+        {
+          "q": "Why rename uploaded files?",
+          "options": [
+            "To make them pretty",
+            "To avoid collisions and path tricks from user-supplied names",
+            "To compress them",
+            "It is required by law"
+          ],
+          "answer": 1,
+          "explain": "User file names can collide or contain dangerous paths."
+        },
+        {
+          "q": "What does express.static do?",
+          "options": [
+            "Serves files from a folder over HTTP",
+            "Creates a database",
+            "Compiles code",
+            "Logs requests"
+          ],
+          "answer": 0,
+          "explain": "express.static serves files like images from a directory."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Task Manager API with Auth",
+      "goal": "Combine everything so far into a full task manager API.",
+      "video": {
+        "youtube_id": "MIJt9H69QVc",
+        "title": "Node JS Full Course 2024",
+        "channel": "Sangam Mukherjee"
+      },
+      "steps": [
+        "Design the data model: users, tasks with title, status and due date.",
+        "Build auth routes and protect all task routes.",
+        "Implement full CRUD with validation, filtering and pagination.",
+        "Write a README documenting every endpoint."
+      ],
+      "task": "Ship a documented task manager API with auth, CRUD, filtering and pagination.",
+      "challenge": "Add a route that returns task counts by status.",
+      "quiz": [
+        {
+          "q": "What should API documentation include?",
+          "options": [
+            "Only the URLs",
+            "Endpoints, methods, request bodies, responses and errors",
+            "The source code",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Good docs let another developer use the API without reading its code."
+        },
+        {
+          "q": "Why filter tasks by user?",
+          "options": [
+            "It is faster",
+            "Users must only see their own data",
+            "It saves storage",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "Scoping data to the owner is a core security rule."
+        },
+        {
+          "q": "What makes an API 'complete'?",
+          "options": [
+            "Many endpoints",
+            "It covers its use cases with correct auth, validation and docs",
+            "It uses the newest tools",
+            "It is long"
+          ],
+          "answer": 1,
+          "explain": "Completeness means the promised features work correctly and safely."
+        }
+      ],
+      "project": {
+        "title": "Task Manager API with Auth",
+        "brief": "Build a task manager API with user registration, JWT login, protected routes and full task CRUD with filtering and pagination.",
+        "checks": [
+          "Register and login issue a valid JWT",
+          "Task routes reject requests without a token",
+          "Tasks are scoped to the logged-in user",
+          "List supports filtering and pagination",
+          "Validation errors return 400 with a message",
+          "README documents every endpoint"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Testing Your API with Jest and Supertest",
+      "goal": "Write automated tests for your routes.",
+      "video": {
+        "youtube_id": "HXdLCH_3J-k",
+        "title": "Node.js Full Course 2026",
+        "channel": "Elcode"
+      },
+      "steps": [
+        "Install jest and supertest as dev dependencies.",
+        "Write a test that GET /notes returns 200 and an array.",
+        "Write a test that POST with a missing title returns 400.",
+        "Run the tests with npm test and make them all pass."
+      ],
+      "task": "Write at least six passing tests covering your main routes and error cases.",
+      "challenge": "Add a test that a protected route returns 401 without a token.",
+      "quiz": [
+        {
+          "q": "What does Supertest do?",
+          "options": [
+            "Tests front-end code",
+            "Makes HTTP requests to your Express app in tests",
+            "Tests databases only",
+            "Generates code"
+          ],
+          "answer": 1,
+          "explain": "Supertest lets tests call your app like a real client."
+        },
+        {
+          "q": "Why write tests?",
+          "options": [
+            "They make code faster",
+            "They catch regressions and prove the API behaves as expected",
+            "They replace documentation",
+            "They are required by Node"
+          ],
+          "answer": 1,
+          "explain": "Tests give confidence that changes do not break existing behaviour."
+        },
+        {
+          "q": "What is a test assertion?",
+          "options": [
+            "A guess",
+            "A check that an actual value matches the expected value",
+            "A comment",
+            "A log line"
+          ],
+          "answer": 1,
+          "explain": "Assertions compare actual results with expected results."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Error Handling and Logging",
+      "goal": "Handle errors cleanly and log what matters.",
+      "video": {
+        "youtube_id": "VWQrqVtsR2E",
+        "title": "Complete Backend Course | Beginner to Advanced | Node.js, Express, MongoDB",
+        "channel": "Vivek Mishra"
+      },
+      "steps": [
+        "Add a central error-handling middleware that returns consistent JSON.",
+        "Use try/catch in async routes or an async wrapper.",
+        "Add a logger (morgan or winston) that records requests and errors.",
+        "Make sure no stack traces leak to clients in production."
+      ],
+      "task": "Refactor your API so every error flows through one handler with clean JSON responses.",
+      "challenge": "Add a request-id to each log line so one request can be traced.",
+      "quiz": [
+        {
+          "q": "What is a central error handler?",
+          "options": [
+            "A try/catch in every route",
+            "One middleware that catches errors from all routes",
+            "A log file",
+            "A test"
+          ],
+          "answer": 1,
+          "explain": "Central handling keeps error responses consistent and code clean."
+        },
+        {
+          "q": "Why hide stack traces from clients?",
+          "options": [
+            "They are ugly",
+            "They reveal server internals attackers can use",
+            "They slow responses",
+            "They break JSON"
+          ],
+          "answer": 1,
+          "explain": "Stack traces leak file paths and library details."
+        },
+        {
+          "q": "What should you log?",
+          "options": [
+            "Passwords",
+            "Requests, errors and key events \u2014 never secrets",
+            "Everything including tokens",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Logs should help debugging without exposing sensitive data."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Environment Config and Deployment Prep",
+      "goal": "Prepare your API for a real server.",
+      "video": {
+        "youtube_id": "Oe421EPjeBE",
+        "title": "Learn Node.js and Express with This Free 8-hour Back End Development Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Move all config (port, database URL, JWT secret) into environment variables.",
+        "Add a .gitignore that excludes node_modules and .env.",
+        "Create a production start script and test it locally.",
+        "Check the app starts with NODE_ENV=production."
+      ],
+      "task": "Make your API fully configurable by environment variables with no secrets in code.",
+      "challenge": "Write a DEPLOY.md checklist for taking the API live.",
+      "quiz": [
+        {
+          "q": "What belongs in .gitignore?",
+          "options": [
+            "Source code",
+            "node_modules, .env and other generated or secret files",
+            "README files",
+            "Tests"
+          ],
+          "answer": 1,
+          "explain": "Generated files and secrets must never be committed."
+        },
+        {
+          "q": "What is NODE_ENV?",
+          "options": [
+            "A database name",
+            "An environment variable that tells the app which mode it is in",
+            "A package",
+            "A port number"
+          ],
+          "answer": 1,
+          "explain": "NODE_ENV switches behaviour between development and production."
+        },
+        {
+          "q": "Why use a start script?",
+          "options": [
+            "It is faster",
+            "It gives one standard command to run the app anywhere",
+            "It is required by npm",
+            "It replaces code"
+          ],
+          "answer": 1,
+          "explain": "A start script documents how the app runs in production."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Deploying to Render or Railway",
+      "goal": "Deploy your API so anyone can call it.",
+      "video": {
+        "youtube_id": "g09PoiCob4Y",
+        "title": "Backend Complete Course | NodeJS, ExpressJS, JWT, PostgreSQL, Prisma",
+        "channel": "PedroTech"
+      },
+      "steps": [
+        "Create a free account on Render or Railway.",
+        "Connect your GitHub repository and set the build and start commands.",
+        "Add your environment variables in the hosting dashboard.",
+        "Test the live URL with curl and fix any deployment errors."
+      ],
+      "task": "Deploy your task manager API live and verify every route on the public URL.",
+      "challenge": "Set up automatic deploys so every push to main goes live.",
+      "quiz": [
+        {
+          "q": "What does a hosting platform need to run your app?",
+          "options": [
+            "Only the code",
+            "The code, a start command and environment variables",
+            "A domain name",
+            "A database only"
+          ],
+          "answer": 1,
+          "explain": "The platform needs to know how to start the app and what config to give it."
+        },
+        {
+          "q": "Why do deploys fail most often?",
+          "options": [
+            "Bad luck",
+            "Missing environment variables or a wrong start command",
+            "Slow internet",
+            "Too much code"
+          ],
+          "answer": 1,
+          "explain": "Missing env vars and wrong start commands are the classic deploy failures."
+        },
+        {
+          "q": "What is a health check endpoint?",
+          "options": [
+            "A test file",
+            "A simple route like /health that proves the app is running",
+            "A database table",
+            "A login page"
+          ],
+          "answer": 1,
+          "explain": "Platforms ping a health endpoint to know the app is alive."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Caching, Rate Limits and Scaling Basics",
+      "goal": "Make your API faster and more resilient.",
+      "video": {
+        "youtube_id": "Gs8a1PWlXMI",
+        "title": "Express.js Crash Course | Build a RESTful API with Middleware in Just 30 Minutes!",
+        "channel": "Code With Ghazi"
+      },
+      "steps": [
+        "Add in-memory caching for a slow list endpoint.",
+        "Add rate limiting to all routes.",
+        "Add compression middleware to shrink responses.",
+        "Measure response times before and after caching."
+      ],
+      "task": "Add caching, compression and rate limiting to your API and record the speed difference.",
+      "challenge": "Cache a single resource by id and invalidate it when the resource updates.",
+      "quiz": [
+        {
+          "q": "What does caching do?",
+          "options": [
+            "Deletes data",
+            "Stores a computed result so later requests skip the work",
+            "Encrypts responses",
+            "Backs up the database"
+          ],
+          "answer": 1,
+          "explain": "Caching trades a little memory for much faster repeated responses."
+        },
+        {
+          "q": "When must a cache be invalidated?",
+          "options": [
+            "Never",
+            "When the underlying data changes, or clients see stale results",
+            "Every minute",
+            "On every request"
+          ],
+          "answer": 1,
+          "explain": "Stale cache entries lie to clients after the data changes."
+        },
+        {
+          "q": "What does compression middleware do?",
+          "options": [
+            "Zips the code",
+            "Shrinks response bodies so they travel faster",
+            "Compresses the database",
+            "Reduces image quality"
+          ],
+          "answer": 1,
+          "explain": "Compression reduces the bytes sent over the network."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "WebSockets and Real-Time Updates",
+      "goal": "Add live updates with Socket.io.",
+      "video": {
+        "youtube_id": "uNCrMvkPUAE",
+        "title": "Node JS Tutorial | Creation of Rest-Apis with Node and Express.js",
+        "channel": "Vyeron"
+      },
+      "steps": [
+        "Install socket.io and attach it to your HTTP server.",
+        "Emit an event whenever a task is created or updated.",
+        "Build a tiny HTML page that connects and shows live updates.",
+        "Broadcast the event to all connected clients except the sender."
+      ],
+      "task": "Add a live feed to your task API so new tasks appear instantly on a connected page.",
+      "challenge": "Add a 'user is typing' style event to the demo page.",
+      "quiz": [
+        {
+          "q": "What is a WebSocket?",
+          "options": [
+            "A faster HTTP request",
+            "A persistent two-way connection between client and server",
+            "A database",
+            "A file upload"
+          ],
+          "answer": 1,
+          "explain": "WebSockets stay open so either side can push messages at any time."
+        },
+        {
+          "q": "When are WebSockets better than polling?",
+          "options": [
+            "Never",
+            "When updates must arrive instantly without constant requests",
+            "For static pages",
+            "For file downloads"
+          ],
+          "answer": 1,
+          "explain": "Polling wastes requests; WebSockets push only when something happens."
+        },
+        {
+          "q": "What does socket.emit do?",
+          "options": [
+            "Saves to a database",
+            "Sends an event to a connected client",
+            "Closes the connection",
+            "Logs a message"
+          ],
+          "answer": 1,
+          "explain": "emit sends a named event with data to a socket."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Blog API with Comments",
+      "goal": "Build a full blog API with posts, comments and likes.",
+      "video": {
+        "youtube_id": "fgTGADljAeg",
+        "title": "Build A REST API With Node.js, Express, & MongoDB - Quick",
+        "channel": "Web Dev Simplified"
+      },
+      "steps": [
+        "Design models for users, posts and comments.",
+        "Build CRUD for posts and nested routes for comments.",
+        "Add likes and a route that returns the most-liked posts.",
+        "Document the API and write tests for the main flows."
+      ],
+      "task": "Ship a blog API with posts, comments, likes and tests.",
+      "challenge": "Add pagination and search to the posts list.",
+      "quiz": [
+        {
+          "q": "How should comments relate to posts?",
+          "options": [
+            "As separate unrelated data",
+            "Each comment stores the post id it belongs to",
+            "As files",
+            "In the same document only"
+          ],
+          "answer": 1,
+          "explain": "A reference from comment to post keeps the data linked and queryable."
+        },
+        {
+          "q": "What is a nested route?",
+          "options": [
+            "A route inside a file",
+            "A route like /posts/:id/comments that belongs under a parent resource",
+            "A hidden route",
+            "A slow route"
+          ],
+          "answer": 1,
+          "explain": "Nested routes express ownership: comments live under a post."
+        },
+        {
+          "q": "Why add search to a list endpoint?",
+          "options": [
+            "It looks good",
+            "Clients need to find content without downloading everything",
+            "It is required by REST",
+            "It speeds up the database"
+          ],
+          "answer": 1,
+          "explain": "Search keeps list endpoints useful as data grows."
+        }
+      ],
+      "project": {
+        "title": "Blog API with Comments",
+        "brief": "Build a blog API with posts, nested comments, likes, search and pagination, backed by a real database.",
+        "checks": [
+          "Posts support full CRUD",
+          "Comments are nested under posts",
+          "Like endpoint works and most-liked list is available",
+          "Search and pagination work on the posts list",
+          "At least four tests pass",
+          "API is documented in a README or Swagger"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "API Documentation with Swagger",
+      "goal": "Document your API so others can use it.",
+      "video": {
+        "youtube_id": "X2bHZ7R_4Kk",
+        "title": "Express API Tutorial: Introduction",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Install swagger-ui-express and swagger-jsdoc.",
+        "Annotate your routes with OpenAPI comments.",
+        "Serve the docs at /api-docs and open them in a browser.",
+        "Test an endpoint from the Swagger UI."
+      ],
+      "task": "Publish interactive Swagger docs for your blog API.",
+      "challenge": "Add request examples and error responses to every endpoint doc.",
+      "quiz": [
+        {
+          "q": "What is OpenAPI/Swagger?",
+          "options": [
+            "A testing tool",
+            "A standard for describing REST APIs, with an interactive docs UI",
+            "A database",
+            "A framework"
+          ],
+          "answer": 1,
+          "explain": "OpenAPI describes endpoints so tools can generate docs and clients."
+        },
+        {
+          "q": "Why document an API?",
+          "options": [
+            "It is decoration",
+            "Other developers can use it without reading your code",
+            "It makes it faster",
+            "It replaces tests"
+          ],
+          "answer": 1,
+          "explain": "Docs are the contract between the API and its users."
+        },
+        {
+          "q": "What can you do in Swagger UI?",
+          "options": [
+            "Edit the database",
+            "Try endpoints live from the browser",
+            "Deploy the API",
+            "Write code"
+          ],
+          "answer": 1,
+          "explain": "Swagger UI lets you send real requests to the documented endpoints."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Background Jobs and Queues",
+      "goal": "Run slow work in the background instead of blocking requests.",
+      "video": {
+        "youtube_id": "fdq0V7uIXtc",
+        "title": "Express API Tutorial: GET Endpoints",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Identify a slow task in your API, like sending a welcome email.",
+        "Install BullMQ or a simple in-memory queue.",
+        "Move the slow task into a job that runs after the response.",
+        "Add a route that shows the job queue status."
+      ],
+      "task": "Move email sending (simulated by a log) into a background job in your API.",
+      "challenge": "Add retry logic so a failed job runs again up to three times.",
+      "quiz": [
+        {
+          "q": "Why use a background job?",
+          "options": [
+            "It is faster to write",
+            "Slow work should not block the HTTP response",
+            "It saves memory",
+            "It replaces the database"
+          ],
+          "answer": 1,
+          "explain": "Responses should return fast; heavy work runs afterwards."
+        },
+        {
+          "q": "What is a queue?",
+          "options": [
+            "A database table",
+            "A list of jobs processed one by one by workers",
+            "A route",
+            "A cache"
+          ],
+          "answer": 1,
+          "explain": "Queues hold jobs until a worker picks them up."
+        },
+        {
+          "q": "Why retry failed jobs?",
+          "options": [
+            "To waste time",
+            "Transient failures like a down service often succeed on a retry",
+            "It is required",
+            "To slow the system"
+          ],
+          "answer": 1,
+          "explain": "Retries handle temporary outages without losing work."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Monitoring, Uptime and Alerts",
+      "goal": "Know when your API is down before your users tell you.",
+      "video": {
+        "youtube_id": "e_aNOyeqsAU",
+        "title": "Express API Tutorial: Routing Parameters",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Add a /health endpoint that checks the database connection.",
+        "Log errors with enough context to diagnose them.",
+        "Sign up for a free uptime monitor and point it at your API.",
+        "Create an alert that notifies you when the API stops responding."
+      ],
+      "task": "Set up health checks and an uptime monitor for your live API.",
+      "challenge": "Write a runbook: what to check first when the API returns 500s.",
+      "quiz": [
+        {
+          "q": "What does a health endpoint check?",
+          "options": [
+            "The weather",
+            "Whether the app and its database are actually working",
+            "User passwords",
+            "The code style"
+          ],
+          "answer": 1,
+          "explain": "A health check proves the app can serve real requests."
+        },
+        {
+          "q": "Why monitor uptime?",
+          "options": [
+            "It looks professional",
+            "You learn about outages before users complain",
+            "It speeds up the API",
+            "It is free"
+          ],
+          "answer": 1,
+          "explain": "Monitoring turns silent failures into alerts you can act on."
+        },
+        {
+          "q": "What is a runbook?",
+          "options": [
+            "A diary",
+            "Written steps for diagnosing and fixing common incidents",
+            "A test file",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A runbook makes incident response calm and repeatable."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Refactoring and Code Organisation",
+      "goal": "Clean up your API into a professional structure.",
+      "video": {
+        "youtube_id": "hapS6wpKuX8",
+        "title": "Express API Tutorial: JSON Request Body",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Split routes, controllers and models into separate folders.",
+        "Move repeated validation into shared middleware.",
+        "Remove dead code and duplicated logic.",
+        "Run your tests after each change to prove nothing broke."
+      ],
+      "task": "Refactor your blog API into routes/controllers/models folders with all tests still passing.",
+      "challenge": "Extract one piece of logic into a reusable service module.",
+      "quiz": [
+        {
+          "q": "What is refactoring?",
+          "options": [
+            "Rewriting everything",
+            "Improving code structure without changing what it does",
+            "Adding features",
+            "Fixing bugs only"
+          ],
+          "answer": 1,
+          "explain": "Refactoring makes code cleaner while behaviour stays the same."
+        },
+        {
+          "q": "Why separate controllers from routes?",
+          "options": [
+            "It is required",
+            "Routes describe URLs; controllers hold the logic, so each is easier to change",
+            "It runs faster",
+            "It hides code"
+          ],
+          "answer": 1,
+          "explain": "Separation of concerns keeps files small and focused."
+        },
+        {
+          "q": "How do you know a refactor is safe?",
+          "options": [
+            "You feel good",
+            "Tests still pass and behaviour is unchanged",
+            "The code is shorter",
+            "No one complains"
+          ],
+          "answer": 1,
+          "explain": "Passing tests prove the refactor did not break behaviour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Capstone Planning: A Real Backend Service",
+      "goal": "Plan a complete backend service you will build and deploy.",
+      "video": {
+        "youtube_id": "cqapa6mI3jE",
+        "title": "Express API Tutorial: Update and Delete",
+        "channel": "Microsoft"
+      },
+      "steps": [
+        "Choose a service: a shop API, a booking API or a social API.",
+        "List the resources, endpoints and data models.",
+        "Decide the auth model and which routes are protected.",
+        "Sketch the database schema on paper."
+      ],
+      "task": "Write a full capstone plan with endpoints, models, auth rules and a build order.",
+      "challenge": "Cut the scope to what you can build and test in two days.",
+      "quiz": [
+        {
+          "q": "What should a capstone plan include?",
+          "options": [
+            "Only the name",
+            "Resources, endpoints, models, auth and a build order",
+            "The colours",
+            "A logo"
+          ],
+          "answer": 1,
+          "explain": "A plan maps the whole service before a line of code is written."
+        },
+        {
+          "q": "Why decide auth rules up front?",
+          "options": [
+            "It is fun",
+            "Auth mistakes are expensive to fix after routes are built",
+            "It saves typing",
+            "Clients ask for it"
+          ],
+          "answer": 1,
+          "explain": "Designing auth early prevents data leaks later."
+        },
+        {
+          "q": "How do you choose a capstone idea?",
+          "options": [
+            "Pick the hardest one",
+            "Pick something useful with clear data and clear users",
+            "Copy a tutorial exactly",
+            "Pick at random"
+          ],
+          "answer": 1,
+          "explain": "A useful, well-scoped idea is finishable and demonstrable."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Capstone Build: Models and Auth",
+      "goal": "Build the data layer and authentication for your capstone service.",
+      "video": {
+        "youtube_id": "MIJt9H69QVc",
+        "title": "Node JS Full Course 2024",
+        "channel": "Sangam Mukherjee"
+      },
+      "steps": [
+        "Create the project, connect the database and define all models.",
+        "Implement register and login with hashed passwords and JWT.",
+        "Protect the routes that need a logged-in user.",
+        "Seed the database with realistic sample data."
+      ],
+      "task": "Ship the capstone data layer and auth, with seed data you can test against.",
+      "challenge": "Add a role field so some routes are admin-only.",
+      "quiz": [
+        {
+          "q": "What is seed data?",
+          "options": [
+            "Test answers",
+            "Realistic sample records used for development and demos",
+            "Backup data",
+            "Deleted data"
+          ],
+          "answer": 1,
+          "explain": "Seed data lets you test and demo without creating records by hand."
+        },
+        {
+          "q": "Why hash passwords before storing?",
+          "options": [
+            "To save space",
+            "So a database leak does not expose real passwords",
+            "To speed up login",
+            "It is a style rule"
+          ],
+          "answer": 1,
+          "explain": "Hashing is one-way, so stolen hashes are useless to attackers."
+        },
+        {
+          "q": "What is role-based access?",
+          "options": [
+            "Everyone can do everything",
+            "Permissions depend on the user's role, like admin or customer",
+            "A login page",
+            "A password rule"
+          ],
+          "answer": 1,
+          "explain": "Roles restrict sensitive actions to the right users."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Capstone Build: Core Endpoints",
+      "goal": "Build the main features of your capstone service.",
+      "video": {
+        "youtube_id": "HXdLCH_3J-k",
+        "title": "Node.js Full Course 2026",
+        "channel": "Elcode"
+      },
+      "steps": [
+        "Implement CRUD for your main resource with validation.",
+        "Add filtering, search and pagination to list endpoints.",
+        "Implement the second resource and its relationship to the first.",
+        "Test every endpoint with Postman or curl."
+      ],
+      "task": "Ship the capstone core endpoints with validation, filtering and pagination.",
+      "challenge": "Add one endpoint that aggregates data, like totals or counts.",
+      "quiz": [
+        {
+          "q": "What does an aggregate endpoint do?",
+          "options": [
+            "Deletes data",
+            "Combines many records into a summary, like a total",
+            "Lists everything",
+            "Uploads a file"
+          ],
+          "answer": 1,
+          "explain": "Aggregations turn raw records into useful numbers."
+        },
+        {
+          "q": "Why validate every endpoint?",
+          "options": [
+            "It is polite",
+            "Every endpoint is an entry point an attacker can abuse",
+            "It makes code longer",
+            "Browsers require it"
+          ],
+          "answer": 1,
+          "explain": "Unvalidated endpoints are the most common API vulnerability."
+        },
+        {
+          "q": "How do you test an endpoint?",
+          "options": [
+            "Guess",
+            "Send real requests and check the status and body",
+            "Read the code",
+            "Restart the server"
+          ],
+          "answer": 1,
+          "explain": "Real requests prove the endpoint works end to end."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Capstone Build: Polish, Tests and Docs",
+      "goal": "Finish the capstone with tests, docs and deployment.",
+      "video": {
+        "youtube_id": "VWQrqVtsR2E",
+        "title": "Complete Backend Course | Beginner to Advanced | Node.js, Express, MongoDB",
+        "channel": "Vivek Mishra"
+      },
+      "steps": [
+        "Write tests for the main flows and make them pass.",
+        "Add Swagger docs for every endpoint.",
+        "Add error handling, logging and a health endpoint.",
+        "Deploy the service and verify the live URL."
+      ],
+      "task": "Ship the finished capstone: tested, documented and deployed live.",
+      "challenge": "Record a short walkthrough of the API using the Swagger UI.",
+      "quiz": [
+        {
+          "q": "What proves a backend capstone is done?",
+          "options": [
+            "It has many files",
+            "It is tested, documented, deployed and meets its plan",
+            "It uses a new tool",
+            "It is long"
+          ],
+          "answer": 1,
+          "explain": "Done means working, proven by tests, documented and live."
+        },
+        {
+          "q": "Why document before you forget?",
+          "options": [
+            "You will forget details",
+            "Docs written late are usually wrong or missing",
+            "It is fun",
+            "Clients demand it"
+          ],
+          "answer": 1,
+          "explain": "Writing docs while building keeps them accurate."
+        },
+        {
+          "q": "What is the best next step after this course?",
+          "options": [
+            "Stop",
+            "Build a front-end for your API or learn TypeScript and testing in depth",
+            "Delete the project",
+            "Only watch videos"
+          ],
+          "answer": 1,
+          "explain": "A front-end on your own API is the natural next step."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Demo Day: Present Your API",
+      "goal": "Present your capstone API clearly and plan what to learn next.",
+      "video": {
+        "youtube_id": "Oe421EPjeBE",
+        "title": "Learn Node.js and Express with This Free 8-hour Back End Development Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Write a one-page README summary: what the API does and how to run it.",
+        "Record or write a 2-minute demo showing register, login and one full CRUD flow.",
+        "Ask one person to follow your README and call your live API.",
+        "List three things you would improve and the next technology you want to learn."
+      ],
+      "task": "Publish your capstone README and demo, and share the live API link with one person.",
+      "challenge": "Fix the first problem your tester finds, then redeploy.",
+      "quiz": [
+        {
+          "q": "Why demo your API to someone else?",
+          "options": [
+            "To show off",
+            "A fresh user finds unclear docs and real bugs you missed",
+            "It is required",
+            "To get likes"
+          ],
+          "answer": 1,
+          "explain": "Outside testers expose confusing docs and hidden bugs."
+        },
+        {
+          "q": "What belongs in a README?",
+          "options": [
+            "Only the title",
+            "What the project does, how to run it and how to use the API",
+            "The full source code",
+            "Your life story"
+          ],
+          "answer": 1,
+          "explain": "A README lets a stranger run and use your project."
+        },
+        {
+          "q": "What is the best way to keep growing after this course?",
+          "options": [
+            "Stop building",
+            "Keep shipping small projects and deepen one area, like TypeScript or testing",
+            "Only watch tutorials",
+            "Delete old projects"
+          ],
+          "answer": 1,
+          "explain": "Shipping real projects is how backend skill compounds."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "A Complete Backend Service, Deployed",
+    "brief": "Design, build, test, document and deploy a complete backend service of your choice \u2014 for example a shop API, a booking API or a social API. It must have user auth with JWT, at least two related resources with full CRUD, validation, pagination, tests and Swagger docs, running live on a public URL.",
+    "checks": [
+      "Service is deployed live and responds on a public URL",
+      "Auth works: register, login and protected routes",
+      "At least two related resources with full CRUD",
+      "Validation returns clear 400 errors",
+      "List endpoints support pagination",
+      "At least six automated tests pass",
+      "Swagger docs cover every endpoint"
+    ],
+    "deliverables": [
+      "Live API base URL",
+      "GitHub repository with the full source code",
+      "Swagger docs URL",
+      "A Postman collection or curl examples for every endpoint",
+      "A short written summary of the architecture and what you learned"
+    ]
+  }
+}

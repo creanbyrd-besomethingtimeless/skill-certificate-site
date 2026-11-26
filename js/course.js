@@ -1,25 +1,42 @@
-/* Course logic: load curriculum.json, render days, quiz, progress, streak.
+/* Course logic: load a per-skill curriculum, render days, quiz, progress, streak.
  * A day is complete only when its quiz is passed at 70 percent or more.
  * With 3 quiz questions, that means 3 out of 3 correct.
  * Progress is saved to Supabase when configured. Without Supabase,
  * progress is kept in this browser only (localStorage) so the course
  * can still be tried, and the page says so clearly.
+ *
+ * Multi-skill: every skill has its own curriculum file at
+ * ./curriculum/<slug>.json and its own progress, keyed by slug.
+ * The live Supabase tables do not have a skill_slug column yet, so at
+ * startup each of the progress, capstone_checks and certificates tables
+ * is probed once for that column. skill_slug is only sent to Supabase
+ * when the column exists; otherwise progress for that skill stays in
+ * localStorage only and the page shows the local-only note.
  */
 (function () {
   "use strict";
 
   var TOTAL_DAYS = 30;
   var PASS_MARK = 0.70;
-  var LOCAL_KEY = "skillcert-progress-v1";
-  var LOCAL_CAPSTONE_KEY = "skillcert-capstone-v1";
+  var DEFAULT_SKILL = "full-stack-web-development";
+  var LOCAL_KEY_BASE = "skillcert-progress-v1";
+  var LOCAL_CAPSTONE_BASE = "skillcert-capstone-v1";
+  var ENROLLED_KEY = "skillcert-enrolled-v1";
 
   var curriculum = null;
+  var currentSkill = DEFAULT_SKILL;
   var days = [];
   var completedDays = {}; /* day number -> { completed_at, quiz_score } */
   var capstoneDone = {};  /* check id -> true */
   var currentDay = 1;
   var currentUser = null;
   var quizState = { answers: {}, submitted: false, passed: false };
+  var skillsCache = null; /* { skills: [...] } from skills.json */
+
+  /* skill_slug column support per table, probed once at startup.
+   * null = not probed yet, true/false = probed result. */
+  var skillSlugSupport = { progress: null, capstone_checks: null, certificates: null };
+  var skillSlugProbePromise = null;
 
   function el(id) { return document.getElementById(id); }
   function esc(s) {
@@ -28,21 +45,139 @@
     });
   }
 
+  /* ---------- Skill identity ---------- */
+  function skillSlugFromUrl() {
+    var params = new URLSearchParams(window.location.search);
+    var slug = (params.get("skill") || "").trim();
+    return slug || DEFAULT_SKILL;
+  }
+
+  function skillSlug() { return currentSkill; }
+
+  function skillName() {
+    var title = courseTitle();
+    if (title && title !== "Full-Stack Web Development") return title;
+    var meta = skillsCache ? skillMetaFromCache(currentSkill) : null;
+    if (meta) return meta.name;
+    return title;
+  }
+
+  function skillMetaFromCache(slug) {
+    if (!skillsCache || !Array.isArray(skillsCache.skills)) return null;
+    for (var i = 0; i < skillsCache.skills.length; i++) {
+      if (skillsCache.skills[i].slug === slug) return skillsCache.skills[i];
+    }
+    return null;
+  }
+
+  async function loadSkills() {
+    if (skillsCache) return skillsCache;
+    var res = await fetch("./skills.json");
+    if (!res.ok) throw new Error("Could not load skills.json (HTTP " + res.status + ").");
+    skillsCache = await res.json();
+    return skillsCache;
+  }
+
+  function getSkillMeta(slug) { return skillMetaFromCache(slug); }
+
+  /* ---------- Enrollments ---------- */
+  function getEnrolledSlugs() {
+    try {
+      var list = JSON.parse(localStorage.getItem(ENROLLED_KEY) || "[]");
+      return Array.isArray(list) ? list : [];
+    } catch (e) { return []; }
+  }
+
+  function recordEnrollment(slug) {
+    slug = slug || currentSkill;
+    try {
+      var list = getEnrolledSlugs();
+      if (list.indexOf(slug) === -1) {
+        list.push(slug);
+        localStorage.setItem(ENROLLED_KEY, JSON.stringify(list));
+      }
+    } catch (e) { /* storage blocked, enrollment in memory only */ }
+  }
+
+  /* Merge Supabase-derived enrollments (skills with progress or capstone
+   * rows) into the local enrolled list. Only runs when the skill_slug
+   * column exists. */
+  async function loadEnrolledSkills(user) {
+    recordEnrollment(currentSkill);
+    var client = window.SkillApp && window.SkillApp.getClient ? window.SkillApp.getClient() : null;
+    if (!client || !user) return getEnrolledSlugs();
+    var support = await probeSkillSlugSupport();
+    if (!support.progress && !support.capstone_checks) return getEnrolledSlugs();
+    var slugs = {};
+    getEnrolledSlugs().forEach(function (s) { slugs[s] = true; });
+    if (support.progress) {
+      var p = await client.from("progress").select("skill_slug").eq("user_id", user.id);
+      if (!p.error && p.data) p.data.forEach(function (row) { if (row.skill_slug) slugs[row.skill_slug] = true; });
+    }
+    if (support.capstone_checks) {
+      var c = await client.from("capstone_checks").select("skill_slug").eq("user_id", user.id);
+      if (!c.error && c.data) c.data.forEach(function (row) { if (row.skill_slug) slugs[row.skill_slug] = true; });
+    }
+    var list = Object.keys(slugs);
+    try { localStorage.setItem(ENROLLED_KEY, JSON.stringify(list)); } catch (e) { /* ignore */ }
+    return list;
+  }
+
+  /* ---------- skill_slug column probe ---------- */
+  function getClient() {
+    return window.SkillApp && window.SkillApp.getClient ? window.SkillApp.getClient() : null;
+  }
+
+  /* Probe each table once for the skill_slug column. A select that
+   * errors (column does not exist yet) means "not supported". The
+   * result is cached for the life of the page. */
+  function probeSkillSlugSupport() {
+    if (skillSlugProbePromise) return skillSlugProbePromise;
+    skillSlugProbePromise = (async function () {
+      var client = getClient();
+      var tables = ["progress", "capstone_checks", "certificates"];
+      if (!client) {
+        tables.forEach(function (t) { skillSlugSupport[t] = false; });
+        return skillSlugSupport;
+      }
+      for (var i = 0; i < tables.length; i++) {
+        var t = tables[i];
+        try {
+          var res = await client.from(t).select("skill_slug").limit(1);
+          skillSlugSupport[t] = !res.error;
+        } catch (e) {
+          skillSlugSupport[t] = false;
+        }
+      }
+      return skillSlugSupport;
+    })();
+    return skillSlugProbePromise;
+  }
+
+  /* True only after a probe has confirmed the column exists. */
+  function skillSlugSupported(table) {
+    return skillSlugSupport[table] === true;
+  }
+
   /* ---------- Curriculum loading ---------- */
-  /* Accepts curriculum.json in either shape:
+  /* Accepts a curriculum file in either shape:
    *   { days: [ {day, title, ...} ] }
    *   { weeks: [ { week, title, days: [ ... ] } ] }
    * Day fields used: day, title, goal, video_id / videoId / youtube_id /
    * video_url / videoUrl, steps / practical_steps, task / hands_on_task,
    * challenge / daily_challenge, quiz, weekly_project, capstone_checks.
+   * The slug comes from the argument, the ?skill= URL parameter, or the
+   * default full-stack skill. The file lives at ./curriculum/<slug>.json.
    */
-  async function loadCurriculum() {
-    var res = await fetch("./curriculum.json");
-    if (!res.ok) throw new Error("Could not load curriculum.json (HTTP " + res.status + ").");
+  async function loadCurriculum(slug) {
+    currentSkill = (slug || skillSlugFromUrl() || DEFAULT_SKILL).trim() || DEFAULT_SKILL;
+    var res = await fetch("./curriculum/" + encodeURIComponent(currentSkill) + ".json");
+    if (!res.ok) throw new Error("Could not load curriculum/" + currentSkill + ".json (HTTP " + res.status + ").");
     var data = await res.json();
     curriculum = data;
     days = normalizeDays(data);
-    if (!days.length) throw new Error("curriculum.json has no days in it.");
+    if (!days.length) throw new Error("curriculum/" + currentSkill + ".json has no days in it.");
+    recordEnrollment(currentSkill);
     return data;
   }
 
@@ -112,33 +247,102 @@
   }
 
   /* ---------- Progress: Supabase or local fallback ---------- */
-  function localLoad() {
-    try { completedDays = JSON.parse(localStorage.getItem(LOCAL_KEY) || "{}"); } catch (e) { completedDays = {}; }
-    try { capstoneDone = JSON.parse(localStorage.getItem(LOCAL_CAPSTONE_KEY) || "{}"); } catch (e) { capstoneDone = {}; }
+  function localKey(base, slug) { return base + ":" + (slug || currentSkill); }
+
+  function localLoad(slug) {
+    slug = slug || currentSkill;
+    try {
+      var raw = localStorage.getItem(localKey(LOCAL_KEY_BASE, slug));
+      if (raw == null && slug === DEFAULT_SKILL) {
+        /* One-time move from the old single-skill key. */
+        raw = localStorage.getItem(LOCAL_KEY_BASE);
+        if (raw != null) localStorage.setItem(localKey(LOCAL_KEY_BASE, slug), raw);
+      }
+      completedDays = JSON.parse(raw || "{}");
+    } catch (e) { completedDays = {}; }
+    try {
+      var capRaw = localStorage.getItem(localKey(LOCAL_CAPSTONE_BASE, slug));
+      if (capRaw == null && slug === DEFAULT_SKILL) {
+        capRaw = localStorage.getItem(LOCAL_CAPSTONE_BASE);
+        if (capRaw != null) localStorage.setItem(localKey(LOCAL_CAPSTONE_BASE, slug), capRaw);
+      }
+      capstoneDone = JSON.parse(capRaw || "{}");
+    } catch (e) { capstoneDone = {}; }
   }
+
   function localSave() {
     try {
-      localStorage.setItem(LOCAL_KEY, JSON.stringify(completedDays));
-      localStorage.setItem(LOCAL_CAPSTONE_KEY, JSON.stringify(capstoneDone));
+      localStorage.setItem(localKey(LOCAL_KEY_BASE), JSON.stringify(completedDays));
+      localStorage.setItem(localKey(LOCAL_CAPSTONE_BASE), JSON.stringify(capstoneDone));
     } catch (e) { /* storage full or blocked, progress in memory only */ }
   }
 
-  async function loadProgress(user) {
+  function readLocalProgress(slug) {
+    try {
+      var raw = localStorage.getItem(localKey(LOCAL_KEY_BASE, slug));
+      if (raw == null && slug === DEFAULT_SKILL) raw = localStorage.getItem(LOCAL_KEY_BASE);
+      return JSON.parse(raw || "{}");
+    } catch (e) { return {}; }
+  }
+
+  function showLocalOnlyNote() {
+    var note = el("local-progress-note");
+    if (note) {
+      note.textContent = "The database does not have the multi-skill update yet, so progress for this skill is saved in this browser only. It will not follow you to another device.";
+    }
+  }
+
+  async function loadProgress(user, slug) {
     currentUser = user || null;
+    if (slug) currentSkill = slug;
     localLoad();
-    var client = window.SkillApp && window.SkillApp.getClient ? window.SkillApp.getClient() : null;
+    var client = getClient();
     if (!client || !user) return completedDays;
-    var res = await client.from("progress").select("day, completed_at, quiz_score").eq("user_id", user.id);
+    var support = await probeSkillSlugSupport();
+    if (!support.progress) {
+      if (currentSkill === DEFAULT_SKILL) {
+        /* Pre-migration: every row in these tables is a full-stack row
+         * (the old site only taught one skill), so read them the legacy
+         * way with no skill filter. Other skills stay local-only. */
+        var legacy = await client.from("progress").select("day, completed_at, quiz_score")
+          .eq("user_id", user.id);
+        if (!legacy.error && legacy.data) {
+          completedDays = {};
+          legacy.data.forEach(function (row) {
+            completedDays[row.day] = { completed_at: row.completed_at, quiz_score: row.quiz_score };
+          });
+          localSave();
+        }
+        var legacyCap = await client.from("capstone_checks").select("check_id")
+          .eq("user_id", user.id);
+        if (!legacyCap.error && legacyCap.data) {
+          capstoneDone = {};
+          legacyCap.data.forEach(function (row) { capstoneDone[row.check_id] = true; });
+          localSave();
+        }
+        return completedDays;
+      }
+      /* No skill_slug column yet: Supabase rows cannot be split by
+       * skill, so this skill's progress stays local-only. */
+      showLocalOnlyNote();
+      return completedDays;
+    }
+    var res = await client.from("progress").select("day, completed_at, quiz_score")
+      .eq("user_id", user.id).eq("skill_slug", currentSkill);
     if (!res.error && res.data) {
       completedDays = {};
       res.data.forEach(function (row) {
         completedDays[row.day] = { completed_at: row.completed_at, quiz_score: row.quiz_score };
       });
+      localSave();
     }
-    var cap = await client.from("capstone_checks").select("check_id").eq("user_id", user.id);
+    if (!support.capstone_checks) return completedDays;
+    var cap = await client.from("capstone_checks").select("check_id")
+      .eq("user_id", user.id).eq("skill_slug", currentSkill);
     if (!cap.error && cap.data) {
       capstoneDone = {};
       cap.data.forEach(function (row) { capstoneDone[row.check_id] = true; });
+      localSave();
     }
     return completedDays;
   }
@@ -147,12 +351,23 @@
     var record = { completed_at: new Date().toISOString(), quiz_score: quizScore };
     completedDays[dayNum] = record;
     localSave();
-    var client = window.SkillApp && window.SkillApp.getClient ? window.SkillApp.getClient() : null;
+    recordEnrollment(currentSkill);
+    var client = getClient();
     if (client && currentUser) {
-      await client.from("progress").upsert(
-        { user_id: currentUser.id, day: dayNum, completed_at: record.completed_at, quiz_score: quizScore },
-        { onConflict: "user_id,day" }
-      );
+      var support = await probeSkillSlugSupport();
+      if (support.progress) {
+        await client.from("progress").upsert(
+          { user_id: currentUser.id, skill_slug: currentSkill, day: dayNum, completed_at: record.completed_at, quiz_score: quizScore },
+          { onConflict: "user_id,skill_slug,day" }
+        );
+      } else if (currentSkill === DEFAULT_SKILL) {
+        /* Pre-migration: the live table has no skill_slug column, and
+         * every row in it is a full-stack row. */
+        await client.from("progress").upsert(
+          { user_id: currentUser.id, day: dayNum, completed_at: record.completed_at, quiz_score: quizScore },
+          { onConflict: "user_id,day" }
+        );
+      }
     }
     return record;
   }
@@ -160,15 +375,32 @@
   async function saveCapstoneCheck(checkId, checked) {
     if (checked) capstoneDone[checkId] = true; else delete capstoneDone[checkId];
     localSave();
-    var client = window.SkillApp && window.SkillApp.getClient ? window.SkillApp.getClient() : null;
+    recordEnrollment(currentSkill);
+    var client = getClient();
     if (!client || !currentUser) return;
+    var support = await probeSkillSlugSupport();
+    if (!support.capstone_checks) {
+      if (currentSkill !== DEFAULT_SKILL) return;
+      /* Pre-migration legacy behaviour for full-stack. */
+      if (checked) {
+        await client.from("capstone_checks").upsert(
+          { user_id: currentUser.id, check_id: checkId, checked_at: new Date().toISOString() },
+          { onConflict: "user_id,check_id" }
+        );
+      } else {
+        await client.from("capstone_checks").delete()
+          .eq("user_id", currentUser.id).eq("check_id", checkId);
+      }
+      return;
+    }
     if (checked) {
       await client.from("capstone_checks").upsert(
-        { user_id: currentUser.id, check_id: checkId, checked_at: new Date().toISOString() },
-        { onConflict: "user_id,check_id" }
+        { user_id: currentUser.id, skill_slug: currentSkill, check_id: checkId, checked_at: new Date().toISOString() },
+        { onConflict: "user_id,skill_slug,check_id" }
       );
     } else {
-      await client.from("capstone_checks").delete().eq("user_id", currentUser.id).eq("check_id", checkId);
+      await client.from("capstone_checks").delete()
+        .eq("user_id", currentUser.id).eq("skill_slug", currentSkill).eq("check_id", checkId);
     }
   }
 
@@ -179,10 +411,10 @@
   /* Streak: consecutive calendar days with a completed day, counting
    * back from today. If nothing was completed today, count back from
    * yesterday so a streak is not lost on the current day alone. */
-  function calculateStreak() {
+  function calculateStreakFrom(map) {
     var dates = {};
-    Object.keys(completedDays).forEach(function (k) {
-      var d = completedDays[k].completed_at;
+    Object.keys(map).forEach(function (k) {
+      var d = map[k].completed_at;
       if (d) dates[String(d).slice(0, 10)] = true;
     });
     var keys = Object.keys(dates);
@@ -198,9 +430,53 @@
     return streak;
   }
 
+  function calculateStreak() { return calculateStreakFrom(completedDays); }
+
   function nextIncompleteDay() {
     for (var n = 1; n <= TOTAL_DAYS; n++) if (!isDayComplete(n)) return n;
     return TOTAL_DAYS;
+  }
+
+  /* Progress summary for one skill (used by the enrolled-skills cards).
+   * Prefers Supabase rows when the skill_slug column exists, otherwise
+   * reads that skill's localStorage progress. */
+  async function getSkillProgressSummary(user, slug) {
+    var map = readLocalProgress(slug);
+    var client = getClient();
+    if (client && user) {
+      var support = await probeSkillSlugSupport();
+      if (support.progress) {
+        var res = await client.from("progress").select("day, completed_at")
+          .eq("user_id", user.id).eq("skill_slug", slug);
+        if (!res.error && res.data) {
+          map = {};
+          res.data.forEach(function (row) {
+            map[row.day] = { completed_at: row.completed_at };
+          });
+        }
+      } else if (slug === DEFAULT_SKILL) {
+        /* Pre-migration: every row is a full-stack row. */
+        var legacy = await client.from("progress").select("day, completed_at")
+          .eq("user_id", user.id);
+        if (!legacy.error && legacy.data) {
+          map = {};
+          legacy.data.forEach(function (row) {
+            map[row.day] = { completed_at: row.completed_at };
+          });
+        }
+      }
+    }
+    var completed = Object.keys(map).length;
+    var next = TOTAL_DAYS;
+    for (var n = 1; n <= TOTAL_DAYS; n++) if (!map[n]) { next = n; break; }
+    return {
+      slug: slug,
+      completed: completed,
+      total: TOTAL_DAYS,
+      percent: Math.round((completed / TOTAL_DAYS) * 100),
+      streak: calculateStreakFrom(map),
+      nextDay: next
+    };
   }
 
   /* All capstone checks across days 22 to 30, de-duplicated by id. */
@@ -219,14 +495,17 @@
   }
 
   /* Default capstone checklist used when the curriculum does not
-   * list its own checks for days 22 to 30. */
+   * list its own checks. Generic on purpose: it applies to any skill.
+   * There are 7 checks, matching the capstone in every curriculum. */
   function defaultCapstoneChecks() {
     return [
-      { id: "capstone-plan", label: "Capstone plan written: what the app does and who it is for" },
-      { id: "capstone-frontend", label: "Frontend built: pages, forms and navigation working" },
-      { id: "capstone-backend", label: "Backend built: database, auth and API working" },
-      { id: "capstone-deploy", label: "App deployed and reachable on a public link" },
-      { id: "capstone-demo", label: "Demo recorded or written: a walkthrough of the finished app" }
+      { id: "capstone-plan", label: "Capstone plan written: what you will make and who it is for" },
+      { id: "capstone-practice", label: "Core skill practised: the main techniques from weeks 1 to 3 used in real work" },
+      { id: "capstone-build", label: "Capstone built: the finished piece, project or performance is complete" },
+      { id: "capstone-quality", label: "Quality checked: the finished work meets the standard in the capstone brief" },
+      { id: "capstone-share", label: "Work shared: the finished work is published, presented or shown to a real audience" },
+      { id: "capstone-feedback", label: "Feedback collected: at least two people reviewed the work and you acted on what they said" },
+      { id: "capstone-demo", label: "Demo recorded or written: a walkthrough of the finished work, under 5 minutes" }
     ];
   }
 
@@ -249,7 +528,7 @@
   function renderOutline(container) {
     if (!container) return;
     if (!days.length) {
-      container.innerHTML = '<p class="muted">The course outline could not be loaded. Check that curriculum.json is in the site folder.</p>';
+      container.innerHTML = '<p class="muted">The course outline could not be loaded. Check that curriculum/' + esc(currentSkill) + '.json is in the site folder.</p>';
       return;
     }
     var html = "";
@@ -288,7 +567,7 @@
     if (day) {
       if (nextTitle) nextTitle.textContent = "Day " + day.day + ": " + day.title;
       if (nextGoal) nextGoal.textContent = day.goal || "";
-      if (nextLink) nextLink.href = "learn.html?day=" + day.day;
+      if (nextLink) nextLink.href = "learn.html?skill=" + encodeURIComponent(currentSkill) + "&day=" + day.day;
     }
     if (count === TOTAL_DAYS) {
       var doneBox = el("all-days-done");
@@ -299,11 +578,11 @@
       var checks = capstoneChecks();
       var doneChecks = capstoneCompleteCount();
       if (count === TOTAL_DAYS && doneChecks === checks.length) {
-        certBox.innerHTML = '<p><strong>Your certificate is ready.</strong> All 30 days are complete and every capstone check is ticked.</p><p><a class="btn" href="certificate.html">View your certificate</a></p>';
+        certBox.innerHTML = '<p><strong>Your certificate is ready.</strong> All 30 days are complete and every capstone check is ticked.</p><p><a class="btn" href="certificate.html?skill=' + encodeURIComponent(currentSkill) + '">View your certificate</a></p>';
       } else {
         certBox.innerHTML = "<p>Certificate progress: " + count + " of " + TOTAL_DAYS + " days complete, "
           + doneChecks + " of " + checks.length + " capstone checks ticked.</p>"
-          + '<p><a class="btn secondary" href="certificate.html">Check certificate status</a></p>';
+          + '<p><a class="btn secondary" href="certificate.html?skill=' + encodeURIComponent(currentSkill) + '">Check certificate status</a></p>';
       }
     }
     renderDashboardDayList();
@@ -320,6 +599,38 @@
         + '<span class="day-status ' + (done ? "done" : "") + '">' + (done ? "Done" : "Not done") + "</span></li>";
     });
     list.innerHTML = html;
+  }
+
+  /* One card per enrolled skill, with its own progress, streak and
+   * continue link. Skills are shown in enrollment order. */
+  async function renderEnrolledSkills(container, user) {
+    if (!container) return;
+    var slugs = await loadEnrolledSkills(user);
+    try { await loadSkills(); } catch (e) { /* names fall back to the slug */ }
+    if (!slugs.length) {
+      container.innerHTML = '<p class="muted">You have not started a skill yet. Pick one from the catalog and your progress will show up here.</p>';
+      return;
+    }
+    var html = "";
+    for (var i = 0; i < slugs.length; i++) {
+      var slug = slugs[i];
+      var meta = skillMetaFromCache(slug);
+      var name = meta ? meta.name : slug.replace(/-/g, " ").replace(/\b\w/g, function (c) { return c.toUpperCase(); });
+      var category = meta ? meta.category : "";
+      var summary = await getSkillProgressSummary(user, slug);
+      var action = summary.completed >= TOTAL_DAYS
+        ? '<a class="btn secondary" href="certificate.html?skill=' + encodeURIComponent(slug) + '">View certificate</a>'
+        : '<a class="btn" href="learn.html?skill=' + encodeURIComponent(slug) + "&day=" + summary.nextDay + '">Continue: Day ' + summary.nextDay + "</a>";
+      html += '<div class="enrolled-card">'
+        + (category ? '<p class="skill-category">' + esc(category) + "</p>" : "")
+        + "<h3>" + esc(name) + "</h3>"
+        + '<p class="small">' + summary.completed + " of " + TOTAL_DAYS + " days complete &middot; "
+        + summary.streak + (summary.streak === 1 ? " day" : " days") + " streak</p>"
+        + '<div class="progress-track"><div class="progress-fill" style="width:' + summary.percent + '%"></div></div>'
+        + action
+        + "</div>";
+    }
+    container.innerHTML = html;
   }
 
   /* ---------- Learn page ---------- */
@@ -552,6 +863,7 @@
     if (next) { next.disabled = day.day >= TOTAL_DAYS; next.onclick = function () { showDay(day.day + 1); }; }
     var url = new URL(window.location.href);
     url.searchParams.set("day", String(day.day));
+    url.searchParams.set("skill", currentSkill);
     window.history.replaceState(null, "", url.toString());
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
@@ -566,8 +878,14 @@
   window.SkillCourse = {
     TOTAL_DAYS: TOTAL_DAYS,
     PASS_MARK: PASS_MARK,
+    DEFAULT_SKILL: DEFAULT_SKILL,
     loadCurriculum: loadCurriculum,
     loadProgress: loadProgress,
+    loadSkills: loadSkills,
+    getSkillMeta: getSkillMeta,
+    skillSlug: skillSlug,
+    skillSlugFromUrl: skillSlugFromUrl,
+    skillName: skillName,
     getDays: function () { return days; },
     getDay: getDay,
     courseTitle: courseTitle,
@@ -582,6 +900,12 @@
     saveCapstoneCheck: saveCapstoneCheck,
     renderOutline: renderOutline,
     renderDashboard: renderDashboard,
+    renderEnrolledSkills: renderEnrolledSkills,
+    getEnrolledSlugs: getEnrolledSlugs,
+    loadEnrolledSkills: loadEnrolledSkills,
+    getSkillProgressSummary: getSkillProgressSummary,
+    probeSkillSlugSupport: probeSkillSlugSupport,
+    skillSlugSupported: skillSlugSupported,
     renderDayNav: renderDayNav,
     showDay: showDay,
     dayFromUrl: dayFromUrl

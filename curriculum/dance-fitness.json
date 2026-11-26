@@ -1,0 +1,1720 @@
+{
+  "course": {
+    "id": "dance-fitness",
+    "title": "Dance Fitness",
+    "level": "Beginner",
+    "tagline": "Get fit dancing Afrobeats and more, with routines that burn and entertain.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Your first dance workout",
+      "goal": "Do your first dance workout and have fun moving.",
+      "video": {
+        "youtube_id": "s07H0TRJ7ro",
+        "title": "30 Minute Dance Workout at Home | Afro Dance Cardio, Standing, No Jumping",
+        "channel": "Afro Vibe Fitness"
+      },
+      "steps": [
+        "Clear a small space and put on shoes that grip well.",
+        "Watch the video and follow the easy moves.",
+        "Move at your own pace and rest when you need to.",
+        "Drink water and write down how you felt."
+      ],
+      "task": "Finish the dance workout and write how you felt.",
+      "challenge": "Do the workout again tomorrow.",
+      "quiz": [
+        {
+          "q": "What do you need for a dance workout?",
+          "options": [
+            "A stage",
+            "A small clear space and good shoes",
+            "A costume",
+            "A partner"
+          ],
+          "answer": 1,
+          "explain": "Space and shoes are enough to start."
+        },
+        {
+          "q": "What should you do if you miss a step?",
+          "options": [
+            "Stop and quit",
+            "Get angry",
+            "Keep moving and join in again",
+            "Sit down"
+          ],
+          "answer": 2,
+          "explain": "Missing a step is normal; keep going."
+        },
+        {
+          "q": "Why drink water during dance?",
+          "options": [
+            "It is only for show",
+            "It makes you slow",
+            "You never need it",
+            "You lose water in sweat"
+          ],
+          "answer": 3,
+          "explain": "Water keeps you cool and strong."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Warm up with a groove",
+      "goal": "Learn a warm-up that gets you moving to music.",
+      "video": {
+        "youtube_id": "quRpzMuUPlc",
+        "title": "10-Min Beginner Belly Dance Cardio Workout",
+        "channel": "BeFit"
+      },
+      "steps": [
+        "March in place to the music for 1 minute.",
+        "Roll your shoulders and sway your hips.",
+        "Step side to side and clap on the beat.",
+        "Reach your arms up and breathe in."
+      ],
+      "task": "Do the warm-up before every dance workout.",
+      "challenge": "Teach the warm-up to a friend.",
+      "quiz": [
+        {
+          "q": "Why warm up before dancing?",
+          "options": [
+            "It wastes time",
+            "It is only for show",
+            "It wakes up muscles and lowers injury risk",
+            "It makes you tired"
+          ],
+          "answer": 2,
+          "explain": "A warm-up gets the body ready to move."
+        },
+        {
+          "q": "How long should a warm-up take?",
+          "options": [
+            "30 seconds",
+            "30 minutes",
+            "No time",
+            "About 5 minutes"
+          ],
+          "answer": 3,
+          "explain": "Five minutes is enough."
+        },
+        {
+          "q": "What is a good warm-up move?",
+          "options": [
+            "Marching in place to music",
+            "A heavy lift",
+            "A sprint",
+            "A handstand"
+          ],
+          "answer": 0,
+          "explain": "Marching to music wakes the body up."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Learn the Afrobeats bounce",
+      "goal": "Learn the basic bounce that drives Afrobeats dance.",
+      "video": {
+        "youtube_id": "ItQoUYfKBQ8",
+        "title": "10 MINUTE CARDIO DANCE WORKOUT",
+        "channel": "Everybody Dance Now"
+      },
+      "steps": [
+        "Stand with knees soft and bounce gently to the beat.",
+        "Let your shoulders and arms move with the bounce.",
+        "Step side to side while keeping the bounce.",
+        "Add a small hip sway."
+      ],
+      "task": "Bounce to one song for 2 minutes.",
+      "challenge": "Add side steps to your bounce.",
+      "quiz": [
+        {
+          "q": "What is the Afrobeats bounce?",
+          "options": [
+            "A jump",
+            "A run",
+            "A spin",
+            "A gentle knee bounce to the beat"
+          ],
+          "answer": 3,
+          "explain": "The bounce is the base of Afrobeats dance."
+        },
+        {
+          "q": "What should your knees do?",
+          "options": [
+            "Stay soft and bent",
+            "Lock straight",
+            "Stay stiff",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Soft knees keep the bounce smooth."
+        },
+        {
+          "q": "Why keep the bounce small?",
+          "options": [
+            "Big is always better",
+            "Small moves are easier to control",
+            "Small is boring",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Small, controlled moves keep you steady."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Step touch and grapevine",
+      "goal": "Learn two classic dance steps.",
+      "video": {
+        "youtube_id": "VILHDDuUocI",
+        "title": "5-6000 Steps Walk To The Beat | 60 Min Dance-Fit GOLD",
+        "channel": "Active Wellness by Gail"
+      },
+      "steps": [
+        "Step touch: step to the side, touch the other foot next to it.",
+        "Grapevine: step side, cross behind, step side, touch.",
+        "Do each step slowly first, then to music.",
+        "Add arm swings as you step."
+      ],
+      "task": "Do 10 step touches and 10 grapevines.",
+      "challenge": "Do both steps to music for 2 minutes.",
+      "quiz": [
+        {
+          "q": "What is a step touch?",
+          "options": [
+            "Step to the side, touch the other foot next to it",
+            "A jump",
+            "A spin",
+            "A run"
+          ],
+          "answer": 0,
+          "explain": "A step touch is a simple side step."
+        },
+        {
+          "q": "What is a grapevine?",
+          "options": [
+            "A jump",
+            "Step side, cross behind, step side, touch",
+            "A run",
+            "A spin"
+          ],
+          "answer": 1,
+          "explain": "A grapevine weaves the feet side to side."
+        },
+        {
+          "q": "Why learn steps slowly first?",
+          "options": [
+            "Slow is boring",
+            "Slow is wrong",
+            "Slow practice builds control",
+            "It wastes time"
+          ],
+          "answer": 2,
+          "explain": "Slow first, fast later is the safe way."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Move your hips and shoulders",
+      "goal": "Learn simple hip and shoulder moves.",
+      "video": {
+        "youtube_id": "jAVv-Xizxvk",
+        "title": "20 Min Afrobeats Dance Workout for Beginners",
+        "channel": "Afroletics"
+      },
+      "steps": [
+        "Sway your hips side to side to the beat.",
+        "Roll your shoulders back in a circle.",
+        "Combine hips and shoulders together.",
+        "Keep your knees soft the whole time."
+      ],
+      "task": "Do hip sways for 1 minute to music.",
+      "challenge": "Combine hips and shoulders for 1 minute.",
+      "quiz": [
+        {
+          "q": "Why keep knees soft while dancing?",
+          "options": [
+            "It is a rule with no reason",
+            "Soft knees protect joints and keep moves smooth",
+            "Stiff knees are better",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Soft knees absorb the bounce."
+        },
+        {
+          "q": "What is a shoulder roll?",
+          "options": [
+            "A jump",
+            "A spin",
+            "Rolling the shoulders back in a circle",
+            "A run"
+          ],
+          "answer": 2,
+          "explain": "A shoulder roll loosens the upper body."
+        },
+        {
+          "q": "How should hip moves feel?",
+          "options": [
+            "Stiff and forced",
+            "Painful",
+            "Very hard",
+            "Smooth and relaxed"
+          ],
+          "answer": 3,
+          "explain": "Smooth, relaxed moves are safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Cardio dance: keep moving",
+      "goal": "Do a 10-minute dance workout that raises your heart rate.",
+      "video": {
+        "youtube_id": "nLwd4MY5vpM",
+        "title": "20 Min Afro Dance Workout",
+        "channel": "Afroletics"
+      },
+      "steps": [
+        "Warm up for 5 minutes.",
+        "Dance for 10 minutes using the steps you know.",
+        "Rest for 1 minute, then dance 5 more minutes.",
+        "Cool down with slow walking."
+      ],
+      "task": "Dance for 10 minutes without stopping.",
+      "challenge": "Dance for 15 minutes tomorrow.",
+      "quiz": [
+        {
+          "q": "What is cardio dance?",
+          "options": [
+            "Sitting still",
+            "Lifting weights",
+            "Dancing that raises your heart rate",
+            "Sleeping"
+          ],
+          "answer": 2,
+          "explain": "Cardio dance trains the heart through dance."
+        },
+        {
+          "q": "How should cardio dance feel?",
+          "options": [
+            "Out of breath",
+            "Painful",
+            "Like sleeping",
+            "Warm and breathing faster, but able to talk"
+          ],
+          "answer": 3,
+          "explain": "Warm but talkable is the right effort."
+        },
+        {
+          "q": "What should you do at the end?",
+          "options": [
+            "Cool down with slow walking",
+            "Stop suddenly",
+            "Sprint",
+            "Sit down at once"
+          ],
+          "answer": 0,
+          "explain": "A cool-down slows the body gently."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your first dance routine",
+      "goal": "Put week 1 together: build a short dance routine.",
+      "video": {
+        "youtube_id": "DioHEXhHwcU",
+        "title": "Afro Dance Party Workout at Home",
+        "channel": "Afroletics"
+      },
+      "steps": [
+        "Pick 4 moves you know: bounce, step touch, grapevine, hip sway.",
+        "Put them in order: 8 counts each.",
+        "Practise slowly, then to music.",
+        "Do the routine 3 times."
+      ],
+      "task": "Write your routine and do it 3 times.",
+      "challenge": "Do your routine to a full song.",
+      "quiz": [
+        {
+          "q": "What is a dance routine?",
+          "options": [
+            "One move only",
+            "A run",
+            "A jump",
+            "Moves put in order to music"
+          ],
+          "answer": 3,
+          "explain": "A routine links moves together."
+        },
+        {
+          "q": "How many moves should your first routine have?",
+          "options": [
+            "About 4 moves",
+            "50 moves",
+            "1 move",
+            "100 moves"
+          ],
+          "answer": 0,
+          "explain": "Four moves is enough to learn."
+        },
+        {
+          "q": "Why practise slowly first?",
+          "options": [
+            "Slow is boring",
+            "Slow practice builds control",
+            "Slow is wrong",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "Slow first, fast later is safe."
+        }
+      ],
+      "project": {
+        "title": "Your first dance routine",
+        "brief": "Build a short dance routine with 4 moves: bounce, step touch, grapevine and hip sway, 8 counts each, and do it 3 times.",
+        "checks": [
+          "Routine has 4 moves",
+          "Each move is 8 counts",
+          "Practised slowly first",
+          "Danced to music",
+          "Did the routine 3 times",
+          "Wrote the routine down"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Belly dance basics",
+      "goal": "Learn gentle belly dance moves for fitness.",
+      "video": {
+        "youtube_id": "B32EAxSkZtw",
+        "title": "10 MIN AFROBEATS DANCE WORKOUT",
+        "channel": "Kaji Prem"
+      },
+      "steps": [
+        "Try a hip lift: lift one hip up, then the other.",
+        "Try a chest lift: lift your chest up and down.",
+        "Try a small shimmy: shake your hips fast and small.",
+        "Keep your knees soft and breathe normally."
+      ],
+      "task": "Do hip lifts for 1 minute.",
+      "challenge": "Try a small shimmy for 30 seconds.",
+      "quiz": [
+        {
+          "q": "What is a hip lift?",
+          "options": [
+            "Lifting one hip up, then the other",
+            "A jump",
+            "A run",
+            "A spin"
+          ],
+          "answer": 0,
+          "explain": "A hip lift is a basic belly dance move."
+        },
+        {
+          "q": "What is a shimmy?",
+          "options": [
+            "A jump",
+            "A fast, small shake of the hips or shoulders",
+            "A run",
+            "A spin"
+          ],
+          "answer": 1,
+          "explain": "A shimmy is a quick shake."
+        },
+        {
+          "q": "Why keep knees soft?",
+          "options": [
+            "It is a rule with no reason",
+            "Stiff knees are better",
+            "Soft knees protect joints",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Soft knees keep moves safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Zumba basics: easy steps",
+      "goal": "Learn the simple steps used in Zumba.",
+      "video": {
+        "youtube_id": "AmjcGsu3y_0",
+        "title": "Dance-Fit GOLD: Low Impact Dance Fitness",
+        "channel": "Active Wellness by Gail"
+      },
+      "steps": [
+        "Try the salsa step: forward, back, side, side.",
+        "Try the merengue march: march in place with hip sways.",
+        "Try the cumbia step: step back and sway.",
+        "Do each step for 1 minute to music."
+      ],
+      "task": "Do the salsa step for 1 minute.",
+      "challenge": "Do all 3 steps to one song.",
+      "quiz": [
+        {
+          "q": "What is Zumba?",
+          "options": [
+            "A race",
+            "A dance workout using Latin steps",
+            "Lifting",
+            "Swimming"
+          ],
+          "answer": 1,
+          "explain": "Zumba is dance fitness with Latin music."
+        },
+        {
+          "q": "What is the salsa step?",
+          "options": [
+            "A jump",
+            "A run",
+            "Forward, back, side, side",
+            "A spin"
+          ],
+          "answer": 2,
+          "explain": "The salsa step is a basic Zumba move."
+        },
+        {
+          "q": "What should you do if you miss a step?",
+          "options": [
+            "Stop and quit",
+            "Get angry",
+            "Sit down",
+            "Keep moving and join in again"
+          ],
+          "answer": 3,
+          "explain": "Missing a step is normal; keep going."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Dance walk: steps for weight loss",
+      "goal": "Learn a dance walk that burns energy gently.",
+      "video": {
+        "youtube_id": "azy2JqQ3fTg",
+        "title": "Learn to dance ZUMBA",
+        "channel": "Betty"
+      },
+      "steps": [
+        "Walk in place to music with arm swings.",
+        "Add side steps and knee lifts.",
+        "Add a small turn every 8 counts.",
+        "Walk for 10 minutes."
+      ],
+      "task": "Dance walk for 10 minutes today.",
+      "challenge": "Dance walk for 15 minutes tomorrow.",
+      "quiz": [
+        {
+          "q": "What is a dance walk?",
+          "options": [
+            "Running",
+            "Sitting",
+            "Walking to music with dance moves added",
+            "Sleeping"
+          ],
+          "answer": 2,
+          "explain": "A dance walk mixes walking and dance."
+        },
+        {
+          "q": "Why is dance walking good for weight loss?",
+          "options": [
+            "It does nothing",
+            "It makes you gain weight",
+            "It is only for fun",
+            "It burns energy gently for a long time"
+          ],
+          "answer": 3,
+          "explain": "Gentle, long movement burns energy."
+        },
+        {
+          "q": "What should you add to a dance walk?",
+          "options": [
+            "Arm swings and knee lifts",
+            "Jumping",
+            "Heavy weights",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Arms and knees make the walk a full workout."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Learn a new Afrobeats move",
+      "goal": "Add one new Afrobeats move to your routine.",
+      "video": {
+        "youtube_id": "y51-mN7E7r4",
+        "title": "30 Min Zumba Cardio Workout",
+        "channel": "Burpee Girl"
+      },
+      "steps": [
+        "Watch the video and pick one move you like.",
+        "Break it down: feet first, then arms, then together.",
+        "Practise slowly 10 times.",
+        "Add it to your routine."
+      ],
+      "task": "Learn one new move today.",
+      "challenge": "Add the new move to your routine.",
+      "quiz": [
+        {
+          "q": "How should you learn a new move?",
+          "options": [
+            "All at once fast",
+            "Only the arms",
+            "Never try",
+            "Feet first, then arms, then together"
+          ],
+          "answer": 3,
+          "explain": "Breaking it down makes learning easy."
+        },
+        {
+          "q": "How many times should you practise?",
+          "options": [
+            "About 10 times slowly",
+            "Once",
+            "100 times fast",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "Slow repeats build the move."
+        },
+        {
+          "q": "What should you do if a move is hard?",
+          "options": [
+            "Quit dancing",
+            "Slow down and break it smaller",
+            "Do it fast",
+            "Ignore it"
+          ],
+          "answer": 1,
+          "explain": "Smaller pieces make hard moves doable."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Dance for your legs",
+      "goal": "Use dance moves that build leg strength.",
+      "video": {
+        "youtube_id": "B1qypTeg_B4",
+        "title": "Simple Step Beginner Zumba",
+        "channel": "Safal Fitpro"
+      },
+      "steps": [
+        "Do squats to the beat: 8 squats, rest, repeat.",
+        "Do side lunges to the beat.",
+        "Do calf raises: rise on your toes to the beat.",
+        "Keep your knees with your toes."
+      ],
+      "task": "Do 2 rounds of 8 squats to music.",
+      "challenge": "Do calf raises for 1 minute to music.",
+      "quiz": [
+        {
+          "q": "What do dance squats build?",
+          "options": [
+            "Leg strength",
+            "Only arms",
+            "Only neck",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Squats to music build legs."
+        },
+        {
+          "q": "What is a calf raise?",
+          "options": [
+            "A jump",
+            "Rising on your toes",
+            "A run",
+            "A spin"
+          ],
+          "answer": 1,
+          "explain": "A calf raise trains the lower legs."
+        },
+        {
+          "q": "What should your knees do in a squat?",
+          "options": [
+            "Fall inward",
+            "Lock straight",
+            "Point the same way as your toes",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Knees following toes keeps the squat safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Dance for your core",
+      "goal": "Use dance moves that work your middle.",
+      "video": {
+        "youtube_id": "yxbxAK1ZS5w",
+        "title": "15 Min Zumba Cardio Workout",
+        "channel": "Burpee Girl"
+      },
+      "steps": [
+        "Do standing twists: twist your waist side to side.",
+        "Do knee lifts: lift each knee to your chest.",
+        "Do hip circles: circle your hips slowly.",
+        "Keep your belly tight as you move."
+      ],
+      "task": "Do standing twists for 1 minute.",
+      "challenge": "Do knee lifts for 1 minute to music.",
+      "quiz": [
+        {
+          "q": "What is your core?",
+          "options": [
+            "Only your arms",
+            "The muscles around your belly and lower back",
+            "Only your legs",
+            "A dance move"
+          ],
+          "answer": 1,
+          "explain": "Core muscles hold your body steady."
+        },
+        {
+          "q": "What does a standing twist work?",
+          "options": [
+            "Only your toes",
+            "Only your neck",
+            "Your waist and core",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Twists work the waist."
+        },
+        {
+          "q": "Why keep your belly tight?",
+          "options": [
+            "It is a rule with no reason",
+            "It makes you stiff",
+            "It does not matter",
+            "It protects your back"
+          ],
+          "answer": 3,
+          "explain": "A tight belly steadies the body."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your 20-minute dance workout",
+      "goal": "Put week 2 together: build a 20-minute dance workout.",
+      "video": {
+        "youtube_id": "CuNnQY0NfEY",
+        "title": "Simple Step Beginner Zumba 17 Min",
+        "channel": "FIT IN BEAT"
+      },
+      "steps": [
+        "Warm up for 5 minutes.",
+        "Dance for 10 minutes using your routine.",
+        "Add a dance walk for 5 minutes.",
+        "Cool down with slow walking and stretching."
+      ],
+      "task": "Write your 20-minute workout and do it.",
+      "challenge": "Do your workout twice this week.",
+      "quiz": [
+        {
+          "q": "What should a 20-minute workout have?",
+          "options": [
+            "Only hard moves",
+            "Only stretching",
+            "Warm-up, dance, dance walk and cool-down",
+            "Only running"
+          ],
+          "answer": 2,
+          "explain": "A full workout warms up, works and cools down."
+        },
+        {
+          "q": "How long should the dance part be?",
+          "options": [
+            "1 minute",
+            "1 hour",
+            "No time",
+            "About 10 minutes"
+          ],
+          "answer": 3,
+          "explain": "Ten minutes of dancing is a good workout."
+        },
+        {
+          "q": "What should you do at the end?",
+          "options": [
+            "Cool down with slow walking",
+            "Stop suddenly",
+            "Sprint",
+            "Sit down at once"
+          ],
+          "answer": 0,
+          "explain": "A cool-down slows the body gently."
+        }
+      ],
+      "project": {
+        "title": "Your 20-minute dance workout",
+        "brief": "Build a 20-minute dance workout: warm-up, 10 minutes of dancing, a 5-minute dance walk, and a cool-down.",
+        "checks": [
+          "Workout has a warm-up",
+          "Dance part is 10 minutes",
+          "Dance walk is 5 minutes",
+          "Workout has a cool-down",
+          "Did the workout twice",
+          "Wrote the workout down"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Learn a full Afrobeats routine",
+      "goal": "Learn a full Afrobeats dance routine step by step.",
+      "video": {
+        "youtube_id": "HS1obCk6gbE",
+        "title": "20 MIN DANCE WORKOUT At Home | Zumba Class",
+        "channel": "Kaji Prem"
+      },
+      "steps": [
+        "Watch the video and learn the first 8 counts.",
+        "Add the next 8 counts.",
+        "Put the whole routine together slowly.",
+        "Dance it to music 3 times."
+      ],
+      "task": "Learn the first 8 counts today.",
+      "challenge": "Dance the full routine to music.",
+      "quiz": [
+        {
+          "q": "How should you learn a routine?",
+          "options": [
+            "All at once",
+            "Only the end",
+            "Never try",
+            "8 counts at a time"
+          ],
+          "answer": 3,
+          "explain": "Small chunks make learning easy."
+        },
+        {
+          "q": "What is a count in dance?",
+          "options": [
+            "One beat of the music",
+            "A number only",
+            "A jump",
+            "A rest"
+          ],
+          "answer": 0,
+          "explain": "Counts help you stay on the beat."
+        },
+        {
+          "q": "How many times should you practise?",
+          "options": [
+            "Once",
+            "At least 3 times to music",
+            "100 times fast",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Repeats to music build confidence."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Dance with a friend",
+      "goal": "Dance with a friend and have fun together.",
+      "video": {
+        "youtube_id": "qS15ENlGzbI",
+        "title": "Zumba Inspired Walk For Weight Loss",
+        "channel": "Get Fit With Rick"
+      },
+      "steps": [
+        "Invite a friend to dance with you.",
+        "Teach them your favourite move.",
+        "Dance your routine together.",
+        "Cheer each other on."
+      ],
+      "task": "Dance with a friend this week.",
+      "challenge": "Teach a friend your favourite move.",
+      "quiz": [
+        {
+          "q": "Why dance with a friend?",
+          "options": [
+            "It makes it fun and keeps you going",
+            "It is slower",
+            "It is not useful",
+            "It makes you weaker"
+          ],
+          "answer": 0,
+          "explain": "A friend adds fun and keeps you honest."
+        },
+        {
+          "q": "What should you teach a friend first?",
+          "options": [
+            "The hardest move",
+            "Your favourite easy move",
+            "Nothing",
+            "A long routine"
+          ],
+          "answer": 1,
+          "explain": "An easy move is a good first teach."
+        },
+        {
+          "q": "What should you do after dancing together?",
+          "options": [
+            "Criticise",
+            "Walk away",
+            "Cheer each other on",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Cheering keeps a friend coming back."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Low-impact dance for everyone",
+      "goal": "Learn dance moves that are gentle on the joints.",
+      "video": {
+        "youtube_id": "B5mAqUTwBZ4",
+        "title": "4000 STEPS WALKING ZUMBA WORKOUT",
+        "channel": "Get Fit With Rick"
+      },
+      "steps": [
+        "Keep one foot on the floor at all times.",
+        "Use small steps and soft knees.",
+        "Avoid jumps and fast spins.",
+        "Dance for 10 minutes gently."
+      ],
+      "task": "Dance low-impact for 10 minutes today.",
+      "challenge": "Teach low-impact moves to an older relative.",
+      "quiz": [
+        {
+          "q": "What is low-impact dance?",
+          "options": [
+            "Jumping dance",
+            "Dance with one foot on the floor at all times",
+            "Running",
+            "Sitting still"
+          ],
+          "answer": 1,
+          "explain": "Low-impact dance is gentle on joints."
+        },
+        {
+          "q": "Who is low-impact dance good for?",
+          "options": [
+            "Only athletes",
+            "Nobody",
+            "Everyone, including older people",
+            "Only children"
+          ],
+          "answer": 2,
+          "explain": "Low-impact suits all ages."
+        },
+        {
+          "q": "What should you avoid in low-impact dance?",
+          "options": [
+            "Small steps",
+            "Soft knees",
+            "Music",
+            "Jumps and fast spins"
+          ],
+          "answer": 3,
+          "explain": "Jumps and fast spins strain joints."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Cool down with slow dance",
+      "goal": "Learn a slow cool-down dance.",
+      "video": {
+        "youtube_id": "s07H0TRJ7ro",
+        "title": "30 Minute Dance Workout at Home | Afro Dance Cardio, Standing, No Jumping",
+        "channel": "Afro Vibe Fitness"
+      },
+      "steps": [
+        "Slow the music down.",
+        "Sway gently side to side.",
+        "Stretch your arms up and breathe out.",
+        "Walk slowly for 2 minutes."
+      ],
+      "task": "Do a slow cool-down dance after your workout.",
+      "challenge": "Teach the cool-down to a friend.",
+      "quiz": [
+        {
+          "q": "Why cool down after dancing?",
+          "options": [
+            "It wastes time",
+            "It is only for show",
+            "It slows the heart rate gently",
+            "It makes you tired"
+          ],
+          "answer": 2,
+          "explain": "A cool-down lets the body calm down."
+        },
+        {
+          "q": "What is a good cool-down move?",
+          "options": [
+            "A sprint",
+            "A jump",
+            "Heavy lifting",
+            "A gentle sway"
+          ],
+          "answer": 3,
+          "explain": "Gentle sways calm the body."
+        },
+        {
+          "q": "How long should a cool-down take?",
+          "options": [
+            "About 5 minutes",
+            "30 seconds",
+            "30 minutes",
+            "No time"
+          ],
+          "answer": 0,
+          "explain": "Five minutes is enough."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Dance and balance",
+      "goal": "Use dance to improve your balance.",
+      "video": {
+        "youtube_id": "quRpzMuUPlc",
+        "title": "10-Min Beginner Belly Dance Cardio Workout",
+        "channel": "BeFit"
+      },
+      "steps": [
+        "Stand on one leg for 10 seconds while swaying.",
+        "Do slow turns with your arms out.",
+        "Step forward and back on a line.",
+        "Keep your eyes on one spot."
+      ],
+      "task": "Stand on each leg for 20 seconds.",
+      "challenge": "Do slow turns with arms out.",
+      "quiz": [
+        {
+          "q": "Why does dance help balance?",
+          "options": [
+            "It does not help",
+            "It makes you dizzy",
+            "It is only for fun",
+            "It trains you to shift weight smoothly"
+          ],
+          "answer": 3,
+          "explain": "Dance builds balance through weight shifts."
+        },
+        {
+          "q": "What helps you balance in a turn?",
+          "options": [
+            "Looking at one spot and arms out",
+            "Looking around fast",
+            "Closing your eyes",
+            "Moving fast"
+          ],
+          "answer": 0,
+          "explain": "A still gaze keeps you steady."
+        },
+        {
+          "q": "What should you do if you wobble?",
+          "options": [
+            "Get angry",
+            "Smile and try again",
+            "Quit",
+            "Push harder"
+          ],
+          "answer": 1,
+          "explain": "Wobbling is normal; try again."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Make your own dance mix",
+      "goal": "Build a playlist for your workouts.",
+      "video": {
+        "youtube_id": "ItQoUYfKBQ8",
+        "title": "10 MINUTE CARDIO DANCE WORKOUT",
+        "channel": "Everybody Dance Now"
+      },
+      "steps": [
+        "Pick 5 songs you love with a clear beat.",
+        "Order them: slow warm-up, fast middle, slow cool-down.",
+        "Dance to your mix for 20 minutes.",
+        "Share your mix with a friend."
+      ],
+      "task": "Build your 5-song workout mix.",
+      "challenge": "Dance to your mix this week.",
+      "quiz": [
+        {
+          "q": "Why build your own mix?",
+          "options": [
+            "Music you love makes you want to move",
+            "It wastes time",
+            "It is not needed",
+            "It makes dancing harder"
+          ],
+          "answer": 0,
+          "explain": "Loved music keeps you dancing."
+        },
+        {
+          "q": "How should you order your mix?",
+          "options": [
+            "Fast first",
+            "Slow warm-up, fast middle, slow cool-down",
+            "Random order",
+            "Only slow songs"
+          ],
+          "answer": 1,
+          "explain": "Slow-fast-slow matches the workout."
+        },
+        {
+          "q": "How many songs should your mix have?",
+          "options": [
+            "1 song",
+            "100 songs",
+            "About 5 songs",
+            "None"
+          ],
+          "answer": 2,
+          "explain": "Five songs cover a 20-minute workout."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your dance show",
+      "goal": "Put week 3 together: prepare a short dance show.",
+      "video": {
+        "youtube_id": "VILHDDuUocI",
+        "title": "5-6000 Steps Walk To The Beat | 60 Min Dance-Fit GOLD",
+        "channel": "Active Wellness by Gail"
+      },
+      "steps": [
+        "Pick your best routine and your best song.",
+        "Practise the routine 5 times this week.",
+        "Perform it for a friend or family member.",
+        "Ask them what they liked best."
+      ],
+      "task": "Practise your routine 5 times this week.",
+      "challenge": "Perform your routine for someone.",
+      "quiz": [
+        {
+          "q": "What should your show have?",
+          "options": [
+            "Only hard moves",
+            "Your best routine and your best song",
+            "Only one move",
+            "No music"
+          ],
+          "answer": 1,
+          "explain": "Your best routine and song make a good show."
+        },
+        {
+          "q": "How many times should you practise?",
+          "options": [
+            "Once",
+            "100 times",
+            "At least 5 times",
+            "Never"
+          ],
+          "answer": 2,
+          "explain": "Practice builds confidence."
+        },
+        {
+          "q": "What should you ask your audience?",
+          "options": [
+            "Nothing",
+            "Only what was wrong",
+            "To leave",
+            "What they liked best"
+          ],
+          "answer": 3,
+          "explain": "Asking what they liked builds confidence."
+        }
+      ],
+      "project": {
+        "title": "Your dance show",
+        "brief": "Prepare a short dance show with your best routine and song, practise 5 times, and perform it for a friend or family member.",
+        "checks": [
+          "Picked your best routine",
+          "Picked your best song",
+          "Practised 5 times",
+          "Performed for someone",
+          "Asked what they liked",
+          "Wrote how it went"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Test your fitness",
+      "goal": "Test how much fitter you have become.",
+      "video": {
+        "youtube_id": "jAVv-Xizxvk",
+        "title": "20 Min Afrobeats Dance Workout for Beginners",
+        "channel": "Afroletics"
+      },
+      "steps": [
+        "Count how long you can dance without stopping.",
+        "Count how many squats you can do to music.",
+        "Check your heart rate after dancing.",
+        "Write all three numbers down."
+      ],
+      "task": "Record your 3 test numbers today.",
+      "challenge": "Beat one number next week.",
+      "quiz": [
+        {
+          "q": "Why test your fitness?",
+          "options": [
+            "To show off",
+            "It is not needed",
+            "To see how much fitter you have become",
+            "To make you tired"
+          ],
+          "answer": 2,
+          "explain": "Tests show progress in numbers."
+        },
+        {
+          "q": "What should you do if a number is lower?",
+          "options": [
+            "Quit",
+            "Dance twice as hard",
+            "Never test again",
+            "Keep dancing and test again in 2 weeks"
+          ],
+          "answer": 3,
+          "explain": "Numbers go up and down; steady dancing brings them up."
+        },
+        {
+          "q": "How often should you test?",
+          "options": [
+            "Every 2 to 4 weeks",
+            "Every day",
+            "Once a year",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "A few weeks apart shows real change."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Dance for joy, not just fitness",
+      "goal": "Remember why you dance: joy matters too.",
+      "video": {
+        "youtube_id": "nLwd4MY5vpM",
+        "title": "20 Min Afro Dance Workout",
+        "channel": "Afroletics"
+      },
+      "steps": [
+        "Dance to your favourite song just for fun.",
+        "Try a silly move and laugh.",
+        "Dance with your family.",
+        "Write down why you love dancing."
+      ],
+      "task": "Dance to your favourite song for fun today.",
+      "challenge": "Write why you love dancing.",
+      "quiz": [
+        {
+          "q": "Why dance for joy?",
+          "options": [
+            "Joy is silly",
+            "Joy wastes time",
+            "It does not matter",
+            "Joy keeps you dancing for life"
+          ],
+          "answer": 3,
+          "explain": "Fun keeps the habit alive."
+        },
+        {
+          "q": "What should you do when dancing feels like a chore?",
+          "options": [
+            "Play your favourite song and dance for fun",
+            "Quit",
+            "Force yourself",
+            "Dance harder"
+          ],
+          "answer": 0,
+          "explain": "Fun music brings the joy back."
+        },
+        {
+          "q": "Why write down why you love dancing?",
+          "options": [
+            "To fill paper",
+            "So you remember on hard days",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "Your own words remind you why you started."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Keep dancing every week",
+      "goal": "Make dance a weekly habit.",
+      "video": {
+        "youtube_id": "DioHEXhHwcU",
+        "title": "Afro Dance Party Workout at Home",
+        "channel": "Afroletics"
+      },
+      "steps": [
+        "Dance 3 times a week, even if short.",
+        "Join a local dance class or group.",
+        "Set a new goal: learn a new routine.",
+        "Write your weekly dance plan."
+      ],
+      "task": "Write your weekly dance plan.",
+      "challenge": "Dance 3 times this week.",
+      "quiz": [
+        {
+          "q": "How often should you dance?",
+          "options": [
+            "About 3 times a week",
+            "Every day",
+            "Once a month",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "Three times a week keeps the habit alive."
+        },
+        {
+          "q": "Why join a dance group?",
+          "options": [
+            "It is slower",
+            "Friends keep you going",
+            "It is not useful",
+            "It makes you weaker"
+          ],
+          "answer": 1,
+          "explain": "A group adds fun and keeps you honest."
+        },
+        {
+          "q": "What is a good next goal?",
+          "options": [
+            "Quit",
+            "Dance less",
+            "Learn a new routine",
+            "No goal"
+          ],
+          "answer": 2,
+          "explain": "A new routine keeps you growing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Learn a salsa basic step",
+      "goal": "Learn the basic salsa step.",
+      "video": {
+        "youtube_id": "B32EAxSkZtw",
+        "title": "10 MIN AFROBEATS DANCE WORKOUT",
+        "channel": "Kaji Prem"
+      },
+      "steps": [
+        "Step forward with your left foot, then back to the middle.",
+        "Step back with your right foot, then back to the middle.",
+        "Keep your knees soft.",
+        "Move your hips gently with each step.",
+        "Add arm moves once the feet feel easy.",
+        "Practise with slow music."
+      ],
+      "task": "Do the salsa basic step for 2 minutes.",
+      "challenge": "Do it to a full song.",
+      "quiz": [
+        {
+          "q": "What is the salsa basic step?",
+          "options": [
+            "Jump up and down",
+            "Forward, middle, back, middle",
+            "Spin fast",
+            "Stand still"
+          ],
+          "answer": 1,
+          "explain": "The basic step moves forward and back in rhythm."
+        },
+        {
+          "q": "Why keep your knees soft?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "So you can move smoothly",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Soft knees let you step smoothly."
+        },
+        {
+          "q": "When should you add arm moves?",
+          "options": [
+            "At once",
+            "Never",
+            "Only at the end",
+            "Once your feet feel easy"
+          ],
+          "answer": 3,
+          "explain": "Feet first, arms later keeps learning simple."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Dance fitness with a chair",
+      "goal": "Learn a seated dance workout for days you are tired.",
+      "video": {
+        "youtube_id": "AmjcGsu3y_0",
+        "title": "Dance-Fit GOLD: Low Impact Dance Fitness",
+        "channel": "Active Wellness by Gail"
+      },
+      "steps": [
+        "Sit tall in a sturdy chair.",
+        "March your feet to the music.",
+        "Raise your arms up and down.",
+        "Twist gently side to side.",
+        "Tap your toes to the beat.",
+        "Do it for 10 minutes."
+      ],
+      "task": "Do the chair dance for 10 minutes.",
+      "challenge": "Do it every day this week.",
+      "quiz": [
+        {
+          "q": "Why use a chair?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "So you can dance even when you are tired",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "A chair lets anyone dance, even on a tired day."
+        },
+        {
+          "q": "What should the chair be?",
+          "options": [
+            "On wheels",
+            "Very soft",
+            "Broken",
+            "Sturdy and steady"
+          ],
+          "answer": 3,
+          "explain": "A sturdy chair keeps you safe while dancing."
+        },
+        {
+          "q": "How long should the chair dance last?",
+          "options": [
+            "About 10 minutes",
+            "1 minute",
+            "1 hour",
+            "No time"
+          ],
+          "answer": 0,
+          "explain": "Ten minutes is a good gentle workout."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Film your dance routine",
+      "goal": "Learn to film yourself dancing to check your moves.",
+      "video": {
+        "youtube_id": "azy2JqQ3fTg",
+        "title": "Learn to dance ZUMBA",
+        "channel": "Betty"
+      },
+      "steps": [
+        "Set your phone on a table.",
+        "Press record and dance your routine.",
+        "Watch the video and pick one move to fix.",
+        "Practise that move 5 times.",
+        "Film again and compare.",
+        "Share the video with a friend if you like."
+      ],
+      "task": "Film your dance routine today.",
+      "challenge": "Fix one move and film again.",
+      "quiz": [
+        {
+          "q": "Why film yourself dancing?",
+          "options": [
+            "To show off",
+            "It wastes time",
+            "It does not matter",
+            "To see your moves and fix them"
+          ],
+          "answer": 3,
+          "explain": "Video shows what you cannot feel while dancing."
+        },
+        {
+          "q": "What should you look for in the video?",
+          "options": [
+            "One move to improve",
+            "Everything at once",
+            "Nothing",
+            "Only your clothes"
+          ],
+          "answer": 0,
+          "explain": "Fixing one move at a time works best."
+        },
+        {
+          "q": "Where should you put your phone?",
+          "options": [
+            "In your hand",
+            "On a table or stand, steady",
+            "On the floor",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "A steady phone gives a clear video."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final show.",
+      "video": {
+        "youtube_id": "y51-mN7E7r4",
+        "title": "30 Min Zumba Cardio Workout",
+        "channel": "Burpee Girl"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 moves you can now do well.",
+        "Practise your capstone routine once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 moves you can do well now.",
+      "challenge": "Do your capstone routine from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final show that proves what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new costume"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own dance shoes",
+            "You can dance your routine smoothly from memory",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "A smooth routine shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "B1qypTeg_B4",
+        "title": "Simple Step Beginner Zumba",
+        "channel": "Safal Fitpro"
+      },
+      "steps": [
+        "Dance your capstone routine one more time.",
+        "Check your music and your space.",
+        "Fix anything that felt rushed.",
+        "Rest well tonight."
+      ],
+      "task": "Dance your capstone routine and time it.",
+      "challenge": "Fix one thing that felt rushed.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real show calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your shoes",
+            "Your music, your space and your moves",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking music and space makes the show smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Practise all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you perform your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: your dance show",
+      "goal": "Show what you learned: perform your dance routine.",
+      "video": {
+        "youtube_id": "yxbxAK1ZS5w",
+        "title": "15 Min Zumba Cardio Workout",
+        "channel": "Burpee Girl"
+      },
+      "steps": [
+        "Warm up for 5 minutes.",
+        "Perform your routine to music for a friend or family.",
+        "Cool down with slow walking and stretching.",
+        "Write a short report on how it went."
+      ],
+      "task": "Perform your dance show and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What is the first step of your show?",
+          "options": [
+            "A hard move",
+            "A sprint",
+            "A 5-minute warm-up",
+            "No warm-up"
+          ],
+          "answer": 2,
+          "explain": "A warm-up gets the body ready."
+        },
+        {
+          "q": "What matters most in the show?",
+          "options": [
+            "Going as fast as you can",
+            "Doing the hardest moves",
+            "Skipping rest",
+            "Smooth moves, good rhythm and joy"
+          ],
+          "answer": 3,
+          "explain": "Smooth, joyful dancing shows real skill."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you performed and how it felt",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your dance show",
+    "brief": "Perform your dance routine to music for a friend or family member, with a warm-up and cool-down, and write a short report on how it went.",
+    "checks": [
+      "Warmed up for 5 minutes",
+      "Performed the full routine",
+      "Kept good rhythm",
+      "Danced with joy",
+      "Cooled down",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A written dance routine",
+      "A workout music mix",
+      "A list of moves learned",
+      "A short video or notes from the show",
+      "A written report"
+    ]
+  }
+}

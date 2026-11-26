@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "cake-baking-and-decorating",
+    "title": "Cake Baking and Decorating",
+    "level": "Beginner to intermediate",
+    "tagline": "Bake moist cakes and decorate them beautifully for birthdays and weddings.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Cake Baking Basics",
+      "goal": "Know your tools, ingredients, and how a cake rises.",
+      "video": {
+        "youtube_id": "gWWqBMRHEjM",
+        "title": "How to Cover a Cake in Fondant",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Find your tools: cake tins, a whisk, a spatula, and baking paper.",
+        "Learn the main ingredients: flour, sugar, butter, eggs, and baking powder.",
+        "Baking powder is a powder that makes gas when heated, so cakes rise.",
+        "Line your tin with baking paper so the cake comes out clean.",
+        "Preheat the oven. A cake needs steady heat from the start."
+      ],
+      "task": "Line a cake tin with baking paper and check your oven heat.",
+      "challenge": "Measure all your ingredients for tomorrow's sponge cake today.",
+      "quiz": [
+        {
+          "q": "What makes a cake rise?",
+          "options": [
+            "Yeast only",
+            "Baking powder or beaten eggs make gas that lifts the cake",
+            "Sugar",
+            "Butter"
+          ],
+          "answer": 1,
+          "explain": "Baking powder and beaten eggs make gas. The gas lifts the cake as it bakes."
+        },
+        {
+          "q": "Why line a cake tin with paper?",
+          "options": [
+            "It looks nice",
+            "So the cake comes out clean without sticking",
+            "It makes it rise",
+            "It adds flavour"
+          ],
+          "answer": 1,
+          "explain": "Paper stops the cake sticking to the tin."
+        },
+        {
+          "q": "Why preheat the oven for cakes?",
+          "options": [
+            "To save time",
+            "Cakes need steady heat from the start to rise well",
+            "It is a rule",
+            "To make the crust brown"
+          ],
+          "answer": 1,
+          "explain": "A cold oven gives a flat, heavy cake."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your First Vanilla Sponge Cake",
+      "goal": "Bake a soft vanilla sponge cake.",
+      "video": {
+        "youtube_id": "1ZWaaeE1Ti0",
+        "title": "How to Make Chocolate Ganache",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Cream means beat butter and sugar together until pale and fluffy.",
+        "Add eggs one at a time, beating well after each one.",
+        "Add vanilla and a little milk.",
+        "Fold in the flour gently with a spatula. Do not stir hard.",
+        "Bake at 180°C for 25 to 30 minutes. Test with a toothpick."
+      ],
+      "task": "Bake a vanilla sponge cake.",
+      "challenge": "Cut the cake in half and fill it with jam.",
+      "quiz": [
+        {
+          "q": "What does 'cream butter and sugar' mean?",
+          "options": [
+            "Melt them",
+            "Beat them together until pale and fluffy",
+            "Mix them with water",
+            "Freeze them"
+          ],
+          "answer": 1,
+          "explain": "Creaming beats air into the butter and sugar, which makes the cake light."
+        },
+        {
+          "q": "Why add eggs one at a time?",
+          "options": [
+            "It is faster",
+            "So the mix does not split",
+            "It tastes better",
+            "It saves eggs"
+          ],
+          "answer": 1,
+          "explain": "Adding eggs slowly keeps the mix smooth. All at once can make it split."
+        },
+        {
+          "q": "Why fold flour in gently?",
+          "options": [
+            "It is faster",
+            "Hard stirring pushes the air out and makes a heavy cake",
+            "It saves time",
+            "It makes it sweet"
+          ],
+          "answer": 1,
+          "explain": "Folding keeps the air in. Stirring hard pushes it out."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Chocolate Cake in 15 Minutes",
+      "goal": "Bake a quick, moist chocolate cake.",
+      "video": {
+        "youtube_id": "tJ_T9WJEgXg",
+        "title": "How to Make a Vanilla Buttercream Recipe",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Mix flour, cocoa, sugar, and baking powder in a bowl.",
+        "Add eggs, milk, and oil. Mix until smooth.",
+        "Pour into a lined tin.",
+        "Bake at 180°C until a toothpick comes out clean.",
+        "Cool in the tin for 10 minutes, then turn out onto a rack."
+      ],
+      "task": "Bake a chocolate cake.",
+      "challenge": "Make a second one with a little coffee in the mix and compare the taste.",
+      "quiz": [
+        {
+          "q": "What does cocoa add to a cake?",
+          "options": [
+            "Sweetness",
+            "Chocolate flavour and dark colour",
+            "Rising power",
+            "Softness"
+          ],
+          "answer": 1,
+          "explain": "Cocoa gives chocolate flavour and colour."
+        },
+        {
+          "q": "Why cool a cake in the tin for 10 minutes?",
+          "options": [
+            "It tastes better",
+            "It firms up so it does not break when you turn it out",
+            "It saves time",
+            "It makes it moist"
+          ],
+          "answer": 1,
+          "explain": "A hot cake is soft and breaks easily. Ten minutes firms it up."
+        },
+        {
+          "q": "How do you test if a cake is done?",
+          "options": [
+            "Smell it",
+            "A toothpick comes out clean",
+            "It turns dark",
+            "It feels heavy"
+          ],
+          "answer": 1,
+          "explain": "A clean toothpick means the middle is cooked."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Cupcakes: Small Cakes, Big Fun",
+      "goal": "Bake vanilla cupcakes.",
+      "video": {
+        "youtube_id": "j5Axsg_8X3E",
+        "title": "How to Make a Vanilla Sponge Cake Recipe",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Line a cupcake tray with paper cases.",
+        "Make a sponge mix, the same as a cake.",
+        "Fill each case two-thirds full. No more, or they will spill over.",
+        "Bake at 180°C for 18 to 20 minutes.",
+        "Cool fully before adding any topping."
+      ],
+      "task": "Bake 12 vanilla cupcakes.",
+      "challenge": "Make half chocolate and half vanilla in the same tray.",
+      "quiz": [
+        {
+          "q": "How full should a cupcake case be?",
+          "options": [
+            "To the top",
+            "Two-thirds full",
+            "Half full",
+            "One-third full"
+          ],
+          "answer": 1,
+          "explain": "Two-thirds full leaves room for the cake to rise without spilling."
+        },
+        {
+          "q": "Why cool cupcakes fully before topping?",
+          "options": [
+            "It saves time",
+            "Warm cupcakes melt the topping",
+            "They taste better cold",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Topping on a warm cupcake melts and slides off."
+        },
+        {
+          "q": "How long do cupcakes bake?",
+          "options": [
+            "30 minutes",
+            "18 to 20 minutes",
+            "10 minutes",
+            "1 hour"
+          ],
+          "answer": 1,
+          "explain": "Cupcakes are small, so they bake in 18 to 20 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Buttercream: The Classic Frosting",
+      "goal": "Make smooth vanilla buttercream.",
+      "video": {
+        "youtube_id": "otifsKKutLw",
+        "title": "Vanilla Cupcake Recipe",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Buttercream is soft butter beaten with icing sugar.",
+        "Beat the butter first until it is pale and soft.",
+        "Add icing sugar a little at a time.",
+        "Add a spoon of milk and vanilla. Beat until smooth and fluffy.",
+        "Taste it. Add more sugar if you want it sweeter."
+      ],
+      "task": "Make a bowl of vanilla buttercream.",
+      "challenge": "Make a chocolate version by adding cocoa.",
+      "quiz": [
+        {
+          "q": "What is buttercream made from?",
+          "options": [
+            "Cream cheese",
+            "Soft butter beaten with icing sugar",
+            "Whipped cream",
+            "Melted chocolate"
+          ],
+          "answer": 1,
+          "explain": "Buttercream is butter and icing sugar beaten together."
+        },
+        {
+          "q": "Why add icing sugar a little at a time?",
+          "options": [
+            "It is faster",
+            "So it mixes in smoothly without a cloud of sugar",
+            "It tastes better",
+            "It saves sugar"
+          ],
+          "answer": 1,
+          "explain": "Adding sugar slowly stops it flying everywhere and keeps the mix smooth."
+        },
+        {
+          "q": "What does milk do in buttercream?",
+          "options": [
+            "Makes it sweet",
+            "It makes it soft and easy to spread",
+            "Makes it white",
+            "Makes it last longer"
+          ],
+          "answer": 1,
+          "explain": "A little milk softens buttercream so it spreads well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Frosting a Cake Smoothly",
+      "goal": "Frost a cake so it looks smooth and neat.",
+      "video": {
+        "youtube_id": "TPKqIScLKmk",
+        "title": "How to Pipe a Cupcake",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Let the cake cool fully. Warm cake melts frosting.",
+        "Cut off the domed top so the cake is flat.",
+        "Put a little frosting on the plate so the cake does not move.",
+        "Spread a thin first coat. This is the crumb coat. It traps the crumbs.",
+        "Chill for 20 minutes, then add the final thick coat and smooth it."
+      ],
+      "task": "Frost your sponge cake with buttercream.",
+      "challenge": "Try smoothing with a hot knife dipped in warm water.",
+      "quiz": [
+        {
+          "q": "What is a crumb coat?",
+          "options": [
+            "The final coat",
+            "A thin first coat that traps crumbs",
+            "A coat of crumbs",
+            "A chocolate coat"
+          ],
+          "answer": 1,
+          "explain": "A thin first coat traps loose crumbs so the final coat stays clean."
+        },
+        {
+          "q": "Why chill the cake after the crumb coat?",
+          "options": [
+            "To make it cold",
+            "So the crumb coat sets firm before the final coat",
+            "It tastes better",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "A firm crumb coat stops crumbs mixing into the final layer."
+        },
+        {
+          "q": "Why cut off the domed top?",
+          "options": [
+            "It tastes bad",
+            "A flat top stacks and frosts neatly",
+            "It saves cake",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A flat cake is easy to stack and frost smoothly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Frosted Celebration Cake",
+      "goal": "Bake and frost a full celebration cake.",
+      "video": {
+        "youtube_id": "_hf1tklwX18",
+        "title": "How to Create a Drip Cake",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Bake two sponge layers.",
+        "Make buttercream while the cakes cool.",
+        "Level both layers so they are flat.",
+        "Stack with buttercream in the middle, then crumb coat and chill.",
+        "Add the final coat, smooth it, and decorate simply."
+      ],
+      "task": "Bake and frost a celebration cake for your household.",
+      "challenge": "Write 'Happy Day' on the cake with a piping bag or a toothpick.",
+      "quiz": [
+        {
+          "q": "Why bake two layers?",
+          "options": [
+            "It is faster",
+            "Two layers make a taller, more special cake",
+            "It saves flour",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Two layers stacked make a proper celebration cake."
+        },
+        {
+          "q": "What goes between the layers?",
+          "options": [
+            "Nothing",
+            "Buttercream or jam",
+            "Paper",
+            "Water"
+          ],
+          "answer": 1,
+          "explain": "Buttercream or jam between layers adds flavour and holds them together."
+        },
+        {
+          "q": "Why is a crumb coat important?",
+          "options": [
+            "It adds flavour",
+            "It traps crumbs so the final coat is clean",
+            "It makes the cake taller",
+            "It saves frosting"
+          ],
+          "answer": 1,
+          "explain": "The crumb coat locks crumbs away so the final coat looks smooth."
+        }
+      ],
+      "project": {
+        "title": "Bake and Frost a Celebration Cake",
+        "brief": "Bake two sponge layers, fill, frost, and decorate a celebration cake.",
+        "checks": [
+          "Two sponge layers baked and cooled",
+          "Layers levelled flat",
+          "Buttercream made smooth and tasty",
+          "Crumb coat done and chilled",
+          "Final coat smooth and neat",
+          "Cake decorated simply and served"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Piping Basics: Stars and Swirls",
+      "goal": "Pipe buttercream stars and swirls with a piping bag.",
+      "video": {
+        "youtube_id": "uDigd_noH3E",
+        "title": "How to Create a Gumpaste Bow",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Fit a star nozzle into a piping bag.",
+        "Fill the bag half full. Twist the top closed.",
+        "Hold the bag straight down. Squeeze, then lift.",
+        "Practise on a plate first: stars, swirls, and shells.",
+        "Pipe a border around the edge of a cake."
+      ],
+      "task": "Pipe a border around a cake or cupcakes.",
+      "challenge": "Pipe 12 cupcakes with a swirl on top.",
+      "quiz": [
+        {
+          "q": "How full should a piping bag be?",
+          "options": [
+            "To the top",
+            "Half full",
+            "One-third full",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Half full gives you control. A full bag is hard to squeeze."
+        },
+        {
+          "q": "What does a star nozzle make?",
+          "options": [
+            "A flat line",
+            "A star shape with ridges",
+            "A round dot",
+            "A leaf"
+          ],
+          "answer": 1,
+          "explain": "A star nozzle makes a ridged star shape."
+        },
+        {
+          "q": "Why practise on a plate first?",
+          "options": [
+            "To waste frosting",
+            "So your hand learns the pressure before the real cake",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Practice on a plate builds control before you touch the cake."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Chocolate Ganache: Rich and Glossy",
+      "goal": "Make chocolate ganache for drips and coating.",
+      "video": {
+        "youtube_id": "4Klxe_QgmvE",
+        "title": "The 1m vs 2D Piping Nozzle",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Ganache is chocolate mixed with hot cream.",
+        "Chop chocolate small so it melts fast.",
+        "Heat cream until just steaming. Do not boil it.",
+        "Pour the cream over the chocolate. Wait 2 minutes, then stir.",
+        "Stir from the middle out until it is smooth and shiny."
+      ],
+      "task": "Make a bowl of chocolate ganache.",
+      "challenge": "Pour it over a cake and let it drip down the sides.",
+      "quiz": [
+        {
+          "q": "What is ganache?",
+          "options": [
+            "Melted butter",
+            "Chocolate mixed with hot cream",
+            "Chocolate icing sugar",
+            "Melted jam"
+          ],
+          "answer": 1,
+          "explain": "Ganache is chocolate and hot cream stirred together."
+        },
+        {
+          "q": "Why wait 2 minutes before stirring?",
+          "options": [
+            "To cool it",
+            "So the heat melts the chocolate first",
+            "It tastes better",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Waiting lets the hot cream melt the chocolate before you stir."
+        },
+        {
+          "q": "Why stir from the middle out?",
+          "options": [
+            "It is faster",
+            "It keeps the ganache smooth and shiny",
+            "It cools it",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Stirring from the middle keeps air out and the ganache glossy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Drip Cakes: The Modern Look",
+      "goal": "Make a drip cake with ganache.",
+      "video": {
+        "youtube_id": "LNoZgVhUI14",
+        "title": "Two Tone Buttercream Rose Cupcake Tutorial",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Bake and frost a cake smoothly. Chill it until the frosting is firm.",
+        "Make ganache and let it cool until it is thick but still runny.",
+        "Spoon ganache on the top edge and let it drip down.",
+        "Fill in the top with more ganache.",
+        "Add sweets, fruit, or sprinkles on top."
+      ],
+      "task": "Make a drip cake.",
+      "challenge": "Try a white chocolate drip on a chocolate cake.",
+      "quiz": [
+        {
+          "q": "Why chill the frosted cake first?",
+          "options": [
+            "It tastes better",
+            "Firm frosting holds the drip in place",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Cold, firm frosting stops the drip running too far."
+        },
+        {
+          "q": "How thick should drip ganache be?",
+          "options": [
+            "Like water",
+            "Thick but still runny",
+            "Very thick",
+            "Solid"
+          ],
+          "answer": 1,
+          "explain": "Thick but runny ganache drips slowly and stops where you want."
+        },
+        {
+          "q": "What can you put on top of a drip cake?",
+          "options": [
+            "Nothing",
+            "Sweets, fruit, or sprinkles",
+            "Only candles",
+            "Only flowers"
+          ],
+          "answer": 1,
+          "explain": "Sweets, fruit, and sprinkles finish a drip cake."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Fondant: Covering a Cake",
+      "goal": "Cover a cake in fondant, the smooth sugar icing.",
+      "video": {
+        "youtube_id": "3LKTszT3n1Y",
+        "title": "Chocolate Cake in 15 Minutes! Soft, Delicious & Easy!",
+        "channel": "Bake Tasty Cake"
+      },
+      "steps": [
+        "Fondant is a soft sugar dough you roll out like pastry.",
+        "Frost the cake with buttercream first. This is the glue.",
+        "Knead the fondant until soft. Roll it out on a surface dusted with icing sugar.",
+        "Lift it over the cake and smooth it down from the top.",
+        "Trim the extra at the bottom with a knife."
+      ],
+      "task": "Cover a small cake in fondant.",
+      "challenge": "Practise rolling fondant and cutting shapes from it.",
+      "quiz": [
+        {
+          "q": "What is fondant?",
+          "options": [
+            "A type of cream",
+            "A soft sugar dough rolled over cakes",
+            "A kind of sponge",
+            "A chocolate sauce"
+          ],
+          "answer": 1,
+          "explain": "Fondant is a sugar dough that gives cakes a smooth, clean finish."
+        },
+        {
+          "q": "Why frost with buttercream first?",
+          "options": [
+            "It tastes better",
+            "It acts as glue for the fondant",
+            "It makes the cake taller",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Buttercream under fondant holds it in place."
+        },
+        {
+          "q": "Why dust the surface with icing sugar?",
+          "options": [
+            "It looks nice",
+            "So the fondant does not stick",
+            "It makes it sweet",
+            "It makes it white"
+          ],
+          "answer": 1,
+          "explain": "Icing sugar stops fondant sticking to the table."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Piping Nozzles: 1M and 2D",
+      "goal": "Learn the two most useful piping nozzles.",
+      "video": {
+        "youtube_id": "pPFfB0E0Q2g",
+        "title": "How To Frost A Cake With Smooth Buttercream",
+        "channel": "Sugar & Sparrow"
+      },
+      "steps": [
+        "The 1M nozzle makes big swirls and rosettes.",
+        "The 2D nozzle makes smaller, tighter flowers.",
+        "Practise both on a plate: swirls, rosettes, and stars.",
+        "Use the 1M for cupcake tops and the 2D for small flowers.",
+        "Keep your hand steady and squeeze with even pressure."
+      ],
+      "task": "Pipe rosettes with the 1M nozzle on 6 cupcakes.",
+      "challenge": "Pipe small flowers with the 2D nozzle on a cake.",
+      "quiz": [
+        {
+          "q": "What does a 1M nozzle make?",
+          "options": [
+            "Small flowers",
+            "Big swirls and rosettes",
+            "Flat lines",
+            "Leaves"
+          ],
+          "answer": 1,
+          "explain": "The 1M makes big, open swirls and rosettes."
+        },
+        {
+          "q": "What does a 2D nozzle make?",
+          "options": [
+            "Big swirls",
+            "Smaller, tighter flowers",
+            "Flat lines",
+            "Stars only"
+          ],
+          "answer": 1,
+          "explain": "The 2D makes smaller, more detailed flowers."
+        },
+        {
+          "q": "Why squeeze with even pressure?",
+          "options": [
+            "It is faster",
+            "Even pressure makes even shapes",
+            "It saves frosting",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Uneven pressure gives uneven, messy shapes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Cupcake Piping: Roses and Two Tones",
+      "goal": "Pipe roses and two-tone cupcakes.",
+      "video": {
+        "youtube_id": "5-bGPaO8elQ",
+        "title": "Your Guide to Frosting a Cake with Smooth Buttercream",
+        "channel": "Sugar & Sparrow"
+      },
+      "steps": [
+        "Two-tone means two colours of frosting in one bag.",
+        "Put each colour on one side of the bag.",
+        "Pipe a rose: start in the middle and circle out.",
+        "Practise roses on a plate until they look neat.",
+        "Pipe roses on cupcakes for a party box."
+      ],
+      "task": "Pipe buttercream roses on 6 cupcakes.",
+      "challenge": "Make a two-tone swirl on 6 more cupcakes.",
+      "quiz": [
+        {
+          "q": "What is two-tone frosting?",
+          "options": [
+            "Two cakes",
+            "Two colours of frosting piped together",
+            "Two flavours of cake",
+            "Two layers"
+          ],
+          "answer": 1,
+          "explain": "Two-tone means two colours in one bag, piped at the same time."
+        },
+        {
+          "q": "How do you pipe a buttercream rose?",
+          "options": [
+            "Squeeze and lift",
+            "Start in the middle and circle out",
+            "Draw it with a knife",
+            "Use a mould"
+          ],
+          "answer": 1,
+          "explain": "A rose starts in the middle and circles outward."
+        },
+        {
+          "q": "Why practise roses on a plate?",
+          "options": [
+            "To waste frosting",
+            "So you learn the shape before the real cupcakes",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Practice builds skill without spoiling the real cupcakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A Decorated Cupcake Box",
+      "goal": "Bake and decorate a box of 12 cupcakes.",
+      "video": {
+        "youtube_id": "wKrTu2g-iHs",
+        "title": "Frost a Cake with Smooth Buttercream",
+        "channel": "Intensive Cake Unit"
+      },
+      "steps": [
+        "Bake 12 cupcakes: 6 vanilla, 6 chocolate.",
+        "Make buttercream in two colours.",
+        "Pipe 6 with swirls and 6 with roses.",
+        "Add sprinkles and a simple topper to each one.",
+        "Pack them in a box and share them."
+      ],
+      "task": "Make a decorated box of 12 cupcakes.",
+      "challenge": "Price the box as if you were selling it.",
+      "quiz": [
+        {
+          "q": "Why bake two flavours?",
+          "options": [
+            "It is faster",
+            "It gives buyers a choice",
+            "It saves flour",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Two flavours give people a choice and show your range."
+        },
+        {
+          "q": "What makes cupcakes look professional?",
+          "options": [
+            "Expensive boxes",
+            "Neat piping, even sizes, and tidy decoration",
+            "Lots of sprinkles",
+            "Big boxes"
+          ],
+          "answer": 1,
+          "explain": "Neat piping and even sizes make cupcakes look professional."
+        },
+        {
+          "q": "Why price the box?",
+          "options": [
+            "To show off",
+            "It teaches you the real cost of your work",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Pricing turns decorating into a business skill."
+        }
+      ],
+      "project": {
+        "title": "Make a Decorated Cupcake Box",
+        "brief": "Bake 12 cupcakes in two flavours and decorate them with piping.",
+        "checks": [
+          "12 cupcakes baked, even in size",
+          "Buttercream made in two colours",
+          "6 cupcakes piped with swirls",
+          "6 cupcakes piped with roses",
+          "Sprinkles and toppers added neatly",
+          "Box packed and priced"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Semi-Naked Cakes: The Rustic Look",
+      "goal": "Make a semi-naked cake, where the sponge shows through.",
+      "video": {
+        "youtube_id": "egOHp1x1S7Q",
+        "title": "How To Frost A Flawless Semi-Naked Cake",
+        "channel": "Sugar & Sparrow"
+      },
+      "steps": [
+        "A semi-naked cake has only a thin coat of frosting.",
+        "Bake two or three layers and level them.",
+        "Stack with buttercream between the layers.",
+        "Spread a thin coat on the sides. Let some sponge show.",
+        "Top with fresh fruit or flowers."
+      ],
+      "task": "Make a semi-naked cake.",
+      "challenge": "Top it with fresh fruit and serve it at a meal.",
+      "quiz": [
+        {
+          "q": "What is a semi-naked cake?",
+          "options": [
+            "A cake with no frosting",
+            "A cake with a thin coat so the sponge shows through",
+            "A cake with no layers",
+            "A raw cake"
+          ],
+          "answer": 1,
+          "explain": "Semi-naked means a thin coat of frosting with sponge showing through."
+        },
+        {
+          "q": "Why is a semi-naked cake good for beginners?",
+          "options": [
+            "It is cheaper",
+            "You do not need a perfect smooth coat",
+            "It is faster only",
+            "It uses less cake"
+          ],
+          "answer": 1,
+          "explain": "A thin coat hides small mistakes and still looks good."
+        },
+        {
+          "q": "What can you top a semi-naked cake with?",
+          "options": [
+            "Only candles",
+            "Fresh fruit or flowers",
+            "Only chocolate",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Fresh fruit or flowers suit the rustic look."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Gumpaste Bows and Sugar Flowers",
+      "goal": "Make a gumpaste bow for a cake topper.",
+      "video": {
+        "youtube_id": "gWWqBMRHEjM",
+        "title": "How to Cover a Cake in Fondant",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Gumpaste is a sugar dough that dries hard.",
+        "Roll it thin and cut strips.",
+        "Fold strips into loops for a bow. Let them dry overnight.",
+        "Glue the loops together with a little water or icing.",
+        "Place the bow on top of a cake."
+      ],
+      "task": "Make a gumpaste bow.",
+      "challenge": "Make simple sugar flowers with a cutter and let them dry.",
+      "quiz": [
+        {
+          "q": "What is gumpaste?",
+          "options": [
+            "A type of cream",
+            "A sugar dough that dries hard",
+            "A kind of sponge",
+            "A chocolate sauce"
+          ],
+          "answer": 1,
+          "explain": "Gumpaste dries hard, so it is good for bows and flowers."
+        },
+        {
+          "q": "Why let gumpaste dry overnight?",
+          "options": [
+            "It tastes better",
+            "So it sets hard and holds its shape",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Dry gumpaste is strong and keeps its shape on a cake."
+        },
+        {
+          "q": "What sticks gumpaste pieces together?",
+          "options": [
+            "Glue",
+            "A little water or icing",
+            "Butter",
+            "Oil"
+          ],
+          "answer": 1,
+          "explain": "A drop of water or icing acts as glue for sugar pieces."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Cake Toppers and Simple Decorations",
+      "goal": "Decorate cakes with toppers, fruit, and chocolate.",
+      "video": {
+        "youtube_id": "1ZWaaeE1Ti0",
+        "title": "How to Make Chocolate Ganache",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Use fresh fruit, chocolate pieces, or a simple topper.",
+        "Place big items first, then fill gaps with small ones.",
+        "Keep the design simple. Less is often more.",
+        "Use a clean, dry cake board under the cake.",
+        "Take a photo in good light before serving."
+      ],
+      "task": "Decorate a cake with fruit and chocolate pieces.",
+      "challenge": "Make a cake topper from paper or card for a birthday.",
+      "quiz": [
+        {
+          "q": "Why place big items first?",
+          "options": [
+            "It is faster",
+            "Big items set the design, small ones fill the gaps",
+            "It looks better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Big pieces first, then small ones fill the gaps."
+        },
+        {
+          "q": "Why keep the design simple?",
+          "options": [
+            "It is cheaper",
+            "Too much decoration looks messy",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A simple design looks clean and professional."
+        },
+        {
+          "q": "Why take a photo in good light?",
+          "options": [
+            "To show off",
+            "Good light shows the true colours",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Good light makes your cake look its best in photos."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Wedding Cakes: The Basics",
+      "goal": "Plan a simple two-tier wedding cake.",
+      "video": {
+        "youtube_id": "tJ_T9WJEgXg",
+        "title": "How to Make a Vanilla Buttercream Recipe",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "A tier is one cake stacked on another.",
+        "Bake two sizes: a big bottom tier and a smaller top tier.",
+        "Use dowels (sticks) inside the bottom tier to hold the top one.",
+        "Frost both tiers smoothly and stack them carefully.",
+        "Decorate with white frosting and simple flowers."
+      ],
+      "task": "Plan a two-tier cake on paper: sizes, flavours, and colours.",
+      "challenge": "Bake a small two-tier cake for practice.",
+      "quiz": [
+        {
+          "q": "What is a tier?",
+          "options": [
+            "A flavour",
+            "One cake stacked on another",
+            "A decoration",
+            "A colour"
+          ],
+          "answer": 1,
+          "explain": "A tier is one layer of a stacked cake."
+        },
+        {
+          "q": "What are dowels for?",
+          "options": [
+            "Decoration",
+            "Sticks inside the cake that hold the top tier up",
+            "Flavour",
+            "Cutting"
+          ],
+          "answer": 1,
+          "explain": "Dowels stop the top tier sinking into the bottom one."
+        },
+        {
+          "q": "Why plan a wedding cake on paper first?",
+          "options": [
+            "To show the couple",
+            "So you know sizes, flavours, and costs before baking",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Planning on paper stops mistakes on a cake that matters."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Costing Cakes: Price Your Work",
+      "goal": "Work out what a cake costs and what to charge.",
+      "video": {
+        "youtube_id": "j5Axsg_8X3E",
+        "title": "How to Make a Vanilla Sponge Cake Recipe",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "List every ingredient with its price.",
+        "Add the cost of the box, board, and decorations.",
+        "Add your time: how many hours did you spend?",
+        "A decorated cake costs more than a plain one.",
+        "Compare with other bakers near you."
+      ],
+      "task": "Cost a celebration cake and set its price.",
+      "challenge": "Cost a box of 12 cupcakes the same way.",
+      "quiz": [
+        {
+          "q": "What costs go into a cake price?",
+          "options": [
+            "Ingredients only",
+            "Ingredients, box, board, decorations, and your time",
+            "Only your time",
+            "Only the box"
+          ],
+          "answer": 1,
+          "explain": "A fair price covers ingredients, packaging, decorations, and your time."
+        },
+        {
+          "q": "Why do decorated cakes cost more?",
+          "options": [
+            "They look better",
+            "Decorating takes skill and time",
+            "They are bigger",
+            "They use more flour"
+          ],
+          "answer": 1,
+          "explain": "Decorating is skilled work that takes hours."
+        },
+        {
+          "q": "Why compare with other bakers?",
+          "options": [
+            "To copy them",
+            "So your price is fair for your area",
+            "To show off",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Local prices tell you what customers expect to pay."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Cake Mistakes and Fixes",
+      "goal": "Fix the commonest cake problems.",
+      "video": {
+        "youtube_id": "otifsKKutLw",
+        "title": "Vanilla Cupcake Recipe",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Cake sank? The oven door was opened too early, or it was under-baked.",
+        "Cake is dry? It was over-baked, or it needed more liquid.",
+        "Frosting is too soft? The butter was too warm, or it needs more sugar.",
+        "Cake stuck to the tin? The tin was not lined or greased.",
+        "Write down each problem and fix."
+      ],
+      "task": "Fix one cake problem you have had.",
+      "challenge": "Bake a cake and write down what went right and wrong.",
+      "quiz": [
+        {
+          "q": "Why did the cake sink?",
+          "options": [
+            "Too much sugar",
+            "The oven door was opened too early or it was under-baked",
+            "Too little flour",
+            "It was too hot"
+          ],
+          "answer": 1,
+          "explain": "Opening the door early or under-baking makes a cake fall."
+        },
+        {
+          "q": "What makes a cake dry?",
+          "options": [
+            "Too much sugar",
+            "Over-baking or too little liquid",
+            "Too much butter",
+            "A cold oven"
+          ],
+          "answer": 1,
+          "explain": "Too long in the oven dries a cake out."
+        },
+        {
+          "q": "What makes frosting too soft?",
+          "options": [
+            "Too much sugar",
+            "Butter that is too warm",
+            "Too little milk",
+            "A cold room"
+          ],
+          "answer": 1,
+          "explain": "Warm butter makes soft, runny frosting. Chill it to firm it up."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Two-Tier Cake",
+      "goal": "Bake and decorate a two-tier cake.",
+      "video": {
+        "youtube_id": "TPKqIScLKmk",
+        "title": "How to Pipe a Cupcake",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Bake two tiers: a big bottom and a smaller top.",
+        "Make buttercream and fill both tiers.",
+        "Level, crumb coat, and frost both tiers.",
+        "Stack with dowels for support.",
+        "Decorate simply and photograph it."
+      ],
+      "task": "Bake a two-tier cake.",
+      "challenge": "Cost it and work out what you would charge a customer.",
+      "quiz": [
+        {
+          "q": "Why use dowels in a two-tier cake?",
+          "options": [
+            "Decoration",
+            "They hold the top tier up",
+            "Flavour",
+            "Cutting"
+          ],
+          "answer": 1,
+          "explain": "Dowels stop the top tier sinking into the bottom."
+        },
+        {
+          "q": "What order do you frost tiers in?",
+          "options": [
+            "Top first",
+            "Frost each tier on its own, then stack",
+            "Stack first, then frost",
+            "Any order"
+          ],
+          "answer": 1,
+          "explain": "Frost each tier on its own, then stack them neatly."
+        },
+        {
+          "q": "Why photograph a two-tier cake?",
+          "options": [
+            "To show off",
+            "Photos show your skill to future customers",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Photos of a two-tier cake prove you can do big cakes."
+        }
+      ],
+      "project": {
+        "title": "Bake a Two-Tier Cake",
+        "brief": "Bake, frost, stack, and decorate a two-tier cake.",
+        "checks": [
+          "Two tiers baked in different sizes",
+          "Both tiers levelled and frosted",
+          "Dowels used for support",
+          "Tiers stacked straight and steady",
+          "Decorated simply and neatly",
+          "Cake photographed and costed"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Packaging and Delivering Cakes",
+      "goal": "Pack and carry cakes safely.",
+      "video": {
+        "youtube_id": "_hf1tklwX18",
+        "title": "How to Create a Drip Cake",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Use a strong box that fits the cake board.",
+        "Put the cake on a board that is bigger than the cake.",
+        "Keep the cake flat in the car. Never tilt it.",
+        "Keep it cool. Heat melts frosting.",
+        "Tell the customer how to store and cut the cake."
+      ],
+      "task": "Pack a cake in a box as if for delivery.",
+      "challenge": "Carry a cake in a car and check it arrives in one piece.",
+      "quiz": [
+        {
+          "q": "Why must the board be bigger than the cake?",
+          "options": [
+            "It looks nice",
+            "So you can lift the cake without touching it",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A bigger board gives you room to lift and carry the cake safely."
+        },
+        {
+          "q": "Why keep a cake flat in the car?",
+          "options": [
+            "It is faster",
+            "Tilting slides the cake and ruins the decoration",
+            "It saves space",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A tilted cake slides and the frosting smears."
+        },
+        {
+          "q": "Why keep cakes cool?",
+          "options": [
+            "They taste better cold",
+            "Heat melts frosting and fondant",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Warmth softens frosting and can ruin the decoration."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Taking Cake Orders",
+      "goal": "Take a cake order like a professional.",
+      "video": {
+        "youtube_id": "uDigd_noH3E",
+        "title": "How to Create a Gumpaste Bow",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Ask the date, the number of people, and the flavour.",
+        "Ask about allergies. Write them down.",
+        "Show the customer photos of your past cakes.",
+        "Agree the price and take a deposit (money paid in advance).",
+        "Write everything down and confirm it with the customer."
+      ],
+      "task": "Practise taking an order from a friend.",
+      "challenge": "Write an order form you can use for real customers.",
+      "quiz": [
+        {
+          "q": "Why ask about allergies?",
+          "options": [
+            "To be polite",
+            "So you do not use an ingredient that could harm someone",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Allergies can be serious. Always ask and write the answer down."
+        },
+        {
+          "q": "What is a deposit?",
+          "options": [
+            "The full price",
+            "Money paid in advance to book the cake",
+            "A tip",
+            "A discount"
+          ],
+          "answer": 1,
+          "explain": "A deposit books the order and covers your costs if the customer cancels."
+        },
+        {
+          "q": "Why write the order down?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A written order stops mistakes about flavour, size, and date."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Seasonal Cakes: Christmas and Birthdays",
+      "goal": "Plan cakes for Christmas and birthdays.",
+      "video": {
+        "youtube_id": "4Klxe_QgmvE",
+        "title": "The 1m vs 2D Piping Nozzle",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Christmas: rich fruit cake, red and green decoration.",
+        "Birthdays: bright colours, the person's favourite flavour.",
+        "Plan a week ahead. Bake sponges early and freeze them.",
+        "Decorate the day before, not weeks ahead.",
+        "Keep a list of your most popular seasonal designs."
+      ],
+      "task": "Plan a birthday cake for someone you know.",
+      "challenge": "Bake and freeze a sponge in advance, then thaw and check it.",
+      "quiz": [
+        {
+          "q": "Why freeze sponges in advance?",
+          "options": [
+            "They taste better",
+            "It saves time on a busy week",
+            "They last longer only",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Frozen sponges save time when you have many orders."
+        },
+        {
+          "q": "When should you decorate a cake?",
+          "options": [
+            "Weeks ahead",
+            "The day before, so it is fresh",
+            "A month ahead",
+            "On the day only"
+          ],
+          "answer": 1,
+          "explain": "Decorating the day before keeps the cake fresh."
+        },
+        {
+          "q": "What makes a good birthday cake?",
+          "options": [
+            "Expensive decoration",
+            "The person's favourite flavour and colours",
+            "The biggest size",
+            "The most tiers"
+          ],
+          "answer": 1,
+          "explain": "A birthday cake should suit the person it is for."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Your Signature Cake",
+      "goal": "Choose and perfect one cake you can make brilliantly.",
+      "video": {
+        "youtube_id": "LNoZgVhUI14",
+        "title": "Two Tone Buttercream Rose Cupcake Tutorial",
+        "channel": "Cakes by Lynz"
+      },
+      "steps": [
+        "Pick the cake your household loves most from this course.",
+        "Write the recipe in your own words with exact amounts.",
+        "Bake it again, timing every step and noting problems.",
+        "Fix the problems and bake it once more.",
+        "Get someone new to taste it and give honest feedback."
+      ],
+      "task": "Bake your signature cake and write the final recipe down.",
+      "challenge": "Bake it for someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature cake?",
+          "options": [
+            "An expensive cake",
+            "A cake you can make brilliantly every time",
+            "A cake with a fancy name",
+            "A cake only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature cake is one you have mastered."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you truly understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself proves you understand each step."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste food"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Cake Business: First Steps",
+      "goal": "Take your first steps toward selling cakes.",
+      "video": {
+        "youtube_id": "3LKTszT3n1Y",
+        "title": "Chocolate Cake in 15 Minutes! Soft, Delicious & Easy!",
+        "channel": "Bake Tasty Cake"
+      },
+      "steps": [
+        "Pick 2 or 3 cakes to sell. Do not sell everything at once.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your cakes in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you bake only what is sold."
+      ],
+      "task": "Take photos of your best cakes and show them to three people.",
+      "challenge": "Take one real order, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 2 or 3 cakes?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to make well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you bake only what is sold and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell cakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your cake business.",
+      "video": {
+        "youtube_id": "pPFfB0E0Q2g",
+        "title": "How To Frost A Cake With Smooth Buttercream",
+        "channel": "Sugar & Sparrow"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which cakes sell best and which do not.",
+        "Keep your money for baking separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one cake.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to bake",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for ingredients, gas, and packaging."
+        },
+        {
+          "q": "Why keep cake money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if baking is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your baking."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Fondant Figures and Simple Models",
+      "goal": "Make simple fondant figures for children's cakes.",
+      "video": {
+        "youtube_id": "5-bGPaO8elQ",
+        "title": "Your Guide to Frosting a Cake with Smooth Buttercream",
+        "channel": "Sugar & Sparrow"
+      },
+      "steps": [
+        "Knead fondant with a little icing sugar until soft.",
+        "Roll balls for heads and bodies.",
+        "Use a toothpick to join pieces.",
+        "Add small details: eyes, ears, and a smile.",
+        "Let figures dry overnight before putting them on a cake."
+      ],
+      "task": "Make a simple fondant animal or figure.",
+      "challenge": "Make a set of small fondant balls and flowers for a cake.",
+      "quiz": [
+        {
+          "q": "Why use a toothpick to join fondant pieces?",
+          "options": [
+            "It is faster",
+            "It holds pieces together while they dry",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A toothpick acts like a pin holding the pieces together."
+        },
+        {
+          "q": "Why let figures dry overnight?",
+          "options": [
+            "They taste better",
+            "So they set hard and hold their shape",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Dry fondant is strong and keeps its shape on a cake."
+        },
+        {
+          "q": "Why start with simple figures?",
+          "options": [
+            "They are cheaper",
+            "Simple shapes teach you the skill before hard ones",
+            "They are faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Simple figures build the skill you need for harder ones."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Cake Maker's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "wKrTu2g-iHs",
+        "title": "Frost a Cake with Smooth Buttercream",
+        "channel": "Intensive Cake Unit"
+      },
+      "steps": [
+        "Bake a sponge cake from memory, without the recipe.",
+        "Make buttercream and frost a cake smoothly.",
+        "Name the steps of a crumb coat.",
+        "Pipe a swirl and a star from memory.",
+        "List your three strongest skills and one to improve."
+      ],
+      "task": "Bake and frost a cake from memory, no recipe.",
+      "challenge": "Teach one cake skill from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What are the steps of frosting a cake?",
+          "options": [
+            "Frost once",
+            "Level, crumb coat, chill, then final coat",
+            "Frost, then bake",
+            "Chill, then bake"
+          ],
+          "answer": 1,
+          "explain": "Level the cake, add a thin crumb coat, chill, then add the final coat."
+        },
+        {
+          "q": "Why bake from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Baking without a recipe shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves flour"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Cake",
+      "goal": "Plan your capstone cake and gather everything you need.",
+      "video": {
+        "youtube_id": "egOHp1x1S7Q",
+        "title": "How To Frost A Flawless Semi-Naked Cake",
+        "channel": "Sugar & Sparrow"
+      },
+      "steps": [
+        "Choose your capstone cake: flavour, size, and design.",
+        "Write the full shopping list with costs.",
+        "Write the baking and decorating order, working backwards from serving.",
+        "Check you have every tool and ingredient.",
+        "Do a trial run of the hardest part if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone decoration today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only expensive cakes",
+            "Everything you learned: baking, frosting, piping, and costing",
+            "Only one skill",
+            "Only decoration"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why work backwards from serving?",
+          "options": [
+            "It is faster",
+            "So every step finishes on time",
+            "It saves gas",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A backwards plan makes sure the cake is ready when it is needed."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste food",
+            "To find problems before the real cake",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Celebration Cake: Baked, Frosted and Decorated",
+    "brief": "Bake, frost, and decorate a full celebration cake for a birthday or event: two layers, smooth buttercream, piped decoration, and a simple topper. Cost the cake, pack it safely, and deliver or serve it on time.",
+    "checks": [
+      "Cake planned with a shopping list and costs",
+      "Sponge layers baked soft and even",
+      "Buttercream smooth and tasty",
+      "Crumb coat done and chilled before the final coat",
+      "Final coat smooth, piping neat and even",
+      "Cake decorated simply and photographed",
+      "Feedback collected from at least one person who tasted it"
+    ],
+    "deliverables": [
+      "A photo of the finished cake",
+      "Your written plan with the shopping list and costs",
+      "Your baking and decorating order, working backwards from serving",
+      "Your signature cake recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

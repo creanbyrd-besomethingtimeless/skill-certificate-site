@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "cocktail-and-mocktail-making",
+    "title": "Cocktail and Mocktail Making",
+    "level": "Beginner",
+    "tagline": "Mix classic and signature drinks, with and without alcohol, for any event.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Cocktail Basics: Tools and Words",
+      "goal": "Know your bar tools and the basic words.",
+      "video": {
+        "youtube_id": "A791abv-CGU",
+        "title": "Make a Mojito Cocktail",
+        "channel": "Lacademie"
+      },
+      "steps": [
+        "Find your tools: a shaker, a jigger (a small measurer), a spoon, and a strainer.",
+        "A jigger measures drink amounts. One side is bigger, one is smaller.",
+        "A shaker is a metal cup you shake drinks in with ice.",
+        "A strainer is a sieve that holds back the ice when you pour.",
+        "Learn the words: shake, stir, muddle (press), strain, and garnish (decorate)."
+      ],
+      "task": "List your bar tools and measure water with a jigger.",
+      "challenge": "Practise shaking water and ice in a shaker.",
+      "quiz": [
+        {
+          "q": "What is a jigger?",
+          "options": [
+            "A glass",
+            "A small measurer for drink amounts",
+            "A spoon",
+            "A bottle"
+          ],
+          "answer": 1,
+          "explain": "A jigger measures the exact amount of each drink ingredient."
+        },
+        {
+          "q": "What is a shaker for?",
+          "options": [
+            "Stirring",
+            "Shaking drinks with ice to mix and chill them",
+            "Storing drinks",
+            "Pouring only"
+          ],
+          "answer": 1,
+          "explain": "A shaker mixes and chills a drink fast with ice."
+        },
+        {
+          "q": "What does 'muddle' mean?",
+          "options": [
+            "To stir",
+            "To press fruit or herbs gently to release flavour",
+            "To shake",
+            "To pour"
+          ],
+          "answer": 1,
+          "explain": "Muddling presses fruit or herbs gently to release their flavour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "How to Shake a Cocktail",
+      "goal": "Shake a cocktail the right way.",
+      "video": {
+        "youtube_id": "jGf0lfcZSvY",
+        "title": "Make a B52 - Cocktail Recipe",
+        "channel": "Lacademie"
+      },
+      "steps": [
+        "Fill the shaker with ice first.",
+        "Add your ingredients. Measure each one with a jigger.",
+        "Close the shaker tight. Hold both ends.",
+        "Shake hard for 10 to 15 seconds. The shaker will feel cold.",
+        "Open it and strain the drink into a glass."
+      ],
+      "task": "Shake a simple drink with water, juice, and ice.",
+      "challenge": "Shake the same drink twice and compare how cold it gets.",
+      "quiz": [
+        {
+          "q": "Why fill the shaker with ice first?",
+          "options": [
+            "It looks nice",
+            "Ice chills and mixes the drink as you shake",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Ice chills the drink and helps mix it while you shake."
+        },
+        {
+          "q": "How long should you shake?",
+          "options": [
+            "1 second",
+            "10 to 15 seconds",
+            "1 minute",
+            "30 seconds"
+          ],
+          "answer": 1,
+          "explain": "Ten to fifteen seconds is enough to chill and mix a drink."
+        },
+        {
+          "q": "How do you know a shake is done?",
+          "options": [
+            "It smells good",
+            "The shaker feels cold on the outside",
+            "It stops making noise",
+            "It feels heavy"
+          ],
+          "answer": 1,
+          "explain": "A cold shaker means the drink inside is cold."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "How to Stir a Cocktail",
+      "goal": "Stir a cocktail smoothly with a long spoon.",
+      "video": {
+        "youtube_id": "zWJt7jb9Mro",
+        "title": "Trying Bloody Mary",
+        "channel": "Lacademie"
+      },
+      "steps": [
+        "Some drinks are stirred, not shaken. Clear drinks are usually stirred.",
+        "Fill a mixing glass with ice.",
+        "Add your ingredients and stir with a long spoon for 30 seconds.",
+        "Stir in circles. Do not splash.",
+        "Strain into a cold glass."
+      ],
+      "task": "Stir a simple drink with juice and water.",
+      "challenge": "Stir one drink and shake the same drink, then compare.",
+      "quiz": [
+        {
+          "q": "Which drinks are stirred?",
+          "options": [
+            "All drinks",
+            "Clear drinks, like a martini",
+            "Fruity drinks",
+            "Milky drinks"
+          ],
+          "answer": 1,
+          "explain": "Clear drinks are stirred so they stay clear and smooth."
+        },
+        {
+          "q": "How long should you stir?",
+          "options": [
+            "5 seconds",
+            "About 30 seconds",
+            "1 minute",
+            "10 seconds"
+          ],
+          "answer": 1,
+          "explain": "About 30 seconds chills and mixes the drink."
+        },
+        {
+          "q": "Why stir in circles without splashing?",
+          "options": [
+            "It looks nice",
+            "Smooth stirring keeps the drink clear",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Gentle, circular stirring keeps the drink smooth and clear."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "How to Muddle: Mint and Fruit",
+      "goal": "Muddle mint and fruit gently.",
+      "video": {
+        "youtube_id": "tm_Eo7yzllQ",
+        "title": "How to Shake a Cocktail Like a Pro",
+        "channel": "Absolut Vodka"
+      },
+      "steps": [
+        "Muddling means pressing gently with a muddler or a spoon.",
+        "Put mint leaves in the glass with sugar and lime.",
+        "Press gently 3 or 4 times. Do not tear the leaves.",
+        "Torn mint tastes bitter. Gentle pressing releases the oils.",
+        "Add ice and the rest of the drink, then stir."
+      ],
+      "task": "Muddle mint with sugar and lime in a glass.",
+      "challenge": "Muddle too hard on purpose once and taste the difference.",
+      "quiz": [
+        {
+          "q": "What does muddling do?",
+          "options": [
+            "Makes juice",
+            "Presses gently to release flavour from herbs or fruit",
+            "Cuts fruit",
+            "Mixes drinks"
+          ],
+          "answer": 1,
+          "explain": "Muddling presses herbs or fruit gently to release their flavour."
+        },
+        {
+          "q": "Why not tear mint leaves?",
+          "options": [
+            "It looks bad",
+            "Torn mint tastes bitter",
+            "It is messy",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Torn mint releases bitter tastes. Gentle pressing is best."
+        },
+        {
+          "q": "How many times should you press?",
+          "options": [
+            "20 times",
+            "3 or 4 times, gently",
+            "Once",
+            "10 times"
+          ],
+          "answer": 1,
+          "explain": "Three or four gentle presses are enough."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "The Mojito: Your First Classic",
+      "goal": "Make a mojito, step by step.",
+      "video": {
+        "youtube_id": "d0OYR5t8xZY",
+        "title": "How to Shake Cocktails",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "A mojito is rum, mint, lime, sugar, and soda water.",
+        "Put mint, sugar, and lime wedges in a tall glass. Muddle gently.",
+        "Fill the glass with ice.",
+        "Add rum. Top up with soda water.",
+        "Stir gently and add a mint leaf on top."
+      ],
+      "task": "Make a mojito.",
+      "challenge": "Make a mocktail mojito with no rum and compare.",
+      "quiz": [
+        {
+          "q": "What is in a mojito?",
+          "options": [
+            "Vodka and orange",
+            "Rum, mint, lime, sugar, and soda water",
+            "Gin and tonic",
+            "Whisky and cola"
+          ],
+          "answer": 1,
+          "explain": "A mojito is rum, mint, lime, sugar, and soda water."
+        },
+        {
+          "q": "What glass does a mojito go in?",
+          "options": [
+            "A small glass",
+            "A tall glass",
+            "A wine glass",
+            "A shot glass"
+          ],
+          "answer": 1,
+          "explain": "A mojito is served in a tall glass with lots of ice."
+        },
+        {
+          "q": "What is a mocktail mojito?",
+          "options": [
+            "A mojito with more rum",
+            "A mojito with no alcohol",
+            "A hot mojito",
+            "A mojito with no mint"
+          ],
+          "answer": 1,
+          "explain": "A mocktail has no alcohol. It uses soda and juice instead."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Straining and Layering",
+      "goal": "Strain a drink cleanly and layer a drink.",
+      "video": {
+        "youtube_id": "VRhQKnvli14",
+        "title": "The Basic Cocktail Techniques 101: Shake, Stir, and Sip Like a Pro",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "Straining means pouring through a strainer to hold back ice.",
+        "Hold the strainer over the shaker and pour slowly.",
+        "Layering means pouring drinks on top of each other so they stay separate.",
+        "Pour the heaviest drink first, then the lighter one over the back of a spoon.",
+        "Pour slowly. Fast pouring mixes the layers."
+      ],
+      "task": "Strain a shaken drink into a glass.",
+      "challenge": "Layer two juices in a glass using a spoon.",
+      "quiz": [
+        {
+          "q": "What does straining do?",
+          "options": [
+            "Adds ice",
+            "Holds back ice when you pour",
+            "Mixes drinks",
+            "Cools the glass"
+          ],
+          "answer": 1,
+          "explain": "A strainer holds the ice back so only the drink pours out."
+        },
+        {
+          "q": "What is layering?",
+          "options": [
+            "Mixing drinks",
+            "Pouring drinks so they stay in separate layers",
+            "Shaking drinks",
+            "Stirring drinks"
+          ],
+          "answer": 1,
+          "explain": "Layering stacks drinks in separate bands of colour."
+        },
+        {
+          "q": "Why pour over the back of a spoon?",
+          "options": [
+            "It looks nice",
+            "It slows the pour so layers stay separate",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A slow pour over a spoon stops the drinks mixing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Drinks Tasting",
+      "goal": "Make three drinks and taste them side by side.",
+      "video": {
+        "youtube_id": "ZJ4JjS10FC8",
+        "title": "How to Stir a Cocktail",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "Make a mojito, a stirred drink, and a layered drink.",
+        "Serve them in the right glasses with ice.",
+        "Write a tasting note for each: sweet, sour, strong, or fresh.",
+        "Ask tasters which one they like best and why.",
+        "Pick your favourite and write the recipe down."
+      ],
+      "task": "Make three drinks and hold a tasting for your household.",
+      "challenge": "Write tasting notes for each drink.",
+      "quiz": [
+        {
+          "q": "Why taste three drinks side by side?",
+          "options": [
+            "It is faster",
+            "Comparing shows the differences clearly",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Tasting side by side makes the differences in taste clear."
+        },
+        {
+          "q": "What is a tasting note?",
+          "options": [
+            "A recipe",
+            "A short note on how a drink tastes",
+            "A price",
+            "A photo"
+          ],
+          "answer": 1,
+          "explain": "A tasting note is a short description of the flavour."
+        },
+        {
+          "q": "Why write the recipe for your favourite?",
+          "options": [
+            "To show friends",
+            "So you can make it the same way every time",
+            "It is required",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "A written recipe lets you repeat a good drink."
+        }
+      ],
+      "project": {
+        "title": "Hold a Drinks Tasting",
+        "brief": "Make a mojito, a stirred drink, and a layered drink, and taste them.",
+        "checks": [
+          "Three different drinks made",
+          "Each drink served in the right glass",
+          "Tasting notes written for all three",
+          "Tasters picked a favourite",
+          "Favourite recipe written down",
+          "Feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Easy Cocktails for Beginners",
+      "goal": "Make five easy cocktails with few ingredients.",
+      "video": {
+        "youtube_id": "8js9SHhi3c0",
+        "title": "How to Muddle a Cocktail",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "Easy cocktails use only 2 or 3 ingredients.",
+        "Screwdriver: vodka and orange juice.",
+        "Gin and tonic: gin and tonic water with lime.",
+        "Rum and coke: rum and cola with lime.",
+        "Make each one in a glass with ice. Stir gently."
+      ],
+      "task": "Make three easy cocktails.",
+      "challenge": "Make a second round and try different amounts.",
+      "quiz": [
+        {
+          "q": "What makes a cocktail easy?",
+          "options": [
+            "Lots of ingredients",
+            "Only 2 or 3 ingredients and no hard steps",
+            "Expensive bottles",
+            "Fancy glasses"
+          ],
+          "answer": 1,
+          "explain": "Easy cocktails use few ingredients and simple steps."
+        },
+        {
+          "q": "What is in a screwdriver?",
+          "options": [
+            "Gin and tonic",
+            "Vodka and orange juice",
+            "Rum and coke",
+            "Whisky and soda"
+          ],
+          "answer": 1,
+          "explain": "A screwdriver is vodka and orange juice."
+        },
+        {
+          "q": "What is in a gin and tonic?",
+          "options": [
+            "Vodka and orange",
+            "Gin and tonic water with lime",
+            "Rum and coke",
+            "Whisky and cola"
+          ],
+          "answer": 1,
+          "explain": "A gin and tonic is gin, tonic water, and lime."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "The B52: A Layered Shot",
+      "goal": "Make a B52, a layered shot drink.",
+      "video": {
+        "youtube_id": "pMJCPFHWuxU",
+        "title": "How to Strain a Cocktail",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "A B52 has three layers: coffee liqueur, cream liqueur, and orange liqueur.",
+        "Pour the coffee liqueur first. It is the heaviest.",
+        "Pour the cream liqueur slowly over the back of a spoon.",
+        "Pour the orange liqueur the same way on top.",
+        "Serve at once. Do not stir it."
+      ],
+      "task": "Make a B52.",
+      "challenge": "Practise layering with juice and water first if you want to save money.",
+      "quiz": [
+        {
+          "q": "What is in a B52?",
+          "options": [
+            "Vodka and orange",
+            "Coffee liqueur, cream liqueur, and orange liqueur",
+            "Rum and coke",
+            "Gin and tonic"
+          ],
+          "answer": 1,
+          "explain": "A B52 is three liqueurs layered in a shot glass."
+        },
+        {
+          "q": "Why pour the heaviest drink first?",
+          "options": [
+            "It looks nice",
+            "Heavy drinks sink, so they form the bottom layer",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "The heaviest drink sinks to the bottom and the lighter ones float on top."
+        },
+        {
+          "q": "Why not stir a B52?",
+          "options": [
+            "It is rude",
+            "Stirring mixes the layers and ruins the look",
+            "It is too small",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A B52 is all about the layers. Stirring destroys them."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Bloody Mary: The Savoury Classic",
+      "goal": "Make a Bloody Mary.",
+      "video": {
+        "youtube_id": "QENCJN9Z6vY",
+        "title": "How to Layer a Cocktail",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "A Bloody Mary is vodka, tomato juice, and spices.",
+        "Add lemon juice, salt, pepper, and a drop of hot sauce.",
+        "Shake or roll the drink between two tins to mix it.",
+        "Pour over ice in a tall glass.",
+        "Add a celery stick or a lemon wedge on top."
+      ],
+      "task": "Make a Bloody Mary.",
+      "challenge": "Make a virgin Bloody Mary with no vodka and compare.",
+      "quiz": [
+        {
+          "q": "What is in a Bloody Mary?",
+          "options": [
+            "Orange juice and vodka",
+            "Vodka, tomato juice, and spices",
+            "Rum and coke",
+            "Gin and tonic"
+          ],
+          "answer": 1,
+          "explain": "A Bloody Mary is vodka, tomato juice, lemon, and spices."
+        },
+        {
+          "q": "What makes a Bloody Mary spicy?",
+          "options": [
+            "Sugar",
+            "Hot sauce and pepper",
+            "Salt",
+            "Lemon"
+          ],
+          "answer": 1,
+          "explain": "Hot sauce and pepper give a Bloody Mary its kick."
+        },
+        {
+          "q": "What is a virgin Bloody Mary?",
+          "options": [
+            "A Bloody Mary with more vodka",
+            "A Bloody Mary with no alcohol",
+            "A hot Bloody Mary",
+            "A Bloody Mary with no tomato"
+          ],
+          "answer": 1,
+          "explain": "Virgin means no alcohol. It uses tomato juice and spices only."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Vodka Cocktails: Five Easy Ones",
+      "goal": "Make five easy vodka cocktails.",
+      "video": {
+        "youtube_id": "31-e-IajGy8",
+        "title": "Mixology Techniques: Mastering Shaking, Stirring, and Muddling",
+        "channel": "Gulp Glow"
+      },
+      "steps": [
+        "Blue Lagoon: vodka, blue curacao, lime, and soda.",
+        "Screwdriver: vodka and orange juice.",
+        "Vodka Sunrise: vodka, orange juice, and grenadine.",
+        "Madras: vodka, cranberry juice, and orange juice.",
+        "Make each one in a glass with ice and a lemon slice."
+      ],
+      "task": "Make three vodka cocktails.",
+      "challenge": "Make the other two the next day and pick a favourite.",
+      "quiz": [
+        {
+          "q": "What is in a Blue Lagoon?",
+          "options": [
+            "Vodka and orange",
+            "Vodka, blue curacao, lime, and soda",
+            "Rum and coke",
+            "Gin and tonic"
+          ],
+          "answer": 1,
+          "explain": "A Blue Lagoon is vodka, blue curacao, lime mix, and soda."
+        },
+        {
+          "q": "What gives a Vodka Sunrise its colour?",
+          "options": [
+            "Blue curacao",
+            "Grenadine sinking to the bottom",
+            "Orange juice",
+            "Lime"
+          ],
+          "answer": 1,
+          "explain": "Grenadine sinks and makes the sunrise look at the bottom."
+        },
+        {
+          "q": "What is in a Madras?",
+          "options": [
+            "Vodka and orange only",
+            "Vodka, cranberry juice, and orange juice",
+            "Rum and coke",
+            "Gin and tonic"
+          ],
+          "answer": 1,
+          "explain": "A Madras is vodka with cranberry and orange juice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Mocktails: Drinks Without Alcohol",
+      "goal": "Make five mocktails for everyone.",
+      "video": {
+        "youtube_id": "IRkM8jsG-hY",
+        "title": "Easy Cocktails for Beginners: Simple Recipes to Get You Started",
+        "channel": "Easy Cocktails"
+      },
+      "steps": [
+        "A mocktail is a cocktail with no alcohol.",
+        "Use juice, soda, and fresh fruit instead of alcohol.",
+        "Spiced Lime Refresher: lime, soda, and a little spice.",
+        "Fruit mocktail: orange juice, cranberry juice, and soda.",
+        "Serve in the same nice glasses as cocktails."
+      ],
+      "task": "Make three mocktails.",
+      "challenge": "Serve a mocktail to someone who does not drink alcohol.",
+      "quiz": [
+        {
+          "q": "What is a mocktail?",
+          "options": [
+            "A cocktail with more alcohol",
+            "A cocktail with no alcohol",
+            "A hot cocktail",
+            "A cocktail with no juice"
+          ],
+          "answer": 1,
+          "explain": "A mocktail has no alcohol. It uses juice, soda, and fruit."
+        },
+        {
+          "q": "What do you use instead of alcohol?",
+          "options": [
+            "Water only",
+            "Juice, soda, and fresh fruit",
+            "Milk",
+            "Tea only"
+          ],
+          "answer": 1,
+          "explain": "Juice, soda, and fresh fruit replace alcohol in a mocktail."
+        },
+        {
+          "q": "Why serve mocktails in nice glasses?",
+          "options": [
+            "It is expensive",
+            "So everyone feels included at a party",
+            "It is a rule",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "Nice glasses make mocktails feel special, not second best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Garnishes: The Finishing Touch",
+      "goal": "Garnish drinks so they look professional.",
+      "video": {
+        "youtube_id": "8kU7d-kk8-g",
+        "title": "5 Mocktail Recipes",
+        "channel": "Pick Up Limes"
+      },
+      "steps": [
+        "A garnish is a decoration on a drink.",
+        "Use a lemon or lime wedge, a mint leaf, or a fruit slice.",
+        "Cut a lemon twist: a thin strip of peel twisted over the drink.",
+        "Put the garnish on the edge of the glass or floating on top.",
+        "Keep it simple. One garnish is enough."
+      ],
+      "task": "Garnish three drinks with different garnishes.",
+      "challenge": "Make a lemon twist and use it on a drink.",
+      "quiz": [
+        {
+          "q": "What is a garnish?",
+          "options": [
+            "A type of ice",
+            "A decoration on a drink",
+            "A type of glass",
+            "A flavour"
+          ],
+          "answer": 1,
+          "explain": "A garnish is a decoration, like a lemon wedge or a mint leaf."
+        },
+        {
+          "q": "What is a lemon twist?",
+          "options": [
+            "Lemon juice",
+            "A thin strip of lemon peel twisted over a drink",
+            "A lemon slice",
+            "Lemon sugar"
+          ],
+          "answer": 1,
+          "explain": "A lemon twist is a thin strip of peel that adds scent and looks smart."
+        },
+        {
+          "q": "How many garnishes should a drink have?",
+          "options": [
+            "Five",
+            "One is enough",
+            "None",
+            "Ten"
+          ],
+          "answer": 1,
+          "explain": "One neat garnish looks professional. Too many look messy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A Cocktail Menu",
+      "goal": "Make a cocktail menu with five drinks.",
+      "video": {
+        "youtube_id": "DSrEx-DdLH4",
+        "title": "A Refreshing Mocktail With Almost No Calories!",
+        "channel": "City Steading"
+      },
+      "steps": [
+        "Pick five drinks: a mojito, an easy cocktail, a layered drink, a mocktail, and a vodka cocktail.",
+        "Write the recipes with exact amounts.",
+        "Make all five and serve them in the right glasses.",
+        "Garnish each one neatly.",
+        "Ask tasters to pick a favourite and set a price for each drink."
+      ],
+      "task": "Make a five-drink cocktail menu.",
+      "challenge": "Price each drink as if you were selling it.",
+      "quiz": [
+        {
+          "q": "Why make five drinks?",
+          "options": [
+            "It is faster",
+            "A menu with five choices shows your range",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Five drinks show you can run a real drinks menu."
+        },
+        {
+          "q": "Why garnish each drink?",
+          "options": [
+            "It is faster",
+            "A garnish makes the drink look professional",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A neat garnish shows care and makes the drink look worth buying."
+        },
+        {
+          "q": "Why price each drink?",
+          "options": [
+            "To show off",
+            "So you know what to charge and what you earn",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Pricing tells you the profit on each drink."
+        }
+      ],
+      "project": {
+        "title": "Make a Five-Drink Cocktail Menu",
+        "brief": "Make five drinks, garnished and served in the right glasses.",
+        "checks": [
+          "Five different drinks made",
+          "Recipes written with exact amounts",
+          "Each drink in the right glass",
+          "Each drink garnished neatly",
+          "Each drink priced",
+          "Feedback collected from tasters"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Glassware: The Right Glass",
+      "goal": "Learn which glass goes with which drink.",
+      "video": {
+        "youtube_id": "A791abv-CGU",
+        "title": "Make a Mojito Cocktail",
+        "channel": "Lacademie"
+      },
+      "steps": [
+        "A tall glass is for long drinks like a mojito.",
+        "A short glass is for strong drinks on ice.",
+        "A wine glass is for drinks served without ice.",
+        "A shot glass is for small layered drinks.",
+        "Chill glasses in the fridge before serving."
+      ],
+      "task": "Serve three drinks in the right glasses.",
+      "challenge": "Chill glasses in the fridge and note the difference.",
+      "quiz": [
+        {
+          "q": "What glass is a mojito served in?",
+          "options": [
+            "A shot glass",
+            "A tall glass",
+            "A wine glass",
+            "A short glass"
+          ],
+          "answer": 1,
+          "explain": "A mojito is a long drink, so it goes in a tall glass."
+        },
+        {
+          "q": "What glass is a B52 served in?",
+          "options": [
+            "A tall glass",
+            "A shot glass",
+            "A wine glass",
+            "A short glass"
+          ],
+          "answer": 1,
+          "explain": "A B52 is a small layered drink, so it goes in a shot glass."
+        },
+        {
+          "q": "Why chill glasses?",
+          "options": [
+            "It looks nice",
+            "A cold glass keeps the drink cold longer",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A chilled glass keeps the drink cold and fresh."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Ice: The Secret Ingredient",
+      "goal": "Use ice well in cocktails.",
+      "video": {
+        "youtube_id": "jGf0lfcZSvY",
+        "title": "Make a B52 - Cocktail Recipe",
+        "channel": "Lacademie"
+      },
+      "steps": [
+        "Ice chills a drink and adds a little water as it melts.",
+        "Use fresh, clear ice. Old ice from the freezer can taste bad.",
+        "Big ice cubes melt slower than small ones.",
+        "Crushed ice is best for drinks like a mojito.",
+        "Fill the glass with ice before you pour."
+      ],
+      "task": "Make drinks with big ice cubes and with crushed ice.",
+      "challenge": "Compare how fast each one melts.",
+      "quiz": [
+        {
+          "q": "What does ice do in a drink?",
+          "options": [
+            "Adds flavour",
+            "Chills the drink and adds a little water",
+            "Makes it sweet",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Ice chills the drink and adds a little water as it melts."
+        },
+        {
+          "q": "Why use big ice cubes?",
+          "options": [
+            "They look nice",
+            "They melt slower, so the drink stays strong",
+            "They are cheaper",
+            "They are easier to make"
+          ],
+          "answer": 1,
+          "explain": "Big cubes melt slowly, so the drink does not get watery fast."
+        },
+        {
+          "q": "Why fill the glass with ice before pouring?",
+          "options": [
+            "It looks nice",
+            "So the drink chills at once",
+            "It saves ice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A full glass of ice chills the drink the moment you pour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Simple Syrup: The Sweetener",
+      "goal": "Make simple syrup for cocktails.",
+      "video": {
+        "youtube_id": "zWJt7jb9Mro",
+        "title": "Trying Bloody Mary",
+        "channel": "Lacademie"
+      },
+      "steps": [
+        "Simple syrup is sugar dissolved in water.",
+        "Mix equal parts sugar and water in a pot.",
+        "Heat gently and stir until the sugar disappears.",
+        "Cool it and store it in a sealed bottle in the fridge.",
+        "Use a small amount in drinks. It mixes better than dry sugar."
+      ],
+      "task": "Make a bottle of simple syrup.",
+      "challenge": "Use it in a drink and compare with dry sugar.",
+      "quiz": [
+        {
+          "q": "What is simple syrup?",
+          "options": [
+            "Sugar water",
+            "Sugar dissolved in water",
+            "Honey",
+            "Juice"
+          ],
+          "answer": 1,
+          "explain": "Simple syrup is equal parts sugar and water, heated until the sugar melts."
+        },
+        {
+          "q": "Why use syrup instead of dry sugar?",
+          "options": [
+            "It is cheaper",
+            "Syrup mixes into cold drinks. Dry sugar does not",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Dry sugar does not melt in cold drinks. Syrup mixes in easily."
+        },
+        {
+          "q": "How long does simple syrup keep?",
+          "options": [
+            "1 day",
+            "About 2 weeks in the fridge",
+            "1 year",
+            "1 hour"
+          ],
+          "answer": 1,
+          "explain": "In a sealed bottle in the fridge, it keeps about 2 weeks."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Signature Drinks: Make Your Own",
+      "goal": "Create your own signature cocktail and mocktail.",
+      "video": {
+        "youtube_id": "tm_Eo7yzllQ",
+        "title": "How to Shake a Cocktail Like a Pro",
+        "channel": "Absolut Vodka"
+      },
+      "steps": [
+        "Pick a base: a spirit for a cocktail, juice for a mocktail.",
+        "Add a fruit flavour you love.",
+        "Add something sour like lime, and something sweet like syrup.",
+        "Taste it and adjust. Write the recipe down.",
+        "Give it a name."
+      ],
+      "task": "Create your own cocktail and mocktail.",
+      "challenge": "Serve them to a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What makes a signature drink?",
+          "options": [
+            "It is expensive",
+            "A drink you created yourself",
+            "A drink with a fancy name",
+            "A drink only you drink"
+          ],
+          "answer": 1,
+          "explain": "A signature drink is one you created and can make well."
+        },
+        {
+          "q": "What three tastes should a drink balance?",
+          "options": [
+            "Sweet, sour, and strong",
+            "Sweet, sour, and the base flavour",
+            "Hot, cold, and sweet",
+            "Bitter, salty, and sweet"
+          ],
+          "answer": 1,
+          "explain": "A good drink balances sweet, sour, and its main flavour."
+        },
+        {
+          "q": "Why name your drink?",
+          "options": [
+            "To show off",
+            "A name makes it easy to sell and remember",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A named drink is a product you can sell."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Costing Drinks: Price Your Menu",
+      "goal": "Work out what each drink costs and what to charge.",
+      "video": {
+        "youtube_id": "d0OYR5t8xZY",
+        "title": "How to Shake Cocktails",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "List every ingredient with its price.",
+        "Add the cost of the glass, garnish, and ice.",
+        "Divide the total by the number of drinks you made.",
+        "Charge 3 to 4 times the cost for a profit.",
+        "Compare with bars near you."
+      ],
+      "task": "Cost a mojito and set its selling price.",
+      "challenge": "Cost a mocktail the same way.",
+      "quiz": [
+        {
+          "q": "What is the cost per drink?",
+          "options": [
+            "The selling price",
+            "Total cost divided by the number of drinks",
+            "The alcohol cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Cost per drink is the total cost shared across all the drinks you made."
+        },
+        {
+          "q": "Why charge 3 to 4 times the cost?",
+          "options": [
+            "To be expensive",
+            "To cover rent, power, and your time, and still make a profit",
+            "It is a law",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "Bars have rent and power costs, so drinks are priced higher than home costs."
+        },
+        {
+          "q": "What else must you add to the cost?",
+          "options": [
+            "Nothing",
+            "Glass, garnish, and ice",
+            "Only your time",
+            "Only transport"
+          ],
+          "answer": 1,
+          "explain": "Glasses, garnishes, and ice are real costs of every drink."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Drink Mistakes and Fixes",
+      "goal": "Fix the commonest cocktail problems.",
+      "video": {
+        "youtube_id": "VRhQKnvli14",
+        "title": "The Basic Cocktail Techniques 101: Shake, Stir, and Sip Like a Pro",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "Drink is too strong? Add more mixer, like soda or juice.",
+        "Drink is too sweet? Add more lime juice.",
+        "Drink is too sour? Add a little simple syrup.",
+        "Drink is cloudy when it should be clear? You shook it. Stir it next time.",
+        "Write down each problem and fix."
+      ],
+      "task": "Fix one drink problem you have had.",
+      "challenge": "Make a drink, taste it, and adjust it three ways.",
+      "quiz": [
+        {
+          "q": "What do you do if a drink is too strong?",
+          "options": [
+            "Add more alcohol",
+            "Add more mixer like soda or juice",
+            "Add ice",
+            "Throw it away"
+          ],
+          "answer": 1,
+          "explain": "More mixer softens a strong drink."
+        },
+        {
+          "q": "What do you do if a drink is too sweet?",
+          "options": [
+            "Add more sugar",
+            "Add more lime juice",
+            "Add more alcohol",
+            "Add water"
+          ],
+          "answer": 1,
+          "explain": "Lime juice balances sweetness."
+        },
+        {
+          "q": "Why is a stirred drink cloudy?",
+          "options": [
+            "Too much ice",
+            "You shook it instead of stirring",
+            "Too much sugar",
+            "The glass is dirty"
+          ],
+          "answer": 1,
+          "explain": "Shaking adds tiny air bubbles that make a drink cloudy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Drinks Night",
+      "goal": "Run a drinks night for friends or family.",
+      "video": {
+        "youtube_id": "ZJ4JjS10FC8",
+        "title": "How to Stir a Cocktail",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "Pick the menu: three cocktails and two mocktails.",
+        "Write the recipes, costs, and prices.",
+        "Set up your bar station the night before.",
+        "Make each drink to order and serve it in the right glass.",
+        "Ask guests to vote for their favourite."
+      ],
+      "task": "Run a drinks night for at least 4 people.",
+      "challenge": "Cost the night and work out your profit if you sold the drinks.",
+      "quiz": [
+        {
+          "q": "Why set up the night before?",
+          "options": [
+            "It is faster",
+            "So the night runs smoothly",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Setting up early means no rushing when guests arrive."
+        },
+        {
+          "q": "Why make drinks to order?",
+          "options": [
+            "It is faster",
+            "Drinks taste best fresh",
+            "It saves ice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Drinks made to order are cold and fresh."
+        },
+        {
+          "q": "Why include mocktails?",
+          "options": [
+            "To save money",
+            "So everyone has something to drink",
+            "It is a rule",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Mocktails mean guests who do not drink alcohol still enjoy the night."
+        }
+      ],
+      "project": {
+        "title": "Run a Drinks Night",
+        "brief": "Serve three cocktails and two mocktails to at least 4 people.",
+        "checks": [
+          "Five different drinks made to order",
+          "Each drink in the right glass",
+          "Each drink garnished neatly",
+          "Mocktails included for non-drinkers",
+          "Guests voted for a favourite",
+          "Costs and profit worked out"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Responsible Serving",
+      "goal": "Serve alcohol safely and responsibly.",
+      "video": {
+        "youtube_id": "8js9SHhi3c0",
+        "title": "How to Muddle a Cocktail",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "Never serve alcohol to anyone under the legal drinking age.",
+        "Do not serve someone who has had too much to drink.",
+        "Always offer water and food with alcohol.",
+        "Always offer mocktails and soft drinks too.",
+        "Know the law in your area and follow it."
+      ],
+      "task": "Write a short list of responsible serving rules for your bar.",
+      "challenge": "Practise offering water and food with a drink.",
+      "quiz": [
+        {
+          "q": "Who should you never serve alcohol to?",
+          "options": [
+            "Children and anyone under the legal age",
+            "Only strangers",
+            "Only friends",
+            "Anyone"
+          ],
+          "answer": 0,
+          "explain": "Never serve alcohol to anyone under the legal drinking age."
+        },
+        {
+          "q": "Why offer water with alcohol?",
+          "options": [
+            "It is polite",
+            "Water helps guests stay safe and hydrated",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Water helps guests drink safely."
+        },
+        {
+          "q": "Why offer mocktails?",
+          "options": [
+            "To save money",
+            "So everyone has a good drink, even if they do not drink alcohol",
+            "It is a rule",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Mocktails include everyone at the party."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Bar Setup: Your Home Bar",
+      "goal": "Set up a small home bar.",
+      "video": {
+        "youtube_id": "pMJCPFHWuxU",
+        "title": "How to Strain a Cocktail",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "Pick a clean, flat surface for your bar.",
+        "Keep your tools, glasses, and ingredients in one place.",
+        "Keep ice in a cooler or a bowl with a lid.",
+        "Keep a cloth nearby for spills.",
+        "Write a small menu and put it where guests can see it."
+      ],
+      "task": "Set up your home bar station.",
+      "challenge": "Make a drink at your bar and time how long it takes.",
+      "quiz": [
+        {
+          "q": "What do you need for a home bar?",
+          "options": [
+            "Lots of money",
+            "Tools, glasses, ingredients, and ice in one place",
+            "A big room",
+            "A licence only"
+          ],
+          "answer": 1,
+          "explain": "A home bar needs your tools, glasses, ingredients, and ice together."
+        },
+        {
+          "q": "Why keep a cloth nearby?",
+          "options": [
+            "It looks nice",
+            "To wipe spills fast",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Spills happen. A cloth nearby keeps the bar clean."
+        },
+        {
+          "q": "Why write a menu?",
+          "options": [
+            "To show off",
+            "So guests know what they can order",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A menu tells guests what drinks you can make."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Your Signature Cocktail",
+      "goal": "Choose and perfect one cocktail you can make brilliantly.",
+      "video": {
+        "youtube_id": "QENCJN9Z6vY",
+        "title": "How to Layer a Cocktail",
+        "channel": "Just Bright Ideas"
+      },
+      "steps": [
+        "Pick the cocktail your household loves most from this course.",
+        "Write the recipe in your own words with exact amounts.",
+        "Make it again, timing every step and noting problems.",
+        "Fix the problems and make it once more.",
+        "Get someone new to taste it and give honest feedback."
+      ],
+      "task": "Make your signature cocktail and write the final recipe down.",
+      "challenge": "Make it for someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature cocktail?",
+          "options": [
+            "An expensive drink",
+            "A cocktail you can make brilliantly every time",
+            "A cocktail with a fancy name",
+            "A cocktail only you drink"
+          ],
+          "answer": 1,
+          "explain": "A signature cocktail is one you have mastered."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you truly understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself proves you understand each step."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste money"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Drinks Business: First Steps",
+      "goal": "Take your first steps toward selling drinks.",
+      "video": {
+        "youtube_id": "31-e-IajGy8",
+        "title": "Mixology Techniques: Mastering Shaking, Stirring, and Muddling",
+        "channel": "Gulp Glow"
+      },
+      "steps": [
+        "Pick 3 or 4 drinks to sell. Keep the menu small.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your drinks in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you buy only what you need."
+      ],
+      "task": "Take photos of your best drinks and show them to three people.",
+      "challenge": "Take one real order, even a small one, and serve it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 3 or 4 drinks?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to make well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you buy only what you need and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell drinks."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your drinks business.",
+      "video": {
+        "youtube_id": "IRkM8jsG-hY",
+        "title": "Easy Cocktails for Beginners: Simple Recipes to Get You Started",
+        "channel": "Easy Cocktails"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which drinks sell best and which do not.",
+        "Keep your money for drinks separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one drinks night.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to make",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for ingredients, glasses, and ice."
+        },
+        {
+          "q": "Why keep drinks money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if the business is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Event Drinks: Weddings and Parties",
+      "goal": "Plan drinks for a wedding or party.",
+      "video": {
+        "youtube_id": "8kU7d-kk8-g",
+        "title": "5 Mocktail Recipes",
+        "channel": "Pick Up Limes"
+      },
+      "steps": [
+        "Ask how many guests and how long the party lasts.",
+        "Plan 2 drinks per guest for the first hour, then 1 per hour.",
+        "Make a big batch of one signature drink in advance.",
+        "Keep mocktails ready for guests who do not drink alcohol.",
+        "Keep ice cold and glasses clean all night."
+      ],
+      "task": "Plan drinks for a party of 20 on paper.",
+      "challenge": "Make a big batch of a mocktail for a group.",
+      "quiz": [
+        {
+          "q": "How many drinks should you plan per guest?",
+          "options": [
+            "1 all night",
+            "2 in the first hour, then 1 per hour",
+            "5 per hour",
+            "10 all night"
+          ],
+          "answer": 1,
+          "explain": "Two drinks in the first hour, then one per hour, is a good guide."
+        },
+        {
+          "q": "Why make a big batch in advance?",
+          "options": [
+            "It is cheaper",
+            "It saves time during the party",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A big batch made early means you serve fast all night."
+        },
+        {
+          "q": "Why keep mocktails ready?",
+          "options": [
+            "To save money",
+            "So non-drinkers always have a good drink",
+            "It is a rule",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Mocktails include everyone at the party."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Drink Trends: What Customers Want",
+      "goal": "Try new drink ideas and see what customers like.",
+      "video": {
+        "youtube_id": "DSrEx-DdLH4",
+        "title": "A Refreshing Mocktail With Almost No Calories!",
+        "channel": "City Steading"
+      },
+      "steps": [
+        "Try a new fruit combination each week.",
+        "Ask customers what flavours they want.",
+        "Try a new garnish or a new glass.",
+        "Watch what other bars serve and learn from them.",
+        "Keep what works. Drop what does not sell."
+      ],
+      "task": "Try a new drink combination today.",
+      "challenge": "Ask three people what drink flavour they would like to try.",
+      "quiz": [
+        {
+          "q": "Why try new combinations?",
+          "options": [
+            "To show off",
+            "New flavours keep customers coming back",
+            "It is required",
+            "To waste money"
+          ],
+          "answer": 1,
+          "explain": "New flavours give customers a reason to return."
+        },
+        {
+          "q": "Why ask customers what they want?",
+          "options": [
+            "To be polite",
+            "Customers buy what they asked for",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Asking customers tells you what will sell."
+        },
+        {
+          "q": "Why drop drinks that do not sell?",
+          "options": [
+            "To save money",
+            "So you do not waste money on ingredients nobody wants",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "A drink that does not sell wastes ingredients and money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Bartender's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "A791abv-CGU",
+        "title": "Make a Mojito Cocktail",
+        "channel": "Lacademie"
+      },
+      "steps": [
+        "Shake a cocktail from memory, without help.",
+        "Stir a drink and explain when to stir, not shake.",
+        "Muddle mint gently and explain why.",
+        "Name the tools: shaker, jigger, strainer, and muddler.",
+        "List your three strongest drinks and one to improve."
+      ],
+      "task": "Make a full drinks menu from memory, no recipe.",
+      "challenge": "Teach one drink skill from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "When do you stir, not shake?",
+          "options": [
+            "Always",
+            "For clear drinks, so they stay clear",
+            "For fruity drinks",
+            "For milky drinks"
+          ],
+          "answer": 1,
+          "explain": "Clear drinks are stirred so they stay smooth and clear."
+        },
+        {
+          "q": "Why make drinks from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Making drinks without a recipe shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Drinks Night",
+      "goal": "Plan your capstone drinks night and gather everything you need.",
+      "video": {
+        "youtube_id": "jGf0lfcZSvY",
+        "title": "Make a B52 - Cocktail Recipe",
+        "channel": "Lacademie"
+      },
+      "steps": [
+        "Choose your capstone menu: three cocktails and two mocktails.",
+        "Write the full shopping list with costs.",
+        "Write the making order, starting with what takes longest.",
+        "Check you have every tool, glass, and ingredient.",
+        "Do a trial run of the hardest drink if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone drink today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only expensive drinks",
+            "Everything you learned: shaking, stirring, muddling, and costing",
+            "Only one drink",
+            "Only cocktails"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why start with what takes longest?",
+          "options": [
+            "It is harder",
+            "So everything finishes at the same time",
+            "It tastes better",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Long tasks start first so all drinks are ready together."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste money",
+            "To find problems before the real night",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Drinks Night: Cocktails and Mocktails for Everyone",
+    "brief": "Run a drinks night for your household or customers: serve three cocktails and two mocktails, each in the right glass, garnished neatly, and made to order. Cost every drink, serve responsibly, and collect feedback.",
+    "checks": [
+      "Menu planned with recipes, costs, and prices",
+      "Three cocktails made well: shaken, stirred, and layered",
+      "Two mocktails made for non-drinkers",
+      "Each drink in the right glass, garnished neatly",
+      "Drinks served cold and on time",
+      "Costs worked out and profit known",
+      "Feedback collected from at least one person who drank them"
+    ],
+    "deliverables": [
+      "A photo of your drinks menu and drinks",
+      "Your written menu with recipes, costs, and prices",
+      "Your making order, starting with what takes longest",
+      "Your signature cocktail recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

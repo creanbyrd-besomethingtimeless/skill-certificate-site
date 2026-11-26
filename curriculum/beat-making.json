@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "beat-making",
+    "title": "Beat Making",
+    "level": "Beginner",
+    "tagline": "Make Afrobeats, hip-hop and trap beats from scratch and finish one every week.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet your beat app",
+      "goal": "Open a beat-making app and know the main parts.",
+      "video": {
+        "youtube_id": "5JwbgzYg2H4",
+        "title": "How to Make Soulful Afrobeats For Burna Boy from Scratch | Beginners Tutorial FL Studio",
+        "channel": "Seventh Beats"
+      },
+      "steps": [
+        "Download a free app like BandLab or FL Studio trial.",
+        "Open it and start a new project.",
+        "Find the step sequencer. It is the grid where you place drum sounds.",
+        "Find the list of drum sounds."
+      ],
+      "task": "Open a beat app and find the step sequencer.",
+      "challenge": "Open your beat app and start a new project in under one minute.",
+      "quiz": [
+        {
+          "q": "What is a step sequencer?",
+          "options": [
+            "A grid where you place drum sounds on beats",
+            "A type of speaker",
+            "A kind of microphone",
+            "A music streaming app"
+          ],
+          "answer": 0,
+          "explain": "A step sequencer is a grid. You tap squares to place kicks, snares and hi-hats on the beat."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet your beat app\"?",
+          "options": [
+            "Finish a beat with drums only.",
+            "Make a beat without loops.",
+            "Balance the volume of each sound.",
+            "Open a beat-making app and know the main parts."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Open a beat-making app and know the main parts."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find the step sequencer. It is the grid where you place drum sounds.",
+            "Find the list of drum sounds.",
+            "Download a free app like BandLab or FL Studio trial.",
+            "Open it and start a new project."
+          ],
+          "answer": 2,
+          "explain": "Start with: Download a free app like BandLab or FL Studio trial."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Make your first drum pattern",
+      "goal": "Make a simple drum beat.",
+      "video": {
+        "youtube_id": "RBSzi5INOX0",
+        "title": "Joe Dwet File 4 Kampe | Remake Beat Tutorial (Fl Studio) + FLP",
+        "channel": "FridBeats"
+      },
+      "steps": [
+        "Open the step sequencer.",
+        "Place four kicks, one on each beat.",
+        "Add a clap on beats 2 and 4.",
+        "Press play and listen to your beat."
+      ],
+      "task": "Make a simple drum beat with kicks and claps.",
+      "challenge": "Make a beat with only kicks, then add claps.",
+      "quiz": [
+        {
+          "q": "What is BPM?",
+          "options": [
+            "Beats per minute, the speed of a beat",
+            "A type of drum",
+            "A file format",
+            "A kind of speaker"
+          ],
+          "answer": 0,
+          "explain": "BPM means beats per minute. A higher BPM means a faster beat."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make your first drum pattern\"?",
+          "options": [
+            "Finish a full beat.",
+            "Add reverb or delay to your beat.",
+            "Make a simple drum beat.",
+            "Add a low bass sound to your beat."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a simple drum beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Press play and listen to your beat.",
+            "Open the step sequencer.",
+            "Place four kicks, one on each beat.",
+            "Add a clap on beats 2 and 4."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open the step sequencer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Add hi-hats",
+      "goal": "Add hi-hats to your beat.",
+      "video": {
+        "youtube_id": "fxMbp42wt_k",
+        "title": "How To Make A Beat Like Masterkraft From Scratch | Fl Studio Tutorial",
+        "channel": "Producer Mykah"
+      },
+      "steps": [
+        "Add a hi-hat sound to your pattern.",
+        "Place hi-hats on every beat.",
+        "Try placing them twice as fast.",
+        "Pick the speed that sounds best."
+      ],
+      "task": "Add hi-hats to your beat.",
+      "challenge": "Try hi-hats at normal speed and double speed.",
+      "quiz": [
+        {
+          "q": "What is a step sequencer?",
+          "options": [
+            "A grid where you place drum sounds on beats",
+            "A type of speaker",
+            "A kind of microphone",
+            "A music streaming app"
+          ],
+          "answer": 0,
+          "explain": "A step sequencer is a grid. You tap squares to place kicks, snares and hi-hats on the beat."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add hi-hats\"?",
+          "options": [
+            "Make three beats in one style.",
+            "Add hi-hats to your beat.",
+            "Add a simple melody to your beat.",
+            "Make a full beat in the Afrobeats style."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Add hi-hats to your beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a hi-hat sound to your pattern.",
+            "Place hi-hats on every beat.",
+            "Try placing them twice as fast.",
+            "Pick the speed that sounds best."
+          ],
+          "answer": 0,
+          "explain": "Start with: Add a hi-hat sound to your pattern."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Add a snare",
+      "goal": "Add a snare to your beat.",
+      "video": {
+        "youtube_id": "Cp77a0n3eMw",
+        "title": "Making MELODIES From Scratch | Fl Studio Tutorial | Mziki Pod 018",
+        "channel": "Mziki Masters"
+      },
+      "steps": [
+        "Add a snare sound.",
+        "Place it on beats 2 and 4.",
+        "Press play and listen.",
+        "The snare should hit with the clap."
+      ],
+      "task": "Add a snare on beats 2 and 4.",
+      "challenge": "Try a snare and a clap together.",
+      "quiz": [
+        {
+          "q": "What is BPM?",
+          "options": [
+            "Beats per minute, the speed of a beat",
+            "A type of drum",
+            "A file format",
+            "A kind of speaker"
+          ],
+          "answer": 0,
+          "explain": "BPM means beats per minute. A higher BPM means a faster beat."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a snare\"?",
+          "options": [
+            "Add a snare to your beat.",
+            "Change the speed of your beat.",
+            "Make a full beat in the hip-hop style.",
+            "Make a beat with space for a voice."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Add a snare to your beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Place it on beats 2 and 4.",
+            "Press play and listen.",
+            "The snare should hit with the clap.",
+            "Add a snare sound."
+          ],
+          "answer": 3,
+          "explain": "Start with: Add a snare sound."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Make an Afrobeats drum pattern",
+      "goal": "Make a drum pattern in the Afrobeats style.",
+      "video": {
+        "youtube_id": "L9dBNd8aBTo",
+        "title": "10 Tips for Making Your First Trap Beat",
+        "channel": "Soundfly"
+      },
+      "steps": [
+        "Set the tempo to about 100 BPM.",
+        "Add a kick pattern with space between kicks.",
+        "Add a shaker sound.",
+        "Add a snare and press play."
+      ],
+      "task": "Make an Afrobeats drum pattern.",
+      "challenge": "Make an Afrobeats pattern and a hip-hop pattern, then compare.",
+      "quiz": [
+        {
+          "q": "What is a step sequencer?",
+          "options": [
+            "A grid where you place drum sounds on beats",
+            "A type of speaker",
+            "A kind of microphone",
+            "A music streaming app"
+          ],
+          "answer": 0,
+          "explain": "A step sequencer is a grid. You tap squares to place kicks, snares and hi-hats on the beat."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make an Afrobeats drum pattern\"?",
+          "options": [
+            "Build a beat from loops.",
+            "Make a full beat in the trap style.",
+            "Fix a beat that sounds crowded.",
+            "Make a drum pattern in the Afrobeats style."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a drum pattern in the Afrobeats style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a shaker sound.",
+            "Add a snare and press play.",
+            "Set the tempo to about 100 BPM.",
+            "Add a kick pattern with space between kicks."
+          ],
+          "answer": 2,
+          "explain": "Start with: Set the tempo to about 100 BPM."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Make a hip-hop drum pattern",
+      "goal": "Make a drum pattern in the hip-hop style.",
+      "video": {
+        "youtube_id": "8ovcvYIXLec",
+        "title": "How to Make a Trap Beat Step-by-Step",
+        "channel": "SoundJuice"
+      },
+      "steps": [
+        "Set the tempo to about 90 BPM.",
+        "Add a boom-bap kick pattern.",
+        "Add a snare on beats 2 and 4.",
+        "Add hi-hats and press play."
+      ],
+      "task": "Make a hip-hop drum pattern.",
+      "challenge": "Make a hip-hop pattern with a swing feel.",
+      "quiz": [
+        {
+          "q": "What is BPM?",
+          "options": [
+            "Beats per minute, the speed of a beat",
+            "A type of drum",
+            "A file format",
+            "A kind of speaker"
+          ],
+          "answer": 0,
+          "explain": "BPM means beats per minute. A higher BPM means a faster beat."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a hip-hop drum pattern\"?",
+          "options": [
+            "Add a recorded sound to your beat.",
+            "Find the style you love to make.",
+            "Make a drum pattern in the hip-hop style.",
+            "Arrange a beat into sections."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a drum pattern in the hip-hop style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add hi-hats and press play.",
+            "Set the tempo to about 90 BPM.",
+            "Add a boom-bap kick pattern.",
+            "Add a snare on beats 2 and 4."
+          ],
+          "answer": 1,
+          "explain": "Start with: Set the tempo to about 90 BPM."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Make a trap drum pattern",
+      "goal": "Make a drum pattern in the trap style.",
+      "video": {
+        "youtube_id": "o9YTH50ijcA",
+        "title": "How to Make Hip Hop Beats",
+        "channel": "Indie Producer"
+      },
+      "steps": [
+        "Set the tempo to about 140 BPM.",
+        "Add a kick pattern with fast rolls.",
+        "Add a snare on beat 3.",
+        "Add fast hi-hats and press play."
+      ],
+      "task": "Make a trap drum pattern.",
+      "challenge": "Make a trap pattern with a hi-hat roll.",
+      "quiz": [
+        {
+          "q": "What is a step sequencer?",
+          "options": [
+            "A grid where you place drum sounds on beats",
+            "A type of speaker",
+            "A kind of microphone",
+            "A music streaming app"
+          ],
+          "answer": 0,
+          "explain": "A step sequencer is a grid. You tap squares to place kicks, snares and hi-hats on the beat."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a trap drum pattern\"?",
+          "options": [
+            "Make one beat a day for three days.",
+            "Make a drum pattern in the trap style.",
+            "Make a beat without loops.",
+            "Balance the volume of each sound."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a drum pattern in the trap style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Set the tempo to about 140 BPM.",
+            "Add a kick pattern with fast rolls.",
+            "Add a snare on beat 3.",
+            "Add fast hi-hats and press play."
+          ],
+          "answer": 0,
+          "explain": "Start with: Set the tempo to about 140 BPM."
+        }
+      ],
+      "project": {
+        "title": "Finish Your First Beat",
+        "brief": "Finish a beat with drums only.",
+        "checks": [
+          "Beat has kicks",
+          "Beat has a snare or clap",
+          "Beat has hi-hats",
+          "Beat has an intro",
+          "Exported as an MP3",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Finish your first beat",
+      "goal": "Finish a beat with drums only.",
+      "video": {
+        "youtube_id": "EG2HcThOE8Y",
+        "title": "Haryanvi Hip-Hop Beat Kaise Banti Hai? FL Studio Live + Rap | EP01 Yeah This Beat",
+        "channel": "MusiX Lab Studios"
+      },
+      "steps": [
+        "Pick your best drum pattern.",
+        "Add a simple intro with just hi-hats.",
+        "Add the full drums for the rest.",
+        "Export the beat as an MP3."
+      ],
+      "task": "Finish a drum-only beat and export it.",
+      "challenge": "Play your beat for a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a snare in a beat?",
+          "options": [
+            "The sharp clap sound that usually hits on beats 2 and 4",
+            "A type of melody",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A snare is the sharp crack sound. In most beats it hits on beats 2 and 4."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Finish your first beat\"?",
+          "options": [
+            "Finish a beat with drums only.",
+            "Finish a full beat.",
+            "Add reverb or delay to your beat.",
+            "Pick your best beats."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Finish a beat with drums only."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a simple intro with just hi-hats.",
+            "Add the full drums for the rest.",
+            "Export the beat as an MP3.",
+            "Pick your best drum pattern."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick your best drum pattern."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Add a bass line",
+      "goal": "Add a low bass sound to your beat.",
+      "video": {
+        "youtube_id": "bSrR-6BCGy4",
+        "title": "Drum Programming - FL Studio 20 Basics",
+        "channel": "In The Mix"
+      },
+      "steps": [
+        "Add a bass instrument to your project.",
+        "Play three low notes that fit your drums.",
+        "Place the notes on the timeline.",
+        "Press play and listen to the bass with the drums."
+      ],
+      "task": "Add a three-note bass line to your beat.",
+      "challenge": "Try the bass line higher and lower, and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is a kick in a beat?",
+          "options": [
+            "The low drum sound that hits on the beat",
+            "A type of melody",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A kick is the deep thump in a beat. It usually lands on the main beats."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a bass line\"?",
+          "options": [
+            "Make a full beat in the Afrobeats style.",
+            "Make three beats in one style.",
+            "Make a full beat fast.",
+            "Add a low bass sound to your beat."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Add a low bass sound to your beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Place the notes on the timeline.",
+            "Press play and listen to the bass with the drums.",
+            "Add a bass instrument to your project.",
+            "Play three low notes that fit your drums."
+          ],
+          "answer": 2,
+          "explain": "Start with: Add a bass instrument to your project."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Add a melody",
+      "goal": "Add a simple melody to your beat.",
+      "video": {
+        "youtube_id": "C9WROElmQEo",
+        "title": "How to make HARD PHONK BEAT with COWBELLS | Reaper Beat Making",
+        "channel": "Wodzu Beats"
+      },
+      "steps": [
+        "Add a piano or synth instrument.",
+        "Play five notes that sound good together.",
+        "Place the notes on the timeline.",
+        "Press play and listen to the full beat."
+      ],
+      "task": "Add a five-note melody to your beat.",
+      "challenge": "Make a melody with only three notes.",
+      "quiz": [
+        {
+          "q": "What is a snare in a beat?",
+          "options": [
+            "The sharp clap sound that usually hits on beats 2 and 4",
+            "A type of melody",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A snare is the sharp crack sound. In most beats it hits on beats 2 and 4."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add a melody\"?",
+          "options": [
+            "Make a beat with space for a voice.",
+            "Pick your best work and say why it works.",
+            "Add a simple melody to your beat.",
+            "Make a full beat in the hip-hop style."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Add a simple melody to your beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Press play and listen to the full beat.",
+            "Add a piano or synth instrument.",
+            "Play five notes that sound good together.",
+            "Place the notes on the timeline."
+          ],
+          "answer": 1,
+          "explain": "Start with: Add a piano or synth instrument."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Learn about tempo",
+      "goal": "Change the speed of your beat.",
+      "video": {
+        "youtube_id": "5JwbgzYg2H4",
+        "title": "How to Make Soulful Afrobeats For Burna Boy from Scratch | Beginners Tutorial FL Studio",
+        "channel": "Seventh Beats"
+      },
+      "steps": [
+        "Find the tempo setting in BPM.",
+        "Set it to 90 BPM and listen.",
+        "Set it to 120 BPM and listen.",
+        "Pick the speed that fits your beat."
+      ],
+      "task": "Change your beat tempo from 90 to 120 BPM and compare.",
+      "challenge": "Make a slow beat at 80 BPM and a fast one at 140 BPM.",
+      "quiz": [
+        {
+          "q": "What is a kick in a beat?",
+          "options": [
+            "The low drum sound that hits on the beat",
+            "A type of melody",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A kick is the deep thump in a beat. It usually lands on the main beats."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Learn about tempo\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Change the speed of your beat.",
+            "Make a full beat in the trap style.",
+            "Fix a beat that sounds crowded."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Change the speed of your beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find the tempo setting in BPM.",
+            "Set it to 90 BPM and listen.",
+            "Set it to 120 BPM and listen.",
+            "Pick the speed that fits your beat."
+          ],
+          "answer": 0,
+          "explain": "Start with: Find the tempo setting in BPM."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Use loops",
+      "goal": "Build a beat from loops.",
+      "video": {
+        "youtube_id": "RBSzi5INOX0",
+        "title": "Joe Dwet File 4 Kampe | Remake Beat Tutorial (Fl Studio) + FLP",
+        "channel": "FridBeats"
+      },
+      "steps": [
+        "Find the loop library in your app.",
+        "Pick a drum loop.",
+        "Add a bass loop that fits.",
+        "Add a melody loop and press play."
+      ],
+      "task": "Build a beat from three loops.",
+      "challenge": "Make a beat using only loops, no notes you played.",
+      "quiz": [
+        {
+          "q": "What is a snare in a beat?",
+          "options": [
+            "The sharp clap sound that usually hits on beats 2 and 4",
+            "A type of melody",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A snare is the sharp crack sound. In most beats it hits on beats 2 and 4."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use loops\"?",
+          "options": [
+            "Build a beat from loops.",
+            "Add a recorded sound to your beat.",
+            "Find the style you love to make.",
+            "Open a beat-making app and know the main parts."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Build a beat from loops."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a drum loop.",
+            "Add a bass loop that fits.",
+            "Add a melody loop and press play.",
+            "Find the loop library in your app."
+          ],
+          "answer": 3,
+          "explain": "Start with: Find the loop library in your app."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Arrange your beat",
+      "goal": "Arrange a beat into sections.",
+      "video": {
+        "youtube_id": "fxMbp42wt_k",
+        "title": "How To Make A Beat Like Masterkraft From Scratch | Fl Studio Tutorial",
+        "channel": "Producer Mykah"
+      },
+      "steps": [
+        "Open your beat.",
+        "Make an intro with just the melody.",
+        "Make a verse with drums and bass.",
+        "Make a chorus with everything together."
+      ],
+      "task": "Arrange a beat into intro, verse, and chorus.",
+      "challenge": "Arrange the same beat with a longer chorus.",
+      "quiz": [
+        {
+          "q": "What is a kick in a beat?",
+          "options": [
+            "The low drum sound that hits on the beat",
+            "A type of melody",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A kick is the deep thump in a beat. It usually lands on the main beats."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Arrange your beat\"?",
+          "options": [
+            "Balance the volume of each sound.",
+            "Make one beat a day for three days.",
+            "Make a simple drum beat.",
+            "Arrange a beat into sections."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Arrange a beat into sections."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make a verse with drums and bass.",
+            "Make a chorus with everything together.",
+            "Open your beat.",
+            "Make an intro with just the melody."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your beat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Make a beat from scratch",
+      "goal": "Make a beat without loops.",
+      "video": {
+        "youtube_id": "Cp77a0n3eMw",
+        "title": "Making MELODIES From Scratch | Fl Studio Tutorial | Mziki Pod 018",
+        "channel": "Mziki Masters"
+      },
+      "steps": [
+        "Start a new project.",
+        "Play the drums yourself, one sound at a time.",
+        "Add a bass line you played.",
+        "Add a melody you played."
+      ],
+      "task": "Make a beat from scratch with no loops.",
+      "challenge": "Make a beat in a style you have never tried.",
+      "quiz": [
+        {
+          "q": "What is a snare in a beat?",
+          "options": [
+            "The sharp clap sound that usually hits on beats 2 and 4",
+            "A type of melody",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A snare is the sharp crack sound. In most beats it hits on beats 2 and 4."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a beat from scratch\"?",
+          "options": [
+            "Pick your best beats.",
+            "Add hi-hats to your beat.",
+            "Make a beat without loops.",
+            "Add reverb or delay to your beat."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a beat without loops."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a melody you played.",
+            "Start a new project.",
+            "Play the drums yourself, one sound at a time.",
+            "Add a bass line you played."
+          ],
+          "answer": 1,
+          "explain": "Start with: Start a new project."
+        }
+      ],
+      "project": {
+        "title": "Finish a Full Beat",
+        "brief": "Finish a full beat with drums, bass, and melody.",
+        "checks": [
+          "Beat has drums",
+          "Beat has a bass line",
+          "Beat has a melody",
+          "Beat has intro, verse, and chorus",
+          "Exported as an MP3",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Your first finished beat",
+      "goal": "Finish a full beat.",
+      "video": {
+        "youtube_id": "L9dBNd8aBTo",
+        "title": "10 Tips for Making Your First Trap Beat",
+        "channel": "Soundfly"
+      },
+      "steps": [
+        "Pick your best pattern.",
+        "Add an intro, a verse, and a chorus.",
+        "Balance the volume of each track.",
+        "Export it as an MP3."
+      ],
+      "task": "Finish a full beat and export it.",
+      "challenge": "Share your beat with a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a hi-hat?",
+          "options": [
+            "A light metal cymbal sound that keeps time in a beat",
+            "A type of bass",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A hi-hat is the light ticking sound. It keeps the beat moving."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first finished beat\"?",
+          "options": [
+            "Add a snare to your beat.",
+            "Finish a full beat.",
+            "Make three beats in one style.",
+            "Make a full beat fast."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Finish a full beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick your best pattern.",
+            "Add an intro, a verse, and a chorus.",
+            "Balance the volume of each track.",
+            "Export it as an MP3."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick your best pattern."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Make an Afrobeats beat",
+      "goal": "Make a full beat in the Afrobeats style.",
+      "video": {
+        "youtube_id": "8ovcvYIXLec",
+        "title": "How to Make a Trap Beat Step-by-Step",
+        "channel": "SoundJuice"
+      },
+      "steps": [
+        "Set the tempo to about 100 BPM.",
+        "Add an Afrobeats drum pattern.",
+        "Add a bass line.",
+        "Add a simple melody and export it."
+      ],
+      "task": "Make a full Afrobeats beat.",
+      "challenge": "Make an Afrobeats beat and a hip-hop beat, then compare.",
+      "quiz": [
+        {
+          "q": "What is a loop?",
+          "options": [
+            "A short sound that repeats over and over",
+            "A type of microphone",
+            "A kind of speaker",
+            "A song ending"
+          ],
+          "answer": 0,
+          "explain": "A loop is a short piece of music that repeats. Loops are building blocks for beats."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make an Afrobeats beat\"?",
+          "options": [
+            "Make a full beat in the Afrobeats style.",
+            "Make a beat with space for a voice.",
+            "Pick your best work and say why it works.",
+            "Make a drum pattern in the Afrobeats style."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make a full beat in the Afrobeats style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add an Afrobeats drum pattern.",
+            "Add a bass line.",
+            "Add a simple melody and export it.",
+            "Set the tempo to about 100 BPM."
+          ],
+          "answer": 3,
+          "explain": "Start with: Set the tempo to about 100 BPM."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Make a hip-hop beat",
+      "goal": "Make a full beat in the hip-hop style.",
+      "video": {
+        "youtube_id": "o9YTH50ijcA",
+        "title": "How to Make Hip Hop Beats",
+        "channel": "Indie Producer"
+      },
+      "steps": [
+        "Set the tempo to about 90 BPM.",
+        "Add a hip-hop drum pattern.",
+        "Add a bass line.",
+        "Add a piano melody and export it."
+      ],
+      "task": "Make a full hip-hop beat.",
+      "challenge": "Make a hip-hop beat with a sample you recorded.",
+      "quiz": [
+        {
+          "q": "What is a hi-hat?",
+          "options": [
+            "A light metal cymbal sound that keeps time in a beat",
+            "A type of bass",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A hi-hat is the light ticking sound. It keeps the beat moving."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a hip-hop beat\"?",
+          "options": [
+            "Fix a beat that sounds crowded.",
+            "Write a simple plan to keep getting better.",
+            "Make a drum pattern in the hip-hop style.",
+            "Make a full beat in the hip-hop style."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a full beat in the hip-hop style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a bass line.",
+            "Add a piano melody and export it.",
+            "Set the tempo to about 90 BPM.",
+            "Add a hip-hop drum pattern."
+          ],
+          "answer": 2,
+          "explain": "Start with: Set the tempo to about 90 BPM."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Make a trap beat",
+      "goal": "Make a full beat in the trap style.",
+      "video": {
+        "youtube_id": "EG2HcThOE8Y",
+        "title": "Haryanvi Hip-Hop Beat Kaise Banti Hai? FL Studio Live + Rap | EP01 Yeah This Beat",
+        "channel": "MusiX Lab Studios"
+      },
+      "steps": [
+        "Set the tempo to about 140 BPM.",
+        "Add a trap drum pattern.",
+        "Add a deep bass line.",
+        "Add a dark melody and export it."
+      ],
+      "task": "Make a full trap beat.",
+      "challenge": "Make a trap beat and an Afrobeats beat, then compare.",
+      "quiz": [
+        {
+          "q": "What is a loop?",
+          "options": [
+            "A short sound that repeats over and over",
+            "A type of microphone",
+            "A kind of speaker",
+            "A song ending"
+          ],
+          "answer": 0,
+          "explain": "A loop is a short piece of music that repeats. Loops are building blocks for beats."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a trap beat\"?",
+          "options": [
+            "Open a beat-making app and know the main parts.",
+            "Make a drum pattern in the trap style.",
+            "Make a full beat in the trap style.",
+            "Find the style you love to make."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make a full beat in the trap style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a dark melody and export it.",
+            "Set the tempo to about 140 BPM.",
+            "Add a trap drum pattern.",
+            "Add a deep bass line."
+          ],
+          "answer": 1,
+          "explain": "Start with: Set the tempo to about 140 BPM."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Use a sample",
+      "goal": "Add a recorded sound to your beat.",
+      "video": {
+        "youtube_id": "bSrR-6BCGy4",
+        "title": "Drum Programming - FL Studio 20 Basics",
+        "channel": "In The Mix"
+      },
+      "steps": [
+        "Record a sound, like clapping or a voice.",
+        "Import it into your app.",
+        "Cut it to the length you need.",
+        "Place it in your beat."
+      ],
+      "task": "Add a recorded sample to your beat.",
+      "challenge": "Make a beat from a sample of your own voice.",
+      "quiz": [
+        {
+          "q": "What is a hi-hat?",
+          "options": [
+            "A light metal cymbal sound that keeps time in a beat",
+            "A type of bass",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A hi-hat is the light ticking sound. It keeps the beat moving."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use a sample\"?",
+          "options": [
+            "Finish a beat with drums only.",
+            "Add a recorded sound to your beat.",
+            "Make one beat a day for three days.",
+            "Make a simple drum beat."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Add a recorded sound to your beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record a sound, like clapping or a voice.",
+            "Import it into your app.",
+            "Cut it to the length you need.",
+            "Place it in your beat."
+          ],
+          "answer": 0,
+          "explain": "Start with: Record a sound, like clapping or a voice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Mix your beat",
+      "goal": "Balance the volume of each sound.",
+      "video": {
+        "youtube_id": "C9WROElmQEo",
+        "title": "How to make HARD PHONK BEAT with COWBELLS | Reaper Beat Making",
+        "channel": "Wodzu Beats"
+      },
+      "steps": [
+        "Open your beat in the mixer.",
+        "Turn the drums up a little.",
+        "Turn the bass down if it is too loud.",
+        "Make sure no sound is too loud or too quiet."
+      ],
+      "task": "Balance the volume of each sound in your beat.",
+      "challenge": "Mix your beat so the drums are the loudest part.",
+      "quiz": [
+        {
+          "q": "What is a loop?",
+          "options": [
+            "A short sound that repeats over and over",
+            "A type of microphone",
+            "A kind of speaker",
+            "A song ending"
+          ],
+          "answer": 0,
+          "explain": "A loop is a short piece of music that repeats. Loops are building blocks for beats."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Mix your beat\"?",
+          "options": [
+            "Balance the volume of each sound.",
+            "Pick your best beats.",
+            "Add hi-hats to your beat.",
+            "Add a low bass sound to your beat."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Balance the volume of each sound."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Turn the drums up a little.",
+            "Turn the bass down if it is too loud.",
+            "Make sure no sound is too loud or too quiet.",
+            "Open your beat in the mixer."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open your beat in the mixer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Add effects",
+      "goal": "Add reverb or delay to your beat.",
+      "video": {
+        "youtube_id": "5JwbgzYg2H4",
+        "title": "How to Make Soulful Afrobeats For Burna Boy from Scratch | Beginners Tutorial FL Studio",
+        "channel": "Seventh Beats"
+      },
+      "steps": [
+        "Pick a track, like the melody.",
+        "Add a reverb effect.",
+        "Turn it up a little.",
+        "Listen. The sound should feel bigger."
+      ],
+      "task": "Add a little reverb to your melody.",
+      "challenge": "Add delay to a melody and make it echo once.",
+      "quiz": [
+        {
+          "q": "What is a hi-hat?",
+          "options": [
+            "A light metal cymbal sound that keeps time in a beat",
+            "A type of bass",
+            "A kind of speaker",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "A hi-hat is the light ticking sound. It keeps the beat moving."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add effects\"?",
+          "options": [
+            "Make a full beat fast.",
+            "Add a snare to your beat.",
+            "Add a simple melody to your beat.",
+            "Add reverb or delay to your beat."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Add reverb or delay to your beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Turn it up a little.",
+            "Listen. The sound should feel bigger.",
+            "Pick a track, like the melody.",
+            "Add a reverb effect."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a track, like the melody."
+        }
+      ],
+      "project": {
+        "title": "Make a Beat Pack",
+        "brief": "Make three beats in one style.",
+        "checks": [
+          "Three beats made",
+          "All in one style",
+          "Each beat has a name",
+          "Each beat is exported",
+          "Beats saved in one folder",
+          "Shared with a friend"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Make a beat pack",
+      "goal": "Make three beats in one style.",
+      "video": {
+        "youtube_id": "RBSzi5INOX0",
+        "title": "Joe Dwet File 4 Kampe | Remake Beat Tutorial (Fl Studio) + FLP",
+        "channel": "FridBeats"
+      },
+      "steps": [
+        "Pick a style, like Afrobeats.",
+        "Make three beats in that style.",
+        "Give each beat a name.",
+        "Save them in a folder called Beat Pack."
+      ],
+      "task": "Make three beats in one style.",
+      "challenge": "Make a beat pack of three beats and share it.",
+      "quiz": [
+        {
+          "q": "What is arranging a beat?",
+          "options": [
+            "Putting the beat into sections like intro, verse and chorus",
+            "Recording a vocal",
+            "Choosing a beat name",
+            "Uploading a beat"
+          ],
+          "answer": 0,
+          "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a beat pack\"?",
+          "options": [
+            "Make a drum pattern in the Afrobeats style.",
+            "Change the speed of your beat.",
+            "Make three beats in one style.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make three beats in one style."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save them in a folder called Beat Pack.",
+            "Pick a style, like Afrobeats.",
+            "Make three beats in that style.",
+            "Give each beat a name."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a style, like Afrobeats."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Make a beat for a singer",
+      "goal": "Make a beat with space for a voice.",
+      "video": {
+        "youtube_id": "fxMbp42wt_k",
+        "title": "How To Make A Beat Like Masterkraft From Scratch | Fl Studio Tutorial",
+        "channel": "Producer Mykah"
+      },
+      "steps": [
+        "Pick your best beat.",
+        "Leave space in the melody for a voice.",
+        "Turn the melody down a little.",
+        "Export the beat."
+      ],
+      "task": "Make a beat with space for a singer.",
+      "challenge": "Ask a singer to record over your beat.",
+      "quiz": [
+        {
+          "q": "What is a bass line?",
+          "options": [
+            "A low melody that supports the drums",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A bass line is a low melody. It gives the beat its weight and groove."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a beat for a singer\"?",
+          "options": [
+            "Build a beat from loops.",
+            "Make a beat with space for a voice.",
+            "Write a simple plan to keep getting better.",
+            "Make a drum pattern in the hip-hop style."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a beat with space for a voice."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick your best beat.",
+            "Leave space in the melody for a voice.",
+            "Turn the melody down a little.",
+            "Export the beat."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick your best beat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Fix a messy beat",
+      "goal": "Fix a beat that sounds crowded.",
+      "video": {
+        "youtube_id": "Cp77a0n3eMw",
+        "title": "Making MELODIES From Scratch | Fl Studio Tutorial | Mziki Pod 018",
+        "channel": "Mziki Masters"
+      },
+      "steps": [
+        "Open a beat that sounds messy.",
+        "Remove one sound at a time.",
+        "Keep only the sounds that matter.",
+        "Listen again. It should sound cleaner."
+      ],
+      "task": "Fix a messy beat by removing sounds.",
+      "challenge": "Make the same beat with fewer sounds and compare.",
+      "quiz": [
+        {
+          "q": "What is arranging a beat?",
+          "options": [
+            "Putting the beat into sections like intro, verse and chorus",
+            "Recording a vocal",
+            "Choosing a beat name",
+            "Uploading a beat"
+          ],
+          "answer": 0,
+          "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix a messy beat\"?",
+          "options": [
+            "Fix a beat that sounds crowded.",
+            "Open a beat-making app and know the main parts.",
+            "Make a drum pattern in the trap style.",
+            "Arrange a beat into sections."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Fix a beat that sounds crowded."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Remove one sound at a time.",
+            "Keep only the sounds that matter.",
+            "Listen again. It should sound cleaner.",
+            "Open a beat that sounds messy."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a beat that sounds messy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Build your beat style",
+      "goal": "Find the style you love to make.",
+      "video": {
+        "youtube_id": "L9dBNd8aBTo",
+        "title": "10 Tips for Making Your First Trap Beat",
+        "channel": "Soundfly"
+      },
+      "steps": [
+        "Look at all the beats you made this month.",
+        "Pick the three you love most.",
+        "Write down what they have in common.",
+        "Make two more beats in that style."
+      ],
+      "task": "Pick your three favorite beats and find what they have in common.",
+      "challenge": "Make two new beats in your favorite style.",
+      "quiz": [
+        {
+          "q": "What is a bass line?",
+          "options": [
+            "A low melody that supports the drums",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A bass line is a low melody. It gives the beat its weight and groove."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build your beat style\"?",
+          "options": [
+            "Make a simple drum beat.",
+            "Finish a beat with drums only.",
+            "Make a beat without loops.",
+            "Find the style you love to make."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Find the style you love to make."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down what they have in common.",
+            "Make two more beats in that style.",
+            "Look at all the beats you made this month.",
+            "Pick the three you love most."
+          ],
+          "answer": 2,
+          "explain": "Start with: Look at all the beats you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Make a beat every day",
+      "goal": "Make one beat a day for three days.",
+      "video": {
+        "youtube_id": "8ovcvYIXLec",
+        "title": "How to Make a Trap Beat Step-by-Step",
+        "channel": "SoundJuice"
+      },
+      "steps": [
+        "Set a timer for 30 minutes.",
+        "Make a beat from start to finish.",
+        "Export it.",
+        "Do it again tomorrow."
+      ],
+      "task": "Make one beat in 30 minutes.",
+      "challenge": "Make three beats in three days.",
+      "quiz": [
+        {
+          "q": "What is arranging a beat?",
+          "options": [
+            "Putting the beat into sections like intro, verse and chorus",
+            "Recording a vocal",
+            "Choosing a beat name",
+            "Uploading a beat"
+          ],
+          "answer": 0,
+          "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a beat every day\"?",
+          "options": [
+            "Add a low bass sound to your beat.",
+            "Finish a full beat.",
+            "Make one beat a day for three days.",
+            "Add hi-hats to your beat."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Make one beat a day for three days."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Do it again tomorrow.",
+            "Set a timer for 30 minutes.",
+            "Make a beat from start to finish.",
+            "Export it."
+          ],
+          "answer": 1,
+          "explain": "Start with: Set a timer for 30 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Your portfolio",
+      "goal": "Pick your best beats.",
+      "video": {
+        "youtube_id": "o9YTH50ijcA",
+        "title": "How to Make Hip Hop Beats",
+        "channel": "Indie Producer"
+      },
+      "steps": [
+        "Look at all the beats you made this month.",
+        "Pick your best five.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each beat."
+      ],
+      "task": "Pick your best five beats and save them in a portfolio.",
+      "challenge": "Share your portfolio with a friend and ask which beat is best.",
+      "quiz": [
+        {
+          "q": "What is a bass line?",
+          "options": [
+            "A low melody that supports the drums",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A bass line is a low melody. It gives the beat its weight and groove."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your portfolio\"?",
+          "options": [
+            "Make a full beat in the Afrobeats style.",
+            "Pick your best beats.",
+            "Add a snare to your beat.",
+            "Add a simple melody to your beat."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Pick your best beats."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at all the beats you made this month.",
+            "Pick your best five.",
+            "Save them in a folder called Portfolio.",
+            "Write one sentence about each beat."
+          ],
+          "answer": 0,
+          "explain": "Start with: Look at all the beats you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Make a beat in 15 minutes",
+      "goal": "Make a full beat fast.",
+      "video": {
+        "youtube_id": "EG2HcThOE8Y",
+        "title": "Haryanvi Hip-Hop Beat Kaise Banti Hai? FL Studio Live + Rap | EP01 Yeah This Beat",
+        "channel": "MusiX Lab Studios"
+      },
+      "steps": [
+        "Set a timer for 15 minutes.",
+        "Pick a drum pattern.",
+        "Add a bass line and a melody.",
+        "Export the beat when the timer ends."
+      ],
+      "task": "Make a full beat in 15 minutes.",
+      "challenge": "Make three beats in 45 minutes, one every 15 minutes.",
+      "quiz": [
+        {
+          "q": "What is arranging a beat?",
+          "options": [
+            "Putting the beat into sections like intro, verse and chorus",
+            "Recording a vocal",
+            "Choosing a beat name",
+            "Uploading a beat"
+          ],
+          "answer": 0,
+          "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a beat in 15 minutes\"?",
+          "options": [
+            "Make a full beat fast.",
+            "Make a drum pattern in the Afrobeats style.",
+            "Change the speed of your beat.",
+            "Make a full beat in the hip-hop style."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Make a full beat fast."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a drum pattern.",
+            "Add a bass line and a melody.",
+            "Export the beat when the timer ends.",
+            "Set a timer for 15 minutes."
+          ],
+          "answer": 3,
+          "explain": "Start with: Set a timer for 15 minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "bSrR-6BCGy4",
+        "title": "Drum Programming - FL Studio 20 Basics",
+        "channel": "In The Mix"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three beats.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three beats and write why each one works.",
+      "challenge": "Play your best beat for someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a bass line?",
+          "options": [
+            "A low melody that supports the drums",
+            "A type of speaker",
+            "A kind of microphone",
+            "A song title"
+          ],
+          "answer": 0,
+          "explain": "A bass line is a low melody. It gives the beat its weight and groove."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Make a drum pattern in the hip-hop style.",
+            "Build a beat from loops.",
+            "Make a full beat in the trap style.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three beats."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "C9WROElmQEo",
+        "title": "How to make HARD PHONK BEAT with COWBELLS | Reaper Beat Making",
+        "channel": "Wodzu Beats"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your beat making.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is arranging a beat?",
+          "options": [
+            "Putting the beat into sections like intro, verse and chorus",
+            "Recording a vocal",
+            "Choosing a beat name",
+            "Uploading a beat"
+          ],
+          "answer": 0,
+          "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Arrange a beat into sections.",
+            "Add a recorded sound to your beat.",
+            "Write a simple plan to keep getting better.",
+            "Make a drum pattern in the trap style."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your First Beat Tape",
+    "brief": "Make a 3-beat tape: one Afrobeats beat, one hip-hop beat, and one trap beat. Each beat is mixed and exported as an MP3.",
+    "checks": [
+      "Three beats in total",
+      "One Afrobeats beat",
+      "One hip-hop beat",
+      "One trap beat",
+      "All beats mixed and exported as MP3",
+      "Cover art made",
+      "Beat tape shared with friends"
+    ],
+    "deliverables": [
+      "Three MP3 files",
+      "Cover art",
+      "A track list with tempos",
+      "A short note on each beat",
+      "A plan for your next beat tape"
+    ]
+  }
+}

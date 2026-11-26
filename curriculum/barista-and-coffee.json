@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "barista-and-coffee",
+    "title": "Barista and Coffee",
+    "level": "Beginner",
+    "tagline": "Brew great coffee, steam milk and pour latte art like a cafe barista.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Coffee Basics: Beans, Water, and Tools",
+      "goal": "Know what makes good coffee and what tools you need.",
+      "video": {
+        "youtube_id": "7yfTkFLw0wg",
+        "title": "How to Make a Caffe Latte",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Coffee starts as beans. Fresh beans make the best coffee.",
+        "Grind means crush the beans into small bits. Fine grind is like sand. Coarse grind is like rough sugar.",
+        "Good coffee needs clean water. If your water tastes bad, your coffee will too.",
+        "Find your tools: a grinder, a kettle, a cup, and a spoon.",
+        "Taste black coffee, coffee with milk, and coffee with sugar. Note what you like."
+      ],
+      "task": "List your coffee tools and taste three cups: black, with milk, and with sugar.",
+      "challenge": "Write down which one you like best and why.",
+      "quiz": [
+        {
+          "q": "What does 'grind' mean?",
+          "options": [
+            "To cook beans",
+            "To crush beans into small bits",
+            "To roast beans",
+            "To boil beans"
+          ],
+          "answer": 1,
+          "explain": "Grinding crushes beans into small bits so water can pull the flavour out."
+        },
+        {
+          "q": "Why does water matter for coffee?",
+          "options": [
+            "It does not",
+            "Bad-tasting water makes bad-tasting coffee",
+            "It saves beans",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Coffee is mostly water, so the water's taste matters a lot."
+        },
+        {
+          "q": "What is the difference between fine and coarse grind?",
+          "options": [
+            "Colour",
+            "Fine is like sand, coarse is like rough sugar",
+            "Taste only",
+            "Price"
+          ],
+          "answer": 1,
+          "explain": "Fine grind is powdery like sand. Coarse grind is chunky like rough sugar."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your First French Press Coffee",
+      "goal": "Brew coffee with a French press, the easiest way.",
+      "video": {
+        "youtube_id": "TTKAaHc3xSc",
+        "title": "Latte Art for Beginners: 12 Easy Designs (Step-by-Step Tutorial)",
+        "channel": "Latte Art Tutorials"
+      },
+      "steps": [
+        "A French press is a jug with a plunger that pushes the grounds down.",
+        "Add coarse coffee grounds to the press.",
+        "Pour hot water over them. Stir gently.",
+        "Put the lid on and wait 4 minutes.",
+        "Push the plunger down slowly and pour."
+      ],
+      "task": "Brew a French press coffee.",
+      "challenge": "Brew a second cup with more coffee and compare the strength.",
+      "quiz": [
+        {
+          "q": "What is a French press?",
+          "options": [
+            "A coffee machine",
+            "A jug with a plunger that pushes grounds down",
+            "A type of bean",
+            "A cup"
+          ],
+          "answer": 1,
+          "explain": "A French press is a jug with a plunger that separates the coffee from the grounds."
+        },
+        {
+          "q": "How long does French press coffee brew?",
+          "options": [
+            "1 minute",
+            "4 minutes",
+            "10 minutes",
+            "30 seconds"
+          ],
+          "answer": 1,
+          "explain": "Four minutes is the standard time for a French press."
+        },
+        {
+          "q": "Why push the plunger down slowly?",
+          "options": [
+            "It is faster",
+            "Fast pushing stirs the grounds back into the coffee",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A slow push keeps the grounds at the bottom."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Espresso: The Heart of Cafe Coffee",
+      "goal": "Pull a good espresso shot.",
+      "video": {
+        "youtube_id": "SiefJJv-Qho",
+        "title": "Latte Art For Beginners: How To Pour Heart",
+        "channel": "European Coffee Trip"
+      },
+      "steps": [
+        "Espresso is strong coffee made by pushing hot water through fine grounds.",
+        "A shot is one small serving of espresso, about 30ml.",
+        "Fill the portafilter (the handle with the basket) with fine coffee.",
+        "Tamp means press the coffee down flat and even.",
+        "Lock it in and start the water. A good shot takes about 25 seconds."
+      ],
+      "task": "Pull an espresso shot.",
+      "challenge": "Taste it. Note if it is sour (too fast) or bitter (too slow).",
+      "quiz": [
+        {
+          "q": "What is espresso?",
+          "options": [
+            "Strong coffee made by pushing hot water through fine grounds",
+            "Coffee with milk",
+            "Cold coffee",
+            "Sweet coffee"
+          ],
+          "answer": 0,
+          "explain": "Espresso is made by forcing hot water through finely ground coffee."
+        },
+        {
+          "q": "What does 'tamp' mean?",
+          "options": [
+            "To grind",
+            "To press the coffee down flat and even",
+            "To pour",
+            "To stir"
+          ],
+          "answer": 1,
+          "explain": "Tamping presses the grounds flat so water flows through evenly."
+        },
+        {
+          "q": "How long should a good shot take?",
+          "options": [
+            "5 seconds",
+            "About 25 seconds",
+            "1 minute",
+            "10 seconds"
+          ],
+          "answer": 1,
+          "explain": "About 25 seconds gives a balanced shot."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Steaming Milk: Smooth and Silky",
+      "goal": "Steam milk until it is smooth and glossy.",
+      "video": {
+        "youtube_id": "ZEUjYfFvMbA",
+        "title": "How to Make Latte Art Step by Step | From Grinder to Tulip Latte Art",
+        "channel": "Faisal B & B"
+      },
+      "steps": [
+        "Steamed milk is milk heated with steam until it is hot and smooth.",
+        "Microfoam is milk with tiny bubbles. It looks like wet paint.",
+        "Fill the jug one-third full with cold milk.",
+        "Put the steam wand just under the surface. Turn on the steam.",
+        "Listen for a soft hissing sound. Stop when the jug feels hot to touch."
+      ],
+      "task": "Steam a jug of milk until it is smooth and glossy.",
+      "challenge": "Practise twice: once for a latte, once for a cappuccino.",
+      "quiz": [
+        {
+          "q": "What is microfoam?",
+          "options": [
+            "Big bubbles",
+            "Milk with tiny bubbles that looks like wet paint",
+            "Cold milk",
+            "Burnt milk"
+          ],
+          "answer": 1,
+          "explain": "Microfoam is smooth milk with tiny bubbles. It pours like paint."
+        },
+        {
+          "q": "How full should the milk jug be?",
+          "options": [
+            "To the top",
+            "One-third full",
+            "Half full",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "One-third full leaves room for the milk to grow as it steams."
+        },
+        {
+          "q": "When do you stop steaming?",
+          "options": [
+            "After 1 minute",
+            "When the jug feels hot to touch",
+            "When it boils",
+            "After 10 seconds"
+          ],
+          "answer": 1,
+          "explain": "Hot to touch means the milk is about the right heat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Your First Latte",
+      "goal": "Make a latte: espresso plus steamed milk.",
+      "video": {
+        "youtube_id": "kWBHcW48zZI",
+        "title": "How To Pour a Heart: Latte Art",
+        "channel": "Volcano Coffee Works"
+      },
+      "steps": [
+        "A latte is espresso with lots of steamed milk and a little foam.",
+        "Pull a double shot of espresso into a cup.",
+        "Steam the milk until smooth and glossy.",
+        "Pour the milk slowly into the espresso.",
+        "Hold back the foam with a spoon, then add a little on top."
+      ],
+      "task": "Make a latte.",
+      "challenge": "Make a second latte and try pouring a simple heart.",
+      "quiz": [
+        {
+          "q": "What is a latte?",
+          "options": [
+            "Espresso with lots of steamed milk and a little foam",
+            "Coffee with no milk",
+            "Coffee with cream only",
+            "Cold coffee"
+          ],
+          "answer": 0,
+          "explain": "A latte is mostly steamed milk with espresso and a little foam."
+        },
+        {
+          "q": "Why pour milk slowly?",
+          "options": [
+            "It is faster",
+            "Slow pouring mixes the milk and coffee well",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A slow pour mixes milk and espresso into a smooth drink."
+        },
+        {
+          "q": "Why hold back the foam with a spoon?",
+          "options": [
+            "It is faster",
+            "So the foam goes on top at the end",
+            "It saves milk",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Holding the foam back lets the milk mix first, then the foam sits on top."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Choosing the Right Milk",
+      "goal": "Pick the best milk for lattes and latte art.",
+      "video": {
+        "youtube_id": "myqhxxZSbRc",
+        "title": "How To Pour a Tulip: Latte Art",
+        "channel": "Volcano Coffee Works"
+      },
+      "steps": [
+        "Whole milk makes the best microfoam. It is rich and smooth.",
+        "Skimmed milk makes big bubbles and is harder to pour.",
+        "Oat milk is a good non-dairy choice. It steams well.",
+        "Always use cold milk. Warm milk does not foam well.",
+        "Taste a latte made with each milk and pick your favourite."
+      ],
+      "task": "Make lattes with whole milk, skimmed milk, and oat milk.",
+      "challenge": "Write down which milk foams best and which tastes best.",
+      "quiz": [
+        {
+          "q": "Which milk makes the best microfoam?",
+          "options": [
+            "Skimmed milk",
+            "Whole milk",
+            "Water",
+            "Cream"
+          ],
+          "answer": 1,
+          "explain": "Whole milk has the fat and protein that make smooth microfoam."
+        },
+        {
+          "q": "Why use cold milk for steaming?",
+          "options": [
+            "It is cheaper",
+            "Cold milk foams better than warm milk",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Cold milk gives you more time to build foam before it gets too hot."
+        },
+        {
+          "q": "Which non-dairy milk steams well?",
+          "options": [
+            "Coconut water",
+            "Oat milk",
+            "Orange juice",
+            "Soya sauce"
+          ],
+          "answer": 1,
+          "explain": "Oat milk steams well and tastes good in coffee."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Coffee Tasting",
+      "goal": "Make three coffees and taste them side by side.",
+      "video": {
+        "youtube_id": "zo8UXScttIA",
+        "title": "How To Pour a Rosetta: Latte Art",
+        "channel": "Volcano Coffee Works"
+      },
+      "steps": [
+        "Make a French press coffee, an espresso, and a latte.",
+        "Serve them in small cups so tasters can try all three.",
+        "Write a tasting note for each: strong, smooth, bitter, or sweet.",
+        "Ask tasters which one they like best and why.",
+        "Pick your favourite and write the recipe down."
+      ],
+      "task": "Make three coffees and hold a tasting for your household.",
+      "challenge": "Write tasting notes for each coffee.",
+      "quiz": [
+        {
+          "q": "Why taste three coffees side by side?",
+          "options": [
+            "It is faster",
+            "Comparing shows the differences clearly",
+            "It saves beans",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Tasting side by side makes the differences in taste clear."
+        },
+        {
+          "q": "What is a tasting note?",
+          "options": [
+            "A recipe",
+            "A short note on how a coffee tastes",
+            "A price",
+            "A photo"
+          ],
+          "answer": 1,
+          "explain": "A tasting note is a short description of the flavour."
+        },
+        {
+          "q": "Why write the recipe for your favourite?",
+          "options": [
+            "To show friends",
+            "So you can make it the same way every time",
+            "It is required",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "A written recipe lets you repeat a good coffee."
+        }
+      ],
+      "project": {
+        "title": "Hold a Coffee Tasting",
+        "brief": "Make a French press, an espresso, and a latte, and taste them side by side.",
+        "checks": [
+          "Three different coffees made",
+          "Each coffee tasted and described",
+          "Tasting notes written for all three",
+          "Tasters picked a favourite",
+          "Favourite recipe written down",
+          "Feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Cappuccino: Equal Parts",
+      "goal": "Make a cappuccino: equal parts espresso, milk, and foam.",
+      "video": {
+        "youtube_id": "i4xTz_OwlSQ",
+        "title": "3 Easy Latte Art Designs: Heart",
+        "channel": "The Regency Hospitality"
+      },
+      "steps": [
+        "A cappuccino is one-third espresso, one-third steamed milk, one-third foam.",
+        "Pull a double shot into a small cup.",
+        "Steam the milk with more air than a latte, so it is thick and foamy.",
+        "Pour the milk, then spoon the thick foam on top.",
+        "Dust with cocoa or cinnamon if you like."
+      ],
+      "task": "Make a cappuccino.",
+      "challenge": "Make a latte and a cappuccino side by side and compare.",
+      "quiz": [
+        {
+          "q": "What is a cappuccino?",
+          "options": [
+            "Espresso with lots of milk",
+            "Equal parts espresso, steamed milk, and foam",
+            "Coffee with cream",
+            "Cold coffee"
+          ],
+          "answer": 1,
+          "explain": "A cappuccino is one-third espresso, one-third milk, and one-third foam."
+        },
+        {
+          "q": "How is cappuccino milk different from latte milk?",
+          "options": [
+            "It is colder",
+            "It has more air, so it is thick and foamy",
+            "It is sweeter",
+            "It is thinner"
+          ],
+          "answer": 1,
+          "explain": "Cappuccino milk is steamed with more air, so it is thick and foamy."
+        },
+        {
+          "q": "What can you dust on a cappuccino?",
+          "options": [
+            "Salt",
+            "Cocoa or cinnamon",
+            "Sugar only",
+            "Pepper"
+          ],
+          "answer": 1,
+          "explain": "Cocoa or cinnamon on top is the classic finish."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Latte Art: Your First Heart",
+      "goal": "Pour a heart in a latte.",
+      "video": {
+        "youtube_id": "bd5WeZeGhT8",
+        "title": "Rosetta",
+        "channel": "The Regency Hospitality"
+      },
+      "steps": [
+        "Latte art is a pattern made by pouring steamed milk into espresso.",
+        "Start with smooth, glossy milk. No big bubbles.",
+        "Pour from high up to mix the milk in.",
+        "Lower the jug close to the cup and pour a little more milk.",
+        "Lift the jug up and pull through to make the heart shape."
+      ],
+      "task": "Pour a heart in a latte.",
+      "challenge": "Practise 5 hearts and keep the best one.",
+      "quiz": [
+        {
+          "q": "What is latte art?",
+          "options": [
+            "Drawing on a cup",
+            "A pattern made by pouring steamed milk into espresso",
+            "A type of coffee",
+            "A decoration on the table"
+          ],
+          "answer": 1,
+          "explain": "Latte art is a pattern formed by pouring milk into espresso."
+        },
+        {
+          "q": "Why pour from high up first?",
+          "options": [
+            "It is faster",
+            "It mixes the milk into the coffee",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Pouring from high up mixes the milk in before you draw the pattern."
+        },
+        {
+          "q": "What makes a good heart?",
+          "options": [
+            "Big bubbles",
+            "Smooth milk and a steady pour",
+            "Cold milk",
+            "Fast pouring"
+          ],
+          "answer": 1,
+          "explain": "Smooth milk and a slow, steady pour make a clean heart."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Latte Art: The Tulip",
+      "goal": "Pour a tulip in a latte.",
+      "video": {
+        "youtube_id": "9atSUkIJX6I",
+        "title": "Bear latte art",
+        "channel": "The Regency Hospitality"
+      },
+      "steps": [
+        "A tulip is a stack of hearts, one on top of another.",
+        "Pour a small heart, stop, then pour another above it.",
+        "Repeat 2 or 3 times to build the stack.",
+        "Pull through the middle at the end to join them.",
+        "Practise on water with a drop of soap if you want to save milk."
+      ],
+      "task": "Pour a tulip in a latte.",
+      "challenge": "Pour a heart and a tulip side by side and compare.",
+      "quiz": [
+        {
+          "q": "What is a tulip in latte art?",
+          "options": [
+            "A flower on the cup",
+            "A stack of hearts, one on top of another",
+            "A type of milk",
+            "A coffee bean"
+          ],
+          "answer": 1,
+          "explain": "A tulip is made by stacking hearts on top of each other."
+        },
+        {
+          "q": "How do you build a tulip?",
+          "options": [
+            "Pour one big heart",
+            "Pour a small heart, stop, then pour another above it",
+            "Draw it with a spoon",
+            "Use a mould"
+          ],
+          "answer": 1,
+          "explain": "A tulip is built by pouring one heart, stopping, then pouring another above it."
+        },
+        {
+          "q": "Why practise on water with soap?",
+          "options": [
+            "It is faster",
+            "It saves milk while you learn",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Water with soap acts like milk, so you can practise without wasting milk."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Latte Art: The Rosetta",
+      "goal": "Pour a rosetta, the leaf pattern.",
+      "video": {
+        "youtube_id": "z0LBOb62j2I",
+        "title": "Choosing the Right Milk for Your Latte",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "A rosetta looks like a leaf or a fern.",
+        "Pour from low down and wiggle the jug side to side.",
+        "Move the jug back slowly as you wiggle.",
+        "Pull through the middle at the end to make the stem.",
+        "Practise slowly. Speed comes later."
+      ],
+      "task": "Pour a rosetta in a latte.",
+      "challenge": "Pour a heart, a tulip, and a rosetta, and pick your best.",
+      "quiz": [
+        {
+          "q": "What does a rosetta look like?",
+          "options": [
+            "A heart",
+            "A leaf or fern",
+            "A circle",
+            "A star"
+          ],
+          "answer": 1,
+          "explain": "A rosetta looks like a leaf or a fern."
+        },
+        {
+          "q": "How do you make a rosetta?",
+          "options": [
+            "Pour fast",
+            "Wiggle the jug side to side while moving back slowly",
+            "Draw it with a spoon",
+            "Use a mould"
+          ],
+          "answer": 1,
+          "explain": "A side-to-side wiggle while moving back makes the leaf shape."
+        },
+        {
+          "q": "Why practise slowly?",
+          "options": [
+            "It is faster",
+            "Slow practice builds control. Speed comes later",
+            "It saves milk",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Slow, careful practice builds the control you need."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "The Perfect Pitcher",
+      "goal": "Pick the right milk pitcher for latte art.",
+      "video": {
+        "youtube_id": "FvAA8mHwM_4",
+        "title": "What Type of Pitcher is Best for Latte Art?",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "A pitcher is the metal jug you steam milk in.",
+        "A small pitcher is best for one cup. A big one is for many cups.",
+        "A pitcher with a pointed spout pours thin lines for art.",
+        "A round spout is fine for normal lattes.",
+        "Keep your pitcher clean. Old milk ruins new milk."
+      ],
+      "task": "Steam milk in two different pitchers and compare the pour.",
+      "challenge": "Pick the pitcher you like best and use it all week.",
+      "quiz": [
+        {
+          "q": "What is a milk pitcher?",
+          "options": [
+            "A cup",
+            "The metal jug you steam milk in",
+            "A coffee bean",
+            "A spoon"
+          ],
+          "answer": 1,
+          "explain": "A pitcher is the metal jug used to steam and pour milk."
+        },
+        {
+          "q": "Why does the spout shape matter?",
+          "options": [
+            "It looks nice",
+            "A pointed spout pours thin lines for latte art",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A pointed spout gives a thin, controlled pour for art."
+        },
+        {
+          "q": "Why keep the pitcher clean?",
+          "options": [
+            "It looks nice",
+            "Old milk ruins the taste of new milk",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Leftover milk goes sour and spoils fresh milk."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Espresso Drinks Menu",
+      "goal": "Learn the main espresso drinks and how they differ.",
+      "video": {
+        "youtube_id": "GuBswTkAgw8",
+        "title": "Making the Perfect Latte Microfoam",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "Espresso: just a shot, no milk.",
+        "Latte: lots of milk, little foam.",
+        "Cappuccino: equal parts espresso, milk, and foam.",
+        "Flat white: espresso with thin, smooth milk and almost no foam.",
+        "Mocha: latte with chocolate."
+      ],
+      "task": "Make a flat white and a mocha.",
+      "challenge": "Make all five drinks and line them up for a photo.",
+      "quiz": [
+        {
+          "q": "What is a flat white?",
+          "options": [
+            "Coffee with cream",
+            "Espresso with thin, smooth milk and almost no foam",
+            "Cold coffee",
+            "Coffee with no milk"
+          ],
+          "answer": 1,
+          "explain": "A flat white has thin, smooth milk and very little foam."
+        },
+        {
+          "q": "What is a mocha?",
+          "options": [
+            "Coffee with cream",
+            "A latte with chocolate",
+            "Cold coffee",
+            "Coffee with no milk"
+          ],
+          "answer": 1,
+          "explain": "A mocha is a latte with chocolate added."
+        },
+        {
+          "q": "How is a latte different from a cappuccino?",
+          "options": [
+            "It is hotter",
+            "A latte has more milk and less foam",
+            "It is sweeter",
+            "It is smaller"
+          ],
+          "answer": 1,
+          "explain": "A latte has lots of milk and little foam. A cappuccino has equal parts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A Cafe Menu",
+      "goal": "Make a cafe menu with five drinks.",
+      "video": {
+        "youtube_id": "oHjBbs6z2nA",
+        "title": "Extract the Perfect Espresso",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "Pick five drinks: espresso, latte, cappuccino, flat white, and mocha.",
+        "Write the recipes with exact amounts.",
+        "Make all five and serve them in nice cups.",
+        "Add a latte art heart to the latte.",
+        "Ask tasters to pick a favourite and set a price for each drink."
+      ],
+      "task": "Make a five-drink cafe menu.",
+      "challenge": "Price each drink as if you were selling it.",
+      "quiz": [
+        {
+          "q": "Why make five drinks?",
+          "options": [
+            "It is faster",
+            "A menu with five choices shows your range",
+            "It saves beans",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Five drinks show you can run a real cafe menu."
+        },
+        {
+          "q": "Why add latte art to the latte?",
+          "options": [
+            "It is faster",
+            "Art makes the drink look professional",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Latte art shows skill and makes the drink look worth buying."
+        },
+        {
+          "q": "Why price each drink?",
+          "options": [
+            "To show off",
+            "So you know what to charge and what you earn",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Pricing tells you the profit on each drink."
+        }
+      ],
+      "project": {
+        "title": "Make a Five-Drink Cafe Menu",
+        "brief": "Make espresso, latte, cappuccino, flat white, and mocha.",
+        "checks": [
+          "Five different drinks made",
+          "Recipes written with exact amounts",
+          "Latte art heart on the latte",
+          "Drinks served in nice cups",
+          "Each drink priced",
+          "Feedback collected from tasters"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Coffee Beans: Origins and Roasts",
+      "goal": "Learn how beans and roasts change the taste.",
+      "video": {
+        "youtube_id": "zo37Ze6xJXA",
+        "title": "The Simplest Latte Pattern: The Heart!",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "Beans come from different countries and taste different.",
+        "Light roast keeps more of the bean's own taste. It can be fruity.",
+        "Dark roast tastes stronger and more bitter.",
+        "Medium roast is in the middle and suits most people.",
+        "Taste a light and a dark roast side by side."
+      ],
+      "task": "Taste a light roast and a dark roast side by side.",
+      "challenge": "Write down which roast you like best and why.",
+      "quiz": [
+        {
+          "q": "What does light roast taste like?",
+          "options": [
+            "Bitter",
+            "More of the bean's own taste, sometimes fruity",
+            "Sweet",
+            "Like chocolate only"
+          ],
+          "answer": 1,
+          "explain": "Light roast keeps the bean's own flavour, which can be fruity."
+        },
+        {
+          "q": "What does dark roast taste like?",
+          "options": [
+            "Fruity",
+            "Stronger and more bitter",
+            "Sweet",
+            "Sour"
+          ],
+          "answer": 1,
+          "explain": "Dark roast tastes stronger and more bitter."
+        },
+        {
+          "q": "Which roast suits most people?",
+          "options": [
+            "Light",
+            "Medium",
+            "Dark",
+            "Very dark"
+          ],
+          "answer": 1,
+          "explain": "Medium roast is balanced and suits most people."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Grinding Coffee: Fine or Coarse",
+      "goal": "Grind coffee the right way for each method.",
+      "video": {
+        "youtube_id": "KBsenwpNu5Q",
+        "title": "James Hoffmann French Press Method",
+        "channel": "James Hoffmann"
+      },
+      "steps": [
+        "French press needs coarse grind, like rough sugar.",
+        "Espresso needs fine grind, like sand.",
+        "Too fine for a French press makes muddy coffee.",
+        "Too coarse for espresso makes weak, sour coffee.",
+        "Grind just before brewing. Ground coffee goes stale fast."
+      ],
+      "task": "Grind coffee coarse for a French press and fine for espresso.",
+      "challenge": "Brew both and compare the taste.",
+      "quiz": [
+        {
+          "q": "What grind does a French press need?",
+          "options": [
+            "Fine",
+            "Coarse, like rough sugar",
+            "Very fine",
+            "Any grind"
+          ],
+          "answer": 1,
+          "explain": "A French press needs coarse grounds so they do not slip through the filter."
+        },
+        {
+          "q": "What grind does espresso need?",
+          "options": [
+            "Coarse",
+            "Fine, like sand",
+            "Very coarse",
+            "Any grind"
+          ],
+          "answer": 1,
+          "explain": "Espresso needs fine grounds so the water pulls out lots of flavour fast."
+        },
+        {
+          "q": "Why grind just before brewing?",
+          "options": [
+            "It is faster",
+            "Ground coffee goes stale fast",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Ground coffee loses flavour quickly. Fresh grinding keeps it tasty."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Iced Coffee and Cold Brew",
+      "goal": "Make iced coffee and cold brew.",
+      "video": {
+        "youtube_id": "7yfTkFLw0wg",
+        "title": "How to Make a Caffe Latte",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Iced coffee is hot coffee poured over ice.",
+        "Cold brew is coffee steeped in cold water for 12 hours.",
+        "Cold brew tastes smooth and less bitter.",
+        "Make cold brew: coarse grounds plus cold water in a jar, wait 12 hours, strain.",
+        "Serve both over ice with milk if you like."
+      ],
+      "task": "Make iced coffee.",
+      "challenge": "Start a cold brew tonight and drink it tomorrow.",
+      "quiz": [
+        {
+          "q": "What is cold brew?",
+          "options": [
+            "Coffee with ice",
+            "Coffee steeped in cold water for 12 hours",
+            "Coffee from the fridge",
+            "Coffee with milk"
+          ],
+          "answer": 1,
+          "explain": "Cold brew is coffee left in cold water for 12 hours."
+        },
+        {
+          "q": "How does cold brew taste?",
+          "options": [
+            "Bitter",
+            "Smooth and less bitter",
+            "Sour",
+            "Sweet"
+          ],
+          "answer": 1,
+          "explain": "Cold water pulls out less bitterness, so cold brew tastes smooth."
+        },
+        {
+          "q": "What is iced coffee?",
+          "options": [
+            "Cold brew",
+            "Hot coffee poured over ice",
+            "Coffee with milk",
+            "Coffee from the fridge"
+          ],
+          "answer": 1,
+          "explain": "Iced coffee is hot coffee cooled by pouring it over ice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Flavoured Lattes: Vanilla and Caramel",
+      "goal": "Make vanilla and caramel lattes.",
+      "video": {
+        "youtube_id": "TTKAaHc3xSc",
+        "title": "Latte Art for Beginners: 12 Easy Designs (Step-by-Step Tutorial)",
+        "channel": "Latte Art Tutorials"
+      },
+      "steps": [
+        "A flavoured latte is a latte with syrup added.",
+        "Add syrup to the espresso before the milk.",
+        "Vanilla syrup adds a sweet, soft taste.",
+        "Caramel syrup adds a rich, sweet taste.",
+        "Start with a small amount. You can add more."
+      ],
+      "task": "Make a vanilla latte.",
+      "challenge": "Make a caramel latte and compare.",
+      "quiz": [
+        {
+          "q": "When do you add syrup to a latte?",
+          "options": [
+            "After the milk",
+            "To the espresso before the milk",
+            "At the end",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Syrup goes into the espresso first so it mixes well."
+        },
+        {
+          "q": "What does vanilla syrup add?",
+          "options": [
+            "Bitterness",
+            "A sweet, soft taste",
+            "Sourness",
+            "Colour only"
+          ],
+          "answer": 1,
+          "explain": "Vanilla adds a sweet, soft taste."
+        },
+        {
+          "q": "Why start with a small amount of syrup?",
+          "options": [
+            "It is cheaper",
+            "You can add more but you cannot take it out",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Too much syrup makes a drink too sweet. Start small."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Costing Coffee: Price Your Drinks",
+      "goal": "Work out what each coffee costs and what to charge.",
+      "video": {
+        "youtube_id": "SiefJJv-Qho",
+        "title": "Latte Art For Beginners: How To Pour Heart",
+        "channel": "European Coffee Trip"
+      },
+      "steps": [
+        "List every ingredient: beans, milk, sugar, and cups.",
+        "Add the cost of the cup and packaging.",
+        "Divide the total by the number of drinks you made.",
+        "Charge 3 to 4 times the cost for a profit.",
+        "Compare with cafes near you."
+      ],
+      "task": "Cost a latte and set its selling price.",
+      "challenge": "Cost a cappuccino the same way.",
+      "quiz": [
+        {
+          "q": "What is the cost per drink?",
+          "options": [
+            "The selling price",
+            "Total cost divided by the number of drinks",
+            "The bean cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Cost per drink is the total cost shared across all the drinks you made."
+        },
+        {
+          "q": "Why charge 3 to 4 times the cost?",
+          "options": [
+            "To be expensive",
+            "To cover rent, power, and your time, and still make a profit",
+            "It is a law",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "Cafes have rent and power costs, so drinks are priced higher than home costs."
+        },
+        {
+          "q": "What else must you add to the cost?",
+          "options": [
+            "Nothing",
+            "Cups and packaging",
+            "Only your time",
+            "Only transport"
+          ],
+          "answer": 1,
+          "explain": "Cups and packaging are real costs of every drink."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Coffee Mistakes and Fixes",
+      "goal": "Fix the commonest coffee problems.",
+      "video": {
+        "youtube_id": "ZEUjYfFvMbA",
+        "title": "How to Make Latte Art Step by Step | From Grinder to Tulip Latte Art",
+        "channel": "Faisal B & B"
+      },
+      "steps": [
+        "Espresso is sour? The shot was too fast. Grind finer.",
+        "Espresso is bitter? The shot was too slow. Grind coarser.",
+        "Milk has big bubbles? You added too much air. Steam it smoother.",
+        "Latte art will not form? The milk is not smooth enough. Practise steaming.",
+        "Write down each problem and fix."
+      ],
+      "task": "Fix one coffee problem you have had.",
+      "challenge": "Pull three shots and note the time of each one.",
+      "quiz": [
+        {
+          "q": "Why is espresso sour?",
+          "options": [
+            "Too much milk",
+            "The shot was too fast",
+            "The beans are old",
+            "The water is cold"
+          ],
+          "answer": 1,
+          "explain": "A fast shot does not pull out enough flavour, so it tastes sour."
+        },
+        {
+          "q": "Why is espresso bitter?",
+          "options": [
+            "Too much milk",
+            "The shot was too slow",
+            "The beans are old",
+            "The water is cold"
+          ],
+          "answer": 1,
+          "explain": "A slow shot pulls out too much, so it tastes bitter."
+        },
+        {
+          "q": "Why does milk have big bubbles?",
+          "options": [
+            "It is too cold",
+            "Too much air was added while steaming",
+            "It is old",
+            "It is the wrong milk"
+          ],
+          "answer": 1,
+          "explain": "Too much air makes big bubbles. Gentle steaming makes tiny ones."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Coffee Morning",
+      "goal": "Run a coffee morning for friends or family.",
+      "video": {
+        "youtube_id": "kWBHcW48zZI",
+        "title": "How To Pour a Heart: Latte Art",
+        "channel": "Volcano Coffee Works"
+      },
+      "steps": [
+        "Pick the menu: latte, cappuccino, flat white, and iced coffee.",
+        "Write the recipes, costs, and prices.",
+        "Set up your coffee station the night before.",
+        "Make each drink to order and serve it hot.",
+        "Ask guests to vote for their favourite."
+      ],
+      "task": "Run a coffee morning for at least 4 people.",
+      "challenge": "Cost the morning and work out your profit if you sold the drinks.",
+      "quiz": [
+        {
+          "q": "Why set up the night before?",
+          "options": [
+            "It is faster",
+            "So the morning runs smoothly",
+            "It saves beans",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Setting up early means no rushing when guests arrive."
+        },
+        {
+          "q": "Why make drinks to order?",
+          "options": [
+            "It is faster",
+            "Coffee tastes best fresh",
+            "It saves milk",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Coffee made to order is hot and fresh."
+        },
+        {
+          "q": "Why ask guests to vote?",
+          "options": [
+            "To show off",
+            "Votes tell you which drinks sell best",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Votes show you which drinks to keep on your menu."
+        }
+      ],
+      "project": {
+        "title": "Run a Coffee Morning",
+        "brief": "Serve latte, cappuccino, flat white, and iced coffee to at least 4 people.",
+        "checks": [
+          "Four different drinks made to order",
+          "Each drink made fresh and hot",
+          "Latte art on at least one drink",
+          "Drinks served in nice cups",
+          "Guests voted for a favourite",
+          "Costs and profit worked out"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Cleaning Your Coffee Equipment",
+      "goal": "Clean your grinder, machine, and pitchers.",
+      "video": {
+        "youtube_id": "myqhxxZSbRc",
+        "title": "How To Pour a Tulip: Latte Art",
+        "channel": "Volcano Coffee Works"
+      },
+      "steps": [
+        "Clean the portafilter after every shot. Old coffee tastes bitter.",
+        "Wipe the steam wand after every use. Milk burns onto it fast.",
+        "Wash pitchers with hot water and soap.",
+        "Clean the grinder once a week. Old grounds go stale.",
+        "Descale the machine when the manual says so."
+      ],
+      "task": "Clean all your coffee equipment today.",
+      "challenge": "Write a cleaning list and stick it near your coffee station.",
+      "quiz": [
+        {
+          "q": "Why clean the portafilter after every shot?",
+          "options": [
+            "It looks nice",
+            "Old coffee tastes bitter",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Leftover coffee goes stale and makes the next shot bitter."
+        },
+        {
+          "q": "Why wipe the steam wand after every use?",
+          "options": [
+            "It looks nice",
+            "Milk burns onto it fast",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Milk dries and burns onto a hot wand in minutes."
+        },
+        {
+          "q": "Why clean the grinder weekly?",
+          "options": [
+            "It looks nice",
+            "Old grounds go stale and spoil new coffee",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Stale grounds in the grinder spoil fresh coffee."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Serving Customers: The Barista Way",
+      "goal": "Serve coffee like a professional barista.",
+      "video": {
+        "youtube_id": "zo8UXScttIA",
+        "title": "How To Pour a Rosetta: Latte Art",
+        "channel": "Volcano Coffee Works"
+      },
+      "steps": [
+        "Greet the customer with a smile and their name if you know it.",
+        "Repeat the order back so you get it right.",
+        "Make the drink fresh. Do not let it sit.",
+        "Serve it hot with a smile. Ask if they want anything else.",
+        "Thank them and invite them back."
+      ],
+      "task": "Practise serving coffee to a friend, step by step.",
+      "challenge": "Ask your friend what made the service feel good.",
+      "quiz": [
+        {
+          "q": "Why repeat the order back?",
+          "options": [
+            "To be polite",
+            "So you get it right",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Repeating the order stops mistakes."
+        },
+        {
+          "q": "Why serve coffee fresh?",
+          "options": [
+            "It is faster",
+            "Coffee tastes best hot and fresh",
+            "It saves milk",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Coffee left sitting goes cold and bitter."
+        },
+        {
+          "q": "Why use the customer's name?",
+          "options": [
+            "To show off",
+            "It makes them feel welcome",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Using a name makes service feel personal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Your Signature Coffee",
+      "goal": "Choose and perfect one coffee you can make brilliantly.",
+      "video": {
+        "youtube_id": "i4xTz_OwlSQ",
+        "title": "3 Easy Latte Art Designs: Heart",
+        "channel": "The Regency Hospitality"
+      },
+      "steps": [
+        "Pick the coffee your household loves most from this course.",
+        "Write the recipe in your own words with exact amounts.",
+        "Make it again, timing every step and noting problems.",
+        "Fix the problems and make it once more.",
+        "Get someone new to taste it and give honest feedback."
+      ],
+      "task": "Make your signature coffee and write the final recipe down.",
+      "challenge": "Make it for someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature coffee?",
+          "options": [
+            "An expensive coffee",
+            "A coffee you can make brilliantly every time",
+            "A coffee with a fancy name",
+            "A coffee only you drink"
+          ],
+          "answer": 1,
+          "explain": "A signature coffee is one you have mastered."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you truly understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself proves you understand each step."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste beans"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Coffee Business: First Steps",
+      "goal": "Take your first steps toward selling coffee.",
+      "video": {
+        "youtube_id": "bd5WeZeGhT8",
+        "title": "Rosetta",
+        "channel": "The Regency Hospitality"
+      },
+      "steps": [
+        "Pick 3 or 4 drinks to sell. Keep the menu small.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your drinks in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you buy only what you need."
+      ],
+      "task": "Take photos of your best coffees and show them to three people.",
+      "challenge": "Take one real order, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 3 or 4 drinks?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to make well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you buy only what you need and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell coffee."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your coffee business.",
+      "video": {
+        "youtube_id": "9atSUkIJX6I",
+        "title": "Bear latte art",
+        "channel": "The Regency Hospitality"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which drinks sell best and which do not.",
+        "Keep your money for coffee separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one coffee morning.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to make",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for beans, milk, and cups."
+        },
+        {
+          "q": "Why keep coffee money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if the business is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Latte Art Practice: Fun Designs",
+      "goal": "Try fun latte art designs like a bear.",
+      "video": {
+        "youtube_id": "z0LBOb62j2I",
+        "title": "Choosing the Right Milk for Your Latte",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "Start with the heart. It is the base of most designs.",
+        "A bear is a heart with two small ears on top.",
+        "Pour the ears first, then the heart below.",
+        "Use a toothpick to add small details like eyes.",
+        "Practise on water with soap to save milk."
+      ],
+      "task": "Pour a bear in a latte.",
+      "challenge": "Try one more fun design of your choice.",
+      "quiz": [
+        {
+          "q": "What is the base of most latte art?",
+          "options": [
+            "The rosetta",
+            "The heart",
+            "The tulip",
+            "The bear"
+          ],
+          "answer": 1,
+          "explain": "The heart is the base. Tulips and bears build on it."
+        },
+        {
+          "q": "How do you make a bear?",
+          "options": [
+            "Draw it with a spoon",
+            "Pour two small ears, then a heart below",
+            "Use a mould",
+            "Pour a rosetta"
+          ],
+          "answer": 1,
+          "explain": "A bear is two small ears poured above a heart."
+        },
+        {
+          "q": "Why practise on water with soap?",
+          "options": [
+            "It is faster",
+            "It saves milk while you learn",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Water with soap acts like milk, so you can practise without wasting milk."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Coffee and Food Pairing",
+      "goal": "Pair coffee with food that suits it.",
+      "video": {
+        "youtube_id": "FvAA8mHwM_4",
+        "title": "What Type of Pitcher is Best for Latte Art?",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "Black coffee goes well with sweet cakes and pastries.",
+        "A latte goes well with a light breakfast.",
+        "Iced coffee goes well with a sandwich on a hot day.",
+        "Serve a small biscuit with every coffee.",
+        "Ask tasters what food they like with each coffee."
+      ],
+      "task": "Serve a coffee with a cake or biscuit and note the pairing.",
+      "challenge": "Try three pairings and pick the best one.",
+      "quiz": [
+        {
+          "q": "What goes well with black coffee?",
+          "options": [
+            "Salty food",
+            "Sweet cakes and pastries",
+            "Spicy food",
+            "Fruit only"
+          ],
+          "answer": 1,
+          "explain": "Sweet cakes balance the bitterness of black coffee."
+        },
+        {
+          "q": "Why serve a biscuit with coffee?",
+          "options": [
+            "It is a rule",
+            "A small sweet bite goes well with coffee",
+            "It is cheaper",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "A biscuit adds a sweet bite that suits coffee."
+        },
+        {
+          "q": "What goes well with iced coffee?",
+          "options": [
+            "Hot soup",
+            "A sandwich on a hot day",
+            "Cake only",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Iced coffee and a sandwich make a light, cool lunch."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Barista's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "GuBswTkAgw8",
+        "title": "Making the Perfect Latte Microfoam",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "Pull an espresso shot from memory, without help.",
+        "Steam milk until smooth and glossy.",
+        "Pour a heart in a latte.",
+        "Name the five main espresso drinks.",
+        "List your three strongest skills and one to improve."
+      ],
+      "task": "Make a full cafe menu from memory, no recipe.",
+      "challenge": "Teach one coffee skill from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What are the five main espresso drinks?",
+          "options": [
+            "Espresso, latte, cappuccino, flat white, mocha",
+            "Espresso, tea, latte, mocha, juice",
+            "Latte, cappuccino, tea, coffee, milk",
+            "Espresso, latte, juice, tea, water"
+          ],
+          "answer": 0,
+          "explain": "Espresso, latte, cappuccino, flat white, and mocha are the five main drinks."
+        },
+        {
+          "q": "Why make drinks from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Making drinks without a recipe shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves beans"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Cafe Day",
+      "goal": "Plan your capstone cafe day and gather everything you need.",
+      "video": {
+        "youtube_id": "oHjBbs6z2nA",
+        "title": "Extract the Perfect Espresso",
+        "channel": "Café Barista"
+      },
+      "steps": [
+        "Choose your capstone menu: five drinks, including latte art.",
+        "Write the full shopping list with costs.",
+        "Write the making order, starting with what takes longest.",
+        "Check you have every tool and ingredient.",
+        "Do a trial run of the hardest drink if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone drink today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only expensive drinks",
+            "Everything you learned: espresso, milk, latte art, and costing",
+            "Only one drink",
+            "Only latte art"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why start with what takes longest?",
+          "options": [
+            "It is harder",
+            "So everything finishes at the same time",
+            "It tastes better",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Long tasks start first so all drinks are ready together."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste beans",
+            "To find problems before the real day",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Barista's Cafe Day: Five Drinks, Served Like a Pro",
+    "brief": "Run a small cafe day for your household or customers: serve espresso, latte, cappuccino, flat white, and mocha, with latte art on at least two drinks. Cost every drink, serve them hot and on time, and collect feedback.",
+    "checks": [
+      "Menu planned with recipes, costs, and prices",
+      "Espresso shots pulled well, not sour or bitter",
+      "Milk steamed smooth and glossy",
+      "Latte art poured on at least two drinks",
+      "Drinks served hot and on time",
+      "Costs worked out and profit known",
+      "Feedback collected from at least one person who drank the coffee"
+    ],
+    "deliverables": [
+      "A photo of your cafe menu and drinks",
+      "Your written menu with recipes, costs, and prices",
+      "Your making order, starting with what takes longest",
+      "Your signature coffee recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

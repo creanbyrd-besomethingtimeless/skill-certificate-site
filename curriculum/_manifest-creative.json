@@ -1,0 +1,132 @@
+{
+  "skills": [
+    {
+      "slug": "video-editing",
+      "name": "Video Editing",
+      "category": "Creative & Media",
+      "tagline": "Edit clean, sharp videos with CapCut and Premiere Pro, from cuts and captions to a finished upload.",
+      "level": "Beginner",
+      "videos_verified": 11
+    },
+    {
+      "slug": "photo-editing-photoshop",
+      "name": "Photo Editing with Photoshop",
+      "category": "Creative & Media",
+      "tagline": "Retouch, cut out and design with Photoshop, from your first edit to client-ready images.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 13
+    },
+    {
+      "slug": "graphic-design-canva",
+      "name": "Graphic Design with Canva",
+      "category": "Creative & Media",
+      "tagline": "Design flyers, logos and social posts with Canva that look like a pro made them.",
+      "level": "Beginner",
+      "videos_verified": 10
+    },
+    {
+      "slug": "graphic-design-illustrator",
+      "name": "Graphic Design with Illustrator",
+      "category": "Creative & Media",
+      "tagline": "Master vector design with Illustrator: logos, illustrations and print-ready artwork.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 11
+    },
+    {
+      "slug": "photography-basics",
+      "name": "Photography Basics",
+      "category": "Creative & Media",
+      "tagline": "Take sharp, well-lit photos with any camera, from settings and light to editing and sharing.",
+      "level": "Beginner",
+      "videos_verified": 17
+    },
+    {
+      "slug": "smartphone-photography",
+      "name": "Smartphone Photography",
+      "category": "Creative & Media",
+      "tagline": "Shoot portraits, products and food with your phone that look like they came from a studio.",
+      "level": "Beginner",
+      "videos_verified": 10
+    },
+    {
+      "slug": "videography-basics",
+      "name": "Videography Basics",
+      "category": "Creative & Media",
+      "tagline": "Shoot steady, cinematic video: framing, light, sound and editing for real clients.",
+      "level": "Beginner",
+      "videos_verified": 11
+    },
+    {
+      "slug": "youtube-creator",
+      "name": "YouTube Creator",
+      "category": "Creative & Media",
+      "tagline": "Start a YouTube channel from zero: ideas, filming, editing, thumbnails and your first 100 subscribers.",
+      "level": "Beginner",
+      "videos_verified": 13
+    },
+    {
+      "slug": "podcasting",
+      "name": "Podcasting",
+      "category": "Creative & Media",
+      "tagline": "Plan, record and publish a podcast people actually finish, with gear you already own.",
+      "level": "Beginner",
+      "videos_verified": 12
+    },
+    {
+      "slug": "music-production",
+      "name": "Music Production",
+      "category": "Creative & Media",
+      "tagline": "Make full songs with a DAW: beats, melody, mixing and your first finished track.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 13
+    },
+    {
+      "slug": "beat-making",
+      "name": "Beat Making",
+      "category": "Creative & Media",
+      "tagline": "Make Afrobeats, hip-hop and trap beats from scratch and finish one every week.",
+      "level": "Beginner",
+      "videos_verified": 10
+    },
+    {
+      "slug": "voice-over-acting",
+      "name": "Voice-Over Acting",
+      "category": "Creative & Media",
+      "tagline": "Train your voice, record clean audio at home and land your first voice-over job.",
+      "level": "Beginner",
+      "videos_verified": 10
+    },
+    {
+      "slug": "animation-2d",
+      "name": "2D Animation",
+      "category": "Creative & Media",
+      "tagline": "Bring drawings to life: timing, movement and your first short animated scene.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 10
+    },
+    {
+      "slug": "motion-graphics",
+      "name": "Motion Graphics",
+      "category": "Creative & Media",
+      "tagline": "Animate text, logos and graphics with After Effects for videos, ads and social media.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 12
+    },
+    {
+      "slug": "content-writing",
+      "name": "Content Writing",
+      "category": "Creative & Media",
+      "tagline": "Write articles, posts and scripts people read to the end, and build a writing portfolio.",
+      "level": "Beginner",
+      "videos_verified": 14
+    },
+    {
+      "slug": "copywriting",
+      "name": "Copywriting",
+      "category": "Creative & Media",
+      "tagline": "Write words that sell: ads, sales pages and emails that turn readers into buyers.",
+      "level": "Beginner to intermediate",
+      "videos_verified": 10
+    }
+  ]
+}

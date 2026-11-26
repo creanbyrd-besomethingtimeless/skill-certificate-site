@@ -15,11 +15,12 @@
 <header class="site-header">
   <div class="container">
     <a class="brand" href="index.html">TYE Skill<span>Certificate</span></a>
+    <button type="button" class="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
     <nav class="main-nav">
       <a href="index.html">Home</a>
-      <a href="dashboard.html">Dashboard</a>
+      <a href="dashboard.html" id="nav-dashboard">Dashboard</a>
       <a href="learn.html" class="active">Learn</a>
-      <a href="certificate.html">Certificate</a>
+      <a href="certificate.html" id="nav-certificate">Certificate</a>
       <button type="button" class="btn ghost small" data-sign-out>Sign out</button>
     </nav>
   </div>
@@ -30,9 +31,11 @@
     <div class="notice hidden" data-setup-notice></div>
     <div id="learn-loading"><p class="muted">Loading your lesson...</p></div>
     <div id="learn-content" class="hidden">
+      <p class="muted" id="learn-skill-name" style="margin-bottom:12px"></p>
       <div class="card" style="margin-bottom:20px">
-        <div class="progress-label"><span id="learn-progress-text">0 of 30 days complete (0%)</span><span><a href="dashboard.html">Dashboard</a></span></div>
+        <div class="progress-label"><span id="learn-progress-text">0 of 30 days complete (0%)</span><span><a href="dashboard.html" id="learn-dashboard-link">Dashboard</a></span></div>
         <div class="progress-track"><div class="progress-fill" id="learn-progress-fill"></div></div>
+        <p class="small muted" id="local-progress-note" style="margin-top:10px"></p>
       </div>
 
       <div class="learn-layout">
@@ -79,7 +82,7 @@
           <div style="display:flex; gap:12px; margin-top:20px; flex-wrap:wrap">
             <button type="button" class="btn secondary" id="prev-day-btn">Previous day</button>
             <button type="button" class="btn secondary" id="next-day-btn">Next day</button>
-            <a class="btn" href="certificate.html">Certificate status</a>
+            <a class="btn" href="certificate.html" id="learn-cert-link">Certificate status</a>
           </div>
         </div>
       </div>
@@ -98,13 +101,30 @@
 document.addEventListener("DOMContentLoaded", async function () {
   var session = await window.SkillApp.requireAuth();
   if (!session) return;
+  var slug = window.SkillCourse.skillSlugFromUrl();
   try {
-    await window.SkillCourse.loadCurriculum();
+    await window.SkillCourse.loadCurriculum(slug);
+    slug = window.SkillCourse.skillSlug();
+    var skillName = document.getElementById("learn-skill-name");
+    if (skillName) skillName.textContent = window.SkillCourse.courseTitle() + " - 30 days";
+    document.title = "Learn - " + window.SkillCourse.courseTitle() + " - TYE Skill Certificate";
+    var navDash = document.getElementById("nav-dashboard");
+    if (navDash) navDash.href = "dashboard.html?skill=" + encodeURIComponent(slug);
+    var navCert = document.getElementById("nav-certificate");
+    if (navCert) navCert.href = "certificate.html?skill=" + encodeURIComponent(slug);
+    var dashLink = document.getElementById("learn-dashboard-link");
+    if (dashLink) dashLink.href = "dashboard.html?skill=" + encodeURIComponent(slug);
+    var certLink = document.getElementById("learn-cert-link");
+    if (certLink) certLink.href = "certificate.html?skill=" + encodeURIComponent(slug);
   } catch (err) {
     document.getElementById("learn-loading").innerHTML = '<p class="error">' + err.message + "</p>";
     return;
   }
-  await window.SkillCourse.loadProgress(session.user);
+  await window.SkillCourse.loadProgress(session.user, slug);
+  if (!window.SkillApp.isConfigured()) {
+    var note = document.getElementById("local-progress-note");
+    if (note) note.textContent = "Supabase is not set up yet, so progress is saved in this browser only. It will not follow you to another device.";
+  }
   document.getElementById("learn-loading").classList.add("hidden");
   document.getElementById("learn-content").classList.remove("hidden");
   window.SkillCourse.showDay(window.SkillCourse.dayFromUrl());
