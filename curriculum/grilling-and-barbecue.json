@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "grilling-and-barbecue",
+    "title": "Grilling and Barbecue",
+    "level": "Beginner",
+    "tagline": "Grill suya, chicken and fish over open fire with marinades people remember.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Grilling Basics: Your Grill and Tools",
+      "goal": "Know your grill, your tools, and the safety rules.",
+      "video": {
+        "youtube_id": "xAnBllcEmhQ",
+        "title": "The Most Succulent Grilled Chicken (Suya)",
+        "channel": "Cook with Lerato"
+      },
+      "steps": [
+        "Learn the two main grills: charcoal (uses coal) and gas (uses gas).",
+        "Find your tools: long tongs, a brush, a tray, and gloves.",
+        "Grill outside only. Never grill inside a room.",
+        "Keep water or a spray bottle nearby for small flare-ups.",
+        "Clean the grill grate with a brush before and after cooking."
+      ],
+      "task": "Clean your grill and lay out your tools.",
+      "challenge": "Light your grill and let it heat for 15 minutes with no food on it.",
+      "quiz": [
+        {
+          "q": "Why grill outside only?",
+          "options": [
+            "It is faster",
+            "Grills make smoke and fire that are not safe inside",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Grills make smoke and carbon monoxide. They are only safe outside."
+        },
+        {
+          "q": "What are long tongs for?",
+          "options": [
+            "Stirring",
+            "Turning hot food without burning your hands",
+            "Cleaning",
+            "Cutting"
+          ],
+          "answer": 1,
+          "explain": "Long tongs keep your hands far from the heat."
+        },
+        {
+          "q": "Why clean the grate before cooking?",
+          "options": [
+            "It looks nice",
+            "Old food sticks and burns, and makes new food stick",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A clean grate stops food sticking and tasting burnt."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Lighting Charcoal the Safe Way",
+      "goal": "Light a charcoal grill with a chimney starter.",
+      "video": {
+        "youtube_id": "wAyevgTtRlM",
+        "title": "Nigerian Suya Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "A chimney starter is a metal tube that lights coal fast and safely.",
+        "Fill the chimney with charcoal.",
+        "Put paper or fire starters under it and light them.",
+        "Wait 15 to 20 minutes until the coals are grey with ash.",
+        "Pour the coals out and spread them on one side of the grill."
+      ],
+      "task": "Light your charcoal grill with a chimney starter.",
+      "challenge": "Time how long your coals take to turn grey.",
+      "quiz": [
+        {
+          "q": "What is a chimney starter?",
+          "options": [
+            "A type of grill",
+            "A metal tube that lights charcoal fast and safely",
+            "A kind of coal",
+            "A tool for cleaning"
+          ],
+          "answer": 1,
+          "explain": "A chimney starter lights coal quickly without lighter fluid."
+        },
+        {
+          "q": "How do you know coals are ready?",
+          "options": [
+            "They are black",
+            "They are covered in grey ash",
+            "They smoke a lot",
+            "They feel hot"
+          ],
+          "answer": 1,
+          "explain": "Grey ash on the coals means they are hot and ready."
+        },
+        {
+          "q": "Why not use lighter fluid on food?",
+          "options": [
+            "It is expensive",
+            "It can leave a chemical taste on the food",
+            "It is slow",
+            "It is hard to find"
+          ],
+          "answer": 1,
+          "explain": "Lighter fluid can leave a bad taste on your food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Hot and Cool Zones: The Two-Zone Fire",
+      "goal": "Set up a hot zone and a cool zone on your grill.",
+      "video": {
+        "youtube_id": "cW_BxMKIkng",
+        "title": "Chicken Suya",
+        "channel": "All Nigerian Foods"
+      },
+      "steps": [
+        "A hot zone is where the coals are. It is for searing (fast, hot cooking).",
+        "A cool zone has no coals. It is for slow, gentle cooking.",
+        "Push all the coals to one side to make the two zones.",
+        "Sear food over the hot zone, then move it to the cool zone to finish.",
+        "Close the lid to cook with heat all around, like an oven."
+      ],
+      "task": "Set up a two-zone fire and grill one piece of chicken.",
+      "challenge": "Move the chicken from hot to cool zone and note the difference.",
+      "quiz": [
+        {
+          "q": "What is a hot zone?",
+          "options": [
+            "The lid",
+            "The side with the coals, for fast hot cooking",
+            "The cool side",
+            "The tray"
+          ],
+          "answer": 1,
+          "explain": "The hot zone is where the coals are. It sears food fast."
+        },
+        {
+          "q": "What is a cool zone for?",
+          "options": [
+            "Searing",
+            "Slow, gentle cooking to finish food",
+            "Keeping food cold",
+            "Lighting coals"
+          ],
+          "answer": 1,
+          "explain": "The cool zone finishes food gently without burning it."
+        },
+        {
+          "q": "Why close the lid?",
+          "options": [
+            "To save gas",
+            "It turns the grill into an oven and cooks food all around",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A closed lid traps heat so food cooks from all sides."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Suya Spice (Yaji): Make Your Own",
+      "goal": "Make suya spice from scratch.",
+      "video": {
+        "youtube_id": "vWN7b5H_7Fo",
+        "title": "Beef Suya",
+        "channel": "All Nigerian Foods"
+      },
+      "steps": [
+        "Yaji is the spicy peanut mix rubbed on suya.",
+        "Grind roasted peanuts into a coarse powder.",
+        "Add ginger powder, paprika, chilli powder, and salt.",
+        "Add a little garlic powder and onion powder if you have them.",
+        "Taste it. Add more chilli if you want it hotter. Store in a sealed jar."
+      ],
+      "task": "Make a jar of suya spice.",
+      "challenge": "Taste your spice on grilled chicken and adjust it.",
+      "quiz": [
+        {
+          "q": "What is yaji made from?",
+          "options": [
+            "Ground maize",
+            "Ground peanuts with ginger, paprika, and chilli",
+            "Ground rice",
+            "Ground beans"
+          ],
+          "answer": 1,
+          "explain": "Yaji is built on ground peanuts with ginger, paprika, and chilli."
+        },
+        {
+          "q": "Why grind peanuts coarse, not smooth?",
+          "options": [
+            "It is faster",
+            "Coarse peanuts give suya its rough, crunchy coating",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Coarse ground peanuts coat the meat and give suya its texture."
+        },
+        {
+          "q": "How should you store yaji?",
+          "options": [
+            "In an open bowl",
+            "In a sealed jar, in a cool dry place",
+            "In the fridge only",
+            "In water"
+          ],
+          "answer": 1,
+          "explain": "A sealed jar keeps the spice dry and fresh."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Beef Suya: Thin Slices, Big Flavour",
+      "goal": "Grill beef suya at home.",
+      "video": {
+        "youtube_id": "LPYjtmnqXRk",
+        "title": "How to Grill (Almost) Everything",
+        "channel": "HelloFresh"
+      },
+      "steps": [
+        "Cut beef into thin, flat slices. Thin slices cook fast.",
+        "Rub the beef with oil, then coat it with suya spice.",
+        "Thread the slices onto skewers, flat, not bunched up.",
+        "Grill over medium heat. Turn often.",
+        "Brush with oil while grilling so it stays moist."
+      ],
+      "task": "Grill beef suya.",
+      "challenge": "Serve with sliced onion and extra suya spice.",
+      "quiz": [
+        {
+          "q": "Why cut suya meat thinly?",
+          "options": [
+            "To save meat",
+            "Thin slices cook fast and take on more spice",
+            "It looks better",
+            "It is easier to chew only"
+          ],
+          "answer": 1,
+          "explain": "Thin slices grill quickly and carry more spice on their surface."
+        },
+        {
+          "q": "Why thread suya flat on skewers?",
+          "options": [
+            "It looks nice",
+            "Flat slices cook evenly",
+            "It saves skewers",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Flat slices cook evenly. Bunched meat stays raw inside."
+        },
+        {
+          "q": "Why brush suya with oil while grilling?",
+          "options": [
+            "It looks nice",
+            "It keeps the meat moist",
+            "It adds colour only",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Oil stops the thin meat drying out over the fire."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Chicken Suya: Juicy Every Time",
+      "goal": "Grill chicken suya that stays juicy.",
+      "video": {
+        "youtube_id": "skumovrlsZs",
+        "title": "How To Make Perfect Spatchcock Chicken On A Pellet Grill | Crispy Skin And Juicy Chicken Every Time",
+        "channel": "BBQ Tutorials"
+      },
+      "steps": [
+        "Use chicken thighs or breast. Cut into thin strips.",
+        "Marinate means soak the meat in spice and oil for at least 30 minutes.",
+        "Thread onto skewers and grill over medium heat.",
+        "Turn every 2 minutes so it cooks evenly.",
+        "Check the inside: it must be white all the way through, not pink."
+      ],
+      "task": "Grill chicken suya.",
+      "challenge": "Marinate a second batch for 2 hours and compare the flavour.",
+      "quiz": [
+        {
+          "q": "What does 'marinate' mean?",
+          "options": [
+            "To cook fast",
+            "To soak meat in spice and oil before cooking",
+            "To freeze meat",
+            "To cut meat"
+          ],
+          "answer": 1,
+          "explain": "Marinating soaks meat in flavour before it hits the grill."
+        },
+        {
+          "q": "Why turn chicken suya every 2 minutes?",
+          "options": [
+            "It is faster",
+            "So it cooks evenly and does not burn",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Thin strips burn fast. Turning often keeps them even."
+        },
+        {
+          "q": "How do you know chicken is done?",
+          "options": [
+            "It smells good",
+            "The inside is white all the way through, not pink",
+            "It is brown outside",
+            "It feels soft"
+          ],
+          "answer": 1,
+          "explain": "Chicken must be white inside, not pink, to be safe to eat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Suya Night",
+      "goal": "Grill beef and chicken suya for your household.",
+      "video": {
+        "youtube_id": "BhM9OXkvMeI",
+        "title": "The Perfect Marinade for BBQ Ribs",
+        "channel": "ManBQ"
+      },
+      "steps": [
+        "Make a fresh jar of suya spice.",
+        "Cut and marinate beef and chicken.",
+        "Light the grill and set up a hot zone and a cool zone.",
+        "Grill the chicken first, then the beef.",
+        "Serve with onion, cabbage, and extra spice."
+      ],
+      "task": "Host a suya night for your household.",
+      "challenge": "Ask everyone which suya they liked best and why.",
+      "quiz": [
+        {
+          "q": "Why grill chicken before beef?",
+          "options": [
+            "It is faster",
+            "Chicken takes longer and needs more care",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Chicken needs full cooking, so it goes on first."
+        },
+        {
+          "q": "What should you serve with suya?",
+          "options": [
+            "Rice",
+            "Sliced onion and cabbage with extra spice",
+            "Bread",
+            "Yam"
+          ],
+          "answer": 1,
+          "explain": "Onion and cabbage with extra yaji are the classic suya partners."
+        },
+        {
+          "q": "Why make your own suya spice?",
+          "options": [
+            "It is cheaper",
+            "You control the heat and flavour",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Your own spice lets you set the heat and taste you want."
+        }
+      ],
+      "project": {
+        "title": "Host a Suya Night",
+        "brief": "Grill beef and chicken suya with homemade spice for your household.",
+        "checks": [
+          "Suya spice made from scratch",
+          "Beef cut thin and grilled evenly",
+          "Chicken cooked white all the way through",
+          "Grill set up with hot and cool zones",
+          "Served with onion, cabbage, and extra spice",
+          "Feedback collected from the people who ate"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Grilled Chicken: The Whole Bird",
+      "goal": "Grill a whole chicken so it stays juicy.",
+      "video": {
+        "youtube_id": "AgKxbB5r-fE",
+        "title": "How Do I Prepare Ribs Before Grilling?",
+        "channel": "Dak Chicken"
+      },
+      "steps": [
+        "Flatten the chicken by removing the backbone. This is called spatchcock.",
+        "A flat chicken cooks evenly and faster.",
+        "Rub it with oil, salt, and your favourite spice.",
+        "Grill skin side down over medium heat, then turn.",
+        "Rest for 10 minutes before cutting so the juices stay in."
+      ],
+      "task": "Grill a whole flattened chicken.",
+      "challenge": "Cut it into 8 pieces and serve it.",
+      "quiz": [
+        {
+          "q": "What is spatchcock?",
+          "options": [
+            "A spice",
+            "Removing the backbone so the chicken lies flat",
+            "A type of grill",
+            "A marinade"
+          ],
+          "answer": 1,
+          "explain": "Spatchcock means the backbone is removed so the bird lies flat."
+        },
+        {
+          "q": "Why flatten a whole chicken?",
+          "options": [
+            "It looks nice",
+            "It cooks evenly and faster",
+            "It saves space",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A flat chicken cooks at the same speed all over."
+        },
+        {
+          "q": "Why rest chicken before cutting?",
+          "options": [
+            "It cools down",
+            "Juices spread back through the meat so it stays moist",
+            "It is easier to hold",
+            "The skin gets crisp"
+          ],
+          "answer": 1,
+          "explain": "Cutting at once lets the juices run out. Resting keeps them in."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Grilled Fish: Skin On, No Sticking",
+      "goal": "Grill fish without it sticking or falling apart.",
+      "video": {
+        "youtube_id": "r7Ui-LtNxf8",
+        "title": "How to Use a Charcoal Grill Like a Pro",
+        "channel": "Smoked BBQ Source"
+      },
+      "steps": [
+        "Use firm fish like croaker, tilapia, or catfish.",
+        "Pat the fish dry. Wet fish sticks to the grill.",
+        "Rub with oil and spice. Oil the grill grate too.",
+        "Grill skin side down first. Do not move it until it releases.",
+        "Turn once only, then cook until the flesh flakes easily."
+      ],
+      "task": "Grill a whole fish.",
+      "challenge": "Grill fish fillets and compare how they behave.",
+      "quiz": [
+        {
+          "q": "Why pat fish dry before grilling?",
+          "options": [
+            "It tastes better",
+            "Wet fish sticks to the grill",
+            "It cooks faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Dry fish and an oiled grate stop sticking."
+        },
+        {
+          "q": "Why not move fish until it releases?",
+          "options": [
+            "It is faster",
+            "Fish lets go when the skin is crisp. Moving it early tears it",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Fish sticks at first, then releases when the skin crisps."
+        },
+        {
+          "q": "How do you know grilled fish is done?",
+          "options": [
+            "It smells good",
+            "The flesh flakes easily with a fork",
+            "It turns white",
+            "It feels soft"
+          ],
+          "answer": 1,
+          "explain": "Cooked fish flakes apart easily with a fork."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "BBQ Ribs: Prep and Marinade",
+      "goal": "Prep ribs and make a marinade that works.",
+      "video": {
+        "youtube_id": "ZmYpsgm8yJg",
+        "title": "How to Start (And Put Out) a Charcoal Grill",
+        "channel": "WebstaurantStore"
+      },
+      "steps": [
+        "A marinade is a mix of oil, spice, and something sour that soaks into meat.",
+        "Remove the thin membrane from the back of the ribs.",
+        "Rub the ribs with salt, pepper, paprika, and garlic.",
+        "Pour over a little oil and lemon juice. Leave for at least 1 hour.",
+        "Keep the ribs in the fridge while they marinate."
+      ],
+      "task": "Prep and marinate a rack of ribs.",
+      "challenge": "Marinate a second rack overnight and compare the flavour.",
+      "quiz": [
+        {
+          "q": "What is a marinade?",
+          "options": [
+            "A sauce for serving",
+            "A mix that soaks into meat to add flavour",
+            "A type of coal",
+            "A grill tool"
+          ],
+          "answer": 1,
+          "explain": "A marinade soaks into meat and adds flavour before cooking."
+        },
+        {
+          "q": "Why remove the membrane from ribs?",
+          "options": [
+            "It tastes bad",
+            "It stops flavour getting in and makes ribs tough",
+            "It is hard to cut",
+            "It burns"
+          ],
+          "answer": 1,
+          "explain": "The membrane blocks flavour and stays tough when cooked."
+        },
+        {
+          "q": "Why marinate in the fridge?",
+          "options": [
+            "It is colder",
+            "Meat left out warm can grow germs",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Raw meat must stay cold while it marinates."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Grilling Ribs Low and Slow",
+      "goal": "Grill ribs low and slow until tender.",
+      "video": {
+        "youtube_id": "_4D3pGy72Nw",
+        "title": "How to Light a Charcoal BBQ with or without a chimney starter",
+        "channel": "Love Logs"
+      },
+      "steps": [
+        "Set up a cool zone with few coals. Ribs need gentle heat.",
+        "Place ribs on the cool side and close the lid.",
+        "Cook for 1 to 2 hours, turning every 30 minutes.",
+        "Brush with BBQ sauce in the last 20 minutes only.",
+        "Rest for 10 minutes before cutting."
+      ],
+      "task": "Grill ribs low and slow.",
+      "challenge": "Brush with sauce at the end and taste the difference.",
+      "quiz": [
+        {
+          "q": "Why cook ribs on the cool side?",
+          "options": [
+            "It is faster",
+            "Gentle heat makes tough ribs tender",
+            "It saves coal",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Low, slow heat breaks down tough meat and makes it tender."
+        },
+        {
+          "q": "Why add BBQ sauce only at the end?",
+          "options": [
+            "It tastes better",
+            "Sauce burns if it cooks too long",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Sugar in BBQ sauce burns over long cooking, so it goes on last."
+        },
+        {
+          "q": "How do you know ribs are done?",
+          "options": [
+            "They smell good",
+            "The meat pulls back from the bone and feels tender",
+            "They turn black",
+            "They feel hard"
+          ],
+          "answer": 1,
+          "explain": "Meat pulling back from the bone shows ribs are tender."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Grilled Burgers: Juicy Patties",
+      "goal": "Grill burgers that stay juicy inside.",
+      "video": {
+        "youtube_id": "xAnBllcEmhQ",
+        "title": "The Most Succulent Grilled Chicken (Suya)",
+        "channel": "Cook with Lerato"
+      },
+      "steps": [
+        "Use beef with some fat in it. Very lean beef makes dry burgers.",
+        "Shape patties gently. Do not press them too hard.",
+        "Make a small dent in the middle so they cook flat.",
+        "Grill over high heat for 3 to 4 minutes each side.",
+        "Do not press the burger down. Pressing pushes the juices out."
+      ],
+      "task": "Grill burgers for your household.",
+      "challenge": "Add cheese in the last minute and let it melt.",
+      "quiz": [
+        {
+          "q": "Why use beef with fat for burgers?",
+          "options": [
+            "It is cheaper",
+            "Fat keeps burgers juicy",
+            "It cooks faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Fat melts as the burger cooks and keeps it moist."
+        },
+        {
+          "q": "Why make a dent in the middle?",
+          "options": [
+            "It looks nice",
+            "So the burger cooks flat instead of puffing up",
+            "It saves meat",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Burgers puff up in the middle. A dent keeps them flat."
+        },
+        {
+          "q": "Why not press a burger down?",
+          "options": [
+            "It is messy",
+            "Pressing pushes the juices out",
+            "It makes it flat",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Pressing squeezes the juice out and makes a dry burger."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Grilled Vegetables and Corn",
+      "goal": "Grill vegetables and corn on the cob.",
+      "video": {
+        "youtube_id": "wAyevgTtRlM",
+        "title": "Nigerian Suya Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Cut vegetables thick so they do not fall through the grate.",
+        "Toss in oil and salt before grilling.",
+        "Grill corn in its husk or wrapped in foil.",
+        "Turn often. Vegetables burn fast.",
+        "Brush with butter and serve hot."
+      ],
+      "task": "Grill a mix of vegetables and corn.",
+      "challenge": "Grill plantain slices and serve them with the vegetables.",
+      "quiz": [
+        {
+          "q": "Why cut vegetables thick for grilling?",
+          "options": [
+            "They taste better",
+            "Thin pieces fall through the grate",
+            "They cook faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Thick pieces stay on the grill and cook evenly."
+        },
+        {
+          "q": "Why grill corn in its husk or foil?",
+          "options": [
+            "It looks nice",
+            "It steams inside and stays moist",
+            "It is faster",
+            "It saves space"
+          ],
+          "answer": 1,
+          "explain": "Husk or foil traps steam so the corn stays juicy."
+        },
+        {
+          "q": "Why turn vegetables often?",
+          "options": [
+            "It is faster",
+            "They burn fast on a hot grill",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Vegetables are thin and burn quickly, so turn them often."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A BBQ Spread",
+      "goal": "Grill a full BBQ spread for friends or family.",
+      "video": {
+        "youtube_id": "cW_BxMKIkng",
+        "title": "Chicken Suya",
+        "channel": "All Nigerian Foods"
+      },
+      "steps": [
+        "Plan the menu: chicken, ribs, burgers, and vegetables.",
+        "Write a shopping list with costs.",
+        "Marinate the chicken and ribs the night before.",
+        "Grill in order: ribs first (slow), then chicken, then burgers.",
+        "Serve everything together with drinks."
+      ],
+      "task": "Grill a BBQ spread for at least 4 people.",
+      "challenge": "Cost the spread and work out the price per person.",
+      "quiz": [
+        {
+          "q": "Why marinate the night before?",
+          "options": [
+            "It is faster",
+            "More time means more flavour",
+            "It saves space",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A long marinade soaks more flavour into the meat."
+        },
+        {
+          "q": "Why grill ribs first?",
+          "options": [
+            "They taste best",
+            "Ribs take the longest, so they start first",
+            "They are biggest",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Start with what takes longest so all food finishes together."
+        },
+        {
+          "q": "Why cost a BBQ spread?",
+          "options": [
+            "To show off",
+            "So you know what to charge if you sell it",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing turns grilling into a business skill."
+        }
+      ],
+      "project": {
+        "title": "Grill a Full BBQ Spread",
+        "brief": "Grill chicken, ribs, burgers, and vegetables for at least 4 people.",
+        "checks": [
+          "Menu planned with costs per person",
+          "Chicken and ribs marinated in advance",
+          "Ribs cooked low and slow until tender",
+          "Burgers juicy, not pressed flat",
+          "Vegetables grilled and served hot",
+          "Spread served together and feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Grilling Safety and Clean-Up",
+      "goal": "Grill safely and clean up properly.",
+      "video": {
+        "youtube_id": "vWN7b5H_7Fo",
+        "title": "Beef Suya",
+        "channel": "All Nigerian Foods"
+      },
+      "steps": [
+        "Keep children and pets away from the grill.",
+        "Never leave a lit grill alone.",
+        "To put out charcoal, close the lid and all vents. The fire dies without air.",
+        "Let coals cool fully before throwing them away.",
+        "Brush the grate clean while it is still warm."
+      ],
+      "task": "Do a full clean of your grill after cooking.",
+      "challenge": "Practise putting out the coals safely.",
+      "quiz": [
+        {
+          "q": "How do you put out a charcoal grill?",
+          "options": [
+            "Pour water on it",
+            "Close the lid and vents so the fire dies without air",
+            "Leave it open",
+            "Blow on it"
+          ],
+          "answer": 1,
+          "explain": "Closing the lid and vents starves the fire of air."
+        },
+        {
+          "q": "Why clean the grate while it is warm?",
+          "options": [
+            "It is faster",
+            "Warm grease comes off easily",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Warm grease wipes off. Cold grease sticks hard."
+        },
+        {
+          "q": "Why keep children away from the grill?",
+          "options": [
+            "It is a rule",
+            "Grills are very hot and can burn",
+            "It is messy",
+            "It saves space"
+          ],
+          "answer": 1,
+          "explain": "A hot grill can cause bad burns in seconds."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Peppered Grilled Chicken",
+      "goal": "Grill chicken with a pepper coating, party style.",
+      "video": {
+        "youtube_id": "LPYjtmnqXRk",
+        "title": "How to Grill (Almost) Everything",
+        "channel": "HelloFresh"
+      },
+      "steps": [
+        "Grill chicken until cooked through.",
+        "Fry a thick pepper mix with onion until the oil separates.",
+        "Toss the grilled chicken in the pepper mix.",
+        "Cook on low for 5 minutes so the pepper sticks.",
+        "Serve hot as a main or as small chops."
+      ],
+      "task": "Make peppered grilled chicken.",
+      "challenge": "Make a second batch with more pepper and compare.",
+      "quiz": [
+        {
+          "q": "Why grill the chicken first?",
+          "options": [
+            "It is faster",
+            "So the pepper coats cooked chicken instead of stewing raw meat",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Pre-cooked chicken takes the pepper sauce without overcooking."
+        },
+        {
+          "q": "What makes a pepper mix thick enough to coat?",
+          "options": [
+            "More water",
+            "Frying it down until most water is gone",
+            "More oil",
+            "More salt"
+          ],
+          "answer": 1,
+          "explain": "A well-fried, thick pepper mix clings to meat."
+        },
+        {
+          "q": "What is peppered chicken often served as?",
+          "options": [
+            "A soup",
+            "Small chops at parties",
+            "A breakfast",
+            "A dessert"
+          ],
+          "answer": 1,
+          "explain": "Peppered chicken is a classic party small chop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Grilled Turkey and Gizzard",
+      "goal": "Grill turkey and gizzard for parties.",
+      "video": {
+        "youtube_id": "skumovrlsZs",
+        "title": "How To Make Perfect Spatchcock Chicken On A Pellet Grill | Crispy Skin And Juicy Chicken Every Time",
+        "channel": "BBQ Tutorials"
+      },
+      "steps": [
+        "Boil gizzard with onion and seasoning until tender.",
+        "Grill the boiled gizzard for a smoky outside.",
+        "Cut turkey into pieces and marinate with spice and oil.",
+        "Grill over medium heat, turning often.",
+        "Serve with pepper sauce and onion."
+      ],
+      "task": "Grill gizzard.",
+      "challenge": "Grill turkey pieces the same way.",
+      "quiz": [
+        {
+          "q": "Why boil gizzard before grilling?",
+          "options": [
+            "It is faster",
+            "Gizzard is tough and needs boiling to soften",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Gizzard is tough. Boiling softens it before the grill adds flavour."
+        },
+        {
+          "q": "Why marinate turkey?",
+          "options": [
+            "It is faster",
+            "Marinade adds flavour and keeps it moist",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Marinade soaks flavour in and stops turkey drying out."
+        },
+        {
+          "q": "What goes well with grilled gizzard?",
+          "options": [
+            "Rice only",
+            "Pepper sauce and onion",
+            "Bread only",
+            "Yam only"
+          ],
+          "answer": 1,
+          "explain": "Pepper sauce and onion are the classic partners."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "BBQ Sauce from Scratch",
+      "goal": "Make your own BBQ sauce.",
+      "video": {
+        "youtube_id": "BhM9OXkvMeI",
+        "title": "The Perfect Marinade for BBQ Ribs",
+        "channel": "ManBQ"
+      },
+      "steps": [
+        "Mix tomato paste, honey, vinegar, and a little chilli.",
+        "Add garlic powder, onion powder, and salt.",
+        "Simmer on low heat for 10 minutes, stirring often.",
+        "Taste it. Add more honey for sweet, more vinegar for sharp.",
+        "Cool and store in a sealed jar in the fridge."
+      ],
+      "task": "Make a jar of BBQ sauce.",
+      "challenge": "Use it on grilled chicken and compare with shop-bought sauce.",
+      "quiz": [
+        {
+          "q": "What gives BBQ sauce its sweet and sharp taste?",
+          "options": [
+            "Sugar only",
+            "Honey for sweet and vinegar for sharp",
+            "Salt",
+            "Pepper"
+          ],
+          "answer": 1,
+          "explain": "Honey makes it sweet. Vinegar makes it sharp."
+        },
+        {
+          "q": "Why simmer BBQ sauce?",
+          "options": [
+            "To make it thick",
+            "Simmering blends the flavours together",
+            "To cool it",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Simmering lets the flavours mix and the sauce thicken."
+        },
+        {
+          "q": "How long does homemade BBQ sauce keep?",
+          "options": [
+            "1 day",
+            "About 2 weeks in the fridge",
+            "1 year",
+            "1 hour"
+          ],
+          "answer": 1,
+          "explain": "In a sealed jar in the fridge, it keeps about 2 weeks."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Grilling for a Crowd",
+      "goal": "Grill for 10 or more people without stress.",
+      "video": {
+        "youtube_id": "AgKxbB5r-fE",
+        "title": "How Do I Prepare Ribs Before Grilling?",
+        "channel": "Dak Chicken"
+      },
+      "steps": [
+        "Plan the menu and write a shopping list.",
+        "Marinate everything the night before.",
+        "Grill in batches. Keep finished food warm in a low oven.",
+        "Ask a friend to help serve while you grill.",
+        "Keep a tray of food ready so guests never wait hungry."
+      ],
+      "task": "Grill for a crowd of 10 or more, or plan it on paper.",
+      "challenge": "Time your grilling and write down what took longest.",
+      "quiz": [
+        {
+          "q": "Why grill in batches?",
+          "options": [
+            "It is faster",
+            "A crowded grill cooks unevenly",
+            "It saves coal",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Too much food at once drops the heat and cooks unevenly."
+        },
+        {
+          "q": "How do you keep grilled food warm?",
+          "options": [
+            "Leave it out",
+            "In a low oven, covered",
+            "In the fridge",
+            "On high heat"
+          ],
+          "answer": 1,
+          "explain": "A low oven keeps food warm without overcooking it."
+        },
+        {
+          "q": "Why ask a friend to help serve?",
+          "options": [
+            "It is polite",
+            "So you can stay at the grill while guests eat",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A helper lets you focus on grilling while guests are served."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Costing Grilled Food",
+      "goal": "Work out what grilled food costs and what to charge.",
+      "video": {
+        "youtube_id": "r7Ui-LtNxf8",
+        "title": "How to Use a Charcoal Grill Like a Pro",
+        "channel": "Smoked BBQ Source"
+      },
+      "steps": [
+        "List every ingredient with its price, including charcoal.",
+        "Add the cost of skewers, foil, and packaging.",
+        "Divide the total by the number of portions.",
+        "Charge 2.5 to 3 times the food cost for a profit.",
+        "Compare with suya sellers near you."
+      ],
+      "task": "Cost a plate of suya and set its selling price.",
+      "challenge": "Cost a full BBQ plate the same way.",
+      "quiz": [
+        {
+          "q": "What costs must you count for grilling?",
+          "options": [
+            "Meat only",
+            "Meat, spice, charcoal, skewers, and packaging",
+            "Only charcoal",
+            "Only meat and spice"
+          ],
+          "answer": 1,
+          "explain": "Charcoal, skewers, and packaging are real costs too."
+        },
+        {
+          "q": "Why charge 2.5 to 3 times the food cost?",
+          "options": [
+            "To be expensive",
+            "To cover all costs and still make a profit",
+            "It is a law",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "The extra covers charcoal, packaging, your time, and profit."
+        },
+        {
+          "q": "Why compare with local suya sellers?",
+          "options": [
+            "To copy them",
+            "So your price is fair for your area",
+            "To show off",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Local prices tell you what customers expect to pay."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Grilled Feast",
+      "goal": "Grill a full feast: suya, chicken, fish, and vegetables.",
+      "video": {
+        "youtube_id": "ZmYpsgm8yJg",
+        "title": "How to Start (And Put Out) a Charcoal Grill",
+        "channel": "WebstaurantStore"
+      },
+      "steps": [
+        "Choose the menu and write a shopping list with costs.",
+        "Make suya spice and BBQ sauce in advance.",
+        "Marinate everything the night before.",
+        "Grill in order: slow items first, fast items last.",
+        "Serve everything at once and photograph the table."
+      ],
+      "task": "Grill a full feast for your household.",
+      "challenge": "Serve it to a guest and ask for their favourite dish.",
+      "quiz": [
+        {
+          "q": "Why make spice and sauce in advance?",
+          "options": [
+            "It is faster",
+            "It frees up time on the grilling day",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Spice and sauce made early save time on the day."
+        },
+        {
+          "q": "What order do you grill in?",
+          "options": [
+            "Fastest first",
+            "Slowest first, so all finish together",
+            "Tastiest first",
+            "Random"
+          ],
+          "answer": 1,
+          "explain": "Slow food starts first so everything is ready at once."
+        },
+        {
+          "q": "Why photograph your grilled food?",
+          "options": [
+            "To show off",
+            "Photos track your progress and show customers later",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Photos record your work and become your portfolio if you sell food."
+        }
+      ],
+      "project": {
+        "title": "Grill a Full Feast",
+        "brief": "Grill suya, chicken, fish, and vegetables, served together.",
+        "checks": [
+          "Menu planned with costs",
+          "Spice and sauce made in advance",
+          "Suya grilled with homemade spice",
+          "Chicken cooked through and juicy",
+          "Fish grilled without sticking",
+          "Table photographed and feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Smoking on a Grill: The Easy Way",
+      "goal": "Add smoke flavour to grilled food.",
+      "video": {
+        "youtube_id": "_4D3pGy72Nw",
+        "title": "How to Light a Charcoal BBQ with or without a chimney starter",
+        "channel": "Love Logs"
+      },
+      "steps": [
+        "Wood chips are small pieces of wood that make smoke.",
+        "Soak wood chips in water for 30 minutes.",
+        "Put them on the coals. They will smoke, not burn.",
+        "Close the lid so the smoke stays around the food.",
+        "Use a small handful. Too much smoke tastes bitter."
+      ],
+      "task": "Smoke a piece of chicken on the grill.",
+      "challenge": "Try smoking fish and compare the flavour.",
+      "quiz": [
+        {
+          "q": "What are wood chips?",
+          "options": [
+            "A type of coal",
+            "Small pieces of wood that make smoke",
+            "A spice",
+            "A grill tool"
+          ],
+          "answer": 1,
+          "explain": "Wood chips burn slowly and make smoke that flavours food."
+        },
+        {
+          "q": "Why soak wood chips in water?",
+          "options": [
+            "To clean them",
+            "So they smoke instead of burning fast",
+            "To make them heavy",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Wet chips smoulder and smoke. Dry chips burn up fast."
+        },
+        {
+          "q": "Why use only a small handful?",
+          "options": [
+            "To save money",
+            "Too much smoke makes food taste bitter",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A little smoke adds flavour. Too much makes food bitter."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Grilled Sandwiches and Wraps",
+      "goal": "Grill sandwiches and wraps for quick sales.",
+      "video": {
+        "youtube_id": "xAnBllcEmhQ",
+        "title": "The Most Succulent Grilled Chicken (Suya)",
+        "channel": "Cook with Lerato"
+      },
+      "steps": [
+        "Fill bread or wraps with grilled chicken and vegetables.",
+        "Brush the outside with a little butter or oil.",
+        "Grill for 2 minutes each side until crisp and marked.",
+        "Cut in half and serve hot.",
+        "Add a simple sauce like pepper sauce or BBQ sauce."
+      ],
+      "task": "Make grilled chicken sandwiches.",
+      "challenge": "Make grilled wraps and compare which sells better with friends.",
+      "quiz": [
+        {
+          "q": "Why brush the outside of a sandwich?",
+          "options": [
+            "It looks nice",
+            "It helps the bread crisp and brown",
+            "It adds flavour only",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Butter or oil on the outside makes the bread golden and crisp."
+        },
+        {
+          "q": "How long do grilled sandwiches take?",
+          "options": [
+            "10 minutes",
+            "About 2 minutes each side",
+            "30 minutes",
+            "1 minute"
+          ],
+          "answer": 1,
+          "explain": "Sandwiches are thin, so they grill in about 2 minutes per side."
+        },
+        {
+          "q": "Why cut sandwiches in half?",
+          "options": [
+            "It looks nice",
+            "So people can see the filling and eat easily",
+            "It saves bread",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A cut sandwich shows the filling and is easy to hold."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Selling Grilled Food: First Steps",
+      "goal": "Take your first steps toward selling grilled food.",
+      "video": {
+        "youtube_id": "wAyevgTtRlM",
+        "title": "Nigerian Suya Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Pick 2 or 3 items to sell: suya, grilled chicken, or burgers.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your grilled food in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you grill only what is sold."
+      ],
+      "task": "Take photos of your best grilled food and show them to three people.",
+      "challenge": "Take one real order, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 2 or 3 items?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to make well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you grill only what is sold and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Festive Grilling: Parties and Holidays",
+      "goal": "Plan grilled food for a party or holiday.",
+      "video": {
+        "youtube_id": "cW_BxMKIkng",
+        "title": "Chicken Suya",
+        "channel": "All Nigerian Foods"
+      },
+      "steps": [
+        "Plan the menu a week ahead.",
+        "Marinate meats and make sauces in advance.",
+        "Grill slow items first on the day.",
+        "Keep food warm in a low oven until serving.",
+        "Serve with drinks and take photos."
+      ],
+      "task": "Plan a party grilling menu and grill one item from it.",
+      "challenge": "Grill for a small party and time how long it takes.",
+      "quiz": [
+        {
+          "q": "Why marinate in advance for a party?",
+          "options": [
+            "It is faster",
+            "It saves time and adds more flavour",
+            "It tastes better cold",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Marinating early saves time on the party day and adds flavour."
+        },
+        {
+          "q": "What should you grill first at a party?",
+          "options": [
+            "Burgers",
+            "Slow items like ribs",
+            "Vegetables",
+            "Fish"
+          ],
+          "answer": 1,
+          "explain": "Slow items start first so all food finishes together."
+        },
+        {
+          "q": "Why keep food warm in a low oven?",
+          "options": [
+            "It tastes better",
+            "So guests always have hot food",
+            "It saves gas",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A low oven holds food hot without overcooking it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Your Signature Grill Dish",
+      "goal": "Choose and perfect one grilled dish you can make brilliantly.",
+      "video": {
+        "youtube_id": "vWN7b5H_7Fo",
+        "title": "Beef Suya",
+        "channel": "All Nigerian Foods"
+      },
+      "steps": [
+        "Pick the dish your household loves most from this course.",
+        "Write the recipe in your own words with exact amounts.",
+        "Grill it again, timing every step and noting problems.",
+        "Fix the problems and grill it once more.",
+        "Get someone new to taste it and give honest feedback."
+      ],
+      "task": "Grill your signature dish and write the final recipe down.",
+      "challenge": "Grill it for someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature dish?",
+          "options": [
+            "An expensive dish",
+            "A dish you can grill brilliantly every time",
+            "A dish with a fancy name",
+            "A dish only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature dish is one you have mastered."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you truly understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself proves you understand each step."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste food"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your grilling business.",
+      "video": {
+        "youtube_id": "LPYjtmnqXRk",
+        "title": "How to Grill (Almost) Everything",
+        "channel": "HelloFresh"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which dishes sell best and which do not.",
+        "Keep your money for grilling separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one suya night.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to grill",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for meat, charcoal, and packaging."
+        },
+        {
+          "q": "Why keep grilling money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if grilling is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your grilling."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Grilling in the Rain and Wind",
+      "goal": "Grill well even when the weather is bad.",
+      "video": {
+        "youtube_id": "skumovrlsZs",
+        "title": "How To Make Perfect Spatchcock Chicken On A Pellet Grill | Crispy Skin And Juicy Chicken Every Time",
+        "channel": "BBQ Tutorials"
+      },
+      "steps": [
+        "Wind makes coals burn faster. Use fewer coals on a windy day.",
+        "Keep the lid closed more to hold the heat in.",
+        "Move the grill to a sheltered spot, but never inside.",
+        "Rain cools the grill. Add a few more coals.",
+        "Wear gloves. Wet hands and hot grills are a bad mix."
+      ],
+      "task": "Grill on a windy day and note what changes.",
+      "challenge": "Write down three weather tips for your grilling notes.",
+      "quiz": [
+        {
+          "q": "Why does wind make coals burn faster?",
+          "options": [
+            "It is colder",
+            "Wind feeds the fire with air",
+            "It is wetter",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Wind gives the fire more air, so coals burn hotter and faster."
+        },
+        {
+          "q": "Why keep the lid closed in bad weather?",
+          "options": [
+            "It is faster",
+            "It holds the heat in",
+            "It looks nice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A closed lid traps heat when wind and rain cool the grill."
+        },
+        {
+          "q": "Why never grill inside?",
+          "options": [
+            "It is messy",
+            "Grills make smoke and fire that are not safe inside",
+            "It is a rule",
+            "It smells"
+          ],
+          "answer": 1,
+          "explain": "Grills make smoke and carbon monoxide. They are only safe outside."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Griller's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "BhM9OXkvMeI",
+        "title": "The Perfect Marinade for BBQ Ribs",
+        "channel": "ManBQ"
+      },
+      "steps": [
+        "Light a charcoal grill from memory, without help.",
+        "Set up a two-zone fire and explain it to someone.",
+        "Make suya spice from memory.",
+        "Name the safe temperature for chicken.",
+        "List your three strongest dishes and one to improve."
+      ],
+      "task": "Grill a full meal from memory, no recipe.",
+      "challenge": "Teach one grilling skill from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What is a two-zone fire?",
+          "options": [
+            "Two grills",
+            "A hot side with coals and a cool side without",
+            "Two types of coal",
+            "A gas and charcoal grill"
+          ],
+          "answer": 1,
+          "explain": "Two zones mean a hot side for searing and a cool side for slow cooking."
+        },
+        {
+          "q": "What temperature must chicken reach?",
+          "options": [
+            "60°C",
+            "75°C",
+            "90°C",
+            "100°C"
+          ],
+          "answer": 1,
+          "explain": "Chicken must reach 75°C inside to be safe."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves coal"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Grill",
+      "goal": "Plan your capstone grill and gather everything you need.",
+      "video": {
+        "youtube_id": "AgKxbB5r-fE",
+        "title": "How Do I Prepare Ribs Before Grilling?",
+        "channel": "Dak Chicken"
+      },
+      "steps": [
+        "Choose your capstone menu: suya, chicken, fish, and vegetables.",
+        "Write the full shopping list with costs.",
+        "Write the grilling order, starting with the slowest item.",
+        "Check you have every tool, coal, and ingredient.",
+        "Do a trial run of the hardest dish if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone dish today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only expensive food",
+            "Everything you learned: fire, spice, grilling, and costing",
+            "Only one dish",
+            "Only suya"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why start with the slowest item?",
+          "options": [
+            "It is harder",
+            "So everything finishes at the same time",
+            "It tastes better",
+            "It saves coal"
+          ],
+          "answer": 1,
+          "explain": "Slow food starts first so all food is ready together."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste food",
+            "To find problems before the real grill",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Grill Master's Feast: Suya, Chicken, Fish and More",
+    "brief": "Grill a full feast for your household or customers: beef suya with homemade spice, grilled chicken, grilled fish, and grilled vegetables, with your own BBQ sauce. Cost the whole feast and serve everything hot at the same time.",
+    "checks": [
+      "Menu planned with a shopping list and costs per person",
+      "Suya spice made from scratch",
+      "Beef suya thin, even, and well spiced",
+      "Chicken cooked through and juicy",
+      "Fish grilled without sticking or breaking",
+      "Vegetables grilled and served hot",
+      "Feedback collected from at least one person who ate"
+    ],
+    "deliverables": [
+      "A photo of the finished grill feast",
+      "Your written menu with the shopping list and costs",
+      "Your grilling order, starting with the slowest item",
+      "Your signature grill dish recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

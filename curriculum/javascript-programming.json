@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "javascript-programming",
+    "title": "JavaScript Programming",
+    "level": "Beginner to intermediate",
+    "tagline": "Master JavaScript from the basics to real projects: apps, games and interactive pages.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What JavaScript Is and Your First Script",
+      "goal": "Understand what JavaScript does in a web page and run your first line of it.",
+      "video": {
+        "youtube_id": "EfAl9bwzVZk",
+        "title": "JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+        "channel": "Dave Gray"
+      },
+      "steps": [
+        "Make a folder called js-journey and create index.html with a basic page.",
+        "Add a <script> tag at the end of the body and write console.log('Hello, world!').",
+        "Open the page in Chrome, press F12 and read your message in the Console tab.",
+        "Change the message, refresh the page and see it update."
+      ],
+      "task": "Build a page that prints your name, your age and one goal in the console.",
+      "challenge": "Use alert() to show a pop-up message, then change it to console.log() and compare.",
+      "quiz": [
+        {
+          "q": "What does JavaScript do in a web page?",
+          "options": [
+            "It styles the page",
+            "It makes the page interactive: it reacts, changes things and talks to servers",
+            "It stores the page on a server",
+            "It draws the page layout"
+          ],
+          "answer": 1,
+          "explain": "JavaScript adds behaviour: clicks, changes, calculations and data fetching."
+        },
+        {
+          "q": "Where do you see console.log() output?",
+          "options": [
+            "On the page itself",
+            "In the browser developer tools Console tab",
+            "In a file",
+            "In the address bar"
+          ],
+          "answer": 1,
+          "explain": "console.log() prints to the browser console, which you open with F12."
+        },
+        {
+          "q": "What does a <script> tag do?",
+          "options": [
+            "It adds a picture",
+            "It tells the browser to run JavaScript code",
+            "It changes the font",
+            "It links to another page"
+          ],
+          "answer": 1,
+          "explain": "Code inside a <script> tag runs when the page loads."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Variables: let, const and var",
+      "goal": "Store values with let and const and know when to use each one.",
+      "video": {
+        "youtube_id": "jS4aFq5-91M",
+        "title": "Full JavaScript Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Declare a name with let and change it, then print both values.",
+        "Declare a birthYear with const and try to change it to see the error.",
+        "Make a variable for your age and one for your city, then log a sentence using both.",
+        "Try var once and notice it behaves like let for simple cases."
+      ],
+      "task": "Write a script with variables for a product name, price and stock count, then log a neat summary.",
+      "challenge": "Swap two variables using a third temporary variable and log the result.",
+      "quiz": [
+        {
+          "q": "What is the difference between let and const?",
+          "options": [
+            "There is none",
+            "let can be reassigned, const cannot",
+            "const can be reassigned, let cannot",
+            "let is for numbers only"
+          ],
+          "answer": 1,
+          "explain": "let lets you change the value later. const locks it after the first assignment."
+        },
+        {
+          "q": "What happens if you try to change a const?",
+          "options": [
+            "Nothing",
+            "JavaScript throws an error",
+            "It changes anyway",
+            "The page reloads"
+          ],
+          "answer": 1,
+          "explain": "Reassigning a const throws a TypeError. That is the point of const."
+        },
+        {
+          "q": "Which should you use by default?",
+          "options": [
+            "var",
+            "const, and let only when the value must change",
+            "let always",
+            "No declaration at all"
+          ],
+          "answer": 1,
+          "explain": "Use const by default. It protects you from accidental changes. Use let only when the value must change."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Data Types and Operators",
+      "goal": "Know the main data types and use maths and comparison operators.",
+      "video": {
+        "youtube_id": "lI1ae4REbFM",
+        "title": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
+        "channel": "Clever Programmer"
+      },
+      "steps": [
+        "Log the type of a string, a number, a boolean, undefined and null using typeof.",
+        "Try + - * / and % with two numbers and log each answer.",
+        "Compare 5 == '5' and 5 === '5' and notice the difference.",
+        "Use > < >= <= to compare two ages and log true or false."
+      ],
+      "task": "Write a script that checks if a person is old enough to vote and logs the answer.",
+      "challenge": "Work out the price of 3 items with a 10% discount using only JavaScript maths.",
+      "quiz": [
+        {
+          "q": "What does === check?",
+          "options": [
+            "Value only",
+            "Value and type",
+            "Nothing",
+            "Type only"
+          ],
+          "answer": 1,
+          "explain": "=== is strict equality. It checks both the value and the type."
+        },
+        {
+          "q": "What is the type of null?",
+          "options": [
+            "null",
+            "undefined",
+            "object",
+            "string"
+          ],
+          "answer": 2,
+          "explain": "typeof null returns 'object'. This is a famous old quirk in JavaScript."
+        },
+        {
+          "q": "What does 10 % 3 give?",
+          "options": [
+            "3",
+            "1",
+            "0",
+            "3.33"
+          ],
+          "answer": 1,
+          "explain": "% gives the remainder. 10 divided by 3 leaves 1."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Strings",
+      "goal": "Work with text: join strings, use template literals and change case.",
+      "video": {
+        "youtube_id": "Pyv0tMm5i_w",
+        "title": "JavaScript Full Course For Beginners With JavaScript Projects",
+        "channel": "GreatStack"
+      },
+      "steps": [
+        "Join a first name and last name with + and log the full name.",
+        "Use a template literal with backticks and ${name} to build a greeting.",
+        "Use .length to count the letters in a word.",
+        "Use .toUpperCase() and .toLowerCase() on a sentence."
+      ],
+      "task": "Build a program that asks for a name with prompt() and greets the user by name in capital letters.",
+      "challenge": "Take a sentence and log its first letter, its last letter and its length.",
+      "quiz": [
+        {
+          "q": "What is a template literal?",
+          "options": [
+            "A string in single quotes",
+            "A string in backticks that lets you put ${variables} inside",
+            "A string that is always empty",
+            "A string with no text"
+          ],
+          "answer": 1,
+          "explain": "Template literals use backticks and ${} to drop values straight into text."
+        },
+        {
+          "q": "What does 'hello'.length give?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "hello"
+          ],
+          "answer": 1,
+          "explain": "length counts the characters. 'hello' has 5."
+        },
+        {
+          "q": "What does 'abc'.toUpperCase() return?",
+          "options": [
+            "'abc'",
+            "'ABC'",
+            "'Abc'",
+            "3"
+          ],
+          "answer": 1,
+          "explain": "toUpperCase() returns a new string with all letters capitalised."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Numbers and Maths",
+      "goal": "Do maths in JavaScript and handle numbers that come in as text.",
+      "video": {
+        "youtube_id": "1h46cNkyXlE",
+        "title": "JavaScript Tutorial For Beginners",
+        "channel": "Intellipaat"
+      },
+      "steps": [
+        "Use Math.round(), Math.floor() and Math.ceil() on 4.7 and log the results.",
+        "Use Math.random() to get a random number between 0 and 1.",
+        "Use Number('42') to turn text into a number and add 8 to it.",
+        "Use .toFixed(2) to show a price with two decimal places."
+      ],
+      "task": "Build a tip calculator: ask for a bill amount and a tip percent, then log the tip and the total.",
+      "challenge": "Generate a random whole number from 1 to 100 and log it.",
+      "quiz": [
+        {
+          "q": "What does Math.floor(4.9) give?",
+          "options": [
+            "5",
+            "4",
+            "4.9",
+            "0"
+          ],
+          "answer": 1,
+          "explain": "floor() rounds down to the nearest whole number, so 4.9 becomes 4."
+        },
+        {
+          "q": "What does Number('7') + 3 give?",
+          "options": [
+            "'73'",
+            "10",
+            "'10'",
+            "An error"
+          ],
+          "answer": 1,
+          "explain": "Number('7') turns the text into the number 7, so 7 + 3 is 10."
+        },
+        {
+          "q": "What does Math.random() return?",
+          "options": [
+            "A whole number",
+            "A decimal from 0 up to (but not including) 1",
+            "A negative number",
+            "Always 0.5"
+          ],
+          "answer": 1,
+          "explain": "Math.random() gives a decimal from 0 to just under 1. Multiply and floor it to get a range."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "If, Else and Comparisons",
+      "goal": "Make decisions with if, else if and else.",
+      "video": {
+        "youtube_id": "JwDoWAbacoo",
+        "title": "JavaScript Full Course for Beginners (2026): Build a Real Page",
+        "channel": "Learn Easy"
+      },
+      "steps": [
+        "Write an if that logs 'Adult' when age is 18 or more.",
+        "Add an else if for ages 13 to 17 that logs 'Teenager', and an else that logs 'Child'.",
+        "Use && to check two things at once, like age >= 18 && hasID.",
+        "Use || to check if either of two things is true."
+      ],
+      "task": "Build a program that asks for a score and logs A, B, C or F.",
+      "challenge": "Ask for a password with prompt() and log 'Welcome' only if it matches.",
+      "quiz": [
+        {
+          "q": "What does && mean in a condition?",
+          "options": [
+            "Either side can be true",
+            "Both sides must be true",
+            "Neither side can be true",
+            "It adds two numbers"
+          ],
+          "answer": 1,
+          "explain": "&& means AND. Both sides must be true for the whole condition to be true."
+        },
+        {
+          "q": "When does the else block run?",
+          "options": [
+            "Always",
+            "Only when the if and else if checks are all false",
+            "Only on Fridays",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "else runs only when every check above it was false."
+        },
+        {
+          "q": "What does || mean?",
+          "options": [
+            "AND",
+            "OR: at least one side must be true",
+            "NOT",
+            "EQUALS"
+          ],
+          "answer": 1,
+          "explain": "|| means OR. The condition is true when at least one side is true."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Guessing Game in the Browser",
+      "goal": "Build a number guessing game that runs on a web page.",
+      "video": {
+        "youtube_id": "p8ytrJ1ryBQ",
+        "title": "Code Companion #9: DOM Manipulation",
+        "channel": "Atom Morgan"
+      },
+      "steps": [
+        "Make an HTML page with an input box, a button and a message area.",
+        "Pick a secret number with Math.floor(Math.random() * 20) + 1.",
+        "When the button is clicked, read the guess and say 'too high' or 'too low'.",
+        "Count the tries and show a win message when the guess is right."
+      ],
+      "task": "Finish the guessing game and play it until you win.",
+      "challenge": "Add a limit of 5 guesses. If the player runs out, reveal the secret number.",
+      "quiz": [
+        {
+          "q": "How do you read what a user typed in an input?",
+          "options": [
+            "input.text",
+            "document.getElementById('guess').value",
+            "input.valueOf()",
+            "getInput()"
+          ],
+          "answer": 1,
+          "explain": "You select the input element and read its .value property."
+        },
+        {
+          "q": "What does Math.floor(Math.random() * 20) + 1 give?",
+          "options": [
+            "A random whole number from 1 to 20",
+            "A random decimal",
+            "Always 20",
+            "A random number from 0 to 19"
+          ],
+          "answer": 0,
+          "explain": "random() * 20 gives 0 to just under 20, floor makes it 0-19, and + 1 shifts it to 1-20."
+        },
+        {
+          "q": "Why use a click event for the button?",
+          "options": [
+            "To style it",
+            "So the check runs exactly when the player clicks",
+            "To load the page",
+            "To hide the button"
+          ],
+          "answer": 1,
+          "explain": "A click event runs your code at the moment the user clicks, which is when you want to check the guess."
+        }
+      ],
+      "project": {
+        "title": "Number Guessing Game in the Browser",
+        "brief": "Build a guessing game on a web page: the computer picks a secret number from 1 to 20, the player types guesses, and the page gives hints until the player wins.",
+        "checks": [
+          "The page has an input box, a button and a message area.",
+          "The computer picks a random number from 1 to 20.",
+          "The page says 'too high' or 'too low' after each wrong guess.",
+          "The game counts the number of tries.",
+          "The game shows a win message when the guess is right.",
+          "The game handles a guess that is not a number without breaking."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Arrays",
+      "goal": "Store many items in an array and read, add and remove them.",
+      "video": {
+        "youtube_id": "XNyGDWCqBVc",
+        "title": "Events | JavaScript Course",
+        "channel": "Full Stack Masterclass"
+      },
+      "steps": [
+        "Make an array of five foods and log the whole array.",
+        "Log the first item with foods[0] and the last with foods[foods.length - 1].",
+        "Add an item with push() and remove the last with pop(), then log the array.",
+        "Log foods.length to count the items."
+      ],
+      "task": "Make a shopping list array, add two items, remove one, and log the final list.",
+      "challenge": "Make an array of numbers and log the biggest with Math.max(...numbers).",
+      "quiz": [
+        {
+          "q": "What position does the first item in an array have?",
+          "options": [
+            "1",
+            "0",
+            "-1",
+            "It has no position"
+          ],
+          "answer": 1,
+          "explain": "Arrays start counting at 0. The first item is at index 0."
+        },
+        {
+          "q": "What does push() do?",
+          "options": [
+            "It deletes the last item",
+            "It adds an item to the end of an array",
+            "It sorts the array",
+            "It counts the items"
+          ],
+          "answer": 1,
+          "explain": "push() adds one or more items to the end of an array."
+        },
+        {
+          "q": "What does array.length tell you?",
+          "options": [
+            "The last item",
+            "How many items are in the array",
+            "The first item",
+            "The array's name"
+          ],
+          "answer": 1,
+          "explain": "length is the count of items in the array."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Loops: for and while",
+      "goal": "Repeat work with for and while loops.",
+      "video": {
+        "youtube_id": "rUg0Bi5uRLw",
+        "title": "JavaScript Fetch API using Async/Await",
+        "channel": "Bonsaii Labs"
+      },
+      "steps": [
+        "Use a for loop to log the numbers 1 to 10.",
+        "Loop through an array of names and log each one.",
+        "Use a while loop that counts from 1 to 5.",
+        "Add up all the numbers in an array with a loop and log the total."
+      ],
+      "task": "Print the 7 times table from 7 x 1 to 7 x 12 using a for loop.",
+      "challenge": "Loop through a list of words and log only the ones longer than 4 letters.",
+      "quiz": [
+        {
+          "q": "What does for (let i = 0; i < 5; i++) do?",
+          "options": [
+            "It runs 5 times with i going 0 to 4",
+            "It runs 6 times",
+            "It runs once",
+            "It runs forever"
+          ],
+          "answer": 0,
+          "explain": "It starts i at 0, runs while i is less than 5, and adds 1 each round: 0, 1, 2, 3, 4."
+        },
+        {
+          "q": "When does a while loop stop?",
+          "options": [
+            "After 10 times",
+            "When its condition becomes false",
+            "When it feels like it",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "A while loop repeats while its condition is true and stops when it becomes false."
+        },
+        {
+          "q": "What does break do in a loop?",
+          "options": [
+            "It skips one item",
+            "It stops the loop immediately",
+            "It restarts the loop",
+            "It prints an error"
+          ],
+          "answer": 1,
+          "explain": "break exits the loop straight away."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Functions",
+      "goal": "Write your own functions to reuse code.",
+      "video": {
+        "youtube_id": "37vxWr0WgQk",
+        "title": "How to FETCH data from an API using JavaScript",
+        "channel": "Bro Code"
+      },
+      "steps": [
+        "Write a function greet(name) that logs a greeting, then call it.",
+        "Write a function add(a, b) that returns the sum, and log add(3, 4).",
+        "Write an arrow function double = n => n * 2 and log double(5).",
+        "Write a function that takes an array of numbers and returns the average."
+      ],
+      "task": "Write three functions: celsiusToFahrenheit, fahrenheitToCelsius, and a small test that logs both conversions.",
+      "challenge": "Write a function that takes a sentence and returns how many words it has.",
+      "quiz": [
+        {
+          "q": "What does return do in a function?",
+          "options": [
+            "It prints a value",
+            "It sends a value back to the caller",
+            "It stops the whole page",
+            "It deletes the function"
+          ],
+          "answer": 1,
+          "explain": "return hands a value back to the code that called the function."
+        },
+        {
+          "q": "What is an arrow function?",
+          "options": [
+            "A function written with =>",
+            "A function that draws arrows",
+            "A function that never runs",
+            "A function with no name"
+          ],
+          "answer": 0,
+          "explain": "Arrow functions use => and are a shorter way to write functions, like n => n * 2."
+        },
+        {
+          "q": "Why use functions?",
+          "options": [
+            "To make code longer",
+            "To reuse code, avoid repeating yourself and keep programs tidy",
+            "To make programs slower",
+            "To hide errors"
+          ],
+          "answer": 1,
+          "explain": "Functions let you write logic once and call it many times."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Objects",
+      "goal": "Store data as key-value pairs in objects.",
+      "video": {
+        "youtube_id": "EfAl9bwzVZk",
+        "title": "JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+        "channel": "Dave Gray"
+      },
+      "steps": [
+        "Make an object for a person with name, age and city keys, then log it.",
+        "Log one value with person.name and one with person['age'].",
+        "Add a new key and change an existing value.",
+        "Add a method to the object, like greet() that logs a greeting."
+      ],
+      "task": "Build a small product object with name, price and stock, plus a method that logs a summary.",
+      "challenge": "Make an array of three person objects and log each person's name in a loop.",
+      "quiz": [
+        {
+          "q": "What is an object in JavaScript?",
+          "options": [
+            "A list of numbers",
+            "A collection of key-value pairs",
+            "A kind of loop",
+            "A text file"
+          ],
+          "answer": 1,
+          "explain": "An object stores named values, like {name: 'Ada', age: 25}, and you read them by key."
+        },
+        {
+          "q": "How do you read the name from person?",
+          "options": [
+            "person(name)",
+            "person.name",
+            "person->name",
+            "person[name]"
+          ],
+          "answer": 1,
+          "explain": "Dot notation, person.name, reads the value stored under the key 'name'."
+        },
+        {
+          "q": "What is a method?",
+          "options": [
+            "A variable",
+            "A function stored inside an object",
+            "A kind of array",
+            "A loop"
+          ],
+          "answer": 1,
+          "explain": "A method is a function that lives on an object and usually works with that object's data."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Array Methods: map, filter, find",
+      "goal": "Transform and search arrays with map, filter and find.",
+      "video": {
+        "youtube_id": "jS4aFq5-91M",
+        "title": "Full JavaScript Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Use map() to double every number in an array.",
+        "Use filter() to keep only the numbers bigger than 10.",
+        "Use find() to get the first item that matches a condition.",
+        "Use forEach() to log every item in an array."
+      ],
+      "task": "Given an array of prices, use map() to add 10% tax to each and log the new prices.",
+      "challenge": "Filter a list of names to only the ones that start with the letter A.",
+      "quiz": [
+        {
+          "q": "What does map() return?",
+          "options": [
+            "Nothing",
+            "A new array with the same length, each item changed by your function",
+            "A single value",
+            "The first item"
+          ],
+          "answer": 1,
+          "explain": "map() runs your function on every item and returns a new array of the results."
+        },
+        {
+          "q": "What does filter() return?",
+          "options": [
+            "A new array with only the items that pass your test",
+            "The first item",
+            "A number",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "filter() keeps only the items where your test returns true, and returns them as a new array."
+        },
+        {
+          "q": "What does find() return?",
+          "options": [
+            "An array",
+            "The first item that passes the test, or undefined",
+            "The last item",
+            "A boolean"
+          ],
+          "answer": 1,
+          "explain": "find() returns the first matching item, or undefined if nothing matches."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "The DOM: Selecting Elements",
+      "goal": "Find and read parts of a web page with JavaScript.",
+      "video": {
+        "youtube_id": "lI1ae4REbFM",
+        "title": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
+        "channel": "Clever Programmer"
+      },
+      "steps": [
+        "Use document.getElementById('title') to grab a heading.",
+        "Use document.querySelector('.card') to grab the first element with a class.",
+        "Use querySelectorAll('li') to grab all list items and log how many there are.",
+        "Read an element's textContent and log it."
+      ],
+      "task": "Build a page with three paragraphs and log each one's text to the console.",
+      "challenge": "Select all the buttons on a page and log how many there are.",
+      "quiz": [
+        {
+          "q": "What is the DOM?",
+          "options": [
+            "The internet",
+            "A tree-like model of the page that JavaScript can read and change",
+            "A kind of database",
+            "A CSS file"
+          ],
+          "answer": 1,
+          "explain": "The DOM is the browser's model of the page. JavaScript uses it to find and change elements."
+        },
+        {
+          "q": "What does getElementById('title') return?",
+          "options": [
+            "The text of the page",
+            "The element with id='title'",
+            "All headings",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "It returns the single element whose id is 'title'."
+        },
+        {
+          "q": "What is the difference between querySelector and querySelectorAll?",
+          "options": [
+            "There is none",
+            "querySelector returns the first match, querySelectorAll returns all matches",
+            "querySelector is faster",
+            "querySelectorAll only works on divs"
+          ],
+          "answer": 1,
+          "explain": "querySelector gives the first match. querySelectorAll gives a list of every match."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: To-Do List Web App",
+      "goal": "Build a to-do list that runs in the browser.",
+      "video": {
+        "youtube_id": "Pyv0tMm5i_w",
+        "title": "JavaScript Full Course For Beginners With JavaScript Projects",
+        "channel": "GreatStack"
+      },
+      "steps": [
+        "Make a page with an input, an Add button and an empty list.",
+        "When Add is clicked, create a new <li> with the task text and add it to the list.",
+        "Add a Delete button to each task that removes it when clicked.",
+        "Clear the input box after each task is added."
+      ],
+      "task": "Finish the to-do app and add five real tasks to it.",
+      "challenge": "Add a checkbox to each task that crosses the text out when ticked.",
+      "quiz": [
+        {
+          "q": "How do you create a new element in JavaScript?",
+          "options": [
+            "document.createElement('li')",
+            "new li()",
+            "document.make('li')",
+            "li.create()"
+          ],
+          "answer": 0,
+          "explain": "createElement() makes a new element you can fill with text and add to the page."
+        },
+        {
+          "q": "How do you add an element to the page?",
+          "options": [
+            "appendChild()",
+            "add()",
+            "push()",
+            "insert()"
+          ],
+          "answer": 0,
+          "explain": "appendChild() adds a new element as the last child of a parent element."
+        },
+        {
+          "q": "Why clear the input after adding a task?",
+          "options": [
+            "To save memory",
+            "So the user can type the next task without deleting the old text",
+            "To hide the input",
+            "To reload the page"
+          ],
+          "answer": 1,
+          "explain": "Clearing the input keeps the app smooth: the user types the next task straight away."
+        }
+      ],
+      "project": {
+        "title": "To-Do List Web App",
+        "brief": "Build a to-do list that runs in the browser: add tasks, show them in a list, and delete them. Tasks must survive a page refresh using local storage.",
+        "checks": [
+          "The page has an input, an Add button and a list.",
+          "Clicking Add creates a new task in the list.",
+          "Each task has a Delete button that removes it.",
+          "Tasks are saved to localStorage and loaded on refresh.",
+          "The input clears after each task is added.",
+          "Empty tasks cannot be added."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "The DOM: Changing Text and Styles",
+      "goal": "Change what a page shows and how it looks with JavaScript.",
+      "video": {
+        "youtube_id": "1h46cNkyXlE",
+        "title": "JavaScript Tutorial For Beginners",
+        "channel": "Intellipaat"
+      },
+      "steps": [
+        "Change a heading's text with element.textContent = 'New title'.",
+        "Change a paragraph's colour with element.style.color = 'red'.",
+        "Add a class to an element with classList.add('highlight').",
+        "Change an image's source with img.src = 'new.jpg'."
+      ],
+      "task": "Build a page with a button that changes the page background colour each time it is clicked.",
+      "challenge": "Make a button that hides and shows a paragraph each time it is clicked.",
+      "quiz": [
+        {
+          "q": "What does textContent do?",
+          "options": [
+            "It styles text",
+            "It gets or sets the text inside an element",
+            "It deletes the element",
+            "It counts words"
+          ],
+          "answer": 1,
+          "explain": "textContent reads or replaces the text inside an element."
+        },
+        {
+          "q": "What does classList.add('dark') do?",
+          "options": [
+            "It deletes a class",
+            "It adds the class 'dark' to the element",
+            "It changes the text",
+            "It hides the element"
+          ],
+          "answer": 1,
+          "explain": "classList.add() puts a CSS class on the element so your stylesheet can style it."
+        },
+        {
+          "q": "Why use classes instead of setting style directly?",
+          "options": [
+            "Classes are slower",
+            "Classes keep styling in CSS, so design stays in one place",
+            "Classes cannot be removed",
+            "style does not work"
+          ],
+          "answer": 1,
+          "explain": "Using classes keeps your styles in CSS where they belong, and lets you toggle designs easily."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Events: Clicks",
+      "goal": "React when users click things on your page.",
+      "video": {
+        "youtube_id": "JwDoWAbacoo",
+        "title": "JavaScript Full Course for Beginners (2026): Build a Real Page",
+        "channel": "Learn Easy"
+      },
+      "steps": [
+        "Add a click event to a button with addEventListener('click', ...).",
+        "Make the button log 'Clicked!' each time it is pressed.",
+        "Make a counter button that adds 1 to a number on the page each click.",
+        "Add a second button that resets the counter to 0."
+      ],
+      "task": "Build a like button that shows how many likes it has and increases by 1 each click.",
+      "challenge": "Make three buttons that each change the page background to a different colour.",
+      "quiz": [
+        {
+          "q": "What is an event listener?",
+          "options": [
+            "A style rule",
+            "Code that waits for something to happen, like a click, then runs",
+            "A kind of loop",
+            "A variable"
+          ],
+          "answer": 1,
+          "explain": "An event listener waits for an event on an element and runs your function when it happens."
+        },
+        {
+          "q": "What does addEventListener('click', myFunction) do?",
+          "options": [
+            "It clicks the button",
+            "It runs myFunction every time the element is clicked",
+            "It deletes the button",
+            "It styles the button"
+          ],
+          "answer": 1,
+          "explain": "It registers myFunction to run whenever a click happens on that element."
+        },
+        {
+          "q": "What is the event object?",
+          "options": [
+            "The button itself",
+            "An object with details about what happened, like which key was pressed",
+            "An error",
+            "A string"
+          ],
+          "answer": 1,
+          "explain": "The event object carries details about the event, such as the target element or the key pressed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Events: Forms and Input",
+      "goal": "Read what users type and handle form submissions properly.",
+      "video": {
+        "youtube_id": "p8ytrJ1ryBQ",
+        "title": "Code Companion #9: DOM Manipulation",
+        "channel": "Atom Morgan"
+      },
+      "steps": [
+        "Listen for the 'input' event on a text box and show what the user types live.",
+        "Listen for the 'submit' event on a form and stop the page reloading with preventDefault().",
+        "Read the form values and log them when the form is submitted.",
+        "Show a thank-you message on the page after submit."
+      ],
+      "task": "Build a sign-up form that checks the name is not empty before showing a welcome message.",
+      "challenge": "Make a live character counter that shows how many characters are left as you type.",
+      "quiz": [
+        {
+          "q": "Why call preventDefault() on a form submit?",
+          "options": [
+            "To make it faster",
+            "To stop the browser reloading the page so JavaScript can handle the data",
+            "To hide the form",
+            "To delete the data"
+          ],
+          "answer": 1,
+          "explain": "By default a form submit reloads the page. preventDefault() stops that so your code can handle it."
+        },
+        {
+          "q": "Which event fires every time the user types in a box?",
+          "options": [
+            "click",
+            "input",
+            "submit",
+            "load"
+          ],
+          "answer": 1,
+          "explain": "The input event fires on every keystroke, which is perfect for live feedback."
+        },
+        {
+          "q": "How do you read a form field's value?",
+          "options": [
+            "field.text",
+            "field.value",
+            "field.content",
+            "field.data"
+          ],
+          "answer": 1,
+          "explain": "Form fields store what the user typed in their .value property."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Timers: setTimeout and setInterval",
+      "goal": "Run code after a delay or on a repeating schedule.",
+      "video": {
+        "youtube_id": "XNyGDWCqBVc",
+        "title": "Events | JavaScript Course",
+        "channel": "Full Stack Masterclass"
+      },
+      "steps": [
+        "Use setTimeout() to log a message after 3 seconds.",
+        "Use setInterval() to log a number every second.",
+        "Store the interval id and stop it with clearInterval() after 5 seconds.",
+        "Build a countdown that shows 5, 4, 3, 2, 1, then 'Go!'."
+      ],
+      "task": "Build a simple clock that shows the current time and updates every second.",
+      "challenge": "Make a button that shows a message, then hides it again after 2 seconds.",
+      "quiz": [
+        {
+          "q": "What does setTimeout() do?",
+          "options": [
+            "It runs code now",
+            "It runs code once after a delay",
+            "It runs code forever",
+            "It stops code"
+          ],
+          "answer": 1,
+          "explain": "setTimeout() waits the delay you give, then runs your function once."
+        },
+        {
+          "q": "What does setInterval() do?",
+          "options": [
+            "It runs code once",
+            "It runs code again and again on a schedule",
+            "It stops the page",
+            "It deletes code"
+          ],
+          "answer": 1,
+          "explain": "setInterval() repeats your function every few milliseconds until you stop it."
+        },
+        {
+          "q": "How do you stop an interval?",
+          "options": [
+            "Delete it",
+            "Call clearInterval() with the id that setInterval() returned",
+            "Refresh the page only",
+            "You cannot stop it"
+          ],
+          "answer": 1,
+          "explain": "setInterval() returns an id. Pass that id to clearInterval() to stop it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "JSON",
+      "goal": "Understand JSON and turn it into JavaScript objects and back.",
+      "video": {
+        "youtube_id": "rUg0Bi5uRLw",
+        "title": "JavaScript Fetch API using Async/Await",
+        "channel": "Bonsaii Labs"
+      },
+      "steps": [
+        "Use JSON.parse() to turn a JSON string into an object.",
+        "Use JSON.stringify() to turn an object into a JSON string.",
+        "Log the type of the parsed result to confirm it is an object.",
+        "Access a nested value like data.user.name."
+      ],
+      "task": "Take a JSON string of a product and log its name and price.",
+      "challenge": "Turn an array of tasks into a JSON string and log it.",
+      "quiz": [
+        {
+          "q": "What is JSON?",
+          "options": [
+            "A programming language",
+            "A text format for data, using keys and values like JavaScript objects",
+            "A database",
+            "A JavaScript function"
+          ],
+          "answer": 1,
+          "explain": "JSON is plain text shaped like objects and arrays, used to send data between programs."
+        },
+        {
+          "q": "What does JSON.parse() do?",
+          "options": [
+            "It prints JSON",
+            "It turns a JSON string into a real JavaScript value",
+            "It deletes JSON",
+            "It saves JSON to a file"
+          ],
+          "answer": 1,
+          "explain": "JSON.parse() reads JSON text and gives you back an object or array you can use."
+        },
+        {
+          "q": "What does JSON.stringify() do?",
+          "options": [
+            "It deletes an object",
+            "It turns a JavaScript value into a JSON text string",
+            "It reads a file",
+            "It sorts an array"
+          ],
+          "answer": 1,
+          "explain": "stringify() turns an object or array into a JSON string you can send or store."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Fetch API Basics",
+      "goal": "Ask a server for data with fetch() and read the reply.",
+      "video": {
+        "youtube_id": "37vxWr0WgQk",
+        "title": "How to FETCH data from an API using JavaScript",
+        "channel": "Bro Code"
+      },
+      "steps": [
+        "Use fetch() to request a public JSON API and log the response.",
+        "Use .then() to turn the reply into JSON with response.json().",
+        "Log one value from the data, like the title of a post.",
+        "Add .catch() to log a friendly message if the request fails."
+      ],
+      "task": "Fetch a random joke from a public API and show it on your page.",
+      "challenge": "Fetch a list of users and log only their names.",
+      "quiz": [
+        {
+          "q": "What does fetch() return?",
+          "options": [
+            "The data itself",
+            "A promise that will hold the response",
+            "A string",
+            "An error"
+          ],
+          "answer": 1,
+          "explain": "fetch() returns a promise. The data arrives later, so you handle it with .then() or await."
+        },
+        {
+          "q": "What is a promise?",
+          "options": [
+            "A guarantee in writing",
+            "An object that represents a value that is not ready yet",
+            "A kind of loop",
+            "A function that runs instantly"
+          ],
+          "answer": 1,
+          "explain": "A promise is a placeholder for a future value. It can be pending, fulfilled or rejected."
+        },
+        {
+          "q": "What does .catch() do?",
+          "options": [
+            "It hides errors",
+            "It runs when the promise fails, so you can handle the error",
+            "It deletes the data",
+            "It reloads the page"
+          ],
+          "answer": 1,
+          "explain": ".catch() runs if the request fails, letting you show a friendly message instead of crashing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Weather App",
+      "goal": "Build a weather app that fetches real data from a free API.",
+      "video": {
+        "youtube_id": "EfAl9bwzVZk",
+        "title": "JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+        "channel": "Dave Gray"
+      },
+      "steps": [
+        "Make a page with a city input, a button and a result area.",
+        "Use fetch() to ask a free weather API for the city.",
+        "Show the temperature, weather description and city name on the page.",
+        "Show 'City not found' when the API cannot find the city."
+      ],
+      "task": "Finish the weather app and test it with three different cities.",
+      "challenge": "Add the wind speed and a small icon or emoji for the weather type.",
+      "quiz": [
+        {
+          "q": "Why check response.ok before reading the data?",
+          "options": [
+            "To make it faster",
+            "Because a failed request may not contain the data you expect",
+            "To save memory",
+            "To hide errors"
+          ],
+          "answer": 1,
+          "explain": "response.ok tells you the request worked. If not, the body may be an error message."
+        },
+        {
+          "q": "What does await do?",
+          "options": [
+            "It makes code faster",
+            "It pauses the function until the promise finishes, then gives the value",
+            "It deletes the promise",
+            "It runs code twice"
+          ],
+          "answer": 1,
+          "explain": "await pauses an async function until the promise settles, so you can write code that reads top to bottom."
+        },
+        {
+          "q": "Why use a free public API for this project?",
+          "options": [
+            "Because it is the only option",
+            "Because it gives real data without needing your own server or key",
+            "Because it is faster than local data",
+            "Because it never fails"
+          ],
+          "answer": 1,
+          "explain": "Public APIs give you real live data to practise with, with no server to build."
+        }
+      ],
+      "project": {
+        "title": "Weather App with a Real API",
+        "brief": "Build a weather app: the user types a city, the app fetches real weather data from a free public API, and shows the temperature and description on the page.",
+        "checks": [
+          "The page has a city input, a button and a result area.",
+          "The app fetches data from a free weather API.",
+          "The temperature and weather description show on the page.",
+          "The app shows 'City not found' for a bad city name.",
+          "The app shows a friendly message when the network fails.",
+          "The code uses async/await or .then() to handle the fetch."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Async and Await",
+      "goal": "Write clean async code with async functions and await.",
+      "video": {
+        "youtube_id": "jS4aFq5-91M",
+        "title": "Full JavaScript Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Mark a function with async so it can use await.",
+        "Use await fetch() and await response.json() to get data step by step.",
+        "Wrap the code in try/catch to handle a failed request.",
+        "Call the async function and log the result."
+      ],
+      "task": "Rewrite your joke fetcher using async/await instead of .then().",
+      "challenge": "Fetch two APIs one after the other and log both results.",
+      "quiz": [
+        {
+          "q": "What does async do to a function?",
+          "options": [
+            "It makes it run instantly",
+            "It lets the function use await and makes it return a promise",
+            "It deletes the function",
+            "It makes it slower"
+          ],
+          "answer": 1,
+          "explain": "An async function can use await inside it, and it always returns a promise."
+        },
+        {
+          "q": "What does try/catch do with async code?",
+          "options": [
+            "It hides all errors",
+            "It catches errors from failed awaits so you can handle them",
+            "It makes code faster",
+            "It stops the function"
+          ],
+          "answer": 1,
+          "explain": "try/catch around await catches a rejected promise, like a failed request, so you can show a message."
+        },
+        {
+          "q": "Why is async/await easier to read than .then() chains?",
+          "options": [
+            "It is shorter always",
+            "It reads top to bottom like normal code instead of nested callbacks",
+            "It runs faster",
+            "It needs no functions"
+          ],
+          "answer": 1,
+          "explain": "await lets you write async steps in a straight line, which is easier to follow than chains of .then()."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Error Handling",
+      "goal": "Handle errors kindly so your app never breaks in front of the user.",
+      "video": {
+        "youtube_id": "lI1ae4REbFM",
+        "title": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
+        "channel": "Clever Programmer"
+      },
+      "steps": [
+        "Wrap risky code in try/catch and log a friendly message in the catch.",
+        "Throw your own error with throw new Error('Bad input') when input is wrong.",
+        "Use a finally block to run clean-up code no matter what.",
+        "Test your code with bad input and confirm it shows a message, not a crash."
+      ],
+      "task": "Make your weather app show a clear message when the network is off.",
+      "challenge": "Write a function that throws an error for a negative age and catches it.",
+      "quiz": [
+        {
+          "q": "What does try/catch do?",
+          "options": [
+            "It hides errors forever",
+            "It tries code and runs a backup plan if an error happens",
+            "It makes code run faster",
+            "It deletes errors"
+          ],
+          "answer": 1,
+          "explain": "try runs code that might fail. If it fails, catch runs instead of crashing the page."
+        },
+        {
+          "q": "What does throw do?",
+          "options": [
+            "It prints a message",
+            "It creates an error on purpose so calling code can handle it",
+            "It deletes a variable",
+            "It stops the browser"
+          ],
+          "answer": 1,
+          "explain": "throw creates an error you can catch, which is handy for invalid input."
+        },
+        {
+          "q": "What does finally always do?",
+          "options": [
+            "It runs only when there is no error",
+            "It runs whether or not an error happened",
+            "It stops the program",
+            "It prints the error"
+          ],
+          "answer": 1,
+          "explain": "finally runs at the end no matter what, which is handy for clean-up."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Local Storage",
+      "goal": "Save data in the browser so it survives a page refresh.",
+      "video": {
+        "youtube_id": "Pyv0tMm5i_w",
+        "title": "JavaScript Full Course For Beginners With JavaScript Projects",
+        "channel": "GreatStack"
+      },
+      "steps": [
+        "Use localStorage.setItem('name', 'Ada') to save a value.",
+        "Use localStorage.getItem('name') to read it back after a refresh.",
+        "Save an array by turning it into JSON with JSON.stringify() first.",
+        "Read it back with JSON.parse() and log the array."
+      ],
+      "task": "Make your to-do app save its tasks to local storage so they survive a refresh.",
+      "challenge": "Save a dark mode setting and apply it when the page loads.",
+      "quiz": [
+        {
+          "q": "What is localStorage?",
+          "options": [
+            "A server database",
+            "A small storage space in the browser that keeps data after refresh",
+            "A file on your computer",
+            "A JavaScript variable"
+          ],
+          "answer": 1,
+          "explain": "localStorage lets you save key-value pairs in the browser. They stay there until you delete them."
+        },
+        {
+          "q": "What type does localStorage store?",
+          "options": [
+            "Numbers",
+            "Only strings",
+            "Objects",
+            "Arrays"
+          ],
+          "answer": 1,
+          "explain": "localStorage only stores strings, so you turn objects into JSON text first."
+        },
+        {
+          "q": "How do you save an array in localStorage?",
+          "options": [
+            "Just save it directly",
+            "Turn it into a JSON string with JSON.stringify() first",
+            "You cannot save arrays",
+            "Split it into letters"
+          ],
+          "answer": 1,
+          "explain": "Because localStorage only stores strings, you stringify the array, then parse it back when reading."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Build a Calculator",
+      "goal": "Put functions, events and the DOM together in a calculator app.",
+      "video": {
+        "youtube_id": "1h46cNkyXlE",
+        "title": "JavaScript Tutorial For Beginners",
+        "channel": "Intellipaat"
+      },
+      "steps": [
+        "Make a page with buttons for digits and operations and a display area.",
+        "When a digit button is clicked, add the digit to the display.",
+        "When = is clicked, work out the answer with a function and show it.",
+        "Add a Clear button that empties the display."
+      ],
+      "task": "Finish the calculator and test add, subtract, multiply and divide.",
+      "challenge": "Add a backspace button that deletes the last digit.",
+      "quiz": [
+        {
+          "q": "How should the calculator store the current number?",
+          "options": [
+            "In a variable that updates as buttons are clicked",
+            "In the page title",
+            "In localStorage only",
+            "In an alert"
+          ],
+          "answer": 0,
+          "explain": "Keep the current value in a variable, show it in the display, and update both on each click."
+        },
+        {
+          "q": "Why use one function per operation?",
+          "options": [
+            "To use more lines",
+            "So each operation is easy to test and fix",
+            "To make it slower",
+            "To hide the code"
+          ],
+          "answer": 1,
+          "explain": "One function per operation keeps the code tidy and each piece easy to check."
+        },
+        {
+          "q": "What should dividing by zero show?",
+          "options": [
+            "A crash",
+            "A friendly message like 'Cannot divide by zero'",
+            "0",
+            "Infinity forever"
+          ],
+          "answer": 1,
+          "explain": "A good app catches the problem and explains it instead of breaking."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Build a Memory Game",
+      "goal": "Build a card matching game with JavaScript and the DOM.",
+      "video": {
+        "youtube_id": "JwDoWAbacoo",
+        "title": "JavaScript Full Course for Beginners (2026): Build a Real Page",
+        "channel": "Learn Easy"
+      },
+      "steps": [
+        "Make 8 cards (4 pairs) with JavaScript and shuffle them.",
+        "When a card is clicked, flip it to show its symbol.",
+        "When two cards are flipped, check if they match.",
+        "If they match, keep them face up. If not, flip them back after a short delay."
+      ],
+      "task": "Finish the memory game and play it until you match all pairs.",
+      "challenge": "Add a move counter and a win message that shows how many moves it took.",
+      "quiz": [
+        {
+          "q": "How do you shuffle an array of cards?",
+          "options": [
+            "Sort it",
+            "Use a shuffle: loop through and swap each item with a random one",
+            "Reverse it",
+            "You cannot shuffle"
+          ],
+          "answer": 1,
+          "explain": "A shuffle swaps each item with a random other item, which mixes the order."
+        },
+        {
+          "q": "Why use setTimeout when two cards do not match?",
+          "options": [
+            "To make it slower",
+            "To give the player a moment to see both cards before they flip back",
+            "To hide the cards",
+            "To reload the page"
+          ],
+          "answer": 1,
+          "explain": "A short delay lets the player see the two cards before they turn face down again."
+        },
+        {
+          "q": "How do you know the game is won?",
+          "options": [
+            "When the timer ends",
+            "When all pairs are matched",
+            "When the player clicks once",
+            "When the page loads"
+          ],
+          "answer": 1,
+          "explain": "The game is won when every pair has been found and stays face up."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Build a Countdown Timer",
+      "goal": "Build a countdown timer with setInterval and the DOM.",
+      "video": {
+        "youtube_id": "p8ytrJ1ryBQ",
+        "title": "Code Companion #9: DOM Manipulation",
+        "channel": "Atom Morgan"
+      },
+      "steps": [
+        "Make a page with a minutes input and a Start button.",
+        "When Start is clicked, begin a setInterval that ticks every second.",
+        "Show the remaining time as minutes and seconds on the page.",
+        "When the time reaches zero, stop the interval and show 'Time is up!'."
+      ],
+      "task": "Finish the countdown timer and test it with 1 minute.",
+      "challenge": "Add a Pause button that stops the timer and a Resume button that starts it again.",
+      "quiz": [
+        {
+          "q": "How do you turn total seconds into minutes and seconds?",
+          "options": [
+            "Divide by 100",
+            "Minutes = total seconds divided by 60 (rounded down), seconds = the remainder",
+            "Multiply by 60",
+            "You cannot"
+          ],
+          "answer": 1,
+          "explain": "Minutes are total seconds // 60 and the leftover seconds are total seconds % 60."
+        },
+        {
+          "q": "Why store the interval id?",
+          "options": [
+            "To make it faster",
+            "So you can stop the timer later with clearInterval(id)",
+            "To hide it",
+            "To print it"
+          ],
+          "answer": 1,
+          "explain": "You need the id to stop that exact interval with clearInterval()."
+        },
+        {
+          "q": "What happens if you start the timer twice without stopping it?",
+          "options": [
+            "Nothing",
+            "Two intervals run and the countdown goes twice as fast",
+            "The page crashes",
+            "The timer resets"
+          ],
+          "answer": 1,
+          "explain": "Starting twice creates two intervals, so the count drops twice per second. Always stop the old one first."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Debugging in the Browser",
+      "goal": "Find and fix bugs using the browser's developer tools.",
+      "video": {
+        "youtube_id": "XNyGDWCqBVc",
+        "title": "Events | JavaScript Course",
+        "channel": "Full Stack Masterclass"
+      },
+      "steps": [
+        "Open a page with a bug, press F12 and read the error in the Console.",
+        "Click the line number in the error to jump to the broken code.",
+        "Add console.log() to check what a variable holds at a key point.",
+        "Use a breakpoint in the Sources tab to pause the code and inspect values."
+      ],
+      "task": "Fix three small bugs in a sample page using only the console errors as clues.",
+      "challenge": "Use the debugger statement to pause your code and step through it line by line.",
+      "quiz": [
+        {
+          "q": "What does the Console tab show you?",
+          "options": [
+            "The page design",
+            "Errors, warnings and your console.log() messages",
+            "The HTML file",
+            "The server logs"
+          ],
+          "answer": 1,
+          "explain": "The Console shows JavaScript errors and anything you log, which is your first stop when something breaks."
+        },
+        {
+          "q": "What is a breakpoint?",
+          "options": [
+            "A line that deletes code",
+            "A marker that pauses the code at that line so you can inspect values",
+            "A kind of error",
+            "A new function"
+          ],
+          "answer": 1,
+          "explain": "A breakpoint pauses execution at that line so you can look at variables and step through the code."
+        },
+        {
+          "q": "Why read the error message first?",
+          "options": [
+            "To ignore it",
+            "Because it usually names the error type and the exact line that failed",
+            "To make the bug worse",
+            "To close the tab"
+          ],
+          "answer": 1,
+          "explain": "Error messages point at the file and line, which saves you from guessing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Clean Code and Review",
+      "goal": "Review your month of work, clean up your code and get ready for the capstone.",
+      "video": {
+        "youtube_id": "rUg0Bi5uRLw",
+        "title": "JavaScript Fetch API using Async/Await",
+        "channel": "Bonsaii Labs"
+      },
+      "steps": [
+        "Pick your best project and rename variables so their names explain what they hold.",
+        "Break long functions into smaller ones with clear names.",
+        "Remove console.log() lines you no longer need.",
+        "Add short comments above the tricky parts."
+      ],
+      "task": "Clean up your to-do app or weather app and make sure it still works.",
+      "challenge": "Ask a friend to read your code and tell you one part that is confusing, then fix it.",
+      "quiz": [
+        {
+          "q": "What is clean code?",
+          "options": [
+            "Code with no comments",
+            "Code that is easy to read, with clear names and small functions",
+            "Code with many lines",
+            "Code that runs fast only"
+          ],
+          "answer": 1,
+          "explain": "Clean code is easy for another person to read and change, because names are clear and functions are small."
+        },
+        {
+          "q": "Why remove old console.log() lines?",
+          "options": [
+            "To make code shorter only",
+            "So the console stays clean and real errors are easy to spot",
+            "To hide bugs",
+            "To make the page load slower"
+          ],
+          "answer": 1,
+          "explain": "Leftover logs clutter the console and make real problems harder to find."
+        },
+        {
+          "q": "Why do small functions help?",
+          "options": [
+            "They run faster",
+            "Each one does one job, so it is easy to test and fix",
+            "They use less memory",
+            "They need no names"
+          ],
+          "answer": 1,
+          "explain": "A small function does one job. When something breaks, you know exactly where to look."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Present Your Work",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "37vxWr0WgQk",
+        "title": "How to FETCH data from an API using JavaScript",
+        "channel": "Bro Code"
+      },
+      "steps": [
+        "List all the apps you built in 30 days and pick your favourite.",
+        "Write a short plan: what the app does, who it helps and how it works.",
+        "Practise explaining your code in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your app running."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your project.",
+      "challenge": "Show your project to one person and note their questions, then improve your explanation.",
+      "quiz": [
+        {
+          "q": "What makes a good project demo?",
+          "options": [
+            "Long code",
+            "A clear explanation of the problem, the solution and a live run",
+            "Loud music",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A good demo shows the problem, how your app solves it, and the app actually running."
+        },
+        {
+          "q": "Why practise explaining your code?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your code in simple words, you really understand it. That is what employers look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the code",
+            "The problem, the features, the tools used and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the problem you solve, the features you will build, the tools you will use and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Build and Share a Useful Web App",
+    "brief": "Build a complete web app that solves a real problem for real people: a budget tracker, a study planner, a small shop page or a habit tracker. It must have a clean page, working buttons, data saved in local storage, and at least one fetch from a public API. Share it on GitHub Pages with a README and a short demo.",
+    "checks": [
+      "The app solves one real problem and you can explain the problem in one sentence.",
+      "It has a clean HTML page and CSS styling.",
+      "Buttons and inputs work with JavaScript and the DOM.",
+      "Data is saved in localStorage so it survives a refresh.",
+      "It fetches data from at least one public API.",
+      "It is live on GitHub Pages with a README that explains how to use it.",
+      "You can show a live demo and explain how it works in simple words."
+    ],
+    "deliverables": [
+      "A working web app (HTML, CSS and JavaScript files).",
+      "A live GitHub Pages link to the app.",
+      "A README.md explaining the problem, the features and how to use it.",
+      "A short demo video or screenshots showing the app running.",
+      "A one-page write-up of what you learned in 30 days."
+    ]
+  }
+}

@@ -1,0 +1,1718 @@
+{
+  "course": {
+    "id": "healthy-meal-planning",
+    "title": "Healthy Meal Planning",
+    "level": "Beginner",
+    "tagline": "Plan tasty, healthy meals for the week without stress or waste.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What is meal planning?",
+      "goal": "Learn what meal planning is and why it helps.",
+      "video": {
+        "youtube_id": "nhBEKfYbz0Y",
+        "title": "Meal Planning For Beginners (in 6 easy steps)",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Watch the video and write the main idea in one sentence.",
+        "Meal planning means deciding your meals before the week starts.",
+        "Write down 3 ways it helps: saves time, saves money, eats healthier.",
+        "Pick one day this week to plan your meals."
+      ],
+      "task": "Write 3 ways meal planning helps you.",
+      "challenge": "Tell a friend what meal planning is in one sentence.",
+      "quiz": [
+        {
+          "q": "What is meal planning?",
+          "options": [
+            "Cooking all day",
+            "Deciding your meals before the week starts",
+            "Eating out every day",
+            "Skipping meals"
+          ],
+          "answer": 1,
+          "explain": "Planning ahead makes healthy eating easy."
+        },
+        {
+          "q": "Why plan meals?",
+          "options": [
+            "It wastes time",
+            "It makes food boring",
+            "It saves time, money and stress",
+            "It is not needed"
+          ],
+          "answer": 2,
+          "explain": "A plan saves time and money and helps you eat well."
+        },
+        {
+          "q": "When should you plan?",
+          "options": [
+            "Every hour",
+            "Never",
+            "At the restaurant",
+            "Once a week, before shopping"
+          ],
+          "answer": 3,
+          "explain": "Planning once a week is enough."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Know your food groups",
+      "goal": "Learn the food groups in plain words.",
+      "video": {
+        "youtube_id": "xT2318MSFxE",
+        "title": "Keep Your Diet Simple: A Doctor's Approach to Eating Healthy",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Protein builds muscle: eggs, beans, fish, chicken.",
+        "Carbs give energy: rice, yam, bread, oats.",
+        "Vegetables and fruit give vitamins: spinach, carrots, oranges.",
+        "Fats protect the body: nuts, avocado, olive oil."
+      ],
+      "task": "List 3 foods from each group.",
+      "challenge": "Name one food from each group in your kitchen.",
+      "quiz": [
+        {
+          "q": "What does protein do?",
+          "options": [
+            "It gives quick energy only",
+            "It makes you thirsty",
+            "It builds and repairs muscle",
+            "It does nothing"
+          ],
+          "answer": 2,
+          "explain": "Protein builds muscle."
+        },
+        {
+          "q": "What do carbs do?",
+          "options": [
+            "They build bones",
+            "They are bad for everyone",
+            "They do nothing",
+            "They give energy"
+          ],
+          "answer": 3,
+          "explain": "Carbs are the body's fuel."
+        },
+        {
+          "q": "What do vegetables give you?",
+          "options": [
+            "Vitamins and fibre",
+            "Only water",
+            "Only sugar",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Vegetables give vitamins and fibre."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "The healthy plate rule",
+      "goal": "Learn the plate rule for balanced meals.",
+      "video": {
+        "youtube_id": "qiDBgomSeiU",
+        "title": "The Busy Woman's Plate: Masterclass Replay",
+        "channel": "LUVness"
+      },
+      "steps": [
+        "Draw a plate: half vegetables, a quarter protein, a quarter carbs.",
+        "Make one meal using the plate rule.",
+        "Take a photo of your plate.",
+        "Write down how full you felt."
+      ],
+      "task": "Make one meal using the plate rule.",
+      "challenge": "Use the plate rule for dinner tonight.",
+      "quiz": [
+        {
+          "q": "What goes on half the plate?",
+          "options": [
+            "Meat",
+            "Rice",
+            "Sweets",
+            "Vegetables"
+          ],
+          "answer": 3,
+          "explain": "Half the plate is vegetables."
+        },
+        {
+          "q": "What goes on a quarter of the plate?",
+          "options": [
+            "Protein",
+            "Sweets",
+            "Fried snacks",
+            "Only rice"
+          ],
+          "answer": 0,
+          "explain": "A quarter of the plate is protein."
+        },
+        {
+          "q": "Why use the plate rule?",
+          "options": [
+            "It is only for show",
+            "It keeps meals balanced without counting",
+            "It makes food boring",
+            "It is not useful"
+          ],
+          "answer": 1,
+          "explain": "The plate rule makes balanced eating easy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Plan 3 dinners this week",
+      "goal": "Plan your first 3 dinners.",
+      "video": {
+        "youtube_id": "v4i3i4DPhzQ",
+        "title": "Meal Plan with Me + Meal Planning Tips",
+        "channel": "Katie Wrede"
+      },
+      "steps": [
+        "Pick 3 dinners you like that use the plate rule.",
+        "Write each dinner on a card.",
+        "Check what food you already have at home.",
+        "Write a shopping list for what you still need."
+      ],
+      "task": "Write 3 dinner plans on cards.",
+      "challenge": "Write your shopping list for the 3 dinners.",
+      "quiz": [
+        {
+          "q": "How many dinners should you plan first?",
+          "options": [
+            "Three",
+            "Thirty",
+            "One",
+            "None"
+          ],
+          "answer": 0,
+          "explain": "Three dinners is a good start."
+        },
+        {
+          "q": "Why check what you already have?",
+          "options": [
+            "To waste time",
+            "So you do not buy food twice",
+            "It is not needed",
+            "To spend more"
+          ],
+          "answer": 1,
+          "explain": "Checking first saves money."
+        },
+        {
+          "q": "What should a shopping list have?",
+          "options": [
+            "Everything in the shop",
+            "Nothing",
+            "Only what you need for your meals",
+            "Only sweets"
+          ],
+          "answer": 2,
+          "explain": "A list stops impulse buying."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Shop smart: one trip",
+      "goal": "Learn to shop once and buy only what you need.",
+      "video": {
+        "youtube_id": "AD5CxGiqnbM",
+        "title": "Quick and easy meal planning in under 15 minutes",
+        "channel": "CrossFit Oxygen"
+      },
+      "steps": [
+        "Take your list to the shop.",
+        "Buy only what is on the list.",
+        "Pick fresh vegetables and fruit first.",
+        "Check the date on fresh food before buying."
+      ],
+      "task": "Shop with your list and buy only what is on it.",
+      "challenge": "Buy vegetables and fruit first.",
+      "quiz": [
+        {
+          "q": "Why shop with a list?",
+          "options": [
+            "To fill paper",
+            "So you buy only what you need",
+            "It is not needed",
+            "To spend more"
+          ],
+          "answer": 1,
+          "explain": "A list stops impulse buying."
+        },
+        {
+          "q": "What should you buy first?",
+          "options": [
+            "Sweets",
+            "Fried snacks",
+            "Fresh vegetables and fruit",
+            "Sugary drinks"
+          ],
+          "answer": 2,
+          "explain": "Fresh food first keeps meals healthy."
+        },
+        {
+          "q": "Why check dates on fresh food?",
+          "options": [
+            "It does not matter",
+            "It wastes time",
+            "Dates are fake",
+            "So you do not buy food that will spoil"
+          ],
+          "answer": 3,
+          "explain": "Fresh food with a good date lasts longer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Cook in bulk: save time",
+      "goal": "Learn to cook a big pot once and eat it for days.",
+      "video": {
+        "youtube_id": "Wrqwg84IFvs",
+        "title": "Lecture Series - 06 | How to Make a Perfect Diet Plan in Steps",
+        "channel": "Finesse Institute"
+      },
+      "steps": [
+        "Cook a big pot of rice or stew.",
+        "Split it into 3 containers.",
+        "Put one in the fridge for tomorrow.",
+        "Put one in the freezer for later in the week."
+      ],
+      "task": "Cook one big pot and split it into 3 meals.",
+      "challenge": "Eat one of your prepped meals tomorrow.",
+      "quiz": [
+        {
+          "q": "What is cooking in bulk?",
+          "options": [
+            "Cooking all day",
+            "Cooking one small meal",
+            "Cooking a big pot once for several meals",
+            "Never cooking"
+          ],
+          "answer": 2,
+          "explain": "Bulk cooking saves time through the week."
+        },
+        {
+          "q": "Where should you keep tomorrow's meal?",
+          "options": [
+            "On the table",
+            "Outside",
+            "In the sun",
+            "In the fridge"
+          ],
+          "answer": 3,
+          "explain": "The fridge keeps food safe for tomorrow."
+        },
+        {
+          "q": "Why split food into containers?",
+          "options": [
+            "So each meal is ready to grab",
+            "To waste containers",
+            "It is not needed",
+            "To make a mess"
+          ],
+          "answer": 0,
+          "explain": "Portions make healthy eating easy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your 3-day meal plan",
+      "goal": "Put week 1 together: plan and cook 3 days of meals.",
+      "video": {
+        "youtube_id": "PWgcAvsg2GI",
+        "title": "How to Meal Prep a Week of Food in 1 HOUR!",
+        "channel": "Cambria Joy"
+      },
+      "steps": [
+        "Write a 3-day plan: breakfast, lunch and dinner.",
+        "Write a shopping list and shop once.",
+        "Cook the meals and use the plate rule.",
+        "Write down what worked and what was hard."
+      ],
+      "task": "Write your 3-day plan and cook day 1.",
+      "challenge": "Cook all 3 days of meals.",
+      "quiz": [
+        {
+          "q": "What should a 3-day plan have?",
+          "options": [
+            "Only dinner",
+            "Only snacks",
+            "Nothing",
+            "Breakfast, lunch and dinner for 3 days"
+          ],
+          "answer": 3,
+          "explain": "A full plan covers every meal."
+        },
+        {
+          "q": "Why shop once for 3 days?",
+          "options": [
+            "It saves time and stops impulse buying",
+            "It wastes time",
+            "It costs more",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "One shop keeps you on plan."
+        },
+        {
+          "q": "What should you write down after cooking?",
+          "options": [
+            "Nothing",
+            "What worked and what was hard",
+            "Only the date",
+            "Only your name"
+          ],
+          "answer": 1,
+          "explain": "Notes help you improve next time."
+        }
+      ],
+      "project": {
+        "title": "Your 3-day meal plan",
+        "brief": "Plan and cook 3 days of meals: breakfast, lunch and dinner, with a shopping list and the plate rule.",
+        "checks": [
+          "Plan has 3 days",
+          "Every day has 3 meals",
+          "Shopping list is written",
+          "Cooked the meals",
+          "Used the plate rule",
+          "Wrote what worked and what was hard"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Breakfasts that keep you full",
+      "goal": "Learn 3 easy breakfasts that fill you up.",
+      "video": {
+        "youtube_id": "z6T4w6rlnoY",
+        "title": "How To Become A Meal Prepping Ninja",
+        "channel": "Shock Munch"
+      },
+      "steps": [
+        "Try oats with fruit and nuts.",
+        "Try eggs with bread and vegetables.",
+        "Try yoghurt with fruit.",
+        "Pick your favourite and make it tomorrow."
+      ],
+      "task": "Make one healthy breakfast tomorrow.",
+      "challenge": "Make a different breakfast each day for 3 days.",
+      "quiz": [
+        {
+          "q": "Why eat breakfast?",
+          "options": [
+            "It gives energy to start the day",
+            "It is not needed",
+            "It makes you sleepy",
+            "It wastes time"
+          ],
+          "answer": 0,
+          "explain": "Breakfast fuels the morning."
+        },
+        {
+          "q": "What makes a filling breakfast?",
+          "options": [
+            "Only sugar",
+            "Protein and fibre, like eggs and oats",
+            "Only sweets",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Protein and fibre keep you full."
+        },
+        {
+          "q": "What is a quick healthy breakfast?",
+          "options": [
+            "A sugary drink",
+            "Crisps",
+            "Yoghurt with fruit",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Yoghurt and fruit is fast and healthy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Lunches you can carry",
+      "goal": "Learn lunches that travel well and stay healthy.",
+      "video": {
+        "youtube_id": "LgTZJ6HgNJ8",
+        "title": "Healthy Meal Planning Video",
+        "channel": "Healthy Grocery Girl"
+      },
+      "steps": [
+        "Try a rice and beans box with vegetables.",
+        "Try a sandwich with eggs and salad.",
+        "Try leftover dinner in a container.",
+        "Pack tomorrow's lunch tonight."
+      ],
+      "task": "Pack tomorrow's lunch tonight.",
+      "challenge": "Pack lunch for 3 days this week.",
+      "quiz": [
+        {
+          "q": "Why pack lunch?",
+          "options": [
+            "It wastes time",
+            "It saves money and keeps meals healthy",
+            "It is not needed",
+            "It makes food boring"
+          ],
+          "answer": 1,
+          "explain": "Packed lunch beats rushed fast food."
+        },
+        {
+          "q": "What makes a good packed lunch?",
+          "options": [
+            "Only sweets",
+            "Only crisps",
+            "Protein, carbs and vegetables",
+            "Only drinks"
+          ],
+          "answer": 2,
+          "explain": "A balanced box keeps you full."
+        },
+        {
+          "q": "When should you pack lunch?",
+          "options": [
+            "In the morning rush",
+            "Never",
+            "At lunchtime",
+            "The night before"
+          ],
+          "answer": 3,
+          "explain": "Packing at night makes mornings easy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Dinners in 15 minutes",
+      "goal": "Learn 3 dinners you can cook in 15 minutes.",
+      "video": {
+        "youtube_id": "BS_wcm4kjGw",
+        "title": "How to make a meal plan on a budget",
+        "channel": "The Whole Home"
+      },
+      "steps": [
+        "Try stir-fry vegetables with eggs.",
+        "Try beans with rice and salad.",
+        "Try grilled fish with yam and vegetables.",
+        "Cook one tonight and time it."
+      ],
+      "task": "Cook a 15-minute dinner tonight.",
+      "challenge": "Cook a different 15-minute dinner tomorrow.",
+      "quiz": [
+        {
+          "q": "Why learn quick dinners?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "So you cook at home even on busy days",
+            "It makes food boring"
+          ],
+          "answer": 2,
+          "explain": "Quick dinners stop fast-food nights."
+        },
+        {
+          "q": "What is a fast healthy dinner?",
+          "options": [
+            "Fried snacks",
+            "Sweets",
+            "Only rice",
+            "Stir-fry vegetables with eggs"
+          ],
+          "answer": 3,
+          "explain": "Stir-fry is fast and full of vegetables."
+        },
+        {
+          "q": "How long should a quick dinner take?",
+          "options": [
+            "About 15 minutes",
+            "2 hours",
+            "5 minutes",
+            "All evening"
+          ],
+          "answer": 0,
+          "explain": "Fifteen minutes is fast enough for busy days."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Snacks that help, not hurt",
+      "goal": "Learn snacks that fill you up between meals.",
+      "video": {
+        "youtube_id": "nhBEKfYbz0Y",
+        "title": "Meal Planning For Beginners (in 6 easy steps)",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Try fruit with nuts.",
+        "Try boiled eggs.",
+        "Try yoghurt.",
+        "Prepare 3 snacks for the week."
+      ],
+      "task": "Prepare 3 healthy snacks for the week.",
+      "challenge": "Swap one sugary snack for fruit.",
+      "quiz": [
+        {
+          "q": "What makes a good snack?",
+          "options": [
+            "Only sugar",
+            "Only salt",
+            "Nothing",
+            "Protein or fibre that keeps you full"
+          ],
+          "answer": 3,
+          "explain": "Protein and fibre snacks stop hunger."
+        },
+        {
+          "q": "Why prepare snacks in advance?",
+          "options": [
+            "So you grab something healthy",
+            "It wastes time",
+            "It is not needed",
+            "It makes food boring"
+          ],
+          "answer": 0,
+          "explain": "Ready snacks stop rushed bad choices."
+        },
+        {
+          "q": "What is a filling snack?",
+          "options": [
+            "A sweet drink",
+            "A boiled egg",
+            "Crisps",
+            "Candy"
+          ],
+          "answer": 1,
+          "explain": "Eggs keep you full for hours."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Use leftovers well",
+      "goal": "Learn to turn leftovers into new meals.",
+      "video": {
+        "youtube_id": "xT2318MSFxE",
+        "title": "Keep Your Diet Simple: A Doctor's Approach to Eating Healthy",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Turn leftover rice into fried rice with vegetables and eggs.",
+        "Turn leftover chicken into a sandwich.",
+        "Turn leftover stew into a soup with water and vegetables.",
+        "Write down one leftover idea for this week."
+      ],
+      "task": "Turn one leftover into a new meal.",
+      "challenge": "Use leftovers for lunch tomorrow.",
+      "quiz": [
+        {
+          "q": "Why use leftovers?",
+          "options": [
+            "They save time, money and food",
+            "They are bad",
+            "They waste food",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "Leftovers stop waste and save money."
+        },
+        {
+          "q": "How long can leftovers stay in the fridge?",
+          "options": [
+            "2 weeks",
+            "About 2 to 3 days",
+            "1 month",
+            "Forever"
+          ],
+          "answer": 1,
+          "explain": "Two to three days is safe for most cooked food."
+        },
+        {
+          "q": "What can you make from leftover rice?",
+          "options": [
+            "Nothing",
+            "Only soup",
+            "Fried rice with vegetables and eggs",
+            "Only salad"
+          ],
+          "answer": 2,
+          "explain": "Fried rice turns leftovers into a fresh meal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Plan for a busy week",
+      "goal": "Learn to plan meals when the week is very busy.",
+      "video": {
+        "youtube_id": "qiDBgomSeiU",
+        "title": "The Busy Woman's Plate: Masterclass Replay",
+        "channel": "LUVness"
+      },
+      "steps": [
+        "Pick 3 super-quick meals for busy days.",
+        "Keep frozen vegetables and eggs at home.",
+        "Cook a big pot on Sunday for the week.",
+        "Write your busy-week plan on one page."
+      ],
+      "task": "Write your busy-week plan.",
+      "challenge": "Cook a big pot on Sunday.",
+      "quiz": [
+        {
+          "q": "What should you keep at home for busy days?",
+          "options": [
+            "Only sweets",
+            "Frozen vegetables, eggs and rice",
+            "Nothing",
+            "Only drinks"
+          ],
+          "answer": 1,
+          "explain": "Simple staples make quick meals possible."
+        },
+        {
+          "q": "Why cook a big pot on Sunday?",
+          "options": [
+            "It wastes Sunday",
+            "It is not needed",
+            "So the week starts with food ready",
+            "It makes food boring"
+          ],
+          "answer": 2,
+          "explain": "Sunday cooking saves time all week."
+        },
+        {
+          "q": "What is a super-quick meal?",
+          "options": [
+            "A 2-hour roast",
+            "Fried snacks",
+            "Nothing",
+            "Eggs with vegetables and bread"
+          ],
+          "answer": 3,
+          "explain": "Eggs and vegetables cook in minutes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your full-week plan",
+      "goal": "Put week 2 together: plan a full week of meals.",
+      "video": {
+        "youtube_id": "v4i3i4DPhzQ",
+        "title": "Meal Plan with Me + Meal Planning Tips",
+        "channel": "Katie Wrede"
+      },
+      "steps": [
+        "Plan 7 days: breakfast, lunch and dinner.",
+        "Write one shopping list for the week.",
+        "Shop once and cook in bulk where you can.",
+        "Follow the plan for 3 days and note what worked."
+      ],
+      "task": "Write your 7-day meal plan.",
+      "challenge": "Follow the plan for 3 days.",
+      "quiz": [
+        {
+          "q": "What should a full-week plan have?",
+          "options": [
+            "Only dinner",
+            "Only snacks",
+            "Breakfast, lunch and dinner for 7 days",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "A full plan covers every meal."
+        },
+        {
+          "q": "Why shop once for the week?",
+          "options": [
+            "It wastes time",
+            "It costs more",
+            "It is not needed",
+            "It saves time and stops impulse buying"
+          ],
+          "answer": 3,
+          "explain": "One shop keeps you on plan."
+        },
+        {
+          "q": "What should you do after 3 days?",
+          "options": [
+            "Note what worked and fix what was hard",
+            "Quit",
+            "Change everything",
+            "Forget it"
+          ],
+          "answer": 0,
+          "explain": "Notes help you improve the plan."
+        }
+      ],
+      "project": {
+        "title": "Your full-week plan",
+        "brief": "Plan a full week of meals with one shopping list, cook in bulk where you can, and follow the plan for 3 days.",
+        "checks": [
+          "Plan has 7 days",
+          "Shopping list is written",
+          "Shopped once",
+          "Cooked in bulk",
+          "Followed the plan for 3 days",
+          "Noted what worked"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Eat well on a small budget",
+      "goal": "Learn to eat healthy without spending a lot.",
+      "video": {
+        "youtube_id": "AD5CxGiqnbM",
+        "title": "Quick and easy meal planning in under 15 minutes",
+        "channel": "CrossFit Oxygen"
+      },
+      "steps": [
+        "Buy beans, eggs, rice and seasonal vegetables: they are cheap and healthy.",
+        "Buy fruit that is in season: it costs less.",
+        "Cook at home instead of eating out.",
+        "Write down what you spent this week."
+      ],
+      "task": "Buy one cheap healthy food this week.",
+      "challenge": "Cook at home 5 times this week.",
+      "quiz": [
+        {
+          "q": "What is a cheap healthy food?",
+          "options": [
+            "Sweets",
+            "Fried snacks",
+            "Sugary drinks",
+            "Beans, eggs and seasonal vegetables"
+          ],
+          "answer": 3,
+          "explain": "Beans and eggs are cheap and full of nutrients."
+        },
+        {
+          "q": "Why buy fruit in season?",
+          "options": [
+            "It costs less and tastes better",
+            "It costs more",
+            "It tastes worse",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "In-season fruit is cheaper and fresher."
+        },
+        {
+          "q": "Why cook at home?",
+          "options": [
+            "It costs more",
+            "It costs less than eating out",
+            "It wastes time",
+            "It is not needed"
+          ],
+          "answer": 1,
+          "explain": "Home cooking saves money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Read labels in 30 seconds",
+      "goal": "Learn to read a food label fast.",
+      "video": {
+        "youtube_id": "Wrqwg84IFvs",
+        "title": "Lecture Series - 06 | How to Make a Perfect Diet Plan in Steps",
+        "channel": "Finesse Institute"
+      },
+      "steps": [
+        "Look at the serving size first.",
+        "Check sugar: less than 5 grams per 100 grams is low.",
+        "Check salt: less than 0.3 grams per 100 grams is low.",
+        "Compare two foods and pick the better one."
+      ],
+      "task": "Compare two foods in your kitchen.",
+      "challenge": "Pick the lower-sugar option next time you shop.",
+      "quiz": [
+        {
+          "q": "What should you check first?",
+          "options": [
+            "The serving size",
+            "The brand name",
+            "The colour",
+            "The price"
+          ],
+          "answer": 0,
+          "explain": "Serving size tells you what the numbers mean."
+        },
+        {
+          "q": "What is low sugar?",
+          "options": [
+            "50 grams",
+            "Less than 5 grams per 100 grams",
+            "Sugar does not matter",
+            "Any amount"
+          ],
+          "answer": 1,
+          "explain": "Under 5 grams per 100 grams is low."
+        },
+        {
+          "q": "Why compare two foods?",
+          "options": [
+            "To waste time",
+            "It is not needed",
+            "To pick the healthier one",
+            "To spend more"
+          ],
+          "answer": 2,
+          "explain": "Comparing helps you choose better."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Plan meals for your family",
+      "goal": "Learn to plan meals the whole family enjoys.",
+      "video": {
+        "youtube_id": "PWgcAvsg2GI",
+        "title": "How to Meal Prep a Week of Food in 1 HOUR!",
+        "channel": "Cambria Joy"
+      },
+      "steps": [
+        "Ask each person for one favourite healthy meal.",
+        "Plan a week with everyone's favourite in it.",
+        "Cook one family meal together.",
+        "Write down what everyone liked."
+      ],
+      "task": "Ask your family for their favourite healthy meals.",
+      "challenge": "Cook one family meal together this week.",
+      "quiz": [
+        {
+          "q": "Why ask the family?",
+          "options": [
+            "It wastes time",
+            "So everyone enjoys the meals",
+            "It is not needed",
+            "It makes planning harder"
+          ],
+          "answer": 1,
+          "explain": "Meals everyone likes get eaten, not wasted."
+        },
+        {
+          "q": "What should a family plan include?",
+          "options": [
+            "Only one person's food",
+            "Only snacks",
+            "One favourite per person",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Everyone's favourite keeps the family happy."
+        },
+        {
+          "q": "Why cook together?",
+          "options": [
+            "It is slower",
+            "It is not needed",
+            "It makes a mess",
+            "It teaches children and makes it fun"
+          ],
+          "answer": 3,
+          "explain": "Cooking together builds skills and joy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Handle eating out",
+      "goal": "Learn simple choices when you eat at a restaurant.",
+      "video": {
+        "youtube_id": "z6T4w6rlnoY",
+        "title": "How To Become A Meal Prepping Ninja",
+        "channel": "Shock Munch"
+      },
+      "steps": [
+        "Pick grilled food instead of fried.",
+        "Ask for sauce on the side.",
+        "Drink water instead of a sugary drink.",
+        "Share a large meal with a friend."
+      ],
+      "task": "Use one eat-out tip next time you eat out.",
+      "challenge": "Share a large meal with a friend.",
+      "quiz": [
+        {
+          "q": "What is a better choice at a restaurant?",
+          "options": [
+            "Fried food",
+            "Extra sauce",
+            "Grilled food instead of fried",
+            "A sugary drink"
+          ],
+          "answer": 2,
+          "explain": "Grilled food has less fat."
+        },
+        {
+          "q": "Why ask for sauce on the side?",
+          "options": [
+            "It is rude",
+            "It does not matter",
+            "Sauce is healthy",
+            "So you control how much you use"
+          ],
+          "answer": 3,
+          "explain": "Sauce on the side lets you use a little."
+        },
+        {
+          "q": "Why share a large meal?",
+          "options": [
+            "It stops overeating and saves money",
+            "It is rude",
+            "It wastes food",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "Sharing keeps portions sensible."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Store food safely",
+      "goal": "Learn how to store food so it stays safe.",
+      "video": {
+        "youtube_id": "LgTZJ6HgNJ8",
+        "title": "Healthy Meal Planning Video",
+        "channel": "Healthy Grocery Girl"
+      },
+      "steps": [
+        "Cool cooked food quickly, then put it in the fridge.",
+        "Keep raw meat away from cooked food.",
+        "Use leftovers within 2 to 3 days.",
+        "Wash your hands before cooking."
+      ],
+      "task": "Check your fridge and throw out old food.",
+      "challenge": "Store tonight's leftovers in a clean container.",
+      "quiz": [
+        {
+          "q": "How should you store cooked food?",
+          "options": [
+            "Leave it out all day",
+            "Put it in the sun",
+            "Leave it on the table",
+            "Cool it quickly, then fridge it"
+          ],
+          "answer": 3,
+          "explain": "Quick cooling and fridging keeps food safe."
+        },
+        {
+          "q": "Why keep raw meat away from cooked food?",
+          "options": [
+            "Raw meat can spread germs",
+            "It does not matter",
+            "It tastes better mixed",
+            "It saves space"
+          ],
+          "answer": 0,
+          "explain": "Separating raw and cooked food stops germs."
+        },
+        {
+          "q": "How long do leftovers last in the fridge?",
+          "options": [
+            "2 weeks",
+            "About 2 to 3 days",
+            "1 month",
+            "Forever"
+          ],
+          "answer": 1,
+          "explain": "Two to three days is safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Plan for parties and holidays",
+      "goal": "Learn to enjoy events without losing your plan.",
+      "video": {
+        "youtube_id": "BS_wcm4kjGw",
+        "title": "How to make a meal plan on a budget",
+        "channel": "The Whole Home"
+      },
+      "steps": [
+        "Eat a healthy snack before the party.",
+        "Fill half your plate with vegetables first.",
+        "Drink water between other drinks.",
+        "Enjoy one treat, then stop."
+      ],
+      "task": "Use the party plan at your next event.",
+      "challenge": "Eat a healthy snack before your next outing.",
+      "quiz": [
+        {
+          "q": "Why eat before a party?",
+          "options": [
+            "So you are not starving when you arrive",
+            "It is rude",
+            "It does not matter",
+            "It makes you eat more"
+          ],
+          "answer": 0,
+          "explain": "A snack before stops overeating."
+        },
+        {
+          "q": "What should you fill your plate with first?",
+          "options": [
+            "Sweets",
+            "Vegetables",
+            "Fried food",
+            "Only meat"
+          ],
+          "answer": 1,
+          "explain": "Vegetables first fill you up."
+        },
+        {
+          "q": "How many treats should you enjoy?",
+          "options": [
+            "As many as possible",
+            "None at all",
+            "One, then stop",
+            "All of them"
+          ],
+          "answer": 2,
+          "explain": "One treat lets you enjoy without overdoing it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your monthly meal system",
+      "goal": "Put week 3 together: build a meal system you can repeat every month.",
+      "video": {
+        "youtube_id": "nhBEKfYbz0Y",
+        "title": "Meal Planning For Beginners (in 6 easy steps)",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Write 7 dinners you can cook well.",
+        "Write 7 breakfasts and 7 lunches.",
+        "Make a master shopping list for the week.",
+        "Use the system for one full week."
+      ],
+      "task": "Write your 7-dinner list.",
+      "challenge": "Use your system for one full week.",
+      "quiz": [
+        {
+          "q": "What is a meal system?",
+          "options": [
+            "One meal only",
+            "A set of meals you can repeat every week",
+            "A diet",
+            "A recipe book"
+          ],
+          "answer": 1,
+          "explain": "A system makes planning fast each week."
+        },
+        {
+          "q": "How many dinners should your system have?",
+          "options": [
+            "1",
+            "100",
+            "About 7",
+            "None"
+          ],
+          "answer": 2,
+          "explain": "Seven dinners cover a week."
+        },
+        {
+          "q": "Why write a master shopping list?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To spend more",
+            "So shopping is fast every week"
+          ],
+          "answer": 3,
+          "explain": "A master list makes shopping quick."
+        }
+      ],
+      "project": {
+        "title": "Your monthly meal system",
+        "brief": "Build a meal system you can repeat every month: 7 dinners, 7 breakfasts, 7 lunches, and a master shopping list.",
+        "checks": [
+          "System has 7 dinners",
+          "System has 7 breakfasts",
+          "System has 7 lunches",
+          "Master shopping list is written",
+          "Used the system for a week",
+          "Wrote what to improve"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Teach someone to meal plan",
+      "goal": "Teach a friend or family member to plan meals.",
+      "video": {
+        "youtube_id": "xT2318MSFxE",
+        "title": "Keep Your Diet Simple: A Doctor's Approach to Eating Healthy",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Show them the plate rule.",
+        "Help them plan 3 dinners.",
+        "Help them write a shopping list.",
+        "Cook one meal together."
+      ],
+      "task": "Teach the plate rule to one person.",
+      "challenge": "Help a friend plan 3 dinners.",
+      "quiz": [
+        {
+          "q": "What is the first thing to teach?",
+          "options": [
+            "Counting calories",
+            "Fancy recipes",
+            "The plate rule",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "The plate rule is the simplest start."
+        },
+        {
+          "q": "Why teach someone else?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "It makes you tired",
+            "Teaching helps you learn it better"
+          ],
+          "answer": 3,
+          "explain": "Teaching locks in your own learning."
+        },
+        {
+          "q": "What should you cook together?",
+          "options": [
+            "One simple healthy meal",
+            "A 5-course feast",
+            "Nothing",
+            "Only sweets"
+          ],
+          "answer": 0,
+          "explain": "One simple meal is a good first cook."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Review your month",
+      "goal": "Look back at your month of meal planning.",
+      "video": {
+        "youtube_id": "qiDBgomSeiU",
+        "title": "The Busy Woman's Plate: Masterclass Replay",
+        "channel": "LUVness"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 3.",
+        "List 3 things that got easier.",
+        "List 1 thing that is still hard.",
+        "Write one fix for the hard thing."
+      ],
+      "task": "List 3 things that got easier.",
+      "challenge": "Fix one hard thing in your plan.",
+      "quiz": [
+        {
+          "q": "Why review your month?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "To see what got easier and what needs fixing"
+          ],
+          "answer": 3,
+          "explain": "Reviewing shows real progress."
+        },
+        {
+          "q": "What should you do with a hard thing?",
+          "options": [
+            "Fix it with one small change",
+            "Quit",
+            "Ignore it",
+            "Change everything"
+          ],
+          "answer": 0,
+          "explain": "One small fix keeps the plan going."
+        },
+        {
+          "q": "What is a sign meal planning is working?",
+          "options": [
+            "You spend more",
+            "Meals feel easier and you waste less food",
+            "You eat out more",
+            "You feel stressed"
+          ],
+          "answer": 1,
+          "explain": "Easier meals and less waste mean it works."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Cook a feast for friends",
+      "goal": "Cook a full healthy meal for friends or family.",
+      "video": {
+        "youtube_id": "v4i3i4DPhzQ",
+        "title": "Meal Plan with Me + Meal Planning Tips",
+        "channel": "Katie Wrede"
+      },
+      "steps": [
+        "Pick a protein, a carb and two vegetables.",
+        "Cook using the plate rule.",
+        "Set the table nicely and eat together.",
+        "Ask everyone what they liked best."
+      ],
+      "task": "Cook a healthy feast today.",
+      "challenge": "Ask your guests what they liked best.",
+      "quiz": [
+        {
+          "q": "What should a feast have?",
+          "options": [
+            "Protein, carbs and vegetables",
+            "Only meat",
+            "Only rice",
+            "Only sweets"
+          ],
+          "answer": 0,
+          "explain": "A feast with all food groups is balanced."
+        },
+        {
+          "q": "Why eat together?",
+          "options": [
+            "It wastes time",
+            "It makes meals joyful",
+            "It is not needed",
+            "It costs more"
+          ],
+          "answer": 1,
+          "explain": "Eating together builds joy and connection."
+        },
+        {
+          "q": "Why ask guests what they liked?",
+          "options": [
+            "To show off",
+            "It is rude",
+            "So you know what to cook again",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Feedback helps you cook better next time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Keep it going: your routine",
+      "goal": "Make meal planning a weekly habit for life.",
+      "video": {
+        "youtube_id": "AD5CxGiqnbM",
+        "title": "Quick and easy meal planning in under 15 minutes",
+        "channel": "CrossFit Oxygen"
+      },
+      "steps": [
+        "Pick one day a week to plan.",
+        "Pick one day a week to shop.",
+        "Pick one day a week to cook in bulk.",
+        "Write your weekly routine on one page."
+      ],
+      "task": "Write your weekly planning routine.",
+      "challenge": "Follow it for one full week.",
+      "quiz": [
+        {
+          "q": "How often should you plan meals?",
+          "options": [
+            "Every hour",
+            "Once a week",
+            "Once a year",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Once a week is enough."
+        },
+        {
+          "q": "What 3 days should your routine have?",
+          "options": [
+            "Only a shop day",
+            "Only a plan day",
+            "A plan day, a shop day and a cook day",
+            "No days"
+          ],
+          "answer": 2,
+          "explain": "Plan, shop and cook days make the week easy."
+        },
+        {
+          "q": "Why write your routine down?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "So you can follow it every week"
+          ],
+          "answer": 3,
+          "explain": "A written routine is easy to repeat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Plan meals for one person",
+      "goal": "Learn to plan meals when you cook for yourself only.",
+      "video": {
+        "youtube_id": "Wrqwg84IFvs",
+        "title": "Lecture Series - 06 | How to Make a Perfect Diet Plan in Steps",
+        "channel": "Finesse Institute"
+      },
+      "steps": [
+        "Pick 3 dinners for the week.",
+        "Cook double and save half for lunch.",
+        "Buy small packs of fresh food.",
+        "Freeze what you will not use in 2 days.",
+        "Keep a list of your favourite quick meals.",
+        "Shop twice a week for fresh food."
+      ],
+      "task": "Plan 3 dinners for yourself this week.",
+      "challenge": "Cook one meal and save half for tomorrow's lunch.",
+      "quiz": [
+        {
+          "q": "Why cook double?",
+          "options": [
+            "It wastes food",
+            "It is not needed",
+            "So lunch is ready tomorrow",
+            "It makes cooking slower"
+          ],
+          "answer": 2,
+          "explain": "Cooking double saves time the next day."
+        },
+        {
+          "q": "What should you freeze?",
+          "options": [
+            "Food you will eat today",
+            "Nothing",
+            "Everything",
+            "Food you will not use in 2 days"
+          ],
+          "answer": 3,
+          "explain": "Freezing stops good food going bad."
+        },
+        {
+          "q": "Why shop twice a week?",
+          "options": [
+            "So fresh food stays fresh",
+            "It wastes time",
+            "It is not needed",
+            "It costs more"
+          ],
+          "answer": 0,
+          "explain": "Fresh food lasts only a few days."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Meal planning with friends",
+      "goal": "Learn to plan a shared meal with friends.",
+      "video": {
+        "youtube_id": "PWgcAvsg2GI",
+        "title": "How to Meal Prep a Week of Food in 1 HOUR!",
+        "channel": "Cambria Joy"
+      },
+      "steps": [
+        "Ask friends what they like and what they cannot eat.",
+        "Pick a simple menu: one main, one side, one drink.",
+        "Share the shopping list.",
+        "Cook together and share the cost.",
+        "Write down what worked.",
+        "Plan the next shared meal."
+      ],
+      "task": "Plan a simple shared meal for 3 friends.",
+      "challenge": "Cook the shared meal this week.",
+      "quiz": [
+        {
+          "q": "What should you ask friends first?",
+          "options": [
+            "Nothing",
+            "Only their favourite colour",
+            "Only their age",
+            "What they like and cannot eat"
+          ],
+          "answer": 3,
+          "explain": "Knowing likes and allergies keeps everyone safe."
+        },
+        {
+          "q": "What is a simple shared menu?",
+          "options": [
+            "One main, one side, one drink",
+            "Ten dishes",
+            "Only drinks",
+            "Only snacks"
+          ],
+          "answer": 0,
+          "explain": "A simple menu is easy to cook and share."
+        },
+        {
+          "q": "Why share the cost?",
+          "options": [
+            "It is a rule",
+            "So no one person pays for everything",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Sharing the cost is fair for everyone."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final project.",
+      "video": {
+        "youtube_id": "z6T4w6rlnoY",
+        "title": "How To Become A Meal Prepping Ninja",
+        "channel": "Shock Munch"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 things you learned about meal planning.",
+        "Practise your capstone plan once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 things you learned in this course.",
+      "challenge": "Write one capstone meal plan from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final project that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new kitchen"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own a cookbook",
+            "You can plan a full week and cook the meals",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "Planning and cooking a week shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "LgTZJ6HgNJ8",
+        "title": "Healthy Meal Planning Video",
+        "channel": "Healthy Grocery Girl"
+      },
+      "steps": [
+        "Write your capstone meal plan one more time.",
+        "Cook one capstone meal and time it.",
+        "Fix anything that felt hard.",
+        "Rest well tonight."
+      ],
+      "task": "Write your capstone plan and cook one meal.",
+      "challenge": "Fix one hard part of your plan.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your plate",
+            "Your timing, your portions and your list",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking timing and portions makes it smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Cook all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you do your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: your monthly meal system",
+      "goal": "Show what you learned: present your meal system and cook a feast.",
+      "video": {
+        "youtube_id": "BS_wcm4kjGw",
+        "title": "How to make a meal plan on a budget",
+        "channel": "The Whole Home"
+      },
+      "steps": [
+        "Show your 7-day meal plan and shopping list.",
+        "Cook one full healthy meal.",
+        "Explain your system in simple words.",
+        "Write a short report on your month."
+      ],
+      "task": "Present your system, cook your meal and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What should your system show?",
+          "options": [
+            "Only one meal",
+            "Only snacks",
+            "7 days of balanced meals and a shopping list",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "A full system shows real skill."
+        },
+        {
+          "q": "What should your meal include?",
+          "options": [
+            "Only meat",
+            "Only rice",
+            "Only sweets",
+            "Protein, carbs and vegetables"
+          ],
+          "answer": 3,
+          "explain": "A balanced meal has all food groups."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and what you learned",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your monthly meal system",
+    "brief": "Present a 7-day meal plan with a shopping list, cook one full healthy meal, explain your system in simple words, and write a short report.",
+    "checks": [
+      "Plan has 7 balanced days",
+      "Shopping list is written",
+      "Cooked one full meal",
+      "Explained the system simply",
+      "Used the plate rule",
+      "Wrote a short report",
+      "Listed one habit to keep"
+    ],
+    "deliverables": [
+      "A 7-day meal plan",
+      "A master shopping list",
+      "A 3-day meal plan from week 1",
+      "A short video or photos of your meal",
+      "A written report"
+    ]
+  }
+}

@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "game-development-unity",
+    "title": "Game Development with Unity",
+    "level": "Beginner to intermediate",
+    "tagline": "Build and publish your first 2D game with Unity and C#, from idea to playable build.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Game Development Is and Installing Unity",
+      "goal": "Understand what game development is and install Unity on your computer.",
+      "video": {
+        "youtube_id": "XtQMytORBmM",
+        "title": "The Unity Tutorial For Complete Beginners",
+        "channel": "Game Maker's Toolkit"
+      },
+      "steps": [
+        "Go to unity.com, download Unity Hub and install it.",
+        "In Unity Hub, install the latest LTS version of the Unity Editor.",
+        "Add the Android and WebGL build modules if you have space.",
+        "Open Unity Hub and check the Editor is listed and ready."
+      ],
+      "task": "Install Unity Hub and the Unity Editor, then open Unity Hub.",
+      "challenge": "Write down the Unity version you installed.",
+      "quiz": [
+        {
+          "q": "What is Unity?",
+          "options": [
+            "A kind of game",
+            "A game engine: software for building 2D and 3D games",
+            "A programming language",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "Unity is a game engine. It gives you the tools to build, test and publish games."
+        },
+        {
+          "q": "What is Unity Hub?",
+          "options": [
+            "A game",
+            "The app that installs and manages Unity Editors and your projects",
+            "A kind of code",
+            "A store"
+          ],
+          "answer": 1,
+          "explain": "Unity Hub installs Unity versions and keeps your projects in one place."
+        },
+        {
+          "q": "What is an LTS version?",
+          "options": [
+            "The newest features",
+            "A long-term support version: stable and supported for two years",
+            "A beta version",
+            "A free version"
+          ],
+          "answer": 1,
+          "explain": "LTS means long-term support. It is the stable version, best for learning and for real projects."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your First Unity Project",
+      "goal": "Create a project and learn your way around the Unity Editor.",
+      "video": {
+        "youtube_id": "vq4UXKa2XvQ",
+        "title": "Unity for Beginners: Build Your First Game From Zero",
+        "channel": "Development with ABS"
+      },
+      "steps": [
+        "Create a new 2D project in Unity Hub and name it MyFirstGame.",
+        "Open the project and find the five main windows: Scene, Game, Hierarchy, Project and Inspector.",
+        "Click around each window and see what it shows.",
+        "Save the scene with Ctrl+S or Cmd+S."
+      ],
+      "task": "Create your first 2D project and save the scene.",
+      "challenge": "Write down what each of the five main windows does.",
+      "quiz": [
+        {
+          "q": "What is the Scene window?",
+          "options": [
+            "The game as players see it",
+            "The editor view where you build and arrange your game world",
+            "A file list",
+            "A settings page"
+          ],
+          "answer": 1,
+          "explain": "The Scene window is your workshop. You place and move objects there to build your game."
+        },
+        {
+          "q": "What is the Game window?",
+          "options": [
+            "The editor view",
+            "A preview of what players will see when the game runs",
+            "A file list",
+            "A settings page"
+          ],
+          "answer": 1,
+          "explain": "The Game window shows the game as players see it. Press Play to see it run."
+        },
+        {
+          "q": "What is the Hierarchy?",
+          "options": [
+            "A file list",
+            "A list of every object currently in your scene",
+            "A settings page",
+            "A kind of code"
+          ],
+          "answer": 1,
+          "explain": "The Hierarchy lists all the objects in your scene, in a tree you can expand and collapse."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "GameObjects, Components and the Inspector",
+      "goal": "Understand GameObjects and add components to them.",
+      "video": {
+        "youtube_id": "hKXsL7XNa9M",
+        "title": "How to Make a Game! Download and Create New Project",
+        "channel": "Code Monkey"
+      },
+      "steps": [
+        "Create an empty GameObject in the Hierarchy.",
+        "Add a Sprite Renderer component to it.",
+        "Give it a simple sprite, like a square, and see it appear in the Scene.",
+        "Change its position, rotation and scale in the Inspector."
+      ],
+      "task": "Make a scene with three objects: a square, a circle and a triangle, each a different colour.",
+      "challenge": "Move, rotate and scale each one with the Inspector.",
+      "quiz": [
+        {
+          "q": "What is a GameObject?",
+          "options": [
+            "A kind of code",
+            "Anything in your scene: a character, a platform, a light, a camera",
+            "A file",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "A GameObject is any object in your scene. Everything in a Unity game is a GameObject."
+        },
+        {
+          "q": "What is a component?",
+          "options": [
+            "A kind of file",
+            "A piece of behaviour or data attached to a GameObject, like a Sprite Renderer or a Rigidbody",
+            "A scene",
+            "A project"
+          ],
+          "answer": 1,
+          "explain": "Components give GameObjects abilities. A Sprite Renderer draws it, a Rigidbody gives it physics."
+        },
+        {
+          "q": "What does the Inspector do?",
+          "options": [
+            "It runs the game",
+            "It shows the selected object's components so you can change them",
+            "It lists files",
+            "It builds the game"
+          ],
+          "answer": 1,
+          "explain": "The Inspector shows everything about the object you selected, and lets you change its values."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "C# Basics for Unity",
+      "goal": "Learn the C# you need for Unity: variables, methods and classes.",
+      "video": {
+        "youtube_id": "k6kbUuMuhxw",
+        "title": "Complete C# Programming",
+        "channel": "Kodeco"
+      },
+      "steps": [
+        "Learn what a variable is and make one for health and one for speed.",
+        "Write a method called TakeDamage that reduces health by a number.",
+        "Learn the difference between int, float and string.",
+        "Write a simple class for a player with health and a name."
+      ],
+      "task": "Write a C# script with variables for a player's name, health and speed.",
+      "challenge": "Write a method that heals the player by 10 points.",
+      "quiz": [
+        {
+          "q": "What is C#?",
+          "options": [
+            "A game engine",
+            "The programming language Unity uses for game code",
+            "A kind of file",
+            "A 3D model"
+          ],
+          "answer": 1,
+          "explain": "C# is the language you write Unity game code in. Scripts are C# files attached to GameObjects."
+        },
+        {
+          "q": "What is a variable?",
+          "options": [
+            "A kind of loop",
+            "A named box that stores a value you can use and change",
+            "A type of error",
+            "A print command"
+          ],
+          "answer": 1,
+          "explain": "A variable is a name that stores a value, like health = 100, which your code can read and change."
+        },
+        {
+          "q": "What is a method?",
+          "options": [
+            "A variable",
+            "A block of code that does one job and can be called by name",
+            "A kind of loop",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A method is a named piece of code that does one job, like TakeDamage() or Jump()."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Your First Script: Moving a Character",
+      "goal": "Write a script that moves a character with the keyboard.",
+      "video": {
+        "youtube_id": "ZgXsvlgessA",
+        "title": "How to Make Wall Slide in a 2D Game in Unity for Beginners",
+        "channel": "Bat Code"
+      },
+      "steps": [
+        "Create a C# script called PlayerMovement and attach it to your square.",
+        "In Update(), read Input.GetAxis('Horizontal') to get left and right input.",
+        "Move the character by changing its position each frame.",
+        "Press Play and move your character with the arrow keys or A and D."
+      ],
+      "task": "Make a character that moves left and right with the arrow keys.",
+      "challenge": "Make the character move faster by changing the speed value.",
+      "quiz": [
+        {
+          "q": "What is Update()?",
+          "options": [
+            "A kind of variable",
+            "A method Unity calls once every frame",
+            "A file",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "Update() runs every frame. Code in it, like movement, happens continuously while the game runs."
+        },
+        {
+          "q": "What does Input.GetAxis('Horizontal') return?",
+          "options": [
+            "A key name",
+            "A number from -1 to 1 based on left and right keys",
+            "A boolean",
+            "A string"
+          ],
+          "answer": 1,
+          "explain": "GetAxis returns -1 for left, 1 for right, and 0 when no key is pressed. It is smooth, not just on or off."
+        },
+        {
+          "q": "Why multiply movement by Time.deltaTime?",
+          "options": [
+            "It is faster",
+            "So movement is the same speed on fast and slow computers",
+            "It saves memory",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "deltaTime is the time since the last frame. Multiplying by it makes movement frame-rate independent."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Physics: Gravity and Collisions",
+      "goal": "Add physics so your character falls, lands and bumps into things.",
+      "video": {
+        "youtube_id": "on9nwbZngyw",
+        "title": "How to make a 2D Game in Unity",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Add a Rigidbody2D to your character so gravity pulls it down.",
+        "Add a BoxCollider2D to your character and to the ground.",
+        "Press Play and watch the character fall and land on the ground.",
+        "Change the gravity scale and see the fall get faster or slower."
+      ],
+      "task": "Make a character that falls onto a platform and stays there.",
+      "challenge": "Add a second platform and a wall, and check the character collides with both.",
+      "quiz": [
+        {
+          "q": "What is a Rigidbody2D?",
+          "options": [
+            "A kind of sprite",
+            "A component that gives an object physics: gravity, velocity and forces",
+            "A kind of collider",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A Rigidbody2D makes an object obey physics. Gravity pulls it, forces push it, and it collides with other objects."
+        },
+        {
+          "q": "What is a collider?",
+          "options": [
+            "A kind of sprite",
+            "An invisible shape that defines where an object can be touched or hit",
+            "A kind of code",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A collider is the object's physical shape. Unity uses it to detect touches and bumps."
+        },
+        {
+          "q": "What happens without a collider?",
+          "options": [
+            "The object disappears",
+            "Other objects pass straight through it",
+            "The object falls forever",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Without a collider, an object has no physical presence. Other objects pass through it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Simple Platformer Level",
+      "goal": "Build a small platformer level with a character that runs and jumps.",
+      "video": {
+        "youtube_id": "2jTY11Am0Ig",
+        "title": "2D Camera in Unity (Cinemachine Tutorial)",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Build a level with a ground and at least five platforms.",
+        "Add a character with movement, jumping and gravity.",
+        "Add a goal flag at the end of the level.",
+        "Play the level from start to finish and fix anything that feels wrong."
+      ],
+      "task": "Finish the platformer level and play it through to the goal.",
+      "challenge": "Add a pit that the player must jump over.",
+      "quiz": [
+        {
+          "q": "What makes a good first level?",
+          "options": [
+            "Many enemies",
+            "A clear path, easy jumps first, and one goal at the end",
+            "A huge map",
+            "Many colours"
+          ],
+          "answer": 1,
+          "explain": "A good first level teaches the player: easy jumps, a clear route, and a goal that is easy to see."
+        },
+        {
+          "q": "Why test your level by playing it?",
+          "options": [
+            "To show off",
+            "Because you only find bad jumps and unfair spots by playing",
+            "To waste time",
+            "To get likes"
+          ],
+          "answer": 1,
+          "explain": "Playing reveals problems you cannot see in the editor: jumps that are too far, platforms that are too small."
+        },
+        {
+          "q": "What is a jump in code?",
+          "options": [
+            "A kind of animation",
+            "Giving the character an upward velocity when the jump button is pressed and it is on the ground",
+            "A kind of collider",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A jump sets the character's upward speed for a moment. Gravity then brings it back down."
+        }
+      ],
+      "project": {
+        "title": "Simple Platformer Level",
+        "brief": "Build a small platformer level in Unity: a ground and at least five platforms, a character that runs and jumps with gravity, and a goal flag at the end. Play the level from start to finish.",
+        "checks": [
+          "The level has a ground and at least five platforms.",
+          "The character moves left and right with the keyboard.",
+          "The character can jump and lands on platforms.",
+          "A goal flag marks the end of the level.",
+          "The level can be played from start to finish.",
+          "The game runs without errors."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Jumping and Ground Detection",
+      "goal": "Make jumping feel good with proper ground checks.",
+      "video": {
+        "youtube_id": "9ZEu_I-ido4",
+        "title": "How to Make a Video Game in Unity – Programming (E02)",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Add a ground check: a small circle under the character that tests if it touches the ground.",
+        "Only allow jumping when the character is grounded.",
+        "Add coyote time: let the player jump for a short moment after leaving a ledge.",
+        "Tune the jump force until it feels right."
+      ],
+      "task": "Make your jump feel good: test it ten times and adjust the force.",
+      "challenge": "Add a double jump and test it.",
+      "quiz": [
+        {
+          "q": "Why check if the character is grounded?",
+          "options": [
+            "It is faster",
+            "So the player cannot jump in mid-air forever",
+            "It saves memory",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Without a ground check, the player can jump again and again in the air, which breaks the game."
+        },
+        {
+          "q": "What is coyote time?",
+          "options": [
+            "A kind of timer",
+            "A short grace period after leaving a ledge when jumping still works",
+            "A kind of jump",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "Coyote time forgives a late jump by a fraction of a second, which makes the game feel fair and responsive."
+        },
+        {
+          "q": "Why tune the jump force?",
+          "options": [
+            "It is fun",
+            "Because the right force makes jumps feel good: not too floaty, not too heavy",
+            "It saves memory",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Jump feel is the heart of a platformer. Small changes in force change how the whole game feels."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Collectables and Score",
+      "goal": "Add coins to collect and a score that goes up.",
+      "video": {
+        "youtube_id": "pReR6Z9rK-o",
+        "title": "Learn C# Beginner FREE Tutorial Course!",
+        "channel": "Code Monkey"
+      },
+      "steps": [
+        "Make a coin GameObject with a sprite and a trigger collider.",
+        "Write a script that adds 1 to the score when the player touches a coin.",
+        "Destroy the coin when it is collected.",
+        "Show the score on the screen with a UI Text element."
+      ],
+      "task": "Add ten coins to your level and a score display.",
+      "challenge": "Add a sound or a sparkle effect when a coin is collected.",
+      "quiz": [
+        {
+          "q": "What is a trigger collider?",
+          "options": [
+            "A kind of sprite",
+            "A collider that detects when something enters it, without blocking movement",
+            "A kind of code",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A trigger collider does not block. It calls a function when something enters it, which is perfect for pickups."
+        },
+        {
+          "q": "What is OnTriggerEnter2D?",
+          "options": [
+            "A kind of variable",
+            "A method Unity calls when another collider enters this trigger",
+            "A file",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "OnTriggerEnter2D runs when something enters the trigger. You put your pickup code there."
+        },
+        {
+          "q": "How do you show the score on screen?",
+          "options": [
+            "With a print statement",
+            "With a UI Text element that your script updates",
+            "With a sprite",
+            "With a log"
+          ],
+          "answer": 1,
+          "explain": "A UI Text element shows the score. Your script changes its text whenever the score changes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Enemies and Hazards",
+      "goal": "Add enemies that move and hazards that hurt the player.",
+      "video": {
+        "youtube_id": "_pHfTS06Gj0",
+        "title": "COMPLETE COURSE - 2D Game Development in Unity (FREE)",
+        "channel": "Zenva"
+      },
+      "steps": [
+        "Make an enemy that walks back and forth between two points.",
+        "Make the player lose health when it touches an enemy.",
+        "Add spikes that damage the player on touch.",
+        "Add a short invincibility time after taking damage so the player is not hit twice at once."
+      ],
+      "task": "Add two enemies and a spike trap to your level.",
+      "challenge": "Make the enemy turn around at the edge of its platform.",
+      "quiz": [
+        {
+          "q": "How does an enemy patrol?",
+          "options": [
+            "It stands still",
+            "It moves in one direction until it hits a wall or an edge, then turns around",
+            "It follows the player always",
+            "It teleports"
+          ],
+          "answer": 1,
+          "explain": "A patrolling enemy walks one way, then turns when it reaches a wall or an edge, and walks back."
+        },
+        {
+          "q": "Why add invincibility time after damage?",
+          "options": [
+            "It is fun",
+            "So one touch does not take all the player's health in a single second",
+            "It saves memory",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Without a short grace period, one touch can trigger many hits in a row and kill the player instantly."
+        },
+        {
+          "q": "What is a hazard?",
+          "options": [
+            "A kind of enemy",
+            "Something in the level that hurts the player, like spikes or lava",
+            "A kind of coin",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "Hazards are level dangers. They damage the player on touch and make the level challenging."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Health, Damage and Death",
+      "goal": "Handle player health, death and respawning.",
+      "video": {
+        "youtube_id": "XtQMytORBmM",
+        "title": "The Unity Tutorial For Complete Beginners",
+        "channel": "Game Maker's Toolkit"
+      },
+      "steps": [
+        "Add a health value to the player and a health bar on the screen.",
+        "Reduce health when the player is hurt and update the bar.",
+        "When health reaches zero, show a 'Game Over' screen.",
+        "Add a restart button that reloads the level."
+      ],
+      "task": "Add a health bar and a game over screen to your level.",
+      "challenge": "Make the player respawn at the start after falling into a pit.",
+      "quiz": [
+        {
+          "q": "What is a health bar?",
+          "options": [
+            "A kind of enemy",
+            "A UI element that shows how much health the player has left",
+            "A kind of coin",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A health bar is a UI element, often a filled bar, that shows the player's remaining health at a glance."
+        },
+        {
+          "q": "What is respawning?",
+          "options": [
+            "Deleting the player",
+            "Bringing the player back at a safe point after dying",
+            "Restarting the game",
+            "Quitting"
+          ],
+          "answer": 1,
+          "explain": "Respawning puts the player back at a checkpoint or the start, so they can try again without restarting everything."
+        },
+        {
+          "q": "Why show a game over screen?",
+          "options": [
+            "To punish the player",
+            "So the player knows the run ended and can choose to try again",
+            "To hide the level",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A game over screen explains what happened and offers a clear next step: try again."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Camera: Following the Player",
+      "goal": "Make the camera follow the player smoothly.",
+      "video": {
+        "youtube_id": "vq4UXKa2XvQ",
+        "title": "Unity for Beginners: Build Your First Game From Zero",
+        "channel": "Development with ABS"
+      },
+      "steps": [
+        "Write a script that moves the camera to the player's position each frame.",
+        "Add smoothing so the camera glides instead of snapping.",
+        "Clamp the camera so it does not show outside the level.",
+        "Test it by running through the level."
+      ],
+      "task": "Add a smooth following camera to your level.",
+      "challenge": "Make the camera look slightly ahead in the direction the player moves.",
+      "quiz": [
+        {
+          "q": "Why does the camera need to follow the player?",
+          "options": [
+            "It looks nice",
+            "Because the level is bigger than the screen, and the player must always be visible",
+            "It is faster",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "The camera shows only part of the level. It must follow the player so the action stays on screen."
+        },
+        {
+          "q": "What is camera smoothing?",
+          "options": [
+            "A kind of filter",
+            "Moving the camera gradually toward the player instead of snapping to them",
+            "A kind of zoom",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "Smoothing moves the camera a little each frame toward its target, which feels gentle instead of jerky."
+        },
+        {
+          "q": "Why clamp the camera?",
+          "options": [
+            "It is faster",
+            "So it never shows the empty space outside the level",
+            "It saves memory",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Clamping limits the camera's position so it stays inside the level and never shows the void beyond it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Cinemachine: Better Cameras",
+      "goal": "Use Cinemachine for professional camera work.",
+      "video": {
+        "youtube_id": "hKXsL7XNa9M",
+        "title": "How to Make a Game! Download and Create New Project",
+        "channel": "Code Monkey"
+      },
+      "steps": [
+        "Install the Cinemachine package from the Package Manager.",
+        "Add a Cinemachine Virtual Camera to your scene.",
+        "Set the player as the Follow target.",
+        "Adjust the dead zone so the camera only moves when the player leaves the centre."
+      ],
+      "task": "Replace your camera script with a Cinemachine virtual camera.",
+      "challenge": "Add a second virtual camera for a boss area and switch to it.",
+      "quiz": [
+        {
+          "q": "What is Cinemachine?",
+          "options": [
+            "A kind of game",
+            "Unity's camera system that handles following, framing and transitions for you",
+            "A video editor",
+            "A kind of code"
+          ],
+          "answer": 1,
+          "explain": "Cinemachine is Unity's camera tool. You set a target and rules, and it moves the camera smoothly for you."
+        },
+        {
+          "q": "What is a virtual camera?",
+          "options": [
+            "A real camera",
+            "A Cinemachine camera that controls the real camera's position and settings",
+            "A kind of sprite",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A virtual camera is a set of camera instructions. The real camera follows whichever virtual camera is active."
+        },
+        {
+          "q": "What is a dead zone?",
+          "options": [
+            "A kind of bug",
+            "An area in the centre where the player can move without the camera following",
+            "A kind of enemy",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "A dead zone is the middle of the screen where the player moves freely. The camera only moves when they leave it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Complete 2D Platformer",
+      "goal": "Build a complete 2D platformer with levels, enemies, coins and menus.",
+      "video": {
+        "youtube_id": "k6kbUuMuhxw",
+        "title": "Complete C# Programming",
+        "channel": "Kodeco"
+      },
+      "steps": [
+        "Plan the game: three levels, enemies, coins, a goal and a main menu.",
+        "Build the levels with platforms, hazards and collectables.",
+        "Add a score, health, game over and win screens.",
+        "Play the whole game from the menu to the final level."
+      ],
+      "task": "Finish the platformer and play it from start to finish.",
+      "challenge": "Ask one person to play it and write down what confused them.",
+      "quiz": [
+        {
+          "q": "What makes a game complete?",
+          "options": [
+            "Many levels",
+            "A menu, playable levels, a goal, win and lose states, and no crashes",
+            "Big graphics",
+            "Many enemies"
+          ],
+          "answer": 1,
+          "explain": "A complete game has a start, a middle and an end: menu, levels, win and lose, and it runs without breaking."
+        },
+        {
+          "q": "Why playtest with another person?",
+          "options": [
+            "To show off",
+            "Because you know your game too well to see what confuses a new player",
+            "To waste time",
+            "To get likes"
+          ],
+          "answer": 1,
+          "explain": "You know where everything is. A new player shows you what is unclear, unfair or broken."
+        },
+        {
+          "q": "What should you do with playtest feedback?",
+          "options": [
+            "Ignore it",
+            "Fix the biggest problems first, then test again",
+            "Delete the game",
+            "Blame the tester"
+          ],
+          "answer": 1,
+          "explain": "Fix the biggest problems first. Small polish can wait until the game works well."
+        }
+      ],
+      "project": {
+        "title": "Complete 2D Platformer",
+        "brief": "Build a complete 2D platformer: three levels, enemies, coins, a score and health, a main menu, game over and win screens. Play the whole game from the menu to the final level.",
+        "checks": [
+          "The game has three levels.",
+          "Enemies and coins exist in the levels.",
+          "A score and health bar show on screen.",
+          "A main menu, game over and win screens exist.",
+          "The game can be played from the menu to the final level.",
+          "The game runs without errors."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "UI: Menus, Buttons and HUD",
+      "goal": "Build menus and a HUD with Unity's UI system.",
+      "video": {
+        "youtube_id": "ZgXsvlgessA",
+        "title": "How to Make Wall Slide in a 2D Game in Unity for Beginners",
+        "channel": "Bat Code"
+      },
+      "steps": [
+        "Make a Canvas and add a main menu with a title and a Play button.",
+        "Make the Play button load your level when clicked.",
+        "Add a pause menu that appears when you press Escape.",
+        "Add a HUD with the score and health bar."
+      ],
+      "task": "Build a main menu, a pause menu and a HUD for your game.",
+      "challenge": "Make the Play button start the level and the Quit button close the game.",
+      "quiz": [
+        {
+          "q": "What is a Canvas?",
+          "options": [
+            "A kind of sprite",
+            "The area that holds all UI elements like text, buttons and images",
+            "A kind of scene",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A Canvas is the parent for UI. All buttons, text and images live on a Canvas."
+        },
+        {
+          "q": "What is a HUD?",
+          "options": [
+            "A kind of menu",
+            "Heads-up display: the score, health and other info shown during play",
+            "A kind of enemy",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "The HUD is the information on screen during play: score, health, lives and timers."
+        },
+        {
+          "q": "How does a button work in Unity?",
+          "options": [
+            "With code only",
+            "A Button component calls a method you choose when it is clicked",
+            "With a script only",
+            "Automatically"
+          ],
+          "answer": 1,
+          "explain": "A Button has an onClick event. You link it to a method, and clicking runs that method."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Sound and Music",
+      "goal": "Add sound effects and music to your game.",
+      "video": {
+        "youtube_id": "on9nwbZngyw",
+        "title": "How to make a 2D Game in Unity",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Add an AudioSource to your player and a jump sound to it.",
+        "Play a sound when a coin is collected.",
+        "Add background music that loops on the menu and in levels.",
+        "Add a mute button to the pause menu."
+      ],
+      "task": "Add jump, coin and hurt sounds to your game, plus background music.",
+      "challenge": "Test the game with sound on and off.",
+      "quiz": [
+        {
+          "q": "What is an AudioSource?",
+          "options": [
+            "A kind of file",
+            "A component that plays a sound from a GameObject",
+            "A kind of music",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "An AudioSource plays a sound clip. You attach it to a GameObject and tell it which clip to play."
+        },
+        {
+          "q": "What is an AudioClip?",
+          "options": [
+            "A kind of component",
+            "A sound file, like a jump or a coin sound",
+            "A kind of music",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "An AudioClip is the sound file itself. An AudioSource plays it."
+        },
+        {
+          "q": "Why add sound to a game?",
+          "options": [
+            "It is fun only",
+            "Because sound gives feedback: jumps, coins and hits feel real",
+            "It is required",
+            "It hides bugs"
+          ],
+          "answer": 1,
+          "explain": "Sound tells the player what happened: a coin sound confirms the pickup, a hurt sound warns of danger."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Animations: Sprites and Animator",
+      "goal": "Animate your character with sprite animations.",
+      "video": {
+        "youtube_id": "2jTY11Am0Ig",
+        "title": "2D Camera in Unity (Cinemachine Tutorial)",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Make a sprite sheet with frames for idle, run and jump.",
+        "Slice the sprite sheet in Unity and make animation clips.",
+        "Set up an Animator Controller with states for idle, run and jump.",
+        "Switch states based on the character's speed and whether it is grounded."
+      ],
+      "task": "Animate your character: idle when still, run when moving, jump when in the air.",
+      "challenge": "Add a hurt animation that plays when the player takes damage.",
+      "quiz": [
+        {
+          "q": "What is a sprite sheet?",
+          "options": [
+            "A kind of code",
+            "One image that holds many animation frames in a grid",
+            "A kind of scene",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A sprite sheet packs many frames into one image. Unity slices it into separate frames for animation."
+        },
+        {
+          "q": "What is an Animator Controller?",
+          "options": [
+            "A kind of sprite",
+            "A state machine that decides which animation plays and when to switch",
+            "A kind of code",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "The Animator Controller holds your animations as states and the rules for moving between them."
+        },
+        {
+          "q": "What is a transition?",
+          "options": [
+            "A kind of sprite",
+            "A rule that says when to switch from one animation to another",
+            "A kind of code",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "A transition links two animation states with a condition, like 'speed is greater than 0'."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Particles and Juice",
+      "goal": "Add particles and small effects that make the game feel alive.",
+      "video": {
+        "youtube_id": "9ZEu_I-ido4",
+        "title": "How to Make a Video Game in Unity – Programming (E02)",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Add a particle system for dust when the player lands.",
+        "Add a burst of particles when a coin is collected.",
+        "Add a screen shake when the player takes damage.",
+        "Add a squash and stretch effect when the player jumps and lands."
+      ],
+      "task": "Add particles to your game: dust on landing, a burst on coins, and a shake on damage.",
+      "challenge": "Ask one person if the game feels better with the effects.",
+      "quiz": [
+        {
+          "q": "What are particles?",
+          "options": [
+            "A kind of enemy",
+            "Many small images that move and fade, used for dust, sparks, smoke and magic",
+            "A kind of code",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "Particles are tiny sprites that spawn, move and fade. They make effects like dust, explosions and sparkles."
+        },
+        {
+          "q": "What is game juice?",
+          "options": [
+            "A kind of drink",
+            "Small effects like particles, shake and squash that make a game feel good",
+            "A kind of code",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "Juice is the small stuff that makes a game feel alive: particles, sounds, shake and squash. It turns a plain game into a fun one."
+        },
+        {
+          "q": "Why add screen shake?",
+          "options": [
+            "It looks cool only",
+            "Because a small shake makes hits feel powerful and alerts the player",
+            "It is required",
+            "It hides bugs"
+          ],
+          "answer": 1,
+          "explain": "A tiny shake on damage makes the hit feel real and grabs the player's attention."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Level Design Basics",
+      "goal": "Design levels that teach, challenge and reward the player.",
+      "video": {
+        "youtube_id": "pReR6Z9rK-o",
+        "title": "Learn C# Beginner FREE Tutorial Course!",
+        "channel": "Code Monkey"
+      },
+      "steps": [
+        "Learn the three rules: teach one thing at a time, make it fair, reward the player.",
+        "Sketch your next level on paper before building it in Unity.",
+        "Place coins to guide the player toward the goal.",
+        "Test the level with a friend and watch where they get stuck."
+      ],
+      "task": "Design a new level on paper, then build it in Unity.",
+      "challenge": "Move the coins to guide the player along the intended path.",
+      "quiz": [
+        {
+          "q": "What is level design?",
+          "options": [
+            "Drawing maps",
+            "Planning where platforms, enemies, coins and goals go so the level is fun and fair",
+            "Writing code",
+            "Making art"
+          ],
+          "answer": 1,
+          "explain": "Level design is arranging the pieces of a level so it teaches, challenges and rewards the player."
+        },
+        {
+          "q": "Why place coins along the path?",
+          "options": [
+            "To make it pretty",
+            "Because coins guide the player toward the goal and reward exploring",
+            "To fill space",
+            "To hide the goal"
+          ],
+          "answer": 1,
+          "explain": "Coins act as breadcrumbs. Players follow them, which leads them along the path you designed."
+        },
+        {
+          "q": "What makes a level unfair?",
+          "options": [
+            "It is hard",
+            "Hidden dangers, jumps that are impossible, or rules the player was never taught",
+            "It is long",
+            "It has many enemies"
+          ],
+          "answer": 1,
+          "explain": "A fair level teaches before it tests. An unfair level punishes the player for things they could not know."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Saving and Loading Progress",
+      "goal": "Save the player's progress so it survives closing the game.",
+      "video": {
+        "youtube_id": "_pHfTS06Gj0",
+        "title": "COMPLETE COURSE - 2D Game Development in Unity (FREE)",
+        "channel": "Zenva"
+      },
+      "steps": [
+        "Use PlayerPrefs to save the highest level reached.",
+        "Save the player's coin total and best score.",
+        "Load the saved values when the game starts.",
+        "Add a reset button that clears the save."
+      ],
+      "task": "Save the player's progress and best score, and load them on start.",
+      "challenge": "Test it: play, close the game, open it again and check the save is there.",
+      "quiz": [
+        {
+          "q": "What is PlayerPrefs?",
+          "options": [
+            "A kind of file",
+            "Unity's simple way to save small values like scores and settings",
+            "A database",
+            "A kind of code"
+          ],
+          "answer": 1,
+          "explain": "PlayerPrefs saves small values on the device, like high scores and settings, so they survive closing the game."
+        },
+        {
+          "q": "Why save progress?",
+          "options": [
+            "It is required",
+            "So players do not lose everything when they close the game",
+            "It is faster",
+            "It hides data"
+          ],
+          "answer": 1,
+          "explain": "Saving lets players continue where they left off. Without it, every session starts from zero."
+        },
+        {
+          "q": "What should you save?",
+          "options": [
+            "Everything",
+            "Progress, scores, settings and unlocks: small values that matter to the player",
+            "Nothing",
+            "Only the score"
+          ],
+          "answer": 1,
+          "explain": "Save what matters: the level reached, the best score, settings and unlocks. Save files can grow too big if you save everything."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Your Own Game",
+      "goal": "Design and build your own 2D game from scratch.",
+      "video": {
+        "youtube_id": "XtQMytORBmM",
+        "title": "The Unity Tutorial For Complete Beginners",
+        "channel": "Game Maker's Toolkit"
+      },
+      "steps": [
+        "Pick a game idea and write a one-page design: goal, controls, enemies, win and lose.",
+        "Build the game in Unity with at least three levels or a score chase.",
+        "Add sound, particles and a main menu.",
+        "Playtest it with two people and fix the top problems."
+      ],
+      "task": "Finish your own game and play it from start to finish.",
+      "challenge": "Ask two people to play it and write down their feedback.",
+      "quiz": [
+        {
+          "q": "What is a game design document?",
+          "options": [
+            "A kind of code",
+            "A short document that describes your game: goal, controls, rules and win/lose",
+            "A kind of art",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A design document is a plan. It says what the game is, how it plays and what counts as winning, before you build it."
+        },
+        {
+          "q": "Why write the design before building?",
+          "options": [
+            "To waste time",
+            "So you build the right game and do not get lost halfway",
+            "It is required",
+            "It looks professional"
+          ],
+          "answer": 1,
+          "explain": "A written plan keeps you focused. Without it, you add random features and never finish."
+        },
+        {
+          "q": "What makes a game fun to playtest?",
+          "options": [
+            "Big graphics",
+            "Clear goals, fair challenges and feedback for every action",
+            "Many levels",
+            "Loud music"
+          ],
+          "answer": 1,
+          "explain": "Fun comes from clear goals, fair challenges and instant feedback, not from graphics alone."
+        }
+      ],
+      "project": {
+        "title": "Your Own Game",
+        "brief": "Design and build your own 2D game from scratch: write a one-page design, build at least three levels or a score chase, add sound, particles and a main menu, and playtest it with two people.",
+        "checks": [
+          "A one-page game design exists.",
+          "The game has at least three levels or a score chase.",
+          "Sound and particles are in the game.",
+          "A main menu exists.",
+          "Two people playtested the game.",
+          "The top problems from playtesting are fixed."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "2D Lighting and Atmosphere",
+      "goal": "Add light and mood to your game with Unity's 2D lighting.",
+      "video": {
+        "youtube_id": "vq4UXKa2XvQ",
+        "title": "Unity for Beginners: Build Your First Game From Zero",
+        "channel": "Development with ABS"
+      },
+      "steps": [
+        "Learn what 2D lights do: they brighten parts of the scene and leave others dark.",
+        "Add a point light to your player so the area around them glows.",
+        "Add a dark ambient light so the level feels moody.",
+        "Test the level with and without lights and compare the feeling."
+      ],
+      "task": "Add lighting to one level of your game and test how it feels.",
+      "challenge": "Make a torch that flickers by changing the light's intensity over time.",
+      "quiz": [
+        {
+          "q": "What does 2D lighting do?",
+          "options": [
+            "It makes the game faster",
+            "It adds light and shadow to a 2D scene, which creates mood and focus",
+            "It deletes sprites",
+            "It is a kind of physics"
+          ],
+          "answer": 1,
+          "explain": "2D lights brighten areas and leave others dark, which guides the player's eye and sets the mood."
+        },
+        {
+          "q": "What is a point light?",
+          "options": [
+            "A kind of sprite",
+            "A light that shines in all directions from one point",
+            "A kind of camera",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "A point light glows outward from a spot, like a lamp or a torch."
+        },
+        {
+          "q": "Why use darkness in a level?",
+          "options": [
+            "To hide mistakes",
+            "Because darkness creates tension and makes the lit areas feel important",
+            "It is faster",
+            "It saves battery"
+          ],
+          "answer": 1,
+          "explain": "Darkness focuses attention. What is lit matters more, and the unknown feels tense."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Polishing Your Game",
+      "goal": "Polish your game: fix bugs, improve feel and clean up the menus.",
+      "video": {
+        "youtube_id": "hKXsL7XNa9M",
+        "title": "How to Make a Game! Download and Create New Project",
+        "channel": "Code Monkey"
+      },
+      "steps": [
+        "Play your game from start to finish and write down every bug you find.",
+        "Fix the three worst bugs.",
+        "Improve the game feel: tune jump, speed and enemy behaviour.",
+        "Clean up the menus and check all buttons work."
+      ],
+      "task": "Fix the top five bugs in your game and improve the feel.",
+      "challenge": "Play the game again and check the fixes worked.",
+      "quiz": [
+        {
+          "q": "What is polish?",
+          "options": [
+            "Adding more levels",
+            "Fixing bugs, improving feel and cleaning up the presentation",
+            "Adding graphics",
+            "Making it harder"
+          ],
+          "answer": 1,
+          "explain": "Polish is the final pass: bugs fixed, feel tuned, menus clean. It turns a working game into a good one."
+        },
+        {
+          "q": "Why fix the worst bugs first?",
+          "options": [
+            "They are easiest",
+            "Because they block players from finishing the game",
+            "They are most fun",
+            "They are most visible"
+          ],
+          "answer": 1,
+          "explain": "A bug that stops progress matters more than a small visual glitch. Fix blockers first."
+        },
+        {
+          "q": "How do you know when a game is polished enough?",
+          "options": [
+            "Never",
+            "When you can play it start to finish without hitting a bug or a confusing moment",
+            "When it looks perfect",
+            "When it has many levels"
+          ],
+          "answer": 1,
+          "explain": "A game is ready when a new player can finish it without confusion or crashes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Building and Publishing Your Game",
+      "goal": "Build your game for PC, WebGL or Android and share it.",
+      "video": {
+        "youtube_id": "k6kbUuMuhxw",
+        "title": "Complete C# Programming",
+        "channel": "Kodeco"
+      },
+      "steps": [
+        "Open Build Settings and pick your target platform.",
+        "Build the game and check the output folder.",
+        "Run the built game on your computer and check it works.",
+        "Upload the WebGL build to itch.io and share the link."
+      ],
+      "task": "Build your game and upload it to itch.io.",
+      "challenge": "Share the link with three people and ask them to play it.",
+      "quiz": [
+        {
+          "q": "What is a build?",
+          "options": [
+            "A kind of test",
+            "The finished, playable version of your game for one platform",
+            "A kind of code",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A build is your game compiled for a platform, like Windows, WebGL or Android, ready for others to play."
+        },
+        {
+          "q": "What is itch.io?",
+          "options": [
+            "A kind of engine",
+            "A website where indie developers share and sell their games",
+            "A kind of code",
+            "A store for assets"
+          ],
+          "answer": 1,
+          "explain": "itch.io is a marketplace for indie games. You can upload your game there for free and share it."
+        },
+        {
+          "q": "Why test the built game, not just in the editor?",
+          "options": [
+            "It is faster",
+            "Because the build can behave differently from the editor",
+            "It is required",
+            "It looks better"
+          ],
+          "answer": 1,
+          "explain": "The editor and the build are not identical. Testing the build catches problems players would hit."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Monetisation and Next Steps",
+      "goal": "Learn how indie games make money and plan your next game.",
+      "video": {
+        "youtube_id": "ZgXsvlgessA",
+        "title": "How to Make Wall Slide in a 2D Game in Unity for Beginners",
+        "channel": "Bat Code"
+      },
+      "steps": [
+        "Learn the main ways games earn money: selling, ads, in-app purchases and donations.",
+        "Learn why most first games should be free: to get players and feedback.",
+        "Plan your next game: what you learned, what you would do differently.",
+        "Set a goal for the next 30 days of game development."
+      ],
+      "task": "Write a plan for your next game with three lessons from this one.",
+      "challenge": "Share your game link in one community and read the feedback.",
+      "quiz": [
+        {
+          "q": "How do indie games make money?",
+          "options": [
+            "Only by selling",
+            "By selling the game, showing ads, selling items inside it, or taking donations",
+            "Only by ads",
+            "They do not"
+          ],
+          "answer": 1,
+          "explain": "Indie games earn through sales, ads, in-app purchases or donations. Most use a mix."
+        },
+        {
+          "q": "Why make your first game free?",
+          "options": [
+            "It is a rule",
+            "Because free games get more players and more feedback, which teaches you faster",
+            "It is easier",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "A free first game reaches more players. Their feedback teaches you more than a few sales would."
+        },
+        {
+          "q": "What should you do after finishing a game?",
+          "options": [
+            "Forget it",
+            "Share it, read the feedback, and start the next one with what you learned",
+            "Sell it immediately",
+            "Delete it"
+          ],
+          "answer": 1,
+          "explain": "Finishing is the start. Sharing brings feedback, and the next game is where the lessons pay off."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Tilemaps: Building Levels Faster",
+      "goal": "Build levels quickly with tilemaps instead of placing every platform by hand.",
+      "video": {
+        "youtube_id": "on9nwbZngyw",
+        "title": "How to make a 2D Game in Unity",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Learn what a tilemap is: a grid where you paint tiles to build a level.",
+        "Make a tileset from a sprite sheet and add it to a tile palette.",
+        "Paint a level with the tilemap: ground, platforms and walls.",
+        "Add a Tilemap Collider so the painted tiles are solid."
+      ],
+      "task": "Rebuild one of your levels with a tilemap.",
+      "challenge": "Paint a new level in under ten minutes using tiles.",
+      "quiz": [
+        {
+          "q": "What is a tilemap?",
+          "options": [
+            "A kind of code",
+            "A grid-based tool for painting levels from small tiles",
+            "A kind of sprite",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A tilemap is a grid. You paint tiles onto it to build ground, walls and platforms quickly."
+        },
+        {
+          "q": "Why use tiles instead of placing objects one by one?",
+          "options": [
+            "It is prettier",
+            "Because painting is much faster and keeps everything lined up on a grid",
+            "It is cheaper",
+            "It hides objects"
+          ],
+          "answer": 1,
+          "explain": "Painting tiles is fast and neat. Placing every platform by hand is slow and uneven."
+        },
+        {
+          "q": "What does a Tilemap Collider do?",
+          "options": [
+            "It draws tiles",
+            "It makes the painted tiles solid so the player can stand on them",
+            "It deletes tiles",
+            "It colours tiles"
+          ],
+          "answer": 1,
+          "explain": "A Tilemap Collider turns your painted tiles into a solid surface the player can walk on."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Enemy AI: Simple Chasing",
+      "goal": "Make an enemy that chases the player when they get close.",
+      "video": {
+        "youtube_id": "2jTY11Am0Ig",
+        "title": "2D Camera in Unity (Cinemachine Tutorial)",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Add a detection range: if the player is within a few metres, chase them.",
+        "Move the enemy toward the player while chasing.",
+        "Go back to patrolling when the player escapes.",
+        "Test the chase and tune the speed so it is fair."
+      ],
+      "task": "Add a chasing enemy to your game and test it.",
+      "challenge": "Make the enemy give up the chase after five seconds.",
+      "quiz": [
+        {
+          "q": "What is enemy AI?",
+          "options": [
+            "A kind of art",
+            "The code that decides what an enemy does: patrol, chase, attack",
+            "A kind of physics",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "Enemy AI is the enemy's brain. It decides when to patrol, when to chase and when to attack."
+        },
+        {
+          "q": "How does an enemy know the player is near?",
+          "options": [
+            "It always knows",
+            "By checking the distance to the player each frame",
+            "By luck",
+            "By asking"
+          ],
+          "answer": 1,
+          "explain": "The enemy measures the distance to the player. If it is under a set range, it starts chasing."
+        },
+        {
+          "q": "Why should a chasing enemy be slower than the player?",
+          "options": [
+            "It is a rule",
+            "So the player can escape and the game stays fair",
+            "It is faster",
+            "It saves memory"
+          ],
+          "answer": 1,
+          "explain": "If the enemy is faster, the player can never escape. A slower enemy makes the chase tense but fair."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Dialogue and Story",
+      "goal": "Add dialogue and a simple story to your game.",
+      "video": {
+        "youtube_id": "9ZEu_I-ido4",
+        "title": "How to Make a Video Game in Unity – Programming (E02)",
+        "channel": "Brackeys"
+      },
+      "steps": [
+        "Write a short story for your game: who is the hero and what do they want?",
+        "Add a dialogue box UI that shows one line at a time.",
+        "Make an NPC that shows dialogue when the player walks near and presses a key.",
+        "Add a typewriter effect that reveals the text letter by letter."
+      ],
+      "task": "Add an NPC with three lines of dialogue to your game.",
+      "challenge": "Write an opening line that tells the player their goal.",
+      "quiz": [
+        {
+          "q": "What is dialogue in a game?",
+          "options": [
+            "A kind of code",
+            "Text that characters say, shown in a box on screen",
+            "A kind of music",
+            "A menu"
+          ],
+          "answer": 1,
+          "explain": "Dialogue is what characters say. It appears in a box, often one line at a time, while the player reads."
+        },
+        {
+          "q": "Why add a story to a game?",
+          "options": [
+            "It is required",
+            "Because a story gives the player a reason to keep playing",
+            "It is faster",
+            "It hides bugs"
+          ],
+          "answer": 1,
+          "explain": "A story gives meaning to the action. Players keep going because they want to know what happens next."
+        },
+        {
+          "q": "What is a typewriter effect?",
+          "options": [
+            "A kind of font",
+            "Text that appears letter by letter, like someone typing",
+            "A kind of sound",
+            "A menu"
+          ],
+          "answer": 1,
+          "explain": "A typewriter effect reveals text one letter at a time, which feels alive and keeps the player reading."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Optimising Performance",
+      "goal": "Keep your game running smoothly on weaker computers.",
+      "video": {
+        "youtube_id": "pReR6Z9rK-o",
+        "title": "Learn C# Beginner FREE Tutorial Course!",
+        "channel": "Code Monkey"
+      },
+      "steps": [
+        "Learn what frame rate is and check yours in the Game window.",
+        "Find the slowest part: too many sprites, too many lights, or heavy scripts.",
+        "Use object pooling for things you create often, like coins or bullets.",
+        "Test your game on a weaker computer or with a lower frame rate cap."
+      ],
+      "task": "Check your game's frame rate and fix the slowest part.",
+      "challenge": "Replace repeated creating and destroying with object pooling for one thing.",
+      "quiz": [
+        {
+          "q": "What is frame rate?",
+          "options": [
+            "A kind of file",
+            "How many frames your game draws each second. 60 is smooth, 30 is playable",
+            "A kind of code",
+            "A setting"
+          ],
+          "answer": 1,
+          "explain": "Frame rate is frames per second. Higher is smoother. Below 30, the game starts to feel choppy."
+        },
+        {
+          "q": "What is object pooling?",
+          "options": [
+            "A kind of database",
+            "Reusing objects instead of creating and destroying them again and again",
+            "A kind of sprite",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "Pooling keeps a set of ready objects and reuses them, which is faster than creating new ones constantly."
+        },
+        {
+          "q": "Why optimise a game?",
+          "options": [
+            "It is fun",
+            "So it runs smoothly on more computers and more people can play it",
+            "It is required",
+            "It hides bugs"
+          ],
+          "answer": 1,
+          "explain": "A game that runs smoothly on weak computers reaches more players. A choppy game drives them away."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Game",
+      "goal": "Review everything, pick your capstone game and plan your demo.",
+      "video": {
+        "youtube_id": "_pHfTS06Gj0",
+        "title": "COMPLETE COURSE - 2D Game Development in Unity (FREE)",
+        "channel": "Zenva"
+      },
+      "steps": [
+        "List the games you built and pick the strongest one to finish.",
+        "Write a short plan: the game, the levels, the features and the demo.",
+        "Practise explaining your game in simple words, as if to a friend.",
+        "Record a short video of your game or write a short post showing it."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your game.",
+      "challenge": "Show your game to one person and note their questions, then improve it.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone game?",
+          "options": [
+            "Many levels",
+            "A complete, fun game with a menu, levels, a goal and no crashes",
+            "Big graphics",
+            "Many enemies"
+          ],
+          "answer": 1,
+          "explain": "A good capstone is a complete game: menu, levels, goal, win and lose, and it runs without breaking."
+        },
+        {
+          "q": "Why practise explaining your game?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your game in simple words, you really understand it. That is what employers and players look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the code",
+            "The game, the levels, the features and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the game idea, the levels, the features and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Build and Publish Your Own 2D Game",
+    "brief": "Design, build and publish your own complete 2D game in Unity: a clear goal, at least three levels, enemies and collectables, sound and particles, menus and a save system. Publish it on itch.io and share the link with a short demo video.",
+    "checks": [
+      "The game has a clear goal and you can explain it in one sentence.",
+      "It has at least three levels or a full score chase.",
+      "It has enemies, collectables, a score and health.",
+      "It has sound, particles and a main menu.",
+      "Progress is saved between sessions.",
+      "It is published on itch.io with a playable link.",
+      "You can show a live demo and explain how it works in simple words."
+    ],
+    "deliverables": [
+      "A complete Unity game project.",
+      "A published itch.io link to the playable game.",
+      "A one-page game design document.",
+      "A short demo video or screenshots of the game.",
+      "A one-page write-up of what you learned in 30 days."
+    ]
+  }
+}

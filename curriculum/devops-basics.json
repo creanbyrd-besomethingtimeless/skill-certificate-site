@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "devops-basics",
+    "title": "DevOps Basics",
+    "level": "Intermediate",
+    "tagline": "Ship software with confidence: Git, CI, Docker and cloud deploys in one practical month.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What DevOps Is",
+      "goal": "Understand what DevOps is and why teams use it.",
+      "video": {
+        "youtube_id": "3c-iBn73dDE",
+        "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Write down the old way: developers build, then throw code over the wall to operations.",
+        "Learn what DevOps changes: developers and operations work together and automate everything.",
+        "Learn the DevOps loop: plan, code, build, test, release, deploy, operate, monitor.",
+        "Find one company story about DevOps and write down what improved."
+      ],
+      "task": "Write a short note: what DevOps is, in your own words, and why it matters.",
+      "challenge": "Draw the DevOps loop on paper with one sentence for each step.",
+      "quiz": [
+        {
+          "q": "What is DevOps?",
+          "options": [
+            "A kind of software",
+            "A way of working where development and operations teams build, test and release software together, with automation",
+            "A programming language",
+            "A cloud service"
+          ],
+          "answer": 1,
+          "explain": "DevOps joins development and operations into one team that automates building, testing and releasing software."
+        },
+        {
+          "q": "What problem does DevOps solve?",
+          "options": [
+            "Slow computers",
+            "Slow, painful releases where code sits waiting and breaks when it finally ships",
+            "Bad design",
+            "Expensive software"
+          ],
+          "answer": 1,
+          "explain": "Without DevOps, releases are rare and risky. DevOps makes small, frequent, safe releases normal."
+        },
+        {
+          "q": "What is the DevOps loop?",
+          "options": [
+            "A kind of test",
+            "The cycle of plan, code, build, test, release, deploy, operate and monitor, repeated forever",
+            "A kind of loop in code",
+            "A meeting"
+          ],
+          "answer": 1,
+          "explain": "The loop is the DevOps cycle. Each release goes around it, and monitoring feeds lessons back into planning."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Linux Command Line Refresher",
+      "goal": "Refresh the Linux commands you will use every day in DevOps.",
+      "video": {
+        "youtube_id": "s_o8dwzRlu4",
+        "title": "Kubernetes Crash Course for Absolute Beginners [NEW]",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Practise moving around: pwd, ls, cd and mkdir.",
+        "Practise reading files: cat, less, head and tail.",
+        "Practise searching: grep and find.",
+        "Check what is running and how much memory is free with ps and free."
+      ],
+      "task": "Use only the terminal for one hour: no file manager, no mouse.",
+      "challenge": "Write a cheat sheet of your ten most-used commands.",
+      "quiz": [
+        {
+          "q": "Why is the command line so important in DevOps?",
+          "options": [
+            "It is prettier",
+            "Because servers have no screens, and automation runs commands, not clicks",
+            "It is faster always",
+            "It is required by law"
+          ],
+          "answer": 1,
+          "explain": "Servers are managed by commands, and automation is just commands run by a machine. The terminal is the core skill."
+        },
+        {
+          "q": "What does tail -f do?",
+          "options": [
+            "It deletes a file",
+            "It shows the end of a file and keeps showing new lines as they appear",
+            "It copies a file",
+            "It sorts a file"
+          ],
+          "answer": 1,
+          "explain": "tail -f follows a file live, which is how you watch logs as an app runs."
+        },
+        {
+          "q": "What does grep do?",
+          "options": [
+            "It deletes files",
+            "It searches inside files for lines that match a pattern",
+            "It copies files",
+            "It moves files"
+          ],
+          "answer": 1,
+          "explain": "grep finds lines containing a word or pattern, which is handy for reading logs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Git Basics: Commits and Branches",
+      "goal": "Use Git to track changes and work in branches.",
+      "video": {
+        "youtube_id": "QameL1KtnmI",
+        "title": "DevOps Full Course 2026 | DevOps Tutorial for Beginners | DevOps Training",
+        "channel": "Edureka"
+      },
+      "steps": [
+        "Create a folder, run git init, and make your first commit.",
+        "Change a file, check git status, and commit the change with a clear message.",
+        "Make a branch called feature-login and switch to it.",
+        "Merge the branch back into main and check the log."
+      ],
+      "task": "Make a small project with five commits and two branches, then merge them.",
+      "challenge": "Write a good commit message for each change you make today.",
+      "quiz": [
+        {
+          "q": "What is Git?",
+          "options": [
+            "A cloud service",
+            "A tool that tracks changes to your code so you can go back and work together",
+            "A kind of database",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "Git records every change to your files. You can see history, undo mistakes and merge work from many people."
+        },
+        {
+          "q": "What is a branch?",
+          "options": [
+            "A kind of file",
+            "A separate line of work you can change without touching the main code",
+            "A backup",
+            "A folder"
+          ],
+          "answer": 1,
+          "explain": "A branch is a copy of the code you can change safely. When it works, you merge it back into main."
+        },
+        {
+          "q": "What makes a good commit message?",
+          "options": [
+            "A long essay",
+            "A short sentence that says what changed and why",
+            "A random word",
+            "A date only"
+          ],
+          "answer": 1,
+          "explain": "A good message explains the change in one line, so anyone reading the history understands it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "GitHub: Remote Repos and Pull Requests",
+      "goal": "Work with GitHub: push code, open pull requests and review them.",
+      "video": {
+        "youtube_id": "lFIlFedch3k",
+        "title": "Learning DevOps: Aws, Terraform, Ansible, Jenkins, and Docker",
+        "channel": "ScottyFullStack"
+      },
+      "steps": [
+        "Create a repository on GitHub and push your local project to it.",
+        "Make a change on a branch and push the branch.",
+        "Open a pull request and write a clear description of the change.",
+        "Review a pull request: read the diff and leave a comment."
+      ],
+      "task": "Push your project to GitHub and open your first pull request.",
+      "challenge": "Merge the pull request and delete the branch.",
+      "quiz": [
+        {
+          "q": "What is a pull request?",
+          "options": [
+            "A kind of bug",
+            "A request to merge your branch into the main code, with a review first",
+            "A download",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A pull request proposes a change. Others review it, discuss it and then merge it."
+        },
+        {
+          "q": "Why review code before merging?",
+          "options": [
+            "To waste time",
+            "To catch bugs, share knowledge and keep the code quality high",
+            "To show off",
+            "To delay releases"
+          ],
+          "answer": 1,
+          "explain": "Review catches mistakes early and spreads knowledge across the team."
+        },
+        {
+          "q": "What is the difference between git push and git pull?",
+          "options": [
+            "There is none",
+            "push sends your commits to the remote, pull brings others' commits to you",
+            "push is faster",
+            "pull deletes code"
+          ],
+          "answer": 1,
+          "explain": "push uploads your work to GitHub. pull downloads work others have pushed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Bash Scripting Basics",
+      "goal": "Write small scripts to automate boring jobs.",
+      "video": {
+        "youtube_id": "l5k1ai_GBDE",
+        "title": "Terraform explained in 15 mins | Terraform Tutorial for Beginners",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Write a script that prints 'Hello' and the current date.",
+        "Use a variable to store a name and print a greeting with it.",
+        "Use an if statement to check if a file exists.",
+        "Use a for loop to back up three files into a folder."
+      ],
+      "task": "Write a backup script that copies your project folder with today's date in the name.",
+      "challenge": "Make the script executable with chmod +x and run it with ./backup.sh.",
+      "quiz": [
+        {
+          "q": "What is a bash script?",
+          "options": [
+            "A kind of app",
+            "A text file with commands that run one after another to automate a job",
+            "A database",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "A bash script is a list of commands in a file. Running it does the whole job at once."
+        },
+        {
+          "q": "Why automate with scripts?",
+          "options": [
+            "It is fun",
+            "Because computers do repetitive jobs faster and without mistakes",
+            "It is required",
+            "It saves battery"
+          ],
+          "answer": 1,
+          "explain": "A script does a boring job the same way every time, in seconds, with no typos."
+        },
+        {
+          "q": "What does chmod +x do?",
+          "options": [
+            "It deletes a file",
+            "It makes a file executable so you can run it as a program",
+            "It copies a file",
+            "It hides a file"
+          ],
+          "answer": 1,
+          "explain": "chmod +x adds the execute permission, so the system lets you run the file as a script."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "What Is a CI/CD Pipeline?",
+      "goal": "Understand continuous integration and continuous delivery.",
+      "video": {
+        "youtube_id": "K4FKwdNMDyI",
+        "title": "CI/CD With GitHub Actions Tutorial: Build, Test and Deploy Automatically",
+        "channel": "CodeFlow Daily"
+      },
+      "steps": [
+        "Learn what CI means: every change is built and tested automatically.",
+        "Learn what CD means: tested changes can be released automatically.",
+        "Draw a simple pipeline: commit, build, test, deploy.",
+        "List three things a pipeline should check: does it build, do tests pass, is it secure?"
+      ],
+      "task": "Draw a CI/CD pipeline for a small web app with four stages.",
+      "challenge": "Write down what should happen if a test fails in the pipeline.",
+      "quiz": [
+        {
+          "q": "What is continuous integration?",
+          "options": [
+            "Deploying every day",
+            "Merging code often and automatically building and testing every change",
+            "Writing code fast",
+            "A kind of database"
+          ],
+          "answer": 1,
+          "explain": "CI means every change is merged, built and tested automatically, so problems are found in minutes, not weeks."
+        },
+        {
+          "q": "What is continuous delivery?",
+          "options": [
+            "Deploying by hand",
+            "Keeping the code always ready to release, with deployment automated or one click away",
+            "Writing code fast",
+            "A kind of test"
+          ],
+          "answer": 1,
+          "explain": "Continuous delivery means tested code is always releasable. Deployment is automated or a single click."
+        },
+        {
+          "q": "Why automate testing in a pipeline?",
+          "options": [
+            "It is faster",
+            "Because humans forget tests, and a pipeline runs them the same way every time",
+            "It is cheaper always",
+            "It hides bugs"
+          ],
+          "answer": 1,
+          "explain": "A pipeline runs every test on every change, so a broken change cannot slip through."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Version Control a Project with Git",
+      "goal": "Put a real project under Git and GitHub with branches and pull requests.",
+      "video": {
+        "youtube_id": "WCMKDAjm_Is",
+        "title": "3-Tier Web App with Docker | Full Hands-On Tutorial",
+        "channel": "Shubham Gour"
+      },
+      "steps": [
+        "Create a small web app project with at least three files.",
+        "Put it under Git with a clear first commit.",
+        "Push it to GitHub and add a README that explains the project.",
+        "Make a feature branch, add a feature, open a pull request and merge it."
+      ],
+      "task": "Finish the project on GitHub with a README, branches and a merged pull request.",
+      "challenge": "Show the commit history to one person and explain what each commit did.",
+      "quiz": [
+        {
+          "q": "What makes a good README?",
+          "options": [
+            "A long essay",
+            "A short explanation of what the project does, how to run it and how to contribute",
+            "A list of files",
+            "A screenshot only"
+          ],
+          "answer": 1,
+          "explain": "A good README tells a stranger what the project is, how to run it and how to help, in a few short sections."
+        },
+        {
+          "q": "Why use branches for features?",
+          "options": [
+            "To make more files",
+            "So each feature is built safely apart from the main code",
+            "To make it slower",
+            "To hide code"
+          ],
+          "answer": 1,
+          "explain": "Branches isolate work. A broken feature cannot break the main code until it is merged."
+        },
+        {
+          "q": "What should you do before merging a pull request?",
+          "options": [
+            "Nothing",
+            "Check the tests pass and at least one person reviewed it",
+            "Delete the branch",
+            "Push more code"
+          ],
+          "answer": 1,
+          "explain": "Merge only when tests are green and someone has reviewed the change."
+        }
+      ],
+      "project": {
+        "title": "Version Control a Project with Git",
+        "brief": "Put a real project under Git and GitHub: a small web app with at least three files, a clear commit history, a README, a feature branch, a pull request and a merge.",
+        "checks": [
+          "The project is under Git with a clear commit history.",
+          "The project is pushed to GitHub.",
+          "A README explains what the project does and how to run it.",
+          "A feature branch was created and merged through a pull request.",
+          "The pull request was reviewed before merging.",
+          "The commit messages are clear and descriptive."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Docker: Containers Explained",
+      "goal": "Understand containers and why they changed software delivery.",
+      "video": {
+        "youtube_id": "wgQ3rHFTM4E",
+        "title": "What Is Ansible? | How Ansible Works? | Ansible Playbook Tutorial For Beginners | DevOps",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Learn what a container is: your app plus everything it needs, in one package.",
+        "Learn the difference between a container and a virtual machine.",
+        "Install Docker on your computer and check it with docker --version.",
+        "Run your first container: docker run hello-world."
+      ],
+      "task": "Run the hello-world container and write down what happened.",
+      "challenge": "List three problems containers solve.",
+      "quiz": [
+        {
+          "q": "What is a container?",
+          "options": [
+            "A virtual machine",
+            "A lightweight package with your app and its dependencies that runs the same anywhere",
+            "A kind of server",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A container bundles your app with its libraries and settings, so it runs the same on any machine."
+        },
+        {
+          "q": "How is a container different from a virtual machine?",
+          "options": [
+            "There is no difference",
+            "A container shares the host's operating system, so it is smaller and starts in seconds",
+            "A VM is smaller",
+            "A container needs no code"
+          ],
+          "answer": 1,
+          "explain": "A VM carries a whole operating system. A container shares the host OS, so it is light and fast to start."
+        },
+        {
+          "q": "What problem do containers solve?",
+          "options": [
+            "Slow internet",
+            "'It works on my machine': the app runs the same everywhere because its environment travels with it",
+            "Bad design",
+            "Expensive computers"
+          ],
+          "answer": 1,
+          "explain": "Containers carry their environment with them, so an app that works on your laptop works on the server too."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Docker Images and Dockerfiles",
+      "goal": "Build your own Docker image with a Dockerfile.",
+      "video": {
+        "youtube_id": "vS1WRjwr43U",
+        "title": "Deploy a 3-Tier App on AWS EC2: React, Node.js, MySQL",
+        "channel": "Madhukar Reddy"
+      },
+      "steps": [
+        "Write a Dockerfile for a simple web app: FROM, WORKDIR, COPY, RUN, CMD.",
+        "Build the image with docker build -t my-app .",
+        "Run a container from your image and open it in a browser.",
+        "Check the image layers with docker history."
+      ],
+      "task": "Build a Docker image of a small web page and run it on your computer.",
+      "challenge": "Change the page, rebuild the image and run it again.",
+      "quiz": [
+        {
+          "q": "What is a Dockerfile?",
+          "options": [
+            "A kind of app",
+            "A text file with instructions for building a Docker image",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A Dockerfile lists the steps to build an image: start from a base, copy files, install things, set the startup command."
+        },
+        {
+          "q": "What is a Docker image?",
+          "options": [
+            "A running app",
+            "A frozen template of an app and its environment, used to start containers",
+            "A kind of server",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "An image is a snapshot. A container is a running copy of an image."
+        },
+        {
+          "q": "What does docker build do?",
+          "options": [
+            "It runs a container",
+            "It reads a Dockerfile and creates an image",
+            "It deletes an image",
+            "It stops a container"
+          ],
+          "answer": 1,
+          "explain": "docker build follows the Dockerfile's instructions and packs the result into an image."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Docker Compose: Multi-Container Apps",
+      "goal": "Run a whole app with several containers using Docker Compose.",
+      "video": {
+        "youtube_id": "fqMOX6JJhGo",
+        "title": "Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Write a docker-compose.yml with a web service and a database service.",
+        "Start both with docker compose up.",
+        "Check the web app can talk to the database.",
+        "Stop everything with docker compose down."
+      ],
+      "task": "Build a two-container app: a web page and a database, running with one command.",
+      "challenge": "Add a third service: a cache or a worker.",
+      "quiz": [
+        {
+          "q": "What is Docker Compose?",
+          "options": [
+            "A kind of image",
+            "A tool that runs several containers together from one YAML file",
+            "A database",
+            "A kind of server"
+          ],
+          "answer": 1,
+          "explain": "Compose describes your whole app's containers in one file and starts them together with one command."
+        },
+        {
+          "q": "What is a service in Compose?",
+          "options": [
+            "A kind of server",
+            "One container in your app, like web or db, defined in the YAML file",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A service is one part of your app, like the web server or the database, that Compose runs as a container."
+        },
+        {
+          "q": "Why use Compose instead of many docker run commands?",
+          "options": [
+            "It is faster",
+            "Because one file describes the whole app, so anyone can start it with one command",
+            "It is cheaper",
+            "It hides containers"
+          ],
+          "answer": 1,
+          "explain": "One Compose file is the recipe for the whole app. Anyone can run it with a single command."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Docker Volumes and Networks",
+      "goal": "Keep data safe with volumes and connect containers with networks.",
+      "video": {
+        "youtube_id": "9zUHg7xjIqQ",
+        "title": "Learn Docker by Building a Node / Express App",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Create a volume and store database data in it.",
+        "Stop and remove the container, then start a new one with the same volume and check the data is still there.",
+        "Create a network and put two containers on it so they can talk by name.",
+        "List your volumes and networks with docker volume ls and docker network ls."
+      ],
+      "task": "Run a database in a container with a volume, add data, restart the container and check the data survived.",
+      "challenge": "Connect a web container to a database container by name.",
+      "quiz": [
+        {
+          "q": "What is a Docker volume?",
+          "options": [
+            "A kind of image",
+            "Storage that lives outside a container, so data survives when the container is deleted",
+            "A network",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A volume is persistent storage. Data in a volume stays even when the container is removed."
+        },
+        {
+          "q": "Why do containers need volumes?",
+          "options": [
+            "They are faster",
+            "Because a container's own files disappear when it is deleted, so data needs a home outside it",
+            "They are cheaper",
+            "They hide data"
+          ],
+          "answer": 1,
+          "explain": "Containers are disposable. Without a volume, your database would vanish with the container."
+        },
+        {
+          "q": "What is a Docker network?",
+          "options": [
+            "A kind of volume",
+            "A virtual network that lets containers talk to each other by name",
+            "A kind of image",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A network connects containers so they can reach each other by service name, like db or web."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Kubernetes: Pods and Deployments",
+      "goal": "Understand Kubernetes and run your first pod.",
+      "video": {
+        "youtube_id": "3c-iBn73dDE",
+        "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Learn what Kubernetes does: it runs and manages many containers for you.",
+        "Learn the main pieces: pod, deployment, service and node.",
+        "Install minikube or kind and start a local cluster.",
+        "Deploy a simple app with kubectl apply and check it with kubectl get pods."
+      ],
+      "task": "Start a local Kubernetes cluster and deploy a simple web app.",
+      "challenge": "Check the pods are running and open the app in a browser.",
+      "quiz": [
+        {
+          "q": "What is Kubernetes?",
+          "options": [
+            "A kind of container",
+            "A system that runs, scales and heals containers across many machines",
+            "A database",
+            "A kind of server"
+          ],
+          "answer": 1,
+          "explain": "Kubernetes manages containers for you: it places them, restarts them when they fail and scales them up or down."
+        },
+        {
+          "q": "What is a pod?",
+          "options": [
+            "A kind of server",
+            "The smallest unit in Kubernetes: one or more containers that run together",
+            "A database",
+            "A network"
+          ],
+          "answer": 1,
+          "explain": "A pod is a group of containers that share a network and storage. It is the smallest thing Kubernetes runs."
+        },
+        {
+          "q": "What is a deployment?",
+          "options": [
+            "A kind of pod",
+            "A recipe that says how many copies of your app should run, and keeps that many alive",
+            "A kind of server",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A deployment manages pods. You say 'run three copies', and Kubernetes keeps three running, replacing any that die."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Kubernetes Services and Ingress",
+      "goal": "Expose your app to the world with services and ingress.",
+      "video": {
+        "youtube_id": "s_o8dwzRlu4",
+        "title": "Kubernetes Crash Course for Absolute Beginners [NEW]",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Learn what a service does: it gives your pods a stable address.",
+        "Create a service for your app and check you can reach it.",
+        "Learn what ingress does: it routes web traffic to the right service.",
+        "Add an ingress rule that sends traffic to your app."
+      ],
+      "task": "Expose your app with a service and open it in a browser.",
+      "challenge": "Add a second app and route traffic to each by path.",
+      "quiz": [
+        {
+          "q": "What is a Kubernetes service?",
+          "options": [
+            "A kind of pod",
+            "A stable address in front of your pods, so traffic reaches them even as pods change",
+            "A database",
+            "A kind of server"
+          ],
+          "answer": 1,
+          "explain": "Pods come and go. A service gives them one stable address that always points at the live pods."
+        },
+        {
+          "q": "What is ingress?",
+          "options": [
+            "A kind of pod",
+            "A rule that routes incoming web traffic to the right service",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "Ingress is the front door. It reads the URL and sends each request to the right service."
+        },
+        {
+          "q": "Why do pods need a service?",
+          "options": [
+            "They are slow",
+            "Because pods get new addresses when they restart, so clients need a stable address",
+            "They are small",
+            "They hide data"
+          ],
+          "answer": 1,
+          "explain": "Pods are temporary and their addresses change. A service hides that churn behind one fixed address."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Containerise and Deploy a 3-Tier App",
+      "goal": "Containerise a 3-tier app and run it with Docker Compose and Kubernetes.",
+      "video": {
+        "youtube_id": "QameL1KtnmI",
+        "title": "DevOps Full Course 2026 | DevOps Tutorial for Beginners | DevOps Training",
+        "channel": "Edureka"
+      },
+      "steps": [
+        "Take a simple 3-tier app: frontend, backend and database.",
+        "Write a Dockerfile for the frontend and one for the backend.",
+        "Run the whole app with Docker Compose.",
+        "Deploy the same app to your local Kubernetes cluster."
+      ],
+      "task": "Finish the containerised 3-tier app and open it in a browser.",
+      "challenge": "Write down the commands to start and stop the whole app.",
+      "quiz": [
+        {
+          "q": "What is a 3-tier app?",
+          "options": [
+            "Three servers",
+            "An app split into three layers: frontend, backend and database",
+            "Three databases",
+            "Three users"
+          ],
+          "answer": 1,
+          "explain": "A 3-tier app has three layers: the user interface, the logic, and the data. Each layer can change and scale on its own."
+        },
+        {
+          "q": "Why containerise each tier separately?",
+          "options": [
+            "It is faster",
+            "So each layer can be built, tested and scaled on its own",
+            "It is cheaper always",
+            "It hides code"
+          ],
+          "answer": 1,
+          "explain": "Separate containers let you update the frontend without touching the database, and scale each layer as needed."
+        },
+        {
+          "q": "What proves the app works?",
+          "options": [
+            "It builds",
+            "You can open it in a browser and use it end to end",
+            "It has three containers",
+            "It has a Dockerfile"
+          ],
+          "answer": 1,
+          "explain": "The proof is a working app: open it, click through it, and see data flow from the frontend to the database and back."
+        }
+      ],
+      "project": {
+        "title": "Containerise and Deploy a 3-Tier App",
+        "brief": "Containerise a 3-tier app (frontend, backend, database) with Dockerfiles, run it with Docker Compose, and deploy the same app to a local Kubernetes cluster.",
+        "checks": [
+          "A Dockerfile exists for the frontend and the backend.",
+          "The app runs with docker compose up.",
+          "The database keeps its data in a volume.",
+          "The app is deployed to a local Kubernetes cluster.",
+          "The app works end to end in a browser.",
+          "You can start and stop the whole app with documented commands."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "CI with GitHub Actions",
+      "goal": "Build a pipeline that tests your code on every push.",
+      "video": {
+        "youtube_id": "lFIlFedch3k",
+        "title": "Learning DevOps: Aws, Terraform, Ansible, Jenkins, and Docker",
+        "channel": "ScottyFullStack"
+      },
+      "steps": [
+        "Create a .github/workflows folder in your project.",
+        "Write a workflow that runs on every push: check out the code, install dependencies, run tests.",
+        "Push the workflow and watch it run in the Actions tab.",
+        "Make a test fail on purpose and watch the pipeline go red."
+      ],
+      "task": "Add a GitHub Actions workflow to your project that runs tests on every push.",
+      "challenge": "Fix the failing test and watch the pipeline go green.",
+      "quiz": [
+        {
+          "q": "What is GitHub Actions?",
+          "options": [
+            "A kind of test",
+            "A CI/CD service built into GitHub that runs workflows when things happen in your repo",
+            "A database",
+            "A kind of server"
+          ],
+          "answer": 1,
+          "explain": "GitHub Actions runs automated jobs when you push, open a pull request or on a schedule."
+        },
+        {
+          "q": "What is a workflow?",
+          "options": [
+            "A kind of test",
+            "A YAML file that describes the jobs and steps to run",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A workflow is a YAML file in .github/workflows. It says when to run and what steps to do."
+        },
+        {
+          "q": "Why run tests on every push?",
+          "options": [
+            "It is faster",
+            "So a broken change is caught in minutes, before it reaches anyone else",
+            "It is cheaper",
+            "It hides bugs"
+          ],
+          "answer": 1,
+          "explain": "Testing every push catches breakage early, when it is cheap and easy to fix."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Automated Testing in the Pipeline",
+      "goal": "Add unit tests and a test stage to your pipeline.",
+      "video": {
+        "youtube_id": "l5k1ai_GBDE",
+        "title": "Terraform explained in 15 mins | Terraform Tutorial for Beginners",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Write three unit tests for a small function in your project.",
+        "Run the tests locally and check they pass.",
+        "Add a test step to your GitHub Actions workflow.",
+        "Push and watch the pipeline run your tests."
+      ],
+      "task": "Write tests for your project and add them to the pipeline.",
+      "challenge": "Add a test that fails if the output is wrong, and watch the pipeline catch it.",
+      "quiz": [
+        {
+          "q": "What is a unit test?",
+          "options": [
+            "A test of the whole app",
+            "A test of one small function or piece of logic on its own",
+            "A test of the design",
+            "A test of the server"
+          ],
+          "answer": 1,
+          "explain": "A unit test checks one function in isolation, like a date formatter or a total calculator."
+        },
+        {
+          "q": "Why run tests in the pipeline, not just on your laptop?",
+          "options": [
+            "It is faster",
+            "Because the pipeline runs them the same way every time, on a clean machine",
+            "It is cheaper",
+            "It hides bugs"
+          ],
+          "answer": 1,
+          "explain": "Your laptop may have different versions or files. The pipeline tests on a clean machine, so results are trustworthy."
+        },
+        {
+          "q": "What should the pipeline do when a test fails?",
+          "options": [
+            "Deploy anyway",
+            "Stop and mark the build red, so the broken change is not released",
+            "Skip the test",
+            "Ignore it"
+          ],
+          "answer": 1,
+          "explain": "A failed test stops the pipeline. The broken change must be fixed before it can move forward."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Terraform Basics",
+      "goal": "Describe infrastructure as code with Terraform.",
+      "video": {
+        "youtube_id": "K4FKwdNMDyI",
+        "title": "CI/CD With GitHub Actions Tutorial: Build, Test and Deploy Automatically",
+        "channel": "CodeFlow Daily"
+      },
+      "steps": [
+        "Learn what infrastructure as code means: your servers and buckets written in files.",
+        "Install Terraform and check it with terraform --version.",
+        "Write a file that creates a simple resource, like a local file or an S3 bucket.",
+        "Run terraform plan to see what it would do, without doing it."
+      ],
+      "task": "Write a Terraform file that creates an S3 bucket and run terraform plan.",
+      "challenge": "Write down what terraform plan showed you.",
+      "quiz": [
+        {
+          "q": "What is Terraform?",
+          "options": [
+            "A kind of server",
+            "A tool that creates and manages cloud resources from files you write",
+            "A database",
+            "A programming language"
+          ],
+          "answer": 1,
+          "explain": "Terraform reads files that describe your infrastructure and makes the real cloud match them."
+        },
+        {
+          "q": "What is infrastructure as code?",
+          "options": [
+            "A kind of code",
+            "Writing your servers, networks and buckets as files you can version and repeat",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "Infrastructure as code means your cloud setup lives in files. You can review it, version it and recreate it exactly."
+        },
+        {
+          "q": "What does terraform plan do?",
+          "options": [
+            "It creates resources",
+            "It shows what Terraform would change, without changing anything",
+            "It deletes resources",
+            "It backs up data"
+          ],
+          "answer": 1,
+          "explain": "plan previews the changes. You read it first, then apply only when it looks right."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Terraform: Real Infrastructure",
+      "goal": "Build real cloud infrastructure with Terraform and manage its state.",
+      "video": {
+        "youtube_id": "WCMKDAjm_Is",
+        "title": "3-Tier Web App with Docker | Full Hands-On Tutorial",
+        "channel": "Shubham Gour"
+      },
+      "steps": [
+        "Write Terraform files for a VPC, a subnet and a security group.",
+        "Run terraform apply and check the resources appear in the console.",
+        "Change one value, run apply again and watch Terraform update only that thing.",
+        "Destroy the resources with terraform destroy when you are done."
+      ],
+      "task": "Build a small VPC with Terraform, check it in the console, then destroy it.",
+      "challenge": "Write down what terraform state is and why it matters.",
+      "quiz": [
+        {
+          "q": "What is Terraform state?",
+          "options": [
+            "A kind of server",
+            "A file that records what Terraform created, so it knows what exists",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "State is Terraform's memory. It records what it built, so it can update or delete exactly those resources."
+        },
+        {
+          "q": "Why is state important?",
+          "options": [
+            "It is faster",
+            "Without it, Terraform cannot tell what it owns or what to change",
+            "It saves money",
+            "It hides data"
+          ],
+          "answer": 1,
+          "explain": "State lets Terraform compare your files with reality and change only what differs."
+        },
+        {
+          "q": "Why destroy test infrastructure?",
+          "options": [
+            "To hide it",
+            "So you stop paying for things you no longer need",
+            "To make it faster",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "Cloud resources cost money while they exist. Destroying test resources stops the bill."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Ansible: Configuration Management",
+      "goal": "Configure servers automatically with Ansible playbooks.",
+      "video": {
+        "youtube_id": "wgQ3rHFTM4E",
+        "title": "What Is Ansible? | How Ansible Works? | Ansible Playbook Tutorial For Beginners | DevOps",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Learn what Ansible does: it configures servers by running tasks from a playbook.",
+        "Install Ansible and write an inventory file with your server's address.",
+        "Write a playbook that installs a web server and starts it.",
+        "Run the playbook and check the web server is running."
+      ],
+      "task": "Write an Ansible playbook that installs and starts a web server on your VM.",
+      "challenge": "Run the playbook twice and notice the second run changes nothing.",
+      "quiz": [
+        {
+          "q": "What is Ansible?",
+          "options": [
+            "A kind of server",
+            "A tool that configures servers by running tasks from playbooks, over SSH",
+            "A database",
+            "A programming language"
+          ],
+          "answer": 1,
+          "explain": "Ansible automates server setup. You describe the desired state in a playbook, and Ansible makes it so."
+        },
+        {
+          "q": "What is a playbook?",
+          "options": [
+            "A kind of server",
+            "A YAML file that lists the tasks Ansible should run on your servers",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A playbook is a list of tasks in YAML, like 'install nginx' and 'start the service'."
+        },
+        {
+          "q": "What does idempotent mean?",
+          "options": [
+            "Fast",
+            "Running a playbook twice gives the same result as running it once",
+            "Slow",
+            "Broken"
+          ],
+          "answer": 1,
+          "explain": "Idempotent means safe to repeat. Ansible only changes what is different, so a second run does nothing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Monitoring with Prometheus and Grafana",
+      "goal": "Watch your app's health with metrics and dashboards.",
+      "video": {
+        "youtube_id": "vS1WRjwr43U",
+        "title": "Deploy a 3-Tier App on AWS EC2: React, Node.js, MySQL",
+        "channel": "Madhukar Reddy"
+      },
+      "steps": [
+        "Learn what a metric is: a number that shows how a system is doing.",
+        "Run Prometheus in a container and point it at your app.",
+        "Run Grafana and connect it to Prometheus.",
+        "Build a dashboard with CPU, memory and request graphs."
+      ],
+      "task": "Build a Grafana dashboard with three graphs for your app.",
+      "challenge": "Set an alert for when CPU goes above 80%.",
+      "quiz": [
+        {
+          "q": "What is Prometheus?",
+          "options": [
+            "A kind of server",
+            "A monitoring system that collects numbers (metrics) from your apps and servers",
+            "A database",
+            "A dashboard"
+          ],
+          "answer": 1,
+          "explain": "Prometheus scrapes metrics from your services and stores them so you can ask questions about them."
+        },
+        {
+          "q": "What is Grafana?",
+          "options": [
+            "A monitoring system",
+            "A tool that draws dashboards and alerts from data sources like Prometheus",
+            "A database",
+            "A kind of server"
+          ],
+          "answer": 1,
+          "explain": "Grafana turns metrics into charts and dashboards, and can alert you when something is wrong."
+        },
+        {
+          "q": "Why monitor your app?",
+          "options": [
+            "To show off",
+            "So you know when it is slow or broken, often before users tell you",
+            "To waste time",
+            "To hide problems"
+          ],
+          "answer": 1,
+          "explain": "Monitoring tells you what is happening. Without it, you only learn about problems from angry users."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Full CI/CD Pipeline to the Cloud",
+      "goal": "Build a complete pipeline: test, build, push an image and deploy to the cloud.",
+      "video": {
+        "youtube_id": "fqMOX6JJhGo",
+        "title": "Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Take your 3-tier app and add a GitHub Actions workflow.",
+        "Make the pipeline run tests, build Docker images and push them to a registry.",
+        "Add a deploy step that updates your Kubernetes cluster or EC2 server.",
+        "Push a change and watch it flow through the pipeline to the live app."
+      ],
+      "task": "Finish the pipeline and deploy a change through it to the live app.",
+      "challenge": "Write down each stage of your pipeline and what it does.",
+      "quiz": [
+        {
+          "q": "What makes a pipeline complete?",
+          "options": [
+            "Many stages",
+            "It tests, builds, ships and deploys code automatically, with checks at each stage",
+            "It is long",
+            "It uses many tools"
+          ],
+          "answer": 1,
+          "explain": "A complete pipeline takes code from commit to live, testing and checking it at every stage, with no manual steps in between."
+        },
+        {
+          "q": "Why push images to a registry?",
+          "options": [
+            "It is faster",
+            "So the deploy step can pull the exact tested image, instead of rebuilding it",
+            "It is cheaper",
+            "It hides code"
+          ],
+          "answer": 1,
+          "explain": "A registry stores the tested image. The deploy step pulls that exact image, so what you tested is what you ship."
+        },
+        {
+          "q": "How do you know the pipeline worked?",
+          "options": [
+            "Trust it",
+            "The live app shows your change, and every stage in the pipeline is green",
+            "It is fast",
+            "It has many stages"
+          ],
+          "answer": 1,
+          "explain": "Green stages plus the change visible in the live app prove the pipeline works end to end."
+        }
+      ],
+      "project": {
+        "title": "Full CI/CD Pipeline to the Cloud",
+        "brief": "Build a complete CI/CD pipeline for your 3-tier app: GitHub Actions runs tests, builds Docker images, pushes them to a registry, and deploys to the cloud. Push a change and watch it flow through the pipeline to the live app.",
+        "checks": [
+          "A GitHub Actions workflow exists in the project.",
+          "The pipeline runs tests on every push.",
+          "The pipeline builds Docker images and pushes them to a registry.",
+          "A deploy step updates the live app.",
+          "A pushed change appears in the live app.",
+          "Every stage of the pipeline is green."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Jenkins Basics",
+      "goal": "Meet Jenkins, the classic CI/CD server, and run a simple job.",
+      "video": {
+        "youtube_id": "9zUHg7xjIqQ",
+        "title": "Learn Docker by Building a Node / Express App",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Learn what Jenkins is: a server that runs your pipelines.",
+        "Run Jenkins in a Docker container on your computer.",
+        "Create a job that checks out your code and runs its tests.",
+        "Trigger the job by hand and read the build log."
+      ],
+      "task": "Run Jenkins in Docker and create a job that tests your project.",
+      "challenge": "Write down the difference between Jenkins and GitHub Actions.",
+      "quiz": [
+        {
+          "q": "What is Jenkins?",
+          "options": [
+            "A kind of test",
+            "An open-source automation server that runs builds, tests and deployments",
+            "A database",
+            "A kind of container"
+          ],
+          "answer": 1,
+          "explain": "Jenkins is a server that runs your pipelines. You define jobs, and Jenkins runs them on triggers or schedules."
+        },
+        {
+          "q": "How is Jenkins different from GitHub Actions?",
+          "options": [
+            "There is no difference",
+            "Jenkins is a server you run yourself, Actions is built into GitHub",
+            "Jenkins is faster",
+            "Actions is free always"
+          ],
+          "answer": 1,
+          "explain": "Jenkins runs on your own server, which you control fully. GitHub Actions runs on GitHub's servers."
+        },
+        {
+          "q": "What is a Jenkinsfile?",
+          "options": [
+            "A kind of test",
+            "A file in your repo that defines the pipeline as code",
+            "A database",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A Jenkinsfile is a pipeline written as code in your repository, so it is versioned with your project."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Deployment Strategies: Blue-Green and Rolling",
+      "goal": "Release safely with blue-green and rolling deployments.",
+      "video": {
+        "youtube_id": "3c-iBn73dDE",
+        "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Learn blue-green: run two copies, switch traffic to the new one, keep the old one ready.",
+        "Learn rolling: replace servers one by one so the app never stops.",
+        "Learn canary: send a small share of users to the new version first.",
+        "Pick a strategy for your app and write down why."
+      ],
+      "task": "Do a rolling update of your app in Kubernetes and watch it stay available.",
+      "challenge": "Write down when you would pick blue-green over rolling.",
+      "quiz": [
+        {
+          "q": "What is a blue-green deployment?",
+          "options": [
+            "A kind of test",
+            "Two identical environments: switch traffic from blue (old) to green (new), and switch back if it fails",
+            "A kind of container",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "Blue-green keeps two copies. You switch traffic to the new one, and if it breaks, you switch back in seconds."
+        },
+        {
+          "q": "What is a rolling deployment?",
+          "options": [
+            "A kind of test",
+            "Replacing servers one by one so the app stays up during the release",
+            "A kind of container",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A rolling update replaces instances gradually. Users never see downtime, because some old copies keep serving."
+        },
+        {
+          "q": "What is a canary deployment?",
+          "options": [
+            "A kind of test",
+            "Sending a small share of users to the new version first to check it is safe",
+            "A kind of bird",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A canary release sends a few users to the new version. If it works, you roll it out to everyone."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Logging and Debugging in Production",
+      "goal": "Find problems in a live app using logs.",
+      "video": {
+        "youtube_id": "s_o8dwzRlu4",
+        "title": "Kubernetes Crash Course for Absolute Beginners [NEW]",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Learn what good logs look like: time, level, message and context.",
+        "Read the logs of your running containers with docker logs.",
+        "Read the logs of a pod with kubectl logs.",
+        "Find one error in the logs and fix the cause."
+      ],
+      "task": "Find and fix one real error in your app's logs.",
+      "challenge": "Add a log line to your app that shows when a request starts and ends.",
+      "quiz": [
+        {
+          "q": "What makes a good log line?",
+          "options": [
+            "It is long",
+            "It has a time, a level (info, warning, error), a clear message and useful context",
+            "It is short",
+            "It has no time"
+          ],
+          "answer": 1,
+          "explain": "A good log line tells you when, how serious, what happened and which request it was about."
+        },
+        {
+          "q": "Why read logs in production?",
+          "options": [
+            "To show off",
+            "Because logs are often the only record of what went wrong",
+            "To waste time",
+            "To hide problems"
+          ],
+          "answer": 1,
+          "explain": "When a live app breaks, logs show what happened. Without them, you are guessing."
+        },
+        {
+          "q": "What is the difference between logs and metrics?",
+          "options": [
+            "There is none",
+            "Logs record events with detail, metrics are numbers over time",
+            "Logs are faster",
+            "Metrics are for errors only"
+          ],
+          "answer": 1,
+          "explain": "Logs tell you what happened in detail. Metrics show trends, like how often errors happen."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Security in DevOps (DevSecOps)",
+      "goal": "Build security into your pipeline instead of bolting it on at the end.",
+      "video": {
+        "youtube_id": "QameL1KtnmI",
+        "title": "DevOps Full Course 2026 | DevOps Tutorial for Beginners | DevOps Training",
+        "channel": "Edureka"
+      },
+      "steps": [
+        "Add a step to your pipeline that scans dependencies for known problems.",
+        "Scan your Docker image for vulnerabilities.",
+        "Check that no secrets (passwords, keys) are in your code or Git history.",
+        "Fix one vulnerability the scan found."
+      ],
+      "task": "Add a security scan to your pipeline and fix the first issue it finds.",
+      "challenge": "Remove a secret from your code and replace it with an environment variable.",
+      "quiz": [
+        {
+          "q": "What is DevSecOps?",
+          "options": [
+            "A kind of firewall",
+            "Building security into every stage of DevOps, instead of checking it only at the end",
+            "A kind of test",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "DevSecOps means security is part of the pipeline: scans and checks run on every change, not just before release."
+        },
+        {
+          "q": "Why scan dependencies?",
+          "options": [
+            "It is faster",
+            "Because your app includes other people's code, and a flaw in one library can break your app",
+            "It is cheaper",
+            "It hides bugs"
+          ],
+          "answer": 1,
+          "explain": "Most apps are mostly libraries. A known flaw in a library is a known flaw in your app."
+        },
+        {
+          "q": "Why must secrets never live in code?",
+          "options": [
+            "It is slower",
+            "Because code is copied, shared and stored, so a secret in code spreads everywhere",
+            "It is hard to read",
+            "It uses memory"
+          ],
+          "answer": 1,
+          "explain": "Code gets cloned, shared and archived. A secret in code is a secret that has already leaked."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Cloud Deploys: EC2 and S3",
+      "goal": "Deploy your app to AWS with EC2 and S3.",
+      "video": {
+        "youtube_id": "lFIlFedch3k",
+        "title": "Learning DevOps: Aws, Terraform, Ansible, Jenkins, and Docker",
+        "channel": "ScottyFullStack"
+      },
+      "steps": [
+        "Launch an EC2 instance and install Docker on it.",
+        "Run your containerised app on the instance.",
+        "Host your frontend files on S3 with static website hosting.",
+        "Open your app in a browser and check it works."
+      ],
+      "task": "Deploy your app to EC2 and S3 and share the link.",
+      "challenge": "Write down the steps to deploy again from scratch.",
+      "quiz": [
+        {
+          "q": "Why deploy to the cloud instead of your laptop?",
+          "options": [
+            "It is faster",
+            "Because a cloud server is always on and reachable by anyone",
+            "It is cheaper always",
+            "It hides code"
+          ],
+          "answer": 1,
+          "explain": "Your laptop sleeps and moves. A cloud server is always on, so your app is always reachable."
+        },
+        {
+          "q": "What runs where in this deploy?",
+          "options": [
+            "Everything on EC2",
+            "The frontend files sit on S3, the backend runs in containers on EC2",
+            "Everything on S3",
+            "Everything on your laptop"
+          ],
+          "answer": 1,
+          "explain": "Static files are cheap on S3. The backend needs a running server, so it goes on EC2."
+        },
+        {
+          "q": "What should you check after deploying?",
+          "options": [
+            "Nothing",
+            "That the site loads, the data flows, and the security group only allows what it should",
+            "The colour only",
+            "The file size"
+          ],
+          "answer": 1,
+          "explain": "After deploying, check the site works, the data loads, and the security group only allows what it should."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Cost and Performance in the Cloud",
+      "goal": "Keep cloud costs low and apps fast.",
+      "video": {
+        "youtube_id": "l5k1ai_GBDE",
+        "title": "Terraform explained in 15 mins | Terraform Tutorial for Beginners",
+        "channel": "TechWorld with Nana"
+      },
+      "steps": [
+        "Find the cost of your running resources in the AWS billing page.",
+        "Right-size an instance: pick the smallest size that still performs well.",
+        "Stop resources you are not using.",
+        "Use a CDN or caching to make your app faster without bigger servers."
+      ],
+      "task": "Check your cloud bill and stop anything you are not using.",
+      "challenge": "Write down three ways to cut the cost of your deployment.",
+      "quiz": [
+        {
+          "q": "What is right-sizing?",
+          "options": [
+            "Buying the biggest server",
+            "Picking the smallest instance that still runs your app well",
+            "Buying many servers",
+            "Never scaling"
+          ],
+          "answer": 1,
+          "explain": "Right-sizing means matching the server to the workload. A server that is mostly idle wastes money."
+        },
+        {
+          "q": "Why is caching useful?",
+          "options": [
+            "It is cheaper always",
+            "Because serving a saved copy is faster and cheaper than computing it again",
+            "It hides data",
+            "It backs up data"
+          ],
+          "answer": 1,
+          "explain": "A cache stores results, so repeated requests get a fast answer without re-running the work."
+        },
+        {
+          "q": "What is the biggest beginner cost mistake?",
+          "options": [
+            "Buying storage",
+            "Leaving servers and services running when nobody uses them",
+            "Using a CDN",
+            "Backing up data"
+          ],
+          "answer": 1,
+          "explain": "Idle servers are the classic surprise bill. Turn off what you do not use."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Incident Response and On-Call Basics",
+      "goal": "Learn what to do when production breaks.",
+      "video": {
+        "youtube_id": "K4FKwdNMDyI",
+        "title": "CI/CD With GitHub Actions Tutorial: Build, Test and Deploy Automatically",
+        "channel": "CodeFlow Daily"
+      },
+      "steps": [
+        "Learn the steps: detect, acknowledge, investigate, fix, review.",
+        "Practise reading an alert and writing a short summary of what is wrong.",
+        "Learn what a runbook is: written steps for fixing common problems.",
+        "Write a runbook for one common problem in your app."
+      ],
+      "task": "Write a runbook for restarting your app when it stops responding.",
+      "challenge": "Practise a fake incident: your app is down. What do you do first?",
+      "quiz": [
+        {
+          "q": "What is an incident?",
+          "options": [
+            "A kind of test",
+            "An event that breaks or degrades a live service",
+            "A kind of bug",
+            "A meeting"
+          ],
+          "answer": 1,
+          "explain": "An incident is when production breaks or slows down enough that users notice."
+        },
+        {
+          "q": "What is a runbook?",
+          "options": [
+            "A kind of log",
+            "Written steps for fixing a known problem, so anyone on call can follow them",
+            "A kind of test",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A runbook is a recipe for fixing a common problem. It means the fix does not depend on one person's memory."
+        },
+        {
+          "q": "What is a postmortem?",
+          "options": [
+            "A kind of test",
+            "A review after an incident that asks what happened, why, and how to stop it happening again",
+            "A kind of log",
+            "A meeting"
+          ],
+          "answer": 1,
+          "explain": "A postmortem looks back at an incident without blame, finds the root cause and fixes it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "DevOps Culture and Teamwork",
+      "goal": "Learn the human side of DevOps: blameless culture and shared ownership.",
+      "video": {
+        "youtube_id": "WCMKDAjm_Is",
+        "title": "3-Tier Web App with Docker | Full Hands-On Tutorial",
+        "channel": "Shubham Gour"
+      },
+      "steps": [
+        "Learn what blameless culture means: fix the system, not the person.",
+        "Learn what shared ownership means: the team owns the code and the running service.",
+        "Practise giving feedback on a teammate's change kindly and specifically.",
+        "Write down one way you will help your team when something breaks."
+      ],
+      "task": "Write a short note on what blameless culture means to you.",
+      "challenge": "Review a teammate's change and leave one helpful comment.",
+      "quiz": [
+        {
+          "q": "What is blameless culture?",
+          "options": [
+            "Nobody is responsible",
+            "When something breaks, the team fixes the system instead of blaming a person",
+            "No rules",
+            "No reviews"
+          ],
+          "answer": 1,
+          "explain": "Blameless culture says mistakes come from systems, not bad people. Fix the system so the mistake cannot happen again."
+        },
+        {
+          "q": "What is shared ownership?",
+          "options": [
+            "One person owns everything",
+            "The whole team owns the code and the live service together",
+            "Nobody owns anything",
+            "Only managers own it"
+          ],
+          "answer": 1,
+          "explain": "Shared ownership means the team builds it and runs it together. No one throws code over the wall."
+        },
+        {
+          "q": "Why does culture matter in DevOps?",
+          "options": [
+            "It does not",
+            "Because tools alone cannot fix a team that does not trust each other or share responsibility",
+            "It is trendy",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "DevOps is mostly about people. Without trust and shared ownership, the tools do not help."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your DevOps Project",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "wgQ3rHFTM4E",
+        "title": "What Is Ansible? | How Ansible Works? | Ansible Playbook Tutorial For Beginners | DevOps",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "List the projects you built and pick the strongest one to finish.",
+        "Write a short plan: the app, the pipeline, the infrastructure and the demo.",
+        "Draw a simple diagram of your pipeline and your infrastructure.",
+        "Practise explaining your project in simple words, as if to a friend."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your project.",
+      "challenge": "Show your pipeline diagram to one person and note their questions.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone DevOps project?",
+          "options": [
+            "Many tools",
+            "A real app with a working pipeline, automated tests, and a live deployment",
+            "Loud colours",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A good capstone shows the full loop: code, tests, pipeline and a live app that updates when you push."
+        },
+        {
+          "q": "Why draw a diagram of your pipeline?",
+          "options": [
+            "To look pretty",
+            "So anyone can see how code flows from commit to live at a glance",
+            "To waste time",
+            "To hide problems"
+          ],
+          "answer": 1,
+          "explain": "A diagram shows the whole flow in one picture: stages, checks and where the code ends up."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the code",
+            "The app, the pipeline stages, the infrastructure and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the app, the pipeline, the infrastructure and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Build a Complete DevOps Pipeline and Deploy a Live App",
+    "brief": "Take a real web app and give it a complete DevOps setup: Git version control with pull requests, a CI/CD pipeline with automated tests and security scans, Docker images, Terraform infrastructure, and a live deployment on AWS that updates automatically when you push code. Present a live demo and a diagram of your pipeline.",
+    "checks": [
+      "The app is under Git with a clear history and pull requests.",
+      "A CI/CD pipeline runs tests on every push.",
+      "The pipeline includes a security scan.",
+      "Docker images are built and stored in a registry.",
+      "Infrastructure is described in Terraform files.",
+      "The app is live on AWS and updates when you push.",
+      "You can present a live demo and explain the pipeline in simple words."
+    ],
+    "deliverables": [
+      "A working web app with a live link.",
+      "A GitHub repository with the code and pipeline files.",
+      "A diagram of the pipeline and infrastructure.",
+      "A README.md explaining the project and how to run it.",
+      "A short demo video or screenshots showing a push flowing to the live app."
+    ]
+  }
+}

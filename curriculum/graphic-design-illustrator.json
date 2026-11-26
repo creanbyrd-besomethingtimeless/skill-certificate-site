@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "graphic-design-illustrator",
+    "title": "Graphic Design with Illustrator",
+    "level": "Beginner to intermediate",
+    "tagline": "Master vector design with Illustrator: logos, illustrations and print-ready artwork.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet Illustrator",
+      "goal": "Open Illustrator and know the main parts.",
+      "video": {
+        "youtube_id": "Ib8UBwu3yGA",
+        "title": "Adobe Illustrator for Beginners | FREE COURSE",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Open Adobe Illustrator on your computer.",
+        "Look at the toolbar on the left. It holds your tools.",
+        "Look at the artboard in the middle. It is your page.",
+        "Open the Layers panel on the right."
+      ],
+      "task": "Open Illustrator and point to the toolbar, the artboard, and the Layers panel.",
+      "challenge": "Close Illustrator and open it again, then make a new document in under one minute.",
+      "quiz": [
+        {
+          "q": "What is a vector shape?",
+          "options": [
+            "A shape made from math points, so it stays sharp at any size",
+            "A photo from a camera",
+            "A type of font",
+            "A kind of paper"
+          ],
+          "answer": 0,
+          "explain": "Vector shapes are made from points and lines. You can make them huge and they stay sharp."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet Illustrator\"?",
+          "options": [
+            "Trace a simple shape with the pen tool.",
+            "Design a full logo for a pretend business.",
+            "Check sizes and colors before printing.",
+            "Open Illustrator and know the main parts."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Open Illustrator and know the main parts."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at the artboard in the middle. It is your page.",
+            "Open the Layers panel on the right.",
+            "Open Adobe Illustrator on your computer.",
+            "Look at the toolbar on the left. It holds your tools."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open Adobe Illustrator on your computer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Draw your first shape",
+      "goal": "Draw a circle, a square, and a triangle.",
+      "video": {
+        "youtube_id": "pHLA7RhERxg",
+        "title": "Adobe Illustrator for Beginners | FREE COMPLETE COURSE",
+        "channel": "Fito"
+      },
+      "steps": [
+        "Pick the Ellipse tool and drag to draw a circle.",
+        "Pick the Rectangle tool and drag to draw a square.",
+        "Pick the Polygon tool and draw a triangle.",
+        "Save the file."
+      ],
+      "task": "Draw a circle, a square, and a triangle on one artboard.",
+      "challenge": "Draw five shapes and line them up in a row.",
+      "quiz": [
+        {
+          "q": "What is the fill of a shape?",
+          "options": [
+            "The color inside the shape",
+            "The line around the shape",
+            "The size of the shape",
+            "The name of the shape"
+          ],
+          "answer": 0,
+          "explain": "Fill is the color inside a shape. Stroke is the line around it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Draw your first shape\"?",
+          "options": [
+            "Draw a character from basic shapes.",
+            "Draw a full scene with shapes.",
+            "Draw a circle, a square, and a triangle.",
+            "Join shapes with Pathfinder."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Draw a circle, a square, and a triangle."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save the file.",
+            "Pick the Ellipse tool and drag to draw a circle.",
+            "Pick the Rectangle tool and drag to draw a square.",
+            "Pick the Polygon tool and draw a triangle."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick the Ellipse tool and drag to draw a circle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Move and resize shapes",
+      "goal": "Move and resize shapes with the selection tool.",
+      "video": {
+        "youtube_id": "a4J5urGDJxQ",
+        "title": "Adobe Illustrator Tutorial for Beginners: A Free 3 Hour Masterclass",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Pick the Selection tool. It looks like a black arrow.",
+        "Click a shape to select it.",
+        "Drag it to move it.",
+        "Drag a corner to make it bigger or smaller."
+      ],
+      "task": "Move and resize three shapes.",
+      "challenge": "Arrange five shapes into a neat row from big to small.",
+      "quiz": [
+        {
+          "q": "What is a vector shape?",
+          "options": [
+            "A shape made from math points, so it stays sharp at any size",
+            "A photo from a camera",
+            "A type of font",
+            "A kind of paper"
+          ],
+          "answer": 0,
+          "explain": "Vector shapes are made from points and lines. You can make them huge and they stay sharp."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Move and resize shapes\"?",
+          "options": [
+            "Design a main logo and a small version.",
+            "Move and resize shapes with the selection tool.",
+            "Design a logo using shapes only.",
+            "Draw a landscape with shapes and gradients."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Move and resize shapes with the selection tool."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick the Selection tool. It looks like a black arrow.",
+            "Click a shape to select it.",
+            "Drag it to move it.",
+            "Drag a corner to make it bigger or smaller."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick the Selection tool. It looks like a black arrow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Change colors",
+      "goal": "Change the fill and the stroke of a shape.",
+      "video": {
+        "youtube_id": "FUiRufl7vUw",
+        "title": "Adobe Illustrator: Illustration for Beginners",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Select a shape.",
+        "Fill is the color inside the shape. Pick a red fill.",
+        "Stroke is the line around the shape. Pick a black stroke.",
+        "Make the stroke thicker."
+      ],
+      "task": "Change the fill and stroke colors of a shape.",
+      "challenge": "Make a shape with a yellow fill and a thick blue stroke.",
+      "quiz": [
+        {
+          "q": "What is the fill of a shape?",
+          "options": [
+            "The color inside the shape",
+            "The line around the shape",
+            "The size of the shape",
+            "The name of the shape"
+          ],
+          "answer": 0,
+          "explain": "Fill is the color inside a shape. Stroke is the line around it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Change colors\"?",
+          "options": [
+            "Change the fill and the stroke of a shape.",
+            "Add a business name to a logo.",
+            "Repeat a shape to make a pattern.",
+            "Design a business card, front and back."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Change the fill and the stroke of a shape."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Fill is the color inside the shape. Pick a red fill.",
+            "Stroke is the line around the shape. Pick a black stroke.",
+            "Make the stroke thicker.",
+            "Select a shape."
+          ],
+          "answer": 3,
+          "explain": "Start with: Select a shape."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Use the pen tool",
+      "goal": "Draw a simple curve with the pen tool.",
+      "video": {
+        "youtube_id": "YycxaAK2MZ4",
+        "title": "Mastering Logo Design in Adobe Illustrator",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Pick the Pen tool from the toolbar.",
+        "Click once to place a point.",
+        "Click and drag to make a curve.",
+        "Click back on the first point to close the shape."
+      ],
+      "task": "Draw a simple curved shape with the pen tool.",
+      "challenge": "Draw a leaf shape with the pen tool.",
+      "quiz": [
+        {
+          "q": "What is a vector shape?",
+          "options": [
+            "A shape made from math points, so it stays sharp at any size",
+            "A photo from a camera",
+            "A type of font",
+            "A kind of paper"
+          ],
+          "answer": 0,
+          "explain": "Vector shapes are made from points and lines. You can make them huge and they stay sharp."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use the pen tool\"?",
+          "options": [
+            "Choose a color palette for a logo.",
+            "Space letters well in a headline.",
+            "Improve the spacing in a logo.",
+            "Draw a simple curve with the pen tool."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Draw a simple curve with the pen tool."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Click and drag to make a curve.",
+            "Click back on the first point to close the shape.",
+            "Pick the Pen tool from the toolbar.",
+            "Click once to place a point."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick the Pen tool from the toolbar."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Add text",
+      "goal": "Type words and change the font.",
+      "video": {
+        "youtube_id": "8kTDnhSgpTc",
+        "title": "Professional Logo Design - Adobe Illustrator CS6",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Pick the Type tool and click on the artboard.",
+        "Type a short word, like your name.",
+        "Pick a bold font from the top menu.",
+        "Make the text bigger."
+      ],
+      "task": "Add your name in big bold text.",
+      "challenge": "Type three words in three different fonts.",
+      "quiz": [
+        {
+          "q": "What is the fill of a shape?",
+          "options": [
+            "The color inside the shape",
+            "The line around the shape",
+            "The size of the shape",
+            "The name of the shape"
+          ],
+          "answer": 0,
+          "explain": "Fill is the color inside a shape. Stroke is the line around it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add text\"?",
+          "options": [
+            "Design a vector poster.",
+            "Follow a brief and deliver a logo.",
+            "Type words and change the font.",
+            "Design a round badge logo."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Type words and change the font."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make the text bigger.",
+            "Pick the Type tool and click on the artboard.",
+            "Type a short word, like your name.",
+            "Pick a bold font from the top menu."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick the Type tool and click on the artboard."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Draw a simple icon set",
+      "goal": "Draw three simple icons.",
+      "video": {
+        "youtube_id": "O609G0YMn4E",
+        "title": "Professional Logo Design - Adobe Illustrator CC (Circuit)",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Pick a theme, like food or travel.",
+        "Draw one icon with basic shapes.",
+        "Draw two more icons in the same style.",
+        "Save the file as an AI file."
+      ],
+      "task": "Draw three icons in the same style.",
+      "challenge": "Draw three icons for a weather app: sun, rain, and cloud.",
+      "quiz": [
+        {
+          "q": "What is a vector shape?",
+          "options": [
+            "A shape made from math points, so it stays sharp at any size",
+            "A photo from a camera",
+            "A type of font",
+            "A kind of paper"
+          ],
+          "answer": 0,
+          "explain": "Vector shapes are made from points and lines. You can make them huge and they stay sharp."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Draw a simple icon set\"?",
+          "options": [
+            "Pick your five best pieces.",
+            "Draw three simple icons.",
+            "Design a full logo for a pretend business.",
+            "Check sizes and colors before printing."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Draw three simple icons."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a theme, like food or travel.",
+            "Draw one icon with basic shapes.",
+            "Draw two more icons in the same style.",
+            "Save the file as an AI file."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a theme, like food or travel."
+        }
+      ],
+      "project": {
+        "title": "Simple Icon Set",
+        "brief": "Draw three simple icons in the same style.",
+        "checks": [
+          "Three icons are drawn",
+          "All three use the same style",
+          "Icons are simple and clear",
+          "Shapes are neat and clean",
+          "File is saved as AI",
+          "Icons would work small"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Pen tool practice",
+      "goal": "Trace a simple shape with the pen tool.",
+      "video": {
+        "youtube_id": "glBTxfggRp4",
+        "title": "Professional Logo Design - Adobe Illustrator CS6 (Task)",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Open a photo of a simple shape, like a cup.",
+        "Place it on your artboard.",
+        "Use the pen tool to trace around it.",
+        "Delete the photo and keep your traced shape."
+      ],
+      "task": "Trace a simple shape with the pen tool.",
+      "challenge": "Trace a leaf, then a cup, then a star.",
+      "quiz": [
+        {
+          "q": "What does the Pen tool do?",
+          "options": [
+            "It lets you draw lines and curves by placing points",
+            "It erases parts of a drawing",
+            "It fills shapes with color",
+            "It saves your file"
+          ],
+          "answer": 0,
+          "explain": "The Pen tool draws lines and curves. You click to place points, and drag to make curves."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Pen tool practice\"?",
+          "options": [
+            "Trace a simple shape with the pen tool.",
+            "Draw a character from basic shapes.",
+            "Draw a full scene with shapes.",
+            "Design a profile picture and a banner."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Trace a simple shape with the pen tool."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Place it on your artboard.",
+            "Use the pen tool to trace around it.",
+            "Delete the photo and keep your traced shape.",
+            "Open a photo of a simple shape, like a cup."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a photo of a simple shape, like a cup."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Combine shapes",
+      "goal": "Join shapes with Pathfinder.",
+      "video": {
+        "youtube_id": "tRIPw_e_wJg",
+        "title": "Professional Logo Design - Adobe Illustrator CS6 (Gsquare)",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Draw two circles that overlap.",
+        "Select both circles.",
+        "Open the Pathfinder panel.",
+        "Click Unite to join them into one shape."
+      ],
+      "task": "Join two overlapping circles into one shape with Pathfinder.",
+      "challenge": "Make a heart shape from a circle and a square.",
+      "quiz": [
+        {
+          "q": "What is the stroke of a shape?",
+          "options": [
+            "The line around the shape",
+            "The color inside the shape",
+            "The shadow under the shape",
+            "The text on the shape"
+          ],
+          "answer": 0,
+          "explain": "Stroke is the outline around a shape. You can change its color and thickness."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Combine shapes\"?",
+          "options": [
+            "Draw a landscape with shapes and gradients.",
+            "Design a main logo and a small version.",
+            "Draw a logo, a card, and a post.",
+            "Join shapes with Pathfinder."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Join shapes with Pathfinder."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open the Pathfinder panel.",
+            "Click Unite to join them into one shape.",
+            "Draw two circles that overlap.",
+            "Select both circles."
+          ],
+          "answer": 2,
+          "explain": "Start with: Draw two circles that overlap."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Make a simple logo",
+      "goal": "Design a logo using shapes only.",
+      "video": {
+        "youtube_id": "cik1Ed9gzLE",
+        "title": "How To Use The Pen Tool in Illustrator | The Complete Guide",
+        "channel": "Logos By Nick"
+      },
+      "steps": [
+        "Pick a business, like a juice shop.",
+        "Draw a simple mark from shapes, like an orange.",
+        "Keep it to one or two colors.",
+        "Save the logo."
+      ],
+      "task": "Design a simple logo from shapes only.",
+      "challenge": "Design three shape-only logos and pick the best.",
+      "quiz": [
+        {
+          "q": "What does the Pen tool do?",
+          "options": [
+            "It lets you draw lines and curves by placing points",
+            "It erases parts of a drawing",
+            "It fills shapes with color",
+            "It saves your file"
+          ],
+          "answer": 0,
+          "explain": "The Pen tool draws lines and curves. You click to place points, and drag to make curves."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a simple logo\"?",
+          "options": [
+            "Design a business card, front and back.",
+            "Pick your best work and say why it works.",
+            "Design a logo using shapes only.",
+            "Repeat a shape to make a pattern."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Design a logo using shapes only."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save the logo.",
+            "Pick a business, like a juice shop.",
+            "Draw a simple mark from shapes, like an orange.",
+            "Keep it to one or two colors."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a business, like a juice shop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Make a logo with text",
+      "goal": "Add a business name to a logo.",
+      "video": {
+        "youtube_id": "JAVfB30vc9E",
+        "title": "Adobe Illustrator: the Pen Tool for Beginners",
+        "channel": "Hey Let's Make Stuff"
+      },
+      "steps": [
+        "Open your shape logo.",
+        "Add the business name under the mark.",
+        "Pick a clean font.",
+        "Line up the text in the middle under the mark."
+      ],
+      "task": "Add a business name under your logo mark.",
+      "challenge": "Make a logo where the text is beside the mark.",
+      "quiz": [
+        {
+          "q": "What is the stroke of a shape?",
+          "options": [
+            "The line around the shape",
+            "The color inside the shape",
+            "The shadow under the shape",
+            "The text on the shape"
+          ],
+          "answer": 0,
+          "explain": "Stroke is the outline around a shape. You can change its color and thickness."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a logo with text\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Add a business name to a logo.",
+            "Space letters well in a headline.",
+            "Improve the spacing in a logo."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Add a business name to a logo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open your shape logo.",
+            "Add the business name under the mark.",
+            "Pick a clean font.",
+            "Line up the text in the middle under the mark."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open your shape logo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Pick colors that work",
+      "goal": "Choose a color palette for a logo.",
+      "video": {
+        "youtube_id": "Ib8UBwu3yGA",
+        "title": "Adobe Illustrator for Beginners | FREE COURSE",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Pick one main color for your logo.",
+        "Pick one lighter color and one darker color.",
+        "Use only these three colors.",
+        "Save the colors as swatches."
+      ],
+      "task": "Pick three colors for a logo and use only those.",
+      "challenge": "Make the same logo in two color palettes and pick the better one.",
+      "quiz": [
+        {
+          "q": "What does the Pen tool do?",
+          "options": [
+            "It lets you draw lines and curves by placing points",
+            "It erases parts of a drawing",
+            "It fills shapes with color",
+            "It saves your file"
+          ],
+          "answer": 0,
+          "explain": "The Pen tool draws lines and curves. You click to place points, and drag to make curves."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Pick colors that work\"?",
+          "options": [
+            "Choose a color palette for a logo.",
+            "Design a vector poster.",
+            "Follow a brief and deliver a logo.",
+            "Open Illustrator and know the main parts."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Choose a color palette for a logo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick one lighter color and one darker color.",
+            "Use only these three colors.",
+            "Save the colors as swatches.",
+            "Pick one main color for your logo."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick one main color for your logo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Make a badge logo",
+      "goal": "Design a round badge logo.",
+      "video": {
+        "youtube_id": "pHLA7RhERxg",
+        "title": "Adobe Illustrator for Beginners | FREE COMPLETE COURSE",
+        "channel": "Fito"
+      },
+      "steps": [
+        "Draw a circle.",
+        "Add text around the inside of the circle.",
+        "Add a small icon in the middle.",
+        "Save the badge logo."
+      ],
+      "task": "Design a round badge logo.",
+      "challenge": "Make a badge logo for a coffee shop.",
+      "quiz": [
+        {
+          "q": "What is the stroke of a shape?",
+          "options": [
+            "The line around the shape",
+            "The color inside the shape",
+            "The shadow under the shape",
+            "The text on the shape"
+          ],
+          "answer": 0,
+          "explain": "Stroke is the outline around a shape. You can change its color and thickness."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a badge logo\"?",
+          "options": [
+            "Check sizes and colors before printing.",
+            "Pick your five best pieces.",
+            "Draw a circle, a square, and a triangle.",
+            "Design a round badge logo."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Design a round badge logo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a small icon in the middle.",
+            "Save the badge logo.",
+            "Draw a circle.",
+            "Add text around the inside of the circle."
+          ],
+          "answer": 2,
+          "explain": "Start with: Draw a circle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Design a logo for a pretend business",
+      "goal": "Design a full logo for a pretend business.",
+      "video": {
+        "youtube_id": "a4J5urGDJxQ",
+        "title": "Adobe Illustrator Tutorial for Beginners: A Free 3 Hour Masterclass",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Pick a business name.",
+        "Draw a mark from shapes.",
+        "Add the business name in a clean font.",
+        "Pick three colors and save the logo."
+      ],
+      "task": "Design a full logo for a pretend business.",
+      "challenge": "Design a logo for a friend's business idea.",
+      "quiz": [
+        {
+          "q": "What does the Pen tool do?",
+          "options": [
+            "It lets you draw lines and curves by placing points",
+            "It erases parts of a drawing",
+            "It fills shapes with color",
+            "It saves your file"
+          ],
+          "answer": 0,
+          "explain": "The Pen tool draws lines and curves. You click to place points, and drag to make curves."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Design a logo for a pretend business\"?",
+          "options": [
+            "Design a profile picture and a banner.",
+            "Move and resize shapes with the selection tool.",
+            "Design a full logo for a pretend business.",
+            "Draw a full scene with shapes."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Design a full logo for a pretend business."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick three colors and save the logo.",
+            "Pick a business name.",
+            "Draw a mark from shapes.",
+            "Add the business name in a clean font."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a business name."
+        }
+      ],
+      "project": {
+        "title": "Logo for a Pretend Business",
+        "brief": "Design a full logo for a pretend business.",
+        "checks": [
+          "Logo has a mark and a name",
+          "Font is clean and easy to read",
+          "Colors are limited to three",
+          "Logo works in one color too",
+          "Spacing is neat",
+          "Saved as AI and PNG"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Draw a simple character",
+      "goal": "Draw a character from basic shapes.",
+      "video": {
+        "youtube_id": "FUiRufl7vUw",
+        "title": "Adobe Illustrator: Illustration for Beginners",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Draw a big circle for the head.",
+        "Add two small circles for eyes.",
+        "Add a smile with a curve.",
+        "Add a body from a rectangle."
+      ],
+      "task": "Draw a simple character from basic shapes.",
+      "challenge": "Draw a character with arms, legs, and hair.",
+      "quiz": [
+        {
+          "q": "What is an artboard?",
+          "options": [
+            "The page you draw on in Illustrator",
+            "A type of brush",
+            "A color palette",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "The artboard is your page. Everything you draw sits on it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Draw a simple character\"?",
+          "options": [
+            "Change the fill and the stroke of a shape.",
+            "Draw a character from basic shapes.",
+            "Design a main logo and a small version.",
+            "Draw a logo, a card, and a post."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Draw a character from basic shapes."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Draw a big circle for the head.",
+            "Add two small circles for eyes.",
+            "Add a smile with a curve.",
+            "Add a body from a rectangle."
+          ],
+          "answer": 0,
+          "explain": "Start with: Draw a big circle for the head."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Draw a landscape",
+      "goal": "Draw a landscape with shapes and gradients.",
+      "video": {
+        "youtube_id": "YycxaAK2MZ4",
+        "title": "Mastering Logo Design in Adobe Illustrator",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Draw a big rectangle for the sky.",
+        "Add a sun from a circle.",
+        "Draw hills from curved shapes.",
+        "Add a gradient to the sky, from blue to light blue."
+      ],
+      "task": "Draw a simple landscape with a sky, sun, and hills.",
+      "challenge": "Draw a night landscape with a moon and stars.",
+      "quiz": [
+        {
+          "q": "Why is Illustrator good for logos?",
+          "options": [
+            "Because logos stay sharp at any size, from a card to a billboard",
+            "Because it is free",
+            "Because it edits photos",
+            "Because it makes videos"
+          ],
+          "answer": 0,
+          "explain": "Logos are vector art. They stay sharp whether they are tiny or huge."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Draw a landscape\"?",
+          "options": [
+            "Draw a landscape with shapes and gradients.",
+            "Design a business card, front and back.",
+            "Pick your best work and say why it works.",
+            "Draw a simple curve with the pen tool."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Draw a landscape with shapes and gradients."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a sun from a circle.",
+            "Draw hills from curved shapes.",
+            "Add a gradient to the sky, from blue to light blue.",
+            "Draw a big rectangle for the sky."
+          ],
+          "answer": 3,
+          "explain": "Start with: Draw a big rectangle for the sky."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Make a pattern",
+      "goal": "Repeat a shape to make a pattern.",
+      "video": {
+        "youtube_id": "8kTDnhSgpTc",
+        "title": "Professional Logo Design - Adobe Illustrator CS6",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Draw a small star.",
+        "Copy it and place the copies in a grid.",
+        "Change the color of every other star.",
+        "Save the pattern."
+      ],
+      "task": "Make a repeating pattern from one shape.",
+      "challenge": "Make a pattern with two shapes, a star and a dot.",
+      "quiz": [
+        {
+          "q": "What is an artboard?",
+          "options": [
+            "The page you draw on in Illustrator",
+            "A type of brush",
+            "A color palette",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "The artboard is your page. Everything you draw sits on it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a pattern\"?",
+          "options": [
+            "Improve the spacing in a logo.",
+            "Write a simple plan to keep getting better.",
+            "Type words and change the font.",
+            "Repeat a shape to make a pattern."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Repeat a shape to make a pattern."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Change the color of every other star.",
+            "Save the pattern.",
+            "Draw a small star.",
+            "Copy it and place the copies in a grid."
+          ],
+          "answer": 2,
+          "explain": "Start with: Draw a small star."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Work with type",
+      "goal": "Space letters well in a headline.",
+      "video": {
+        "youtube_id": "O609G0YMn4E",
+        "title": "Professional Logo Design - Adobe Illustrator CC (Circuit)",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Type a short headline.",
+        "Increase the space between the letters.",
+        "Increase the space between the lines.",
+        "Check that the headline is easy to read."
+      ],
+      "task": "Space the letters in a headline so it reads well.",
+      "challenge": "Make the same headline tight and loose, and compare.",
+      "quiz": [
+        {
+          "q": "Why is Illustrator good for logos?",
+          "options": [
+            "Because logos stay sharp at any size, from a card to a billboard",
+            "Because it is free",
+            "Because it edits photos",
+            "Because it makes videos"
+          ],
+          "answer": 0,
+          "explain": "Logos are vector art. They stay sharp whether they are tiny or huge."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Work with type\"?",
+          "options": [
+            "Open Illustrator and know the main parts.",
+            "Draw three simple icons.",
+            "Space letters well in a headline.",
+            "Follow a brief and deliver a logo."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Space letters well in a headline."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Check that the headline is easy to read.",
+            "Type a short headline.",
+            "Increase the space between the letters.",
+            "Increase the space between the lines."
+          ],
+          "answer": 1,
+          "explain": "Start with: Type a short headline."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Make a poster",
+      "goal": "Design a vector poster.",
+      "video": {
+        "youtube_id": "glBTxfggRp4",
+        "title": "Professional Logo Design - Adobe Illustrator CS6 (Task)",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Pick a topic for a poster.",
+        "Draw one big shape as the main image.",
+        "Add a big headline.",
+        "Add a small line of text at the bottom."
+      ],
+      "task": "Design a poster with a big shape and a headline.",
+      "challenge": "Make a poster for a music event.",
+      "quiz": [
+        {
+          "q": "What is an artboard?",
+          "options": [
+            "The page you draw on in Illustrator",
+            "A type of brush",
+            "A color palette",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "The artboard is your page. Everything you draw sits on it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a poster\"?",
+          "options": [
+            "Trace a simple shape with the pen tool.",
+            "Design a vector poster.",
+            "Pick your five best pieces.",
+            "Draw a circle, a square, and a triangle."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Design a vector poster."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a topic for a poster.",
+            "Draw one big shape as the main image.",
+            "Add a big headline.",
+            "Add a small line of text at the bottom."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a topic for a poster."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Prepare art for print",
+      "goal": "Check sizes and colors before printing.",
+      "video": {
+        "youtube_id": "tRIPw_e_wJg",
+        "title": "Professional Logo Design - Adobe Illustrator CS6 (Gsquare)",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Open a design you made.",
+        "Check the artboard size is right for print.",
+        "Change the color mode to CMYK for print.",
+        "Save a copy as a PDF."
+      ],
+      "task": "Prepare a design for print and save it as a PDF.",
+      "challenge": "Check three designs and fix any that are the wrong size.",
+      "quiz": [
+        {
+          "q": "Why is Illustrator good for logos?",
+          "options": [
+            "Because logos stay sharp at any size, from a card to a billboard",
+            "Because it is free",
+            "Because it edits photos",
+            "Because it makes videos"
+          ],
+          "answer": 0,
+          "explain": "Logos are vector art. They stay sharp whether they are tiny or huge."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Prepare art for print\"?",
+          "options": [
+            "Check sizes and colors before printing.",
+            "Design a profile picture and a banner.",
+            "Move and resize shapes with the selection tool.",
+            "Join shapes with Pathfinder."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Check sizes and colors before printing."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Check the artboard size is right for print.",
+            "Change the color mode to CMYK for print.",
+            "Save a copy as a PDF.",
+            "Open a design you made."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a design you made."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Draw a full illustration",
+      "goal": "Draw a full scene with shapes.",
+      "video": {
+        "youtube_id": "cik1Ed9gzLE",
+        "title": "How To Use The Pen Tool in Illustrator | The Complete Guide",
+        "channel": "Logos By Nick"
+      },
+      "steps": [
+        "Pick a scene, like a park.",
+        "Draw the sky, ground, and trees.",
+        "Add a person or an animal.",
+        "Add small details like birds or flowers."
+      ],
+      "task": "Draw a full illustration of a park scene.",
+      "challenge": "Draw a full illustration of a beach scene.",
+      "quiz": [
+        {
+          "q": "What is an artboard?",
+          "options": [
+            "The page you draw on in Illustrator",
+            "A type of brush",
+            "A color palette",
+            "A file format"
+          ],
+          "answer": 0,
+          "explain": "The artboard is your page. Everything you draw sits on it."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Draw a full illustration\"?",
+          "options": [
+            "Draw a logo, a card, and a post.",
+            "Change the fill and the stroke of a shape.",
+            "Design a logo using shapes only.",
+            "Draw a full scene with shapes."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Draw a full scene with shapes."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a person or an animal.",
+            "Add small details like birds or flowers.",
+            "Pick a scene, like a park.",
+            "Draw the sky, ground, and trees."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a scene, like a park."
+        }
+      ],
+      "project": {
+        "title": "Full Illustration",
+        "brief": "Draw a full scene with shapes.",
+        "checks": [
+          "Scene has a background",
+          "Has at least one character or animal",
+          "Uses at least three colors",
+          "Shapes are clean and neat",
+          "Has small details",
+          "Saved as AI and PNG"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Make a logo set",
+      "goal": "Design a main logo and a small version.",
+      "video": {
+        "youtube_id": "JAVfB30vc9E",
+        "title": "Adobe Illustrator: the Pen Tool for Beginners",
+        "channel": "Hey Let's Make Stuff"
+      },
+      "steps": [
+        "Open your best logo.",
+        "Make a copy for the main version.",
+        "Make a small, simple version for tiny sizes.",
+        "Save both versions in one file."
+      ],
+      "task": "Make a main logo and a small version.",
+      "challenge": "Make a logo in color, in black, and in white.",
+      "quiz": [
+        {
+          "q": "What is CMYK?",
+          "options": [
+            "A color mode made for printing",
+            "A color mode made for screens",
+            "A type of font",
+            "A file size"
+          ],
+          "answer": 0,
+          "explain": "CMYK is the color mode for print. Screens use RGB. Use CMYK when your work will be printed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a logo set\"?",
+          "options": [
+            "Draw a simple curve with the pen tool.",
+            "Add a business name to a logo.",
+            "Design a main logo and a small version.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Design a main logo and a small version."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save both versions in one file.",
+            "Open your best logo.",
+            "Make a copy for the main version.",
+            "Make a small, simple version for tiny sizes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open your best logo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Design a business card",
+      "goal": "Design a business card, front and back.",
+      "video": {
+        "youtube_id": "Ib8UBwu3yGA",
+        "title": "Adobe Illustrator for Beginners | FREE COURSE",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Make an artboard in business card size.",
+        "Front: add a name, job, and phone number.",
+        "Back: add the logo big in the middle.",
+        "Save both sides as a PDF."
+      ],
+      "task": "Design a business card, front and back.",
+      "challenge": "Make a business card for a pretend designer.",
+      "quiz": [
+        {
+          "q": "What does Pathfinder do?",
+          "options": [
+            "It joins, cuts, or combines shapes into new shapes",
+            "It finds lost files",
+            "It changes fonts",
+            "It prints your work"
+          ],
+          "answer": 0,
+          "explain": "Pathfinder is a tool that joins shapes together or cuts one shape out of another."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Design a business card\"?",
+          "options": [
+            "Choose a color palette for a logo.",
+            "Design a business card, front and back.",
+            "Write a simple plan to keep getting better.",
+            "Type words and change the font."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Design a business card, front and back."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make an artboard in business card size.",
+            "Front: add a name, job, and phone number.",
+            "Back: add the logo big in the middle.",
+            "Save both sides as a PDF."
+          ],
+          "answer": 0,
+          "explain": "Start with: Make an artboard in business card size."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Fix a logo",
+      "goal": "Improve the spacing in a logo.",
+      "video": {
+        "youtube_id": "pHLA7RhERxg",
+        "title": "Adobe Illustrator for Beginners | FREE COMPLETE COURSE",
+        "channel": "Fito"
+      },
+      "steps": [
+        "Open a logo you made.",
+        "Check the space between the mark and the text.",
+        "Fix any letters that are too close.",
+        "Save the improved logo."
+      ],
+      "task": "Fix the spacing in one of your logos.",
+      "challenge": "Fix a logo that looks crowded and one that looks empty.",
+      "quiz": [
+        {
+          "q": "What is CMYK?",
+          "options": [
+            "A color mode made for printing",
+            "A color mode made for screens",
+            "A type of font",
+            "A file size"
+          ],
+          "answer": 0,
+          "explain": "CMYK is the color mode for print. Screens use RGB. Use CMYK when your work will be printed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix a logo\"?",
+          "options": [
+            "Improve the spacing in a logo.",
+            "Open Illustrator and know the main parts.",
+            "Draw three simple icons.",
+            "Design a round badge logo."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Improve the spacing in a logo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Check the space between the mark and the text.",
+            "Fix any letters that are too close.",
+            "Save the improved logo.",
+            "Open a logo you made."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a logo you made."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Design for a client",
+      "goal": "Follow a brief and deliver a logo.",
+      "video": {
+        "youtube_id": "a4J5urGDJxQ",
+        "title": "Adobe Illustrator Tutorial for Beginners: A Free 3 Hour Masterclass",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Read this brief: a logo for a bakery called Sweet Crumb.",
+        "Use warm colors like brown and cream.",
+        "Make the logo work in one color too.",
+        "Save the logo as AI and PNG."
+      ],
+      "task": "Design a logo from a short client brief.",
+      "challenge": "Ask a friend to write you a logo brief and follow it.",
+      "quiz": [
+        {
+          "q": "What does Pathfinder do?",
+          "options": [
+            "It joins, cuts, or combines shapes into new shapes",
+            "It finds lost files",
+            "It changes fonts",
+            "It prints your work"
+          ],
+          "answer": 0,
+          "explain": "Pathfinder is a tool that joins shapes together or cuts one shape out of another."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Design for a client\"?",
+          "options": [
+            "Draw a circle, a square, and a triangle.",
+            "Trace a simple shape with the pen tool.",
+            "Design a full logo for a pretend business.",
+            "Follow a brief and deliver a logo."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Follow a brief and deliver a logo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make the logo work in one color too.",
+            "Save the logo as AI and PNG.",
+            "Read this brief: a logo for a bakery called Sweet Crumb.",
+            "Use warm colors like brown and cream."
+          ],
+          "answer": 2,
+          "explain": "Start with: Read this brief: a logo for a bakery called Sweet Crumb."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Build a portfolio",
+      "goal": "Pick your five best pieces.",
+      "video": {
+        "youtube_id": "FUiRufl7vUw",
+        "title": "Adobe Illustrator: Illustration for Beginners",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Look at all the work you made this month.",
+        "Pick the five best pieces.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each piece."
+      ],
+      "task": "Pick your five best pieces and save them in a portfolio.",
+      "challenge": "Show your portfolio to a friend and ask which piece is best.",
+      "quiz": [
+        {
+          "q": "What is CMYK?",
+          "options": [
+            "A color mode made for printing",
+            "A color mode made for screens",
+            "A type of font",
+            "A file size"
+          ],
+          "answer": 0,
+          "explain": "CMYK is the color mode for print. Screens use RGB. Use CMYK when your work will be printed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build a portfolio\"?",
+          "options": [
+            "Join shapes with Pathfinder.",
+            "Draw a character from basic shapes.",
+            "Pick your five best pieces.",
+            "Move and resize shapes with the selection tool."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Pick your five best pieces."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about each piece.",
+            "Look at all the work you made this month.",
+            "Pick the five best pieces.",
+            "Save them in a folder called Portfolio."
+          ],
+          "answer": 1,
+          "explain": "Start with: Look at all the work you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Make a social media kit",
+      "goal": "Design a profile picture and a banner.",
+      "video": {
+        "youtube_id": "YycxaAK2MZ4",
+        "title": "Mastering Logo Design in Adobe Illustrator",
+        "channel": "Envato Tuts+"
+      },
+      "steps": [
+        "Design a square profile picture with your logo.",
+        "Design a wide banner with the same colors.",
+        "Check both look like one brand.",
+        "Save both files."
+      ],
+      "task": "Design a profile picture and a banner in the same style.",
+      "challenge": "Make a social kit for a YouTube channel.",
+      "quiz": [
+        {
+          "q": "What does Pathfinder do?",
+          "options": [
+            "It joins, cuts, or combines shapes into new shapes",
+            "It finds lost files",
+            "It changes fonts",
+            "It prints your work"
+          ],
+          "answer": 0,
+          "explain": "Pathfinder is a tool that joins shapes together or cuts one shape out of another."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a social media kit\"?",
+          "options": [
+            "Draw a landscape with shapes and gradients.",
+            "Design a profile picture and a banner.",
+            "Change the fill and the stroke of a shape.",
+            "Design a logo using shapes only."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Design a profile picture and a banner."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Design a square profile picture with your logo.",
+            "Design a wide banner with the same colors.",
+            "Check both look like one brand.",
+            "Save both files."
+          ],
+          "answer": 0,
+          "explain": "Start with: Design a square profile picture with your logo."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Draw a full brand set",
+      "goal": "Draw a logo, a card, and a post.",
+      "video": {
+        "youtube_id": "8kTDnhSgpTc",
+        "title": "Professional Logo Design - Adobe Illustrator CS6",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Pick a business.",
+        "Design its logo.",
+        "Design a business card with the logo.",
+        "Design a social post with the logo."
+      ],
+      "task": "Draw a full brand set: logo, card, and post.",
+      "challenge": "Present your brand set as if you are showing it to a client.",
+      "quiz": [
+        {
+          "q": "What is CMYK?",
+          "options": [
+            "A color mode made for printing",
+            "A color mode made for screens",
+            "A type of font",
+            "A file size"
+          ],
+          "answer": 0,
+          "explain": "CMYK is the color mode for print. Screens use RGB. Use CMYK when your work will be printed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Draw a full brand set\"?",
+          "options": [
+            "Draw a logo, a card, and a post.",
+            "Draw a simple curve with the pen tool.",
+            "Add a business name to a logo.",
+            "Repeat a shape to make a pattern."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Draw a logo, a card, and a post."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Design its logo.",
+            "Design a business card with the logo.",
+            "Design a social post with the logo.",
+            "Pick a business."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "O609G0YMn4E",
+        "title": "Professional Logo Design - Adobe Illustrator CC (Circuit)",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three pieces.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three pieces and write why each one works.",
+      "challenge": "Show your best piece to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What does Pathfinder do?",
+          "options": [
+            "It joins, cuts, or combines shapes into new shapes",
+            "It finds lost files",
+            "It changes fonts",
+            "It prints your work"
+          ],
+          "answer": 0,
+          "explain": "Pathfinder is a tool that joins shapes together or cuts one shape out of another."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Type words and change the font.",
+            "Choose a color palette for a logo.",
+            "Space letters well in a headline.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three pieces."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "glBTxfggRp4",
+        "title": "Professional Logo Design - Adobe Illustrator CS6 (Task)",
+        "channel": "EduRev"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your Illustrator skills.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is CMYK?",
+          "options": [
+            "A color mode made for printing",
+            "A color mode made for screens",
+            "A type of font",
+            "A file size"
+          ],
+          "answer": 0,
+          "explain": "CMYK is the color mode for print. Screens use RGB. Use CMYK when your work will be printed."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Design a round badge logo.",
+            "Design a vector poster.",
+            "Write a simple plan to keep getting better.",
+            "Draw three simple icons."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Brand Set for a Real Business",
+    "brief": "Design a full brand set for a real or pretend business: a logo with a main and small version, a business card, a social media kit, and a poster.",
+    "checks": [
+      "Logo is simple and works at any size",
+      "Small logo version is clear",
+      "Business card has correct details",
+      "Social kit matches the brand",
+      "Poster is bold and easy to read",
+      "No spelling mistakes",
+      "All files are saved in one folder"
+    ],
+    "deliverables": [
+      "Main logo and small logo",
+      "Business card front and back",
+      "Profile picture and banner",
+      "One poster",
+      "A short note on the colors and fonts used"
+    ]
+  }
+}

@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "home-workout-and-bodyweight",
+    "title": "Home Workout and Bodyweight",
+    "level": "Beginner",
+    "tagline": "Get strong at home with no gym: push-ups, squats and full routines.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Your first home workout",
+      "goal": "Do a short, easy full-body workout at home with no tools.",
+      "video": {
+        "youtube_id": "jVeu7W0uTgg",
+        "title": "10 MIN FULL BODY WORKOUT 🔥 For Beginners | No Equipment",
+        "channel": "My Fit Routine"
+      },
+      "steps": [
+        "Clear a small space on the floor, about the size of a mat.",
+        "Watch the video and follow the warm-up moves.",
+        "Do the workout at your own pace and rest when you need to.",
+        "Drink water and write down how you felt after."
+      ],
+      "task": "Finish the 10-minute workout and write how you felt.",
+      "challenge": "Do the workout again tomorrow and try one more rep of each move.",
+      "quiz": [
+        {
+          "q": "What do you need for a home workout?",
+          "options": [
+            "A full gym",
+            "A small clear space and your body",
+            "Heavy machines",
+            "Expensive shoes"
+          ],
+          "answer": 1,
+          "explain": "Your body and a little space are enough to start."
+        },
+        {
+          "q": "What should you do if a move feels too hard?",
+          "options": [
+            "Push through the pain",
+            "Quit for the week",
+            "Slow down or rest, then try an easier version",
+            "Skip every workout"
+          ],
+          "answer": 2,
+          "explain": "Slowing down or using an easier version keeps you safe."
+        },
+        {
+          "q": "Why drink water during a workout?",
+          "options": [
+            "Water is only for show",
+            "Water makes you weak",
+            "You never need water",
+            "Water replaces what you lose in sweat"
+          ],
+          "answer": 3,
+          "explain": "Drinking water keeps you cool and strong."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Warm up before you move",
+      "goal": "Learn a simple warm-up that wakes up your body.",
+      "video": {
+        "youtube_id": "2we2gPU7Zys",
+        "title": "30-Minute FULL BODY Bodyweight Workout",
+        "channel": "Nourish Move Love"
+      },
+      "steps": [
+        "March in place for 1 minute.",
+        "Roll your shoulders back 10 times, then forward 10 times.",
+        "Swing each leg gently forward and back 5 times.",
+        "Reach your arms up high and breathe in, then relax."
+      ],
+      "task": "Do this warm-up before every workout this week.",
+      "challenge": "Teach the warm-up to a family member from memory.",
+      "quiz": [
+        {
+          "q": "Why warm up first?",
+          "options": [
+            "It makes you tired",
+            "It is only for fun",
+            "It gets blood moving and helps you avoid injury",
+            "It replaces the workout"
+          ],
+          "answer": 2,
+          "explain": "A warm-up wakes up muscles so they move safely."
+        },
+        {
+          "q": "How long should a warm-up take?",
+          "options": [
+            "30 seconds",
+            "30 minutes",
+            "No time",
+            "About 5 minutes"
+          ],
+          "answer": 3,
+          "explain": "Five minutes is enough to get the body ready."
+        },
+        {
+          "q": "What is a good warm-up move?",
+          "options": [
+            "Marching in place",
+            "A heavy lift",
+            "A full sprint",
+            "A long run"
+          ],
+          "answer": 0,
+          "explain": "Marching is gentle and raises your heart rate a little."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Learn the squat",
+      "goal": "Learn a safe bodyweight squat you can do at home.",
+      "video": {
+        "youtube_id": "qvhHhDNjtxM",
+        "title": "Beginner Bodyweight Workout",
+        "channel": "Nerd Fitness"
+      },
+      "steps": [
+        "Stand with feet a little wider than your hips.",
+        "Push your hips back like you are sitting in a chair.",
+        "Keep your chest up and your knees pointing with your toes.",
+        "Stand back up and press through your whole foot."
+      ],
+      "task": "Do 3 sets of 8 slow squats.",
+      "challenge": "Do 10 squats with a 3-second slow way down.",
+      "quiz": [
+        {
+          "q": "Where should your knees point in a squat?",
+          "options": [
+            "In toward each other",
+            "Out to the sides",
+            "It does not matter",
+            "The same way as your toes"
+          ],
+          "answer": 3,
+          "explain": "Knees following the toes keeps the knee safe."
+        },
+        {
+          "q": "What should your chest do?",
+          "options": [
+            "Stay up tall",
+            "Fold down to your knees",
+            "Twist to the side",
+            "Lean far back"
+          ],
+          "answer": 0,
+          "explain": "A tall chest keeps your back safe."
+        },
+        {
+          "q": "How do you stand back up?",
+          "options": [
+            "Jump up fast",
+            "Press through your whole foot",
+            "Pull with your arms",
+            "Lean forward hard"
+          ],
+          "answer": 1,
+          "explain": "Pressing through the foot gives a strong, steady stand."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Learn the push-up",
+      "goal": "Learn a push-up and the easy versions that build strength.",
+      "video": {
+        "youtube_id": "qQ96oXp5RTU",
+        "title": "Beginner Bodyweight Warm-Up",
+        "channel": "Nerd Fitness"
+      },
+      "steps": [
+        "Start with a wall push-up: hands on a wall, body straight.",
+        "Bend your elbows and bring your chest to the wall, then push back.",
+        "Try a knee push-up on the floor with a straight body.",
+        "Keep your belly tight so your hips do not sag."
+      ],
+      "task": "Do 3 sets of 5 wall push-ups.",
+      "challenge": "Try one knee push-up on the floor with good form.",
+      "quiz": [
+        {
+          "q": "What should your body look like in a push-up?",
+          "options": [
+            "One straight line from head to knees or toes",
+            "Hips high in the air",
+            "Belly sagging down",
+            "Head hanging low"
+          ],
+          "answer": 0,
+          "explain": "A straight line keeps your back safe."
+        },
+        {
+          "q": "What is a good first push-up?",
+          "options": [
+            "A one-arm push-up",
+            "A wall push-up",
+            "A clapping push-up",
+            "A push-up with a bag on your back"
+          ],
+          "answer": 1,
+          "explain": "A wall push-up is easy and safe to learn."
+        },
+        {
+          "q": "Where do your hands go?",
+          "options": [
+            "Far out wide",
+            "Behind your back",
+            "Under your shoulders",
+            "Under your belly"
+          ],
+          "answer": 2,
+          "explain": "Hands under the shoulders give a strong push."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Train your legs at home",
+      "goal": "Build leg strength with squats and lunges.",
+      "video": {
+        "youtube_id": "8V-ZUMvQKr0",
+        "title": "How to Do a Proper Push-Up",
+        "channel": "Nerd Fitness"
+      },
+      "steps": [
+        "Do 10 squats, slow and steady.",
+        "Try a lunge: step forward, bend both knees, then step back.",
+        "Do 6 lunges on each leg.",
+        "Rest 1 minute, then repeat the round once more."
+      ],
+      "task": "Do 2 rounds of 10 squats and 6 lunges per leg.",
+      "challenge": "Hold the bottom of a squat for 5 seconds, 3 times.",
+      "quiz": [
+        {
+          "q": "What is a lunge?",
+          "options": [
+            "A jump in the air",
+            "A step forward with both knees bent",
+            "A run in place",
+            "A type of stretch only"
+          ],
+          "answer": 1,
+          "explain": "A lunge steps forward and bends both knees."
+        },
+        {
+          "q": "What muscles do squats and lunges work?",
+          "options": [
+            "Only the arms",
+            "Only the neck",
+            "Legs and bottom",
+            "Only the toes"
+          ],
+          "answer": 2,
+          "explain": "Squats and lunges build the legs and glutes."
+        },
+        {
+          "q": "How long should you rest between rounds?",
+          "options": [
+            "10 minutes",
+            "No rest",
+            "1 hour",
+            "About 1 minute"
+          ],
+          "answer": 3,
+          "explain": "A minute of rest lets you catch your breath."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Train your core at home",
+      "goal": "Learn a simple plank and other core moves.",
+      "video": {
+        "youtube_id": "cB0cOX7gePg",
+        "title": "How to Do a Proper Bodyweight Squat",
+        "channel": "Nerd Fitness"
+      },
+      "steps": [
+        "Learn the plank: forearms on the floor, body straight, hold 10 seconds.",
+        "Try a dead bug: lie on your back, arms up, knees up, lower one arm and the other leg.",
+        "Do a glute bridge: lie down, knees bent, lift your hips up.",
+        "Breathe normally during each move."
+      ],
+      "task": "Hold a plank for 20 seconds, 3 times.",
+      "challenge": "Do 10 glute bridges with a 2-second hold at the top.",
+      "quiz": [
+        {
+          "q": "What is your core?",
+          "options": [
+            "Only your arms",
+            "Only your legs",
+            "The muscles around your belly and lower back",
+            "A gym tool"
+          ],
+          "answer": 2,
+          "explain": "Core muscles hold your body steady."
+        },
+        {
+          "q": "What should your body look like in a plank?",
+          "options": [
+            "Hips high up",
+            "Belly sagging",
+            "Head hanging down",
+            "One straight line from head to heels"
+          ],
+          "answer": 3,
+          "explain": "A straight line keeps the plank safe and useful."
+        },
+        {
+          "q": "Why breathe during a plank?",
+          "options": [
+            "Breathing keeps you calm and steady",
+            "Breathing makes it harder",
+            "You should hold your breath",
+            "Breathing does not matter"
+          ],
+          "answer": 0,
+          "explain": "Steady breathing stops dizziness and keeps you strong."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your first full-body routine",
+      "goal": "Put week 1 together: build your own full-body routine.",
+      "video": {
+        "youtube_id": "utpNCkeFX4A",
+        "title": "15-Minute Beginner Full Body Workout | No Equipment, No Jumping",
+        "channel": "StrongHERFIT"
+      },
+      "steps": [
+        "Pick one move for legs, one for pushing, one for the middle.",
+        "Write your routine: 2 sets of 8 to 10 reps of each move.",
+        "Add your warm-up at the start.",
+        "Do the whole routine and write how it felt."
+      ],
+      "task": "Do your full routine and record your reps.",
+      "challenge": "Do the routine without looking at your notes.",
+      "quiz": [
+        {
+          "q": "What should a full-body routine have?",
+          "options": [
+            "Only arm moves",
+            "Only running",
+            "Only stretching",
+            "Moves for legs, pushing and core"
+          ],
+          "answer": 3,
+          "explain": "A full-body routine works the whole body."
+        },
+        {
+          "q": "How many sets suit a beginner?",
+          "options": [
+            "Two sets",
+            "Ten sets",
+            "No sets",
+            "One set of 100"
+          ],
+          "answer": 0,
+          "explain": "Two sets is enough to learn and get stronger."
+        },
+        {
+          "q": "What should you add at the start?",
+          "options": [
+            "A heavy lift",
+            "A warm-up",
+            "A sprint",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "A warm-up gets the body ready."
+        }
+      ],
+      "project": {
+        "title": "Your first full-body routine",
+        "brief": "Build your own full-body routine with 3 moves, a warm-up, and 2 sets of each move, then do it and record your reps.",
+        "checks": [
+          "Routine has a warm-up",
+          "Routine has leg, push and core moves",
+          "Routine has 2 sets of each move",
+          "Did the whole routine",
+          "Recorded reps for each move",
+          "Wrote how it felt"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Rest and stretch day",
+      "goal": "Learn why rest days help and how to stretch gently.",
+      "video": {
+        "youtube_id": "mUns8O4YL5M",
+        "title": "Total Body Strength Training Without Weights for Women",
+        "channel": "Joanna Soh"
+      },
+      "steps": [
+        "Take a slow walk for 10 minutes.",
+        "Stretch your legs: hold each stretch for 20 seconds.",
+        "Stretch your arms and chest gently.",
+        "Write down how your body feels today."
+      ],
+      "task": "Take a 10-minute walk and stretch for 5 minutes.",
+      "challenge": "Hold each stretch for 30 seconds instead of 20.",
+      "quiz": [
+        {
+          "q": "Why take a rest day?",
+          "options": [
+            "Muscles repair and grow stronger on rest days",
+            "Rest days waste time",
+            "Rest makes you weaker",
+            "You should never rest"
+          ],
+          "answer": 0,
+          "explain": "Rest is when the body repairs and gets stronger."
+        },
+        {
+          "q": "How long should you hold a gentle stretch?",
+          "options": [
+            "1 second",
+            "About 20 seconds",
+            "5 minutes",
+            "No time"
+          ],
+          "answer": 1,
+          "explain": "Twenty seconds lets the muscle relax."
+        },
+        {
+          "q": "What is a good rest-day activity?",
+          "options": [
+            "A heavy workout",
+            "A sprint",
+            "A slow walk",
+            "Lifting heavy boxes"
+          ],
+          "answer": 2,
+          "explain": "A slow walk keeps you moving without strain."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Push-ups: get stronger step by step",
+      "goal": "Move from wall push-ups to knee push-ups.",
+      "video": {
+        "youtube_id": "YJVtJMIQmkU",
+        "title": "30-Minute Bodyweight Abs Workout",
+        "channel": "SELF"
+      },
+      "steps": [
+        "Do 10 wall push-ups with a straight body.",
+        "Try 5 knee push-ups on the floor.",
+        "Rest 1 minute between sets.",
+        "Write down how many you did with good form."
+      ],
+      "task": "Do 3 sets of 5 knee push-ups.",
+      "challenge": "Try one full push-up from your toes.",
+      "quiz": [
+        {
+          "q": "What comes after wall push-ups?",
+          "options": [
+            "One-arm push-ups",
+            "Knee push-ups on the floor",
+            "Clapping push-ups",
+            "Push-ups with weight"
+          ],
+          "answer": 1,
+          "explain": "Knee push-ups are the next easy step."
+        },
+        {
+          "q": "Why keep good form?",
+          "options": [
+            "Form does not matter",
+            "Bad form is faster",
+            "Good form keeps you safe and works the right muscles",
+            "Form is only for show"
+          ],
+          "answer": 2,
+          "explain": "Good form protects you and builds real strength."
+        },
+        {
+          "q": "What should you do if your hips sag?",
+          "options": [
+            "Keep going anyway",
+            "Hold your breath",
+            "Arch your back more",
+            "Rest and try again with fewer reps"
+          ],
+          "answer": 3,
+          "explain": "Resting and doing fewer reps keeps form safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Squats: go a little deeper",
+      "goal": "Make your squat stronger by going a little lower.",
+      "video": {
+        "youtube_id": "yVWy7_9BeGM",
+        "title": "15-Minute Beginner Bodyweight HIIT",
+        "channel": "Athlean-XX for Women"
+      },
+      "steps": [
+        "Do 10 squats to a chair: sit down lightly, then stand up.",
+        "Try 10 squats without the chair.",
+        "Keep your heels on the floor the whole time.",
+        "Write down how deep you could go with good form."
+      ],
+      "task": "Do 3 sets of 10 chair squats.",
+      "challenge": "Hold a squat at the bottom for 3 seconds, 5 times.",
+      "quiz": [
+        {
+          "q": "Why use a chair for squats?",
+          "options": [
+            "It makes squats harder",
+            "It is only for old people",
+            "It helps you learn depth safely",
+            "It is not useful"
+          ],
+          "answer": 2,
+          "explain": "A chair gives you a safe target to sit toward."
+        },
+        {
+          "q": "What should your heels do in a squat?",
+          "options": [
+            "Lift up high",
+            "Turn inward",
+            "It does not matter",
+            "Stay on the floor"
+          ],
+          "answer": 3,
+          "explain": "Heels on the floor keep you balanced and safe."
+        },
+        {
+          "q": "How deep should a beginner squat?",
+          "options": [
+            "As deep as you can with good form",
+            "As deep as possible no matter what",
+            "Barely bending the knees",
+            "Until it hurts"
+          ],
+          "answer": 0,
+          "explain": "Depth with good form is the safe goal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Add a little cardio at home",
+      "goal": "Raise your heart rate with easy moves and no jumping.",
+      "video": {
+        "youtube_id": "8RCHBbG2OPo",
+        "title": "30-Minute No-Equipment Bodyweight Bootcamp",
+        "channel": "POPSUGAR Fitness"
+      },
+      "steps": [
+        "March in place for 1 minute.",
+        "Do step touches side to side for 1 minute.",
+        "Do slow knee lifts for 1 minute.",
+        "Rest and check your breathing: you should be able to talk."
+      ],
+      "task": "Do 3 rounds of 1 minute marching, 1 minute step touches.",
+      "challenge": "Add arm swings to your marching.",
+      "quiz": [
+        {
+          "q": "What is cardio?",
+          "options": [
+            "Lifting heavy weights",
+            "Sleeping",
+            "Stretching only",
+            "Exercise that makes your heart beat faster"
+          ],
+          "answer": 3,
+          "explain": "Cardio trains your heart and lungs."
+        },
+        {
+          "q": "How should you feel during easy cardio?",
+          "options": [
+            "Warm and breathing faster, but still able to talk",
+            "Out of breath and dizzy",
+            "Asleep",
+            "In pain"
+          ],
+          "answer": 0,
+          "explain": "You should be warm but still able to talk."
+        },
+        {
+          "q": "What is a good no-jump cardio move?",
+          "options": [
+            "Jumping jacks",
+            "Marching in place",
+            "Burpees",
+            "Box jumps"
+          ],
+          "answer": 1,
+          "explain": "Marching raises the heart rate without impact."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Build a 20-minute workout",
+      "goal": "Put your moves into a 20-minute routine.",
+      "video": {
+        "youtube_id": "rbUl0AyD1Dk",
+        "title": "30 DAY HOME WORKOUT CHALLENGE",
+        "channel": "MadFit"
+      },
+      "steps": [
+        "Warm up for 5 minutes.",
+        "Do 3 rounds: 10 squats, 5 push-ups, 10 glute bridges, 20-second plank.",
+        "Rest 1 minute between rounds.",
+        "Cool down with slow walking and stretching."
+      ],
+      "task": "Finish the 20-minute workout and record your numbers.",
+      "challenge": "Add 2 reps to each move next time.",
+      "quiz": [
+        {
+          "q": "How long should a beginner workout be?",
+          "options": [
+            "About 20 minutes",
+            "2 hours",
+            "2 minutes",
+            "All day"
+          ],
+          "answer": 0,
+          "explain": "Twenty minutes is enough to train and recover."
+        },
+        {
+          "q": "What should you do between rounds?",
+          "options": [
+            "Run fast",
+            "Rest for about 1 minute",
+            "Lift heavy",
+            "Stop for the day"
+          ],
+          "answer": 1,
+          "explain": "A short rest lets you keep good form."
+        },
+        {
+          "q": "What should you do at the end?",
+          "options": [
+            "Stop suddenly",
+            "Sprint home",
+            "Cool down with slow walking and stretching",
+            "Eat a big meal at once"
+          ],
+          "answer": 2,
+          "explain": "A cool-down helps the body slow down gently."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Learn the lunge well",
+      "goal": "Practise lunges with balance and good form.",
+      "video": {
+        "youtube_id": "ojJ5Rv_TGFw",
+        "title": "20-Min Low Impact Cardio Workout | No Jumping, No Equipment",
+        "channel": "Yes2Next"
+      },
+      "steps": [
+        "Stand tall and step forward with one foot.",
+        "Bend both knees until the back knee nearly touches the floor.",
+        "Push back to standing through your front foot.",
+        "Hold a chair for balance if you need it."
+      ],
+      "task": "Do 3 sets of 6 lunges per leg.",
+      "challenge": "Do lunges without holding anything.",
+      "quiz": [
+        {
+          "q": "What should your front knee do in a lunge?",
+          "options": [
+            "Fall inward",
+            "Point the same way as your toes",
+            "Go far past your toes",
+            "Lock straight"
+          ],
+          "answer": 1,
+          "explain": "The knee should follow the toes for safety."
+        },
+        {
+          "q": "What can you hold for balance?",
+          "options": [
+            "A heavy weight",
+            "Nothing is allowed",
+            "A chair or a wall",
+            "A rope"
+          ],
+          "answer": 2,
+          "explain": "A chair helps you stay steady while you learn."
+        },
+        {
+          "q": "How do you come back up from a lunge?",
+          "options": [
+            "Jump up",
+            "Pull with your arms",
+            "Fall backward",
+            "Push through your front foot"
+          ],
+          "answer": 3,
+          "explain": "Pushing through the front foot brings you up strong."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your 20-minute routine",
+      "goal": "Put week 2 together: write and test your own 20-minute routine.",
+      "video": {
+        "youtube_id": "cmpsDMHoB34",
+        "title": "Beginner Workout at Home for Women Day 1",
+        "channel": "RP Fitness Club"
+      },
+      "steps": [
+        "Write your routine: warm-up, 4 moves, cool-down.",
+        "Do the routine and time each part.",
+        "Write down your reps for each move.",
+        "Change one thing to make it a little harder next week."
+      ],
+      "task": "Write your routine and do it from start to finish.",
+      "challenge": "Do the routine in under 20 minutes.",
+      "quiz": [
+        {
+          "q": "What should your routine include?",
+          "options": [
+            "Only hard moves",
+            "Only stretching",
+            "Warm-up, main moves and cool-down",
+            "Only talking"
+          ],
+          "answer": 2,
+          "explain": "A full routine warms up, works and cools down."
+        },
+        {
+          "q": "Why write down your reps?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "So you can see progress next week"
+          ],
+          "answer": 3,
+          "explain": "Written reps show you getting stronger."
+        },
+        {
+          "q": "How do you make next week harder?",
+          "options": [
+            "Add a few reps or one more round",
+            "Double everything",
+            "Change all the moves",
+            "Make it shorter"
+          ],
+          "answer": 0,
+          "explain": "Small adds keep progress safe."
+        }
+      ],
+      "project": {
+        "title": "Your 20-minute routine",
+        "brief": "Write and test your own 20-minute routine with 4 moves, a warm-up and a cool-down, and record your numbers.",
+        "checks": [
+          "Routine has a warm-up and cool-down",
+          "Routine has 4 moves",
+          "Routine takes about 20 minutes",
+          "Did the whole routine",
+          "Recorded reps and time",
+          "Named one way to make it harder"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Try a gentle HIIT round",
+      "goal": "Learn what HIIT is and try a slow, easy version.",
+      "video": {
+        "youtube_id": "ZZ-K5sC6ed8",
+        "title": "10-Minute Family Workout",
+        "channel": "Nourish Move Love"
+      },
+      "steps": [
+        "HIIT means short bursts of work with rest in between.",
+        "Work for 20 seconds, rest for 40 seconds.",
+        "Try: march fast, squats, step touches, knee lifts.",
+        "Do 4 rounds and rest well between them."
+      ],
+      "task": "Do 4 rounds of 20 seconds work, 40 seconds rest.",
+      "challenge": "Try 30 seconds work, 30 seconds rest.",
+      "quiz": [
+        {
+          "q": "What does HIIT mean?",
+          "options": [
+            "Lifting heavy all day",
+            "Running for hours",
+            "Sleeping a lot",
+            "Short bursts of work with rest in between"
+          ],
+          "answer": 3,
+          "explain": "HIIT mixes short hard work with rest."
+        },
+        {
+          "q": "How long should a beginner work in HIIT?",
+          "options": [
+            "About 20 seconds, then rest",
+            "5 minutes non-stop",
+            "1 second",
+            "1 hour"
+          ],
+          "answer": 0,
+          "explain": "Short work with long rest suits a beginner."
+        },
+        {
+          "q": "What should you do if you feel dizzy?",
+          "options": [
+            "Keep going",
+            "Stop, sit down and drink water",
+            "Run faster",
+            "Hold your breath"
+          ],
+          "answer": 1,
+          "explain": "Stopping when dizzy keeps you safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Train your back at home",
+      "goal": "Learn simple moves for your back with no tools.",
+      "video": {
+        "youtube_id": "jVeu7W0uTgg",
+        "title": "10 MIN FULL BODY WORKOUT 🔥 For Beginners | No Equipment",
+        "channel": "My Fit Routine"
+      },
+      "steps": [
+        "Try a superman: lie face down, lift arms and legs a little.",
+        "Try a table row: hold a sturdy table edge and pull your chest up.",
+        "Do a slow bird dog: on hands and knees, stretch one arm and the other leg.",
+        "Keep your back flat and breathe normally."
+      ],
+      "task": "Do 2 sets of 8 supermans and 8 bird dogs per side.",
+      "challenge": "Hold each superman for 3 seconds.",
+      "quiz": [
+        {
+          "q": "What does a superman work?",
+          "options": [
+            "Your lower back and bottom",
+            "Only your toes",
+            "Only your neck",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A superman trains the back of the body."
+        },
+        {
+          "q": "What is a bird dog?",
+          "options": [
+            "A jump",
+            "On hands and knees, stretch one arm and the other leg",
+            "A run",
+            "A dance move"
+          ],
+          "answer": 1,
+          "explain": "A bird dog trains balance and the core."
+        },
+        {
+          "q": "Why train your back?",
+          "options": [
+            "It is not needed",
+            "It makes you shorter",
+            "A strong back helps you stand tall and avoid pain",
+            "It is only for athletes"
+          ],
+          "answer": 2,
+          "explain": "Back strength supports good posture."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Train your arms at home",
+      "goal": "Build arm strength with push-ups and chair dips.",
+      "video": {
+        "youtube_id": "2we2gPU7Zys",
+        "title": "30-Minute FULL BODY Bodyweight Workout",
+        "channel": "Nourish Move Love"
+      },
+      "steps": [
+        "Do 5 wall push-ups.",
+        "Try a chair dip: hands on a chair behind you, bend your elbows.",
+        "Do 5 chair dips slowly.",
+        "Rest 1 minute and repeat once."
+      ],
+      "task": "Do 2 sets of 5 push-ups and 5 chair dips.",
+      "challenge": "Try a knee push-up instead of a wall push-up.",
+      "quiz": [
+        {
+          "q": "What is a chair dip?",
+          "options": [
+            "A jump off a chair",
+            "Hands on a chair, bend elbows to lower the body",
+            "Sitting on a chair",
+            "A dance move"
+          ],
+          "answer": 1,
+          "explain": "A chair dip trains the back of the arms."
+        },
+        {
+          "q": "What should you check in a chair dip?",
+          "options": [
+            "That the chair is pretty",
+            "Nothing",
+            "That the chair is sturdy and will not move",
+            "That the chair is high"
+          ],
+          "answer": 2,
+          "explain": "A sturdy chair keeps you safe."
+        },
+        {
+          "q": "What do push-ups train?",
+          "options": [
+            "Only the legs",
+            "Only the toes",
+            "Nothing",
+            "Chest, shoulders and arms"
+          ],
+          "answer": 3,
+          "explain": "Push-ups train the pushing muscles."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Make a weekly plan",
+      "goal": "Plan your workouts for the whole week.",
+      "video": {
+        "youtube_id": "qvhHhDNjtxM",
+        "title": "Beginner Bodyweight Workout",
+        "channel": "Nerd Fitness"
+      },
+      "steps": [
+        "Pick 3 days to train and 4 days to rest or walk.",
+        "Write which moves you will do each day.",
+        "Put the plan where you can see it.",
+        "Tick off each workout when you finish it."
+      ],
+      "task": "Write your weekly plan and stick it on a wall.",
+      "challenge": "Tick off all 3 workouts this week.",
+      "quiz": [
+        {
+          "q": "How many training days suit a beginner?",
+          "options": [
+            "7 days a week",
+            "1 day a month",
+            "About 3 days a week",
+            "Every day with no rest"
+          ],
+          "answer": 2,
+          "explain": "Three days gives growth and rest."
+        },
+        {
+          "q": "Why write your plan down?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "So you can see it and stay on track"
+          ],
+          "answer": 3,
+          "explain": "A written plan is easy to follow."
+        },
+        {
+          "q": "What should you do on rest days?",
+          "options": [
+            "Walk gently or stretch",
+            "Train hard",
+            "Sit all day",
+            "Eat nothing"
+          ],
+          "answer": 0,
+          "explain": "Gentle movement on rest days helps recovery."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Test yourself: how far have you come?",
+      "goal": "Test your strength with simple counts.",
+      "video": {
+        "youtube_id": "qQ96oXp5RTU",
+        "title": "Beginner Bodyweight Warm-Up",
+        "channel": "Nerd Fitness"
+      },
+      "steps": [
+        "Count how many squats you can do in 1 minute.",
+        "Count how many push-ups you can do with good form.",
+        "Time how long you can hold a plank.",
+        "Write all three numbers down."
+      ],
+      "task": "Record your 3 test numbers today.",
+      "challenge": "Beat one of your numbers by next week.",
+      "quiz": [
+        {
+          "q": "Why test yourself?",
+          "options": [
+            "To show off",
+            "It is not needed",
+            "To make you tired",
+            "To see how much stronger you have become"
+          ],
+          "answer": 3,
+          "explain": "Tests show your progress in numbers."
+        },
+        {
+          "q": "What should you do if a number is lower?",
+          "options": [
+            "Keep training and test again in 2 weeks",
+            "Quit",
+            "Train twice as hard at once",
+            "Never test again"
+          ],
+          "answer": 0,
+          "explain": "Numbers go up and down; steady training brings them up."
+        },
+        {
+          "q": "How often should you test?",
+          "options": [
+            "Every day",
+            "Every 2 to 4 weeks",
+            "Once a year",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "A few weeks apart shows real change."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Try a longer workout",
+      "goal": "Do a 30-minute workout with more rounds.",
+      "video": {
+        "youtube_id": "8V-ZUMvQKr0",
+        "title": "How to Do a Proper Push-Up",
+        "channel": "Nerd Fitness"
+      },
+      "steps": [
+        "Warm up for 5 minutes.",
+        "Do 4 rounds: 10 squats, 8 push-ups, 10 lunges, 10 glute bridges, 20-second plank.",
+        "Rest 1 minute between rounds.",
+        "Cool down for 5 minutes."
+      ],
+      "task": "Finish the 30-minute workout.",
+      "challenge": "Add one more round next time.",
+      "quiz": [
+        {
+          "q": "How do you make a workout longer safely?",
+          "options": [
+            "Add one more round",
+            "Double everything at once",
+            "Skip rest",
+            "Go as fast as you can"
+          ],
+          "answer": 0,
+          "explain": "One more round is a safe small step."
+        },
+        {
+          "q": "What should you do if you get very tired?",
+          "options": [
+            "Keep going at full speed",
+            "Rest longer and slow down",
+            "Stop for the week",
+            "Hold your breath"
+          ],
+          "answer": 1,
+          "explain": "Resting longer keeps form safe."
+        },
+        {
+          "q": "What is a cool-down?",
+          "options": [
+            "A sprint",
+            "Heavy lifting",
+            "Slow moves that help the body calm down",
+            "A cold shower only"
+          ],
+          "answer": 2,
+          "explain": "A cool-down slows the heart rate gently."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your 30-minute routine",
+      "goal": "Put week 3 together: build and test your own 30-minute routine.",
+      "video": {
+        "youtube_id": "cB0cOX7gePg",
+        "title": "How to Do a Proper Bodyweight Squat",
+        "channel": "Nerd Fitness"
+      },
+      "steps": [
+        "Write a 30-minute routine with 5 moves.",
+        "Do the routine and time it.",
+        "Write down your reps and how you felt.",
+        "Fix anything that felt too hard or too easy."
+      ],
+      "task": "Write and complete your 30-minute routine.",
+      "challenge": "Do the routine twice this week.",
+      "quiz": [
+        {
+          "q": "What should a 30-minute routine have?",
+          "options": [
+            "Only hard moves",
+            "Warm-up, 5 moves and a cool-down",
+            "Only stretching",
+            "Only running"
+          ],
+          "answer": 1,
+          "explain": "A full routine warms up, works and cools down."
+        },
+        {
+          "q": "How do you know if a move is too hard?",
+          "options": [
+            "It feels easy",
+            "It takes 10 seconds",
+            "You cannot keep good form",
+            "It is new"
+          ],
+          "answer": 2,
+          "explain": "Losing form means the move is too hard right now."
+        },
+        {
+          "q": "What should you fix after testing?",
+          "options": [
+            "Nothing",
+            "Everything",
+            "Only the music",
+            "Anything too hard or too easy"
+          ],
+          "answer": 3,
+          "explain": "Small fixes make the routine fit you better."
+        }
+      ],
+      "project": {
+        "title": "Your 30-minute routine",
+        "brief": "Build and test your own 30-minute routine with 5 moves, good form and steady breathing.",
+        "checks": [
+          "Routine has a warm-up and cool-down",
+          "Routine has 5 moves",
+          "Routine takes about 30 minutes",
+          "Kept good form the whole time",
+          "Breathed steadily",
+          "Wrote what to fix"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Balance and control",
+      "goal": "Practise standing on one leg and moving with control.",
+      "video": {
+        "youtube_id": "utpNCkeFX4A",
+        "title": "15-Minute Beginner Full Body Workout | No Equipment, No Jumping",
+        "channel": "StrongHERFIT"
+      },
+      "steps": [
+        "Stand on one leg for 20 seconds, then switch.",
+        "Try a slow step-up on a low step.",
+        "Do 5 slow step-ups per leg.",
+        "Keep your eyes forward and breathe normally."
+      ],
+      "task": "Stand on each leg for 30 seconds.",
+      "challenge": "Do step-ups without holding anything.",
+      "quiz": [
+        {
+          "q": "Why train balance?",
+          "options": [
+            "It is not needed",
+            "It makes you dizzy",
+            "Balance stops falls and helps every move",
+            "It is only for dancers"
+          ],
+          "answer": 2,
+          "explain": "Good balance keeps you steady and safe."
+        },
+        {
+          "q": "What is a step-up?",
+          "options": [
+            "A jump",
+            "A run",
+            "A dance move",
+            "Stepping up onto a low step and back down"
+          ],
+          "answer": 3,
+          "explain": "A step-up trains legs and balance."
+        },
+        {
+          "q": "What should your eyes do during balance work?",
+          "options": [
+            "Look forward at one spot",
+            "Look down at your feet",
+            "Close them",
+            "Look around fast"
+          ],
+          "answer": 0,
+          "explain": "Looking at one spot helps you stay steady."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Full-body circuit day",
+      "goal": "Do a circuit: move from one exercise to the next with short rests.",
+      "video": {
+        "youtube_id": "mUns8O4YL5M",
+        "title": "Total Body Strength Training Without Weights for Women",
+        "channel": "Joanna Soh"
+      },
+      "steps": [
+        "A circuit means doing moves one after another.",
+        "Do: 10 squats, 8 push-ups, 10 lunges, 10 bridges, 20-second plank.",
+        "Rest 1 minute, then repeat 3 times.",
+        "Write down your total time."
+      ],
+      "task": "Complete 3 rounds of the circuit.",
+      "challenge": "Beat your total time by 1 minute next time.",
+      "quiz": [
+        {
+          "q": "What is a circuit?",
+          "options": [
+            "One move only",
+            "A long run",
+            "A nap",
+            "Moves done one after another with short rests"
+          ],
+          "answer": 3,
+          "explain": "A circuit links moves together in a round."
+        },
+        {
+          "q": "How long should you rest between rounds?",
+          "options": [
+            "About 1 minute",
+            "10 minutes",
+            "No rest",
+            "1 hour"
+          ],
+          "answer": 0,
+          "explain": "A minute of rest keeps the circuit safe."
+        },
+        {
+          "q": "Why write down your time?",
+          "options": [
+            "To fill paper",
+            "So you can see yourself getting faster and fitter",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "Your time shows progress."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Fix common mistakes",
+      "goal": "Learn the 3 most common home-workout mistakes and how to fix them.",
+      "video": {
+        "youtube_id": "YJVtJMIQmkU",
+        "title": "30-Minute Bodyweight Abs Workout",
+        "channel": "SELF"
+      },
+      "steps": [
+        "Mistake 1: rushing. Fix: move slowly and count to 3.",
+        "Mistake 2: holding your breath. Fix: breathe out on the hard part.",
+        "Mistake 3: skipping the warm-up. Fix: always warm up 5 minutes.",
+        "Pick one mistake you make and fix it today."
+      ],
+      "task": "Pick one mistake and fix it in today's workout.",
+      "challenge": "Teach a friend the 3 mistakes and their fixes.",
+      "quiz": [
+        {
+          "q": "Why is rushing a mistake?",
+          "options": [
+            "Rushing breaks your form and can hurt you",
+            "Rushing is faster",
+            "Rushing is good",
+            "Rushing builds muscle faster"
+          ],
+          "answer": 0,
+          "explain": "Slow, controlled moves are safer and work better."
+        },
+        {
+          "q": "When should you breathe out?",
+          "options": [
+            "On the easy part",
+            "On the hard part of the move",
+            "Never",
+            "Only at the end"
+          ],
+          "answer": 1,
+          "explain": "Breathing out on the hard part keeps you steady."
+        },
+        {
+          "q": "Why never skip the warm-up?",
+          "options": [
+            "It wastes time",
+            "It is only for show",
+            "It gets the body ready and lowers injury risk",
+            "It makes you weak"
+          ],
+          "answer": 2,
+          "explain": "A warm-up prepares muscles and joints."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Train with a friend",
+      "goal": "Work out with a friend and help each other.",
+      "video": {
+        "youtube_id": "yVWy7_9BeGM",
+        "title": "15-Minute Beginner Bodyweight HIIT",
+        "channel": "Athlean-XX for Women"
+      },
+      "steps": [
+        "Invite a friend to do your routine with you.",
+        "Take turns watching each other's form.",
+        "Cheer each other on after each round.",
+        "Write down what your friend did well."
+      ],
+      "task": "Do a workout with a friend this week.",
+      "challenge": "Teach your friend your favourite move.",
+      "quiz": [
+        {
+          "q": "Why train with a friend?",
+          "options": [
+            "It is slower",
+            "Friends keep you going and make it fun",
+            "It is not useful",
+            "It makes you weaker"
+          ],
+          "answer": 1,
+          "explain": "A friend adds fun and keeps you honest."
+        },
+        {
+          "q": "What should you watch in a friend's form?",
+          "options": [
+            "Their clothes",
+            "Their speed",
+            "Knees, back and straight body",
+            "Their phone"
+          ],
+          "answer": 2,
+          "explain": "Watching form helps your friend stay safe."
+        },
+        {
+          "q": "What should you say after a round?",
+          "options": [
+            "Nothing",
+            "Only what was wrong",
+            "A joke about them",
+            "Kind words about what went well"
+          ],
+          "answer": 3,
+          "explain": "Kind words keep a friend coming back."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Make your routine harder, the safe way",
+      "goal": "Learn 3 safe ways to make moves harder.",
+      "video": {
+        "youtube_id": "8RCHBbG2OPo",
+        "title": "30-Minute No-Equipment Bodyweight Bootcamp",
+        "channel": "POPSUGAR Fitness"
+      },
+      "steps": [
+        "Add reps: do 12 instead of 10.",
+        "Slow down: take 3 seconds to lower down.",
+        "Add a hold: pause for 2 seconds at the hard part.",
+        "Pick one way and use it this week."
+      ],
+      "task": "Pick one way to make your routine harder.",
+      "challenge": "Try all 3 ways on different moves.",
+      "quiz": [
+        {
+          "q": "What is a safe way to make a move harder?",
+          "options": [
+            "Double everything at once",
+            "Use bad form",
+            "Add a few reps or slow down",
+            "Skip rest"
+          ],
+          "answer": 2,
+          "explain": "Small adds keep progress safe."
+        },
+        {
+          "q": "Why slow down a move?",
+          "options": [
+            "Slow is boring",
+            "Slow is wrong",
+            "Slow wastes time",
+            "Slow moves work the muscle more and keep form safe"
+          ],
+          "answer": 3,
+          "explain": "Slow, controlled moves build strength safely."
+        },
+        {
+          "q": "What is a hold?",
+          "options": [
+            "Pausing still at the hard part of a move",
+            "A rest day",
+            "A type of weight",
+            "A jump"
+          ],
+          "answer": 0,
+          "explain": "A hold makes the muscle work without moving."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Stretch and move well",
+      "goal": "Learn a 10-minute stretch routine for the whole body.",
+      "video": {
+        "youtube_id": "rbUl0AyD1Dk",
+        "title": "30 DAY HOME WORKOUT CHALLENGE",
+        "channel": "MadFit"
+      },
+      "steps": [
+        "Stretch your legs, hips, chest and shoulders.",
+        "Hold each stretch for 20 to 30 seconds.",
+        "Breathe slowly and never bounce.",
+        "Write down which stretch felt best."
+      ],
+      "task": "Do the 10-minute stretch routine.",
+      "challenge": "Hold each stretch for 30 seconds.",
+      "quiz": [
+        {
+          "q": "Why stretch after a workout?",
+          "options": [
+            "It makes you stronger at once",
+            "It is only for fun",
+            "It replaces rest",
+            "It helps muscles relax and feel less stiff"
+          ],
+          "answer": 3,
+          "explain": "Stretching after a workout eases stiffness."
+        },
+        {
+          "q": "Why not bounce in a stretch?",
+          "options": [
+            "Bouncing can pull a muscle",
+            "Bouncing is faster",
+            "Bouncing is fun",
+            "Bouncing is correct"
+          ],
+          "answer": 0,
+          "explain": "Slow, still stretches are safe."
+        },
+        {
+          "q": "How should you breathe while stretching?",
+          "options": [
+            "Hold your breath",
+            "Slowly and deeply",
+            "Breathe fast",
+            "Do not breathe"
+          ],
+          "answer": 1,
+          "explain": "Slow breathing helps the muscle relax."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final routine.",
+      "video": {
+        "youtube_id": "ojJ5Rv_TGFw",
+        "title": "20-Min Low Impact Cardio Workout | No Jumping, No Equipment",
+        "channel": "Yes2Next"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 moves you can now do well.",
+        "Practise your capstone routine once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 moves you can do well now.",
+      "challenge": "Do your capstone routine from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final project that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new gym"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own gym clothes",
+            "You can do a full routine safely from memory",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "Doing a full routine well shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone routine once more, then rest.",
+      "video": {
+        "youtube_id": "cmpsDMHoB34",
+        "title": "Beginner Workout at Home for Women Day 1",
+        "channel": "RP Fitness Club"
+      },
+      "steps": [
+        "Do your capstone routine one more time.",
+        "Time each part and check your form.",
+        "Fix anything that felt rushed.",
+        "Rest well tonight and drink water."
+      ],
+      "task": "Run your capstone routine and time each part.",
+      "challenge": "Fix one thing that felt rushed.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your shoes",
+            "Your form, your timing and your breathing",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking form, timing and breathing makes the routine smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Train hard all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well and drink water"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you perform your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: your 30-minute routine",
+      "goal": "Show what you learned: do your full 30-minute routine with good form.",
+      "video": {
+        "youtube_id": "ZZ-K5sC6ed8",
+        "title": "10-Minute Family Workout",
+        "channel": "Nourish Move Love"
+      },
+      "steps": [
+        "Warm up for 5 minutes.",
+        "Do your full routine: 5 moves, good form, steady breathing.",
+        "Cool down and stretch for 5 minutes.",
+        "Write a short report: what you did and how it felt."
+      ],
+      "task": "Complete your capstone routine and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What is the first step of your capstone?",
+          "options": [
+            "A heavy lift",
+            "A sprint",
+            "A 5-minute warm-up",
+            "No warm-up"
+          ],
+          "answer": 2,
+          "explain": "A warm-up gets the body ready and safe."
+        },
+        {
+          "q": "What matters most in the capstone?",
+          "options": [
+            "Going as fast as you can",
+            "Doing the most reps",
+            "Skipping rest",
+            "Good form and steady breathing"
+          ],
+          "answer": 3,
+          "explain": "Good form and breathing show real skill."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and how it felt",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your 30-minute home routine",
+    "brief": "Perform your own 30-minute full-body home routine from start to finish: warm-up, 5 moves with good form, cool-down, and a short written report.",
+    "checks": [
+      "Warmed up for 5 minutes",
+      "Did all 5 moves with good form",
+      "Breathed steadily throughout",
+      "Finished in about 30 minutes",
+      "Cooled down and stretched",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A written routine plan",
+      "A list of your test numbers",
+      "A short video or notes from the routine",
+      "A weekly training plan",
+      "A written report"
+    ]
+  }
+}

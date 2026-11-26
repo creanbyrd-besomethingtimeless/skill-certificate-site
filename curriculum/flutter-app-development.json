@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "flutter-app-development",
+    "title": "Mobile App Development with Flutter",
+    "level": "Beginner to intermediate",
+    "tagline": "Build a real Android and iPhone app with Flutter and Dart, and run it on your own phone.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Flutter Is and How to Install It",
+      "goal": "Understand what Flutter is and install it on your computer.",
+      "video": {
+        "youtube_id": "VPvVD8t02U8",
+        "title": "Flutter Course for Beginners – 37-hour Mobile App Development Tutorial",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Go to flutter.dev and download Flutter for your computer.",
+        "Install Android Studio, which gives you the Android emulator.",
+        "Run flutter doctor in the terminal and fix any item it marks with a cross.",
+        "Create a test project with flutter create hello_app and run it."
+      ],
+      "task": "Get Flutter installed and run the starter app on an emulator or your phone.",
+      "challenge": "Run flutter doctor again and make every item show a tick.",
+      "quiz": [
+        {
+          "q": "What is Flutter?",
+          "options": [
+            "A website builder",
+            "A toolkit for building apps for Android, iPhone, web and desktop from one codebase",
+            "A database",
+            "A programming language"
+          ],
+          "answer": 1,
+          "explain": "Flutter lets you write one app in Dart and run it on Android, iOS, web and desktop."
+        },
+        {
+          "q": "What language does Flutter use?",
+          "options": [
+            "JavaScript",
+            "Dart",
+            "Python",
+            "Java"
+          ],
+          "answer": 1,
+          "explain": "Flutter apps are written in Dart, a language made by Google."
+        },
+        {
+          "q": "What does flutter doctor do?",
+          "options": [
+            "It fixes your code",
+            "It checks your setup and tells you what is missing",
+            "It builds your app",
+            "It deletes old projects"
+          ],
+          "answer": 1,
+          "explain": "flutter doctor checks your Flutter setup and lists anything you still need to install."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your First Flutter App",
+      "goal": "Run the starter app and change its text to make it yours.",
+      "video": {
+        "youtube_id": "V3cFlraeiVI",
+        "title": "Flutter Full Course 2026",
+        "channel": "MindMajix"
+      },
+      "steps": [
+        "Open the starter project in VS Code and find lib/main.dart.",
+        "Change the app title and the counter text to your own words.",
+        "Save the file and watch hot reload update the app instantly.",
+        "Change the theme colour and see it update without restarting."
+      ],
+      "task": "Change the starter app into a 'Hello, my name is...' app with your name and a favourite colour.",
+      "challenge": "Add a second text line that shows a short sentence about you.",
+      "quiz": [
+        {
+          "q": "What is hot reload?",
+          "options": [
+            "Restarting the whole app",
+            "Updating the running app instantly when you save a change, keeping its state",
+            "Deleting the app",
+            "A kind of test"
+          ],
+          "answer": 1,
+          "explain": "Hot reload injects your saved changes into the running app without losing where you are."
+        },
+        {
+          "q": "Where does a Flutter app start?",
+          "options": [
+            "In the Android folder",
+            "In lib/main.dart, in the main() function",
+            "In the iOS folder",
+            "In pubspec.yaml"
+          ],
+          "answer": 1,
+          "explain": "Every Flutter app starts in lib/main.dart, where main() runs your app."
+        },
+        {
+          "q": "What is a widget?",
+          "options": [
+            "A kind of file",
+            "A building block of the user interface, like a button, text or row",
+            "A database table",
+            "A server"
+          ],
+          "answer": 1,
+          "explain": "In Flutter everything on screen is a widget: text, buttons, rows, images and more."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Buttons and Input",
+      "goal": "Let users tap buttons and type into text fields.",
+      "video": {
+        "youtube_id": "NXmhQgg4L3U",
+        "title": "Flutter Full Course 2026 - App Development Course For Beginners",
+        "channel": "Codynn"
+      },
+      "steps": [
+        "Add an ElevatedButton that prints a message when tapped.",
+        "Add a TextField and read what the user types with a controller.",
+        "Show what the user typed in a Text widget below the field.",
+        "Add a floating action button that increases a counter."
+      ],
+      "task": "Build a greeting app: type a name, tap a button, and the app greets you by name.",
+      "challenge": "Add a second button that clears the text field.",
+      "quiz": [
+        {
+          "q": "What does onPressed do?",
+          "options": [
+            "It styles the button",
+            "It runs your code when the button is tapped",
+            "It hides the button",
+            "It loads the page"
+          ],
+          "answer": 1,
+          "explain": "onPressed is the function that runs when the user taps the button."
+        },
+        {
+          "q": "What is a TextEditingController?",
+          "options": [
+            "A style",
+            "An object that reads and controls what is typed in a text field",
+            "A button",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A controller lets you read the text in a field and clear or change it from code."
+        },
+        {
+          "q": "What is the difference between ElevatedButton and TextButton?",
+          "options": [
+            "There is none",
+            "ElevatedButton has a raised background, TextButton is flat text",
+            "TextButton cannot be tapped",
+            "ElevatedButton is only for iOS"
+          ],
+          "answer": 1,
+          "explain": "ElevatedButton is a raised button with a background. TextButton is flat text that acts as a button."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "State: Stateful Widgets",
+      "goal": "Make your app remember things with stateful widgets.",
+      "video": {
+        "youtube_id": "DsTMhjaRQws",
+        "title": "Flutter Course for Absolute Beginners",
+        "channel": "dbestech"
+      },
+      "steps": [
+        "Change a widget from StatelessWidget to StatefulWidget.",
+        "Add a counter variable in the state class.",
+        "Call setState() when the button is tapped to update the counter.",
+        "Watch the screen update without restarting the app."
+      ],
+      "task": "Build a score counter app with +1 and -1 buttons and a reset button.",
+      "challenge": "Make a light switch app: a button toggles a light bulb icon between on and off.",
+      "quiz": [
+        {
+          "q": "What is the difference between stateless and stateful widgets?",
+          "options": [
+            "There is none",
+            "Stateless widgets never change. Stateful widgets hold data that can change and update the screen",
+            "Stateless widgets are faster always",
+            "Stateful widgets cannot show text"
+          ],
+          "answer": 1,
+          "explain": "A stateless widget is fixed once built. A stateful widget holds state that can change over time."
+        },
+        {
+          "q": "What does setState() do?",
+          "options": [
+            "It deletes the widget",
+            "It tells Flutter the state changed so it rebuilds the widget with new values",
+            "It saves to a file",
+            "It closes the app"
+          ],
+          "answer": 1,
+          "explain": "setState() marks the state as changed. Flutter rebuilds the widget so the screen shows the new values."
+        },
+        {
+          "q": "Where does state live in a stateful widget?",
+          "options": [
+            "In the widget itself",
+            "In the State class, separate from the widget",
+            "In a file",
+            "In the theme"
+          ],
+          "answer": 1,
+          "explain": "State lives in the State object. The widget is just the configuration; the State holds the changing data."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Widgets: Text, Images and Icons",
+      "goal": "Show text, pictures and icons in your app.",
+      "video": {
+        "youtube_id": "e3L8dB-BH4Q",
+        "title": "Flutter Riverpod Tutorial",
+        "channel": "dbestech"
+      },
+      "steps": [
+        "Add a Text widget with a big font size and a colour.",
+        "Add an Icon widget, like Icons.favorite, with a size and colour.",
+        "Add an Image from the internet with Image.network() and a real image URL.",
+        "Add an image from your project with Image.asset() after listing it in pubspec.yaml."
+      ],
+      "task": "Build a profile screen with a photo, your name, a short bio and three icons.",
+      "challenge": "Add a network image of a place you like and give it a caption.",
+      "quiz": [
+        {
+          "q": "What does a Text widget do?",
+          "options": [
+            "It draws a picture",
+            "It shows a line of text on the screen",
+            "It makes a button",
+            "It plays a sound"
+          ],
+          "answer": 1,
+          "explain": "Text shows words. You set its content and style, like size and colour."
+        },
+        {
+          "q": "What is pubspec.yaml for?",
+          "options": [
+            "It stores your code",
+            "It lists your app's name, dependencies and assets like images and fonts",
+            "It builds the app",
+            "It is the main screen"
+          ],
+          "answer": 1,
+          "explain": "pubspec.yaml is your app's config file: its name, packages it uses, and assets like images."
+        },
+        {
+          "q": "What is the difference between Image.network and Image.asset?",
+          "options": [
+            "There is none",
+            "network loads from a URL, asset loads a file inside your project",
+            "asset is faster always",
+            "network only works offline"
+          ],
+          "answer": 1,
+          "explain": "Image.network fetches a picture from the internet. Image.asset uses a file you bundled with the app."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Layout: Rows, Columns and Containers",
+      "goal": "Arrange widgets on the screen with rows, columns and containers.",
+      "video": {
+        "youtube_id": "oyVDDRczuJI",
+        "title": "Firebase Authentication and Flutter Full Course 2020",
+        "channel": "Creative Bracket"
+      },
+      "steps": [
+        "Put two Text widgets in a Row so they sit side by side.",
+        "Put three widgets in a Column so they stack top to bottom.",
+        "Wrap a widget in a Container and give it padding, margin and a background colour.",
+        "Use SizedBox to add space between widgets."
+      ],
+      "task": "Build a business card screen: a column with a name, a job title, a row of icons and space between each part.",
+      "challenge": "Make a row of three coloured boxes with equal space between them.",
+      "quiz": [
+        {
+          "q": "What does a Column do?",
+          "options": [
+            "It puts widgets side by side",
+            "It stacks widgets top to bottom",
+            "It hides widgets",
+            "It draws a line"
+          ],
+          "answer": 1,
+          "explain": "Column arranges its children vertically, one below the other."
+        },
+        {
+          "q": "What does a Row do?",
+          "options": [
+            "It stacks widgets",
+            "It puts widgets side by side in a line",
+            "It deletes widgets",
+            "It centres text"
+          ],
+          "answer": 1,
+          "explain": "Row arranges its children horizontally, one next to the other."
+        },
+        {
+          "q": "What is a Container for?",
+          "options": [
+            "It holds one child and lets you set padding, margin, colour and size around it",
+            "It holds many children",
+            "It is a button",
+            "It plays video"
+          ],
+          "answer": 1,
+          "explain": "Container wraps one child and adds decoration like padding, margin, background colour and borders."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Business Card App",
+      "goal": "Build a complete business card app with layout, images and state.",
+      "video": {
+        "youtube_id": "9zBWglEaGuQ",
+        "title": "Firebase Authentication and Flutter Full Course 2020",
+        "channel": "Creative Bracket"
+      },
+      "steps": [
+        "Make a card screen with a photo, name, job title and contact details.",
+        "Use Column, Row and Container to lay it out neatly.",
+        "Add a button that shows or hides the phone number.",
+        "Style it with colours, rounded corners and good spacing."
+      ],
+      "task": "Finish the business card app with your real details and run it on your phone.",
+      "challenge": "Add a second card for a friend with different details, using the same layout.",
+      "quiz": [
+        {
+          "q": "Why use a Column for a business card?",
+          "options": [
+            "It is faster",
+            "A card stacks its parts top to bottom: photo, name, title, contact",
+            "It hides the photo",
+            "It adds a button"
+          ],
+          "answer": 1,
+          "explain": "A business card reads top to bottom, which is exactly what a Column does."
+        },
+        {
+          "q": "What does setState() do when the button is tapped?",
+          "options": [
+            "It deletes the card",
+            "It rebuilds the widget so the phone number appears or disappears",
+            "It saves the card",
+            "It closes the app"
+          ],
+          "answer": 1,
+          "explain": "setState() tells Flutter to rebuild with the new state, so the hidden part shows or hides."
+        },
+        {
+          "q": "Why use a Container for the card?",
+          "options": [
+            "To make it slower",
+            "To give the card padding, a background colour and rounded corners",
+            "To add a button",
+            "To hide text"
+          ],
+          "answer": 1,
+          "explain": "Container adds the padding, colour and rounded corners that make a plain column look like a card."
+        }
+      ],
+      "project": {
+        "title": "Business Card App",
+        "brief": "Build a business card app in Flutter: a photo, name, job title and contact details laid out neatly with Column, Row and Container, plus a button that shows or hides the phone number.",
+        "checks": [
+          "The card shows a photo, name, job title and contact details.",
+          "The layout uses Column, Row and Container.",
+          "A button shows or hides the phone number.",
+          "The card has colours, rounded corners and good spacing.",
+          "The app runs on an emulator or a real phone.",
+          "The code is tidy with widgets split into small pieces."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Dart Basics 1: Variables, Types and Functions",
+      "goal": "Learn the Dart basics you need for Flutter: variables, types and functions.",
+      "video": {
+        "youtube_id": "Wa0rdbb53I8",
+        "title": "Flutter & Firebase App Tutorial #2 - Firebase Setup",
+        "channel": "Net Ninja"
+      },
+      "steps": [
+        "Declare a variable with var, String, int and double, and print each one.",
+        "Write a function that takes two numbers and returns their sum.",
+        "Use string interpolation with $name to put a value inside text.",
+        "Try final and const and notice they cannot be changed."
+      ],
+      "task": "Write a small Dart program that stores a name and age and prints a greeting.",
+      "challenge": "Write a function that takes a price and a discount percent and returns the final price.",
+      "quiz": [
+        {
+          "q": "What is Dart?",
+          "options": [
+            "A kind of widget",
+            "The programming language Flutter apps are written in",
+            "A database",
+            "A design tool"
+          ],
+          "answer": 1,
+          "explain": "Dart is the language behind Flutter. You write your app logic and widgets in Dart."
+        },
+        {
+          "q": "What does final mean in Dart?",
+          "options": [
+            "The variable is deleted",
+            "The variable can be set once and never changed after",
+            "The variable is a number",
+            "The variable is hidden"
+          ],
+          "answer": 1,
+          "explain": "final means the value is set once and locked. Use it for values that should not change."
+        },
+        {
+          "q": "How do you put a variable inside a string in Dart?",
+          "options": [
+            "With + only",
+            "With $name or ${expression}",
+            "With brackets",
+            "You cannot"
+          ],
+          "answer": 1,
+          "explain": "Dart uses $name for a variable and ${...} for an expression inside a string."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Dart Basics 2: Lists, Maps and Loops",
+      "goal": "Use Dart lists, maps and loops to handle data in your app.",
+      "video": {
+        "youtube_id": "PaRqtZ9z-YI",
+        "title": "Flutter Firebase Tutorial 2026: Complete Auth + Firestore Integration",
+        "channel": "TechWithSam"
+      },
+      "steps": [
+        "Make a list of five names and print each one with a for loop.",
+        "Make a map for a person with name and age keys, and print the name.",
+        "Use .map() to turn a list of numbers into a list of doubled numbers.",
+        "Use .where() to keep only the items that match a condition."
+      ],
+      "task": "Make a list of five products as maps and print each product's name and price.",
+      "challenge": "Filter a list of numbers to only the even ones and print them.",
+      "quiz": [
+        {
+          "q": "What is a list in Dart?",
+          "options": [
+            "A single value",
+            "An ordered collection of items, like [1, 2, 3]",
+            "A kind of widget",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "A list holds items in order. You read them by position, starting at 0."
+        },
+        {
+          "q": "What is a map in Dart?",
+          "options": [
+            "A list",
+            "A collection of key-value pairs, like {'name': 'Ada'}",
+            "A widget",
+            "A loop"
+          ],
+          "answer": 1,
+          "explain": "A map stores named values. You read them by key, like person['name']."
+        },
+        {
+          "q": "What does .where() do?",
+          "options": [
+            "It sorts a list",
+            "It returns a new list with only the items that pass your test",
+            "It deletes a list",
+            "It counts items"
+          ],
+          "answer": 1,
+          "explain": ".where() keeps only the items where your test is true."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Lists: ListView",
+      "goal": "Show long lists that scroll with ListView.",
+      "video": {
+        "youtube_id": "BiOSCpV-lts",
+        "title": "Flutter Tutorial For Beginners in 13 Hours",
+        "channel": "Rivaan Ranawat"
+      },
+      "steps": [
+        "Make a list of ten items in a Dart list.",
+        "Show them with ListView.builder so only visible items are built.",
+        "Give each item a ListTile with a title and a subtitle.",
+        "Add an icon at the start of each row."
+      ],
+      "task": "Build a contacts list with ten people, each with a name and a phone number.",
+      "challenge": "Make the list show 50 items and notice it still scrolls smoothly.",
+      "quiz": [
+        {
+          "q": "What does ListView.builder do?",
+          "options": [
+            "It builds every item at once",
+            "It builds only the items on screen, which keeps long lists fast",
+            "It sorts the list",
+            "It deletes items"
+          ],
+          "answer": 1,
+          "explain": "ListView.builder creates items lazily, only when they scroll into view, so long lists stay smooth."
+        },
+        {
+          "q": "What is a ListTile?",
+          "options": [
+            "A kind of button",
+            "A ready-made row with a title, subtitle and icons, used in lists",
+            "A database",
+            "A screen"
+          ],
+          "answer": 1,
+          "explain": "ListTile is a pre-built list row with a leading icon, a title and a subtitle."
+        },
+        {
+          "q": "Why is a builder better than a plain ListView for long lists?",
+          "options": [
+            "It is shorter",
+            "It only builds visible items, so memory stays low",
+            "It looks better",
+            "It sorts items"
+          ],
+          "answer": 1,
+          "explain": "Building only visible items saves memory and time when the list is long."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Navigation: Moving Between Screens",
+      "goal": "Move between screens with Navigator and pass data along.",
+      "video": {
+        "youtube_id": "VPvVD8t02U8",
+        "title": "Flutter Course for Beginners – 37-hour Mobile App Development Tutorial",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Make a second screen widget in a new file.",
+        "Push to it with Navigator.push() and a MaterialPageRoute.",
+        "Pass a name to the second screen and show it there.",
+        "Go back with Navigator.pop() or the back button."
+      ],
+      "task": "Build an app with a home screen and a details screen that shows the item you tapped.",
+      "challenge": "Add a back button on the details screen that returns to the home screen.",
+      "quiz": [
+        {
+          "q": "What does Navigator.push() do?",
+          "options": [
+            "It deletes a screen",
+            "It opens a new screen on top of the current one",
+            "It closes the app",
+            "It reloads the page"
+          ],
+          "answer": 1,
+          "explain": "push() adds a new screen to the stack. The back button pops it off to return."
+        },
+        {
+          "q": "How do you pass data to a new screen?",
+          "options": [
+            "You cannot",
+            "Give the screen's constructor a value, like DetailsScreen(name: 'Ada')",
+            "Use a global variable only",
+            "Write it to a file"
+          ],
+          "answer": 1,
+          "explain": "You pass data through the screen widget's constructor when you create the route."
+        },
+        {
+          "q": "What does Navigator.pop() do?",
+          "options": [
+            "It opens a screen",
+            "It closes the current screen and goes back to the one below",
+            "It deletes the app",
+            "It saves data"
+          ],
+          "answer": 1,
+          "explain": "pop() removes the top screen from the stack, returning to the previous screen."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Forms and Validation",
+      "goal": "Build forms that check user input before accepting it.",
+      "video": {
+        "youtube_id": "V3cFlraeiVI",
+        "title": "Flutter Full Course 2026",
+        "channel": "MindMajix"
+      },
+      "steps": [
+        "Wrap your fields in a Form widget with a GlobalKey.",
+        "Add a validator to each field that returns an error message for bad input.",
+        "Check the email contains @ and the password is at least 8 characters.",
+        "Show a success message when the form is valid and submitted."
+      ],
+      "task": "Build a sign-up form with name, email and password validation.",
+      "challenge": "Add a rule that the two password fields must match.",
+      "quiz": [
+        {
+          "q": "What does a validator do?",
+          "options": [
+            "It styles the field",
+            "It checks the field's value and returns an error message or null when it is fine",
+            "It deletes the field",
+            "It saves the field"
+          ],
+          "answer": 1,
+          "explain": "A validator runs when you check the form. It returns an error message for bad input, or null when the input is fine."
+        },
+        {
+          "q": "What is a GlobalKey for a form?",
+          "options": [
+            "A password",
+            "A key that lets you check the whole form and run all its validators at once",
+            "A style",
+            "A database key"
+          ],
+          "answer": 1,
+          "explain": "The form key gives you access to the form state, so you can call validate() on all fields together."
+        },
+        {
+          "q": "Why validate before accepting a form?",
+          "options": [
+            "To annoy users",
+            "To stop bad data being saved and to tell users exactly what to fix",
+            "To make it slower",
+            "To hide the form"
+          ],
+          "answer": 1,
+          "explain": "Validation catches mistakes early and shows a clear message, instead of saving bad data."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Gestures and User Interaction",
+      "goal": "React to taps, swipes and long presses with gesture widgets.",
+      "video": {
+        "youtube_id": "NXmhQgg4L3U",
+        "title": "Flutter Full Course 2026 - App Development Course For Beginners",
+        "channel": "Codynn"
+      },
+      "steps": [
+        "Wrap a widget in GestureDetector and print a message on tap.",
+        "Add onDoubleTap to run different code on a double tap.",
+        "Add onLongPress to show a menu when the user holds a widget.",
+        "Use InkWell on a card so it shows a ripple effect when tapped."
+      ],
+      "task": "Build a photo grid where tapping a photo opens it bigger and long-pressing shows its name.",
+      "challenge": "Make a card that changes colour when you tap it and back when you tap again.",
+      "quiz": [
+        {
+          "q": "What does GestureDetector do?",
+          "options": [
+            "It draws a picture",
+            "It detects taps, swipes and other gestures on its child",
+            "It plays a sound",
+            "It hides a widget"
+          ],
+          "answer": 1,
+          "explain": "GestureDetector watches its child for gestures like tap, double tap and long press, and runs your code."
+        },
+        {
+          "q": "What is the difference between GestureDetector and InkWell?",
+          "options": [
+            "There is none",
+            "InkWell adds a ripple effect on tap and needs a Material ancestor",
+            "GestureDetector cannot detect taps",
+            "InkWell only works on text"
+          ],
+          "answer": 1,
+          "explain": "InkWell is like GestureDetector but shows a ripple, which is the standard Material touch feedback."
+        },
+        {
+          "q": "Why handle long press?",
+          "options": [
+            "To make apps slower",
+            "To offer extra actions, like delete or share, without cluttering the screen",
+            "To hide buttons",
+            "To reload the app"
+          ],
+          "answer": 1,
+          "explain": "Long press hides extra actions until needed, keeping the screen clean."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Notes App",
+      "goal": "Build a notes app with lists, navigation and local storage.",
+      "video": {
+        "youtube_id": "DsTMhjaRQws",
+        "title": "Flutter Course for Absolute Beginners",
+        "channel": "dbestech"
+      },
+      "steps": [
+        "Make a home screen that lists notes with title and a short preview.",
+        "Tapping a note opens an edit screen where you can change it.",
+        "Add a button to create a new note.",
+        "Save notes to the device with shared_preferences so they survive closing the app."
+      ],
+      "task": "Finish the notes app with at least three notes and test that they survive a restart.",
+      "challenge": "Add a delete button with a confirm dialog before deleting a note.",
+      "quiz": [
+        {
+          "q": "Why save notes to the device?",
+          "options": [
+            "To make it slower",
+            "So notes are still there after the app closes",
+            "To hide them",
+            "To share them online"
+          ],
+          "answer": 1,
+          "explain": "State disappears when the app closes. Saving to the device keeps notes between visits."
+        },
+        {
+          "q": "What is shared_preferences?",
+          "options": [
+            "A database server",
+            "A simple way to save small data like settings and lists on the device",
+            "A kind of widget",
+            "A screen"
+          ],
+          "answer": 1,
+          "explain": "shared_preferences stores small key-value data on the device, like settings or a list of notes."
+        },
+        {
+          "q": "Why use a confirm dialog before deleting?",
+          "options": [
+            "To annoy users",
+            "To stop accidental deletes of something the user may want",
+            "To make it slower",
+            "To hide the delete button"
+          ],
+          "answer": 1,
+          "explain": "A confirm dialog prevents losing a note by accident, which is hard to undo."
+        }
+      ],
+      "project": {
+        "title": "Notes App with Local Storage",
+        "brief": "Build a notes app: a home screen lists notes, tapping one opens an edit screen, a button adds new notes, and notes are saved on the device with shared_preferences so they survive closing the app.",
+        "checks": [
+          "The home screen lists notes with title and preview.",
+          "Tapping a note opens an edit screen.",
+          "A button creates a new note.",
+          "Notes are saved on the device and load after a restart.",
+          "A note can be deleted, with a confirm dialog first.",
+          "The list scrolls smoothly with ListView."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "State Management with Provider",
+      "goal": "Share state across screens with the Provider package.",
+      "video": {
+        "youtube_id": "e3L8dB-BH4Q",
+        "title": "Flutter Riverpod Tutorial",
+        "channel": "dbestech"
+      },
+      "steps": [
+        "Add provider to pubspec.yaml and run flutter pub get.",
+        "Make a ChangeNotifier class that holds a list and methods to add and remove.",
+        "Wrap your app in ChangeNotifierProvider.",
+        "Read the data in a widget with Provider.of or Consumer, and call notifyListeners() after changes."
+      ],
+      "task": "Build a shopping list app where the list lives in a Provider and two screens can read it.",
+      "challenge": "Add a counter in a Provider and show it on two different screens.",
+      "quiz": [
+        {
+          "q": "What is Provider?",
+          "options": [
+            "A database",
+            "A package that shares state with many widgets without passing it down by hand",
+            "A kind of button",
+            "A screen"
+          ],
+          "answer": 1,
+          "explain": "Provider makes a value available to the whole widget tree below it, so any widget can read it."
+        },
+        {
+          "q": "What does notifyListeners() do?",
+          "options": [
+            "It deletes the data",
+            "It tells widgets that listen to the provider to rebuild with the new data",
+            "It saves to a file",
+            "It closes the app"
+          ],
+          "answer": 1,
+          "explain": "After you change the data, notifyListeners() tells listening widgets to rebuild."
+        },
+        {
+          "q": "Why use Provider instead of passing data down manually?",
+          "options": [
+            "It is faster",
+            "It avoids passing data through many layers that do not need it",
+            "It uses less code always",
+            "It hides data"
+          ],
+          "answer": 1,
+          "explain": "Provider skips prop drilling: any widget can read the shared state directly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "State Management with Riverpod",
+      "goal": "Try Riverpod, a modern and safe way to manage state.",
+      "video": {
+        "youtube_id": "oyVDDRczuJI",
+        "title": "Firebase Authentication and Flutter Full Course 2020",
+        "channel": "Creative Bracket"
+      },
+      "steps": [
+        "Add flutter_riverpod to pubspec.yaml and run flutter pub get.",
+        "Wrap your app in ProviderScope.",
+        "Make a StateProvider for a counter and read it with ref.watch().",
+        "Change it with ref.read() and a button."
+      ],
+      "task": "Rewrite your counter app using Riverpod instead of setState.",
+      "challenge": "Make a list provider that holds tasks and lets you add and remove them.",
+      "quiz": [
+        {
+          "q": "What is Riverpod?",
+          "options": [
+            "A database",
+            "A modern state management package that is safe and testable, built by the Provider author",
+            "A kind of button",
+            "A screen"
+          ],
+          "answer": 1,
+          "explain": "Riverpod is a newer state package. It does not depend on the widget tree, which makes it easier to test."
+        },
+        {
+          "q": "What does ref.watch() do?",
+          "options": [
+            "It deletes the provider",
+            "It reads a provider's value and rebuilds the widget when it changes",
+            "It saves to a file",
+            "It closes the app"
+          ],
+          "answer": 1,
+          "explain": "ref.watch() subscribes to a provider. When the provider's value changes, the widget rebuilds."
+        },
+        {
+          "q": "What is the difference between ref.watch and ref.read?",
+          "options": [
+            "There is none",
+            "watch rebuilds the widget on change, read just takes the value once without listening",
+            "read is faster always",
+            "watch deletes the provider"
+          ],
+          "answer": 1,
+          "explain": "watch listens and rebuilds. read takes the current value once, which is right for button taps."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Fetching Data from an API",
+      "goal": "Load real data from the internet and show it in your app.",
+      "video": {
+        "youtube_id": "9zBWglEaGuQ",
+        "title": "Firebase Authentication and Flutter Full Course 2020",
+        "channel": "Creative Bracket"
+      },
+      "steps": [
+        "Add the http package to pubspec.yaml.",
+        "Use http.get() to fetch a list from a public API.",
+        "Turn the JSON reply into Dart objects with jsonDecode.",
+        "Show a loading spinner while waiting and the list when it arrives."
+      ],
+      "task": "Build an app that fetches a list of posts from a public API and shows their titles.",
+      "challenge": "Add a pull-to-refresh that fetches the data again.",
+      "quiz": [
+        {
+          "q": "What is FutureBuilder?",
+          "options": [
+            "A kind of button",
+            "A widget that builds different things while a future is loading, done or failed",
+            "A database",
+            "A screen"
+          ],
+          "answer": 1,
+          "explain": "FutureBuilder watches a Future and shows a spinner while loading, the data when done, or an error when it fails."
+        },
+        {
+          "q": "What does jsonDecode do?",
+          "options": [
+            "It prints JSON",
+            "It turns a JSON string into Dart maps and lists",
+            "It deletes JSON",
+            "It saves JSON to a file"
+          ],
+          "answer": 1,
+          "explain": "jsonDecode parses JSON text into Dart data you can work with."
+        },
+        {
+          "q": "Why show a loading spinner?",
+          "options": [
+            "To make it slower",
+            "So the user knows data is coming instead of seeing a blank screen",
+            "To hide errors",
+            "To save battery"
+          ],
+          "answer": 1,
+          "explain": "Data takes time to arrive. A spinner tells the user something is happening."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Firebase Setup",
+      "goal": "Connect your app to Firebase, Google's backend for apps.",
+      "video": {
+        "youtube_id": "Wa0rdbb53I8",
+        "title": "Flutter & Firebase App Tutorial #2 - Firebase Setup",
+        "channel": "Net Ninja"
+      },
+      "steps": [
+        "Create a Firebase project at console.firebase.google.com.",
+        "Add an Android app and download the google-services.json file into your project.",
+        "Add firebase_core to pubspec.yaml and initialise Firebase in main().",
+        "Run the app and check Firebase connects without errors."
+      ],
+      "task": "Set up Firebase for your notes app project and confirm it connects.",
+      "challenge": "Add the iOS app in Firebase too, if you have a Mac.",
+      "quiz": [
+        {
+          "q": "What is Firebase?",
+          "options": [
+            "A programming language",
+            "Google's backend service for apps: login, database, storage and more",
+            "A kind of widget",
+            "A phone"
+          ],
+          "answer": 1,
+          "explain": "Firebase gives your app a ready-made backend: user login, a live database, file storage and notifications."
+        },
+        {
+          "q": "What does firebase_core do?",
+          "options": [
+            "It builds the app",
+            "It starts Firebase in your app so other Firebase services can work",
+            "It logs users in",
+            "It stores data"
+          ],
+          "answer": 1,
+          "explain": "firebase_core initialises Firebase. Every other Firebase package needs it first."
+        },
+        {
+          "q": "What is google-services.json?",
+          "options": [
+            "A code file",
+            "A config file that tells your app which Firebase project it belongs to",
+            "A database",
+            "An image"
+          ],
+          "answer": 1,
+          "explain": "google-services.json holds your Firebase project's settings. Your app reads it when it starts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Firebase Login",
+      "goal": "Let users sign up and log in with email and password.",
+      "video": {
+        "youtube_id": "PaRqtZ9z-YI",
+        "title": "Flutter Firebase Tutorial 2026: Complete Auth + Firestore Integration",
+        "channel": "TechWithSam"
+      },
+      "steps": [
+        "Add firebase_auth to pubspec.yaml.",
+        "Make a sign-up screen that creates a user with createUserWithEmailAndPassword.",
+        "Make a login screen that signs in with signInWithEmailAndPassword.",
+        "Show a different home screen when a user is logged in."
+      ],
+      "task": "Add login and sign-up to your notes app so each user sees only their own notes.",
+      "challenge": "Add a logout button and a 'forgot password' link.",
+      "quiz": [
+        {
+          "q": "What is Firebase Auth?",
+          "options": [
+            "A database",
+            "Firebase's service for user sign-up, login and logout",
+            "A kind of widget",
+            "A screen"
+          ],
+          "answer": 1,
+          "explain": "Firebase Auth handles user accounts: sign-up, login, logout and password reset, without you building a server."
+        },
+        {
+          "q": "Why use Firebase Auth instead of building your own login?",
+          "options": [
+            "It is slower",
+            "It handles passwords safely, including hashing and reset emails, which is hard to do well yourself",
+            "It is free forever",
+            "It needs no code"
+          ],
+          "answer": 1,
+          "explain": "Passwords must be stored safely. Firebase Auth does the hard security work for you."
+        },
+        {
+          "q": "How do you know if a user is logged in?",
+          "options": [
+            "Ask them",
+            "Check FirebaseAuth.instance.currentUser, or listen to authStateChanges()",
+            "Read a file",
+            "Check the theme"
+          ],
+          "answer": 1,
+          "explain": "currentUser holds the logged-in user, or null. authStateChanges() tells you live when login state changes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Cloud Firestore: Saving Data Online",
+      "goal": "Store data in the cloud with Cloud Firestore so it syncs across devices.",
+      "video": {
+        "youtube_id": "BiOSCpV-lts",
+        "title": "Flutter Tutorial For Beginners in 13 Hours",
+        "channel": "Rivaan Ranawat"
+      },
+      "steps": [
+        "Add cloud_firestore to pubspec.yaml.",
+        "Save a note to a collection with add() and read it back with get().",
+        "Listen to changes live with snapshots() so the list updates when data changes.",
+        "Store each user's notes under their own user id."
+      ],
+      "task": "Move your notes app from local storage to Firestore so notes sync online.",
+      "challenge": "Add a timestamp to each note and sort the list by newest first.",
+      "quiz": [
+        {
+          "q": "What is Cloud Firestore?",
+          "options": [
+            "A kind of widget",
+            "Firebase's cloud database that stores data in collections and documents and syncs live",
+            "A file on the phone",
+            "A login service"
+          ],
+          "answer": 1,
+          "explain": "Firestore is a cloud database. Data is stored as documents in collections, and apps can listen for live updates."
+        },
+        {
+          "q": "What is a collection?",
+          "options": [
+            "A single item",
+            "A group of documents, like a table of notes",
+            "A kind of widget",
+            "A screen"
+          ],
+          "answer": 1,
+          "explain": "A collection holds documents. A 'notes' collection holds one document per note."
+        },
+        {
+          "q": "Why listen with snapshots() instead of fetching once?",
+          "options": [
+            "It is faster",
+            "It updates the app live whenever the data changes, on any device",
+            "It uses less data",
+            "It hides errors"
+          ],
+          "answer": 1,
+          "explain": "snapshots() streams changes, so the list updates the moment data changes, without refreshing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Complete App with Login and Cloud Data",
+      "goal": "Build a full app with login, cloud data and a polished design.",
+      "video": {
+        "youtube_id": "VPvVD8t02U8",
+        "title": "Flutter Course for Beginners – 37-hour Mobile App Development Tutorial",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Plan the app: screens, data and what each screen does.",
+        "Add Firebase login so each user has their own account.",
+        "Store the app's data in Firestore under each user's id.",
+        "Add a polished theme, animations and a loading state."
+      ],
+      "task": "Finish the full app and test it with two different user accounts.",
+      "challenge": "Add a settings screen where the user can change their display name.",
+      "quiz": [
+        {
+          "q": "Why store data under each user's id?",
+          "options": [
+            "To make it slower",
+            "So each user sees only their own data, not everyone else's",
+            "To hide data",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "Separating data by user id keeps each person's data private and stops users seeing each other's items."
+        },
+        {
+          "q": "What makes an app 'complete'?",
+          "options": [
+            "Many screens",
+            "Login, cloud data, good design and handling of loading and errors",
+            "Loud colours",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A complete app handles real users: login, saved data, good design, loading states and errors."
+        },
+        {
+          "q": "Why test with two accounts?",
+          "options": [
+            "To waste time",
+            "To prove each user only sees their own data",
+            "To use more storage",
+            "To hide bugs"
+          ],
+          "answer": 1,
+          "explain": "Two accounts prove the data separation works: each account should see only its own items."
+        }
+      ],
+      "project": {
+        "title": "Complete App with Login and Cloud Data",
+        "brief": "Build a full app with Firebase login, data stored in Cloud Firestore under each user's id, a polished theme and animations, and loading and error states.",
+        "checks": [
+          "Users can sign up and log in with email and password.",
+          "Data is stored in Firestore under each user's id.",
+          "Each user sees only their own data.",
+          "The app has a polished theme and at least one animation.",
+          "Loading and error states show at the right times.",
+          "The app runs without errors on a real phone or emulator."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Push Notifications",
+      "goal": "Send notifications to users with Firebase Cloud Messaging.",
+      "video": {
+        "youtube_id": "V3cFlraeiVI",
+        "title": "Flutter Full Course 2026",
+        "channel": "MindMajix"
+      },
+      "steps": [
+        "Add firebase_messaging to pubspec.yaml.",
+        "Ask the user for permission to send notifications.",
+        "Get the device token and print it to the console.",
+        "Handle a notification that arrives while the app is open."
+      ],
+      "task": "Add notifications to your app and test one with the Firebase console.",
+      "challenge": "Show a local notification when a note reminder time arrives.",
+      "quiz": [
+        {
+          "q": "What is Firebase Cloud Messaging?",
+          "options": [
+            "A database",
+            "Firebase's service for sending push notifications to phones",
+            "A kind of widget",
+            "A login service"
+          ],
+          "answer": 1,
+          "explain": "FCM delivers push notifications to Android and iPhone apps, even when the app is closed."
+        },
+        {
+          "q": "What is a device token?",
+          "options": [
+            "A password",
+            "A unique address for one phone that lets Firebase send it notifications",
+            "A username",
+            "A file"
+          ],
+          "answer": 1,
+          "explain": "Each phone gets a token. Firebase uses it to know which phone a notification should go to."
+        },
+        {
+          "q": "Why ask permission for notifications?",
+          "options": [
+            "To annoy users",
+            "Because phones require the user's OK before an app can send notifications",
+            "To make it slower",
+            "To hide the app"
+          ],
+          "answer": 1,
+          "explain": "Phones block notifications until the user allows them, so you must ask first."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "App Icon, Splash Screen and Polish",
+      "goal": "Give your app a proper icon and a splash screen before you show it to anyone.",
+      "video": {
+        "youtube_id": "NXmhQgg4L3U",
+        "title": "Flutter Full Course 2026 - App Development Course For Beginners",
+        "channel": "Codynn"
+      },
+      "steps": [
+        "Add flutter_launcher_icons to pubspec.yaml and set your icon image.",
+        "Run the command to generate icons for Android and iOS.",
+        "Add a splash screen with your app name and colours.",
+        "Check the icon and splash screen on a real phone."
+      ],
+      "task": "Make an app icon for your notes app and set it as the launcher icon.",
+      "challenge": "Design a simple splash screen with your app's name and a colour that matches your theme.",
+      "quiz": [
+        {
+          "q": "What is a launcher icon?",
+          "options": [
+            "A kind of button",
+            "The icon users tap on their home screen to open your app",
+            "A splash screen",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "The launcher icon is your app's picture on the home screen. It is the first thing users see."
+        },
+        {
+          "q": "What is a splash screen?",
+          "options": [
+            "An error screen",
+            "The first screen that shows briefly while your app loads",
+            "A settings page",
+            "A login page"
+          ],
+          "answer": 1,
+          "explain": "A splash screen shows your logo or name while the app starts, so users do not see a blank screen."
+        },
+        {
+          "q": "Why polish the icon and splash screen?",
+          "options": [
+            "To waste time",
+            "Because they are the first impression of your app and make it look professional",
+            "To make it slower",
+            "To hide bugs"
+          ],
+          "answer": 1,
+          "explain": "The icon and splash screen are what users see first. Good ones make your app feel real and trustworthy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Working with Images and Media",
+      "goal": "Let users pick photos from the gallery or take new ones with the camera.",
+      "video": {
+        "youtube_id": "DsTMhjaRQws",
+        "title": "Flutter Course for Absolute Beginners",
+        "channel": "dbestech"
+      },
+      "steps": [
+        "Add image_picker to pubspec.yaml and run flutter pub get.",
+        "Use ImagePicker to let the user choose a photo from the gallery.",
+        "Show the chosen photo in an Image.file widget.",
+        "Let the user take a new photo with the camera."
+      ],
+      "task": "Add a profile photo to your notes app that the user can pick from the gallery.",
+      "challenge": "Save the photo's path so it still shows after the app restarts.",
+      "quiz": [
+        {
+          "q": "What is image_picker?",
+          "options": [
+            "A camera app",
+            "A package that lets your app pick photos from the gallery or camera",
+            "A kind of widget",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "image_picker opens the gallery or camera and returns the photo the user chose."
+        },
+        {
+          "q": "What does Image.file show?",
+          "options": [
+            "A photo from the internet",
+            "A photo stored as a file on the device",
+            "A drawing",
+            "A video"
+          ],
+          "answer": 1,
+          "explain": "Image.file displays a picture from a file path on the device, like a photo the user just picked."
+        },
+        {
+          "q": "Why ask permission before using the camera?",
+          "options": [
+            "To annoy users",
+            "Because phones require the user's OK before an app can use the camera or photos",
+            "To make it slower",
+            "To hide the app"
+          ],
+          "answer": 1,
+          "explain": "Phones block camera and photo access until the user allows it, so you must ask first."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Styling and Themes",
+      "goal": "Give your app a consistent look with themes, colours and fonts.",
+      "video": {
+        "youtube_id": "e3L8dB-BH4Q",
+        "title": "Flutter Riverpod Tutorial",
+        "channel": "dbestech"
+      },
+      "steps": [
+        "Set a ThemeData in MaterialApp with a primary colour and font.",
+        "Use Theme.of(context) to read the theme colours in a widget.",
+        "Add a custom font: list it in pubspec.yaml and use it in the theme.",
+        "Add a dark mode toggle that switches the theme."
+      ],
+      "task": "Style your notes app with a clean theme, a custom font and good spacing.",
+      "challenge": "Make the app look good in both light and dark mode.",
+      "quiz": [
+        {
+          "q": "What is ThemeData?",
+          "options": [
+            "A widget",
+            "A set of colours, fonts and styles that your whole app shares",
+            "A database",
+            "A screen"
+          ],
+          "answer": 1,
+          "explain": "ThemeData holds your app's design choices in one place, so every screen looks consistent."
+        },
+        {
+          "q": "Why use the theme instead of setting colours everywhere?",
+          "options": [
+            "It is faster",
+            "So one change updates the whole app and the design stays consistent",
+            "It uses less memory",
+            "It hides colours"
+          ],
+          "answer": 1,
+          "explain": "One theme file means one place to change colours. Every screen follows it automatically."
+        },
+        {
+          "q": "How do you add a custom font?",
+          "options": [
+            "Copy it anywhere",
+            "Put the font file in assets, list it in pubspec.yaml, and name it in the theme",
+            "Rename it",
+            "You cannot add fonts"
+          ],
+          "answer": 1,
+          "explain": "Fonts go in an assets folder, are listed in pubspec.yaml, and are named in ThemeData."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Animations",
+      "goal": "Add motion to your app with simple animations.",
+      "video": {
+        "youtube_id": "oyVDDRczuJI",
+        "title": "Firebase Authentication and Flutter Full Course 2020",
+        "channel": "Creative Bracket"
+      },
+      "steps": [
+        "Use AnimatedContainer to smoothly change size or colour when state changes.",
+        "Add a Hero animation so an image grows when you open its detail screen.",
+        "Use a simple FadeTransition or AnimatedOpacity to fade a widget in.",
+        "Add a loading animation while data is being fetched."
+      ],
+      "task": "Add an animation to your notes app: cards fade in when the list loads.",
+      "challenge": "Make a button that grows slightly when tapped.",
+      "quiz": [
+        {
+          "q": "What does AnimatedContainer do?",
+          "options": [
+            "It deletes a widget",
+            "It smoothly changes its size, colour or shape when its values change",
+            "It hides a widget",
+            "It plays a video"
+          ],
+          "answer": 1,
+          "explain": "AnimatedContainer animates between its old and new values over a short time, instead of jumping."
+        },
+        {
+          "q": "What is a Hero animation?",
+          "options": [
+            "A kind of button",
+            "An animation that moves a widget from one screen to the next, like an image growing into a detail page",
+            "A loading spinner",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A Hero with the same tag on two screens animates the widget between them, which looks smooth and polished."
+        },
+        {
+          "q": "Why add animations?",
+          "options": [
+            "To make apps slower",
+            "To guide the user's eye and make the app feel smooth and alive",
+            "To hide bugs",
+            "To use more battery"
+          ],
+          "answer": 1,
+          "explain": "Small animations show what changed and where things went, which makes the app feel polished."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Testing Your App",
+      "goal": "Test your app so you can change it with confidence.",
+      "video": {
+        "youtube_id": "9zBWglEaGuQ",
+        "title": "Firebase Authentication and Flutter Full Course 2020",
+        "channel": "Creative Bracket"
+      },
+      "steps": [
+        "Write a unit test for a function that formats a date or calculates a total.",
+        "Write a widget test that checks a button appears on the screen.",
+        "Tap the button in the test and check the counter changes.",
+        "Run flutter test and read the pass and fail results."
+      ],
+      "task": "Write tests for your notes app: one for adding a note and one for deleting it.",
+      "challenge": "Write a test that checks an error message appears for an empty note.",
+      "quiz": [
+        {
+          "q": "What is a unit test?",
+          "options": [
+            "A test of the whole app",
+            "A test of one small function or piece of logic on its own",
+            "A test of the design",
+            "A test of the server"
+          ],
+          "answer": 1,
+          "explain": "A unit test checks one function in isolation, like a date formatter or a total calculator."
+        },
+        {
+          "q": "What is a widget test?",
+          "options": [
+            "A test of the server",
+            "A test that builds a widget and checks it shows and behaves correctly",
+            "A test of the database",
+            "A test of the theme"
+          ],
+          "answer": 1,
+          "explain": "A widget test renders your widget, checks what it shows, and simulates taps."
+        },
+        {
+          "q": "Why test your app?",
+          "options": [
+            "To make it slower",
+            "So you can change code safely, knowing tests will catch breaks",
+            "To hide bugs",
+            "To avoid writing code"
+          ],
+          "answer": 1,
+          "explain": "Tests catch regressions. When you refactor, green tests tell you nothing broke."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Publishing Your App",
+      "goal": "Prepare your app for the Play Store and App Store.",
+      "video": {
+        "youtube_id": "Wa0rdbb53I8",
+        "title": "Flutter & Firebase App Tutorial #2 - Firebase Setup",
+        "channel": "Net Ninja"
+      },
+      "steps": [
+        "Set the app name, icon and version in pubspec.yaml and the platform files.",
+        "Build a release version with flutter build apk for Android.",
+        "Test the release build on a real phone.",
+        "Read the store requirements for screenshots, description and privacy policy."
+      ],
+      "task": "Build a release version of your app and install it on a real phone.",
+      "challenge": "Make an app icon and a feature image for the store listing.",
+      "quiz": [
+        {
+          "q": "What does flutter build apk do?",
+          "options": [
+            "It starts the dev server",
+            "It builds a release Android app file you can install or upload to the Play Store",
+            "It deletes the project",
+            "It runs tests"
+          ],
+          "answer": 1,
+          "explain": "flutter build apk creates an installable release file for Android, optimised for real users."
+        },
+        {
+          "q": "Why test the release build on a real phone?",
+          "options": [
+            "To use data",
+            "Because release builds can behave differently from debug builds, and real phones catch real problems",
+            "To show off",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Release builds are optimised and signed differently. Testing on a real phone catches problems debug mode hides."
+        },
+        {
+          "q": "What does a store listing need?",
+          "options": [
+            "Only the app file",
+            "An icon, screenshots, a description and a privacy policy",
+            "A password",
+            "A website"
+          ],
+          "answer": 1,
+          "explain": "Stores need an icon, screenshots, a description and a privacy policy before they list your app."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Performance and Polish",
+      "goal": "Make your app fast and smooth before you show it to anyone.",
+      "video": {
+        "youtube_id": "PaRqtZ9z-YI",
+        "title": "Flutter Firebase Tutorial 2026: Complete Auth + Firestore Integration",
+        "channel": "TechWithSam"
+      },
+      "steps": [
+        "Use const constructors where you can, so Flutter skips rebuilding those widgets.",
+        "Keep build() methods small and fast.",
+        "Use ListView.builder for long lists instead of building everything at once.",
+        "Check the app with the Flutter performance tools and fix the slowest part."
+      ],
+      "task": "Find the slowest screen in your app and make it faster.",
+      "challenge": "Remove unused packages from pubspec.yaml and rebuild.",
+      "quiz": [
+        {
+          "q": "Why use const constructors?",
+          "options": [
+            "They are required",
+            "They let Flutter skip rebuilding widgets that never change, which saves time",
+            "They make widgets bigger",
+            "They hide widgets"
+          ],
+          "answer": 1,
+          "explain": "A const widget never changes, so Flutter can reuse it instead of rebuilding it every time."
+        },
+        {
+          "q": "Why keep build() methods fast?",
+          "options": [
+            "They run often",
+            "build() runs every time the widget rebuilds, so slow work there makes the app lag",
+            "They are slow by nature",
+            "They use memory"
+          ],
+          "answer": 1,
+          "explain": "build() runs on every rebuild. Heavy work inside it, like fetching data, makes the app stutter."
+        },
+        {
+          "q": "What is the first step to fixing a slow app?",
+          "options": [
+            "Delete code",
+            "Measure with the performance tools to find the real slow part",
+            "Add more widgets",
+            "Restart the phone"
+          ],
+          "answer": 1,
+          "explain": "Measure first. Guessing wastes time; the tools show exactly which widget is slow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your App",
+      "goal": "Review everything, pick your capstone app and plan your demo.",
+      "video": {
+        "youtube_id": "BiOSCpV-lts",
+        "title": "Flutter Tutorial For Beginners in 13 Hours",
+        "channel": "Rivaan Ranawat"
+      },
+      "steps": [
+        "List all the apps you built in 30 days and pick your favourite.",
+        "Write a short plan: the problem, the screens, the data and the backend.",
+        "Practise explaining your app in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your app running on a phone."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your app.",
+      "challenge": "Show your app to one person and note their questions, then improve your explanation.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone app?",
+          "options": [
+            "Many screens",
+            "One real problem solved well, with login, cloud data and a working demo",
+            "Loud colours",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A good capstone solves one real problem clearly, with real users, saved data and a demo that works."
+        },
+        {
+          "q": "Why practise explaining your app?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your app in simple words, you really understand it. That is what employers look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the code",
+            "The problem, the screens, the data, the backend and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the problem, the screens, the data and backend, and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Build and Publish a Real Mobile App",
+    "brief": "Build a complete mobile app that solves a real problem: a budget tracker, a habit tracker, a small shop or a study planner. It must have Firebase login, cloud data in Firestore, at least three screens, a clean design, and a release build you can install on a phone. Share the code on GitHub with a README and a short demo video.",
+    "checks": [
+      "The app solves one real problem and you can explain the problem in one sentence.",
+      "It has at least three screens with navigation between them.",
+      "Users log in with Firebase Auth and see only their own data.",
+      "Data is stored in Cloud Firestore and syncs online.",
+      "It has a clean theme, good spacing and at least one animation.",
+      "A release build installs and runs on a real phone.",
+      "You can show a live demo on a phone and explain how it works in simple words."
+    ],
+    "deliverables": [
+      "A working Flutter app (source code).",
+      "A release build (APK) that installs on a phone.",
+      "A public GitHub repository link with the code.",
+      "A README.md explaining the problem, the features and how to run it.",
+      "A short demo video of the app running on a real phone."
+    ]
+  }
+}

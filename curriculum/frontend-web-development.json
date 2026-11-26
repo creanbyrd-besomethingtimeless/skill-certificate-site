@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "frontend-web-development",
+    "title": "Frontend Web Development",
+    "level": "Beginner to intermediate",
+    "tagline": "Build fast, beautiful websites with HTML, CSS and JavaScript, and ship a portfolio that proves it.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "How the Web Works and Your First Page",
+      "goal": "Explain how browsers, servers and HTML fit together and build a first HTML page.",
+      "video": {
+        "youtube_id": "SYjNlKyUHOA",
+        "title": "Complete Web Designing & Front-End Development Course in 10 Hours | HTML, CSS & JavaScript",
+        "channel": "Tpoint Tech"
+      },
+      "steps": [
+        "Install VS Code and create a folder called my-first-site.",
+        "Create index.html and type the basic skeleton: doctype, html, head, body.",
+        "Add an h1 heading and a paragraph about yourself, then open the file in a browser.",
+        "Change the heading text and refresh to see the page update."
+      ],
+      "task": "Publish a one-page 'About me' HTML page with a heading, two paragraphs and a list of three hobbies.",
+      "challenge": "Write the whole page from memory without copying, then compare it with the video.",
+      "quiz": [
+        {
+          "q": "What does HTML stand for?",
+          "options": [
+            "HyperText Markup Language",
+            "HighText Machine Language",
+            "Hyperlink Text Mode Language",
+            "Home Tool Markup Language"
+          ],
+          "answer": 0,
+          "explain": "HTML is HyperText Markup Language, the language that structures web pages."
+        },
+        {
+          "q": "Which tag holds the visible content of a page?",
+          "options": [
+            "<head>",
+            "<body>",
+            "<title>",
+            "<meta>"
+          ],
+          "answer": 1,
+          "explain": "Everything users see goes inside <body>; <head> holds metadata."
+        },
+        {
+          "q": "What file name do browsers load first in a folder?",
+          "options": [
+            "home.html",
+            "main.html",
+            "index.html",
+            "start.html"
+          ],
+          "answer": 2,
+          "explain": "Web servers serve index.html by default when no file is named."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Text, Links and Images",
+      "goal": "Use headings, paragraphs, links and images to structure a real page.",
+      "video": {
+        "youtube_id": "F9SlSpO8_Ys",
+        "title": "Introduction to Web Development with HTML, CSS, JavaScript",
+        "channel": "Amazing eLearning"
+      },
+      "steps": [
+        "Add h1 to h3 headings to your page to create a clear outline.",
+        "Turn a word in a paragraph into a link with an <a> tag pointing to a real website.",
+        "Add an image with an <img> tag, a src and a descriptive alt attribute.",
+        "Create an unordered list of your skills and an ordered list of your goals."
+      ],
+      "task": "Build a page with at least 3 heading levels, 2 links, 1 image with alt text and both kinds of list.",
+      "challenge": "Make every link open in a new tab and add a caption under your image using a <figure> tag.",
+      "quiz": [
+        {
+          "q": "Which attribute sets the image file in an <img> tag?",
+          "options": [
+            "href",
+            "src",
+            "link",
+            "file"
+          ],
+          "answer": 1,
+          "explain": "src (source) tells the browser which image file to load."
+        },
+        {
+          "q": "What is the purpose of alt text?",
+          "options": [
+            "It styles the image",
+            "It describes the image for screen readers and when it fails to load",
+            "It makes the image bigger",
+            "It hides the image"
+          ],
+          "answer": 1,
+          "explain": "Alt text describes the image for accessibility and as a fallback."
+        },
+        {
+          "q": "Which tag creates a numbered list?",
+          "options": [
+            "<ul>",
+            "<list>",
+            "<ol>",
+            "<nl>"
+          ],
+          "answer": 2,
+          "explain": "<ol> is an ordered (numbered) list; <ul> is unordered (bulleted)."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Lists, Tables and Page Structure",
+      "goal": "Organise content with lists, tables and semantic section tags.",
+      "video": {
+        "youtube_id": "krfUjg0S2uI",
+        "title": "Create a Simple Website with HTML, CSS, JavaScript",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Add a table with a header row showing a weekly schedule or price list.",
+        "Wrap your page content in <header>, <main> and <footer> tags.",
+        "Split the main content into <section> blocks with their own headings.",
+        "Add a <nav> with links that jump to each section using id attributes."
+      ],
+      "task": "Create a schedule page with a 3-column table, a nav menu and three sections.",
+      "challenge": "Add a second table that uses colspan to merge two cells in one row.",
+      "quiz": [
+        {
+          "q": "Which tag defines a table header cell?",
+          "options": [
+            "<td>",
+            "<th>",
+            "<tr>",
+            "<thead>"
+          ],
+          "answer": 1,
+          "explain": "<th> marks a header cell; <td> is a normal data cell."
+        },
+        {
+          "q": "What does the <nav> element represent?",
+          "options": [
+            "Navigation links",
+            "A new paragraph",
+            "A video player",
+            "A form"
+          ],
+          "answer": 0,
+          "explain": "<nav> wraps the main navigation links of a page."
+        },
+        {
+          "q": "How do you link to a section with id 'contact' on the same page?",
+          "options": [
+            "href='contact'",
+            "href='#contact'",
+            "href='@contact'",
+            "href='section:contact'"
+          ],
+          "answer": 1,
+          "explain": "A hash plus the id, like #contact, jumps to that element."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Forms: Inputs, Labels and Buttons",
+      "goal": "Build a working form with labelled inputs, dropdowns and a submit button.",
+      "video": {
+        "youtube_id": "nu_pCVPKzTk",
+        "title": "Full Stack Web Development for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Create a <form> with text inputs for name and email.",
+        "Connect every input to a <label> using the for and id attributes.",
+        "Add a dropdown <select> for country and radio buttons for a preference.",
+        "Add a textarea for a message and a submit button."
+      ],
+      "task": "Build a contact form with name, email, country dropdown, one radio group, a message box and a submit button.",
+      "challenge": "Add required attributes and a placeholder to every text input, then test submitting with a field empty.",
+      "quiz": [
+        {
+          "q": "Why should inputs have a matching <label>?",
+          "options": [
+            "It makes the text bold",
+            "It improves accessibility and lets users click the label to focus the input",
+            "It is required for the form to submit",
+            "It changes the input colour"
+          ],
+          "answer": 1,
+          "explain": "Labels help screen readers and make inputs easier to click and focus."
+        },
+        {
+          "q": "Which input type checks that a value looks like an email?",
+          "options": [
+            "text",
+            "email",
+            "mail",
+            "address"
+          ],
+          "answer": 1,
+          "explain": "type='email' triggers built-in email format validation."
+        },
+        {
+          "q": "Which attribute makes a field mandatory?",
+          "options": [
+            "mandatory",
+            "required",
+            "must",
+            "validate"
+          ],
+          "answer": 1,
+          "explain": "The required attribute blocks submission until the field is filled."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "CSS Basics: Selectors and Colours",
+      "goal": "Style a page with CSS selectors, colours, fonts and spacing.",
+      "video": {
+        "youtube_id": "dX8396ZmSPk",
+        "title": "Learn Web Development with This Free 20-Hour Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Create a styles.css file and link it in your HTML head.",
+        "Set the body font, background colour and text colour.",
+        "Style all h1 headings one way and give one paragraph a class for a different style.",
+        "Use an id selector to style a single standout element."
+      ],
+      "task": "Style your 'About me' page: a font stack, two colours, styled headings and one highlighted box.",
+      "challenge": "Recreate the same look using only class selectors, no element or id selectors.",
+      "quiz": [
+        {
+          "q": "How do you link an external stylesheet?",
+          "options": [
+            "<style src='styles.css'>",
+            "<link rel='stylesheet' href='styles.css'>",
+            "<css href='styles.css'>",
+            "<import styles.css>"
+          ],
+          "answer": 1,
+          "explain": "<link rel='stylesheet' href='...'> connects a CSS file."
+        },
+        {
+          "q": "Which selector targets class 'card'?",
+          "options": [
+            ".card",
+            "#card",
+            "card",
+            "*card"
+          ],
+          "answer": 0,
+          "explain": "A dot targets a class; a hash targets an id."
+        },
+        {
+          "q": "Which property changes text colour?",
+          "options": [
+            "text-color",
+            "font-color",
+            "color",
+            "text-style"
+          ],
+          "answer": 2,
+          "explain": "The color property sets the colour of text."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "The Box Model: Margin, Padding and Borders",
+      "goal": "Control layout spacing with the CSS box model.",
+      "video": {
+        "youtube_id": "SR5GxoFhIAU",
+        "title": "Learn HTML and CSS by Building an Order Summary Component",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Give a div a width, padding, border and margin and inspect it in DevTools.",
+        "Add box-sizing: border-box to all elements and notice how widths behave.",
+        "Build a card with an image, heading, text and button, with padding inside and margin outside.",
+        "Centre the card on the page using margin: 0 auto and a max-width."
+      ],
+      "task": "Build three cards in a row using the box model, each with padding, a border and a button.",
+      "challenge": "Make the cards equal height without setting a fixed height on them.",
+      "quiz": [
+        {
+          "q": "What does padding do?",
+          "options": [
+            "Space outside the border",
+            "Space inside the border, between content and border",
+            "Space between elements",
+            "It sets the font size"
+          ],
+          "answer": 1,
+          "explain": "Padding is inner space between content and border; margin is outer space."
+        },
+        {
+          "q": "What does box-sizing: border-box change?",
+          "options": [
+            "It removes borders",
+            "Width includes padding and border",
+            "It hides overflow",
+            "It centres the element"
+          ],
+          "answer": 1,
+          "explain": "With border-box, the width you set includes padding and border, which is easier to predict."
+        },
+        {
+          "q": "Which property centres a block element horizontally?",
+          "options": [
+            "text-align: center",
+            "margin: 0 auto",
+            "align: center",
+            "position: center"
+          ],
+          "answer": 1,
+          "explain": "margin: 0 auto centres a block with a set width."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Personal Profile Page",
+      "goal": "Combine HTML and CSS into a finished personal profile page.",
+      "video": {
+        "youtube_id": "3elGSZSWTbM",
+        "title": "CSS Flexbox and Grid Tutorial",
+        "channel": "Kevin Powell"
+      },
+      "steps": [
+        "Plan the page on paper: header, about, skills, contact.",
+        "Write semantic HTML for all four sections.",
+        "Style it with your own colour scheme, fonts and spacing.",
+        "Check the page at a narrow window width and fix anything that overflows."
+      ],
+      "task": "Ship a complete profile page with a photo, bio, skills list and contact form, all styled.",
+      "challenge": "Ask a friend to open the page and find one thing that is hard to read, then fix it.",
+      "quiz": [
+        {
+          "q": "What makes HTML semantic?",
+          "options": [
+            "Using tags that describe the meaning of content, like <header> and <article>",
+            "Using only divs",
+            "Adding lots of classes",
+            "Writing short code"
+          ],
+          "answer": 0,
+          "explain": "Semantic tags describe meaning, which helps accessibility and search engines."
+        },
+        {
+          "q": "Why check a page at narrow widths?",
+          "options": [
+            "Phones are the most common way people browse",
+            "It makes the page load faster",
+            "It improves the colours",
+            "It is required by law"
+          ],
+          "answer": 0,
+          "explain": "Most visitors browse on phones, so a page must work at small widths."
+        },
+        {
+          "q": "What is the first thing to check when a style does not apply?",
+          "options": [
+            "The browser version",
+            "Whether the stylesheet is linked and the selector matches",
+            "The screen size",
+            "The file name"
+          ],
+          "answer": 1,
+          "explain": "A missing link or a wrong selector is the most common cause."
+        }
+      ],
+      "project": {
+        "title": "Personal Profile Page",
+        "brief": "Build a complete personal profile page with semantic HTML and CSS: header with your name and photo, an about section, a skills list and a contact form.",
+        "checks": [
+          "Page uses header, main, section and footer tags",
+          "At least one image with descriptive alt text",
+          "Contact form has labelled inputs and a submit button",
+          "Custom colours and fonts applied through an external stylesheet",
+          "Page has no horizontal overflow at 360px wide",
+          "All text is readable with good contrast"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Flexbox: Lining Things Up",
+      "goal": "Lay out content in rows and columns with Flexbox.",
+      "video": {
+        "youtube_id": "aDXiv1NK4k4",
+        "title": "Flexbox vs Grid | Which One Should You Use & Why?",
+        "channel": "Akash Coding Hub"
+      },
+      "steps": [
+        "Make a container display: flex and put three boxes inside it.",
+        "Use justify-content to spread the boxes apart, then centre them.",
+        "Use align-items to line the boxes up vertically.",
+        "Make a navigation bar with a logo on the left and links on the right using flex."
+      ],
+      "task": "Build a nav bar and a row of three feature boxes using Flexbox.",
+      "challenge": "Build the same row so the boxes wrap onto a second line on narrow screens.",
+      "quiz": [
+        {
+          "q": "What does display: flex do to an element's children?",
+          "options": [
+            "Stacks them vertically",
+            "Lays them out along a main axis you control",
+            "Hides them",
+            "Makes them the same colour"
+          ],
+          "answer": 1,
+          "explain": "Flexbox arranges children along a row or column with alignment controls."
+        },
+        {
+          "q": "Which property distributes space along the main axis?",
+          "options": [
+            "align-items",
+            "justify-content",
+            "flex-direction",
+            "gap"
+          ],
+          "answer": 1,
+          "explain": "justify-content controls spacing along the main axis."
+        },
+        {
+          "q": "What does flex-wrap: wrap allow?",
+          "options": [
+            "Items to shrink to zero",
+            "Items to move onto a new line when they run out of room",
+            "Items to overlap",
+            "Items to disappear"
+          ],
+          "answer": 1,
+          "explain": "wrap lets flex items flow onto extra lines instead of overflowing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "CSS Grid: Two-Dimensional Layouts",
+      "goal": "Build page layouts with CSS Grid rows and columns.",
+      "video": {
+        "youtube_id": "gT6rHhOZEO0",
+        "title": "Learn CSS Flexbox & CSS Grid Building This Dashboard - html and css (CSS Full course 2026)",
+        "channel": "Code With Divine"
+      },
+      "steps": [
+        "Create a grid container with three equal columns using repeat(3, 1fr).",
+        "Place a header that spans all three columns.",
+        "Use grid-template-areas to name regions: header, sidebar, main, footer.",
+        "Add a gap between grid cells."
+      ],
+      "task": "Build a blog layout with a full-width header, a sidebar and a main article area using Grid.",
+      "challenge": "Rebuild the same layout with Flexbox and note which one felt easier for this job.",
+      "quiz": [
+        {
+          "q": "What does 1fr mean in a grid track?",
+          "options": [
+            "1 fixed pixel",
+            "One fraction of the free space",
+            "1 frame",
+            "First row"
+          ],
+          "answer": 1,
+          "explain": "fr units share out the free space proportionally."
+        },
+        {
+          "q": "Which is Grid best suited for?",
+          "options": [
+            "One-dimensional rows only",
+            "Two-dimensional layouts with rows and columns",
+            "Animations",
+            "Fonts"
+          ],
+          "answer": 1,
+          "explain": "Grid controls rows and columns together; Flexbox is best for one direction."
+        },
+        {
+          "q": "What does grid-template-areas do?",
+          "options": [
+            "Adds background images",
+            "Lets you name layout regions and place items by name",
+            "Sets the font",
+            "Creates animations"
+          ],
+          "answer": 1,
+          "explain": "Named areas let you describe a layout in a readable map."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Responsive Design and Media Queries",
+      "goal": "Make layouts adapt to phones, tablets and desktops.",
+      "video": {
+        "youtube_id": "LzMnsfqjzkA",
+        "title": "Become a Fullstack Developer from Scratch",
+        "channel": "Scrimba"
+      },
+      "steps": [
+        "Add the viewport meta tag to your page head.",
+        "Write a media query that stacks a three-column grid into one column under 700px.",
+        "Make images responsive with max-width: 100%.",
+        "Test your page by resizing the browser and with DevTools device mode."
+      ],
+      "task": "Take your blog layout and make it fully usable on a 360px-wide phone screen.",
+      "challenge": "Add a second breakpoint at 1024px that changes the layout for tablets.",
+      "quiz": [
+        {
+          "q": "What does the viewport meta tag do?",
+          "options": [
+            "It sets the page title",
+            "It tells mobile browsers to use the device width for layout",
+            "It loads fonts",
+            "It hides the scrollbar"
+          ],
+          "answer": 1,
+          "explain": "Without it, phones render the desktop layout zoomed out."
+        },
+        {
+          "q": "In a media query, what does max-width: 700px mean?",
+          "options": [
+            "Apply these styles when the screen is 700px or narrower",
+            "Set the width to 700px",
+            "Apply styles only on screens wider than 700px",
+            "Hide screens under 700px"
+          ],
+          "answer": 0,
+          "explain": "max-width applies the rules at that width and below."
+        },
+        {
+          "q": "Why use max-width: 100% on images?",
+          "options": [
+            "It makes images load faster",
+            "It stops images overflowing narrow containers",
+            "It crops images",
+            "It adds a border"
+          ],
+          "answer": 1,
+          "explain": "Responsive images shrink to fit their container instead of overflowing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Transitions, Animations and Hover States",
+      "goal": "Add motion and feedback with CSS transitions and keyframe animations.",
+      "video": {
+        "youtube_id": "SYjNlKyUHOA",
+        "title": "Complete Web Designing & Front-End Development Course in 10 Hours | HTML, CSS & JavaScript",
+        "channel": "Tpoint Tech"
+      },
+      "steps": [
+        "Add a hover effect to a button that changes colour over 0.3s with transition.",
+        "Make a card lift slightly on hover using transform: translateY.",
+        "Create a @keyframes fade-in animation and apply it to a page heading.",
+        "Add a loading spinner using a rotating border animation."
+      ],
+      "task": "Add hover states to every link and button on your profile page, plus one entrance animation.",
+      "challenge": "Make the animation respect users who prefer reduced motion with a media query.",
+      "quiz": [
+        {
+          "q": "What does transition do?",
+          "options": [
+            "It animates a property change smoothly over time",
+            "It moves an element to another page",
+            "It changes the HTML",
+            "It loads a new stylesheet"
+          ],
+          "answer": 0,
+          "explain": "transition smooths the change between two states of a property."
+        },
+        {
+          "q": "Which property moves an element without changing layout?",
+          "options": [
+            "margin",
+            "padding",
+            "transform",
+            "position"
+          ],
+          "answer": 2,
+          "explain": "transform moves the visual rendering without disturbing surrounding layout."
+        },
+        {
+          "q": "What defines the steps of a keyframe animation?",
+          "options": [
+            "@keyframes with percentage stops",
+            "@animation",
+            "@motion",
+            "@steps"
+          ],
+          "answer": 0,
+          "explain": "@keyframes lists the styles at each point of the animation."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "CSS Variables and Design Tokens",
+      "goal": "Build a consistent design system with CSS custom properties.",
+      "video": {
+        "youtube_id": "F9SlSpO8_Ys",
+        "title": "Introduction to Web Development with HTML, CSS, JavaScript",
+        "channel": "Amazing eLearning"
+      },
+      "steps": [
+        "Define --primary, --background and --text variables on :root.",
+        "Replace hard-coded colours across your stylesheet with the variables.",
+        "Add a dark theme by redefining the variables under a .dark class.",
+        "Add a button that toggles the .dark class with one line of JavaScript."
+      ],
+      "task": "Convert your profile page to use CSS variables and add a working light/dark toggle.",
+      "challenge": "Create a second colour theme (for example green and gold) by changing only the variables.",
+      "quiz": [
+        {
+          "q": "Where are CSS variables usually defined?",
+          "options": [
+            "In the HTML body",
+            "On :root so every element can use them",
+            "Inside each class",
+            "In a separate .var file"
+          ],
+          "answer": 1,
+          "explain": ":root is the document root, so variables defined there are global."
+        },
+        {
+          "q": "How do you use a variable called --primary?",
+          "options": [
+            "var(--primary)",
+            "$primary",
+            "use(--primary)",
+            "primary()"
+          ],
+          "answer": 0,
+          "explain": "var() reads the value of a custom property."
+        },
+        {
+          "q": "Why use variables for colours?",
+          "options": [
+            "They load faster",
+            "One change updates the whole site consistently",
+            "They work without CSS",
+            "They replace images"
+          ],
+          "answer": 1,
+          "explain": "Variables keep a design consistent and easy to change in one place."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Accessibility and Semantic HTML",
+      "goal": "Make pages usable for everyone, including keyboard and screen-reader users.",
+      "video": {
+        "youtube_id": "krfUjg0S2uI",
+        "title": "Create a Simple Website with HTML, CSS, JavaScript",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Check that every image has meaningful alt text and every input has a label.",
+        "Make sure all interactive elements can be reached and used with the Tab key.",
+        "Add a visible focus style so keyboard users can see where they are.",
+        "Test your page with a screen reader or the browser's accessibility checker."
+      ],
+      "task": "Audit your profile page and fix at least five accessibility issues.",
+      "challenge": "Navigate your whole site using only the keyboard and fix anything you cannot reach.",
+      "quiz": [
+        {
+          "q": "What is alt text for?",
+          "options": [
+            "SEO only",
+            "Describing images to people who cannot see them",
+            "Making images load faster",
+            "Styling images"
+          ],
+          "answer": 1,
+          "explain": "Alt text is read by screen readers so blind users understand images."
+        },
+        {
+          "q": "Why does focus visibility matter?",
+          "options": [
+            "It looks nice",
+            "Keyboard users need to see which element is active",
+            "It speeds up the page",
+            "It helps search engines"
+          ],
+          "answer": 1,
+          "explain": "Without a visible focus indicator, keyboard users cannot tell where they are."
+        },
+        {
+          "q": "Which heading order is correct?",
+          "options": [
+            "h1, then h3, then h2",
+            "h1, then h2, then h3 in order",
+            "Any order is fine",
+            "Only h1 should be used"
+          ],
+          "answer": 1,
+          "explain": "Headings should follow a logical order so screen readers can outline the page."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Responsive Landing Page",
+      "goal": "Design and build a polished responsive landing page for a real product.",
+      "video": {
+        "youtube_id": "nu_pCVPKzTk",
+        "title": "Full Stack Web Development for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Pick a product or service and sketch the landing page sections on paper.",
+        "Build the hero section with a headline, supporting text and a call-to-action button.",
+        "Add a features section with three cards and a testimonial section.",
+        "Make the whole page responsive with Flexbox, Grid and one media query."
+      ],
+      "task": "Ship a complete landing page with hero, features, testimonials and a footer, working on phone and desktop.",
+      "challenge": "Get one person to read the page for 10 seconds and tell you what the product does; fix it if they cannot.",
+      "quiz": [
+        {
+          "q": "What is the job of a hero section?",
+          "options": [
+            "To show a large image",
+            "To explain the offer and get the visitor to act in seconds",
+            "To list prices",
+            "To show the footer"
+          ],
+          "answer": 1,
+          "explain": "The hero must communicate value fast and lead to one clear action."
+        },
+        {
+          "q": "What makes a good call-to-action button?",
+          "options": [
+            "Small grey text",
+            "Clear wording, strong contrast and one obvious next step",
+            "Many buttons at once",
+            "No text at all"
+          ],
+          "answer": 1,
+          "explain": "A CTA should be unmissable and say exactly what happens next."
+        },
+        {
+          "q": "When should you add a media query?",
+          "options": [
+            "Never",
+            "When the layout breaks or looks wrong at a certain width",
+            "On every page",
+            "Only for images"
+          ],
+          "answer": 1,
+          "explain": "Breakpoints belong where the design actually breaks, not at fixed device sizes."
+        }
+      ],
+      "project": {
+        "title": "Responsive Landing Page",
+        "brief": "Design and build a landing page for a real product or service, with a hero, features, testimonials and footer, fully responsive.",
+        "checks": [
+          "Hero has a clear headline, supporting text and one call-to-action",
+          "Features section uses Flexbox or Grid with three cards",
+          "Page works on a 360px phone screen without overflow",
+          "At least one media query adapts the layout",
+          "Hover states exist on links and buttons",
+          "Testimonial section is present with at least two quotes"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "JavaScript Basics: Variables and Data",
+      "goal": "Write your first JavaScript: variables, types and console output.",
+      "video": {
+        "youtube_id": "dX8396ZmSPk",
+        "title": "Learn Web Development with This Free 20-Hour Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Create a script.js file and link it at the end of your HTML body.",
+        "Declare variables with let and const and log them to the console.",
+        "Try the main types: string, number, boolean, array and object.",
+        "Use template literals to build a sentence from variables."
+      ],
+      "task": "Write a script that stores your name, age and three skills, then logs a sentence about yourself.",
+      "challenge": "Swap two variables' values without using a third variable.",
+      "quiz": [
+        {
+          "q": "What is the difference between let and const?",
+          "options": [
+            "let can be reassigned, const cannot",
+            "const is faster",
+            "let is for numbers only",
+            "There is no difference"
+          ],
+          "answer": 0,
+          "explain": "const bindings cannot be reassigned; let bindings can."
+        },
+        {
+          "q": "Which of these is a string?",
+          "options": [
+            "42",
+            "'42'",
+            "true",
+            "[42]"
+          ],
+          "answer": 1,
+          "explain": "Quotes make it a string; without quotes 42 is a number."
+        },
+        {
+          "q": "What does console.log do?",
+          "options": [
+            "Shows a popup",
+            "Prints a value to the browser console for debugging",
+            "Writes to the page",
+            "Saves a file"
+          ],
+          "answer": 1,
+          "explain": "console.log outputs values to the developer console."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Functions and Scope",
+      "goal": "Organise code into reusable functions.",
+      "video": {
+        "youtube_id": "SR5GxoFhIAU",
+        "title": "Learn HTML and CSS by Building an Order Summary Component",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Write a function greet(name) that returns a greeting string.",
+        "Write a function that takes a price and a discount and returns the final price.",
+        "Use default parameters so a function works when an argument is missing.",
+        "Call your functions from different places and log the results."
+      ],
+      "task": "Write five small utility functions (greet, add, multiply, isEven, fullName) and test each in the console.",
+      "challenge": "Rewrite one function as an arrow function and confirm it still works.",
+      "quiz": [
+        {
+          "q": "What does return do in a function?",
+          "options": [
+            "Stops the page",
+            "Sends a value back to the caller",
+            "Prints to the screen",
+            "Deletes the function"
+          ],
+          "answer": 1,
+          "explain": "return passes a value out of the function to whoever called it."
+        },
+        {
+          "q": "What is a parameter?",
+          "options": [
+            "A value passed into a function",
+            "A type of loop",
+            "A CSS rule",
+            "An HTML tag"
+          ],
+          "answer": 0,
+          "explain": "Parameters are the named inputs a function accepts."
+        },
+        {
+          "q": "What is an arrow function?",
+          "options": [
+            "A function written with => syntax",
+            "A function that draws arrows",
+            "A CSS animation",
+            "A HTML element"
+          ],
+          "answer": 0,
+          "explain": "Arrow functions use the => syntax and are a compact way to write functions."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "The DOM: Selecting and Changing Elements",
+      "goal": "Read and change page content with JavaScript and the DOM.",
+      "video": {
+        "youtube_id": "3elGSZSWTbM",
+        "title": "CSS Flexbox and Grid Tutorial",
+        "channel": "Kevin Powell"
+      },
+      "steps": [
+        "Select an element by id with document.getElementById.",
+        "Change its text with textContent and its style with .style.",
+        "Select several elements with querySelectorAll and loop over them.",
+        "Create a new list item with JavaScript and add it to a page."
+      ],
+      "task": "Build a page where a button changes the heading text, background colour and an image when clicked.",
+      "challenge": "Change every list item on a page to uppercase using one loop.",
+      "quiz": [
+        {
+          "q": "What does document.querySelector('.card') return?",
+          "options": [
+            "All elements with class card",
+            "The first element with class card",
+            "The CSS for .card",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "querySelector returns the first match; querySelectorAll returns all matches."
+        },
+        {
+          "q": "Which property changes an element's text safely?",
+          "options": [
+            "innerHTML",
+            "textContent",
+            "value",
+            "innerText"
+          ],
+          "answer": 1,
+          "explain": "textContent sets plain text without parsing HTML, which is safer."
+        },
+        {
+          "q": "What is the DOM?",
+          "options": [
+            "A database",
+            "The browser's live representation of the page as objects JavaScript can change",
+            "A CSS file",
+            "A server"
+          ],
+          "answer": 1,
+          "explain": "The DOM is the tree of objects the browser builds from HTML."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Events: Making Pages Interactive",
+      "goal": "Respond to clicks, typing and other user actions.",
+      "video": {
+        "youtube_id": "aDXiv1NK4k4",
+        "title": "Flexbox vs Grid | Which One Should You Use & Why?",
+        "channel": "Akash Coding Hub"
+      },
+      "steps": [
+        "Add a click listener to a button that shows an alert or updates text.",
+        "Listen for the input event on a text field and mirror what the user types.",
+        "Add a mouseover effect that highlights a card.",
+        "Prevent a form from reloading the page with preventDefault()."
+      ],
+      "task": "Build a live character counter: as the user types in a textarea, show how many characters remain out of 200.",
+      "challenge": "Add a button that toggles a dark theme class on the body.",
+      "quiz": [
+        {
+          "q": "What does addEventListener do?",
+          "options": [
+            "Runs code when a chosen event happens on an element",
+            "Adds a new HTML element",
+            "Loads a stylesheet",
+            "Creates a variable"
+          ],
+          "answer": 0,
+          "explain": "It registers a function to run when an event like click or input fires."
+        },
+        {
+          "q": "What does event.preventDefault() do?",
+          "options": [
+            "Stops the element from existing",
+            "Stops the browser's default action, like submitting a form",
+            "Deletes the event",
+            "Hides the element"
+          ],
+          "answer": 1,
+          "explain": "It cancels the default behaviour, for example a form reload."
+        },
+        {
+          "q": "Which event fires every time a user types in a field?",
+          "options": [
+            "click",
+            "submit",
+            "input",
+            "load"
+          ],
+          "answer": 2,
+          "explain": "The input event fires on every keystroke and paste."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Arrays, Objects and Loops",
+      "goal": "Store and process collections of data with arrays and objects.",
+      "video": {
+        "youtube_id": "gT6rHhOZEO0",
+        "title": "Learn CSS Flexbox & CSS Grid Building This Dashboard - html and css (CSS Full course 2026)",
+        "channel": "Code With Divine"
+      },
+      "steps": [
+        "Create an array of five products, each an object with name and price.",
+        "Use a for loop to log every product name.",
+        "Use .map() to build an array of just the prices.",
+        "Use .filter() to keep only products under a price you choose."
+      ],
+      "task": "Render a product list on a page from an array of objects, with name and price for each.",
+      "challenge": "Sort the products by price and re-render the list.",
+      "quiz": [
+        {
+          "q": "Which method creates a new array by transforming each item?",
+          "options": [
+            "filter",
+            "map",
+            "forEach",
+            "push"
+          ],
+          "answer": 1,
+          "explain": "map returns a new array with each item transformed by your function."
+        },
+        {
+          "q": "How do you access the price of object product?",
+          "options": [
+            "product[price]",
+            "product.price",
+            "product->price",
+            "price.product"
+          ],
+          "answer": 1,
+          "explain": "Dot notation reads a property: product.price."
+        },
+        {
+          "q": "What does .filter() return?",
+          "options": [
+            "A single value",
+            "A new array with only the items that pass a test",
+            "The first item",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "filter returns a new array containing only matching items."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Conditionals and Logic in Practice",
+      "goal": "Use if/else and logical operators to make decisions in code.",
+      "video": {
+        "youtube_id": "LzMnsfqjzkA",
+        "title": "Become a Fullstack Developer from Scratch",
+        "channel": "Scrimba"
+      },
+      "steps": [
+        "Write a function that returns a grade letter from a score.",
+        "Use && and || to combine two conditions in one if statement.",
+        "Use a ternary operator for a short either-or value.",
+        "Handle an empty input by showing an error message instead of crashing."
+      ],
+      "task": "Build a small discount checker: enter a price and a code, and show the correct final price or an error.",
+      "challenge": "Add a third discount code with a different percentage.",
+      "quiz": [
+        {
+          "q": "What does === check?",
+          "options": [
+            "Value only",
+            "Value and type, without converting types",
+            "Type only",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Strict equality checks both value and type; == converts types first."
+        },
+        {
+          "q": "When does an else block run?",
+          "options": [
+            "Always",
+            "When the if condition is false",
+            "When the code loads",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "else runs only when its matching if condition is false."
+        },
+        {
+          "q": "What does && mean?",
+          "options": [
+            "OR",
+            "AND \u2014 both sides must be true",
+            "NOT",
+            "Equals"
+          ],
+          "answer": 1,
+          "explain": "&& is logical AND; both sides must be true for the whole thing to be true."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Interactive Quiz App",
+      "goal": "Build a working quiz app with questions, scoring and feedback.",
+      "video": {
+        "youtube_id": "SYjNlKyUHOA",
+        "title": "Complete Web Designing & Front-End Development Course in 10 Hours | HTML, CSS & JavaScript",
+        "channel": "Tpoint Tech"
+      },
+      "steps": [
+        "Store five quiz questions as an array of objects with options and a correct answer.",
+        "Render one question at a time with clickable answer buttons.",
+        "Track the score and show feedback after each answer.",
+        "Show a final results screen with the score and a restart button."
+      ],
+      "task": "Ship a quiz app with at least 5 questions, live scoring and a results screen.",
+      "challenge": "Add a 10-second timer per question that moves on automatically when time runs out.",
+      "quiz": [
+        {
+          "q": "Why store questions as data instead of hard-coding HTML?",
+          "options": [
+            "It is shorter",
+            "The same rendering code can show any question, so adding questions is easy",
+            "It loads faster",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Data-driven rendering separates content from code and scales easily."
+        },
+        {
+          "q": "How do you track a quiz score in JavaScript?",
+          "options": [
+            "In a CSS variable",
+            "In a variable that increases when an answer is correct",
+            "In the HTML title",
+            "You cannot"
+          ],
+          "answer": 1,
+          "explain": "A score variable is updated as the user answers."
+        },
+        {
+          "q": "What should happen after the last question?",
+          "options": [
+            "Nothing",
+            "Show the final score and a way to restart",
+            "Reload the page silently",
+            "Delete the questions"
+          ],
+          "answer": 1,
+          "explain": "A results screen closes the loop and lets the user try again."
+        }
+      ],
+      "project": {
+        "title": "Interactive Quiz App",
+        "brief": "Build a quiz app in JavaScript with at least five questions, live scoring, feedback after each answer and a results screen.",
+        "checks": [
+          "Questions stored as data, not hard-coded HTML",
+          "One question shown at a time with clickable answers",
+          "Score updates live and is shown at the end",
+          "Feedback appears after each answer",
+          "A restart button starts a new round",
+          "App works without console errors"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Fetch API and Working with JSON",
+      "goal": "Load real data from an API and show it on a page.",
+      "video": {
+        "youtube_id": "F9SlSpO8_Ys",
+        "title": "Introduction to Web Development with HTML, CSS, JavaScript",
+        "channel": "Amazing eLearning"
+      },
+      "steps": [
+        "Use fetch() to request data from a public JSON API.",
+        "Convert the response with .json() and log the result.",
+        "Handle errors with .catch() and show a friendly message.",
+        "Render the fetched items as cards on the page."
+      ],
+      "task": "Build a page that fetches a list of posts or users from a public API and displays them as cards.",
+      "challenge": "Add a search box that filters the fetched results as you type.",
+      "quiz": [
+        {
+          "q": "What does fetch() return?",
+          "options": [
+            "The data directly",
+            "A Promise that resolves to a response",
+            "An HTML page",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "fetch returns a Promise; you await it and then parse the body."
+        },
+        {
+          "q": "What is JSON?",
+          "options": [
+            "A programming language",
+            "A text format for structured data",
+            "A database",
+            "A CSS framework"
+          ],
+          "answer": 1,
+          "explain": "JSON is a lightweight text format for sending structured data."
+        },
+        {
+          "q": "Why use .catch() with fetch?",
+          "options": [
+            "To make it faster",
+            "To handle network failures and show a useful message",
+            "To style the data",
+            "It is optional decoration"
+          ],
+          "answer": 1,
+          "explain": "Network requests can fail, so errors must be handled gracefully."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Saving Data with Local Storage",
+      "goal": "Persist user data in the browser with localStorage.",
+      "video": {
+        "youtube_id": "krfUjg0S2uI",
+        "title": "Create a Simple Website with HTML, CSS, JavaScript",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Save a value with localStorage.setItem and read it back with getItem.",
+        "Store an object by converting it with JSON.stringify.",
+        "Load saved data when the page opens and restore the page state.",
+        "Add a button that clears the saved data."
+      ],
+      "task": "Build a notes app that saves notes to localStorage and restores them after a refresh.",
+      "challenge": "Add a delete button for each note that also updates storage.",
+      "quiz": [
+        {
+          "q": "What does localStorage do?",
+          "options": [
+            "Sends data to a server",
+            "Stores key-value data in the browser that survives refreshes",
+            "Deletes cookies",
+            "Caches images"
+          ],
+          "answer": 1,
+          "explain": "localStorage keeps data in the browser across sessions."
+        },
+        {
+          "q": "Why use JSON.stringify before saving an object?",
+          "options": [
+            "localStorage only stores strings",
+            "It makes objects smaller",
+            "It encrypts the data",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "localStorage stores strings, so objects must be serialised first."
+        },
+        {
+          "q": "How do you remove one saved item?",
+          "options": [
+            "localStorage.removeItem(key)",
+            "delete localStorage",
+            "localStorage.clear(key)",
+            "localStorage.drop(key)"
+          ],
+          "answer": 0,
+          "explain": "removeItem deletes one key; clear() wipes everything."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Form Validation with JavaScript",
+      "goal": "Validate forms in JavaScript and show helpful error messages.",
+      "video": {
+        "youtube_id": "nu_pCVPKzTk",
+        "title": "Full Stack Web Development for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Listen for the form submit event and stop the default reload.",
+        "Check that the name is at least 2 characters and the email contains @.",
+        "Show a red error message under any invalid field.",
+        "Show a green success message when the form is valid."
+      ],
+      "task": "Build a sign-up form with live validation for name, email and password strength.",
+      "challenge": "Add a rule that the password must be at least 8 characters with a number.",
+      "quiz": [
+        {
+          "q": "Why validate on the client as well as the server?",
+          "options": [
+            "Client validation gives instant feedback; server validation is the real security",
+            "Client validation replaces the server",
+            "It is faster to skip the server",
+            "Browsers require it"
+          ],
+          "answer": 0,
+          "explain": "Client checks improve experience; server checks protect the data."
+        },
+        {
+          "q": "What is a good way to show an error?",
+          "options": [
+            "An alert popup",
+            "Inline text next to the field, in a clear colour",
+            "Hiding the form",
+            "Changing the page title"
+          ],
+          "answer": 1,
+          "explain": "Inline messages tell the user exactly which field to fix."
+        },
+        {
+          "q": "When should validation run?",
+          "options": [
+            "Only on submit",
+            "On submit and as the user types, for the best experience",
+            "Never",
+            "Only after a refresh"
+          ],
+          "answer": 1,
+          "explain": "Live feedback plus a final submit check gives the best experience."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Deploying Your Site and Using Git",
+      "goal": "Put your work online with Git and a free host.",
+      "video": {
+        "youtube_id": "dX8396ZmSPk",
+        "title": "Learn Web Development with This Free 20-Hour Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Initialise a Git repository in your project folder and make your first commit.",
+        "Create a free GitHub account and push your project to a repository.",
+        "Deploy the site with GitHub Pages or Netlify Drop.",
+        "Share the live link and test it on your phone."
+      ],
+      "task": "Deploy your portfolio site live and push the code to GitHub.",
+      "challenge": "Make a small change, commit it and redeploy to see the update go live.",
+      "quiz": [
+        {
+          "q": "What does git commit do?",
+          "options": [
+            "Uploads code to the internet",
+            "Saves a snapshot of your changes in local history",
+            "Deletes files",
+            "Creates a website"
+          ],
+          "answer": 1,
+          "explain": "A commit records a snapshot you can return to later."
+        },
+        {
+          "q": "What is GitHub Pages?",
+          "options": [
+            "A code editor",
+            "Free hosting for static sites from a GitHub repository",
+            "A database",
+            "A domain seller"
+          ],
+          "answer": 1,
+          "explain": "GitHub Pages serves a static site directly from your repo."
+        },
+        {
+          "q": "Why use version control?",
+          "options": [
+            "It makes code run faster",
+            "It tracks changes and lets you undo mistakes safely",
+            "It is required by browsers",
+            "It replaces backups"
+          ],
+          "answer": 1,
+          "explain": "Version control gives you a history and a safe way to roll back."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Performance, SEO and Best Practice",
+      "goal": "Make sites fast, findable and well organised.",
+      "video": {
+        "youtube_id": "SR5GxoFhIAU",
+        "title": "Learn HTML and CSS by Building an Order Summary Component",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Add a title tag and meta description to every page.",
+        "Compress your images and use the right format for each one.",
+        "Remove unused CSS and check your page load in DevTools.",
+        "Add semantic headings and alt text so search engines understand the page."
+      ],
+      "task": "Audit your portfolio for speed and SEO and fix at least five issues.",
+      "challenge": "Get a Lighthouse score in DevTools and improve it by 10 points.",
+      "quiz": [
+        {
+          "q": "What is a meta description?",
+          "options": [
+            "A CSS rule",
+            "A short summary of the page shown in search results",
+            "A JavaScript function",
+            "An image caption"
+          ],
+          "answer": 1,
+          "explain": "The meta description is the snippet search engines may show under your link."
+        },
+        {
+          "q": "Why compress images?",
+          "options": [
+            "They look better",
+            "Smaller files load faster, especially on slow connections",
+            "They change colour",
+            "Search engines require it"
+          ],
+          "answer": 1,
+          "explain": "Large images are the most common cause of slow pages."
+        },
+        {
+          "q": "What does Lighthouse measure?",
+          "options": [
+            "Only colours",
+            "Performance, accessibility, best practices and SEO",
+            "Only spelling",
+            "Server uptime"
+          ],
+          "answer": 1,
+          "explain": "Lighthouse audits a page across performance, accessibility, best practices and SEO."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Debugging Like a Developer",
+      "goal": "Find and fix bugs systematically with DevTools.",
+      "video": {
+        "youtube_id": "3elGSZSWTbM",
+        "title": "CSS Flexbox and Grid Tutorial",
+        "channel": "Kevin Powell"
+      },
+      "steps": [
+        "Open the console and read an error message to find the failing line.",
+        "Use console.log at key points to trace what your code is doing.",
+        "Set a breakpoint in the Sources panel and step through code.",
+        "Fix a bug by changing one thing at a time and re-testing."
+      ],
+      "task": "Deliberately break a working page in three ways, then find and fix each bug using DevTools.",
+      "challenge": "Explain each bug and its fix in one sentence each, as if teaching a friend.",
+      "quiz": [
+        {
+          "q": "What is a breakpoint?",
+          "options": [
+            "A CSS rule",
+            "A point where code pauses so you can inspect values",
+            "A page break",
+            "A type of error"
+          ],
+          "answer": 1,
+          "explain": "Breakpoints pause execution so you can examine variables at that moment."
+        },
+        {
+          "q": "What should you do first when something breaks?",
+          "options": [
+            "Rewrite everything",
+            "Read the error message \u2014 it usually names the file and line",
+            "Delete the file",
+            "Ask someone immediately"
+          ],
+          "answer": 1,
+          "explain": "Error messages point at the problem; reading them saves hours."
+        },
+        {
+          "q": "Why change one thing at a time when debugging?",
+          "options": [
+            "It is slower",
+            "So you know exactly which change fixed the problem",
+            "Browsers require it",
+            "It looks professional"
+          ],
+          "answer": 1,
+          "explain": "Changing one variable at a time isolates the cause."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Polishing Your Portfolio",
+      "goal": "Turn your projects into a portfolio that shows your skill.",
+      "video": {
+        "youtube_id": "aDXiv1NK4k4",
+        "title": "Flexbox vs Grid | Which One Should You Use & Why?",
+        "channel": "Akash Coding Hub"
+      },
+      "steps": [
+        "Choose your three best projects and write a one-line description for each.",
+        "Add screenshots or live links for every project.",
+        "Write a short 'About' section that says what you build and what you are learning.",
+        "Check every link and fix any spelling mistakes."
+      ],
+      "task": "Publish a portfolio page linking all your course projects with descriptions.",
+      "challenge": "Ask two people to review the portfolio and fix the top complaint from each.",
+      "quiz": [
+        {
+          "q": "What should a portfolio show?",
+          "options": [
+            "Every file you ever wrote",
+            "Your best work, with what you built and what it proves",
+            "Only certificates",
+            "Your CV only"
+          ],
+          "answer": 1,
+          "explain": "A portfolio proves skill with real work, not volume."
+        },
+        {
+          "q": "Why add a short description to each project?",
+          "options": [
+            "It fills space",
+            "It tells visitors what the project does and what you learned",
+            "It helps SEO only",
+            "It is decoration"
+          ],
+          "answer": 1,
+          "explain": "Context turns a screenshot into evidence of skill."
+        },
+        {
+          "q": "What is the most common portfolio mistake?",
+          "options": [
+            "Too few projects",
+            "Broken links and unfinished projects shown as finished",
+            "Too much colour",
+            "Short descriptions"
+          ],
+          "answer": 1,
+          "explain": "Broken links destroy trust instantly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Capstone Preparation",
+      "goal": "Plan your final capstone project in detail before building it.",
+      "video": {
+        "youtube_id": "gT6rHhOZEO0",
+        "title": "Learn CSS Flexbox & CSS Grid Building This Dashboard - html and css (CSS Full course 2026)",
+        "channel": "Code With Divine"
+      },
+      "steps": [
+        "Write a one-paragraph brief for the site you will build.",
+        "List every page and section the site needs.",
+        "Sketch the layout for desktop and mobile.",
+        "List the data, images and content you need to gather."
+      ],
+      "task": "Write a full capstone plan: brief, page list, sketches and a build checklist.",
+      "challenge": "Cut one feature from your plan to keep the build achievable in two days.",
+      "quiz": [
+        {
+          "q": "Why plan before building the capstone?",
+          "options": [
+            "Planning is optional",
+            "A plan prevents wasted work and keeps the build focused",
+            "It makes the site load faster",
+            "Clients require it"
+          ],
+          "answer": 1,
+          "explain": "A clear plan means you build once, not three times."
+        },
+        {
+          "q": "What belongs in a project brief?",
+          "options": [
+            "Only the colours",
+            "What you will build, who it is for and what success looks like",
+            "The full code",
+            "A list of fonts"
+          ],
+          "answer": 1,
+          "explain": "A brief defines the goal, the audience and the definition of done."
+        },
+        {
+          "q": "Why cut a feature before building?",
+          "options": [
+            "To make the project worse",
+            "To finish a polished smaller project instead of a broken big one",
+            "To save money",
+            "To avoid learning"
+          ],
+          "answer": 1,
+          "explain": "Scope discipline is what separates finished projects from abandoned ones."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Build and Launch",
+      "goal": "Build your capstone site, test it and deploy it live.",
+      "video": {
+        "youtube_id": "LzMnsfqjzkA",
+        "title": "Become a Fullstack Developer from Scratch",
+        "channel": "Scrimba"
+      },
+      "steps": [
+        "Build the capstone site following your plan, section by section.",
+        "Add JavaScript interactivity: at least one form, one dynamic list and one fetch or storage feature.",
+        "Test on a phone and a desktop, and fix layout and accessibility issues.",
+        "Deploy the finished site and share the live link."
+      ],
+      "task": "Ship your capstone: a complete multi-page or single-page site with real interactivity, deployed live.",
+      "challenge": "Record a 60-second walkthrough of your site explaining what you built and why.",
+      "quiz": [
+        {
+          "q": "What proves a capstone is complete?",
+          "options": [
+            "It has many pages",
+            "It works, is deployed and meets the checks in the brief",
+            "It uses a framework",
+            "It is long"
+          ],
+          "answer": 1,
+          "explain": "A finished, working, deployed project that meets its brief is complete."
+        },
+        {
+          "q": "What should you test before launch?",
+          "options": [
+            "Only the colours",
+            "Links, forms, layout on phone and desktop, and accessibility basics",
+            "Only the homepage",
+            "Nothing \u2014 deploy and hope"
+          ],
+          "answer": 1,
+          "explain": "Testing the real user paths catches the bugs visitors would hit."
+        },
+        {
+          "q": "What is the best next step after this course?",
+          "options": [
+            "Stop learning",
+            "Keep building small projects and learn a framework like React",
+            "Delete your code",
+            "Only watch videos"
+          ],
+          "answer": 1,
+          "explain": "Real projects plus a framework are the natural next step after the fundamentals."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Portfolio Website with Real Interactivity",
+    "brief": "Build and deploy a complete portfolio website for yourself or a fictional client. It must have at least three sections, a working contact form with validation, a dynamic project list loaded from JavaScript data, and one feature that fetches or saves data. Deploy it live and share the link.",
+    "checks": [
+      "Site is deployed live and the link works on a phone",
+      "At least three sections with clear headings and real content",
+      "Contact form validates input and shows success or error messages",
+      "Project list is rendered from JavaScript data, not hard-coded HTML",
+      "One feature uses fetch or localStorage",
+      "Site is responsive with no overflow at 360px",
+      "No console errors on any page"
+    ],
+    "deliverables": [
+      "Live portfolio website URL",
+      "GitHub repository with the full source code",
+      "Screenshots of the site on desktop and mobile",
+      "A short written summary of what you built and what you learned",
+      "A 60-second video or screen recording walkthrough"
+    ]
+  }
+}

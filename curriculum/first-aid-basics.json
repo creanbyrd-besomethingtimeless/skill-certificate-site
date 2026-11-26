@@ -1,0 +1,1718 @@
+{
+  "course": {
+    "id": "first-aid-basics",
+    "title": "First Aid Basics",
+    "level": "Beginner",
+    "tagline": "Handle cuts, burns, choking and emergencies calmly until help arrives.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "First aid: what it is and when to use it",
+      "goal": "Learn what first aid is and the first thing to do in an emergency.",
+      "video": {
+        "youtube_id": "M4ACYp75mjU",
+        "title": "Hands-Only CPR Instructional Video",
+        "channel": "American Heart Association"
+      },
+      "steps": [
+        "Watch the video and write down what first aid means in your own words.",
+        "Learn the first rule: check the scene is safe before you help.",
+        "Learn the emergency number in your area and write it down.",
+        "Tell a friend the emergency number from memory."
+      ],
+      "task": "Write the emergency number on a card and keep it in your wallet.",
+      "challenge": "Say the emergency number out loud 5 times from memory.",
+      "quiz": [
+        {
+          "q": "What is first aid?",
+          "options": [
+            "A hospital",
+            "Help given to a hurt person before doctors arrive",
+            "A medicine",
+            "A type of doctor"
+          ],
+          "answer": 1,
+          "explain": "First aid is early help until experts arrive."
+        },
+        {
+          "q": "What is the first thing to do at an emergency?",
+          "options": [
+            "Run in at once",
+            "Move the person",
+            "Check the scene is safe",
+            "Give water"
+          ],
+          "answer": 2,
+          "explain": "A safe scene protects you and the hurt person."
+        },
+        {
+          "q": "Why learn the emergency number?",
+          "options": [
+            "It is not needed",
+            "It is only for show",
+            "It wastes time",
+            "So you can call for help fast"
+          ],
+          "answer": 3,
+          "explain": "Knowing the number saves time in an emergency."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Stay calm and check the person",
+      "goal": "Learn how to stay calm and check if a person responds.",
+      "video": {
+        "youtube_id": "BAWGjNAj_vA",
+        "title": "Using an AED by American Red Cross",
+        "channel": "American Red Cross"
+      },
+      "steps": [
+        "Learn DRABC: Danger, Response, Airway, Breathing, Circulation.",
+        "Tap the person's shoulder and ask loudly: Are you OK?",
+        "If they answer, ask what hurts.",
+        "Practise the shoulder tap and question with a friend."
+      ],
+      "task": "Practise checking response with a friend.",
+      "challenge": "Write DRABC on a card and learn what each letter means.",
+      "quiz": [
+        {
+          "q": "What does DRABC stand for?",
+          "options": [
+            "Doctor, Room, Ambulance, Bed, Clinic",
+            "It means nothing",
+            "Danger, Response, Airway, Breathing, Circulation",
+            "It is a medicine"
+          ],
+          "answer": 2,
+          "explain": "DRABC is the order to check a hurt person."
+        },
+        {
+          "q": "How do you check if a person responds?",
+          "options": [
+            "Shake them hard",
+            "Pour water on them",
+            "Shout in their ear",
+            "Tap their shoulder and ask: Are you OK?"
+          ],
+          "answer": 3,
+          "explain": "A gentle tap and a loud question checks response."
+        },
+        {
+          "q": "Why stay calm in an emergency?",
+          "options": [
+            "Calm thinking helps you act clearly",
+            "Calm wastes time",
+            "Panic helps",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Staying calm helps you help well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Call for help the right way",
+      "goal": "Learn what to say when you call the emergency number.",
+      "video": {
+        "youtube_id": "iI-gu2rxgQs",
+        "title": "BLS - Choking Video",
+        "channel": "ACLS.com"
+      },
+      "steps": [
+        "Say where you are: the address and a clear landmark.",
+        "Say what happened in short words.",
+        "Say how many people are hurt.",
+        "Stay on the line until they tell you to hang up."
+      ],
+      "task": "Practise an emergency call with a friend playing the operator.",
+      "challenge": "Write your home address on a card by your phone.",
+      "quiz": [
+        {
+          "q": "What should you say first in an emergency call?",
+          "options": [
+            "Your life story",
+            "A joke",
+            "Nothing",
+            "Where you are"
+          ],
+          "answer": 3,
+          "explain": "Your location helps help find you fast."
+        },
+        {
+          "q": "Why say how many people are hurt?",
+          "options": [
+            "So the right help is sent",
+            "It does not matter",
+            "To fill time",
+            "It is rude"
+          ],
+          "answer": 0,
+          "explain": "Numbers help send enough help."
+        },
+        {
+          "q": "When should you hang up?",
+          "options": [
+            "At once",
+            "When the operator tells you to",
+            "After 10 seconds",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Staying on the line lets the operator guide you."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "CPR: hands only, step by step",
+      "goal": "Learn hands-only CPR for an adult who is not breathing.",
+      "video": {
+        "youtube_id": "SYIwQNekj8I",
+        "title": "How to Help a Choking Adult",
+        "channel": "Telluride Medical Center"
+      },
+      "steps": [
+        "Check response: tap and shout.",
+        "Call the emergency number or ask someone else to call.",
+        "Push hard and fast in the centre of the chest: 100 to 120 pushes a minute.",
+        "Keep going until help arrives or the person wakes up."
+      ],
+      "task": "Practise the hand position on a cushion.",
+      "challenge": "Practise pushing to the beat of a song at 100 beats a minute.",
+      "quiz": [
+        {
+          "q": "When do you start CPR?",
+          "options": [
+            "When a person does not respond and is not breathing normally",
+            "When they are sleeping",
+            "When they are talking",
+            "When they are awake"
+          ],
+          "answer": 0,
+          "explain": "CPR is for a person who is not breathing."
+        },
+        {
+          "q": "Where do your hands go in CPR?",
+          "options": [
+            "On the belly",
+            "In the centre of the chest",
+            "On the head",
+            "On the legs"
+          ],
+          "answer": 1,
+          "explain": "The centre of the chest is the right spot."
+        },
+        {
+          "q": "How fast should you push?",
+          "options": [
+            "10 a minute",
+            "As fast as you can",
+            "About 100 to 120 pushes a minute",
+            "As slow as you can"
+          ],
+          "answer": 2,
+          "explain": "One hundred to 120 a minute keeps blood moving."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Use an AED safely",
+      "goal": "Learn what an AED is and how to use one.",
+      "video": {
+        "youtube_id": "OEzBQlyRpRI",
+        "title": "How to Help a Choking Infant",
+        "channel": "Telluride Medical Center"
+      },
+      "steps": [
+        "An AED is a machine that shocks the heart back to a normal beat.",
+        "Turn it on and follow its voice prompts.",
+        "Stick the pads on the person's bare chest as shown.",
+        "Stand back when it says to, and let it work."
+      ],
+      "task": "Find where the nearest AED is in your area.",
+      "challenge": "Practise the AED steps out loud with a friend.",
+      "quiz": [
+        {
+          "q": "What is an AED?",
+          "options": [
+            "A phone",
+            "A machine that shocks the heart back to a normal beat",
+            "A medicine",
+            "A bandage"
+          ],
+          "answer": 1,
+          "explain": "An AED helps restart a heart that stopped."
+        },
+        {
+          "q": "What should you do when the AED says stand back?",
+          "options": [
+            "Touch the person",
+            "Turn it off",
+            "Move away and let it work",
+            "Remove the pads"
+          ],
+          "answer": 2,
+          "explain": "Standing back keeps you safe during a shock."
+        },
+        {
+          "q": "Where should the pads go?",
+          "options": [
+            "On the clothes",
+            "On the legs",
+            "Anywhere",
+            "On the bare chest as shown on the pads"
+          ],
+          "answer": 3,
+          "explain": "Pads on bare skin work correctly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Stop bleeding from a cut",
+      "goal": "Learn how to stop bleeding from a cut.",
+      "video": {
+        "youtube_id": "6eRwgM2Pa4o",
+        "title": "Basic First Aid",
+        "channel": "Mind Brain Emotion"
+      },
+      "steps": [
+        "Press a clean cloth firmly on the cut.",
+        "Keep pressing until the bleeding slows.",
+        "Raise the cut part above the heart if you can.",
+        "Cover with a clean bandage and get help if bleeding does not stop."
+      ],
+      "task": "Practise pressing a cloth on a pretend cut.",
+      "challenge": "Check your first aid kit for clean cloths and bandages.",
+      "quiz": [
+        {
+          "q": "What is the first step for a bleeding cut?",
+          "options": [
+            "Wash it with dirty water",
+            "Put on a tight rope",
+            "Press a clean cloth firmly on it",
+            "Ignore it"
+          ],
+          "answer": 2,
+          "explain": "Firm pressure slows bleeding."
+        },
+        {
+          "q": "Why raise the cut part?",
+          "options": [
+            "It looks good",
+            "It does not matter",
+            "It makes it worse",
+            "It slows blood flow to the cut"
+          ],
+          "answer": 3,
+          "explain": "Raising the part above the heart slows bleeding."
+        },
+        {
+          "q": "When should you get more help?",
+          "options": [
+            "If bleeding does not stop after pressing",
+            "Never",
+            "For every tiny cut",
+            "Only after an hour"
+          ],
+          "answer": 0,
+          "explain": "Bleeding that will not stop needs medical help."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your first aid kit",
+      "goal": "Put week 1 together: build a home first aid kit.",
+      "video": {
+        "youtube_id": "YcKAx8M_9N0",
+        "title": "First Aid Tips: Treating Minor Injuries at Home",
+        "channel": "HealthXchange"
+      },
+      "steps": [
+        "Get a box or bag for your kit.",
+        "Add: clean cloths, bandages, plasters, gloves, scissors, tape.",
+        "Add the emergency number card.",
+        "Put the kit where everyone in the house can find it."
+      ],
+      "task": "Build your first aid kit and show it to your family.",
+      "challenge": "Teach a family member where the kit is.",
+      "quiz": [
+        {
+          "q": "What should a first aid kit have?",
+          "options": [
+            "Only sweets",
+            "Only water",
+            "Nothing",
+            "Cloths, bandages, plasters, gloves, scissors, tape"
+          ],
+          "answer": 3,
+          "explain": "A kit needs basics to treat small injuries."
+        },
+        {
+          "q": "Where should you keep the kit?",
+          "options": [
+            "Where everyone can find it fast",
+            "Hidden away",
+            "Locked and lost",
+            "Outside in the rain"
+          ],
+          "answer": 0,
+          "explain": "A kit must be easy to reach in an emergency."
+        },
+        {
+          "q": "Why add gloves to a kit?",
+          "options": [
+            "For warmth",
+            "To protect you from blood",
+            "For show",
+            "They are not needed"
+          ],
+          "answer": 1,
+          "explain": "Gloves protect you when helping a bleeding person."
+        }
+      ],
+      "project": {
+        "title": "Your first aid kit",
+        "brief": "Build a home first aid kit with cloths, bandages, plasters, gloves, scissors and tape, plus an emergency number card, and show your family where it is.",
+        "checks": [
+          "Kit has cloths and bandages",
+          "Kit has plasters and gloves",
+          "Kit has scissors and tape",
+          "Emergency number card is in the kit",
+          "Kit is easy to find",
+          "Showed the family where it is"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Treat a small burn",
+      "goal": "Learn how to treat a small burn safely.",
+      "video": {
+        "youtube_id": "-9lL22o4DZg",
+        "title": "How Do You Treat a Choking Adult? New 2020 AHA / ILCOR Guidelines",
+        "channel": "CPR Certification Institute"
+      },
+      "steps": [
+        "Cool the burn with cool running water for 10 minutes.",
+        "Do not use ice, butter or toothpaste.",
+        "Cover loosely with a clean cloth or cling film.",
+        "Get help if the burn is large or on the face."
+      ],
+      "task": "Practise the burn steps out loud.",
+      "challenge": "Check your kitchen for a clean cloth to use.",
+      "quiz": [
+        {
+          "q": "What is the first step for a small burn?",
+          "options": [
+            "Cool it with running water for 10 minutes",
+            "Put ice on it",
+            "Put butter on it",
+            "Cover it with a blanket"
+          ],
+          "answer": 0,
+          "explain": "Cool water eases pain and stops the burn going deeper."
+        },
+        {
+          "q": "Why not use ice on a burn?",
+          "options": [
+            "Ice is best",
+            "Ice can damage the skin further",
+            "Ice does nothing",
+            "Ice is warm"
+          ],
+          "answer": 1,
+          "explain": "Ice can harm burnt skin."
+        },
+        {
+          "q": "When should you get help for a burn?",
+          "options": [
+            "Never",
+            "For every tiny burn",
+            "If it is large, deep or on the face",
+            "Only after a week"
+          ],
+          "answer": 2,
+          "explain": "Large or face burns need medical care."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Help a choking adult",
+      "goal": "Learn how to help an adult who is choking.",
+      "video": {
+        "youtube_id": "WmGRp84tPM8",
+        "title": "How to Help a Choking Adult or Child | Back Blows, Abdominal Thrusts, and Chest Thrusts",
+        "channel": "Canadian Red Cross"
+      },
+      "steps": [
+        "Ask: Are you choking? If they can cough, let them cough.",
+        "If they cannot breathe, give 5 back blows between the shoulder blades.",
+        "Then give 5 belly pushes: hands above the belly button, pull in and up.",
+        "Repeat until the food comes out or help arrives."
+      ],
+      "task": "Practise back blows and belly pushes on a cushion.",
+      "challenge": "Teach a friend the steps in order.",
+      "quiz": [
+        {
+          "q": "What is choking?",
+          "options": [
+            "A cold",
+            "Food stuck in the throat blocking air",
+            "A cough",
+            "A sneeze"
+          ],
+          "answer": 1,
+          "explain": "Choking blocks the airway so air cannot pass."
+        },
+        {
+          "q": "What should you do first?",
+          "options": [
+            "Hit them hard at once",
+            "Give water",
+            "Ask if they are choking and let them cough if they can",
+            "Ignore them"
+          ],
+          "answer": 2,
+          "explain": "Coughing can clear the blockage on its own."
+        },
+        {
+          "q": "Where do belly pushes go?",
+          "options": [
+            "On the chest",
+            "On the back",
+            "On the neck",
+            "Above the belly button, pulling in and up"
+          ],
+          "answer": 3,
+          "explain": "Belly pushes push air up to clear the blockage."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Help a choking child",
+      "goal": "Learn how to help a choking child safely.",
+      "video": {
+        "youtube_id": "GmqXqwSV3bo",
+        "title": "The Recovery Position - First Aid Training - St John Ambulance",
+        "channel": "St John Ambulance"
+      },
+      "steps": [
+        "For a small child, lay them face down on your forearm.",
+        "Give 5 gentle back blows between the shoulder blades.",
+        "Turn them over and give 5 gentle chest pushes.",
+        "Call for help if the blockage does not clear."
+      ],
+      "task": "Practise the steps on a doll or cushion.",
+      "challenge": "Write the steps on a card for your fridge.",
+      "quiz": [
+        {
+          "q": "Why are child choking steps gentler?",
+          "options": [
+            "They are not gentler",
+            "Children do not choke",
+            "Children are smaller and more fragile",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Gentle blows suit a small body."
+        },
+        {
+          "q": "Where do back blows go?",
+          "options": [
+            "On the head",
+            "On the belly",
+            "On the legs",
+            "Between the shoulder blades"
+          ],
+          "answer": 3,
+          "explain": "Back blows between the shoulders help clear the blockage."
+        },
+        {
+          "q": "When should you call for help?",
+          "options": [
+            "If the blockage does not clear",
+            "Never",
+            "Only after an hour",
+            "For every cough"
+          ],
+          "answer": 0,
+          "explain": "A blockage that will not clear needs help fast."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Treat a sprain",
+      "goal": "Learn how to treat a sprained ankle or wrist.",
+      "video": {
+        "youtube_id": "M4ACYp75mjU",
+        "title": "Hands-Only CPR Instructional Video",
+        "channel": "American Heart Association"
+      },
+      "steps": [
+        "Rest the hurt part and stop using it.",
+        "Put ice wrapped in a cloth on it for 15 minutes.",
+        "Wrap it lightly with a bandage for support.",
+        "Raise it up on a pillow."
+      ],
+      "task": "Practise wrapping a bandage on your ankle.",
+      "challenge": "Write the 4 steps: rest, ice, wrap, raise.",
+      "quiz": [
+        {
+          "q": "What is a sprain?",
+          "options": [
+            "A broken bone",
+            "A cut",
+            "A burn",
+            "A stretched or torn ligament in a joint"
+          ],
+          "answer": 3,
+          "explain": "A sprain hurts a joint's ligament."
+        },
+        {
+          "q": "What does RICE stand for?",
+          "options": [
+            "Rest, Ice, Compression, Elevation",
+            "Rice the food",
+            "Run, Ice, Cut, Eat",
+            "It means nothing"
+          ],
+          "answer": 0,
+          "explain": "RICE is rest, ice, wrap and raise."
+        },
+        {
+          "q": "Why wrap a sprain?",
+          "options": [
+            "To make it look good",
+            "To support the joint and reduce swelling",
+            "To stop blood",
+            "It is not needed"
+          ],
+          "answer": 1,
+          "explain": "A light wrap supports the joint."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Treat a nosebleed",
+      "goal": "Learn how to stop a nosebleed.",
+      "video": {
+        "youtube_id": "BAWGjNAj_vA",
+        "title": "Using an AED by American Red Cross",
+        "channel": "American Red Cross"
+      },
+      "steps": [
+        "Sit down and lean forward a little.",
+        "Pinch the soft part of the nose for 10 minutes.",
+        "Breathe through your mouth.",
+        "Do not tilt your head back."
+      ],
+      "task": "Practise the steps with a friend.",
+      "challenge": "Write the steps on a card.",
+      "quiz": [
+        {
+          "q": "Why lean forward during a nosebleed?",
+          "options": [
+            "So blood does not go down the throat",
+            "It looks good",
+            "It does not matter",
+            "To stop breathing"
+          ],
+          "answer": 0,
+          "explain": "Leaning forward stops blood going down the throat."
+        },
+        {
+          "q": "How long should you pinch the nose?",
+          "options": [
+            "10 seconds",
+            "About 10 minutes",
+            "1 hour",
+            "No time"
+          ],
+          "answer": 1,
+          "explain": "Ten minutes lets the blood clot."
+        },
+        {
+          "q": "Why not tilt your head back?",
+          "options": [
+            "It is the correct way",
+            "It stops the bleed faster",
+            "Blood would go down the throat",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Tilting back sends blood down the throat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Help someone who fainted",
+      "goal": "Learn what to do when someone faints.",
+      "video": {
+        "youtube_id": "iI-gu2rxgQs",
+        "title": "BLS - Choking Video",
+        "channel": "ACLS.com"
+      },
+      "steps": [
+        "Lay them on their back and raise their legs a little.",
+        "Loosen tight clothes around the neck.",
+        "Check they are breathing.",
+        "If they do not wake up soon, call for help."
+      ],
+      "task": "Practise the steps with a friend.",
+      "challenge": "Write the steps on a card.",
+      "quiz": [
+        {
+          "q": "What is fainting?",
+          "options": [
+            "Sleeping",
+            "Passing out for a short time",
+            "A heart attack",
+            "A cold"
+          ],
+          "answer": 1,
+          "explain": "Fainting is a brief loss of consciousness."
+        },
+        {
+          "q": "Why raise the legs?",
+          "options": [
+            "It looks good",
+            "It does not matter",
+            "It helps blood flow back to the brain",
+            "It wakes them faster"
+          ],
+          "answer": 2,
+          "explain": "Raised legs help blood reach the brain."
+        },
+        {
+          "q": "When should you call for help?",
+          "options": [
+            "Never",
+            "At once for every faint",
+            "Only after an hour",
+            "If they do not wake up soon"
+          ],
+          "answer": 3,
+          "explain": "A long faint needs medical help."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your emergency plan",
+      "goal": "Put week 2 together: write a home emergency plan.",
+      "video": {
+        "youtube_id": "SYIwQNekj8I",
+        "title": "How to Help a Choking Adult",
+        "channel": "Telluride Medical Center"
+      },
+      "steps": [
+        "Write the emergency number and your address on one page.",
+        "Write where your first aid kit is.",
+        "Write the steps for CPR, choking and bleeding.",
+        "Show the plan to your family and practise once."
+      ],
+      "task": "Write your emergency plan and show your family.",
+      "challenge": "Practise one step from the plan with a family member.",
+      "quiz": [
+        {
+          "q": "What should an emergency plan have?",
+          "options": [
+            "Only a phone",
+            "Nothing",
+            "Numbers, address, kit location and key steps",
+            "Only a map"
+          ],
+          "answer": 2,
+          "explain": "A plan puts the key facts in one place."
+        },
+        {
+          "q": "Why practise the plan?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "It makes you scared",
+            "So you act fast when it is real"
+          ],
+          "answer": 3,
+          "explain": "Practice turns panic into calm action."
+        },
+        {
+          "q": "Who should know the plan?",
+          "options": [
+            "Everyone in the house",
+            "Only you",
+            "Nobody",
+            "Only adults"
+          ],
+          "answer": 0,
+          "explain": "Everyone should know where the kit is and what to do."
+        }
+      ],
+      "project": {
+        "title": "Your emergency plan",
+        "brief": "Write a home emergency plan with the emergency number, your address, the kit location and the key steps for CPR, choking and bleeding.",
+        "checks": [
+          "Plan has the emergency number",
+          "Plan has your address",
+          "Plan has the kit location",
+          "Plan has CPR steps",
+          "Plan has choking steps",
+          "Showed the plan to your family"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "CPR for a baby",
+      "goal": "Learn how CPR is different for a baby.",
+      "video": {
+        "youtube_id": "OEzBQlyRpRI",
+        "title": "How to Help a Choking Infant",
+        "channel": "Telluride Medical Center"
+      },
+      "steps": [
+        "Use two fingers in the centre of the baby's chest.",
+        "Push down gently, about 4 cm deep.",
+        "Give 30 pushes, then 2 gentle breaths.",
+        "Keep going until help arrives."
+      ],
+      "task": "Practise the two-finger position on a doll.",
+      "challenge": "Write the baby CPR steps on a card.",
+      "quiz": [
+        {
+          "q": "How is baby CPR different?",
+          "options": [
+            "It is the same as adult CPR",
+            "You do not do CPR on babies",
+            "You push harder",
+            "You use two fingers and push gently"
+          ],
+          "answer": 3,
+          "explain": "A baby's chest needs gentle two-finger pushes."
+        },
+        {
+          "q": "How deep should you push on a baby?",
+          "options": [
+            "About 4 cm",
+            "As deep as an adult",
+            "1 cm",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "About 4 cm is right for a baby."
+        },
+        {
+          "q": "How many pushes before breaths?",
+          "options": [
+            "5 pushes",
+            "30 pushes, then 2 breaths",
+            "100 pushes",
+            "No pushes"
+          ],
+          "answer": 1,
+          "explain": "Thirty pushes then two breaths is the pattern."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Treat a cut that needs stitches",
+      "goal": "Learn how to tell if a cut needs a doctor.",
+      "video": {
+        "youtube_id": "6eRwgM2Pa4o",
+        "title": "Basic First Aid",
+        "channel": "Mind Brain Emotion"
+      },
+      "steps": [
+        "Press a clean cloth on the cut.",
+        "If the cut is deep, wide or will not stop bleeding, go to a doctor.",
+        "Do not put cotton wool in a deep cut.",
+        "Cover with a clean bandage for the trip."
+      ],
+      "task": "Practise pressing a cloth on a pretend deep cut.",
+      "challenge": "Write the signs that mean see a doctor.",
+      "quiz": [
+        {
+          "q": "What cut needs a doctor?",
+          "options": [
+            "A deep, wide cut or one that will not stop bleeding",
+            "A tiny scratch",
+            "Every cut",
+            "No cut"
+          ],
+          "answer": 0,
+          "explain": "Deep or non-stop bleeding needs a doctor."
+        },
+        {
+          "q": "Why not put cotton wool in a deep cut?",
+          "options": [
+            "It is the best",
+            "Fibres can stick in the wound",
+            "It does not matter",
+            "It stops bleeding fast"
+          ],
+          "answer": 1,
+          "explain": "Cotton fibres can stay in the wound."
+        },
+        {
+          "q": "What should you do on the way to the doctor?",
+          "options": [
+            "Remove the cloth",
+            "Wash it with dirty water",
+            "Keep pressing a clean cloth on the cut",
+            "Ignore it"
+          ],
+          "answer": 2,
+          "explain": "Pressure keeps bleeding slow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Help with a broken bone",
+      "goal": "Learn what to do if you think a bone is broken.",
+      "video": {
+        "youtube_id": "YcKAx8M_9N0",
+        "title": "First Aid Tips: Treating Minor Injuries at Home",
+        "channel": "HealthXchange"
+      },
+      "steps": [
+        "Do not move the hurt part.",
+        "Support it with a pillow or rolled cloth.",
+        "Put ice wrapped in a cloth on it if you can.",
+        "Call for help or take the person to a doctor."
+      ],
+      "task": "Practise supporting a pretend broken arm with a pillow.",
+      "challenge": "Write the steps on a card.",
+      "quiz": [
+        {
+          "q": "What is the first rule for a broken bone?",
+          "options": [
+            "Move it a lot",
+            "Do not move the hurt part",
+            "Pull it straight",
+            "Ignore it"
+          ],
+          "answer": 1,
+          "explain": "Moving a broken bone can make it worse."
+        },
+        {
+          "q": "How should you support it?",
+          "options": [
+            "With a tight rope",
+            "With nothing",
+            "With a pillow or rolled cloth",
+            "With a heavy weight"
+          ],
+          "answer": 2,
+          "explain": "Soft support keeps the bone still."
+        },
+        {
+          "q": "What should you do next?",
+          "options": [
+            "Wait a week",
+            "Give water",
+            "Do nothing",
+            "Call for help or go to a doctor"
+          ],
+          "answer": 3,
+          "explain": "A broken bone needs medical care."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Treat a sting or bite",
+      "goal": "Learn how to treat an insect sting or bite.",
+      "video": {
+        "youtube_id": "-9lL22o4DZg",
+        "title": "How Do You Treat a Choking Adult? New 2020 AHA / ILCOR Guidelines",
+        "channel": "CPR Certification Institute"
+      },
+      "steps": [
+        "Move away from the insect.",
+        "Wash the sting with soap and water.",
+        "Put a cold cloth on it to ease pain and swelling.",
+        "Get help fast if the person cannot breathe or swells a lot."
+      ],
+      "task": "Practise the steps out loud.",
+      "challenge": "Check your kit for a cold cloth or ice pack.",
+      "quiz": [
+        {
+          "q": "What is the first step for a sting?",
+          "options": [
+            "Scratch it",
+            "Suck the sting",
+            "Move away from the insect",
+            "Ignore it"
+          ],
+          "answer": 2,
+          "explain": "Moving away stops more stings."
+        },
+        {
+          "q": "Why wash the sting?",
+          "options": [
+            "It does not matter",
+            "To make it worse",
+            "It is not needed",
+            "To clean germs away"
+          ],
+          "answer": 3,
+          "explain": "Washing stops germs getting in."
+        },
+        {
+          "q": "When should you get help fast?",
+          "options": [
+            "If the person cannot breathe or swells a lot",
+            "Never",
+            "For every sting",
+            "Only after a day"
+          ],
+          "answer": 0,
+          "explain": "Trouble breathing after a sting is an emergency."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Help with heatstroke",
+      "goal": "Learn the signs of heatstroke and what to do.",
+      "video": {
+        "youtube_id": "WmGRp84tPM8",
+        "title": "How to Help a Choking Adult or Child | Back Blows, Abdominal Thrusts, and Chest Thrusts",
+        "channel": "Canadian Red Cross"
+      },
+      "steps": [
+        "Signs: very hot skin, confusion, headache, no sweating.",
+        "Move the person to a cool, shady place.",
+        "Cool them with wet cloths and fan them.",
+        "Call for help at once."
+      ],
+      "task": "Practise the steps out loud.",
+      "challenge": "Write the signs of heatstroke on a card.",
+      "quiz": [
+        {
+          "q": "What is heatstroke?",
+          "options": [
+            "A cold",
+            "A sunburn only",
+            "A headache only",
+            "The body overheating badly"
+          ],
+          "answer": 3,
+          "explain": "Heatstroke is dangerous overheating."
+        },
+        {
+          "q": "What is a sign of heatstroke?",
+          "options": [
+            "Very hot skin and confusion",
+            "Feeling cold",
+            "Shivering",
+            "Sleepiness only"
+          ],
+          "answer": 0,
+          "explain": "Hot skin and confusion mean heatstroke."
+        },
+        {
+          "q": "What should you do first?",
+          "options": [
+            "Give hot tea",
+            "Move them to a cool, shady place",
+            "Put a blanket on",
+            "Ignore them"
+          ],
+          "answer": 1,
+          "explain": "Cool shade is the first step."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Help with a seizure",
+      "goal": "Learn what to do when someone has a seizure.",
+      "video": {
+        "youtube_id": "GmqXqwSV3bo",
+        "title": "The Recovery Position - First Aid Training - St John Ambulance",
+        "channel": "St John Ambulance"
+      },
+      "steps": [
+        "Stay calm and time the seizure.",
+        "Move hard objects away from the person.",
+        "Do not hold them down or put anything in their mouth.",
+        "When it stops, lay them on their side and call for help if it lasts over 5 minutes."
+      ],
+      "task": "Practise the steps out loud with a friend.",
+      "challenge": "Write the steps on a card.",
+      "quiz": [
+        {
+          "q": "What is a seizure?",
+          "options": [
+            "Sudden shaking and loss of control of the body",
+            "Sleeping",
+            "Fainting only",
+            "A cold"
+          ],
+          "answer": 0,
+          "explain": "A seizure is sudden uncontrolled shaking."
+        },
+        {
+          "q": "What should you NOT do during a seizure?",
+          "options": [
+            "Move objects away",
+            "Hold them down or put things in their mouth",
+            "Time it",
+            "Stay calm"
+          ],
+          "answer": 1,
+          "explain": "Holding down or putting things in the mouth can hurt them."
+        },
+        {
+          "q": "What should you do after a seizure?",
+          "options": [
+            "Wake them with water",
+            "Leave them alone",
+            "Lay them on their side",
+            "Shake them"
+          ],
+          "answer": 2,
+          "explain": "Lying on the side keeps the airway clear."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Practise a full emergency",
+      "goal": "Put week 3 together: run a practice emergency from start to finish.",
+      "video": {
+        "youtube_id": "M4ACYp75mjU",
+        "title": "Hands-Only CPR Instructional Video",
+        "channel": "American Heart Association"
+      },
+      "steps": [
+        "Pick a scenario: a friend falls and cuts their leg.",
+        "Check the scene, check response, call for help.",
+        "Stop the bleeding with a cloth and bandage.",
+        "Write down what you did well and what to fix."
+      ],
+      "task": "Run the practice emergency with a friend.",
+      "challenge": "Write down what went well and what to fix.",
+      "quiz": [
+        {
+          "q": "What comes first in any emergency?",
+          "options": [
+            "Move the person",
+            "Check the scene is safe",
+            "Give water",
+            "Run away"
+          ],
+          "answer": 1,
+          "explain": "A safe scene protects everyone."
+        },
+        {
+          "q": "What should you do after stopping the bleeding?",
+          "options": [
+            "Leave them alone",
+            "Give food",
+            "Keep the person calm and wait for help",
+            "Move them a lot"
+          ],
+          "answer": 2,
+          "explain": "Staying calm and waiting keeps them safe."
+        },
+        {
+          "q": "Why write down what went well?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "So you can improve next time"
+          ],
+          "answer": 3,
+          "explain": "Notes help you get better."
+        }
+      ],
+      "project": {
+        "title": "Practise a full emergency",
+        "brief": "Run a practice emergency from start to finish: check the scene, check response, call for help, stop bleeding, and write what went well.",
+        "checks": [
+          "Checked the scene was safe",
+          "Checked response",
+          "Called for help",
+          "Stopped the bleeding",
+          "Stayed calm",
+          "Wrote what went well and what to fix"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "First aid for sports injuries",
+      "goal": "Learn the common sports injuries and their first aid.",
+      "video": {
+        "youtube_id": "BAWGjNAj_vA",
+        "title": "Using an AED by American Red Cross",
+        "channel": "American Red Cross"
+      },
+      "steps": [
+        "Cuts: press with a clean cloth.",
+        "Sprains: rest, ice, wrap, raise.",
+        "Nosebleeds: sit, lean forward, pinch.",
+        "Heat: move to shade, cool down, drink water."
+      ],
+      "task": "Practise one sports injury step today.",
+      "challenge": "Pack a small sports first aid kit.",
+      "quiz": [
+        {
+          "q": "What is the first aid for a sprain?",
+          "options": [
+            "Run on it",
+            "Ignore it",
+            "Rest, ice, wrap, raise",
+            "Heat it at once"
+          ],
+          "answer": 2,
+          "explain": "RICE treats sprains."
+        },
+        {
+          "q": "What should a sports kit have?",
+          "options": [
+            "Only sweets",
+            "Only a phone",
+            "Nothing",
+            "Cloths, bandages, ice pack, water"
+          ],
+          "answer": 3,
+          "explain": "A sports kit needs basics for common injuries."
+        },
+        {
+          "q": "Why carry water to sport?",
+          "options": [
+            "To replace sweat and cool the body",
+            "It is heavy",
+            "It is not needed",
+            "It makes you slow"
+          ],
+          "answer": 0,
+          "explain": "Water keeps players safe in heat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Check your kit and your skills",
+      "goal": "Check your first aid kit and test your skills.",
+      "video": {
+        "youtube_id": "iI-gu2rxgQs",
+        "title": "BLS - Choking Video",
+        "channel": "ACLS.com"
+      },
+      "steps": [
+        "Open your kit and check every item.",
+        "Throw out anything old or used up.",
+        "Replace what is missing.",
+        "Test yourself: name the steps for CPR and choking."
+      ],
+      "task": "Check and restock your kit today.",
+      "challenge": "Name the CPR steps from memory.",
+      "quiz": [
+        {
+          "q": "How often should you check your kit?",
+          "options": [
+            "Never",
+            "Once a year only",
+            "Every day",
+            "Every few months"
+          ],
+          "answer": 3,
+          "explain": "Regular checks keep the kit ready."
+        },
+        {
+          "q": "What should you do with old items?",
+          "options": [
+            "Throw them out and replace them",
+            "Keep them",
+            "Use them anyway",
+            "Ignore them"
+          ],
+          "answer": 0,
+          "explain": "Old items may not work when needed."
+        },
+        {
+          "q": "Why test yourself?",
+          "options": [
+            "To show off",
+            "So your skills stay fresh",
+            "It is not needed",
+            "To make you nervous"
+          ],
+          "answer": 1,
+          "explain": "Testing keeps skills ready for a real emergency."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Stay calm under pressure",
+      "goal": "Learn how to stay calm when someone is hurt.",
+      "video": {
+        "youtube_id": "SYIwQNekj8I",
+        "title": "How to Help a Choking Adult",
+        "channel": "Telluride Medical Center"
+      },
+      "steps": [
+        "Take one slow breath before you act.",
+        "Say out loud what you are doing: I am checking the scene.",
+        "Do one step at a time.",
+        "Ask someone nearby to help you."
+      ],
+      "task": "Practise saying your steps out loud.",
+      "challenge": "Practise a slow breath before acting.",
+      "quiz": [
+        {
+          "q": "Why take a slow breath first?",
+          "options": [
+            "It calms you so you can think clearly",
+            "It wastes time",
+            "It is silly",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "One slow breath stops panic."
+        },
+        {
+          "q": "Why say your steps out loud?",
+          "options": [
+            "It is silly",
+            "It keeps you focused and tells others what you need",
+            "It wastes time",
+            "It scares people"
+          ],
+          "answer": 1,
+          "explain": "Saying steps out loud keeps you calm and clear."
+        },
+        {
+          "q": "What should you do if you feel panicked?",
+          "options": [
+            "Run away",
+            "Shout",
+            "Breathe slowly and do one step at a time",
+            "Freeze"
+          ],
+          "answer": 2,
+          "explain": "Slow steps beat panic."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Teach first aid to your family",
+      "goal": "Teach your family the basics of first aid.",
+      "video": {
+        "youtube_id": "OEzBQlyRpRI",
+        "title": "How to Help a Choking Infant",
+        "channel": "Telluride Medical Center"
+      },
+      "steps": [
+        "Show them where the kit is.",
+        "Teach them the emergency number.",
+        "Teach them how to stop bleeding from a cut.",
+        "Practise a call for help together."
+      ],
+      "task": "Teach one family member the emergency number.",
+      "challenge": "Show your family the kit today.",
+      "quiz": [
+        {
+          "q": "Why teach your family?",
+          "options": [
+            "It wastes time",
+            "So anyone can help in an emergency",
+            "It is not needed",
+            "It scares them"
+          ],
+          "answer": 1,
+          "explain": "A family that knows first aid is safer."
+        },
+        {
+          "q": "What is the first thing to teach?",
+          "options": [
+            "Surgery",
+            "Nothing",
+            "The emergency number and the kit location",
+            "Only CPR"
+          ],
+          "answer": 2,
+          "explain": "Numbers and kit location are the basics."
+        },
+        {
+          "q": "Why practise together?",
+          "options": [
+            "It is silly",
+            "It is not needed",
+            "It makes people nervous",
+            "So everyone acts fast when it is real"
+          ],
+          "answer": 3,
+          "explain": "Practice makes the family ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Help someone who is panicking",
+      "goal": "Learn to help a person who is panicking.",
+      "video": {
+        "youtube_id": "6eRwgM2Pa4o",
+        "title": "Basic First Aid",
+        "channel": "Mind Brain Emotion"
+      },
+      "steps": [
+        "Stay calm and speak slowly.",
+        "Help them sit down.",
+        "Breathe with them: in for 4 counts, out for 4 counts.",
+        "Tell them they are safe.",
+        "Do not crowd them.",
+        "If it does not pass, call for help."
+      ],
+      "task": "Practise slow breathing with a friend.",
+      "challenge": "Write down the 4 steps to help a panicking person.",
+      "quiz": [
+        {
+          "q": "What is the first thing to do?",
+          "options": [
+            "Shout at them",
+            "Run away",
+            "Stay calm and speak slowly",
+            "Shake them"
+          ],
+          "answer": 2,
+          "explain": "Your calm voice helps them feel safe."
+        },
+        {
+          "q": "How should you breathe with them?",
+          "options": [
+            "As fast as you can",
+            "Hold your breath",
+            "It does not matter",
+            "In for 4 counts, out for 4 counts"
+          ],
+          "answer": 3,
+          "explain": "Slow steady breathing calms the body."
+        },
+        {
+          "q": "When should you call for help?",
+          "options": [
+            "If the panic does not pass",
+            "Never",
+            "At once, every time",
+            "Only at night"
+          ],
+          "answer": 0,
+          "explain": "If slow breathing does not help, get help."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Keep a first aid kit in your car",
+      "goal": "Learn what to keep in a car first aid kit.",
+      "video": {
+        "youtube_id": "YcKAx8M_9N0",
+        "title": "First Aid Tips: Treating Minor Injuries at Home",
+        "channel": "HealthXchange"
+      },
+      "steps": [
+        "Put a small kit in your car.",
+        "Add bandages, gloves, a torch and a blanket.",
+        "Check it every 3 months.",
+        "Keep a charged phone.",
+        "Write emergency numbers on a card.",
+        "Tell your family where the kit is."
+      ],
+      "task": "Make a car first aid kit list.",
+      "challenge": "Check your car kit this week.",
+      "quiz": [
+        {
+          "q": "What should a car kit have?",
+          "options": [
+            "Only sweets",
+            "Only water",
+            "Nothing",
+            "Bandages, gloves, a torch and a blanket"
+          ],
+          "answer": 3,
+          "explain": "Bandages, gloves, a torch and a blanket cover most small emergencies."
+        },
+        {
+          "q": "How often should you check it?",
+          "options": [
+            "Every 3 months",
+            "Once a year",
+            "Never",
+            "Every day"
+          ],
+          "answer": 0,
+          "explain": "Checking every 3 months keeps supplies fresh."
+        },
+        {
+          "q": "Why keep a charged phone?",
+          "options": [
+            "It is a rule",
+            "So you can call for help",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "A charged phone lets you call for help anywhere."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final test.",
+      "video": {
+        "youtube_id": "-9lL22o4DZg",
+        "title": "How Do You Treat a Choking Adult? New 2020 AHA / ILCOR Guidelines",
+        "channel": "CPR Certification Institute"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 skills you can now do.",
+        "Practise CPR and choking steps once more.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 first aid skills you learned.",
+      "challenge": "Practise CPR steps from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final test that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new kit"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own a kit",
+            "You can do the key steps calmly from memory",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "Calm, correct steps show you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "WmGRp84tPM8",
+        "title": "How to Help a Choking Adult or Child | Back Blows, Abdominal Thrusts, and Chest Thrusts",
+        "channel": "Canadian Red Cross"
+      },
+      "steps": [
+        "Run a practice emergency from start to finish.",
+        "Check your kit one more time.",
+        "Fix anything that felt rushed.",
+        "Rest well tonight."
+      ],
+      "task": "Run a practice emergency and time each part.",
+      "challenge": "Fix one thing that felt rushed.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your shoes",
+            "Your steps, your timing and your kit",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking steps and kit makes you ready."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Practise all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you do your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: handle an emergency",
+      "goal": "Show what you learned: handle a practice emergency from start to finish.",
+      "video": {
+        "youtube_id": "GmqXqwSV3bo",
+        "title": "The Recovery Position - First Aid Training - St John Ambulance",
+        "channel": "St John Ambulance"
+      },
+      "steps": [
+        "Check the scene is safe.",
+        "Check response and call for help.",
+        "Give the right first aid for the injury.",
+        "Write a short report on what you did."
+      ],
+      "task": "Handle the practice emergency and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What is the first step in any emergency?",
+          "options": [
+            "Move the person",
+            "Give water",
+            "Check the scene is safe",
+            "Run away"
+          ],
+          "answer": 2,
+          "explain": "A safe scene protects everyone."
+        },
+        {
+          "q": "What should you do after giving first aid?",
+          "options": [
+            "Leave at once",
+            "Give food",
+            "Move them a lot",
+            "Stay with the person until help arrives"
+          ],
+          "answer": 3,
+          "explain": "Staying keeps the person safe."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and what you learned",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Handle an emergency calmly",
+    "brief": "Handle a practice emergency from start to finish: check the scene, check response, call for help, give the right first aid, stay with the person, and write a short report.",
+    "checks": [
+      "Checked the scene was safe",
+      "Checked response correctly",
+      "Called for help with clear facts",
+      "Gave the right first aid",
+      "Stayed calm throughout",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A stocked first aid kit",
+      "A written emergency plan",
+      "A list of skills learned",
+      "A short video or notes from the practice",
+      "A written report"
+    ]
+  }
+}

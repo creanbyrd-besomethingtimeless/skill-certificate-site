@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "hospitality-and-customer-service",
+    "title": "Hospitality and Customer Service",
+    "level": "Beginner",
+    "tagline": "Serve guests so well they return: manners, complaints and five-star habits.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Is Hospitality?",
+      "goal": "Know what hospitality means and why it matters.",
+      "video": {
+        "youtube_id": "XGYgpb7DY-o",
+        "title": "Hotel & Restaurant Problem Handling | Guest Complaints & Service Recovery",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Hospitality means making guests feel welcome and cared for.",
+        "Service is what you do. Hospitality is how you make people feel.",
+        "Good hospitality brings guests back. Bad service drives them away.",
+        "Every worker matters: the cleaner, the cook, the server, and the manager.",
+        "A smile, a greeting, and care are the start of great service."
+      ],
+      "task": "Write down what hospitality means to you in one sentence.",
+      "challenge": "Visit a hotel or restaurant and note one good and one bad service moment.",
+      "quiz": [
+        {
+          "q": "What is hospitality?",
+          "options": [
+            "Serving food",
+            "Making guests feel welcome and cared for",
+            "Cleaning rooms",
+            "Taking money"
+          ],
+          "answer": 1,
+          "explain": "Hospitality is making guests feel welcome and cared for."
+        },
+        {
+          "q": "What is the difference between service and hospitality?",
+          "options": [
+            "There is none",
+            "Service is what you do. Hospitality is how you make people feel",
+            "Service is slower",
+            "Hospitality is more expensive"
+          ],
+          "answer": 1,
+          "explain": "Service is the task. Hospitality is the feeling you create."
+        },
+        {
+          "q": "Who matters in hospitality?",
+          "options": [
+            "Only the manager",
+            "Every worker, from cleaner to manager",
+            "Only the server",
+            "Only the cook"
+          ],
+          "answer": 1,
+          "explain": "Every worker shapes the guest's experience."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Welcoming Guests: The First 10 Seconds",
+      "goal": "Welcome guests so they feel valued at once.",
+      "video": {
+        "youtube_id": "cHu1AY82Log",
+        "title": "HOW TO: Welcome a guest at your hotel",
+        "channel": "HappyCulture"
+      },
+      "steps": [
+        "Stand up straight and smile when a guest arrives.",
+        "Make eye contact and greet them within 10 seconds.",
+        "Use a warm greeting: 'Good morning, welcome. How can I help you?'",
+        "Use the guest's name if you know it.",
+        "Listen to what they need before you speak."
+      ],
+      "task": "Practise greeting a friend as if they are a guest.",
+      "challenge": "Practise three greetings: morning, afternoon, and evening.",
+      "quiz": [
+        {
+          "q": "How fast should you greet a guest?",
+          "options": [
+            "After 5 minutes",
+            "Within 10 seconds",
+            "When you are free",
+            "At the end"
+          ],
+          "answer": 1,
+          "explain": "A fast greeting makes guests feel welcome at once."
+        },
+        {
+          "q": "Why use the guest's name?",
+          "options": [
+            "To show off",
+            "It makes them feel valued and known",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Using a name makes service feel personal."
+        },
+        {
+          "q": "Why listen before you speak?",
+          "options": [
+            "It is polite",
+            "So you understand what the guest really needs",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Listening first helps you help the guest properly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "The Front Desk: Check-In Step by Step",
+      "goal": "Check a guest in smoothly at a hotel.",
+      "video": {
+        "youtube_id": "Plqdp370p7o",
+        "title": "Hotel & Restaurant Problem Resolution | Handle Complaints & Win Back Guest Trust",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Greet the guest and ask for their name and booking.",
+        "Check the booking on your system or book.",
+        "Ask for ID if your hotel needs it.",
+        "Give them the room key and explain the room number, breakfast time, and Wi-Fi.",
+        "Wish them a good stay and offer help with bags."
+      ],
+      "task": "Practise a check-in with a friend playing the guest.",
+      "challenge": "Write a check-in checklist you can use at work.",
+      "quiz": [
+        {
+          "q": "What is the first step at check-in?",
+          "options": [
+            "Ask for money",
+            "Greet the guest and ask for their name and booking",
+            "Give the key",
+            "Ask for ID"
+          ],
+          "answer": 1,
+          "explain": "Greet first, then ask for the name and booking."
+        },
+        {
+          "q": "What should you explain at check-in?",
+          "options": [
+            "Nothing",
+            "Room number, breakfast time, and Wi-Fi",
+            "Only the price",
+            "Only the room number"
+          ],
+          "answer": 1,
+          "explain": "Guests need the room number, breakfast time, and Wi-Fi details."
+        },
+        {
+          "q": "Why offer help with bags?",
+          "options": [
+            "It is polite",
+            "It shows care and makes the guest feel welcome",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Helping with bags is a small act that makes a big impression."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Serving Food: The Right Way",
+      "goal": "Serve food and drinks in a restaurant the professional way.",
+      "video": {
+        "youtube_id": "YQzhvE3wD-E",
+        "title": "How to Handle Hotel Guest Complaints | 4 Essential Front Office Lessons",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Serve from the left side of the guest. Clear from the right.",
+        "Hold plates flat. Do not tilt them.",
+        "Serve ladies and older guests first.",
+        "Never reach across a guest. Walk around instead.",
+        "Check back within 2 minutes: 'Is everything alright?'"
+      ],
+      "task": "Practise serving a meal to a friend, step by step.",
+      "challenge": "Practise carrying two plates safely.",
+      "quiz": [
+        {
+          "q": "Which side do you serve from?",
+          "options": [
+            "The right",
+            "The left",
+            "Behind",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Serve from the left. Clear from the right."
+        },
+        {
+          "q": "Why not reach across a guest?",
+          "options": [
+            "It is rude and uncomfortable",
+            "It is faster",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Reaching across a guest is rude and makes them uncomfortable."
+        },
+        {
+          "q": "Why check back within 2 minutes?",
+          "options": [
+            "To be polite",
+            "To fix problems early",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Checking back early lets you fix problems before guests get unhappy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Silver Service: Fine Dining Basics",
+      "goal": "Learn the basics of silver service.",
+      "video": {
+        "youtube_id": "WTKJKz-HvYU",
+        "title": "Rapport Hospitality Customer Service Demo: How to Handle a Frustrated Hotel Guest",
+        "channel": "Rapport"
+      },
+      "steps": [
+        "Silver service is formal table service with serving dishes and tongs.",
+        "Hold the serving dish in your left hand and serve with your right.",
+        "Serve small amounts. Guests can ask for more.",
+        "Keep your back straight and move calmly.",
+        "Clear plates only when everyone at the table has finished."
+      ],
+      "task": "Practise silver service at home with a plate and tongs.",
+      "challenge": "Serve a meal to your family using silver service steps.",
+      "quiz": [
+        {
+          "q": "What is silver service?",
+          "options": [
+            "Serving with silver plates",
+            "Formal table service with serving dishes and tongs",
+            "Serving drinks only",
+            "Cleaning tables"
+          ],
+          "answer": 1,
+          "explain": "Silver service is formal service using dishes and tongs."
+        },
+        {
+          "q": "When do you clear plates?",
+          "options": [
+            "When one person finishes",
+            "When everyone at the table has finished",
+            "At once",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Clearing only when all have finished is polite and professional."
+        },
+        {
+          "q": "Why move calmly in fine dining?",
+          "options": [
+            "It is slower",
+            "Calm movement looks professional and relaxes guests",
+            "It saves energy",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Calm, smooth movement makes guests feel relaxed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Talking to Guests: Words That Help",
+      "goal": "Use kind, clear words with guests.",
+      "video": {
+        "youtube_id": "wmkoFgHVWac",
+        "title": "How to Handle Restaurant Complaints",
+        "channel": "EvoBistro"
+      },
+      "steps": [
+        "Speak clearly and slowly. Smile when you talk.",
+        "Use polite words: 'please', 'thank you', 'of course'.",
+        "Avoid slang with guests you do not know well.",
+        "If you do not know the answer, say: 'Let me check for you.'",
+        "Never argue with a guest. Stay calm and kind."
+      ],
+      "task": "Practise three polite phrases with a friend.",
+      "challenge": "Write a list of words to use and words to avoid with guests.",
+      "quiz": [
+        {
+          "q": "What should you say if you do not know the answer?",
+          "options": [
+            "I don't know",
+            "'Let me check for you'",
+            "Ask someone else",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "'Let me check' shows you care and will find the answer."
+        },
+        {
+          "q": "Why avoid slang with guests?",
+          "options": [
+            "It is rude",
+            "Polite, clear words suit all guests",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Clear, polite words work for every guest."
+        },
+        {
+          "q": "Why never argue with a guest?",
+          "options": [
+            "It wastes time",
+            "Arguing makes the guest angrier and hurts your business",
+            "It is a rule",
+            "It is boring"
+          ],
+          "answer": 1,
+          "explain": "Arguing never helps. Staying calm solves problems."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: Serve a Meal Like a Pro",
+      "goal": "Serve a full meal to guests, from greeting to goodbye.",
+      "video": {
+        "youtube_id": "olG1C5F0VOI",
+        "title": "Complaint Handling",
+        "channel": "The Chinese Buffet"
+      },
+      "steps": [
+        "Greet guests warmly when they arrive.",
+        "Seat them, offer water, and present the menu.",
+        "Take orders, repeat them back, and serve food correctly.",
+        "Check back within 2 minutes and fix any problem.",
+        "Clear plates, offer dessert, and thank guests as they leave."
+      ],
+      "task": "Serve a full meal to your household as if in a restaurant.",
+      "challenge": "Ask your guests what felt good and what to improve.",
+      "quiz": [
+        {
+          "q": "What are the steps of service?",
+          "options": [
+            "Serve and leave",
+            "Greet, seat, order, serve, check back, clear, thank",
+            "Cook and serve",
+            "Greet and charge"
+          ],
+          "answer": 1,
+          "explain": "Service is greet, seat, order, serve, check back, clear, and thank."
+        },
+        {
+          "q": "Why repeat orders back?",
+          "options": [
+            "To be polite",
+            "So you get it right",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Repeating orders stops mistakes."
+        },
+        {
+          "q": "Why thank guests as they leave?",
+          "options": [
+            "To be polite",
+            "So they feel valued and come back",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A warm goodbye makes guests want to return."
+        }
+      ],
+      "project": {
+        "title": "Serve a Meal Like a Pro",
+        "brief": "Serve a full meal from greeting to goodbye.",
+        "checks": [
+          "Guests greeted warmly within 10 seconds",
+          "Guests seated and offered water",
+          "Orders taken and repeated back",
+          "Food served correctly, from the left",
+          "Checked back within 2 minutes",
+          "Guests thanked as they left"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Handling Complaints: Listen and Fix",
+      "goal": "Handle a guest complaint calmly and well.",
+      "video": {
+        "youtube_id": "dS-sUYaj4bM",
+        "title": "Silver Service Training",
+        "channel": "The British Butler Academy"
+      },
+      "steps": [
+        "Listen first. Let the guest finish speaking.",
+        "Say sorry, even if it is not your fault.",
+        "Ask what would make it right.",
+        "Fix it fast: replace the dish, offer a discount, or give a free drink.",
+        "Thank them for telling you."
+      ],
+      "task": "Practise handling a complaint with a friend playing the guest.",
+      "challenge": "Write a short guide for handling complaints.",
+      "quiz": [
+        {
+          "q": "What is the first step with a complaint?",
+          "options": [
+            "Argue back",
+            "Listen first",
+            "Offer money",
+            "Walk away"
+          ],
+          "answer": 1,
+          "explain": "Listening first shows respect and helps you understand the problem."
+        },
+        {
+          "q": "Why say sorry?",
+          "options": [
+            "It admits guilt",
+            "It shows you care about the guest",
+            "It is a rule",
+            "It ends the talk"
+          ],
+          "answer": 1,
+          "explain": "An apology calms the guest and shows you care."
+        },
+        {
+          "q": "What can you offer to fix a complaint?",
+          "options": [
+            "Nothing",
+            "A replacement dish, a discount, or a free drink",
+            "An argument",
+            "A refund only"
+          ],
+          "answer": 1,
+          "explain": "A replacement, discount, or free drink can turn a bad visit into a good one."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Service Recovery: Win Guests Back",
+      "goal": "Turn an unhappy guest into a loyal one.",
+      "video": {
+        "youtube_id": "qyqCFeKSYWc",
+        "title": "How to Service Food & Beverages | Restaurants | Hotels | Waiter | Fine Dining Training Video",
+        "channel": "Hospitality Broadcast"
+      },
+      "steps": [
+        "Service recovery means fixing a problem so well the guest returns.",
+        "Act fast. A quick fix matters more than a perfect one.",
+        "Give a little extra: a free dessert or a sincere apology.",
+        "Follow up: ask if everything is alright now.",
+        "Tell your manager what happened so it does not happen again."
+      ],
+      "task": "Practise a service recovery with a friend.",
+      "challenge": "Write down three ways to win back an unhappy guest.",
+      "quiz": [
+        {
+          "q": "What is service recovery?",
+          "options": [
+            "Saying sorry only",
+            "Fixing a problem so well the guest returns",
+            "Giving a refund",
+            "Ignoring the problem"
+          ],
+          "answer": 1,
+          "explain": "Service recovery turns a bad experience into a reason to return."
+        },
+        {
+          "q": "Why act fast?",
+          "options": [
+            "It is polite",
+            "A quick fix matters more than a perfect one",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Fast action shows you care. Waiting makes guests angrier."
+        },
+        {
+          "q": "Why tell your manager?",
+          "options": [
+            "To blame someone",
+            "So the problem does not happen again",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Reporting problems helps the whole team improve."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Difficult Guests: Stay Calm",
+      "goal": "Handle difficult guests without losing your cool.",
+      "video": {
+        "youtube_id": "zMF-8eEECV0",
+        "title": "How to Handle Customer Complaints in Your Restaurant?",
+        "channel": "Ajit Panicker"
+      },
+      "steps": [
+        "Stay calm. Speak slowly and softly.",
+        "Do not take it personally. The guest is unhappy with the situation, not you.",
+        "Listen and show you understand: 'I understand this is frustrating.'",
+        "Offer a solution. If you cannot fix it, call your manager.",
+        "Afterwards, take a breath and move on."
+      ],
+      "task": "Practise staying calm with a friend playing a difficult guest.",
+      "challenge": "Write three calm phrases you can use with upset guests.",
+      "quiz": [
+        {
+          "q": "What should you do first with a difficult guest?",
+          "options": [
+            "Argue back",
+            "Stay calm and listen",
+            "Walk away",
+            "Call security"
+          ],
+          "answer": 1,
+          "explain": "Staying calm and listening is the first step."
+        },
+        {
+          "q": "Why not take it personally?",
+          "options": [
+            "It is rude",
+            "The guest is unhappy with the situation, not with you",
+            "It is a rule",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "Most upset guests are unhappy about a problem, not about you."
+        },
+        {
+          "q": "When should you call your manager?",
+          "options": [
+            "Always",
+            "If you cannot fix the problem yourself",
+            "Never",
+            "Only at the end"
+          ],
+          "answer": 1,
+          "explain": "If you cannot fix it, a manager can help."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Hotel Front Office: More Than Check-In",
+      "goal": "Learn the other jobs at a hotel front desk.",
+      "video": {
+        "youtube_id": "XGYgpb7DY-o",
+        "title": "Hotel & Restaurant Problem Handling | Guest Complaints & Service Recovery",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Answer phone calls politely and take messages clearly.",
+        "Help guests with directions, taxis, and local places.",
+        "Handle check-out: give the bill, take payment, and thank the guest.",
+        "Keep the front desk tidy and organised.",
+        "Know your hotel: rooms, prices, breakfast times, and Wi-Fi."
+      ],
+      "task": "Practise answering a phone call as a receptionist.",
+      "challenge": "Write a check-out checklist.",
+      "quiz": [
+        {
+          "q": "What does a front desk worker do besides check-in?",
+          "options": [
+            "Nothing",
+            "Answer calls, help guests, handle check-out, and keep the desk tidy",
+            "Clean rooms",
+            "Cook food"
+          ],
+          "answer": 1,
+          "explain": "Front desk work covers calls, guest help, check-out, and keeping the desk tidy."
+        },
+        {
+          "q": "Why know your hotel well?",
+          "options": [
+            "To show off",
+            "So you can answer guest questions",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Guests ask about rooms, prices, and services. You must know the answers."
+        },
+        {
+          "q": "What happens at check-out?",
+          "options": [
+            "You take the key only",
+            "You give the bill, take payment, and thank the guest",
+            "You clean the room",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Check-out means giving the bill, taking payment, and thanking the guest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Personalised Service: Make Guests Feel Special",
+      "goal": "Give each guest a personal touch.",
+      "video": {
+        "youtube_id": "cHu1AY82Log",
+        "title": "HOW TO: Welcome a guest at your hotel",
+        "channel": "HappyCulture"
+      },
+      "steps": [
+        "Remember returning guests and their likes.",
+        "Greet regulars by name.",
+        "Note special days: birthdays, honeymoons, and anniversaries.",
+        "Offer a small surprise: a free drink or a kind note.",
+        "Ask guests what they need, not just what they want."
+      ],
+      "task": "Write a list of ways to personalise service.",
+      "challenge": "Practise greeting a returning guest by name.",
+      "quiz": [
+        {
+          "q": "Why remember returning guests?",
+          "options": [
+            "To show off",
+            "It makes them feel valued and known",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Remembering guests makes them feel special and brings them back."
+        },
+        {
+          "q": "What is a small surprise you can offer?",
+          "options": [
+            "A bill",
+            "A free drink or a kind note",
+            "A complaint form",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "A small surprise shows care and makes a visit memorable."
+        },
+        {
+          "q": "Why note special days?",
+          "options": [
+            "To show off",
+            "So you can celebrate with the guest",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Celebrating a birthday or honeymoon makes the stay special."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Teamwork in Hospitality",
+      "goal": "Work well with your team.",
+      "video": {
+        "youtube_id": "Plqdp370p7o",
+        "title": "Hotel & Restaurant Problem Resolution | Handle Complaints & Win Back Guest Trust",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Help others when you are free, even if it is not your job.",
+        "Share information: tell the kitchen about allergies and special requests.",
+        "Be on time. Late staff make the whole team suffer.",
+        "Speak kindly to your team. A happy team serves happy guests.",
+        "Thank your team after a busy shift."
+      ],
+      "task": "Practise sharing information with a teammate.",
+      "challenge": "Write three ways you can help your team this week.",
+      "quiz": [
+        {
+          "q": "Why help others when you are free?",
+          "options": [
+            "It is your job",
+            "Teamwork makes service smooth",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Helping teammates keeps service fast and smooth."
+        },
+        {
+          "q": "Why share allergy information with the kitchen?",
+          "options": [
+            "It is polite",
+            "So the kitchen cooks safe food",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "The kitchen must know about allergies to cook safely."
+        },
+        {
+          "q": "Why be on time?",
+          "options": [
+            "It is polite",
+            "Late staff make the whole team suffer",
+            "It is a rule",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "One late person can slow the whole team."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: Handle a Difficult Day",
+      "goal": "Handle a busy day with complaints and difficult guests.",
+      "video": {
+        "youtube_id": "YQzhvE3wD-E",
+        "title": "How to Handle Hotel Guest Complaints | 4 Essential Front Office Lessons",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Greet every guest warmly, even when busy.",
+        "Serve food correctly and check back often.",
+        "Handle at least one complaint calmly and well.",
+        "Help a teammate who is struggling.",
+        "At the end, write what went well and what to improve."
+      ],
+      "task": "Run a busy service day for friends or family as guests.",
+      "challenge": "Handle a staged complaint and win the guest back.",
+      "quiz": [
+        {
+          "q": "Why greet warmly even when busy?",
+          "options": [
+            "It is polite",
+            "Guests notice when you are too busy to care",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "A warm greeting matters most when you are busy."
+        },
+        {
+          "q": "Why help a struggling teammate?",
+          "options": [
+            "It is your job",
+            "Teamwork keeps service smooth",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Helping a teammate helps every guest."
+        },
+        {
+          "q": "Why write what went well?",
+          "options": [
+            "To show off",
+            "So you learn and improve next time",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Writing lessons down turns a hard day into learning."
+        }
+      ],
+      "project": {
+        "title": "Handle a Difficult Day",
+        "brief": "Run a busy service day with a complaint handled well.",
+        "checks": [
+          "Guests greeted warmly, even when busy",
+          "Food served correctly and checked on",
+          "Complaint handled calmly and fixed",
+          "Teammate helped when struggling",
+          "Day reviewed: what went well, what to improve",
+          "Feedback collected from guests"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Body Language: What Guests See",
+      "goal": "Use good body language with guests.",
+      "video": {
+        "youtube_id": "WTKJKz-HvYU",
+        "title": "Rapport Hospitality Customer Service Demo: How to Handle a Frustrated Hotel Guest",
+        "channel": "Rapport"
+      },
+      "steps": [
+        "Stand up straight. Do not slouch.",
+        "Smile. Guests can see a smile and hear it on the phone.",
+        "Make eye contact when you greet and listen.",
+        "Do not cross your arms. It looks closed and unfriendly.",
+        "Move calmly. Rushing looks stressed."
+      ],
+      "task": "Practise greeting a friend with good body language.",
+      "challenge": "Ask a friend what your body language says.",
+      "quiz": [
+        {
+          "q": "Why stand up straight?",
+          "options": [
+            "It looks tall",
+            "It looks professional and confident",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Good posture looks professional and confident."
+        },
+        {
+          "q": "Why not cross your arms?",
+          "options": [
+            "It is uncomfortable",
+            "It looks closed and unfriendly",
+            "It is cold",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Crossed arms look closed and unwelcoming."
+        },
+        {
+          "q": "Why make eye contact?",
+          "options": [
+            "It is polite",
+            "It shows you are listening and you care",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Eye contact shows attention and care."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Phone Skills for Hospitality",
+      "goal": "Answer the phone like a professional.",
+      "video": {
+        "youtube_id": "wmkoFgHVWac",
+        "title": "How to Handle Restaurant Complaints",
+        "channel": "EvoBistro"
+      },
+      "steps": [
+        "Answer within three rings if you can.",
+        "Greet with your name and the hotel or restaurant name.",
+        "Speak clearly and slowly. Smile: guests can hear it.",
+        "Write down messages and repeat them back.",
+        "Thank the caller and say goodbye warmly."
+      ],
+      "task": "Practise answering a phone call as a receptionist.",
+      "challenge": "Write a phone greeting you can use at work.",
+      "quiz": [
+        {
+          "q": "How fast should you answer the phone?",
+          "options": [
+            "After 10 rings",
+            "Within three rings if you can",
+            "When you are free",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "Answering fast shows you care about the caller."
+        },
+        {
+          "q": "What should your greeting include?",
+          "options": [
+            "Only hello",
+            "Your name and the hotel or restaurant name",
+            "Only the time",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "A greeting with your name and the business name sounds professional."
+        },
+        {
+          "q": "Why repeat messages back?",
+          "options": [
+            "To be polite",
+            "So you get them right",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Repeating a message stops mistakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Upselling: Help Guests Choose More",
+      "goal": "Suggest extras that guests will enjoy.",
+      "video": {
+        "youtube_id": "olG1C5F0VOI",
+        "title": "Complaint Handling",
+        "channel": "The Chinese Buffet"
+      },
+      "steps": [
+        "Upselling means suggesting something extra that fits the guest.",
+        "Suggest a drink with a meal, or a dessert after it.",
+        "Know your menu well so your suggestions are good.",
+        "Never push. If the guest says no, smile and move on.",
+        "Upselling helps the guest enjoy more and helps the business earn more."
+      ],
+      "task": "Practise suggesting a dessert to a friend after a meal.",
+      "challenge": "List three upselling ideas for a restaurant.",
+      "quiz": [
+        {
+          "q": "What is upselling?",
+          "options": [
+            "Forcing guests to buy",
+            "Suggesting something extra that fits the guest",
+            "Raising prices",
+            "Charging more"
+          ],
+          "answer": 1,
+          "explain": "Upselling suggests an extra that the guest will enjoy."
+        },
+        {
+          "q": "Why know the menu well for upselling?",
+          "options": [
+            "To show off",
+            "So your suggestions are good",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Good suggestions come from knowing the menu."
+        },
+        {
+          "q": "What if the guest says no?",
+          "options": [
+            "Push harder",
+            "Smile and move on",
+            "Argue",
+            "Offer a discount"
+          ],
+          "answer": 1,
+          "explain": "Never push. A polite 'no' is fine."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Cultural Awareness: Serve Everyone Well",
+      "goal": "Serve guests from different cultures with respect.",
+      "video": {
+        "youtube_id": "dS-sUYaj4bM",
+        "title": "Silver Service Training",
+        "channel": "The British Butler Academy"
+      },
+      "steps": [
+        "Learn a few greetings in other languages.",
+        "Respect different food rules: some guests do not eat pork or beef.",
+        "Ask, do not assume, what a guest wants.",
+        "Be patient with guests who speak another language.",
+        "Treat every guest with the same care and respect."
+      ],
+      "task": "Learn three greetings in another language.",
+      "challenge": "Write a list of common food rules to respect.",
+      "quiz": [
+        {
+          "q": "Why learn greetings in other languages?",
+          "options": [
+            "To show off",
+            "It makes guests feel welcome",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A greeting in a guest's language shows respect and care."
+        },
+        {
+          "q": "Why ask instead of assuming?",
+          "options": [
+            "It is polite",
+            "Assuming can offend or get it wrong",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Asking shows respect and stops mistakes."
+        },
+        {
+          "q": "Why be patient with language differences?",
+          "options": [
+            "It is polite",
+            "Patience helps guests feel safe and understood",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Patience with language makes every guest feel welcome."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Feedback: Ask and Learn",
+      "goal": "Ask guests for feedback and use it.",
+      "video": {
+        "youtube_id": "qyqCFeKSYWc",
+        "title": "How to Service Food & Beverages | Restaurants | Hotels | Waiter | Fine Dining Training Video",
+        "channel": "Hospitality Broadcast"
+      },
+      "steps": [
+        "Ask at the end: 'How was everything today?'",
+        "Listen to the answer. Do not argue.",
+        "Thank guests for feedback, good or bad.",
+        "Share feedback with your team.",
+        "Fix what guests mention most often."
+      ],
+      "task": "Practise asking a friend for feedback after serving them.",
+      "challenge": "Write down three pieces of feedback and what you will change.",
+      "quiz": [
+        {
+          "q": "When should you ask for feedback?",
+          "options": [
+            "At the start",
+            "At the end of the visit",
+            "Never",
+            "Only if they complain"
+          ],
+          "answer": 1,
+          "explain": "Asking at the end catches the whole visit."
+        },
+        {
+          "q": "Why thank guests for bad feedback?",
+          "options": [
+            "To be polite",
+            "Bad feedback shows you what to fix",
+            "It is a rule",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Bad feedback is the most useful. It shows what to improve."
+        },
+        {
+          "q": "Why share feedback with your team?",
+          "options": [
+            "To blame someone",
+            "So the whole team can improve",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Sharing feedback helps the whole team get better."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Hospitality Mistakes and Fixes",
+      "goal": "Fix the commonest service mistakes.",
+      "video": {
+        "youtube_id": "zMF-8eEECV0",
+        "title": "How to Handle Customer Complaints in Your Restaurant?",
+        "channel": "Ajit Panicker"
+      },
+      "steps": [
+        "Forgot an order? Apologise, fix it fast, and offer something extra.",
+        "Served the wrong dish? Replace it at once and say sorry.",
+        "Guest waited too long? Apologise and offer a free drink.",
+        "Was rude by accident? Say sorry sincerely and move on.",
+        "Write down each mistake and fix."
+      ],
+      "task": "Fix one service mistake you have made.",
+      "challenge": "Write a list of three mistakes and how you would fix them.",
+      "quiz": [
+        {
+          "q": "What do you do if you forgot an order?",
+          "options": [
+            "Hide it",
+            "Apologise, fix it fast, and offer something extra",
+            "Blame the kitchen",
+            "Do nothing"
+          ],
+          "answer": 1,
+          "explain": "A fast fix and something extra can save the visit."
+        },
+        {
+          "q": "What do you do if a guest waited too long?",
+          "options": [
+            "Ignore it",
+            "Apologise and offer a free drink",
+            "Blame the cook",
+            "Charge less only"
+          ],
+          "answer": 1,
+          "explain": "An apology and a free drink show you care."
+        },
+        {
+          "q": "Why write mistakes down?",
+          "options": [
+            "To show off",
+            "So you learn and do not repeat them",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Writing mistakes down helps you learn from them."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Five-Star Service Day",
+      "goal": "Deliver five-star service for a full day.",
+      "video": {
+        "youtube_id": "XGYgpb7DY-o",
+        "title": "Hotel & Restaurant Problem Handling | Guest Complaints & Service Recovery",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Greet every guest warmly and by name if you know it.",
+        "Serve food correctly and check back often.",
+        "Personalise the service: remember likes and special days.",
+        "Handle any complaint calmly and win the guest back.",
+        "Ask for feedback and thank every guest."
+      ],
+      "task": "Run a five-star service day for friends or family.",
+      "challenge": "Ask guests to rate the service and say what made it five-star.",
+      "quiz": [
+        {
+          "q": "What makes service five-star?",
+          "options": [
+            "Expensive food",
+            "Warm greetings, correct service, personal touches, and quick fixes",
+            "Fancy plates",
+            "Big tips"
+          ],
+          "answer": 1,
+          "explain": "Five-star service is warm, correct, personal, and quick to fix problems."
+        },
+        {
+          "q": "Why personalise service?",
+          "options": [
+            "To show off",
+            "It makes guests feel special",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Personal touches make guests feel valued."
+        },
+        {
+          "q": "Why ask guests to rate the service?",
+          "options": [
+            "To show off",
+            "So you know what made it five-star",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Ratings tell you what to keep doing."
+        }
+      ],
+      "project": {
+        "title": "Deliver a Five-Star Service Day",
+        "brief": "Serve guests with five-star care for a full day.",
+        "checks": [
+          "Guests greeted warmly and by name",
+          "Food served correctly and checked on",
+          "Personal touches given to guests",
+          "Complaints handled calmly, if any",
+          "Feedback asked for and collected",
+          "Guests rated the service"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Check-Out and Goodbye",
+      "goal": "Check guests out warmly at a hotel.",
+      "video": {
+        "youtube_id": "cHu1AY82Log",
+        "title": "HOW TO: Welcome a guest at your hotel",
+        "channel": "HappyCulture"
+      },
+      "steps": [
+        "Greet the guest and ask how their stay was.",
+        "Give the bill and explain each charge.",
+        "Take payment and give a receipt.",
+        "Ask if they need help with bags or a taxi.",
+        "Thank them and invite them back."
+      ],
+      "task": "Practise a check-out with a friend playing the guest.",
+      "challenge": "Write a check-out checklist.",
+      "quiz": [
+        {
+          "q": "What should you ask at check-out?",
+          "options": [
+            "Nothing",
+            "How their stay was",
+            "Only for payment",
+            "Only for the key"
+          ],
+          "answer": 1,
+          "explain": "Asking about the stay shows you care and catches problems."
+        },
+        {
+          "q": "Why explain each charge on the bill?",
+          "options": [
+            "It is polite",
+            "So the guest understands what they are paying for",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Clear bills stop arguments and build trust."
+        },
+        {
+          "q": "Why invite guests back?",
+          "options": [
+            "To be polite",
+            "So they return next time",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "An invitation to return keeps guests loyal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Loyalty: Keep Guests Coming Back",
+      "goal": "Build loyalty so guests return again and again.",
+      "video": {
+        "youtube_id": "Plqdp370p7o",
+        "title": "Hotel & Restaurant Problem Resolution | Handle Complaints & Win Back Guest Trust",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Remember regular guests and what they like.",
+        "Offer a small reward for repeat visits: a free drink or a discount.",
+        "Keep in touch: message regulars about new menus or events.",
+        "Ask regulars what they would like to see.",
+        "Treat every visit as if it is their first and their best."
+      ],
+      "task": "Write a loyalty plan for a small hotel or restaurant.",
+      "challenge": "List three rewards you could offer regular guests.",
+      "quiz": [
+        {
+          "q": "Why remember regular guests?",
+          "options": [
+            "To show off",
+            "It makes them feel valued and brings them back",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Remembering regulars builds loyalty."
+        },
+        {
+          "q": "What reward can you offer regulars?",
+          "options": [
+            "Nothing",
+            "A free drink or a discount",
+            "A bill",
+            "A complaint form"
+          ],
+          "answer": 1,
+          "explain": "A small reward thanks regulars and brings them back."
+        },
+        {
+          "q": "Why ask regulars what they want?",
+          "options": [
+            "To be polite",
+            "So you can offer what they will buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Asking regulars tells you what will keep them coming."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Your Signature Service Style",
+      "goal": "Find the service style that suits you best.",
+      "video": {
+        "youtube_id": "YQzhvE3wD-E",
+        "title": "How to Handle Hotel Guest Complaints | 4 Essential Front Office Lessons",
+        "channel": "Leading Hoteliers"
+      },
+      "steps": [
+        "Some people are warm and chatty. Others are calm and quiet. Both can be great.",
+        "Be yourself, but always be polite and kind.",
+        "Learn from great servers you have met.",
+        "Practise your style every day until it feels natural.",
+        "Ask guests what they liked about your service."
+      ],
+      "task": "Write down your service style in one sentence.",
+      "challenge": "Serve a meal using your style and ask for feedback.",
+      "quiz": [
+        {
+          "q": "What is a service style?",
+          "options": [
+            "A uniform",
+            "The way you serve: warm, calm, chatty, or quiet",
+            "A menu",
+            "A price"
+          ],
+          "answer": 1,
+          "explain": "Your service style is the way you serve guests."
+        },
+        {
+          "q": "Why be yourself?",
+          "options": [
+            "It is easier",
+            "Guests can tell when you are real",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Real, warm service feels better than a fake smile."
+        },
+        {
+          "q": "Why ask guests what they liked?",
+          "options": [
+            "To show off",
+            "So you know your strengths",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Guest feedback shows your strengths."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Hospitality Career: First Steps",
+      "goal": "Take your first steps toward a hospitality job.",
+      "video": {
+        "youtube_id": "WTKJKz-HvYU",
+        "title": "Rapport Hospitality Customer Service Demo: How to Handle a Frustrated Hotel Guest",
+        "channel": "Rapport"
+      },
+      "steps": [
+        "Pick a role: server, receptionist, or front desk agent.",
+        "Learn the skills in this course and practise them.",
+        "Write a simple CV with your skills and experience.",
+        "Apply to hotels and restaurants near you.",
+        "At interviews, smile, be polite, and show you care about guests."
+      ],
+      "task": "Write a simple CV for a hospitality job.",
+      "challenge": "Practise answering interview questions with a friend.",
+      "quiz": [
+        {
+          "q": "What should a hospitality CV show?",
+          "options": [
+            "Only school",
+            "Your skills, experience, and care for guests",
+            "Only your age",
+            "Only your name"
+          ],
+          "answer": 1,
+          "explain": "A CV should show your skills and your care for guests."
+        },
+        {
+          "q": "Why practise interview questions?",
+          "options": [
+            "To show off",
+            "So you answer clearly and confidently",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Practice makes you calm and clear at interviews."
+        },
+        {
+          "q": "What matters most at a hospitality interview?",
+          "options": [
+            "Your clothes only",
+            "A smile, politeness, and care for guests",
+            "Your age",
+            "Your school"
+          ],
+          "answer": 1,
+          "explain": "A smile and care for guests matter most in hospitality."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Keeping Records: Guests and Feedback",
+      "goal": "Keep simple records of guests and feedback.",
+      "video": {
+        "youtube_id": "wmkoFgHVWac",
+        "title": "How to Handle Restaurant Complaints",
+        "channel": "EvoBistro"
+      },
+      "steps": [
+        "Write down regular guests and what they like.",
+        "Write down feedback, good and bad.",
+        "Note complaints and how you fixed them.",
+        "Share records with your team so everyone knows.",
+        "Use records to improve service every week."
+      ],
+      "task": "Start a simple guest record book today.",
+      "challenge": "Write down three pieces of feedback and what you changed.",
+      "quiz": [
+        {
+          "q": "Why write down what regulars like?",
+          "options": [
+            "To show off",
+            "So every staff member can serve them well",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Shared records help the whole team serve regulars well."
+        },
+        {
+          "q": "Why note complaints and fixes?",
+          "options": [
+            "To blame someone",
+            "So you learn and do not repeat mistakes",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Complaint records help you fix problems for good."
+        },
+        {
+          "q": "Why share records with your team?",
+          "options": [
+            "To show off",
+            "So everyone can serve guests well",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Shared records make the whole team better."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Service on Busy Days",
+      "goal": "Keep service good even when it is busy.",
+      "video": {
+        "youtube_id": "olG1C5F0VOI",
+        "title": "Complaint Handling",
+        "channel": "The Chinese Buffet"
+      },
+      "steps": [
+        "Greet every guest, even if briefly, when you are busy.",
+        "Work as a team: help each other.",
+        "Tell guests honestly if there is a wait.",
+        "Keep calm. Guests copy your mood.",
+        "After a busy day, thank your team."
+      ],
+      "task": "Practise serving on a busy day with friends as guests.",
+      "challenge": "Write three tips for busy days.",
+      "quiz": [
+        {
+          "q": "What should you do when busy?",
+          "options": [
+            "Ignore guests",
+            "Greet every guest, even briefly",
+            "Slow down",
+            "Stop serving"
+          ],
+          "answer": 1,
+          "explain": "A quick greeting matters most when you are busy."
+        },
+        {
+          "q": "Why tell guests honestly about a wait?",
+          "options": [
+            "It is polite",
+            "Honest waits are easier to accept",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Guests accept an honest wait better than a surprise."
+        },
+        {
+          "q": "Why keep calm on busy days?",
+          "options": [
+            "It is polite",
+            "Guests copy your mood",
+            "It saves energy",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A calm team makes guests feel calm too."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Hospitality Trends: What Guests Want Now",
+      "goal": "Learn what guests want today.",
+      "video": {
+        "youtube_id": "dS-sUYaj4bM",
+        "title": "Silver Service Training",
+        "channel": "The British Butler Academy"
+      },
+      "steps": [
+        "Guests want fast Wi-Fi and easy check-in.",
+        "Guests want healthy food choices and clear menus.",
+        "Guests want staff who remember them.",
+        "Guests want to book and pay on their phones.",
+        "Ask your guests what they want and offer it."
+      ],
+      "task": "Ask three people what they want from a hotel or restaurant.",
+      "challenge": "List three trends you will use in your service.",
+      "quiz": [
+        {
+          "q": "What do guests want now?",
+          "options": [
+            "Slow service",
+            "Fast Wi-Fi, easy check-in, and healthy choices",
+            "No Wi-Fi",
+            "Cash only"
+          ],
+          "answer": 1,
+          "explain": "Today's guests want fast Wi-Fi, easy check-in, and healthy food."
+        },
+        {
+          "q": "Why offer phone booking and payment?",
+          "options": [
+            "It is fancy",
+            "Guests like it fast and easy",
+            "It is required",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "Phone booking and payment are fast and easy for guests."
+        },
+        {
+          "q": "Why ask guests what they want?",
+          "options": [
+            "To be polite",
+            "So you can offer what they will buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Asking guests tells you what to offer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Hospitality Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "qyqCFeKSYWc",
+        "title": "How to Service Food & Beverages | Restaurants | Hotels | Waiter | Fine Dining Training Video",
+        "channel": "Hospitality Broadcast"
+      },
+      "steps": [
+        "Greet a guest from memory, without help.",
+        "Serve a meal correctly from memory.",
+        "Handle a complaint calmly from memory.",
+        "Name the steps of service.",
+        "List your three strongest skills and one to improve."
+      ],
+      "task": "Serve a full meal from memory, no notes.",
+      "challenge": "Teach one hospitality skill from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What are the steps of service?",
+          "options": [
+            "Serve and leave",
+            "Greet, seat, order, serve, check back, clear, thank",
+            "Cook and serve",
+            "Greet and charge"
+          ],
+          "answer": 1,
+          "explain": "Service is greet, seat, order, serve, check back, clear, and thank."
+        },
+        {
+          "q": "Why serve from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Serving without notes shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Service Day",
+      "goal": "Plan your capstone service day.",
+      "video": {
+        "youtube_id": "zMF-8eEECV0",
+        "title": "How to Handle Customer Complaints in Your Restaurant?",
+        "channel": "Ajit Panicker"
+      },
+      "steps": [
+        "Choose your capstone: a full service day for guests.",
+        "Write the plan: greeting, serving, checking back, and goodbye.",
+        "Prepare for a complaint and a difficult guest.",
+        "Check you have everything you need.",
+        "Do a trial run of the hardest part if you have time."
+      ],
+      "task": "Write your complete capstone plan.",
+      "challenge": "Do a trial run of your hardest capstone task today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only greetings",
+            "Everything you learned: greeting, serving, complaints, and feedback",
+            "Only serving",
+            "Only complaints"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why prepare for a complaint?",
+          "options": [
+            "To show off",
+            "So you handle it calmly when it happens",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Preparing for complaints means you stay calm when they happen."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste time",
+            "To find problems before the real day",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Five-Star Host: A Full Day of Great Service",
+    "brief": "Deliver a full day of five-star service to real guests: warm greetings, correct table service, personal touches, calm complaint handling, and a warm goodbye. Collect feedback and write a short report on the day.",
+    "checks": [
+      "Guests greeted warmly and by name where known",
+      "Food and drinks served correctly",
+      "Checked back within 2 minutes of serving",
+      "Personal touches given to guests",
+      "Complaints handled calmly and fixed, if any",
+      "Guests thanked and invited back",
+      "Feedback collected and written up"
+    ],
+    "deliverables": [
+      "A photo or note of your service day setup",
+      "Your service plan: greeting, serving, checking back, goodbye",
+      "Your complaint-handling guide written in your own words",
+      "Guest feedback collected on the day",
+      "A short report on what went well and what you will improve next"
+    ]
+  }
+}

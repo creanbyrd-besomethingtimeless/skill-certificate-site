@@ -1,0 +1,1714 @@
+{
+ "course": {
+  "id": "electrical-installation-basics",
+  "title": "Electrical Installation Basics",
+  "level": "Beginner",
+  "tagline": "Wire lights, sockets and panels safely, and fault-find like a pro.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "How Electricity Works in Your Home",
+   "goal": "Follow electricity from the street pole to a socket in your home.",
+   "video": {
+    "youtube_id": "MwB-2pz_N-M",
+    "title": "How Electricity Works in Your House (From the Pole to Your Outlet)",
+    "channel": "The One-Line with Sergio"
+   },
+   "steps": [
+    "Learn that power comes from the street into a meter, then to the main panel.",
+    "The main panel (also called a consumer unit) splits power into circuits.",
+    "Each circuit has a breaker that trips if too much current flows.",
+    "Draw the path from pole to meter to panel to socket."
+   ],
+   "task": "Draw the path of electricity from the street to a socket.",
+   "challenge": "Explain to a friend what a circuit breaker does.",
+   "quiz": [
+    {
+     "q": "Where does electricity enter a home?",
+     "options": [
+      "From the roof",
+      "From the street main into a meter, then the main panel",
+      "From the sockets",
+      "From the lights"
+     ],
+     "answer": 1,
+     "explain": "Power comes from the street through the meter into the main panel."
+    },
+    {
+     "q": "What does a circuit breaker do?",
+     "options": [
+      "Makes electricity",
+      "Trips off when too much current flows",
+      "Stores power",
+      "Changes the voltage"
+     ],
+     "answer": 1,
+     "explain": "A breaker is a safety switch that cuts power when a circuit is overloaded."
+    },
+    {
+     "q": "What is the main panel also called?",
+     "options": [
+      "A meter",
+      "A consumer unit",
+      "A socket",
+      "A fuse box only"
+     ],
+     "answer": 1,
+     "explain": "The consumer unit (main panel) splits power into separate circuits."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Safety First: Never Work Live",
+   "goal": "Learn the safety rules that keep you alive around electricity.",
+   "video": {
+    "youtube_id": "MwB-2pz_N-M",
+    "title": "How Electricity Works in Your House (From the Pole to Your Outlet)",
+    "channel": "The One-Line with Sergio"
+   },
+   "steps": [
+    "Rule one: always switch off the power at the panel before you touch wires.",
+    "Test with a voltage tester to prove the wires are dead.",
+    "Tell someone you are working on the power.",
+    "Never work with wet hands or standing in water."
+   ],
+   "task": "Write your own five safety rules and stick them above your bench.",
+   "challenge": "Prove a circuit is dead using a tester, twice.",
+   "quiz": [
+    {
+     "q": "Where does electricity enter a home?",
+     "options": [
+      "From the roof",
+      "From the street main into a meter, then the main panel",
+      "From the sockets",
+      "From the lights"
+     ],
+     "answer": 1,
+     "explain": "Power comes from the street through the meter into the main panel."
+    },
+    {
+     "q": "What does a circuit breaker do?",
+     "options": [
+      "Makes electricity",
+      "Trips off when too much current flows",
+      "Stores power",
+      "Changes the voltage"
+     ],
+     "answer": 1,
+     "explain": "A breaker is a safety switch that cuts power when a circuit is overloaded."
+    },
+    {
+     "q": "What is the main panel also called?",
+     "options": [
+      "A meter",
+      "A consumer unit",
+      "A socket",
+      "A fuse box only"
+     ],
+     "answer": 1,
+     "explain": "The consumer unit (main panel) splits power into separate circuits."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Tools and Testers",
+   "goal": "Know the tools: screwdrivers, strippers, testers and pliers.",
+   "video": {
+    "youtube_id": "MwB-2pz_N-M",
+    "title": "How Electricity Works in Your House (From the Pole to Your Outlet)",
+    "channel": "The One-Line with Sergio"
+   },
+   "steps": [
+    "Lay out insulated screwdrivers, wire strippers, a voltage tester and pliers.",
+    "Learn that insulated tools have plastic handles that protect you.",
+    "Practise stripping a wire: remove about 1cm of plastic without cutting the copper.",
+    "Test a known live socket with the tester, then a dead one."
+   ],
+   "task": "Strip ten wire ends cleanly without nicking the copper.",
+   "challenge": "Strip a wire to exactly the right length first try.",
+   "quiz": [
+    {
+     "q": "Where does electricity enter a home?",
+     "options": [
+      "From the roof",
+      "From the street main into a meter, then the main panel",
+      "From the sockets",
+      "From the lights"
+     ],
+     "answer": 1,
+     "explain": "Power comes from the street through the meter into the main panel."
+    },
+    {
+     "q": "What does a circuit breaker do?",
+     "options": [
+      "Makes electricity",
+      "Trips off when too much current flows",
+      "Stores power",
+      "Changes the voltage"
+     ],
+     "answer": 1,
+     "explain": "A breaker is a safety switch that cuts power when a circuit is overloaded."
+    },
+    {
+     "q": "What is the main panel also called?",
+     "options": [
+      "A meter",
+      "A consumer unit",
+      "A socket",
+      "A fuse box only"
+     ],
+     "answer": 1,
+     "explain": "The consumer unit (main panel) splits power into separate circuits."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Wires: Live, Neutral and Earth",
+   "goal": "Tell the three wires apart by colour and job.",
+   "video": {
+    "youtube_id": "qYI0TkggTFM",
+    "title": "How to Wire a Light Switch",
+    "channel": "HGTV"
+   },
+   "steps": [
+    "Live (brown or red) brings power in; neutral (blue or black) carries it back.",
+    "Earth (green and yellow, or bare copper) is the safety wire.",
+    "The earth wire gives fault current a safe path to the ground.",
+    "Open a plug and name each wire inside."
+   ],
+   "task": "Open a plug and label the live, neutral and earth wires.",
+   "challenge": "Name the three wires and their colours without looking.",
+   "quiz": [
+    {
+     "q": "What must you do before touching any wire?",
+     "options": [
+      "Wear gloves only",
+      "Switch off the power and test that it is dead",
+      "Tell a friend",
+      "Put on shoes"
+     ],
+     "answer": 1,
+     "explain": "Switching off and testing dead is the only safe way to start."
+    },
+    {
+     "q": "What does a voltage tester do?",
+     "options": [
+      "Measures the wire length",
+      "Shows if a wire is live or dead",
+      "Cuts the wire",
+      "Strips the wire"
+     ],
+     "answer": 1,
+     "explain": "A tester tells you if power is present before you touch anything."
+    },
+    {
+     "q": "Why never work with wet hands on electrics?",
+     "options": [
+      "Water makes tools rust",
+      "Water conducts electricity and raises the shock risk",
+      "It is messy",
+      "It slows you down"
+     ],
+     "answer": 1,
+     "explain": "Wet skin conducts electricity far better than dry skin."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Wire a Light Switch",
+   "goal": "Wire a simple one-way light switch on a practice board.",
+   "video": {
+    "youtube_id": "qYI0TkggTFM",
+    "title": "How to Wire a Light Switch",
+    "channel": "HGTV"
+   },
+   "steps": [
+    "Switch the power off and prove it is dead.",
+    "Connect the live wire to one side of the switch and the switched live to the other.",
+    "Connect the earth wire to the earth terminal.",
+    "Switch the power on and test the light."
+   ],
+   "task": "Wire a working light switch on a practice board.",
+   "challenge": "Wire the switch so it works first time.",
+   "quiz": [
+    {
+     "q": "What must you do before touching any wire?",
+     "options": [
+      "Wear gloves only",
+      "Switch off the power and test that it is dead",
+      "Tell a friend",
+      "Put on shoes"
+     ],
+     "answer": 1,
+     "explain": "Switching off and testing dead is the only safe way to start."
+    },
+    {
+     "q": "What does a voltage tester do?",
+     "options": [
+      "Measures the wire length",
+      "Shows if a wire is live or dead",
+      "Cuts the wire",
+      "Strips the wire"
+     ],
+     "answer": 1,
+     "explain": "A tester tells you if power is present before you touch anything."
+    },
+    {
+     "q": "Why never work with wet hands on electrics?",
+     "options": [
+      "Water makes tools rust",
+      "Water conducts electricity and raises the shock risk",
+      "It is messy",
+      "It slows you down"
+     ],
+     "answer": 1,
+     "explain": "Wet skin conducts electricity far better than dry skin."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Switches: One-Way and Two-Way",
+   "goal": "Know the difference between a switch that works from one place and from two places.",
+   "video": {
+    "youtube_id": "qYI0TkggTFM",
+    "title": "How to Wire a Light Switch",
+    "channel": "HGTV"
+   },
+   "steps": [
+    "A one-way switch controls a light from one spot.",
+    "A two-way switch lets two switches control the same light, like a hallway.",
+    "Learn the terminals: COM (common), L1 and L2.",
+    "Draw both switch circuits on paper."
+   ],
+   "task": "Draw a one-way and a two-way switch circuit, labelled.",
+   "challenge": "Explain two-way switching to a friend with a drawing.",
+   "quiz": [
+    {
+     "q": "What must you do before touching any wire?",
+     "options": [
+      "Wear gloves only",
+      "Switch off the power and test that it is dead",
+      "Tell a friend",
+      "Put on shoes"
+     ],
+     "answer": 1,
+     "explain": "Switching off and testing dead is the only safe way to start."
+    },
+    {
+     "q": "What does a voltage tester do?",
+     "options": [
+      "Measures the wire length",
+      "Shows if a wire is live or dead",
+      "Cuts the wire",
+      "Strips the wire"
+     ],
+     "answer": 1,
+     "explain": "A tester tells you if power is present before you touch anything."
+    },
+    {
+     "q": "Why never work with wet hands on electrics?",
+     "options": [
+      "Water makes tools rust",
+      "Water conducts electricity and raises the shock risk",
+      "It is messy",
+      "It slows you down"
+     ],
+     "answer": 1,
+     "explain": "Wet skin conducts electricity far better than dry skin."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Wire a Practice Light Switch Board",
+   "goal": "Build a small practice board with a switch and a bulb that works.",
+   "video": {
+    "youtube_id": "cPOMY1BdO74",
+    "title": "How to Wire an Electrical Outlet 2 Ways (Pigtails vs Daisy Chain)",
+    "channel": "Builds by Maz"
+   },
+   "steps": [
+    "Fix a switch and a bulb holder to a board.",
+    "Run wires from the supply to the switch, then to the bulb.",
+    "Connect the earth wires together.",
+    "Test the board: switch on, bulb lights; switch off, bulb goes out."
+   ],
+   "task": "Finish a working practice board with a switch and bulb.",
+   "challenge": "Build the board with no loose wires showing.",
+   "quiz": [
+    {
+     "q": "Which colour is the live wire in new wiring?",
+     "options": [
+      "Blue",
+      "Brown",
+      "Green and yellow",
+      "Black"
+     ],
+     "answer": 1,
+     "explain": "Brown is live in modern wiring; blue is neutral."
+    },
+    {
+     "q": "Which colour is the earth wire?",
+     "options": [
+      "Brown",
+      "Blue",
+      "Green and yellow",
+      "Red"
+     ],
+     "answer": 2,
+     "explain": "Green and yellow stripes mark the safety earth wire."
+    },
+    {
+     "q": "What is the earth wire for?",
+     "options": [
+      "Carrying power to the light",
+      "Giving fault current a safe path to the ground",
+      "Making the light brighter",
+      "Holding the cable"
+     ],
+     "answer": 1,
+     "explain": "Earth gives a fault a safe path away instead of through a person."
+    }
+   ],
+   "project": {
+    "title": "Wire a Practice Light Switch Board",
+    "brief": "Build a board with a switch and bulb that works from the switch.",
+    "checks": [
+     "Switch and bulb holder fixed firmly",
+     "Wires connected to the right terminals",
+     "Earth wires joined",
+     "Bulb lights from the switch",
+     "No bare copper showing",
+     "Board neat and safe to handle"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Connect Wires Safely",
+   "goal": "Join wires with connectors so they stay tight and safe.",
+   "video": {
+    "youtube_id": "cPOMY1BdO74",
+    "title": "How to Wire an Electrical Outlet 2 Ways (Pigtails vs Daisy Chain)",
+    "channel": "Builds by Maz"
+   },
+   "steps": [
+    "Strip the wire ends cleanly.",
+    "Twist the copper ends together, then screw on a wire connector.",
+    "Tug each wire to check it is tight.",
+    "Cover the joint with tape and tuck it into a box."
+   ],
+   "task": "Make five wire joints that pass a tug test.",
+   "challenge": "Make a joint so neat it fits inside a small box.",
+   "quiz": [
+    {
+     "q": "Which colour is the live wire in new wiring?",
+     "options": [
+      "Blue",
+      "Brown",
+      "Green and yellow",
+      "Black"
+     ],
+     "answer": 1,
+     "explain": "Brown is live in modern wiring; blue is neutral."
+    },
+    {
+     "q": "Which colour is the earth wire?",
+     "options": [
+      "Brown",
+      "Blue",
+      "Green and yellow",
+      "Red"
+     ],
+     "answer": 2,
+     "explain": "Green and yellow stripes mark the safety earth wire."
+    },
+    {
+     "q": "What is the earth wire for?",
+     "options": [
+      "Carrying power to the light",
+      "Giving fault current a safe path to the ground",
+      "Making the light brighter",
+      "Holding the cable"
+     ],
+     "answer": 1,
+     "explain": "Earth gives a fault a safe path away instead of through a person."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Wire a Wall Socket",
+   "goal": "Wire a wall socket (outlet) on a practice board.",
+   "video": {
+    "youtube_id": "cPOMY1BdO74",
+    "title": "How to Wire an Electrical Outlet 2 Ways (Pigtails vs Daisy Chain)",
+    "channel": "Builds by Maz"
+   },
+   "steps": [
+    "Switch the power off and prove it dead.",
+    "Connect live to the brass screw, neutral to the silver screw, earth to the green screw.",
+    "Wrap each wire clockwise round its screw so tightening pulls it in.",
+    "Test the socket with a lamp or tester."
+   ],
+   "task": "Wire a working socket on a practice board.",
+   "challenge": "Wire a socket with all three wires on the right screws.",
+   "quiz": [
+    {
+     "q": "Which colour is the live wire in new wiring?",
+     "options": [
+      "Blue",
+      "Brown",
+      "Green and yellow",
+      "Black"
+     ],
+     "answer": 1,
+     "explain": "Brown is live in modern wiring; blue is neutral."
+    },
+    {
+     "q": "Which colour is the earth wire?",
+     "options": [
+      "Brown",
+      "Blue",
+      "Green and yellow",
+      "Red"
+     ],
+     "answer": 2,
+     "explain": "Green and yellow stripes mark the safety earth wire."
+    },
+    {
+     "q": "What is the earth wire for?",
+     "options": [
+      "Carrying power to the light",
+      "Giving fault current a safe path to the ground",
+      "Making the light brighter",
+      "Holding the cable"
+     ],
+     "answer": 1,
+     "explain": "Earth gives a fault a safe path away instead of through a person."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Pigtails and Daisy Chains",
+   "goal": "Wire sockets two ways: pigtails and daisy chains.",
+   "video": {
+    "youtube_id": "IqptsH7X4RI",
+    "title": "How to Wire a One Way Light Switch",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "A pigtail is a short wire that joins one socket to the main wires.",
+    "A daisy chain runs the main wires from one socket to the next.",
+    "Learn why pigtails are safer: one loose socket cannot kill the rest.",
+    "Practise both ways on a board with two sockets."
+   ],
+   "task": "Wire two sockets with a pigtail and two with a daisy chain.",
+   "challenge": "Explain why a pigtail is safer than a daisy chain.",
+   "quiz": [
+    {
+     "q": "What does COM mean on a switch?",
+     "options": [
+      "Computer",
+      "Common terminal",
+      "Combined",
+      "Closed"
+     ],
+     "answer": 1,
+     "explain": "COM is the common terminal where the live wire connects."
+    },
+    {
+     "q": "What is a one-way switch?",
+     "options": [
+      "A switch that works from one place",
+      "A switch with one wire",
+      "A broken switch",
+      "A dimmer"
+     ],
+     "answer": 0,
+     "explain": "One-way means one switch controls the light from one spot."
+    },
+    {
+     "q": "What is a two-way switch for?",
+     "options": [
+      "Two lights",
+      "Controlling one light from two places",
+      "Two panels",
+      "Two colours"
+     ],
+     "answer": 1,
+     "explain": "Two-way switching lets two switches control the same light."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Wire a One-Way Switch Properly",
+   "goal": "Wire a one-way switch neatly with the right cable.",
+   "video": {
+    "youtube_id": "IqptsH7X4RI",
+    "title": "How to Wire a One Way Light Switch",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Use twin and earth cable (two wires plus an earth in one sleeve).",
+    "Strip the outer sleeve without cutting the inner wires.",
+    "Connect live to COM and switched live to L1.",
+    "Neaten the cables with clips and test the switch."
+   ],
+   "task": "Wire a one-way switch with neat clipped cables.",
+   "challenge": "Wire it with no bare copper showing outside a terminal.",
+   "quiz": [
+    {
+     "q": "What does COM mean on a switch?",
+     "options": [
+      "Computer",
+      "Common terminal",
+      "Combined",
+      "Closed"
+     ],
+     "answer": 1,
+     "explain": "COM is the common terminal where the live wire connects."
+    },
+    {
+     "q": "What is a one-way switch?",
+     "options": [
+      "A switch that works from one place",
+      "A switch with one wire",
+      "A broken switch",
+      "A dimmer"
+     ],
+     "answer": 0,
+     "explain": "One-way means one switch controls the light from one spot."
+    },
+    {
+     "q": "What is a two-way switch for?",
+     "options": [
+      "Two lights",
+      "Controlling one light from two places",
+      "Two panels",
+      "Two colours"
+     ],
+     "answer": 1,
+     "explain": "Two-way switching lets two switches control the same light."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Test Your Socket Work",
+   "goal": "Test sockets with a tester and fix common faults.",
+   "video": {
+    "youtube_id": "IqptsH7X4RI",
+    "title": "How to Wire a One Way Light Switch",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Plug a socket tester in and read the lights.",
+    "Learn what the lights mean: correct, no earth, live and neutral swapped.",
+    "Fix a swapped live and neutral by switching the wires.",
+    "Retest until the tester shows correct."
+   ],
+   "task": "Test three sockets and fix any fault you find.",
+   "challenge": "Find a swapped-wire fault from the tester lights alone.",
+   "quiz": [
+    {
+     "q": "What does COM mean on a switch?",
+     "options": [
+      "Computer",
+      "Common terminal",
+      "Combined",
+      "Closed"
+     ],
+     "answer": 1,
+     "explain": "COM is the common terminal where the live wire connects."
+    },
+    {
+     "q": "What is a one-way switch?",
+     "options": [
+      "A switch that works from one place",
+      "A switch with one wire",
+      "A broken switch",
+      "A dimmer"
+     ],
+     "answer": 0,
+     "explain": "One-way means one switch controls the light from one spot."
+    },
+    {
+     "q": "What is a two-way switch for?",
+     "options": [
+      "Two lights",
+      "Controlling one light from two places",
+      "Two panels",
+      "Two colours"
+     ],
+     "answer": 1,
+     "explain": "Two-way switching lets two switches control the same light."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Ring Circuits",
+   "goal": "Understand a ring circuit: a loop of cable that feeds many sockets.",
+   "video": {
+    "youtube_id": "hZN6hiGLtrE",
+    "title": "Ring Circuits Explained Step by Step",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "A ring circuit is a loop that starts and ends at the panel.",
+    "The loop shares the load, so thinner cable can feed many sockets.",
+    "Learn that a break in the ring overloads the rest.",
+    "Draw a ring circuit feeding four sockets."
+   ],
+   "task": "Draw a ring circuit with four sockets, labelled.",
+   "challenge": "Explain why a ring must be a complete loop.",
+   "quiz": [
+    {
+     "q": "What is a ring circuit?",
+     "options": [
+      "A round cable",
+      "A loop of cable from the panel, through sockets, back to the panel",
+      "A cable for rings",
+      "A broken circuit"
+     ],
+     "answer": 1,
+     "explain": "A ring starts and ends at the panel, looping through the sockets."
+    },
+    {
+     "q": "Why is a ring circuit used for sockets?",
+     "options": [
+      "It is cheaper",
+      "The loop shares the load so many sockets can run safely",
+      "It looks neat",
+      "It needs no breaker"
+     ],
+     "answer": 1,
+     "explain": "The loop shares current between two paths, so more sockets can be fed."
+    },
+    {
+     "q": "What happens if a ring circuit breaks?",
+     "options": [
+      "Nothing",
+      "The rest of the ring can overload",
+      "It gets stronger",
+      "The lights go out"
+     ],
+     "answer": 1,
+     "explain": "A break turns the ring into a radial, which can overload the cable."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Project: Wire a Socket Outlet on a Practice Board",
+   "goal": "Wire two sockets on a board in a ring, and test them.",
+   "video": {
+    "youtube_id": "hZN6hiGLtrE",
+    "title": "Ring Circuits Explained Step by Step",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Fix two sockets and a small panel to a board.",
+    "Run a ring of cable from the panel, through both sockets, back to the panel.",
+    "Connect every wire to the right terminal.",
+    "Test both sockets and check the ring is complete."
+   ],
+   "task": "Finish a board with two working sockets in a ring.",
+   "challenge": "Wire the ring with no faults on the tester.",
+   "quiz": [
+    {
+     "q": "What is a ring circuit?",
+     "options": [
+      "A round cable",
+      "A loop of cable from the panel, through sockets, back to the panel",
+      "A cable for rings",
+      "A broken circuit"
+     ],
+     "answer": 1,
+     "explain": "A ring starts and ends at the panel, looping through the sockets."
+    },
+    {
+     "q": "Why is a ring circuit used for sockets?",
+     "options": [
+      "It is cheaper",
+      "The loop shares the load so many sockets can run safely",
+      "It looks neat",
+      "It needs no breaker"
+     ],
+     "answer": 1,
+     "explain": "The loop shares current between two paths, so more sockets can be fed."
+    },
+    {
+     "q": "What happens if a ring circuit breaks?",
+     "options": [
+      "Nothing",
+      "The rest of the ring can overload",
+      "It gets stronger",
+      "The lights go out"
+     ],
+     "answer": 1,
+     "explain": "A break turns the ring into a radial, which can overload the cable."
+    }
+   ],
+   "project": {
+    "title": "Wire a Socket Outlet on a Practice Board",
+    "brief": "Wire two sockets in a ring on a board and test them.",
+    "checks": [
+     "Ring cable run complete",
+     "Sockets wired live, neutral and earth",
+     "Tester shows correct on both",
+     "No loose wires",
+     "Cables clipped neatly",
+     "Board safe to test"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Radial Circuits",
+   "goal": "Understand a radial circuit: one cable run from the panel to the sockets.",
+   "video": {
+    "youtube_id": "hZN6hiGLtrE",
+    "title": "Ring Circuits Explained Step by Step",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "A radial circuit runs in one line from the panel to the last socket.",
+    "It is simpler than a ring and used for smaller loads.",
+    "Learn the limit: a radial feeds fewer sockets than a ring.",
+    "Draw a radial circuit feeding three sockets."
+   ],
+   "task": "Draw a radial circuit with three sockets, labelled.",
+   "challenge": "Explain when to use a radial instead of a ring.",
+   "quiz": [
+    {
+     "q": "What is a ring circuit?",
+     "options": [
+      "A round cable",
+      "A loop of cable from the panel, through sockets, back to the panel",
+      "A cable for rings",
+      "A broken circuit"
+     ],
+     "answer": 1,
+     "explain": "A ring starts and ends at the panel, looping through the sockets."
+    },
+    {
+     "q": "Why is a ring circuit used for sockets?",
+     "options": [
+      "It is cheaper",
+      "The loop shares the load so many sockets can run safely",
+      "It looks neat",
+      "It needs no breaker"
+     ],
+     "answer": 1,
+     "explain": "The loop shares current between two paths, so more sockets can be fed."
+    },
+    {
+     "q": "What happens if a ring circuit breaks?",
+     "options": [
+      "Nothing",
+      "The rest of the ring can overload",
+      "It gets stronger",
+      "The lights go out"
+     ],
+     "answer": 1,
+     "explain": "A break turns the ring into a radial, which can overload the cable."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Lighting Circuits Part 1",
+   "goal": "Learn how a lighting circuit is wired: loop-in and ceiling roses.",
+   "video": {
+    "youtube_id": "At7AnMV7Xd0",
+    "title": "Radial Circuits Explained Step by Step",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "A ceiling rose is the round fitting where the light hangs.",
+    "Learn the loop-in method: power loops from one light to the next.",
+    "Name the wires at a rose: live, neutral, earth and switched live.",
+    "Draw a lighting circuit with two lights."
+   ],
+   "task": "Draw a lighting circuit with two ceiling roses, labelled.",
+   "challenge": "Name every wire at a ceiling rose without looking.",
+   "quiz": [
+    {
+     "q": "What is a radial circuit?",
+     "options": [
+      "A round circuit",
+      "One cable run from the panel to the sockets in a line",
+      "A ring circuit",
+      "A lighting circuit"
+     ],
+     "answer": 1,
+     "explain": "A radial runs in one line from the panel to the last socket."
+    },
+    {
+     "q": "When is a radial circuit a good choice?",
+     "options": [
+      "For a whole house",
+      "For a small number of sockets or a single load",
+      "Never",
+      "For the main supply"
+     ],
+     "answer": 1,
+     "explain": "Radials suit small loads, like one room or a single cooker."
+    },
+    {
+     "q": "How is a radial different from a ring?",
+     "options": [
+      "It has more cable",
+      "It does not loop back to the panel",
+      "It has no breaker",
+      "It is always thicker"
+     ],
+     "answer": 1,
+     "explain": "A radial ends at the last socket; a ring returns to the panel."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Lighting Circuits Part 2",
+   "goal": "Wire a light with a switch using the loop-in method.",
+   "video": {
+    "youtube_id": "At7AnMV7Xd0",
+    "title": "Radial Circuits Explained Step by Step",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Run cable from the panel to the first ceiling rose.",
+    "Loop the cable on to the second rose.",
+    "Run a switch cable down to the wall switch.",
+    "Test both lights from the switch."
+   ],
+   "task": "Wire two lights on a practice board using loop-in.",
+   "challenge": "Wire the lights so both switch on and off together.",
+   "quiz": [
+    {
+     "q": "What is a radial circuit?",
+     "options": [
+      "A round circuit",
+      "One cable run from the panel to the sockets in a line",
+      "A ring circuit",
+      "A lighting circuit"
+     ],
+     "answer": 1,
+     "explain": "A radial runs in one line from the panel to the last socket."
+    },
+    {
+     "q": "When is a radial circuit a good choice?",
+     "options": [
+      "For a whole house",
+      "For a small number of sockets or a single load",
+      "Never",
+      "For the main supply"
+     ],
+     "answer": 1,
+     "explain": "Radials suit small loads, like one room or a single cooker."
+    },
+    {
+     "q": "How is a radial different from a ring?",
+     "options": [
+      "It has more cable",
+      "It does not loop back to the panel",
+      "It has no breaker",
+      "It is always thicker"
+     ],
+     "answer": 1,
+     "explain": "A radial ends at the last socket; a ring returns to the panel."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Lighting Circuits Part 3",
+   "goal": "Add a second switch and fix lighting faults.",
+   "video": {
+    "youtube_id": "At7AnMV7Xd0",
+    "title": "Radial Circuits Explained Step by Step",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Learn how two-way switching works on lights.",
+    "Wire a light with switches at two places.",
+    "Find a common fault: a light that stays on means a wrong switch wire.",
+    "Fix the fault and retest."
+   ],
+   "task": "Wire a light controlled from two switches.",
+   "challenge": "Find and fix a light that will not switch off.",
+   "quiz": [
+    {
+     "q": "What is a radial circuit?",
+     "options": [
+      "A round circuit",
+      "One cable run from the panel to the sockets in a line",
+      "A ring circuit",
+      "A lighting circuit"
+     ],
+     "answer": 1,
+     "explain": "A radial runs in one line from the panel to the last socket."
+    },
+    {
+     "q": "When is a radial circuit a good choice?",
+     "options": [
+      "For a whole house",
+      "For a small number of sockets or a single load",
+      "Never",
+      "For the main supply"
+     ],
+     "answer": 1,
+     "explain": "Radials suit small loads, like one room or a single cooker."
+    },
+    {
+     "q": "How is a radial different from a ring?",
+     "options": [
+      "It has more cable",
+      "It does not loop back to the panel",
+      "It has no breaker",
+      "It is always thicker"
+     ],
+     "answer": 1,
+     "explain": "A radial ends at the last socket; a ring returns to the panel."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Project: Wire a Small Room Board",
+   "goal": "Wire a practice board with a light and a socket, like a small room.",
+   "video": {
+    "youtube_id": "dnpV781c6Sw",
+    "title": "Lighting Circuits Part 1",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Plan the board: one light circuit and one socket circuit.",
+    "Wire the light with its switch, then the socket.",
+    "Keep the cables neat and clipped.",
+    "Test everything and fix any fault before you finish."
+   ],
+   "task": "Finish a room board with a working light and socket.",
+   "challenge": "Build the board with zero faults on first test.",
+   "quiz": [
+    {
+     "q": "What is a ceiling rose?",
+     "options": [
+      "A flower",
+      "The round fitting where a light hangs",
+      "A switch",
+      "A bulb"
+     ],
+     "answer": 1,
+     "explain": "The ceiling rose holds the light fitting and joins the circuit wires."
+    },
+    {
+     "q": "What is the loop-in method?",
+     "options": [
+      "Looping a rope",
+      "Power loops from one light to the next",
+      "A switch loop",
+      "A cable tie"
+     ],
+     "answer": 1,
+     "explain": "Loop-in runs the power cable from one ceiling rose to the next."
+    },
+    {
+     "q": "Which wire turns the light on and off?",
+     "options": [
+      "Neutral",
+      "Switched live",
+      "Earth",
+      "Loop live"
+     ],
+     "answer": 1,
+     "explain": "The switched live runs from the switch to the light to control it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Fuses and Breakers",
+   "goal": "Know what fuses and breakers (MCBs) do and how to pick the right one.",
+   "video": {
+    "youtube_id": "dnpV781c6Sw",
+    "title": "Lighting Circuits Part 1",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "An MCB is a switch that trips when too much current flows.",
+    "Learn the ratings: lights often use 6A, sockets 16A or 20A.",
+    "A bigger breaker does not mean safer; it must match the cable.",
+    "Practise resetting a tripped breaker safely."
+   ],
+   "task": "Match three circuits to the right breaker size.",
+   "challenge": "Explain why a 32A breaker on a lighting cable is dangerous.",
+   "quiz": [
+    {
+     "q": "What is a ceiling rose?",
+     "options": [
+      "A flower",
+      "The round fitting where a light hangs",
+      "A switch",
+      "A bulb"
+     ],
+     "answer": 1,
+     "explain": "The ceiling rose holds the light fitting and joins the circuit wires."
+    },
+    {
+     "q": "What is the loop-in method?",
+     "options": [
+      "Looping a rope",
+      "Power loops from one light to the next",
+      "A switch loop",
+      "A cable tie"
+     ],
+     "answer": 1,
+     "explain": "Loop-in runs the power cable from one ceiling rose to the next."
+    },
+    {
+     "q": "Which wire turns the light on and off?",
+     "options": [
+      "Neutral",
+      "Switched live",
+      "Earth",
+      "Loop live"
+     ],
+     "answer": 1,
+     "explain": "The switched live runs from the switch to the light to control it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Install an MCB",
+   "goal": "Fit a small breaker (MCB) into a practice panel safely.",
+   "video": {
+    "youtube_id": "dnpV781c6Sw",
+    "title": "Lighting Circuits Part 1",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Switch off the main power and prove it dead.",
+    "Clip the MCB onto the rail in the panel.",
+    "Connect the live wire to the MCB and the neutral to the neutral bar.",
+    "Switch on and test the circuit it feeds."
+   ],
+   "task": "Fit an MCB that powers a practice circuit.",
+   "challenge": "Fit the MCB with no loose wires in the panel.",
+   "quiz": [
+    {
+     "q": "What is a ceiling rose?",
+     "options": [
+      "A flower",
+      "The round fitting where a light hangs",
+      "A switch",
+      "A bulb"
+     ],
+     "answer": 1,
+     "explain": "The ceiling rose holds the light fitting and joins the circuit wires."
+    },
+    {
+     "q": "What is the loop-in method?",
+     "options": [
+      "Looping a rope",
+      "Power loops from one light to the next",
+      "A switch loop",
+      "A cable tie"
+     ],
+     "answer": 1,
+     "explain": "Loop-in runs the power cable from one ceiling rose to the next."
+    },
+    {
+     "q": "Which wire turns the light on and off?",
+     "options": [
+      "Neutral",
+      "Switched live",
+      "Earth",
+      "Loop live"
+     ],
+     "answer": 1,
+     "explain": "The switched live runs from the switch to the light to control it."
+    }
+   ],
+   "project": {
+    "title": "Wire a Small Room Board",
+    "brief": "Wire a board with a light, switch and socket like a small room.",
+    "checks": [
+     "Light circuit works from its switch",
+     "Socket circuit tests correct",
+     "Cables neat and clipped",
+     "All faults found and fixed",
+     "Board labelled",
+     "Safe to present and test"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Fault-Finding: No Power",
+   "goal": "Find why a socket or light has no power, step by step.",
+   "video": {
+    "youtube_id": "LPJ_nE1JAqg",
+    "title": "Lighting Circuits Part 2",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Check the breaker first: is it tripped?",
+    "Check the bulb or appliance on a known good socket.",
+    "Test for power at the socket with your tester.",
+    "Work back along the circuit until you find the break."
+   ],
+   "task": "Find the cause of a dead socket on a practice board.",
+   "challenge": "Find a dead circuit fault in under ten minutes.",
+   "quiz": [
+    {
+     "q": "Why wire lights with the loop-in method?",
+     "options": [
+      "It is faster",
+      "It keeps all joints in the ceiling roses, easy to reach",
+      "It uses less cable",
+      "It looks better"
+     ],
+     "answer": 1,
+     "explain": "Loop-in keeps every joint at a rose, so faults are easy to find."
+    },
+    {
+     "q": "What should you do if a light stays on all the time?",
+     "options": [
+      "Change the bulb",
+      "Check the switch wiring: live and switched live may be swapped",
+      "Turn off the panel",
+      "Buy a new light"
+     ],
+     "answer": 1,
+     "explain": "A light stuck on usually means the switch wires are on the wrong terminals."
+    },
+    {
+     "q": "How many switches can control one light with two-way wiring?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "Two-way wiring uses two switches for one light."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Fault-Finding: Tripping Breaker",
+   "goal": "Find why a breaker keeps tripping.",
+   "video": {
+    "youtube_id": "LPJ_nE1JAqg",
+    "title": "Lighting Circuits Part 2",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "A tripping breaker means overload or a short circuit.",
+    "Unplug everything, reset the breaker, then plug things back one by one.",
+    "The item that trips it again is the faulty one.",
+    "Check for damaged cables and water near sockets."
+   ],
+   "task": "Find the faulty appliance that trips a breaker.",
+   "challenge": "Tell an overload from a short circuit by the symptoms.",
+   "quiz": [
+    {
+     "q": "Why wire lights with the loop-in method?",
+     "options": [
+      "It is faster",
+      "It keeps all joints in the ceiling roses, easy to reach",
+      "It uses less cable",
+      "It looks better"
+     ],
+     "answer": 1,
+     "explain": "Loop-in keeps every joint at a rose, so faults are easy to find."
+    },
+    {
+     "q": "What should you do if a light stays on all the time?",
+     "options": [
+      "Change the bulb",
+      "Check the switch wiring: live and switched live may be swapped",
+      "Turn off the panel",
+      "Buy a new light"
+     ],
+     "answer": 1,
+     "explain": "A light stuck on usually means the switch wires are on the wrong terminals."
+    },
+    {
+     "q": "How many switches can control one light with two-way wiring?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "Two-way wiring uses two switches for one light."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Earth and Safety Checks",
+   "goal": "Check earthing and bonding so a fault cannot shock anyone.",
+   "video": {
+    "youtube_id": "LPJ_nE1JAqg",
+    "title": "Lighting Circuits Part 2",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Earth wires must be joined firmly at every point.",
+    "Test that metal parts are connected to earth.",
+    "Learn that water pipes and gas pipes are bonded (joined) to earth.",
+    "Check the earth wire is never cut or missing."
+   ],
+   "task": "Check the earthing on a practice board and record the result.",
+   "challenge": "Explain why a missing earth wire is dangerous.",
+   "quiz": [
+    {
+     "q": "Why wire lights with the loop-in method?",
+     "options": [
+      "It is faster",
+      "It keeps all joints in the ceiling roses, easy to reach",
+      "It uses less cable",
+      "It looks better"
+     ],
+     "answer": 1,
+     "explain": "Loop-in keeps every joint at a rose, so faults are easy to find."
+    },
+    {
+     "q": "What should you do if a light stays on all the time?",
+     "options": [
+      "Change the bulb",
+      "Check the switch wiring: live and switched live may be swapped",
+      "Turn off the panel",
+      "Buy a new light"
+     ],
+     "answer": 1,
+     "explain": "A light stuck on usually means the switch wires are on the wrong terminals."
+    },
+    {
+     "q": "How many switches can control one light with two-way wiring?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+     ],
+     "answer": 1,
+     "explain": "Two-way wiring uses two switches for one light."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Price a Small Electrical Job",
+   "goal": "Price a small job from parts, time and a fair profit.",
+   "video": {
+    "youtube_id": "FBQ9Br2rSo4",
+    "title": "Lighting Circuits Part 3",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "List the parts for a socket change and their prices.",
+    "Time the job and value your hours fairly.",
+    "Add 20 percent profit and round to a clean price.",
+    "Write a simple quote a customer can understand."
+   ],
+   "task": "Write a clear quote for adding a socket, parts and labour shown.",
+   "challenge": "Price a light fitting change fairly.",
+   "quiz": [
+    {
+     "q": "What does an MCB do?",
+     "options": [
+      "Stores power",
+      "Trips off when too much current flows",
+      "Makes light",
+      "Charges batteries"
+     ],
+     "answer": 1,
+     "explain": "An MCB is a breaker that trips to protect the cable from overload."
+    },
+    {
+     "q": "What size MCB is often used for lights?",
+     "options": [
+      "32A",
+      "6A",
+      "100A",
+      "1A"
+     ],
+     "answer": 1,
+     "explain": "Lighting circuits often use a 6A breaker."
+    },
+    {
+     "q": "Why must the breaker match the cable?",
+     "options": [
+      "For looks",
+      "A breaker that is too big will not protect a thin cable",
+      "To save money",
+      "It is the law only"
+     ],
+     "answer": 1,
+     "explain": "A big breaker on a thin cable lets the cable overheat before tripping."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "When to Call a Professional",
+   "goal": "Know the jobs you must not do yourself.",
+   "video": {
+    "youtube_id": "FBQ9Br2rSo4",
+    "title": "Lighting Circuits Part 3",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Never work on the main supply cable or the meter.",
+    "Never work on a panel with the main power on.",
+    "Big new circuits and full rewires need a licensed electrician.",
+    "Know the rules in your area before you take paid work."
+   ],
+   "task": "List five electrical jobs you must leave to a licensed electrician.",
+   "challenge": "Explain to a customer why a job needs a licensed pro.",
+   "quiz": [
+    {
+     "q": "What does an MCB do?",
+     "options": [
+      "Stores power",
+      "Trips off when too much current flows",
+      "Makes light",
+      "Charges batteries"
+     ],
+     "answer": 1,
+     "explain": "An MCB is a breaker that trips to protect the cable from overload."
+    },
+    {
+     "q": "What size MCB is often used for lights?",
+     "options": [
+      "32A",
+      "6A",
+      "100A",
+      "1A"
+     ],
+     "answer": 1,
+     "explain": "Lighting circuits often use a 6A breaker."
+    },
+    {
+     "q": "Why must the breaker match the cable?",
+     "options": [
+      "For looks",
+      "A breaker that is too big will not protect a thin cable",
+      "To save money",
+      "It is the law only"
+     ],
+     "answer": 1,
+     "explain": "A big breaker on a thin cable lets the cable overheat before tripping."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Test Your MCB Work",
+   "goal": "Test an MCB installation safely before you call the job done.",
+   "video": {
+    "youtube_id": "FBQ9Br2rSo4",
+    "title": "Lighting Circuits Part 3",
+    "channel": "lets-do-diy"
+   },
+   "steps": [
+    "Turn the power off and check the MCB is fitted tightly.",
+    "Turn the power on and test each circuit one at a time.",
+    "Press the test button on the MCB and check it trips.",
+    "Write down the test results for the customer."
+   ],
+   "task": "Test an MCB board and record the results.",
+   "challenge": "Test every circuit on a board without missing one.",
+   "quiz": [
+    {
+     "q": "What does an MCB do?",
+     "options": [
+      "Stores power",
+      "Trips off when too much current flows",
+      "Makes light",
+      "Charges batteries"
+     ],
+     "answer": 1,
+     "explain": "An MCB is a breaker that trips to protect the cable from overload."
+    },
+    {
+     "q": "What size MCB is often used for lights?",
+     "options": [
+      "32A",
+      "6A",
+      "100A",
+      "1A"
+     ],
+     "answer": 1,
+     "explain": "Lighting circuits often use a 6A breaker."
+    },
+    {
+     "q": "Why must the breaker match the cable?",
+     "options": [
+      "For looks",
+      "A breaker that is too big will not protect a thin cable",
+      "To save money",
+      "It is the law only"
+     ],
+     "answer": 1,
+     "explain": "A big breaker on a thin cable lets the cable overheat before tripping."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Fault-Finding Practice: Dead Circuit",
+   "goal": "Find why a circuit has no power, step by step.",
+   "video": {
+    "youtube_id": "IwkNb8J3Pu4",
+    "title": "How to Install an MCB in a Distribution Board",
+    "channel": "CNC Electric"
+   },
+   "steps": [
+    "Check the MCB has not tripped.",
+    "Check the socket with a tester.",
+    "Check the fuse in the plug.",
+    "Write down each check and what you found."
+   ],
+   "task": "Find the fault in a dead circuit and write the steps you took.",
+   "challenge": "Find a fault using only checks, no guessing.",
+   "quiz": [
+    {
+     "q": "What is the first thing to check when a socket has no power?",
+     "options": [
+      "The bulb",
+      "Is the breaker tripped?",
+      "The plug",
+      "The weather"
+     ],
+     "answer": 1,
+     "explain": "A tripped breaker is the most common cause of a dead socket."
+    },
+    {
+     "q": "How do you find a faulty appliance that trips a breaker?",
+     "options": [
+      "Guess",
+      "Unplug everything, reset, plug back one by one",
+      "Change the breaker",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Plugging back one at a time shows which item trips the breaker."
+    },
+    {
+     "q": "What is a short circuit?",
+     "options": [
+      "A short cable",
+      "A fault where live touches neutral or earth",
+      "A small circuit",
+      "A broken switch"
+     ],
+     "answer": 1,
+     "explain": "A short circuit is a low-resistance fault that causes a big current surge."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone install, gather parts and plan the day.",
+   "video": {
+    "youtube_id": "IwkNb8J3Pu4",
+    "title": "How to Install an MCB in a Distribution Board",
+    "channel": "CNC Electric"
+   },
+   "steps": [
+    "Pick a small room install: light, switch and socket.",
+    "Buy or gather all cable, switches, sockets and breakers.",
+    "Draw the full circuit plan with wire colours.",
+    "Write a step-by-step plan with testing at each stage."
+   ],
+   "task": "Have all capstone parts bought and the plan drawn.",
+   "challenge": "Plan a capstone install that uses a light, a switch and a socket.",
+   "quiz": [
+    {
+     "q": "What is the first thing to check when a socket has no power?",
+     "options": [
+      "The bulb",
+      "Is the breaker tripped?",
+      "The plug",
+      "The weather"
+     ],
+     "answer": 1,
+     "explain": "A tripped breaker is the most common cause of a dead socket."
+    },
+    {
+     "q": "How do you find a faulty appliance that trips a breaker?",
+     "options": [
+      "Guess",
+      "Unplug everything, reset, plug back one by one",
+      "Change the breaker",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Plugging back one at a time shows which item trips the breaker."
+    },
+    {
+     "q": "What is a short circuit?",
+     "options": [
+      "A short cable",
+      "A fault where live touches neutral or earth",
+      "A small circuit",
+      "A broken switch"
+     ],
+     "answer": 1,
+     "explain": "A short circuit is a low-resistance fault that causes a big current surge."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Wire a Small Room",
+   "goal": "Wire a small room board with light, switch and socket, and test it all.",
+   "video": {
+    "youtube_id": "IwkNb8J3Pu4",
+    "title": "How to Install an MCB in a Distribution Board",
+    "channel": "CNC Electric"
+   },
+   "steps": [
+    "Wire the board following your plan, power off throughout.",
+    "Test each circuit as you finish it.",
+    "Fix any fault before moving to the next circuit.",
+    "Present the board with your plan, test results and quote."
+   ],
+   "task": "Present a working room board, fully tested, with plan and quote.",
+   "challenge": "Finish with zero faults and a tidy, labelled board.",
+   "quiz": [
+    {
+     "q": "What is the first thing to check when a socket has no power?",
+     "options": [
+      "The bulb",
+      "Is the breaker tripped?",
+      "The plug",
+      "The weather"
+     ],
+     "answer": 1,
+     "explain": "A tripped breaker is the most common cause of a dead socket."
+    },
+    {
+     "q": "How do you find a faulty appliance that trips a breaker?",
+     "options": [
+      "Guess",
+      "Unplug everything, reset, plug back one by one",
+      "Change the breaker",
+      "Ignore it"
+     ],
+     "answer": 1,
+     "explain": "Plugging back one at a time shows which item trips the breaker."
+    },
+    {
+     "q": "What is a short circuit?",
+     "options": [
+      "A short cable",
+      "A fault where live touches neutral or earth",
+      "A small circuit",
+      "A broken switch"
+     ],
+     "answer": 1,
+     "explain": "A short circuit is a low-resistance fault that causes a big current surge."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Wire a Small Room",
+  "brief": "Wire a small room practice board with a light, a switch and a socket, fully tested, and present it with the circuit plan and a quote.",
+  "checks": [
+   "Light works from its switch",
+   "Socket tests correct on the tester",
+   "Ring or radial wired as planned",
+   "All wires on the right terminals",
+   "Cables neat, clipped and labelled",
+   "No faults found on final test",
+   "Plan, test results and quote presented"
+  ],
+  "deliverables": [
+   "Working room board with light and socket",
+   "Circuit plan with wire colours",
+   "Test results sheet",
+   "Quote for the same job in a real home",
+   "Safety checklist signed off"
+  ]
+ }
+}

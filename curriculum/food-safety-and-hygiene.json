@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "food-safety-and-hygiene",
+    "title": "Food Safety and Hygiene",
+    "level": "Beginner",
+    "tagline": "Handle, store and serve food safely, and pass a food hygiene check.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Why Food Safety Matters",
+      "goal": "Know why food safety matters and what can go wrong.",
+      "video": {
+        "youtube_id": "LK-e7pKsGUM",
+        "title": "ServSafe Food Handler Test Pre exam — full Q&A walkthrough",
+        "channel": "CertsQuizPrep"
+      },
+      "steps": [
+        "Unsafe food can make people very sick.",
+        "Germs are tiny living things you cannot see. They grow fast in food.",
+        "Food poisoning means sickness from eating unsafe food.",
+        "Anyone who handles food must keep it safe.",
+        "Good food safety protects your customers and your name."
+      ],
+      "task": "Write down three reasons food safety matters.",
+      "challenge": "List three foods that go bad fast.",
+      "quiz": [
+        {
+          "q": "What is food poisoning?",
+          "options": [
+            "A stomach ache",
+            "Sickness from eating unsafe food",
+            "A food allergy",
+            "A bad taste"
+          ],
+          "answer": 1,
+          "explain": "Food poisoning is sickness caused by eating unsafe food."
+        },
+        {
+          "q": "What are germs?",
+          "options": [
+            "Dirt",
+            "Tiny living things you cannot see that grow fast in food",
+            "Insects",
+            "Chemicals"
+          ],
+          "answer": 1,
+          "explain": "Germs are tiny living things. You cannot see them, but they can make people sick."
+        },
+        {
+          "q": "Who must keep food safe?",
+          "options": [
+            "Only cooks",
+            "Anyone who handles food",
+            "Only managers",
+            "Only cleaners"
+          ],
+          "answer": 1,
+          "explain": "Everyone who touches food must keep it safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Handwashing: The First Rule",
+      "goal": "Wash your hands the right way, every time.",
+      "video": {
+        "youtube_id": "Ddn1W3Rp-Fk",
+        "title": "Food Safety & Hygiene Training Video in English Level 1",
+        "channel": "Food Safety Solutions"
+      },
+      "steps": [
+        "Wet your hands with clean water.",
+        "Add soap. Rub your hands for 20 seconds.",
+        "Rub between fingers, under nails, and on the backs of hands.",
+        "Rinse well and dry with a clean towel or paper.",
+        "Wash hands before cooking, after touching raw meat, and after the toilet."
+      ],
+      "task": "Practise washing your hands for a full 20 seconds.",
+      "challenge": "Time yourself and check you rub everywhere.",
+      "quiz": [
+        {
+          "q": "How long should you wash your hands?",
+          "options": [
+            "5 seconds",
+            "20 seconds",
+            "1 minute",
+            "10 seconds"
+          ],
+          "answer": 1,
+          "explain": "Twenty seconds with soap removes most germs."
+        },
+        {
+          "q": "When must you wash your hands?",
+          "options": [
+            "Only before cooking",
+            "Before cooking, after raw meat, and after the toilet",
+            "Once a day",
+            "Only after cooking"
+          ],
+          "answer": 1,
+          "explain": "Wash before cooking, after raw meat, and after the toilet."
+        },
+        {
+          "q": "Why rub between fingers and under nails?",
+          "options": [
+            "It feels good",
+            "Germs hide in those places",
+            "It is a rule",
+            "It saves soap"
+          ],
+          "answer": 1,
+          "explain": "Germs hide between fingers and under nails."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Personal Hygiene for Food Handlers",
+      "goal": "Keep yourself clean when you handle food.",
+      "video": {
+        "youtube_id": "J_zUG78l8qM",
+        "title": "ServSafe Chapter 3: The Safe Food Handler",
+        "channel": "Wekiva Culinary"
+      },
+      "steps": [
+        "Wear clean clothes and a hair cover when you cook.",
+        "Keep nails short and clean. Do not wear nail polish.",
+        "Do not cook if you are sick with a stomach bug or a bad cold.",
+        "Cover cuts with a clean plaster and a glove.",
+        "Do not touch food with bare hands if you have a cut."
+      ],
+      "task": "Check your clothes, nails, and hair before cooking today.",
+      "challenge": "Write a personal hygiene checklist for your kitchen.",
+      "quiz": [
+        {
+          "q": "Why wear a hair cover?",
+          "options": [
+            "It looks nice",
+            "So hair does not fall into food",
+            "It is a rule",
+            "It keeps you warm"
+          ],
+          "answer": 1,
+          "explain": "Hair in food is unhygienic and upsets customers."
+        },
+        {
+          "q": "Why keep nails short?",
+          "options": [
+            "They look nice",
+            "Germs hide under long nails",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Germs hide under long nails and can get into food."
+        },
+        {
+          "q": "Why not cook when you are sick?",
+          "options": [
+            "It is tiring",
+            "You can pass germs to the food and make people sick",
+            "It is a rule",
+            "It is boring"
+          ],
+          "answer": 1,
+          "explain": "A sick cook can pass germs into food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "The Danger Zone: Temperatures That Matter",
+      "goal": "Learn the danger zone and keep food out of it.",
+      "video": {
+        "youtube_id": "71bKF2lE37E",
+        "title": "Food Handler Safety Training",
+        "channel": "Southern Nevada Health District"
+      },
+      "steps": [
+        "The danger zone is 5°C to 60°C. Germs grow fast in this range.",
+        "Keep cold food below 5°C. Keep hot food above 60°C.",
+        "Do not leave food in the danger zone for more than 2 hours.",
+        "Use a food thermometer to check temperatures.",
+        "Write down fridge temperatures every day."
+      ],
+      "task": "Check your fridge temperature with a thermometer.",
+      "challenge": "Leave a plate of food out for 2 hours and throw it away. Note the rule.",
+      "quiz": [
+        {
+          "q": "What is the danger zone?",
+          "options": [
+            "Below 0°C",
+            "5°C to 60°C, where germs grow fast",
+            "Above 100°C",
+            "Room temperature only"
+          ],
+          "answer": 1,
+          "explain": "The danger zone is 5°C to 60°C. Germs grow fast there."
+        },
+        {
+          "q": "How long can food sit in the danger zone?",
+          "options": [
+            "6 hours",
+            "2 hours",
+            "1 day",
+            "4 hours"
+          ],
+          "answer": 1,
+          "explain": "Food left out over 2 hours is not safe to eat."
+        },
+        {
+          "q": "What temperature must cold food stay below?",
+          "options": [
+            "10°C",
+            "5°C",
+            "0°C",
+            "20°C"
+          ],
+          "answer": 1,
+          "explain": "Cold food must stay below 5°C."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Cooking Temperatures: Kill the Germs",
+      "goal": "Cook food to safe temperatures.",
+      "video": {
+        "youtube_id": "x85c3gncv3U",
+        "title": "Food Safety Modernization Act: Handwashing",
+        "channel": "Penn State Extension"
+      },
+      "steps": [
+        "Chicken and turkey must reach 75°C inside.",
+        "Minced meat must reach 75°C inside.",
+        "Steaks and chops must reach 63°C, then rest for 3 minutes.",
+        "Fish must reach 63°C and flake easily.",
+        "Use a thermometer. Do not guess."
+      ],
+      "task": "Cook chicken and check it reaches 75°C inside.",
+      "challenge": "Cook a steak and check the temperature.",
+      "quiz": [
+        {
+          "q": "What temperature must chicken reach?",
+          "options": [
+            "60°C",
+            "75°C",
+            "90°C",
+            "100°C"
+          ],
+          "answer": 1,
+          "explain": "Chicken must reach 75°C inside to kill germs."
+        },
+        {
+          "q": "Why use a thermometer?",
+          "options": [
+            "It looks professional",
+            "You cannot see germs, so you must measure the heat",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A thermometer tells you the true inside temperature."
+        },
+        {
+          "q": "What temperature must minced meat reach?",
+          "options": [
+            "60°C",
+            "75°C",
+            "50°C",
+            "100°C"
+          ],
+          "answer": 1,
+          "explain": "Minced meat must reach 75°C inside."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Cross-Contamination: Keep It Apart",
+      "goal": "Stop germs moving from one food to another.",
+      "video": {
+        "youtube_id": "B_Q8ZW_qVIQ",
+        "title": "What is HACCP? | Food Safety Risks & Hazards",
+        "channel": "SafetyCulture"
+      },
+      "steps": [
+        "Cross-contamination means germs move from one food to another.",
+        "Keep raw meat away from cooked food and ready-to-eat food.",
+        "Use different chopping boards for raw meat and vegetables.",
+        "Wash hands after touching raw meat.",
+        "Clean knives and boards between foods."
+      ],
+      "task": "Set up two chopping boards: one for raw meat, one for vegetables.",
+      "challenge": "Practise washing your hands and tools between foods.",
+      "quiz": [
+        {
+          "q": "What is cross-contamination?",
+          "options": [
+            "Mixing flavours",
+            "Germs moving from one food to another",
+            "Cooking two foods together",
+            "Storing food"
+          ],
+          "answer": 1,
+          "explain": "Cross-contamination is germs moving from raw food to cooked or ready-to-eat food."
+        },
+        {
+          "q": "Why use different chopping boards?",
+          "options": [
+            "It looks nice",
+            "So raw meat germs do not get onto vegetables",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Separate boards stop germs moving from raw meat to other food."
+        },
+        {
+          "q": "Why wash hands after raw meat?",
+          "options": [
+            "It is polite",
+            "To stop germs spreading to other food",
+            "It is a rule",
+            "It saves soap"
+          ],
+          "answer": 1,
+          "explain": "Raw meat has germs. Washing stops them spreading."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Kitchen Safety Check",
+      "goal": "Do a full food safety check of your kitchen.",
+      "video": {
+        "youtube_id": "l-vOvgaYyF4",
+        "title": "Temperature Danger Zone Explained",
+        "channel": "Food Safety with Shahbaz"
+      },
+      "steps": [
+        "Check handwashing: soap, clean water, and towels.",
+        "Check fridge temperature: below 5°C.",
+        "Check storage: raw meat below cooked food.",
+        "Check boards and knives: separate ones for raw meat.",
+        "Check cleaning: surfaces clean, no old food lying around."
+      ],
+      "task": "Do a full safety check of your kitchen and fix three problems.",
+      "challenge": "Write a safety checklist for your kitchen.",
+      "quiz": [
+        {
+          "q": "What temperature must a fridge be?",
+          "options": [
+            "10°C",
+            "Below 5°C",
+            "0°C",
+            "20°C"
+          ],
+          "answer": 1,
+          "explain": "A fridge must be below 5°C to keep food safe."
+        },
+        {
+          "q": "Where should raw meat go in the fridge?",
+          "options": [
+            "On the top shelf",
+            "On the bottom shelf, below cooked food",
+            "Anywhere",
+            "In the door"
+          ],
+          "answer": 1,
+          "explain": "Raw meat goes on the bottom shelf so juices cannot drip onto cooked food."
+        },
+        {
+          "q": "Why check your kitchen weekly?",
+          "options": [
+            "It is a rule",
+            "So problems are caught early",
+            "It saves money",
+            "It is polite"
+          ],
+          "answer": 1,
+          "explain": "Regular checks catch problems before they make people sick."
+        }
+      ],
+      "project": {
+        "title": "Do a Kitchen Safety Check",
+        "brief": "Check handwashing, fridge, storage, boards, and cleaning in your kitchen.",
+        "checks": [
+          "Handwashing checked: soap, water, towels",
+          "Fridge temperature below 5°C",
+          "Raw meat stored below cooked food",
+          "Separate boards for raw meat and vegetables",
+          "Surfaces clean, no old food lying around",
+          "Three problems found and fixed"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Storing Food: Fridge and Freezer",
+      "goal": "Store food safely in the fridge and freezer.",
+      "video": {
+        "youtube_id": "UItRmLSIqDg",
+        "title": "Food safety and storage",
+        "channel": "Better Health Channel"
+      },
+      "steps": [
+        "Fridge: below 5°C. Freezer: below -18°C.",
+        "Store raw meat on the bottom shelf in sealed containers.",
+        "Store cooked food above raw meat.",
+        "Cover all food. Do not leave it open.",
+        "Label food with the date it was made or opened."
+      ],
+      "task": "Organise your fridge: raw meat at the bottom, cooked food above.",
+      "challenge": "Label three items in your fridge with dates.",
+      "quiz": [
+        {
+          "q": "What temperature must a freezer be?",
+          "options": [
+            "0°C",
+            "Below -18°C",
+            "Below 5°C",
+            "Below -5°C"
+          ],
+          "answer": 1,
+          "explain": "A freezer must be below -18°C to keep food frozen hard."
+        },
+        {
+          "q": "Why store raw meat on the bottom shelf?",
+          "options": [
+            "It is colder",
+            "So juices cannot drip onto cooked food",
+            "It is easier to reach",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Juices from raw meat can drip and spread germs."
+        },
+        {
+          "q": "Why label food with a date?",
+          "options": [
+            "To show off",
+            "So you know when it was made and when to use it by",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A date tells you if food is still safe to eat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Thawing Food Safely",
+      "goal": "Thaw frozen food the safe way.",
+      "video": {
+        "youtube_id": "jBhdvG1gHVY",
+        "title": "Learn Safe Food Handling | Professional Food Handler Full Course (FREE)",
+        "channel": "CDG Training"
+      },
+      "steps": [
+        "Thaw in the fridge overnight. This is the safest way.",
+        "Thaw in cold water, changing the water every 30 minutes.",
+        "Thaw in the microwave, then cook at once.",
+        "Never thaw food on the counter at room temperature.",
+        "Do not refreeze food that has thawed."
+      ],
+      "task": "Thaw frozen meat in the fridge overnight.",
+      "challenge": "Thaw a small item in cold water and time it.",
+      "quiz": [
+        {
+          "q": "What is the safest way to thaw food?",
+          "options": [
+            "On the counter",
+            "In the fridge overnight",
+            "In hot water",
+            "In the sun"
+          ],
+          "answer": 1,
+          "explain": "Thawing in the fridge keeps food cold and safe."
+        },
+        {
+          "q": "Why not thaw on the counter?",
+          "options": [
+            "It is slow",
+            "The outside warms into the danger zone while the inside is still frozen",
+            "It is messy",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "On the counter, the outside reaches the danger zone while the middle is still frozen."
+        },
+        {
+          "q": "Why not refreeze thawed food?",
+          "options": [
+            "It tastes bad",
+            "Germs grow while it thaws, so refreezing is not safe",
+            "It is a rule",
+            "It wastes power"
+          ],
+          "answer": 1,
+          "explain": "Germs grow during thawing. Refreezing does not kill them."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Cooling and Reheating Food",
+      "goal": "Cool and reheat food safely.",
+      "video": {
+        "youtube_id": "DPFKs6BWJ9A",
+        "title": "Food Safety Training Manuals and Video One: Understanding the Importance of Food Safety and Roles We Play",
+        "channel": "Good Shepherd Food Bank"
+      },
+      "steps": [
+        "Cool cooked food fast: within 2 hours.",
+        "Put hot food in shallow containers so it cools fast.",
+        "Do not put very hot food in the fridge. Let steam stop first.",
+        "Reheat food until it is steaming hot all the way through, 75°C.",
+        "Reheat food only once. Throw away what is left."
+      ],
+      "task": "Cool a pot of stew fast in shallow containers.",
+      "challenge": "Reheat a portion and check it reaches 75°C.",
+      "quiz": [
+        {
+          "q": "How fast must cooked food cool?",
+          "options": [
+            "Within 6 hours",
+            "Within 2 hours",
+            "By bedtime",
+            "Next day"
+          ],
+          "answer": 1,
+          "explain": "Food must cool within 2 hours to stay safe."
+        },
+        {
+          "q": "Why use shallow containers to cool food?",
+          "options": [
+            "They look nice",
+            "Shallow food cools faster",
+            "They save space",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Shallow containers let heat escape fast."
+        },
+        {
+          "q": "What temperature must reheated food reach?",
+          "options": [
+            "50°C",
+            "75°C",
+            "60°C",
+            "100°C"
+          ],
+          "answer": 1,
+          "explain": "Reheated food must reach 75°C all the way through."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Cleaning and Sanitising",
+      "goal": "Clean and sanitise your kitchen properly.",
+      "video": {
+        "youtube_id": "pJ-5C3Gt96w",
+        "title": "Basic Food Hygiene Certification Course",
+        "channel": "Rcademy"
+      },
+      "steps": [
+        "Cleaning removes dirt. Sanitising kills germs.",
+        "Clean surfaces with soap and water first.",
+        "Then sanitise with a food-safe sanitiser or hot water.",
+        "Clean chopping boards and knives after each use.",
+        "Keep cleaning cloths clean. Wash them often."
+      ],
+      "task": "Clean and sanitise your kitchen surfaces today.",
+      "challenge": "Wash all your cleaning cloths.",
+      "quiz": [
+        {
+          "q": "What is the difference between cleaning and sanitising?",
+          "options": [
+            "There is none",
+            "Cleaning removes dirt. Sanitising kills germs",
+            "Cleaning is faster",
+            "Sanitising is cheaper"
+          ],
+          "answer": 1,
+          "explain": "Cleaning removes dirt. Sanitising kills germs."
+        },
+        {
+          "q": "Why clean before you sanitise?",
+          "options": [
+            "It is faster",
+            "Sanitiser cannot work through dirt",
+            "It is a rule",
+            "It saves money"
+          ],
+          "answer": 1,
+          "explain": "Dirt blocks sanitiser. Clean first, then sanitise."
+        },
+        {
+          "q": "Why wash cleaning cloths often?",
+          "options": [
+            "They look dirty",
+            "Dirty cloths spread germs",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "A dirty cloth spreads germs instead of removing them."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Allergens: The 14 to Know",
+      "goal": "Learn about food allergens and how to handle them.",
+      "video": {
+        "youtube_id": "lwwxmJWy3hg",
+        "title": "Food Hygiene & HACCP Level 1 | Free Course",
+        "channel": "CDG Training"
+      },
+      "steps": [
+        "An allergen is a food that can cause a bad reaction in some people.",
+        "Common allergens: peanuts, milk, eggs, fish, wheat, soy, and nuts.",
+        "Ask customers about allergies before you serve them.",
+        "Cook allergy-free food separately with clean tools.",
+        "Label dishes clearly so customers know what is in them."
+      ],
+      "task": "Write a list of the 14 main allergens.",
+      "challenge": "Practise cooking one dish separately with clean tools.",
+      "quiz": [
+        {
+          "q": "What is an allergen?",
+          "options": [
+            "A germ",
+            "A food that can cause a bad reaction in some people",
+            "A spice",
+            "A poison"
+          ],
+          "answer": 1,
+          "explain": "An allergen is a food that triggers a bad reaction in some people."
+        },
+        {
+          "q": "What are common allergens?",
+          "options": [
+            "Salt and sugar",
+            "Peanuts, milk, eggs, fish, wheat, soy, and nuts",
+            "Rice and yam",
+            "Water and oil"
+          ],
+          "answer": 1,
+          "explain": "Peanuts, milk, eggs, fish, wheat, soy, and nuts are common allergens."
+        },
+        {
+          "q": "Why cook allergy-free food separately?",
+          "options": [
+            "It tastes better",
+            "So allergens do not get into safe food",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Separate cooking with clean tools stops allergens getting into safe food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "HACCP: The Safety System",
+      "goal": "Learn HACCP, the food safety system.",
+      "video": {
+        "youtube_id": "LK-e7pKsGUM",
+        "title": "ServSafe Food Handler Test Pre exam — full Q&A walkthrough",
+        "channel": "CertsQuizPrep"
+      },
+      "steps": [
+        "HACCP means Hazard Analysis and Critical Control Points.",
+        "It is a system that finds dangers in food and controls them.",
+        "A critical control point is a step where you must control a danger, like cooking temperature.",
+        "Write down your critical points: cooking, cooling, and storage.",
+        "Check them every day and write the results down."
+      ],
+      "task": "Write down three critical control points in your kitchen.",
+      "challenge": "Check one point today and write the result down.",
+      "quiz": [
+        {
+          "q": "What does HACCP stand for?",
+          "options": [
+            "Health and cooking control plan",
+            "Hazard Analysis and Critical Control Points",
+            "Hot and cold control plan",
+            "Hygiene and cleaning control plan"
+          ],
+          "answer": 1,
+          "explain": "HACCP stands for Hazard Analysis and Critical Control Points."
+        },
+        {
+          "q": "What is a critical control point?",
+          "options": [
+            "A cleaning step",
+            "A step where you must control a danger, like cooking temperature",
+            "A menu item",
+            "A fridge"
+          ],
+          "answer": 1,
+          "explain": "A critical control point is a step where a danger must be controlled."
+        },
+        {
+          "q": "Why write results down?",
+          "options": [
+            "To show off",
+            "So you can prove food was kept safe",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written records prove you controlled the dangers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A Food Safety Audit",
+      "goal": "Audit a kitchen for food safety.",
+      "video": {
+        "youtube_id": "Ddn1W3Rp-Fk",
+        "title": "Food Safety & Hygiene Training Video in English Level 1",
+        "channel": "Food Safety Solutions"
+      },
+      "steps": [
+        "Check handwashing, personal hygiene, and clothing.",
+        "Check temperatures: fridge, freezer, and cooking.",
+        "Check storage: raw and cooked food apart, labels on everything.",
+        "Check cleaning: surfaces, boards, knives, and cloths.",
+        "Write a report with problems found and fixes."
+      ],
+      "task": "Audit your kitchen and write a report.",
+      "challenge": "Fix the three biggest problems you found.",
+      "quiz": [
+        {
+          "q": "What is a food safety audit?",
+          "options": [
+            "A cleaning day",
+            "A full check of a kitchen for food safety",
+            "A cooking test",
+            "A menu check"
+          ],
+          "answer": 1,
+          "explain": "An audit is a full check of a kitchen for food safety."
+        },
+        {
+          "q": "What should an audit check?",
+          "options": [
+            "Only cleaning",
+            "Hygiene, temperatures, storage, and cleaning",
+            "Only food",
+            "Only staff"
+          ],
+          "answer": 1,
+          "explain": "An audit checks hygiene, temperatures, storage, and cleaning."
+        },
+        {
+          "q": "Why write a report?",
+          "options": [
+            "To show off",
+            "So problems are recorded and fixed",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A written report makes sure problems get fixed."
+        }
+      ],
+      "project": {
+        "title": "Audit a Kitchen for Food Safety",
+        "brief": "Do a full food safety audit and write a report.",
+        "checks": [
+          "Handwashing and hygiene checked",
+          "Fridge, freezer, and cooking temperatures checked",
+          "Storage checked: raw and cooked apart, labels on",
+          "Cleaning checked: surfaces, boards, knives, cloths",
+          "Report written with problems and fixes",
+          "Three biggest problems fixed"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Foodborne Illness: Germs That Make People Sick",
+      "goal": "Learn the germs that cause food poisoning.",
+      "video": {
+        "youtube_id": "J_zUG78l8qM",
+        "title": "ServSafe Chapter 3: The Safe Food Handler",
+        "channel": "Wekiva Culinary"
+      },
+      "steps": [
+        "Salmonella lives in raw chicken and eggs.",
+        "E. coli lives in raw minced meat.",
+        "Listeria grows in cold food like soft cheese and deli meat.",
+        "Cooking food well kills most germs.",
+        "Washing hands and keeping food cold stops germs growing."
+      ],
+      "task": "Write a list of three germs and where they live.",
+      "challenge": "List three ways to stop germs growing.",
+      "quiz": [
+        {
+          "q": "Where does Salmonella live?",
+          "options": [
+            "In vegetables",
+            "In raw chicken and eggs",
+            "In bread",
+            "In water"
+          ],
+          "answer": 1,
+          "explain": "Salmonella lives in raw chicken and eggs."
+        },
+        {
+          "q": "How do you kill most germs in food?",
+          "options": [
+            "Washing it",
+            "Cooking it to a safe temperature",
+            "Freezing it",
+            "Smelling it"
+          ],
+          "answer": 1,
+          "explain": "Cooking to a safe temperature kills most germs."
+        },
+        {
+          "q": "How do you stop germs growing?",
+          "options": [
+            "Cooking only",
+            "Washing hands and keeping food cold",
+            "Adding salt only",
+            "Covering food only"
+          ],
+          "answer": 1,
+          "explain": "Handwashing and cold storage stop germs growing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Receiving Deliveries Safely",
+      "goal": "Check food deliveries when they arrive.",
+      "video": {
+        "youtube_id": "71bKF2lE37E",
+        "title": "Food Handler Safety Training",
+        "channel": "Southern Nevada Health District"
+      },
+      "steps": [
+        "Check the temperature of cold deliveries. They must be cold.",
+        "Check dates: do not accept food past its use-by date.",
+        "Check packaging: do not accept torn or dirty packs.",
+        "Store deliveries at once. Do not leave them out.",
+        "Write down what arrived and when."
+      ],
+      "task": "Practise checking a delivery at home.",
+      "challenge": "Write a delivery checklist.",
+      "quiz": [
+        {
+          "q": "What should you check first on a delivery?",
+          "options": [
+            "The price",
+            "Temperature, dates, and packaging",
+            "The driver",
+            "The time"
+          ],
+          "answer": 1,
+          "explain": "Check temperature, dates, and packaging first."
+        },
+        {
+          "q": "Why not accept food past its use-by date?",
+          "options": [
+            "It is expensive",
+            "It may not be safe to eat",
+            "It tastes bad",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Food past its use-by date may not be safe."
+        },
+        {
+          "q": "Why store deliveries at once?",
+          "options": [
+            "It is polite",
+            "So food does not sit in the danger zone",
+            "It saves space",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Leaving deliveries out lets food warm into the danger zone."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Pest Control: Keep Pests Out",
+      "goal": "Keep pests out of your kitchen.",
+      "video": {
+        "youtube_id": "x85c3gncv3U",
+        "title": "Food Safety Modernization Act: Handwashing",
+        "channel": "Penn State Extension"
+      },
+      "steps": [
+        "Pests are rats, mice, cockroaches, and flies.",
+        "Keep food in sealed containers.",
+        "Clean up spills and crumbs at once.",
+        "Take rubbish out often and keep bins closed.",
+        "Seal gaps in walls and doors."
+      ],
+      "task": "Check your kitchen for gaps and open food.",
+      "challenge": "Clean your kitchen and take out the rubbish.",
+      "quiz": [
+        {
+          "q": "What are pests in a kitchen?",
+          "options": [
+            "Pets",
+            "Rats, mice, cockroaches, and flies",
+            "Germs",
+            "Dust"
+          ],
+          "answer": 1,
+          "explain": "Pests are rats, mice, cockroaches, and flies."
+        },
+        {
+          "q": "Why keep food in sealed containers?",
+          "options": [
+            "It looks nice",
+            "So pests cannot reach it",
+            "It saves space",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Sealed containers keep pests out of food."
+        },
+        {
+          "q": "Why clean spills at once?",
+          "options": [
+            "It looks nice",
+            "Spills attract pests",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Spills and crumbs attract pests."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Waste and Rubbish: Handle It Safely",
+      "goal": "Handle kitchen waste safely.",
+      "video": {
+        "youtube_id": "B_Q8ZW_qVIQ",
+        "title": "What is HACCP? | Food Safety Risks & Hazards",
+        "channel": "SafetyCulture"
+      },
+      "steps": [
+        "Put waste in bins with lids.",
+        "Take rubbish out often. Do not let it pile up.",
+        "Wash bins often.",
+        "Wash your hands after handling rubbish.",
+        "Keep waste away from food preparation areas."
+      ],
+      "task": "Clean your bins today.",
+      "challenge": "Set up a waste routine for your kitchen.",
+      "quiz": [
+        {
+          "q": "Why use bins with lids?",
+          "options": [
+            "They look nice",
+            "Lids keep pests out and stop smells",
+            "They are cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Lids keep pests out and stop smells spreading."
+        },
+        {
+          "q": "Why wash hands after rubbish?",
+          "options": [
+            "It is polite",
+            "Rubbish carries germs",
+            "It is a rule",
+            "It saves soap"
+          ],
+          "answer": 1,
+          "explain": "Rubbish carries germs. Washing stops them spreading to food."
+        },
+        {
+          "q": "Why keep waste away from food areas?",
+          "options": [
+            "It looks bad",
+            "Waste can spread germs to food",
+            "It saves space",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Waste near food can spread germs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Food Safety at Events and Catering",
+      "goal": "Keep food safe at events.",
+      "video": {
+        "youtube_id": "l-vOvgaYyF4",
+        "title": "Temperature Danger Zone Explained",
+        "channel": "Food Safety with Shahbaz"
+      },
+      "steps": [
+        "Keep hot food hot and cold food cold during transport.",
+        "Use coolers and chafing dishes at events.",
+        "Do not leave food out for more than 2 hours.",
+        "Serve with clean utensils. Do not let guests touch food with hands.",
+        "Label dishes, especially those with allergens."
+      ],
+      "task": "Pack food for an event using coolers.",
+      "challenge": "Set up a serving table with labels.",
+      "quiz": [
+        {
+          "q": "How do you keep food safe during transport?",
+          "options": [
+            "Leave it out",
+            "Use coolers to keep hot food hot and cold food cold",
+            "Drive fast",
+            "Wrap it in paper"
+          ],
+          "answer": 1,
+          "explain": "Coolers hold food at safe temperatures during transport."
+        },
+        {
+          "q": "How long can food sit out at an event?",
+          "options": [
+            "6 hours",
+            "2 hours",
+            "1 day",
+            "4 hours"
+          ],
+          "answer": 1,
+          "explain": "Food left out over 2 hours is not safe."
+        },
+        {
+          "q": "Why label dishes at events?",
+          "options": [
+            "It looks nice",
+            "So guests with allergies know what is safe",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Labels help guests with allergies choose safe food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Food Safety Mistakes and Fixes",
+      "goal": "Fix the commonest food safety mistakes.",
+      "video": {
+        "youtube_id": "UItRmLSIqDg",
+        "title": "Food safety and storage",
+        "channel": "Better Health Channel"
+      },
+      "steps": [
+        "Forgot to wash hands? Wash now and do not touch food until you do.",
+        "Left food out too long? Throw it away. Do not taste it to check.",
+        "Used the same board for meat and vegetables? Wash it and start again.",
+        "Fridge too warm? Check the setting and call for repair if needed.",
+        "Write down each mistake and fix."
+      ],
+      "task": "Fix one food safety mistake you have made.",
+      "challenge": "Write a list of three mistakes and how you would fix them.",
+      "quiz": [
+        {
+          "q": "What do you do with food left out too long?",
+          "options": [
+            "Taste it to check",
+            "Throw it away",
+            "Reheat it",
+            "Put it in the fridge"
+          ],
+          "answer": 1,
+          "explain": "Food left out too long is not safe. Throw it away."
+        },
+        {
+          "q": "What do you do if you used the same board for meat and vegetables?",
+          "options": [
+            "Wipe it",
+            "Wash it well and start again",
+            "Do nothing",
+            "Throw it away"
+          ],
+          "answer": 1,
+          "explain": "Wash the board well to remove germs before using it again."
+        },
+        {
+          "q": "Why not taste food to check if it is safe?",
+          "options": [
+            "It tastes bad",
+            "You cannot taste germs",
+            "It is rude",
+            "It wastes food"
+          ],
+          "answer": 1,
+          "explain": "Germs have no taste. Tasting cannot tell you if food is safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: Pass a Hygiene Check",
+      "goal": "Prepare for and pass a food hygiene check.",
+      "video": {
+        "youtube_id": "jBhdvG1gHVY",
+        "title": "Learn Safe Food Handling | Professional Food Handler Full Course (FREE)",
+        "channel": "CDG Training"
+      },
+      "steps": [
+        "Do a full audit of your kitchen.",
+        "Fix every problem you find.",
+        "Write down your temperatures, cleaning, and storage rules.",
+        "Train a friend or family member on the rules.",
+        "Invite someone to check your kitchen and give you a score."
+      ],
+      "task": "Do a full hygiene check of your kitchen.",
+      "challenge": "Ask someone to score your kitchen and note what to improve.",
+      "quiz": [
+        {
+          "q": "What is a hygiene check?",
+          "options": [
+            "A cleaning day",
+            "A check that your kitchen follows food safety rules",
+            "A cooking test",
+            "A menu check"
+          ],
+          "answer": 1,
+          "explain": "A hygiene check tests if your kitchen follows food safety rules."
+        },
+        {
+          "q": "Why write your rules down?",
+          "options": [
+            "To show off",
+            "So everyone follows the same rules",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written rules help everyone do the right thing."
+        },
+        {
+          "q": "Why train others on the rules?",
+          "options": [
+            "To show off",
+            "So the whole kitchen stays safe",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Everyone in the kitchen must know the rules."
+        }
+      ],
+      "project": {
+        "title": "Pass a Food Hygiene Check",
+        "brief": "Prepare your kitchen and pass a hygiene check by a friend.",
+        "checks": [
+          "Full audit done",
+          "All problems found and fixed",
+          "Temperatures, cleaning, and storage rules written",
+          "Someone trained on the rules",
+          "Kitchen checked by someone else",
+          "Score received and improvements noted"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Food Labels: Dates and Meanings",
+      "goal": "Read food labels and dates correctly.",
+      "video": {
+        "youtube_id": "DPFKs6BWJ9A",
+        "title": "Food Safety Training Manuals and Video One: Understanding the Importance of Food Safety and Roles We Play",
+        "channel": "Good Shepherd Food Bank"
+      },
+      "steps": [
+        "Use-by date: do not eat food after this date. It may not be safe.",
+        "Best-before date: food may still be safe after this date, but quality drops.",
+        "Check ingredients for allergens.",
+        "Check storage instructions: fridge, freezer, or cupboard.",
+        "Throw away food past its use-by date."
+      ],
+      "task": "Check five items in your kitchen for dates.",
+      "challenge": "Throw away anything past its use-by date.",
+      "quiz": [
+        {
+          "q": "What does use-by mean?",
+          "options": [
+            "Best quality",
+            "Do not eat after this date. It may not be safe",
+            "Sell by",
+            "Made on"
+          ],
+          "answer": 1,
+          "explain": "Use-by is about safety. Do not eat food after this date."
+        },
+        {
+          "q": "What does best-before mean?",
+          "options": [
+            "Do not eat after this date",
+            "Food may still be safe, but quality drops",
+            "Sell by",
+            "Made on"
+          ],
+          "answer": 1,
+          "explain": "Best-before is about quality, not safety."
+        },
+        {
+          "q": "Why check storage instructions?",
+          "options": [
+            "It is polite",
+            "So you store food the right way",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Storage instructions tell you where food stays safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Safe Food for Babies and Old People",
+      "goal": "Take extra care with food for babies and old people.",
+      "video": {
+        "youtube_id": "pJ-5C3Gt96w",
+        "title": "Basic Food Hygiene Certification Course",
+        "channel": "Rcademy"
+      },
+      "steps": [
+        "Babies and old people get sick more easily from unsafe food.",
+        "Cook their food well. Do not serve raw or undercooked food.",
+        "Use fresh ingredients and clean tools.",
+        "Serve food at the right temperature, not too hot.",
+        "Ask about allergies and diets."
+      ],
+      "task": "Cook a meal for a baby or an older person with extra care.",
+      "challenge": "Write a checklist for cooking for vulnerable people.",
+      "quiz": [
+        {
+          "q": "Why take extra care with food for babies?",
+          "options": [
+            "They are fussy",
+            "They get sick more easily from unsafe food",
+            "It is a rule",
+            "They eat less"
+          ],
+          "answer": 1,
+          "explain": "Babies and old people are more at risk from food poisoning."
+        },
+        {
+          "q": "What food should you avoid for babies?",
+          "options": [
+            "Cooked food",
+            "Raw or undercooked food",
+            "Vegetables",
+            "Fruit"
+          ],
+          "answer": 1,
+          "explain": "Raw or undercooked food can carry germs that harm babies."
+        },
+        {
+          "q": "Why ask about diets for old people?",
+          "options": [
+            "To be polite",
+            "So you cook food that suits them",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Old people may have diets or allergies you must respect."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Your Food Safety Plan",
+      "goal": "Write your own food safety plan.",
+      "video": {
+        "youtube_id": "lwwxmJWy3hg",
+        "title": "Food Hygiene & HACCP Level 1 | Free Course",
+        "channel": "CDG Training"
+      },
+      "steps": [
+        "List your rules: handwashing, temperatures, storage, and cleaning.",
+        "List your critical control points: cooking, cooling, and storage.",
+        "Write who does what in your kitchen.",
+        "Write how often you check each point.",
+        "Keep the plan where everyone can see it."
+      ],
+      "task": "Write your food safety plan.",
+      "challenge": "Show it to a friend and ask for feedback.",
+      "quiz": [
+        {
+          "q": "What is a food safety plan?",
+          "options": [
+            "A menu",
+            "A written plan of your safety rules and checks",
+            "A recipe",
+            "A price list"
+          ],
+          "answer": 1,
+          "explain": "A food safety plan writes down your rules and checks."
+        },
+        {
+          "q": "Why write who does what?",
+          "options": [
+            "To show off",
+            "So everyone knows their job",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Clear jobs mean nothing is missed."
+        },
+        {
+          "q": "Why keep the plan where everyone can see it?",
+          "options": [
+            "To show off",
+            "So everyone follows it",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A visible plan reminds everyone of the rules."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Training Others in Food Safety",
+      "goal": "Teach food safety to others.",
+      "video": {
+        "youtube_id": "LK-e7pKsGUM",
+        "title": "ServSafe Food Handler Test Pre exam — full Q&A walkthrough",
+        "channel": "CertsQuizPrep"
+      },
+      "steps": [
+        "Teach handwashing first. It is the most important rule.",
+        "Show, then let them try, then watch them do it alone.",
+        "Use simple words. No jargon.",
+        "Check their work kindly and give feedback.",
+        "Ask them to teach someone else."
+      ],
+      "task": "Teach handwashing to a friend or family member.",
+      "challenge": "Teach one more food safety rule to someone else.",
+      "quiz": [
+        {
+          "q": "What should you teach first?",
+          "options": [
+            "Cooking",
+            "Handwashing",
+            "Storage",
+            "Cleaning"
+          ],
+          "answer": 1,
+          "explain": "Handwashing is the most important food safety rule."
+        },
+        {
+          "q": "Why use simple words?",
+          "options": [
+            "It is faster",
+            "So everyone understands",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Simple words help everyone learn."
+        },
+        {
+          "q": "Why ask them to teach someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves they really know it",
+            "It is faster",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "If they can teach it, they truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Food Safety Certificates",
+      "goal": "Learn about food safety certificates.",
+      "video": {
+        "youtube_id": "Ddn1W3Rp-Fk",
+        "title": "Food Safety & Hygiene Training Video in English Level 1",
+        "channel": "Food Safety Solutions"
+      },
+      "steps": [
+        "A certificate shows you have learned food safety.",
+        "Many jobs ask for a food hygiene certificate.",
+        "You can take a course online or in person.",
+        "The course covers handwashing, temperatures, storage, and HACCP.",
+        "Keep your certificate safe. Show it when you apply for jobs."
+      ],
+      "task": "Find a food hygiene course in your area or online.",
+      "challenge": "List what the course covers.",
+      "quiz": [
+        {
+          "q": "What is a food hygiene certificate?",
+          "options": [
+            "A menu",
+            "Proof you have learned food safety",
+            "A recipe",
+            "A licence to cook"
+          ],
+          "answer": 1,
+          "explain": "A certificate proves you have learned food safety."
+        },
+        {
+          "q": "Why do jobs ask for one?",
+          "options": [
+            "It is a rule",
+            "So employers know you can handle food safely",
+            "It is expensive",
+            "It is polite"
+          ],
+          "answer": 1,
+          "explain": "A certificate shows an employer you know food safety."
+        },
+        {
+          "q": "What does a food hygiene course cover?",
+          "options": [
+            "Only cooking",
+            "Handwashing, temperatures, storage, and HACCP",
+            "Only cleaning",
+            "Only menus"
+          ],
+          "answer": 1,
+          "explain": "A food hygiene course covers the main safety rules."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Keeping Records: Temperatures and Checks",
+      "goal": "Keep simple records of your food safety checks.",
+      "video": {
+        "youtube_id": "J_zUG78l8qM",
+        "title": "ServSafe Chapter 3: The Safe Food Handler",
+        "channel": "Wekiva Culinary"
+      },
+      "steps": [
+        "Write down fridge and freezer temperatures every day.",
+        "Write down cooking temperatures for meat.",
+        "Write down cleaning times.",
+        "Keep all records in one book or file.",
+        "Show records to an inspector if they ask."
+      ],
+      "task": "Start a food safety record book today.",
+      "challenge": "Record your fridge temperature for a week.",
+      "quiz": [
+        {
+          "q": "Why write down temperatures?",
+          "options": [
+            "To show off",
+            "So you can prove food was kept safe",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written temperatures prove you kept food safe."
+        },
+        {
+          "q": "Why keep records in one place?",
+          "options": [
+            "It looks nice",
+            "So you can find them fast",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "One place for records makes checks easy."
+        },
+        {
+          "q": "Why show records to an inspector?",
+          "options": [
+            "To show off",
+            "So they can see you follow the rules",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Records prove to an inspector that you follow food safety rules."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Food Safety in Your Business",
+      "goal": "Use food safety to build trust in your business.",
+      "video": {
+        "youtube_id": "71bKF2lE37E",
+        "title": "Food Handler Safety Training",
+        "channel": "Southern Nevada Health District"
+      },
+      "steps": [
+        "Tell customers you follow food safety rules.",
+        "Show your certificate if you have one.",
+        "Keep your kitchen clean and let customers see it.",
+        "Handle complaints about food safety seriously and fast.",
+        "Good food safety is good business."
+      ],
+      "task": "Write a short note about food safety for your customers.",
+      "challenge": "Show your kitchen to a customer and ask what they think.",
+      "quiz": [
+        {
+          "q": "Why tell customers about food safety?",
+          "options": [
+            "To show off",
+            "It builds trust",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Customers trust businesses that care about food safety."
+        },
+        {
+          "q": "Why show your certificate?",
+          "options": [
+            "To show off",
+            "It proves you know food safety",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A certificate proves your knowledge to customers."
+        },
+        {
+          "q": "Why handle food safety complaints fast?",
+          "options": [
+            "It is polite",
+            "Food safety complaints are serious",
+            "It is a rule",
+            "To save money"
+          ],
+          "answer": 1,
+          "explain": "Food safety complaints can harm people. Handle them fast."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Food Safety Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "x85c3gncv3U",
+        "title": "Food Safety Modernization Act: Handwashing",
+        "channel": "Penn State Extension"
+      },
+      "steps": [
+        "Wash your hands the right way from memory.",
+        "Name the danger zone temperatures.",
+        "Explain cross-contamination in one sentence.",
+        "Name three allergens.",
+        "List your three strongest skills and one to improve."
+      ],
+      "task": "Do a full kitchen safety check from memory, no notes.",
+      "challenge": "Teach one food safety rule to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What is the danger zone?",
+          "options": [
+            "Below 0°C",
+            "5°C to 60°C",
+            "Above 100°C",
+            "Room temperature only"
+          ],
+          "answer": 1,
+          "explain": "The danger zone is 5°C to 60°C."
+        },
+        {
+          "q": "What is cross-contamination?",
+          "options": [
+            "Mixing flavours",
+            "Germs moving from one food to another",
+            "Cooking two foods",
+            "Storing food"
+          ],
+          "answer": 1,
+          "explain": "Cross-contamination is germs moving from one food to another."
+        },
+        {
+          "q": "Why teach a rule to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Safety Audit",
+      "goal": "Plan your capstone food safety audit.",
+      "video": {
+        "youtube_id": "B_Q8ZW_qVIQ",
+        "title": "What is HACCP? | Food Safety Risks & Hazards",
+        "channel": "SafetyCulture"
+      },
+      "steps": [
+        "Choose a kitchen to audit: yours or a friend's.",
+        "Write your audit checklist: hygiene, temperatures, storage, cleaning.",
+        "Plan how you will fix problems you find.",
+        "Check you have a thermometer and cleaning supplies.",
+        "Do a trial audit if you have time."
+      ],
+      "task": "Write your complete capstone audit plan.",
+      "challenge": "Do a trial audit of your kitchen today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only cleaning",
+            "Everything you learned: hygiene, temperatures, storage, cleaning, and HACCP",
+            "Only temperatures",
+            "Only handwashing"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why plan how to fix problems?",
+          "options": [
+            "To show off",
+            "So problems are fixed, not just found",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Finding problems is not enough. You must fix them."
+        },
+        {
+          "q": "Why do a trial audit?",
+          "options": [
+            "To waste time",
+            "To find problems before the real audit",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial audit finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Food Safety Audit: Check a Kitchen and Make It Safe",
+    "brief": "Do a full food safety audit of a real kitchen: check handwashing, personal hygiene, temperatures, storage, thawing, cleaning, allergens, and HACCP points. Write a report, fix the problems you find, and train one person on the rules.",
+    "checks": [
+      "Full audit done: hygiene, temperatures, storage, cleaning",
+      "Danger zone and cooking temperatures checked with a thermometer",
+      "Cross-contamination risks found and fixed",
+      "Allergen handling checked and labelled",
+      "HACCP points written down and checked",
+      "Report written with problems and fixes",
+      "One person trained on the food safety rules"
+    ],
+    "deliverables": [
+      "Your written audit report with problems and fixes",
+      "Your food safety plan written in your own words",
+      "Your temperature records for one week",
+      "Your cleaning and storage checklists",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}
