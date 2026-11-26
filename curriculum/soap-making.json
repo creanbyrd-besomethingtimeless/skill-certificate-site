@@ -1,0 +1,1714 @@
+{
+ "course": {
+  "id": "soap-making",
+  "title": "Soap Making",
+  "level": "Beginner",
+  "tagline": "Make natural soaps and body bars, from recipes to packaged products.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Soap Making Basics",
+   "goal": "Know the two ways to make soap: melt and pour, and cold process.",
+   "video": {
+    "youtube_id": "lBc-dWQmFIM",
+    "title": "Soap Tutorial for Absolute Beginners",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Learn that melt and pour means melting a ready-made soap base.",
+    "Learn that cold process means mixing oils with lye (a strong cleaner that turns oil into soap).",
+    "Learn that lye is dangerous and needs gloves and goggles.",
+    "Set up a clean work area with old clothes on."
+   ],
+   "task": "Explain melt and pour and cold process in plain words.",
+   "challenge": "Name the two soap methods without looking.",
+   "quiz": [
+    {
+     "q": "What are the two ways to make soap?",
+     "options": [
+      "Boiling and freezing",
+      "Melt and pour, and cold process",
+      "Baking and frying",
+      "Mixing and shaking"
+     ],
+     "answer": 1,
+     "explain": "Melt and pour melts a ready base; cold process mixes oils with lye."
+    },
+    {
+     "q": "What is lye in soap making?",
+     "options": [
+      "A scent",
+      "A strong cleaner that turns oil into soap",
+      "A colour",
+      "A mould"
+     ],
+     "answer": 1,
+     "explain": "Lye reacts with oils to make soap; it is dangerous until it reacts."
+    },
+    {
+     "q": "Why wear gloves and goggles with lye?",
+     "options": [
+      "For looks",
+      "Lye burns skin and eyes",
+      "It is cold",
+      "It smells bad"
+     ],
+     "answer": 1,
+     "explain": "Lye is caustic and burns skin and eyes on contact."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Safety: Working with Lye",
+   "goal": "Work safely with lye, the most dangerous part of soap making.",
+   "video": {
+    "youtube_id": "lBc-dWQmFIM",
+    "title": "Soap Tutorial for Absolute Beginners",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Wear gloves, goggles and long sleeves.",
+    "Always add lye to water, never water to lye.",
+    "Mix lye in fresh air: the fumes are strong.",
+    "Keep vinegar nearby to neutralise (cancel out) splashes on skin."
+   ],
+   "task": "Write your own five lye safety rules.",
+   "challenge": "Mix a lye solution safely with full gear on.",
+   "quiz": [
+    {
+     "q": "What are the two ways to make soap?",
+     "options": [
+      "Boiling and freezing",
+      "Melt and pour, and cold process",
+      "Baking and frying",
+      "Mixing and shaking"
+     ],
+     "answer": 1,
+     "explain": "Melt and pour melts a ready base; cold process mixes oils with lye."
+    },
+    {
+     "q": "What is lye in soap making?",
+     "options": [
+      "A scent",
+      "A strong cleaner that turns oil into soap",
+      "A colour",
+      "A mould"
+     ],
+     "answer": 1,
+     "explain": "Lye reacts with oils to make soap; it is dangerous until it reacts."
+    },
+    {
+     "q": "Why wear gloves and goggles with lye?",
+     "options": [
+      "For looks",
+      "Lye burns skin and eyes",
+      "It is cold",
+      "It smells bad"
+     ],
+     "answer": 1,
+     "explain": "Lye is caustic and burns skin and eyes on contact."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Oils and Butters",
+   "goal": "Know the oils that make soap: olive, coconut, shea and palm.",
+   "video": {
+    "youtube_id": "lBc-dWQmFIM",
+    "title": "Soap Tutorial for Absolute Beginners",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Learn that olive oil makes gentle soap.",
+    "Learn that coconut oil makes lots of bubbles.",
+    "Learn that shea butter makes soap creamy and soft.",
+    "Weigh oils on a scale: soap recipes work by weight, not cups."
+   ],
+   "task": "Label four oils with what each does in soap.",
+   "challenge": "Pick oils for a gentle soap and explain why.",
+   "quiz": [
+    {
+     "q": "What are the two ways to make soap?",
+     "options": [
+      "Boiling and freezing",
+      "Melt and pour, and cold process",
+      "Baking and frying",
+      "Mixing and shaking"
+     ],
+     "answer": 1,
+     "explain": "Melt and pour melts a ready base; cold process mixes oils with lye."
+    },
+    {
+     "q": "What is lye in soap making?",
+     "options": [
+      "A scent",
+      "A strong cleaner that turns oil into soap",
+      "A colour",
+      "A mould"
+     ],
+     "answer": 1,
+     "explain": "Lye reacts with oils to make soap; it is dangerous until it reacts."
+    },
+    {
+     "q": "Why wear gloves and goggles with lye?",
+     "options": [
+      "For looks",
+      "Lye burns skin and eyes",
+      "It is cold",
+      "It smells bad"
+     ],
+     "answer": 1,
+     "explain": "Lye is caustic and burns skin and eyes on contact."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Melt and Pour Soap",
+   "goal": "Make your first soap by melting a soap base.",
+   "video": {
+    "youtube_id": "wdJp6fr13lQ",
+    "title": "Soap for Beginners",
+    "channel": "DIY Cosmetica"
+   },
+   "steps": [
+    "Cut the soap base into small cubes.",
+    "Melt it gently in a jug in the microwave or a double boiler.",
+    "Add scent and colour, then stir.",
+    "Pour into a mould and leave to set."
+   ],
+   "task": "Make one melt and pour soap bar.",
+   "challenge": "Make a melt and pour bar with no bubbles on top.",
+   "quiz": [
+    {
+     "q": "What do you add first: lye to water, or water to lye?",
+     "options": [
+      "Water to lye",
+      "Lye to water, always",
+      "Both at once",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "Adding water to lye can erupt; always add lye to water."
+    },
+    {
+     "q": "Why mix lye in fresh air?",
+     "options": [
+      "It is cooler",
+      "The fumes are strong and harmful to breathe",
+      "It mixes faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Lye fumes sting the nose and lungs, so mix outside or by an open window."
+    },
+    {
+     "q": "What neutralises a lye splash on skin?",
+     "options": [
+      "Water only",
+      "Vinegar, then lots of water",
+      "Soap",
+      "Oil"
+     ],
+     "answer": 1,
+     "explain": "Vinegar cancels lye, then rinse with lots of water."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Moulds and Shapes",
+   "goal": "Pick moulds and make soap in fun shapes.",
+   "video": {
+    "youtube_id": "wdJp6fr13lQ",
+    "title": "Soap for Beginners",
+    "channel": "DIY Cosmetica"
+   },
+   "steps": [
+    "Learn that silicone moulds release soap easily.",
+    "Spray the top with alcohol to pop bubbles.",
+    "Use simple shapes first: rectangles and rounds.",
+    "Leave soap in the mould until it is fully hard."
+   ],
+   "task": "Make soap in three different mould shapes.",
+   "challenge": "Make a soap bar with a smooth top and no bubbles.",
+   "quiz": [
+    {
+     "q": "What do you add first: lye to water, or water to lye?",
+     "options": [
+      "Water to lye",
+      "Lye to water, always",
+      "Both at once",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "Adding water to lye can erupt; always add lye to water."
+    },
+    {
+     "q": "Why mix lye in fresh air?",
+     "options": [
+      "It is cooler",
+      "The fumes are strong and harmful to breathe",
+      "It mixes faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Lye fumes sting the nose and lungs, so mix outside or by an open window."
+    },
+    {
+     "q": "What neutralises a lye splash on skin?",
+     "options": [
+      "Water only",
+      "Vinegar, then lots of water",
+      "Soap",
+      "Oil"
+     ],
+     "answer": 1,
+     "explain": "Vinegar cancels lye, then rinse with lots of water."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Scents and Colours",
+   "goal": "Add scent and colour to soap safely.",
+   "video": {
+    "youtube_id": "wdJp6fr13lQ",
+    "title": "Soap for Beginners",
+    "channel": "DIY Cosmetica"
+   },
+   "steps": [
+    "Use fragrance oils made for soap, not perfume.",
+    "Add colour with soap-safe mica (a shiny mineral powder) or clay.",
+    "Add a little at a time: you can add more, but you cannot take it out.",
+    "Write down what you added to each batch."
+   ],
+   "task": "Make two soaps with different scents and colours.",
+   "challenge": "Colour a soap evenly with no streaks.",
+   "quiz": [
+    {
+     "q": "What do you add first: lye to water, or water to lye?",
+     "options": [
+      "Water to lye",
+      "Lye to water, always",
+      "Both at once",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "Adding water to lye can erupt; always add lye to water."
+    },
+    {
+     "q": "Why mix lye in fresh air?",
+     "options": [
+      "It is cooler",
+      "The fumes are strong and harmful to breathe",
+      "It mixes faster",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Lye fumes sting the nose and lungs, so mix outside or by an open window."
+    },
+    {
+     "q": "What neutralises a lye splash on skin?",
+     "options": [
+      "Water only",
+      "Vinegar, then lots of water",
+      "Soap",
+      "Oil"
+     ],
+     "answer": 1,
+     "explain": "Vinegar cancels lye, then rinse with lots of water."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Make Your First Cold Process Loaf",
+   "goal": "Make your first cold process soap loaf from oils and lye.",
+   "video": {
+    "youtube_id": "Kc7duzDEa6Y",
+    "title": "Cold Process Soaping",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Weigh the oils and melt them gently.",
+    "Mix the lye solution and let it cool.",
+    "Pour the lye into the oils and stir with a stick blender.",
+    "Pour into a loaf mould when it reaches trace (thick like custard)."
+   ],
+   "task": "Finish a cold process soap loaf, set and ready to cut.",
+   "challenge": "Reach trace without the soap setting too fast.",
+   "quiz": [
+    {
+     "q": "Which oil makes soap gentle?",
+     "options": [
+      "Coconut oil",
+      "Olive oil",
+      "Palm oil",
+      "Mineral oil"
+     ],
+     "answer": 1,
+     "explain": "Olive oil makes a mild gentle soap."
+    },
+    {
+     "q": "Which oil makes lots of bubbles?",
+     "options": [
+      "Olive oil",
+      "Coconut oil",
+      "Shea butter",
+      "Castor oil"
+     ],
+     "answer": 1,
+     "explain": "Coconut oil gives soap big fluffy bubbles."
+    },
+    {
+     "q": "Why weigh soap ingredients?",
+     "options": [
+      "It is faster",
+      "Soap recipes work by exact weight, not cups",
+      "It is the law",
+      "Cups are dirty"
+     ],
+     "answer": 1,
+     "explain": "Soap chemistry needs exact weights; cups are not accurate enough."
+    }
+   ],
+   "project": {
+    "title": "Make Your First Cold Process Loaf",
+    "brief": "Make a cold process soap loaf from oils and lye.",
+    "checks": [
+     "Oils weighed exactly",
+     "Lye mixed safely",
+     "Trace reached",
+     "Poured into the mould",
+     "Loaf set firm",
+     "Ready to cut"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "What Is Trace?",
+   "goal": "Know what trace looks like and why it matters.",
+   "video": {
+    "youtube_id": "Kc7duzDEa6Y",
+    "title": "Cold Process Soaping",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Trace is when the soap mix thickens like custard.",
+    "At light trace, a drizzle leaves a faint line on the surface.",
+    "Pour at light trace for swirls; at thick trace for layers.",
+    "Learn that too much blending makes the soap set too fast."
+   ],
+   "task": "Bring a soap mix to light trace and describe it.",
+   "challenge": "Explain trace to a friend in plain words.",
+   "quiz": [
+    {
+     "q": "Which oil makes soap gentle?",
+     "options": [
+      "Coconut oil",
+      "Olive oil",
+      "Palm oil",
+      "Mineral oil"
+     ],
+     "answer": 1,
+     "explain": "Olive oil makes a mild gentle soap."
+    },
+    {
+     "q": "Which oil makes lots of bubbles?",
+     "options": [
+      "Olive oil",
+      "Coconut oil",
+      "Shea butter",
+      "Castor oil"
+     ],
+     "answer": 1,
+     "explain": "Coconut oil gives soap big fluffy bubbles."
+    },
+    {
+     "q": "Why weigh soap ingredients?",
+     "options": [
+      "It is faster",
+      "Soap recipes work by exact weight, not cups",
+      "It is the law",
+      "Cups are dirty"
+     ],
+     "answer": 1,
+     "explain": "Soap chemistry needs exact weights; cups are not accurate enough."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Cut and Cure Soap",
+   "goal": "Cut a soap loaf into bars and cure them (leave them to harden).",
+   "video": {
+    "youtube_id": "Kc7duzDEa6Y",
+    "title": "Cold Process Soaping",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Wait 24 to 48 hours before you cut the loaf.",
+    "Cut even bars with a soap cutter or a knife.",
+    "Cure bars for 4 to 6 weeks on a rack with air around them.",
+    "Turn the bars sometimes so they dry evenly."
+   ],
+   "task": "Cut a loaf into even bars.",
+   "challenge": "Cut bars that are all the same size.",
+   "quiz": [
+    {
+     "q": "Which oil makes soap gentle?",
+     "options": [
+      "Coconut oil",
+      "Olive oil",
+      "Palm oil",
+      "Mineral oil"
+     ],
+     "answer": 1,
+     "explain": "Olive oil makes a mild gentle soap."
+    },
+    {
+     "q": "Which oil makes lots of bubbles?",
+     "options": [
+      "Olive oil",
+      "Coconut oil",
+      "Shea butter",
+      "Castor oil"
+     ],
+     "answer": 1,
+     "explain": "Coconut oil gives soap big fluffy bubbles."
+    },
+    {
+     "q": "Why weigh soap ingredients?",
+     "options": [
+      "It is faster",
+      "Soap recipes work by exact weight, not cups",
+      "It is the law",
+      "Cups are dirty"
+     ],
+     "answer": 1,
+     "explain": "Soap chemistry needs exact weights; cups are not accurate enough."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Lavender Soap",
+   "goal": "Make a lavender soap with dried buds and scent.",
+   "video": {
+    "youtube_id": "s37ZY6yDWdE",
+    "title": "Lavender Cold Process Soap",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Use lavender fragrance oil made for soap.",
+    "Add dried lavender buds on top only, not inside.",
+    "Pour at light trace so the buds stay on top.",
+    "Cure the bars and label them."
+   ],
+   "task": "Make a lavender soap bar that smells lovely.",
+   "challenge": "Make a lavender bar with buds that stay on top.",
+   "quiz": [
+    {
+     "q": "What is trace in soap making?",
+     "options": [
+      "A mark on the mould",
+      "When the mix thickens like custard",
+      "A smell",
+      "A colour change"
+     ],
+     "answer": 1,
+     "explain": "Trace is the thickening point when oils and lye have mixed enough."
+    },
+    {
+     "q": "When should you pour soap for swirls?",
+     "options": [
+      "At thick trace",
+      "At light trace",
+      "Before trace",
+      "After it sets"
+     ],
+     "answer": 1,
+     "explain": "Light trace is thin enough to swirl; thick trace is too stiff."
+    },
+    {
+     "q": "What happens if you blend soap too much?",
+     "options": [
+      "It gets softer",
+      "It sets too fast to pour",
+      "It smells better",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "Over-blending pushes soap past trace fast and it can set in the pot."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Test Your Soap",
+   "goal": "Test soap for lather, hardness and skin feel.",
+   "video": {
+    "youtube_id": "s37ZY6yDWdE",
+    "title": "Lavender Cold Process Soap",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Wet the bar and rub it: it should lather well.",
+    "Check the bar is hard, not soft or sticky.",
+    "Wash your hands and check your skin feels clean, not tight.",
+    "Write down the results for each recipe."
+   ],
+   "task": "Test three soaps and record lather, hardness and feel.",
+   "challenge": "Tell a good soap from a bad one by testing.",
+   "quiz": [
+    {
+     "q": "What is trace in soap making?",
+     "options": [
+      "A mark on the mould",
+      "When the mix thickens like custard",
+      "A smell",
+      "A colour change"
+     ],
+     "answer": 1,
+     "explain": "Trace is the thickening point when oils and lye have mixed enough."
+    },
+    {
+     "q": "When should you pour soap for swirls?",
+     "options": [
+      "At thick trace",
+      "At light trace",
+      "Before trace",
+      "After it sets"
+     ],
+     "answer": 1,
+     "explain": "Light trace is thin enough to swirl; thick trace is too stiff."
+    },
+    {
+     "q": "What happens if you blend soap too much?",
+     "options": [
+      "It gets softer",
+      "It sets too fast to pour",
+      "It smells better",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "Over-blending pushes soap past trace fast and it can set in the pot."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Fix Soft or Crumbly Soap",
+   "goal": "Fix soap that is too soft or falls apart.",
+   "video": {
+    "youtube_id": "s37ZY6yDWdE",
+    "title": "Lavender Cold Process Soap",
+    "channel": "Elly's Everyday"
+   },
+   "steps": [
+    "Soft soap often means too much water or not enough cure time.",
+    "Crumbly soap often means too much lye or too little oil.",
+    "Check your recipe weights: soap works by exact weight.",
+    "Rebatch (melt and remake) a failed soap instead of throwing it away."
+   ],
+   "task": "Fix a soft soap by curing it longer.",
+   "challenge": "Find the cause of a crumbly soap from the recipe.",
+   "quiz": [
+    {
+     "q": "What is trace in soap making?",
+     "options": [
+      "A mark on the mould",
+      "When the mix thickens like custard",
+      "A smell",
+      "A colour change"
+     ],
+     "answer": 1,
+     "explain": "Trace is the thickening point when oils and lye have mixed enough."
+    },
+    {
+     "q": "When should you pour soap for swirls?",
+     "options": [
+      "At thick trace",
+      "At light trace",
+      "Before trace",
+      "After it sets"
+     ],
+     "answer": 1,
+     "explain": "Light trace is thin enough to swirl; thick trace is too stiff."
+    },
+    {
+     "q": "What happens if you blend soap too much?",
+     "options": [
+      "It gets softer",
+      "It sets too fast to pour",
+      "It smells better",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "Over-blending pushes soap past trace fast and it can set in the pot."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Melt and Pour Gift Set",
+   "goal": "Make a melt and pour gift set with layers and embeds.",
+   "video": {
+    "youtube_id": "NKCd-fVdCWs",
+    "title": "Melt and Pour Soap for Beginners",
+    "channel": "Supplies for Candles"
+   },
+   "steps": [
+    "An embed is a small soap shape set inside a bigger soap.",
+    "Pour a clear layer, let it set, then add the embed.",
+    "Pour the next layer on top.",
+    "Wrap the set nicely for a gift."
+   ],
+   "task": "Make a melt and pour gift set with an embed.",
+   "challenge": "Make a layered soap with clean layers.",
+   "quiz": [
+    {
+     "q": "How long should cold process soap cure?",
+     "options": [
+      "One day",
+      "4 to 6 weeks",
+      "One hour",
+      "One year"
+     ],
+     "answer": 1,
+     "explain": "Curing lets water leave and the soap harden for 4 to 6 weeks."
+    },
+    {
+     "q": "Why turn curing bars sometimes?",
+     "options": [
+      "For fun",
+      "So they dry evenly on all sides",
+      "To check the smell",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Turning lets air reach every side so bars dry evenly."
+    },
+    {
+     "q": "When can you cut a soap loaf?",
+     "options": [
+      "Right away",
+      "After 24 to 48 hours when it is firm",
+      "After 6 weeks",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "The loaf must be firm enough to cut cleanly, usually after a day or two."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Project: Make a Melt-and-Pour Gift Set",
+   "goal": "Make a gift set of three melt and pour soaps.",
+   "video": {
+    "youtube_id": "NKCd-fVdCWs",
+    "title": "Melt and Pour Soap for Beginners",
+    "channel": "Supplies for Candles"
+   },
+   "steps": [
+    "Pick three scents and colours that go together.",
+    "Make each soap with a mould, scent and colour.",
+    "Wrap each bar in paper and tie with ribbon.",
+    "Label each bar with its scent and ingredients."
+   ],
+   "task": "Finish a gift set of three soaps, wrapped and labelled.",
+   "challenge": "Make a gift set that looks like a shop product.",
+   "quiz": [
+    {
+     "q": "How long should cold process soap cure?",
+     "options": [
+      "One day",
+      "4 to 6 weeks",
+      "One hour",
+      "One year"
+     ],
+     "answer": 1,
+     "explain": "Curing lets water leave and the soap harden for 4 to 6 weeks."
+    },
+    {
+     "q": "Why turn curing bars sometimes?",
+     "options": [
+      "For fun",
+      "So they dry evenly on all sides",
+      "To check the smell",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Turning lets air reach every side so bars dry evenly."
+    },
+    {
+     "q": "When can you cut a soap loaf?",
+     "options": [
+      "Right away",
+      "After 24 to 48 hours when it is firm",
+      "After 6 weeks",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "The loaf must be firm enough to cut cleanly, usually after a day or two."
+    }
+   ],
+   "project": {
+    "title": "Make a Melt-and-Pour Gift Set",
+    "brief": "Make a gift set of three melt and pour soaps.",
+    "checks": [
+     "Three different soaps",
+     "Scents and colours match",
+     "Bars wrapped nicely",
+     "Labels complete",
+     "Set looks like a range",
+     "Ready to gift or sell"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Layered Soap",
+   "goal": "Make a soap with clean layers of colour.",
+   "video": {
+    "youtube_id": "NKCd-fVdCWs",
+    "title": "Melt and Pour Soap for Beginners",
+    "channel": "Supplies for Candles"
+   },
+   "steps": [
+    "Pour the first layer and let it set until firm.",
+    "Spray with alcohol so layers stick together.",
+    "Pour the next layer gently so it does not mix.",
+    "Repeat for each layer."
+   ],
+   "task": "Make a soap with three clean layers.",
+   "challenge": "Make layers with no mixing between them.",
+   "quiz": [
+    {
+     "q": "How long should cold process soap cure?",
+     "options": [
+      "One day",
+      "4 to 6 weeks",
+      "One hour",
+      "One year"
+     ],
+     "answer": 1,
+     "explain": "Curing lets water leave and the soap harden for 4 to 6 weeks."
+    },
+    {
+     "q": "Why turn curing bars sometimes?",
+     "options": [
+      "For fun",
+      "So they dry evenly on all sides",
+      "To check the smell",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Turning lets air reach every side so bars dry evenly."
+    },
+    {
+     "q": "When can you cut a soap loaf?",
+     "options": [
+      "Right away",
+      "After 24 to 48 hours when it is firm",
+      "After 6 weeks",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "The loaf must be firm enough to cut cleanly, usually after a day or two."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Natural Colourants",
+   "goal": "Colour soap with clays, herbs and spices.",
+   "video": {
+    "youtube_id": "C4bQfBlHZCk",
+    "title": "Melt and Pour Soap",
+    "channel": "Simply Earth"
+   },
+   "steps": [
+    "Use pink clay for pink, charcoal for black, turmeric for yellow.",
+    "Add a little at a time and stir well.",
+    "Learn that natural colours can fade in sunlight.",
+    "Keep a record of how much you used."
+   ],
+   "task": "Colour three soaps with natural colourants.",
+   "challenge": "Colour a soap pink with clay, evenly.",
+   "quiz": [
+    {
+     "q": "What is an embed in soap?",
+     "options": [
+      "A mistake",
+      "A small soap shape set inside a bigger soap",
+      "A mould",
+      "A scent"
+     ],
+     "answer": 1,
+     "explain": "Embeds are small soap shapes placed inside a larger soap for decoration."
+    },
+    {
+     "q": "Why spray alcohol between soap layers?",
+     "options": [
+      "For scent",
+      "So the layers stick together",
+      "To clean it",
+      "For colour"
+     ],
+     "answer": 1,
+     "explain": "Alcohol helps a new layer bond to the set layer below."
+    },
+    {
+     "q": "Why pour the next layer gently?",
+     "options": [
+      "To save soap",
+      "So it does not mix with the layer below",
+      "It is faster",
+      "To cool it"
+     ],
+     "answer": 1,
+     "explain": "A gentle pour keeps layers separate and clean."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Essential Oils vs Fragrance Oils",
+   "goal": "Know the difference between essential oils and fragrance oils.",
+   "video": {
+    "youtube_id": "C4bQfBlHZCk",
+    "title": "Melt and Pour Soap",
+    "channel": "Simply Earth"
+   },
+   "steps": [
+    "Essential oils come from plants; fragrance oils are made in a lab.",
+    "Essential oils fade faster in cold process soap.",
+    "Fragrance oils come in more scents and last longer.",
+    "Check safe amounts for each oil before you use it."
+   ],
+   "task": "Pick the right scent type for a soap and explain why.",
+   "challenge": "Explain essential vs fragrance oil in plain words.",
+   "quiz": [
+    {
+     "q": "What is an embed in soap?",
+     "options": [
+      "A mistake",
+      "A small soap shape set inside a bigger soap",
+      "A mould",
+      "A scent"
+     ],
+     "answer": 1,
+     "explain": "Embeds are small soap shapes placed inside a larger soap for decoration."
+    },
+    {
+     "q": "Why spray alcohol between soap layers?",
+     "options": [
+      "For scent",
+      "So the layers stick together",
+      "To clean it",
+      "For colour"
+     ],
+     "answer": 1,
+     "explain": "Alcohol helps a new layer bond to the set layer below."
+    },
+    {
+     "q": "Why pour the next layer gently?",
+     "options": [
+      "To save soap",
+      "So it does not mix with the layer below",
+      "It is faster",
+      "To cool it"
+     ],
+     "answer": 1,
+     "explain": "A gentle pour keeps layers separate and clean."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Swirl Soap Basics",
+   "goal": "Make a simple swirl pattern in soap.",
+   "video": {
+    "youtube_id": "C4bQfBlHZCk",
+    "title": "Melt and Pour Soap",
+    "channel": "Simply Earth"
+   },
+   "steps": [
+    "A swirl is a pattern made by mixing colours in the soap.",
+    "Pour two colours into the mould in turns.",
+    "Drag a stick through once to make the swirl.",
+    "Do not over-mix or the colours turn muddy."
+   ],
+   "task": "Make a soap with a clear swirl pattern.",
+   "challenge": "Make a swirl that does not turn muddy.",
+   "quiz": [
+    {
+     "q": "What is an embed in soap?",
+     "options": [
+      "A mistake",
+      "A small soap shape set inside a bigger soap",
+      "A mould",
+      "A scent"
+     ],
+     "answer": 1,
+     "explain": "Embeds are small soap shapes placed inside a larger soap for decoration."
+    },
+    {
+     "q": "Why spray alcohol between soap layers?",
+     "options": [
+      "For scent",
+      "So the layers stick together",
+      "To clean it",
+      "For colour"
+     ],
+     "answer": 1,
+     "explain": "Alcohol helps a new layer bond to the set layer below."
+    },
+    {
+     "q": "Why pour the next layer gently?",
+     "options": [
+      "To save soap",
+      "So it does not mix with the layer below",
+      "It is faster",
+      "To cool it"
+     ],
+     "answer": 1,
+     "explain": "A gentle pour keeps layers separate and clean."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Project: Make a Swirled Soap Loaf",
+   "goal": "Make a swirled loaf with two colours.",
+   "video": {
+    "youtube_id": "ls0MB7psBAE",
+    "title": "How to Swirl Handmade Soap",
+    "channel": "Soap Queen"
+   },
+   "steps": [
+    "Make the soap to light trace.",
+    "Split the mix and colour each part.",
+    "Pour the colours in turns into the mould.",
+    "Swirl once with a stick, then leave to set and cure."
+   ],
+   "task": "Finish a swirled loaf with a clear pattern.",
+   "challenge": "Cut the loaf to show the swirl inside.",
+   "quiz": [
+    {
+     "q": "What is a swirl in soap?",
+     "options": [
+      "A smell",
+      "A pattern made by mixing colours in the soap",
+      "A mould shape",
+      "A mistake"
+     ],
+     "answer": 1,
+     "explain": "Swirls are patterns made by moving colours through the soap."
+    },
+    {
+     "q": "Why not over-mix a swirl?",
+     "options": [
+      "It takes too long",
+      "The colours turn muddy",
+      "It wastes soap",
+      "It smells bad"
+     ],
+     "answer": 1,
+     "explain": "Too much mixing blends colours into a muddy brown."
+    },
+    {
+     "q": "What is a Taiwan swirl?",
+     "options": [
+      "A scent",
+      "Circles of colour poured from the centre outward",
+      "A mould",
+      "A soap brand"
+     ],
+     "answer": 1,
+     "explain": "Taiwan swirls are made by pouring colours in circles from the centre."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Taiwan Swirl",
+   "goal": "Make a Taiwan swirl with circles of colour.",
+   "video": {
+    "youtube_id": "ls0MB7psBAE",
+    "title": "How to Swirl Handmade Soap",
+    "channel": "Soap Queen"
+   },
+   "steps": [
+    "Pour the soap in circles from the centre outward.",
+    "Use two or three colours in turns.",
+    "Do not stir after pouring: the circles make the pattern.",
+    "Cut the loaf to show the circles inside."
+   ],
+   "task": "Make a soap with a Taiwan swirl pattern.",
+   "challenge": "Make circles that stay neat and clear.",
+   "quiz": [
+    {
+     "q": "What is a swirl in soap?",
+     "options": [
+      "A smell",
+      "A pattern made by mixing colours in the soap",
+      "A mould shape",
+      "A mistake"
+     ],
+     "answer": 1,
+     "explain": "Swirls are patterns made by moving colours through the soap."
+    },
+    {
+     "q": "Why not over-mix a swirl?",
+     "options": [
+      "It takes too long",
+      "The colours turn muddy",
+      "It wastes soap",
+      "It smells bad"
+     ],
+     "answer": 1,
+     "explain": "Too much mixing blends colours into a muddy brown."
+    },
+    {
+     "q": "What is a Taiwan swirl?",
+     "options": [
+      "A scent",
+      "Circles of colour poured from the centre outward",
+      "A mould",
+      "A soap brand"
+     ],
+     "answer": 1,
+     "explain": "Taiwan swirls are made by pouring colours in circles from the centre."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "In-the-Pot Swirl",
+   "goal": "Swirl colours in the pot before you pour.",
+   "video": {
+    "youtube_id": "ls0MB7psBAE",
+    "title": "How to Swirl Handmade Soap",
+    "channel": "Soap Queen"
+   },
+   "steps": [
+    "Pour colours into the pot in turns.",
+    "Swirl once with a spatula.",
+    "Pour into the mould in one steady stream.",
+    "Cut the loaf to see the pattern."
+   ],
+   "task": "Make a soap with an in-the-pot swirl.",
+   "challenge": "Swirl in the pot without mixing the colours muddy.",
+   "quiz": [
+    {
+     "q": "What is a swirl in soap?",
+     "options": [
+      "A smell",
+      "A pattern made by mixing colours in the soap",
+      "A mould shape",
+      "A mistake"
+     ],
+     "answer": 1,
+     "explain": "Swirls are patterns made by moving colours through the soap."
+    },
+    {
+     "q": "Why not over-mix a swirl?",
+     "options": [
+      "It takes too long",
+      "The colours turn muddy",
+      "It wastes soap",
+      "It smells bad"
+     ],
+     "answer": 1,
+     "explain": "Too much mixing blends colours into a muddy brown."
+    },
+    {
+     "q": "What is a Taiwan swirl?",
+     "options": [
+      "A scent",
+      "Circles of colour poured from the centre outward",
+      "A mould",
+      "A soap brand"
+     ],
+     "answer": 1,
+     "explain": "Taiwan swirls are made by pouring colours in circles from the centre."
+    }
+   ],
+   "project": {
+    "title": "Make a Swirled Soap Loaf",
+    "brief": "Make a swirled loaf with two colours and a clear pattern.",
+    "checks": [
+     "Two colours used",
+     "Swirl clear, not muddy",
+     "Loaf set firm",
+     "Bars cut evenly",
+     "Pattern shows inside",
+     "Bars cured and tested"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Drop Swirl",
+   "goal": "Make a drop swirl by dropping colour into the mould.",
+   "video": {
+    "youtube_id": "o8FQDVusSPU",
+    "title": "Circling Taiwan Swirl Soap",
+    "channel": "Soap Queen"
+   },
+   "steps": [
+    "Pour the plain soap into the mould.",
+    "Drop coloured soap from above in spots.",
+    "Drag a stick through the drops once.",
+    "Leave to set and cut to see the pattern."
+   ],
+   "task": "Make a soap with a drop swirl pattern.",
+   "challenge": "Make drops that stay as clear spots.",
+   "quiz": [
+    {
+     "q": "What should a soap label list?",
+     "options": [
+      "Only the name",
+      "Name, weight and ingredients",
+      "Your name only",
+      "The price only"
+     ],
+     "answer": 1,
+     "explain": "Labels need the name, weight and full ingredients list."
+    },
+    {
+     "q": "Why list ingredients from most to least?",
+     "options": [
+      "For fun",
+      "So customers know what is mostly in the soap",
+      "It is faster",
+      "It looks nice"
+     ],
+     "answer": 1,
+     "explain": "Ingredients are listed in order of amount, most first."
+    },
+    {
+     "q": "Why wrap soap in paper that breathes?",
+     "options": [
+      "For looks",
+      "So the soap can keep curing and not sweat",
+      "It is cheaper",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Soap needs air while curing; sealed plastic makes it sweat."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Soap Packaging and Labels",
+   "goal": "Package soap so it sells: wrap, label and list ingredients.",
+   "video": {
+    "youtube_id": "o8FQDVusSPU",
+    "title": "Circling Taiwan Swirl Soap",
+    "channel": "Soap Queen"
+   },
+   "steps": [
+    "A label needs the soap name, weight and ingredients.",
+    "List ingredients from most to least.",
+    "Wrap bars in paper that lets them breathe.",
+    "Add a scent name customers understand."
+   ],
+   "task": "Wrap and label three bars ready to sell.",
+   "challenge": "Write a full ingredient label for one soap.",
+   "quiz": [
+    {
+     "q": "What should a soap label list?",
+     "options": [
+      "Only the name",
+      "Name, weight and ingredients",
+      "Your name only",
+      "The price only"
+     ],
+     "answer": 1,
+     "explain": "Labels need the name, weight and full ingredients list."
+    },
+    {
+     "q": "Why list ingredients from most to least?",
+     "options": [
+      "For fun",
+      "So customers know what is mostly in the soap",
+      "It is faster",
+      "It looks nice"
+     ],
+     "answer": 1,
+     "explain": "Ingredients are listed in order of amount, most first."
+    },
+    {
+     "q": "Why wrap soap in paper that breathes?",
+     "options": [
+      "For looks",
+      "So the soap can keep curing and not sweat",
+      "It is cheaper",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Soap needs air while curing; sealed plastic makes it sweat."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Soap Business Basics",
+   "goal": "Learn how a small soap business works.",
+   "video": {
+    "youtube_id": "o8FQDVusSPU",
+    "title": "Circling Taiwan Swirl Soap",
+    "channel": "Soap Queen"
+   },
+   "steps": [
+    "Work out the cost of one bar: oils, lye, scent, mould and label.",
+    "Add your time and a fair profit.",
+    "Learn where to sell: markets, online and gift shops.",
+    "Keep a simple sales record."
+   ],
+   "task": "Work out the cost and price of one soap bar.",
+   "challenge": "List three places you could sell soap.",
+   "quiz": [
+    {
+     "q": "What should a soap label list?",
+     "options": [
+      "Only the name",
+      "Name, weight and ingredients",
+      "Your name only",
+      "The price only"
+     ],
+     "answer": 1,
+     "explain": "Labels need the name, weight and full ingredients list."
+    },
+    {
+     "q": "Why list ingredients from most to least?",
+     "options": [
+      "For fun",
+      "So customers know what is mostly in the soap",
+      "It is faster",
+      "It looks nice"
+     ],
+     "answer": 1,
+     "explain": "Ingredients are listed in order of amount, most first."
+    },
+    {
+     "q": "Why wrap soap in paper that breathes?",
+     "options": [
+      "For looks",
+      "So the soap can keep curing and not sweat",
+      "It is cheaper",
+      "It is the law"
+     ],
+     "answer": 1,
+     "explain": "Soap needs air while curing; sealed plastic makes it sweat."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Price Your Soap",
+   "goal": "Price soap bars so the business pays.",
+   "video": {
+    "youtube_id": "nIeZEZQyGDE",
+    "title": "In-the-Pot Swirl Soap",
+    "channel": "Bahamas Candle and Soap"
+   },
+   "steps": [
+    "Add up all costs for one bar.",
+    "Add your time at a fair hourly rate.",
+    "Add profit and round to a clean price.",
+    "Compare your price with soaps in shops."
+   ],
+   "task": "Price three soap types with costs shown.",
+   "challenge": "Price a gift set of three bars.",
+   "quiz": [
+    {
+     "q": "What should a soap price cover?",
+     "options": [
+      "Only the oils",
+      "Oils, lye, scent, mould, label, time and profit",
+      "The mould only",
+      "Your time only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers all materials, your time and a fair profit."
+    },
+    {
+     "q": "Why keep a record of every soap batch?",
+     "options": [
+      "For fun",
+      "So you can repeat a good batch and fix a bad one",
+      "It is the law everywhere",
+      "To show friends"
+     ],
+     "answer": 1,
+     "explain": "Batch records let you repeat what worked and find what went wrong."
+    },
+    {
+     "q": "What is rebatching soap?",
+     "options": [
+      "Throwing it away",
+      "Melting and remaking a failed soap",
+      "Cutting it smaller",
+      "Adding more scent"
+     ],
+     "answer": 1,
+     "explain": "Rebatching melts failed soap so you can fix and reuse it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Sell Soap at a Market",
+   "goal": "Set up a market stall and sell your soaps.",
+   "video": {
+    "youtube_id": "nIeZEZQyGDE",
+    "title": "In-the-Pot Swirl Soap",
+    "channel": "Bahamas Candle and Soap"
+   },
+   "steps": [
+    "Pick your best soaps and price them clearly.",
+    "Set up a clean table with your soaps on display.",
+    "Let customers smell the soaps.",
+    "Keep a record of every sale."
+   ],
+   "task": "Set up a market stall display for your soaps.",
+   "challenge": "Sell your first soap at a market.",
+   "quiz": [
+    {
+     "q": "What should a soap price cover?",
+     "options": [
+      "Only the oils",
+      "Oils, lye, scent, mould, label, time and profit",
+      "The mould only",
+      "Your time only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers all materials, your time and a fair profit."
+    },
+    {
+     "q": "Why keep a record of every soap batch?",
+     "options": [
+      "For fun",
+      "So you can repeat a good batch and fix a bad one",
+      "It is the law everywhere",
+      "To show friends"
+     ],
+     "answer": 1,
+     "explain": "Batch records let you repeat what worked and find what went wrong."
+    },
+    {
+     "q": "What is rebatching soap?",
+     "options": [
+      "Throwing it away",
+      "Melting and remaking a failed soap",
+      "Cutting it smaller",
+      "Adding more scent"
+     ],
+     "answer": 1,
+     "explain": "Rebatching melts failed soap so you can fix and reuse it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Make a Soap Gift Basket",
+   "goal": "Put together a gift basket of soaps for selling.",
+   "video": {
+    "youtube_id": "nIeZEZQyGDE",
+    "title": "In-the-Pot Swirl Soap",
+    "channel": "Bahamas Candle and Soap"
+   },
+   "steps": [
+    "Pick three soaps that go well together.",
+    "Wrap each bar nicely.",
+    "Arrange them in a basket with tissue.",
+    "Add a card with the scents and a price."
+   ],
+   "task": "Make a gift basket of three soaps.",
+   "challenge": "Make a gift basket that looks like a shop product.",
+   "quiz": [
+    {
+     "q": "What should a soap price cover?",
+     "options": [
+      "Only the oils",
+      "Oils, lye, scent, mould, label, time and profit",
+      "The mould only",
+      "Your time only"
+     ],
+     "answer": 1,
+     "explain": "A real price covers all materials, your time and a fair profit."
+    },
+    {
+     "q": "Why keep a record of every soap batch?",
+     "options": [
+      "For fun",
+      "So you can repeat a good batch and fix a bad one",
+      "It is the law everywhere",
+      "To show friends"
+     ],
+     "answer": 1,
+     "explain": "Batch records let you repeat what worked and find what went wrong."
+    },
+    {
+     "q": "What is rebatching soap?",
+     "options": [
+      "Throwing it away",
+      "Melting and remaking a failed soap",
+      "Cutting it smaller",
+      "Adding more scent"
+     ],
+     "answer": 1,
+     "explain": "Rebatching melts failed soap so you can fix and reuse it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Drop Swirl Practice",
+   "goal": "Practise the drop swirl on a small batch.",
+   "video": {
+    "youtube_id": "g_3N3WAOmOQ",
+    "title": "Flowerbomb Drop Swirl Soap",
+    "channel": "Lovin Soap"
+   },
+   "steps": [
+    "Make the soap to light trace.",
+    "Drop coloured soap from above in spots.",
+    "Drag a stick through the drops once.",
+    "Cut the loaf to see the pattern."
+   ],
+   "task": "Make a soap with a drop swirl pattern.",
+   "challenge": "Make drops that stay as clear spots.",
+   "quiz": [
+    {
+     "q": "What is a drop swirl?",
+     "options": [
+      "A scent",
+      "A pattern made by dropping coloured soap into the mould",
+      "A mould shape",
+      "A mistake"
+     ],
+     "answer": 1,
+     "explain": "Drop swirls are made by dropping coloured soap from above into the plain soap."
+    },
+    {
+     "q": "Why drag a stick through the drops only once?",
+     "options": [
+      "To save time",
+      "So the colours swirl without turning muddy",
+      "It is the law",
+      "To make it smell better"
+     ],
+     "answer": 1,
+     "explain": "One pass makes a clear swirl; more mixing blends the colours muddy."
+    },
+    {
+     "q": "When do you add the drops?",
+     "options": [
+      "Before the soap",
+      "After pouring the plain soap into the mould",
+      "After it sets",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Drops go on top of the plain soap already in the mould."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone soap range, buy supplies and plan the days.",
+   "video": {
+    "youtube_id": "g_3N3WAOmOQ",
+    "title": "Flowerbomb Drop Swirl Soap",
+    "channel": "Lovin Soap"
+   },
+   "steps": [
+    "Pick three soaps that show your best skills.",
+    "Buy all oils, lye, scents and moulds.",
+    "Plan the making days and the curing time.",
+    "Design labels for the range."
+   ],
+   "task": "Have all capstone supplies bought and labels designed.",
+   "challenge": "Plan a capstone range of three soaps.",
+   "quiz": [
+    {
+     "q": "What is a drop swirl?",
+     "options": [
+      "A scent",
+      "A pattern made by dropping coloured soap into the mould",
+      "A mould shape",
+      "A mistake"
+     ],
+     "answer": 1,
+     "explain": "Drop swirls are made by dropping coloured soap from above into the plain soap."
+    },
+    {
+     "q": "Why drag a stick through the drops only once?",
+     "options": [
+      "To save time",
+      "So the colours swirl without turning muddy",
+      "It is the law",
+      "To make it smell better"
+     ],
+     "answer": 1,
+     "explain": "One pass makes a clear swirl; more mixing blends the colours muddy."
+    },
+    {
+     "q": "When do you add the drops?",
+     "options": [
+      "Before the soap",
+      "After pouring the plain soap into the mould",
+      "After it sets",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Drops go on top of the plain soap already in the mould."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Make and Present a Soap Range",
+   "goal": "Make a range of three soaps, cure them and present them.",
+   "video": {
+    "youtube_id": "g_3N3WAOmOQ",
+    "title": "Flowerbomb Drop Swirl Soap",
+    "channel": "Lovin Soap"
+   },
+   "steps": [
+    "Make the three soaps following your plan.",
+    "Cut, cure and test each one.",
+    "Wrap and label the range neatly.",
+    "Present the range with costing and ingredient labels."
+   ],
+   "task": "Present a finished soap range, tested and wrapped.",
+   "challenge": "Finish the range with time left for curing.",
+   "quiz": [
+    {
+     "q": "What is a drop swirl?",
+     "options": [
+      "A scent",
+      "A pattern made by dropping coloured soap into the mould",
+      "A mould shape",
+      "A mistake"
+     ],
+     "answer": 1,
+     "explain": "Drop swirls are made by dropping coloured soap from above into the plain soap."
+    },
+    {
+     "q": "Why drag a stick through the drops only once?",
+     "options": [
+      "To save time",
+      "So the colours swirl without turning muddy",
+      "It is the law",
+      "To make it smell better"
+     ],
+     "answer": 1,
+     "explain": "One pass makes a clear swirl; more mixing blends the colours muddy."
+    },
+    {
+     "q": "When do you add the drops?",
+     "options": [
+      "Before the soap",
+      "After pouring the plain soap into the mould",
+      "After it sets",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Drops go on top of the plain soap already in the mould."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Make and Present a Soap Range",
+  "brief": "Make a range of three soaps, cut, cure and test them, wrap and label them, and present the range with costing and ingredient labels.",
+  "checks": [
+   "Three soaps in different scents or colours",
+   "Recipes weighed exactly",
+   "Bars cut evenly and cured",
+   "Lather, hardness and skin feel tested",
+   "Labels complete with name, weight and ingredients",
+   "Bars wrapped neatly as a range",
+   "Costing sheet shows materials, time and price"
+  ],
+  "deliverables": [
+   "Range of three soaps, wrapped",
+   "Test record for each soap",
+   "Labels with name, weight and ingredients",
+   "Costing and pricing sheet",
+   "Photos of the range"
+  ]
+ }
+}

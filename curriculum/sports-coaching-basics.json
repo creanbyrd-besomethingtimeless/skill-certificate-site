@@ -1,0 +1,1720 @@
+{
+  "course": {
+    "id": "sports-coaching-basics",
+    "title": "Sports Coaching Basics",
+    "level": "Beginner",
+    "tagline": "Coach a team: drills, tactics and keeping players motivated.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What does a sports coach do?",
+      "goal": "Learn what a coach does and what makes a good one.",
+      "video": {
+        "youtube_id": "cujsHRKVOoY",
+        "title": "Intro To Coaching Video",
+        "channel": "Broncos Flag Football"
+      },
+      "steps": [
+        "Watch the video and write down 3 jobs a coach does.",
+        "A coach teaches skills, plans practice and keeps players safe.",
+        "Write one sentence that says what a coach is in your own words.",
+        "Ask a friend what they want from a coach."
+      ],
+      "task": "Write what a coach does in 5 lines.",
+      "challenge": "Explain what a coach does to a friend in 1 minute.",
+      "quiz": [
+        {
+          "q": "What is the main job of a sports coach?",
+          "options": [
+            "Win at all costs",
+            "Teach skills, plan practice and keep players safe",
+            "Shout at players",
+            "Pick the best players only"
+          ],
+          "answer": 1,
+          "explain": "A coach teaches, plans and protects players."
+        },
+        {
+          "q": "What makes a good coach?",
+          "options": [
+            "Shouting",
+            "Favouring stars",
+            "Patience, clear words and care for players",
+            "Never listening"
+          ],
+          "answer": 2,
+          "explain": "Patience and clear words build good players."
+        },
+        {
+          "q": "What should a coach do first?",
+          "options": [
+            "Run a hard drill",
+            "Pick the team",
+            "Ignore the beginners",
+            "Learn the players' names and levels"
+          ],
+          "answer": 3,
+          "explain": "Knowing players helps you coach each one."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Plan your first practice",
+      "goal": "Learn to plan a simple 60-minute practice.",
+      "video": {
+        "youtube_id": "Q14RTy-JDuA",
+        "title": "One touch pass activation",
+        "channel": "BCoach"
+      },
+      "steps": [
+        "A good practice has 4 parts: warm-up, skill 1, skill 2, small game.",
+        "Give each part a time: 10, 15, 15, 15 minutes, plus a 5-minute huddle.",
+        "Write your plan on one page.",
+        "Keep talks short: about 30 seconds each."
+      ],
+      "task": "Write a 60-minute practice plan on one page.",
+      "challenge": "Time each part of your plan.",
+      "quiz": [
+        {
+          "q": "What are the 4 parts of a practice?",
+          "options": [
+            "Only drills",
+            "Only a game",
+            "Warm-up, skill 1, skill 2, small game",
+            "Only talking"
+          ],
+          "answer": 2,
+          "explain": "A good practice warms up, teaches and plays."
+        },
+        {
+          "q": "How long should a practice be?",
+          "options": [
+            "3 hours",
+            "10 minutes",
+            "All day",
+            "About 60 minutes"
+          ],
+          "answer": 3,
+          "explain": "Sixty minutes is enough for young players."
+        },
+        {
+          "q": "How long should coach talks be?",
+          "options": [
+            "About 30 seconds",
+            "10 minutes",
+            "1 hour",
+            "No talking"
+          ],
+          "answer": 0,
+          "explain": "Short talks keep players moving."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Warm up with a game",
+      "goal": "Learn warm-up games that get players moving.",
+      "video": {
+        "youtube_id": "EMIQhtHknPg",
+        "title": "One Touch Passing Drill",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Try tag: one player chases, others dribble away.",
+        "Try red light, green light with a ball.",
+        "Keep everyone moving: no long lines.",
+        "End the warm-up with a quick stretch."
+      ],
+      "task": "Run a 10-minute warm-up game with friends.",
+      "challenge": "Teach the warm-up game to a fellow coach.",
+      "quiz": [
+        {
+          "q": "Why warm up with a game?",
+          "options": [
+            "Games waste time",
+            "Games are not exercise",
+            "It does not matter",
+            "Games make warming up fun"
+          ],
+          "answer": 3,
+          "explain": "Fun warm-ups get players moving happily."
+        },
+        {
+          "q": "Why avoid long lines?",
+          "options": [
+            "Lines waste time and bore players",
+            "Lines are good",
+            "Lines teach patience",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "No lines means more touches on the ball."
+        },
+        {
+          "q": "What should a warm-up end with?",
+          "options": [
+            "A sprint",
+            "A quick stretch",
+            "A rest",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "A stretch after warming up prepares muscles."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Teach passing simply",
+      "goal": "Learn to teach a simple inside-of-the-foot pass.",
+      "video": {
+        "youtube_id": "OCVCB4G7rFw",
+        "title": "Dribbling and Reaction Drill for Youth Soccer",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Show the pass: inside of the foot, ankle locked, follow through.",
+        "Let players pass in pairs, 10 passes each.",
+        "Say one cue: toes up.",
+        "Praise good passes out loud."
+      ],
+      "task": "Teach the pass to a friend using one cue.",
+      "challenge": "Practise 20 passes in pairs.",
+      "quiz": [
+        {
+          "q": "What part of the foot passes best?",
+          "options": [
+            "The inside of the foot",
+            "The toes",
+            "The heel",
+            "The outside only"
+          ],
+          "answer": 0,
+          "explain": "The inside gives the most control."
+        },
+        {
+          "q": "What should the ankle do?",
+          "options": [
+            "Stay loose",
+            "Lock firm",
+            "Bend back",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "A locked ankle makes a clean pass."
+        },
+        {
+          "q": "What is a good coaching cue?",
+          "options": [
+            "A long speech",
+            "A shout",
+            "One short hint like toes up",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "One short cue is easy to remember."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Teach dribbling simply",
+      "goal": "Learn to teach dribbling with small touches.",
+      "video": {
+        "youtube_id": "8FjkXuTqWIk",
+        "title": "Soccer Drill: Passing, Trapping, Turning, Vision and Shooting",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Show dribbling: small touches, ball close to the feet.",
+        "Set up cone gates and let players dribble through.",
+        "Say one cue: keep the ball close.",
+        "Let players try at their own speed."
+      ],
+      "task": "Teach dribbling to a friend using one cue.",
+      "challenge": "Dribble through 5 cone gates.",
+      "quiz": [
+        {
+          "q": "What is dribbling?",
+          "options": [
+            "Kicking it far away",
+            "Moving the ball with small touches",
+            "Running without the ball",
+            "Standing still"
+          ],
+          "answer": 1,
+          "explain": "Dribbling keeps the ball close while moving."
+        },
+        {
+          "q": "Why keep the ball close?",
+          "options": [
+            "It looks good",
+            "It does not matter",
+            "So you can change direction fast",
+            "It makes you slower"
+          ],
+          "answer": 2,
+          "explain": "A close ball lets you turn and pass fast."
+        },
+        {
+          "q": "What is a cone gate?",
+          "options": [
+            "A fence",
+            "A goal post",
+            "A wall",
+            "Two cones that make a small goal to dribble through"
+          ],
+          "answer": 3,
+          "explain": "Gates give players a target to aim through."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Teach shooting simply",
+      "goal": "Learn to teach a simple shot on goal.",
+      "video": {
+        "youtube_id": "MO73sagJ2ak",
+        "title": "Top Soccer Fundamentals Explained | Basic Soccer Skills",
+        "channel": "The Soccer Handbook"
+      },
+      "steps": [
+        "Show shooting: plant foot next to the ball, lock ankle, follow through.",
+        "Let players shoot at a small goal from close in.",
+        "Say one cue: plant foot next to the ball.",
+        "Praise every shot on target."
+      ],
+      "task": "Teach shooting to a friend using one cue.",
+      "challenge": "Take 10 shots at a small goal.",
+      "quiz": [
+        {
+          "q": "Where should the plant foot go?",
+          "options": [
+            "Far behind the ball",
+            "On top of the ball",
+            "Next to the ball, pointing at the goal",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "The plant foot next to the ball aims the shot."
+        },
+        {
+          "q": "What should the ankle do when shooting?",
+          "options": [
+            "Stay loose",
+            "Bend back",
+            "It does not matter",
+            "Lock firm"
+          ],
+          "answer": 3,
+          "explain": "A locked ankle makes a clean shot."
+        },
+        {
+          "q": "What should you praise?",
+          "options": [
+            "Every shot on target",
+            "Only goals",
+            "Only hard shots",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Praising good tries builds confidence."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Run your first practice",
+      "goal": "Put week 1 together: run a full 60-minute practice.",
+      "video": {
+        "youtube_id": "_FQKTChpBd8",
+        "title": "Soccer Training for Kids at Home: Episode 5",
+        "channel": "SoccerManiak"
+      },
+      "steps": [
+        "Use your plan: warm-up game, passing, dribbling, small game.",
+        "Run it with friends acting as players.",
+        "Keep talks to 30 seconds.",
+        "Ask players what was fun and what was hard."
+      ],
+      "task": "Run your first practice and write how it went.",
+      "challenge": "Run the practice without looking at your notes.",
+      "quiz": [
+        {
+          "q": "What should your first practice have?",
+          "options": [
+            "Only drills",
+            "Only a game",
+            "Only talking",
+            "Warm-up, two skills and a small game"
+          ],
+          "answer": 3,
+          "explain": "A full practice warms up, teaches and plays."
+        },
+        {
+          "q": "How long should talks be?",
+          "options": [
+            "About 30 seconds",
+            "10 minutes",
+            "1 hour",
+            "No talking"
+          ],
+          "answer": 0,
+          "explain": "Short talks keep players moving."
+        },
+        {
+          "q": "What should you ask at the end?",
+          "options": [
+            "Nothing",
+            "What was fun and what was hard",
+            "Who is the best",
+            "Who is the worst"
+          ],
+          "answer": 1,
+          "explain": "Asking players helps you improve."
+        }
+      ],
+      "project": {
+        "title": "Run your first practice",
+        "brief": "Run a full 60-minute practice with friends as players: warm-up game, passing, dribbling, small game, and ask what was fun and hard.",
+        "checks": [
+          "Practice has a warm-up game",
+          "Practice has two skills",
+          "Practice has a small game",
+          "Talks were 30 seconds",
+          "Asked players for feedback",
+          "Wrote how it went"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Coach different ages",
+      "goal": "Learn how coaching changes with age.",
+      "video": {
+        "youtube_id": "rz5RAcBjAsE",
+        "title": "Soccer Training for Kids at Home: Episode 6",
+        "channel": "SoccerManiak"
+      },
+      "steps": [
+        "Young players (5-7): focus on fun and touches on the ball.",
+        "Older players (8-12): add simple tactics and teamwork.",
+        "Teen players: add fitness and game plans.",
+        "Write one practice idea for each age."
+      ],
+      "task": "Write one practice idea for each age group.",
+      "challenge": "Coach a game for young players this week.",
+      "quiz": [
+        {
+          "q": "What should young players focus on?",
+          "options": [
+            "Fun and touches on the ball",
+            "Winning",
+            "Hard fitness",
+            "Complex tactics"
+          ],
+          "answer": 0,
+          "explain": "Young players learn through fun and touches."
+        },
+        {
+          "q": "What can older players add?",
+          "options": [
+            "Nothing new",
+            "Simple tactics and teamwork",
+            "Only fun",
+            "Only fitness"
+          ],
+          "answer": 1,
+          "explain": "Older players can learn tactics and teamwork."
+        },
+        {
+          "q": "Why change coaching by age?",
+          "options": [
+            "It does not matter",
+            "All ages are the same",
+            "Different ages need different things",
+            "It wastes time"
+          ],
+          "answer": 2,
+          "explain": "Age-matched coaching helps every player grow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Keep players safe",
+      "goal": "Learn the safety rules every coach must know.",
+      "video": {
+        "youtube_id": "WuMeRaaJxWk",
+        "title": "Full Football Training Session 01 | Animated Drills & Games with Audio Guide",
+        "channel": "Coach Thomas Vlaminck"
+      },
+      "steps": [
+        "Check the field for holes and glass before practice.",
+        "Make sure players drink water.",
+        "Stop play if a player is hurt.",
+        "Know where the first aid kit is."
+      ],
+      "task": "Check a field for dangers before practice.",
+      "challenge": "Find the first aid kit at your field.",
+      "quiz": [
+        {
+          "q": "What should you check before practice?",
+          "options": [
+            "Nothing",
+            "The field for holes and glass",
+            "Only the weather",
+            "Only the score"
+          ],
+          "answer": 1,
+          "explain": "A safe field prevents injuries."
+        },
+        {
+          "q": "Why make players drink water?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "To replace sweat and prevent heat problems",
+            "It makes them slow"
+          ],
+          "answer": 2,
+          "explain": "Water keeps players safe in heat."
+        },
+        {
+          "q": "What should you do if a player is hurt?",
+          "options": [
+            "Keep playing",
+            "Ignore them",
+            "Tell them to run it off",
+            "Stop play and check on them"
+          ],
+          "answer": 3,
+          "explain": "Stopping play keeps the hurt player safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Motivate your players",
+      "goal": "Learn simple ways to keep players excited.",
+      "video": {
+        "youtube_id": "jps5OOIzIW4",
+        "title": "Fun Drills For Kids | U5, U6, U7, U8, U9 | 👇*Free Session Plans*👇| Football Coaching for Kids",
+        "channel": "Eddie10"
+      },
+      "steps": [
+        "Praise effort, not just goals.",
+        "Give every player a job in the game.",
+        "Celebrate small wins out loud.",
+        "Ask players what they enjoyed."
+      ],
+      "task": "Praise 3 players for effort today.",
+      "challenge": "Give every player a job in your next game.",
+      "quiz": [
+        {
+          "q": "What should you praise?",
+          "options": [
+            "Only goals",
+            "Only wins",
+            "Effort, not just goals",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Praising effort builds hard workers."
+        },
+        {
+          "q": "Why give every player a job?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "Only stars need jobs",
+            "So everyone feels important"
+          ],
+          "answer": 3,
+          "explain": "A job for everyone builds teamwork."
+        },
+        {
+          "q": "Why celebrate small wins?",
+          "options": [
+            "Small wins keep players going",
+            "It is silly",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Small wins build confidence."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Teach teamwork simply",
+      "goal": "Learn to teach players to play together.",
+      "video": {
+        "youtube_id": "cujsHRKVOoY",
+        "title": "Intro To Coaching Video",
+        "channel": "Broncos Flag Football"
+      },
+      "steps": [
+        "Play small games: 3v3 or 4v4.",
+        "Say one cue: look up before you pass.",
+        "Praise a good pass more than a good goal.",
+        "Let players make mistakes and try again."
+      ],
+      "task": "Run a 3v3 game with friends.",
+      "challenge": "Praise 3 good passes in the game.",
+      "quiz": [
+        {
+          "q": "Why play small games?",
+          "options": [
+            "They are easier to win",
+            "They waste time",
+            "They are not real games",
+            "Every player touches the ball more"
+          ],
+          "answer": 3,
+          "explain": "Small games give every player more touches."
+        },
+        {
+          "q": "What should players do before passing?",
+          "options": [
+            "Look up",
+            "Close their eyes",
+            "Kick at once",
+            "Look down"
+          ],
+          "answer": 0,
+          "explain": "Looking up finds teammates."
+        },
+        {
+          "q": "Why praise passes more than goals?",
+          "options": [
+            "Goals do not matter",
+            "Passing builds teamwork",
+            "It is a rule",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "Passing is teamwork in action."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Plan a season",
+      "goal": "Learn to plan a whole season, week by week.",
+      "video": {
+        "youtube_id": "Q14RTy-JDuA",
+        "title": "One touch pass activation",
+        "channel": "BCoach"
+      },
+      "steps": [
+        "A season has weeks: early weeks teach basics, later weeks add tactics.",
+        "Write a simple plan: one skill per week.",
+        "Add one game each week to test the skill.",
+        "Keep the plan on one page."
+      ],
+      "task": "Write a 4-week season plan.",
+      "challenge": "Share your plan with a fellow coach.",
+      "quiz": [
+        {
+          "q": "How should a season be planned?",
+          "options": [
+            "One skill per week, basics first",
+            "All skills at once",
+            "No plan",
+            "Only games"
+          ],
+          "answer": 0,
+          "explain": "One skill a week builds steadily."
+        },
+        {
+          "q": "Why test skills in a game each week?",
+          "options": [
+            "Games waste time",
+            "Games show if the skill works",
+            "Games are only for fun",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Games test learning in real play."
+        },
+        {
+          "q": "How long should a season plan be?",
+          "options": [
+            "100 pages",
+            "No pages",
+            "One page",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "A one-page plan is easy to follow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Handle parents well",
+      "goal": "Learn to talk to parents kindly and clearly.",
+      "video": {
+        "youtube_id": "EMIQhtHknPg",
+        "title": "One Touch Passing Drill",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Tell parents the practice times and what to bring.",
+        "Explain your playing-time rule before the first game.",
+        "Thank parents for bringing their children.",
+        "Listen to concerns calmly and reply the next day if needed."
+      ],
+      "task": "Write a short welcome message to parents.",
+      "challenge": "Practise explaining your playing-time rule.",
+      "quiz": [
+        {
+          "q": "What should you tell parents first?",
+          "options": [
+            "Nothing",
+            "Practice times and what to bring",
+            "Only the score",
+            "Only problems"
+          ],
+          "answer": 1,
+          "explain": "Clear facts help parents plan."
+        },
+        {
+          "q": "Why explain playing time before the first game?",
+          "options": [
+            "It is not needed",
+            "It wastes time",
+            "So everyone knows the rule is fair",
+            "It causes fights"
+          ],
+          "answer": 2,
+          "explain": "A clear rule before the game prevents arguments."
+        },
+        {
+          "q": "What should you do with a concern?",
+          "options": [
+            "Argue at once",
+            "Ignore it",
+            "Shout",
+            "Listen calmly and reply the next day if needed"
+          ],
+          "answer": 3,
+          "explain": "Calm listening builds trust."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your season plan",
+      "goal": "Put week 2 together: write a full season plan.",
+      "video": {
+        "youtube_id": "OCVCB4G7rFw",
+        "title": "Dribbling and Reaction Drill for Youth Soccer",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Write a 6-week plan: one skill per week.",
+        "Add a warm-up game and a small game each week.",
+        "Add your playing-time rule.",
+        "Share the plan with a fellow coach for feedback."
+      ],
+      "task": "Write your 6-week season plan.",
+      "challenge": "Get feedback from a fellow coach.",
+      "quiz": [
+        {
+          "q": "How many weeks should your plan have?",
+          "options": [
+            "1 week",
+            "1 year",
+            "About 6 weeks",
+            "No weeks"
+          ],
+          "answer": 2,
+          "explain": "Six weeks is a good first season plan."
+        },
+        {
+          "q": "What should each week have?",
+          "options": [
+            "Only drills",
+            "Only games",
+            "Nothing",
+            "One skill, a warm-up game and a small game"
+          ],
+          "answer": 3,
+          "explain": "Each week teaches and plays."
+        },
+        {
+          "q": "Why get feedback on your plan?",
+          "options": [
+            "Another coach may spot what you missed",
+            "It wastes time",
+            "It is not needed",
+            "It makes you look weak"
+          ],
+          "answer": 0,
+          "explain": "Feedback makes plans better."
+        }
+      ],
+      "project": {
+        "title": "Your season plan",
+        "brief": "Write a 6-week season plan with one skill per week, a warm-up game and a small game each week, and your playing-time rule.",
+        "checks": [
+          "Plan has 6 weeks",
+          "Each week has one skill",
+          "Each week has a warm-up game",
+          "Each week has a small game",
+          "Playing-time rule is written",
+          "Got feedback from a fellow coach"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Teach defence simply",
+      "goal": "Learn to teach simple defending.",
+      "video": {
+        "youtube_id": "8FjkXuTqWIk",
+        "title": "Soccer Drill: Passing, Trapping, Turning, Vision and Shooting",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Show defending: stay between the attacker and your goal.",
+        "Say one cue: stay goalside.",
+        "Play 1v1 games to practise.",
+        "Praise good defending out loud."
+      ],
+      "task": "Teach defending to a friend using one cue.",
+      "challenge": "Play 1v1 defending games.",
+      "quiz": [
+        {
+          "q": "What does goalside mean?",
+          "options": [
+            "Behind the attacker",
+            "Next to the goal",
+            "Far away",
+            "Between the attacker and your goal"
+          ],
+          "answer": 3,
+          "explain": "Goalside is the safe defending spot."
+        },
+        {
+          "q": "Why play 1v1 games?",
+          "options": [
+            "They teach defending in real situations",
+            "They waste time",
+            "They are only for fun",
+            "They do not help"
+          ],
+          "answer": 0,
+          "explain": "One-on-one games teach real defending."
+        },
+        {
+          "q": "What should you praise in defence?",
+          "options": [
+            "Only goals",
+            "Good positioning",
+            "Only tackles",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Praising good position builds defenders."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Teach goalkeeping basics",
+      "goal": "Learn the basics of goalkeeping.",
+      "video": {
+        "youtube_id": "MO73sagJ2ak",
+        "title": "Top Soccer Fundamentals Explained | Basic Soccer Skills",
+        "channel": "The Soccer Handbook"
+      },
+      "steps": [
+        "Show the ready position: knees bent, hands up, on toes.",
+        "Show catching: hands in a W shape for high balls.",
+        "Show diving: step, fall sideways, land softly.",
+        "Let every player try goalkeeping."
+      ],
+      "task": "Teach the ready position to a friend.",
+      "challenge": "Practise catching a ball in a W shape.",
+      "quiz": [
+        {
+          "q": "What is the goalkeeper's ready position?",
+          "options": [
+            "Knees bent, hands up, on toes",
+            "Standing still",
+            "Lying down",
+            "Sitting"
+          ],
+          "answer": 0,
+          "explain": "Ready position lets the keeper react fast."
+        },
+        {
+          "q": "What shape should hands make for a high catch?",
+          "options": [
+            "A fist",
+            "A W shape",
+            "Flat hands",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "A W shape catches the ball safely."
+        },
+        {
+          "q": "Why let every player try goalkeeping?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "So they respect the job and learn the skills",
+            "Only one player should do it"
+          ],
+          "answer": 2,
+          "explain": "Trying goalkeeping builds respect and skills."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Game day: what to do",
+      "goal": "Learn how to run a game day smoothly.",
+      "video": {
+        "youtube_id": "_FQKTChpBd8",
+        "title": "Soccer Training for Kids at Home: Episode 5",
+        "channel": "SoccerManiak"
+      },
+      "steps": [
+        "Arrive early and check the field.",
+        "Warm players up with a game.",
+        "Share the playing-time plan before the game.",
+        "After the game, praise effort and ask what was fun."
+      ],
+      "task": "Write a game-day checklist.",
+      "challenge": "Use the checklist at your next game.",
+      "quiz": [
+        {
+          "q": "What should you do first on game day?",
+          "options": [
+            "Arrive late",
+            "Arrive early and check the field",
+            "Do nothing",
+            "Only watch"
+          ],
+          "answer": 1,
+          "explain": "Arriving early keeps game day smooth."
+        },
+        {
+          "q": "When should you share the playing-time plan?",
+          "options": [
+            "After the game",
+            "Never",
+            "Before the game",
+            "During the game"
+          ],
+          "answer": 2,
+          "explain": "Sharing before the game is fair."
+        },
+        {
+          "q": "What should you do after the game?",
+          "options": [
+            "Blame players",
+            "Leave at once",
+            "Only talk about the score",
+            "Praise effort and ask what was fun"
+          ],
+          "answer": 3,
+          "explain": "Praise and fun keep players coming back."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Fair playing time",
+      "goal": "Learn to give every player fair time.",
+      "video": {
+        "youtube_id": "rz5RAcBjAsE",
+        "title": "Soccer Training for Kids at Home: Episode 6",
+        "channel": "SoccerManiak"
+      },
+      "steps": [
+        "Write your rule before the season: equal time for all.",
+        "Split players into groups and swap them regularly.",
+        "Track minutes with a simple sheet.",
+        "Tell parents the rule before the first game."
+      ],
+      "task": "Write your playing-time rule.",
+      "challenge": "Make a simple minutes tracker.",
+      "quiz": [
+        {
+          "q": "Why give equal playing time?",
+          "options": [
+            "It wastes time",
+            "It loses games",
+            "It is fair and keeps all players growing",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Fair time grows every player."
+        },
+        {
+          "q": "How do you track playing time?",
+          "options": [
+            "By memory only",
+            "You do not need to",
+            "By guessing",
+            "With a simple sheet"
+          ],
+          "answer": 3,
+          "explain": "A sheet makes fair time real."
+        },
+        {
+          "q": "When should you tell parents the rule?",
+          "options": [
+            "Before the first game",
+            "After the season",
+            "Never",
+            "During a game"
+          ],
+          "answer": 0,
+          "explain": "Telling early prevents arguments."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Deal with a tough game",
+      "goal": "Learn what to do when your team loses badly.",
+      "video": {
+        "youtube_id": "WuMeRaaJxWk",
+        "title": "Full Football Training Session 01 | Animated Drills & Games with Audio Guide",
+        "channel": "Coach Thomas Vlaminck"
+      },
+      "steps": [
+        "Stay calm and praise effort.",
+        "Ask players what they learned.",
+        "Pick one thing to practise next week.",
+        "Remind players that losing is part of learning."
+      ],
+      "task": "Write 3 kind words for a team after a loss.",
+      "challenge": "Practise saying them out loud.",
+      "quiz": [
+        {
+          "q": "What should you do after a big loss?",
+          "options": [
+            "Shout at players",
+            "Blame one player",
+            "Quit",
+            "Stay calm and praise effort"
+          ],
+          "answer": 3,
+          "explain": "Calm praise after a loss builds strength."
+        },
+        {
+          "q": "What should you ask players after a loss?",
+          "options": [
+            "What did you learn?",
+            "Who is to blame?",
+            "Why did you fail?",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Asking what they learned turns loss into growth."
+        },
+        {
+          "q": "Why remind players losing is normal?",
+          "options": [
+            "It makes them soft",
+            "It keeps them from fearing failure",
+            "It is not true",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "Normalising loss builds brave players."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Fitness for young players",
+      "goal": "Learn simple fitness that suits young players.",
+      "video": {
+        "youtube_id": "jps5OOIzIW4",
+        "title": "Fun Drills For Kids | U5, U6, U7, U8, U9 | 👇*Free Session Plans*👇| Football Coaching for Kids",
+        "channel": "Eddie10"
+      },
+      "steps": [
+        "Use games for fitness: tag, relay races, small games.",
+        "Keep fitness fun, not boring laps.",
+        "Add 5 minutes of running games to practice.",
+        "Let players rest and drink water."
+      ],
+      "task": "Add a running game to your next practice.",
+      "challenge": "Run a relay race with friends.",
+      "quiz": [
+        {
+          "q": "Why use games for fitness?",
+          "options": [
+            "Games make fitness fun",
+            "Games waste time",
+            "Games are not fitness",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Fun games build fitness without boredom."
+        },
+        {
+          "q": "Why not make young players run laps?",
+          "options": [
+            "Laps are best",
+            "Laps are boring and tire them out",
+            "Laps are fun",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Games build fitness better than laps."
+        },
+        {
+          "q": "What should players do after fitness games?",
+          "options": [
+            "Keep going",
+            "Run more laps",
+            "Rest and drink water",
+            "Skip water"
+          ],
+          "answer": 2,
+          "explain": "Rest and water keep players safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Coach a full game",
+      "goal": "Put week 3 together: coach a full small-sided game.",
+      "video": {
+        "youtube_id": "cujsHRKVOoY",
+        "title": "Intro To Coaching Video",
+        "channel": "Broncos Flag Football"
+      },
+      "steps": [
+        "Plan the game: teams, playing-time swaps, one skill focus.",
+        "Warm players up, then play 3v3 or 4v4.",
+        "Use your playing-time tracker.",
+        "After the game, praise effort and ask what was fun."
+      ],
+      "task": "Coach a full game with friends.",
+      "challenge": "Use your playing-time tracker in the game.",
+      "quiz": [
+        {
+          "q": "What should you plan before a game?",
+          "options": [
+            "Nothing",
+            "Teams, swaps and one skill focus",
+            "Only the score",
+            "Only the weather"
+          ],
+          "answer": 1,
+          "explain": "A plan keeps game day smooth."
+        },
+        {
+          "q": "Why use a playing-time tracker?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "So every player gets fair time",
+            "It is only for show"
+          ],
+          "answer": 2,
+          "explain": "A tracker makes fair time real."
+        },
+        {
+          "q": "What should you do after the game?",
+          "options": [
+            "Blame players",
+            "Leave at once",
+            "Only talk about the score",
+            "Praise effort and ask what was fun"
+          ],
+          "answer": 3,
+          "explain": "Praise and fun keep players coming back."
+        }
+      ],
+      "project": {
+        "title": "Coach a full game",
+        "brief": "Coach a full small-sided game with a plan, fair playing-time swaps tracked on a sheet, and praise for effort after.",
+        "checks": [
+          "Planned teams and swaps",
+          "Used the playing-time tracker",
+          "Played 3v3 or 4v4",
+          "Used clear cues",
+          "Praised effort after",
+          "Asked what was fun"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Review your season",
+      "goal": "Look back at your season and learn from it.",
+      "video": {
+        "youtube_id": "Q14RTy-JDuA",
+        "title": "One touch pass activation",
+        "channel": "BCoach"
+      },
+      "steps": [
+        "Read your plans from weeks 1 to 3.",
+        "List 3 things that went well.",
+        "List 1 thing to improve next season.",
+        "Write one fix for that thing."
+      ],
+      "task": "List 3 things that went well this season.",
+      "challenge": "Write one fix for next season.",
+      "quiz": [
+        {
+          "q": "Why review your season?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To learn what worked and what to fix",
+            "To show off"
+          ],
+          "answer": 2,
+          "explain": "Reviewing makes you a better coach."
+        },
+        {
+          "q": "What should you do with a weak spot?",
+          "options": [
+            "Quit coaching",
+            "Ignore it",
+            "Change everything",
+            "Fix it with one small change"
+          ],
+          "answer": 3,
+          "explain": "One small fix improves next season."
+        },
+        {
+          "q": "What is a sign your season went well?",
+          "options": [
+            "Players had fun and improved",
+            "You won every game",
+            "You never lost",
+            "Nothing changed"
+          ],
+          "answer": 0,
+          "explain": "Fun and growth mean a good season."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Keep coaching: your next season",
+      "goal": "Plan your next season and keep growing as a coach.",
+      "video": {
+        "youtube_id": "EMIQhtHknPg",
+        "title": "One Touch Passing Drill",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Pick one new skill to learn as a coach.",
+        "Ask players and parents for feedback.",
+        "Join a coaching course or group.",
+        "Write your next season plan."
+      ],
+      "task": "Ask one player for feedback.",
+      "challenge": "Write your next season plan.",
+      "quiz": [
+        {
+          "q": "How do coaches keep growing?",
+          "options": [
+            "By doing the same forever",
+            "By never asking",
+            "It is not needed",
+            "By learning, asking feedback and trying new things"
+          ],
+          "answer": 3,
+          "explain": "Learning and feedback grow coaches."
+        },
+        {
+          "q": "Why ask players for feedback?",
+          "options": [
+            "They know what helped them most",
+            "It wastes time",
+            "It is not needed",
+            "It makes you look weak"
+          ],
+          "answer": 0,
+          "explain": "Player feedback shows what works."
+        },
+        {
+          "q": "What is a good next step?",
+          "options": [
+            "Quit",
+            "Join a coaching course or group",
+            "Coach alone forever",
+            "Never learn"
+          ],
+          "answer": 1,
+          "explain": "A course or group builds new skills."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Teach a new coach",
+      "goal": "Teach someone else what you learned.",
+      "video": {
+        "youtube_id": "OCVCB4G7rFw",
+        "title": "Dribbling and Reaction Drill for Youth Soccer",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Show them how to plan a practice.",
+        "Show them the warm-up game.",
+        "Show them one cue for passing.",
+        "Ask them how they felt after."
+      ],
+      "task": "Teach practice planning to one person.",
+      "challenge": "Show a new coach your warm-up game.",
+      "quiz": [
+        {
+          "q": "Why teach a new coach?",
+          "options": [
+            "Teaching helps you learn it better",
+            "It wastes time",
+            "It is not needed",
+            "It makes you tired"
+          ],
+          "answer": 0,
+          "explain": "Teaching locks in your own learning."
+        },
+        {
+          "q": "What is the first thing to teach?",
+          "options": [
+            "A long lecture",
+            "How to plan a practice",
+            "Nothing",
+            "Only tactics"
+          ],
+          "answer": 1,
+          "explain": "Planning is the base of coaching."
+        },
+        {
+          "q": "Why ask how they felt?",
+          "options": [
+            "To show off",
+            "It is rude",
+            "So you know if the teaching helped",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Feedback shows what works."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Teach catching and throwing",
+      "goal": "Learn to teach simple catching and throwing.",
+      "video": {
+        "youtube_id": "8FjkXuTqWIk",
+        "title": "Soccer Drill: Passing, Trapping, Turning, Vision and Shooting",
+        "channel": "GFT Skills"
+      },
+      "steps": [
+        "Show throwing: step forward with the other foot.",
+        "Show catching: hands ready, watch the ball.",
+        "Start close together and throw gently.",
+        "Move further apart as players get better.",
+        "Say one cue: watch the ball.",
+        "Praise every catch."
+      ],
+      "task": "Teach catching to a friend.",
+      "challenge": "Play catch for 10 minutes.",
+      "quiz": [
+        {
+          "q": "What should you do when throwing?",
+          "options": [
+            "Stand still",
+            "Step forward with the other foot",
+            "Close your eyes",
+            "Throw as hard as you can"
+          ],
+          "answer": 1,
+          "explain": "Stepping forward gives the throw power and aim."
+        },
+        {
+          "q": "What should your hands do when catching?",
+          "options": [
+            "Stay in pockets",
+            "Cover your eyes",
+            "Be ready and watch the ball",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Ready hands and watching eyes catch the ball."
+        },
+        {
+          "q": "Why start close together?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "It does not matter",
+            "So catching is easy at first"
+          ],
+          "answer": 3,
+          "explain": "Close throws build confidence first."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Coach a player who is struggling",
+      "goal": "Learn to help a player who finds it hard.",
+      "video": {
+        "youtube_id": "MO73sagJ2ak",
+        "title": "Top Soccer Fundamentals Explained | Basic Soccer Skills",
+        "channel": "The Soccer Handbook"
+      },
+      "steps": [
+        "Notice the player and talk to them kindly.",
+        "Break the skill into a smaller step.",
+        "Let them practise the small step until it feels easy.",
+        "Praise every small win.",
+        "Pair them with a patient friend.",
+        "Check on them again next practice."
+      ],
+      "task": "Write a plan to help a struggling player.",
+      "challenge": "Use the plan with a real player.",
+      "quiz": [
+        {
+          "q": "What is the first step?",
+          "options": [
+            "Ignore them",
+            "Shout at them",
+            "Talk to the player kindly",
+            "Bench them"
+          ],
+          "answer": 2,
+          "explain": "Kind words open the door to help."
+        },
+        {
+          "q": "Why break the skill into a smaller step?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "It makes it harder",
+            "So it feels easy to do"
+          ],
+          "answer": 3,
+          "explain": "Small steps build confidence."
+        },
+        {
+          "q": "Why praise small wins?",
+          "options": [
+            "It builds confidence",
+            "It is silly",
+            "It wastes time",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Small wins show the player they are growing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Plan a fun end-of-season party",
+      "goal": "Learn to plan a simple celebration for your team.",
+      "video": {
+        "youtube_id": "_FQKTChpBd8",
+        "title": "Soccer Training for Kids at Home: Episode 5",
+        "channel": "SoccerManiak"
+      },
+      "steps": [
+        "Pick a date after the last game.",
+        "Ask players what food they like.",
+        "Plan one fun game, like a parents vs players match.",
+        "Give every player a small award.",
+        "Thank the parents and helpers.",
+        "Take a team photo."
+      ],
+      "task": "Write a party plan for your team.",
+      "challenge": "Share the plan with the team.",
+      "quiz": [
+        {
+          "q": "When should the party be?",
+          "options": [
+            "Before the season",
+            "During a game",
+            "Never",
+            "After the last game"
+          ],
+          "answer": 3,
+          "explain": "After the last game the whole team can celebrate."
+        },
+        {
+          "q": "What should every player get?",
+          "options": [
+            "A small award",
+            "Nothing",
+            "Only the best get awards",
+            "Money"
+          ],
+          "answer": 0,
+          "explain": "An award for everyone celebrates every player."
+        },
+        {
+          "q": "Why plan a fun game?",
+          "options": [
+            "It wastes time",
+            "So everyone enjoys the day",
+            "It is not needed",
+            "It is only for show"
+          ],
+          "answer": 1,
+          "explain": "A fun game ends the season with joy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final project.",
+      "video": {
+        "youtube_id": "rz5RAcBjAsE",
+        "title": "Soccer Training for Kids at Home: Episode 6",
+        "channel": "SoccerManiak"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 coaching skills you learned.",
+        "Practise your capstone session once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 coaching skills you learned.",
+      "challenge": "Run your capstone session from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final project that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new whistle"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own a whistle",
+            "You can run a full practice and a game safely",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "Running a full session well shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "WuMeRaaJxWk",
+        "title": "Full Football Training Session 01 | Animated Drills & Games with Audio Guide",
+        "channel": "Coach Thomas Vlaminck"
+      },
+      "steps": [
+        "Run your capstone practice one more time.",
+        "Check your plan, your time and your cues.",
+        "Fix anything that felt rushed.",
+        "Rest well tonight."
+      ],
+      "task": "Run your capstone practice and time each part.",
+      "challenge": "Fix one thing that felt rushed.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your whistle",
+            "Your plan, your time and your cues",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking plan and time makes it smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Practise all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you do your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: coach your team",
+      "goal": "Show what you learned: coach a full practice and game.",
+      "video": {
+        "youtube_id": "jps5OOIzIW4",
+        "title": "Fun Drills For Kids | U5, U6, U7, U8, U9 | 👇*Free Session Plans*👇| Football Coaching for Kids",
+        "channel": "Eddie10"
+      },
+      "steps": [
+        "Run your 60-minute practice from your plan.",
+        "Coach a small-sided game with fair playing time.",
+        "Use clear cues and praise effort.",
+        "Write a short report on how it went."
+      ],
+      "task": "Coach your capstone practice and game, then write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What is the first step of your capstone?",
+          "options": [
+            "A hard drill",
+            "A lecture",
+            "A warm-up game",
+            "No warm-up"
+          ],
+          "answer": 2,
+          "explain": "A warm-up game starts the session well."
+        },
+        {
+          "q": "What matters most in the capstone?",
+          "options": [
+            "Winning the game",
+            "Shouting the loudest",
+            "Skipping warm-ups",
+            "Clear cues, fair time and happy players"
+          ],
+          "answer": 3,
+          "explain": "Clear coaching and fair time show real skill."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and what you learned",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Coach your team",
+    "brief": "Coach a full 60-minute practice from your plan and a small-sided game with fair playing time, clear cues and praise for effort, and write a short report.",
+    "checks": [
+      "Ran a 60-minute practice",
+      "Coached a small-sided game",
+      "Used fair playing time",
+      "Used clear cues",
+      "Praised effort",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A written season plan",
+      "A practice plan",
+      "A playing-time tracker",
+      "A short video or notes from the game",
+      "A written report"
+    ]
+  }
+}

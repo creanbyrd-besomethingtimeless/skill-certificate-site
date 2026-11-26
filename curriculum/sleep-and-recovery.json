@@ -1,0 +1,1720 @@
+{
+  "course": {
+    "id": "sleep-and-recovery",
+    "title": "Sleep and Recovery",
+    "level": "Beginner",
+    "tagline": "Sleep deeply and recover properly, with routines that actually work.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Why sleep matters",
+      "goal": "Learn why sleep is not wasted time.",
+      "video": {
+        "youtube_id": "zzpP2_4M6rE",
+        "title": "10 Easy Ways to Improve Your Sleep",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Watch the video and write the main idea in one sentence.",
+        "Learn this: sleep repairs the body and clears the mind.",
+        "Write down how many hours you slept last night.",
+        "Set a sleep goal: 7 to 8 hours a night."
+      ],
+      "task": "Write your sleep hours from last night.",
+      "challenge": "Tell a friend why sleep matters in one sentence.",
+      "quiz": [
+        {
+          "q": "Why does sleep matter?",
+          "options": [
+            "It wastes time",
+            "It repairs the body and clears the mind",
+            "It makes you lazy",
+            "It does nothing"
+          ],
+          "answer": 1,
+          "explain": "Sleep is when the body repairs itself."
+        },
+        {
+          "q": "How much sleep should an adult aim for?",
+          "options": [
+            "3 hours",
+            "12 hours",
+            "7 to 8 hours",
+            "No sleep"
+          ],
+          "answer": 2,
+          "explain": "Seven to eight hours is the healthy aim."
+        },
+        {
+          "q": "What should you write down first?",
+          "options": [
+            "Nothing",
+            "Only your age",
+            "Only your weight",
+            "How many hours you slept"
+          ],
+          "answer": 3,
+          "explain": "Knowing your sleep hours shows where to improve."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Set your sleep times",
+      "goal": "Pick a bedtime and a wake time and keep them.",
+      "video": {
+        "youtube_id": "Hp4Hm5lfQus",
+        "title": "8 Hours of Sleep and Still Exhausted? Fix It FAST Tonight",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Pick a wake time that fits your day.",
+        "Count back 8 hours to find your bedtime.",
+        "Write both times on a card by your bed.",
+        "Keep the same times even on weekends."
+      ],
+      "task": "Write your bedtime and wake time on a card.",
+      "challenge": "Keep the same times for 3 days.",
+      "quiz": [
+        {
+          "q": "Why keep the same sleep times?",
+          "options": [
+            "It is a rule with no reason",
+            "It makes you tired",
+            "It trains your body clock",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Same times train the body to sleep and wake easily."
+        },
+        {
+          "q": "How do you find your bedtime?",
+          "options": [
+            "Guess",
+            "Stay up late",
+            "It does not matter",
+            "Count back 8 hours from your wake time"
+          ],
+          "answer": 3,
+          "explain": "Counting back gives you enough sleep."
+        },
+        {
+          "q": "What about weekends?",
+          "options": [
+            "Keep the same times",
+            "Sleep in very late",
+            "Stay up all night",
+            "Skip sleep"
+          ],
+          "answer": 0,
+          "explain": "Same times on weekends keep the rhythm steady."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Your bedroom: dark, cool, quiet",
+      "goal": "Make your bedroom a good place to sleep.",
+      "video": {
+        "youtube_id": "Fvi0owALnoA",
+        "title": "Muscle Recovery Process & Tips",
+        "channel": "Ayan Roy"
+      },
+      "steps": [
+        "Make the room dark: close curtains or wear a sleep mask.",
+        "Make the room cool: open a window or use a fan.",
+        "Make the room quiet: turn off noisy things.",
+        "Keep your bed only for sleep."
+      ],
+      "task": "Make one change to your bedroom tonight.",
+      "challenge": "Make your room dark, cool and quiet tonight.",
+      "quiz": [
+        {
+          "q": "Why should the room be dark?",
+          "options": [
+            "It looks nice",
+            "It does not matter",
+            "It wastes power",
+            "Darkness tells the brain it is time to sleep"
+          ],
+          "answer": 3,
+          "explain": "Darkness helps the sleep hormone work."
+        },
+        {
+          "q": "Why should the room be cool?",
+          "options": [
+            "A cool room helps you fall asleep",
+            "Cold is bad",
+            "It does not matter",
+            "Heat helps sleep"
+          ],
+          "answer": 0,
+          "explain": "A cool room helps deep sleep."
+        },
+        {
+          "q": "Why keep the bed only for sleep?",
+          "options": [
+            "It is a rule with no reason",
+            "So your brain links bed with sleep",
+            "It does not matter",
+            "Beds are for work"
+          ],
+          "answer": 1,
+          "explain": "Bed only for sleep trains the brain."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Wind down: 30 minutes before bed",
+      "goal": "Learn a simple wind-down routine.",
+      "video": {
+        "youtube_id": "cMOUcIbUKFE",
+        "title": "Sleep",
+        "channel": "The Open University"
+      },
+      "steps": [
+        "30 minutes before bed, dim the lights.",
+        "Put your phone away and charge it outside the bedroom.",
+        "Read a book or listen to calm music.",
+        "Do 5 slow breaths."
+      ],
+      "task": "Do the wind-down routine tonight.",
+      "challenge": "Do it every night this week.",
+      "quiz": [
+        {
+          "q": "Why wind down before bed?",
+          "options": [
+            "It tells the body the day is over",
+            "It wastes time",
+            "It is only for show",
+            "It makes you wide awake"
+          ],
+          "answer": 0,
+          "explain": "Winding down prepares the body for sleep."
+        },
+        {
+          "q": "What should you do with your phone?",
+          "options": [
+            "Keep it in bed",
+            "Put it away and charge it outside the bedroom",
+            "Scroll until you fall asleep",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Phones keep the brain awake."
+        },
+        {
+          "q": "How long should a wind-down be?",
+          "options": [
+            "5 seconds",
+            "3 hours",
+            "About 30 minutes",
+            "No time"
+          ],
+          "answer": 2,
+          "explain": "Thirty minutes is enough to calm down."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Caffeine and sleep",
+      "goal": "Learn how coffee and tea affect sleep.",
+      "video": {
+        "youtube_id": "YCKIONAAFuc",
+        "title": "Sleep Like a Champ",
+        "channel": "US Speedskating"
+      },
+      "steps": [
+        "Caffeine is the wake-up chemical in coffee, tea and cola.",
+        "It can stay in your body for 6 hours or more.",
+        "Stop caffeine by 2 pm.",
+        "Drink water or herbal tea after 2 pm."
+      ],
+      "task": "Stop caffeine after 2 pm today.",
+      "challenge": "Drink water instead of coffee this afternoon.",
+      "quiz": [
+        {
+          "q": "What is caffeine?",
+          "options": [
+            "A vitamin",
+            "The wake-up chemical in coffee, tea and cola",
+            "A medicine",
+            "Sugar"
+          ],
+          "answer": 1,
+          "explain": "Caffeine keeps you awake."
+        },
+        {
+          "q": "How long does caffeine stay in the body?",
+          "options": [
+            "10 minutes",
+            "1 hour",
+            "6 hours or more",
+            "Forever"
+          ],
+          "answer": 2,
+          "explain": "Caffeine lingers for hours."
+        },
+        {
+          "q": "When should you stop caffeine?",
+          "options": [
+            "At bedtime",
+            "Never",
+            "At midnight",
+            "By 2 pm"
+          ],
+          "answer": 3,
+          "explain": "Stopping by 2 pm lets it clear before bed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Move in the day, sleep at night",
+      "goal": "Learn how daytime movement helps night sleep.",
+      "video": {
+        "youtube_id": "19cmcJGEBTM",
+        "title": "5 Night Habits for Better Sleep | Simple Wellness Routine for Restful Nights",
+        "channel": "ReyB Health Lab"
+      },
+      "steps": [
+        "Walk or exercise for 30 minutes today.",
+        "Finish hard exercise at least 3 hours before bed.",
+        "Get sunlight in the morning if you can.",
+        "Write down how you slept after moving."
+      ],
+      "task": "Walk for 30 minutes today.",
+      "challenge": "Get morning sunlight for 10 minutes.",
+      "quiz": [
+        {
+          "q": "Why does daytime movement help sleep?",
+          "options": [
+            "It makes sleep worse",
+            "It does nothing",
+            "It tires the body in a healthy way",
+            "It is only for fitness"
+          ],
+          "answer": 2,
+          "explain": "Daytime movement builds healthy tiredness."
+        },
+        {
+          "q": "When should you finish hard exercise?",
+          "options": [
+            "Right before bed",
+            "Never exercise",
+            "At midnight",
+            "At least 3 hours before bed"
+          ],
+          "answer": 3,
+          "explain": "Late hard exercise keeps you awake."
+        },
+        {
+          "q": "Why get morning sunlight?",
+          "options": [
+            "It sets your body clock for the day",
+            "It is only for show",
+            "It does not matter",
+            "Sunlight is bad"
+          ],
+          "answer": 0,
+          "explain": "Morning light tells the body when to wake and sleep."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your sleep diary",
+      "goal": "Put week 1 together: keep a sleep diary for 3 nights.",
+      "video": {
+        "youtube_id": "t0kACis_dJE",
+        "title": "6 tips for better sleep | Sleeping with Science, a TED series",
+        "channel": "TED"
+      },
+      "steps": [
+        "Each morning, write: bedtime, wake time, hours slept.",
+        "Rate your sleep: good, OK or bad.",
+        "Note one thing that helped or hurt your sleep.",
+        "Find one pattern in your diary."
+      ],
+      "task": "Keep a sleep diary for 3 nights.",
+      "challenge": "Find one pattern in your diary.",
+      "quiz": [
+        {
+          "q": "What is a sleep diary?",
+          "options": [
+            "A dream book",
+            "A test",
+            "A chore",
+            "A written record of your sleep each night"
+          ],
+          "answer": 3,
+          "explain": "A diary shows your sleep patterns."
+        },
+        {
+          "q": "What should you write each morning?",
+          "options": [
+            "Bedtime, wake time and hours slept",
+            "Nothing",
+            "Only your dreams",
+            "Only your weight"
+          ],
+          "answer": 0,
+          "explain": "Times and hours show your sleep pattern."
+        },
+        {
+          "q": "Why find patterns?",
+          "options": [
+            "To fill paper",
+            "So you can fix what hurts sleep",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "Patterns show what to change."
+        }
+      ],
+      "project": {
+        "title": "Your sleep diary",
+        "brief": "Keep a sleep diary for 3 nights: bedtime, wake time, hours slept, a rating, and one note on what helped or hurt.",
+        "checks": [
+          "Diary covers 3 nights",
+          "Each night has bedtime and wake time",
+          "Each night has hours slept",
+          "Each night has a rating",
+          "Notes on help and hurt are included",
+          "Found one pattern"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Breathe to fall asleep",
+      "goal": "Learn slow breathing that helps you drift off.",
+      "video": {
+        "youtube_id": "Enz98dDXQfY",
+        "title": "18-Minute Movement Medicine",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Lie down and close your eyes.",
+        "Breathe in for 4 counts, out for 6 counts.",
+        "Do this 10 times.",
+        "Let your body go soft with each out-breath."
+      ],
+      "task": "Do 10 slow breaths in bed tonight.",
+      "challenge": "Use slow breathing if you wake up at night.",
+      "quiz": [
+        {
+          "q": "How should you breathe to fall asleep?",
+          "options": [
+            "In for 4, out for 6",
+            "Fast and shallow",
+            "Hold your breath",
+            "Do not breathe"
+          ],
+          "answer": 0,
+          "explain": "A long out-breath calms the body."
+        },
+        {
+          "q": "Why breathe slowly in bed?",
+          "options": [
+            "It does nothing",
+            "It slows the heart and relaxes muscles",
+            "It makes you wide awake",
+            "It is only for show"
+          ],
+          "answer": 1,
+          "explain": "Slow breathing tells the body it is safe to sleep."
+        },
+        {
+          "q": "What should you do if you wake up at night?",
+          "options": [
+            "Check your phone",
+            "Get up and work",
+            "Breathe slowly and stay calm",
+            "Panic"
+          ],
+          "answer": 2,
+          "explain": "Slow breathing helps you drift back off."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "What to eat and drink for sleep",
+      "goal": "Learn simple food rules for better sleep.",
+      "video": {
+        "youtube_id": "RTgJSQtvo88",
+        "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+        "channel": "Huberman Lab"
+      },
+      "steps": [
+        "Do not eat a heavy meal close to bedtime.",
+        "A small snack like a banana is fine.",
+        "Avoid alcohol before bed: it breaks your sleep.",
+        "Drink water through the day, less at night."
+      ],
+      "task": "Eat a light dinner tonight.",
+      "challenge": "Drink less water in the last hour before bed.",
+      "quiz": [
+        {
+          "q": "Why not eat a heavy meal before bed?",
+          "options": [
+            "It helps sleep",
+            "Digestion keeps you awake",
+            "It does not matter",
+            "It is healthy"
+          ],
+          "answer": 1,
+          "explain": "A heavy meal keeps the body working at night."
+        },
+        {
+          "q": "Why avoid alcohol before bed?",
+          "options": [
+            "It helps sleep",
+            "It is healthy",
+            "It breaks your sleep into pieces",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Alcohol stops deep sleep."
+        },
+        {
+          "q": "What is a good bedtime snack?",
+          "options": [
+            "A big fried meal",
+            "Coffee",
+            "Sweets",
+            "A banana"
+          ],
+          "answer": 3,
+          "explain": "A small snack is fine; a big meal is not."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Naps: short and early",
+      "goal": "Learn how to nap without ruining night sleep.",
+      "video": {
+        "youtube_id": "h2aWYjSA1Jc",
+        "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing | Huberman Lab Podcast #84",
+        "channel": "Huberman Lab"
+      },
+      "steps": [
+        "Keep naps under 30 minutes.",
+        "Nap before 3 pm.",
+        "Set an alarm so you do not oversleep.",
+        "If you sleep well at night, you may not need naps."
+      ],
+      "task": "Take a 20-minute nap before 3 pm if you are tired.",
+      "challenge": "Set an alarm for your nap.",
+      "quiz": [
+        {
+          "q": "How long should a nap be?",
+          "options": [
+            "3 hours",
+            "All afternoon",
+            "Under 30 minutes",
+            "5 minutes"
+          ],
+          "answer": 2,
+          "explain": "A short nap refreshes without stealing night sleep."
+        },
+        {
+          "q": "When should you nap?",
+          "options": [
+            "At bedtime",
+            "At midnight",
+            "Never",
+            "Before 3 pm"
+          ],
+          "answer": 3,
+          "explain": "Early naps do not hurt night sleep."
+        },
+        {
+          "q": "Why set an alarm for a nap?",
+          "options": [
+            "So you do not oversleep",
+            "It is not needed",
+            "Alarms are bad",
+            "It wastes time"
+          ],
+          "answer": 0,
+          "explain": "An alarm keeps the nap short."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Stretch before bed",
+      "goal": "Learn gentle stretches that help you sleep.",
+      "video": {
+        "youtube_id": "zzpP2_4M6rE",
+        "title": "10 Easy Ways to Improve Your Sleep",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Lie on your back and hug your knees to your chest.",
+        "Do a gentle twist on each side.",
+        "Stretch your arms up high and breathe out.",
+        "Do this for 5 minutes before bed."
+      ],
+      "task": "Do the bedtime stretches tonight.",
+      "challenge": "Do them every night this week.",
+      "quiz": [
+        {
+          "q": "Why stretch before bed?",
+          "options": [
+            "It wakes you up",
+            "It is only for show",
+            "It does not matter",
+            "It relaxes tight muscles"
+          ],
+          "answer": 3,
+          "explain": "Gentle stretches ease the body into sleep."
+        },
+        {
+          "q": "How long should you stretch?",
+          "options": [
+            "About 5 minutes",
+            "1 minute",
+            "1 hour",
+            "No time"
+          ],
+          "answer": 0,
+          "explain": "Five minutes is enough to relax."
+        },
+        {
+          "q": "How should stretches feel?",
+          "options": [
+            "Sharp and painful",
+            "Gentle, never painful",
+            "Very hard",
+            "Like nothing"
+          ],
+          "answer": 1,
+          "explain": "Gentle stretches are safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "When you cannot fall asleep",
+      "goal": "Learn what to do when sleep will not come.",
+      "video": {
+        "youtube_id": "Hp4Hm5lfQus",
+        "title": "8 Hours of Sleep and Still Exhausted? Fix It FAST Tonight",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "If you cannot sleep after 20 minutes, get up.",
+        "Go to another room and do something calm: read a book.",
+        "Do not check your phone.",
+        "Go back to bed when you feel sleepy."
+      ],
+      "task": "Use the get-up rule tonight if you cannot sleep.",
+      "challenge": "Read a book instead of your phone tonight.",
+      "quiz": [
+        {
+          "q": "What should you do if you cannot sleep?",
+          "options": [
+            "Get up after 20 minutes and do something calm",
+            "Stay in bed and worry",
+            "Check your phone",
+            "Turn on bright lights"
+          ],
+          "answer": 0,
+          "explain": "Getting up breaks the worry cycle."
+        },
+        {
+          "q": "Why not check your phone?",
+          "options": [
+            "Phones help sleep",
+            "Bright screens wake the brain up",
+            "It does not matter",
+            "Phones are calming"
+          ],
+          "answer": 1,
+          "explain": "Phone light tells the brain to stay awake."
+        },
+        {
+          "q": "What is a good calm activity?",
+          "options": [
+            "Working",
+            "Watching news",
+            "Reading a book",
+            "Exercising hard"
+          ],
+          "answer": 2,
+          "explain": "A calm book helps sleepiness return."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Recovery: rest your muscles",
+      "goal": "Learn how muscles recover after training.",
+      "video": {
+        "youtube_id": "Fvi0owALnoA",
+        "title": "Muscle Recovery Process & Tips",
+        "channel": "Ayan Roy"
+      },
+      "steps": [
+        "After training, walk slowly for 5 minutes.",
+        "Stretch gently for 5 minutes.",
+        "Drink water and eat protein.",
+        "Sleep 7 to 9 hours to repair muscles."
+      ],
+      "task": "Do a 5-minute cool-down after your next workout.",
+      "challenge": "Eat protein after training today.",
+      "quiz": [
+        {
+          "q": "Why cool down after training?",
+          "options": [
+            "It wastes time",
+            "It helps muscles relax and recover",
+            "It is only for show",
+            "It makes you weaker"
+          ],
+          "answer": 1,
+          "explain": "A cool-down eases the body back to rest."
+        },
+        {
+          "q": "Why eat protein after training?",
+          "options": [
+            "It does nothing",
+            "It makes you fat",
+            "It helps repair muscles",
+            "It is not needed"
+          ],
+          "answer": 2,
+          "explain": "Protein is the repair material for muscle."
+        },
+        {
+          "q": "How much sleep helps recovery?",
+          "options": [
+            "3 hours",
+            "12 hours",
+            "No sleep",
+            "7 to 9 hours"
+          ],
+          "answer": 3,
+          "explain": "Seven to nine hours repairs muscles."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your bedtime routine",
+      "goal": "Put week 2 together: build your own bedtime routine.",
+      "video": {
+        "youtube_id": "cMOUcIbUKFE",
+        "title": "Sleep",
+        "channel": "The Open University"
+      },
+      "steps": [
+        "Write your routine: dim lights, phone away, stretch, breathe, sleep.",
+        "Do the routine every night for 3 nights.",
+        "Write down how you slept each morning.",
+        "Fix one thing that did not work."
+      ],
+      "task": "Write your bedtime routine.",
+      "challenge": "Follow it for 3 nights.",
+      "quiz": [
+        {
+          "q": "What should a bedtime routine have?",
+          "options": [
+            "Only work",
+            "Bright screens",
+            "Dim lights, phone away, stretch, breathe",
+            "Coffee"
+          ],
+          "answer": 2,
+          "explain": "A calm routine tells the body it is bedtime."
+        },
+        {
+          "q": "Why follow it for 3 nights?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "It is not needed",
+            "To see if it helps before changing it"
+          ],
+          "answer": 3,
+          "explain": "Three nights shows if the routine works."
+        },
+        {
+          "q": "What should you do if a step does not help?",
+          "options": [
+            "Swap it for another calm step",
+            "Quit everything",
+            "Force it",
+            "Ignore it"
+          ],
+          "answer": 0,
+          "explain": "Swapping keeps the routine working for you."
+        }
+      ],
+      "project": {
+        "title": "Your bedtime routine",
+        "brief": "Build your own bedtime routine: dim lights, phone away, stretch, breathe, sleep, and follow it for 3 nights.",
+        "checks": [
+          "Routine is written down",
+          "Routine has dim lights",
+          "Routine has phone away",
+          "Routine has stretch and breathe",
+          "Followed it for 3 nights",
+          "Fixed one thing that did not work"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Rest days and active recovery",
+      "goal": "Learn the difference between rest and active recovery.",
+      "video": {
+        "youtube_id": "YCKIONAAFuc",
+        "title": "Sleep Like a Champ",
+        "channel": "US Speedskating"
+      },
+      "steps": [
+        "Rest means no hard training.",
+        "Active recovery means gentle movement: walking, stretching, easy yoga.",
+        "Take 2 rest days a week.",
+        "On rest days, walk for 20 minutes."
+      ],
+      "task": "Take a rest day today and walk for 20 minutes.",
+      "challenge": "Do gentle yoga on your rest day.",
+      "quiz": [
+        {
+          "q": "What is active recovery?",
+          "options": [
+            "Hard training",
+            "Sleeping all day",
+            "Doing nothing",
+            "Gentle movement on a rest day"
+          ],
+          "answer": 3,
+          "explain": "Gentle movement helps the body recover."
+        },
+        {
+          "q": "How many rest days should you take?",
+          "options": [
+            "About 2 a week",
+            "None",
+            "7 a week",
+            "1 a month"
+          ],
+          "answer": 0,
+          "explain": "Two rest days let the body repair."
+        },
+        {
+          "q": "What is a good rest-day activity?",
+          "options": [
+            "A hard run",
+            "A 20-minute walk",
+            "Heavy lifting",
+            "Sitting all day"
+          ],
+          "answer": 1,
+          "explain": "A gentle walk aids recovery."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Deal with snoring and noise",
+      "goal": "Learn simple fixes for a noisy bedroom.",
+      "video": {
+        "youtube_id": "19cmcJGEBTM",
+        "title": "5 Night Habits for Better Sleep | Simple Wellness Routine for Restful Nights",
+        "channel": "ReyB Health Lab"
+      },
+      "steps": [
+        "Use earplugs if noise wakes you.",
+        "Use a fan for steady background sound.",
+        "Ask a snoring partner to sleep on their side.",
+        "Keep the room cool and dark."
+      ],
+      "task": "Try earplugs or a fan tonight.",
+      "challenge": "Ask your partner to try sleeping on their side.",
+      "quiz": [
+        {
+          "q": "What helps with bedroom noise?",
+          "options": [
+            "Earplugs or a fan",
+            "Loud music",
+            "Bright lights",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Earplugs or steady sound block noise."
+        },
+        {
+          "q": "Why does a fan help?",
+          "options": [
+            "It is cold",
+            "Its steady sound masks sudden noises",
+            "It does not help",
+            "It wastes power"
+          ],
+          "answer": 1,
+          "explain": "Steady sound hides sudden noises."
+        },
+        {
+          "q": "What helps a snoring partner?",
+          "options": [
+            "Sleeping on their back",
+            "Loud music",
+            "Sleeping on their side",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Side sleeping often eases snoring."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Morning light and your body clock",
+      "goal": "Learn how morning light sets your sleep.",
+      "video": {
+        "youtube_id": "t0kACis_dJE",
+        "title": "6 tips for better sleep | Sleeping with Science, a TED series",
+        "channel": "TED"
+      },
+      "steps": [
+        "Get outside for 10 minutes in the morning.",
+        "Open your curtains as soon as you wake up.",
+        "Eat breakfast near a window.",
+        "Write down how awake you felt."
+      ],
+      "task": "Get 10 minutes of morning light tomorrow.",
+      "challenge": "Open your curtains first thing tomorrow.",
+      "quiz": [
+        {
+          "q": "Why get morning light?",
+          "options": [
+            "It is only for show",
+            "It sets your body clock for the day",
+            "It does not matter",
+            "Sunlight is bad"
+          ],
+          "answer": 1,
+          "explain": "Morning light tells the body when to wake and sleep."
+        },
+        {
+          "q": "How much morning light helps?",
+          "options": [
+            "1 second",
+            "5 hours",
+            "About 10 minutes",
+            "No light"
+          ],
+          "answer": 2,
+          "explain": "Ten minutes of light sets the clock."
+        },
+        {
+          "q": "What should you do first in the morning?",
+          "options": [
+            "Check your phone in the dark",
+            "Stay in bed",
+            "Drink coffee at once",
+            "Open your curtains"
+          ],
+          "answer": 3,
+          "explain": "Light first thing wakes the body up."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Track your sleep for a week",
+      "goal": "Keep a full week of sleep records.",
+      "video": {
+        "youtube_id": "Enz98dDXQfY",
+        "title": "18-Minute Movement Medicine",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Write bedtime, wake time and hours slept each day.",
+        "Rate each night: good, OK or bad.",
+        "Note what helped or hurt each night.",
+        "Find your best and worst nights."
+      ],
+      "task": "Keep your sleep diary for 7 nights.",
+      "challenge": "Find your best night and what made it good.",
+      "quiz": [
+        {
+          "q": "Why track sleep for a week?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "A week shows clear patterns",
+            "To show off"
+          ],
+          "answer": 2,
+          "explain": "A week of records shows what works."
+        },
+        {
+          "q": "What should you note each night?",
+          "options": [
+            "Nothing",
+            "Only your dreams",
+            "Only your weight",
+            "What helped or hurt your sleep"
+          ],
+          "answer": 3,
+          "explain": "Notes show what to keep and what to fix."
+        },
+        {
+          "q": "What should you do with your best night?",
+          "options": [
+            "Repeat what made it good",
+            "Forget it",
+            "Change everything",
+            "Ignore it"
+          ],
+          "answer": 0,
+          "explain": "Repeating what worked builds better sleep."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Handle a bad night",
+      "goal": "Learn what to do after a night of poor sleep.",
+      "video": {
+        "youtube_id": "RTgJSQtvo88",
+        "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+        "channel": "Huberman Lab"
+      },
+      "steps": [
+        "Do not panic: one bad night is normal.",
+        "Get morning light and move gently.",
+        "Do not nap too long or too late.",
+        "Go to bed at your normal time tonight."
+      ],
+      "task": "Get morning light after a bad night.",
+      "challenge": "Keep your normal bedtime after a bad night.",
+      "quiz": [
+        {
+          "q": "Is one bad night a problem?",
+          "options": [
+            "Yes, it ruins everything",
+            "It means you are sick",
+            "It never happens",
+            "No, it is normal"
+          ],
+          "answer": 3,
+          "explain": "One bad night happens to everyone."
+        },
+        {
+          "q": "What should you do after a bad night?",
+          "options": [
+            "Get light, move gently, keep your bedtime",
+            "Sleep all day",
+            "Drink lots of coffee",
+            "Stay up late"
+          ],
+          "answer": 0,
+          "explain": "Light and routine reset the body clock."
+        },
+        {
+          "q": "Why keep your normal bedtime?",
+          "options": [
+            "It makes you more tired",
+            "It keeps your body clock steady",
+            "It does not matter",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "A steady bedtime fixes the rhythm."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Relax your mind before bed",
+      "goal": "Learn a simple way to quiet a busy mind.",
+      "video": {
+        "youtube_id": "h2aWYjSA1Jc",
+        "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing | Huberman Lab Podcast #84",
+        "channel": "Huberman Lab"
+      },
+      "steps": [
+        "Write your worries on paper before bed.",
+        "Write one thing you will do about each worry tomorrow.",
+        "Close the notebook and put it away.",
+        "Breathe slowly for 2 minutes."
+      ],
+      "task": "Write your worries down tonight before bed.",
+      "challenge": "Close the notebook and breathe slowly.",
+      "quiz": [
+        {
+          "q": "Why write worries down?",
+          "options": [
+            "It stops them spinning in your head",
+            "It makes them worse",
+            "It is silly",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Writing worries down makes them smaller."
+        },
+        {
+          "q": "What should you write next to each worry?",
+          "options": [
+            "Nothing",
+            "One small step for tomorrow",
+            "A complaint",
+            "A fear"
+          ],
+          "answer": 1,
+          "explain": "A small step turns worry into a plan."
+        },
+        {
+          "q": "Why close the notebook?",
+          "options": [
+            "It is silly",
+            "It wastes time",
+            "It tells your mind the day is done",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Closing the book signals rest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your sleep system",
+      "goal": "Put week 3 together: build a sleep system you can keep.",
+      "video": {
+        "youtube_id": "zzpP2_4M6rE",
+        "title": "10 Easy Ways to Improve Your Sleep",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Write your sleep times, your wind-down and your bedroom setup.",
+        "Add your morning light habit.",
+        "Follow the system for 7 nights.",
+        "Write down your average hours slept."
+      ],
+      "task": "Write your sleep system on one page.",
+      "challenge": "Follow it for 7 nights.",
+      "quiz": [
+        {
+          "q": "What should a sleep system have?",
+          "options": [
+            "Only a bedtime",
+            "Sleep times, wind-down, bedroom setup and morning light",
+            "Only a pillow",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "A system covers the whole day."
+        },
+        {
+          "q": "Why follow it for 7 nights?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "A week shows if the system works",
+            "It is not needed"
+          ],
+          "answer": 2,
+          "explain": "A week of practice shows real change."
+        },
+        {
+          "q": "What should you measure?",
+          "options": [
+            "Nothing",
+            "Only your dreams",
+            "Only your weight",
+            "Your average hours slept"
+          ],
+          "answer": 3,
+          "explain": "Average hours show if the system works."
+        }
+      ],
+      "project": {
+        "title": "Your sleep system",
+        "brief": "Build a sleep system: sleep times, wind-down, bedroom setup and morning light, and follow it for 7 nights.",
+        "checks": [
+          "System has sleep times",
+          "System has a wind-down",
+          "System has bedroom setup",
+          "System has morning light",
+          "Followed it for 7 nights",
+          "Wrote average hours slept"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Teach a friend to sleep better",
+      "goal": "Teach someone else what helped your sleep.",
+      "video": {
+        "youtube_id": "Hp4Hm5lfQus",
+        "title": "8 Hours of Sleep and Still Exhausted? Fix It FAST Tonight",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Show them your sleep diary.",
+        "Teach them the wind-down routine.",
+        "Teach them slow breathing in bed.",
+        "Ask them how they slept after trying it."
+      ],
+      "task": "Teach slow breathing to one person.",
+      "challenge": "Show a friend your wind-down routine.",
+      "quiz": [
+        {
+          "q": "Why teach someone else?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "Teaching helps you learn it better",
+            "It makes you tired"
+          ],
+          "answer": 2,
+          "explain": "Teaching locks in your own learning."
+        },
+        {
+          "q": "What is the first thing to teach?",
+          "options": [
+            "A long lecture",
+            "Nothing",
+            "Only pills",
+            "The wind-down routine"
+          ],
+          "answer": 3,
+          "explain": "A wind-down is simple and works fast."
+        },
+        {
+          "q": "Why ask how they slept?",
+          "options": [
+            "So you know if the tips helped",
+            "To show off",
+            "It is rude",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Feedback shows what works."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Review your month",
+      "goal": "Look back at your month of sleep work.",
+      "video": {
+        "youtube_id": "Fvi0owALnoA",
+        "title": "Muscle Recovery Process & Tips",
+        "channel": "Ayan Roy"
+      },
+      "steps": [
+        "Read your sleep diary from weeks 1 to 3.",
+        "List 3 things that helped your sleep most.",
+        "List 1 thing that is still hard.",
+        "Write one fix for the hard thing."
+      ],
+      "task": "List 3 things that helped your sleep most.",
+      "challenge": "Fix one hard thing in your system.",
+      "quiz": [
+        {
+          "q": "Why review your month?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "To see what helped and what needs fixing"
+          ],
+          "answer": 3,
+          "explain": "Reviewing shows real progress."
+        },
+        {
+          "q": "What should you do with a hard thing?",
+          "options": [
+            "Fix it with one small change",
+            "Quit",
+            "Ignore it",
+            "Change everything"
+          ],
+          "answer": 0,
+          "explain": "One small fix keeps the system going."
+        },
+        {
+          "q": "What is a sign your sleep is better?",
+          "options": [
+            "You never wake up",
+            "You wake up feeling rested more often",
+            "You sleep 12 hours",
+            "Nothing changes"
+          ],
+          "answer": 1,
+          "explain": "Waking rested more often means it works."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Keep your sleep for life",
+      "goal": "Make good sleep a habit for life.",
+      "video": {
+        "youtube_id": "cMOUcIbUKFE",
+        "title": "Sleep",
+        "channel": "The Open University"
+      },
+      "steps": [
+        "Keep your sleep times, even on holidays.",
+        "Keep your wind-down routine.",
+        "Keep your bedroom dark, cool and quiet.",
+        "Check your sleep diary once a month."
+      ],
+      "task": "Keep your sleep times this weekend.",
+      "challenge": "Check your sleep diary once this month.",
+      "quiz": [
+        {
+          "q": "How do you keep good sleep for life?",
+          "options": [
+            "Keep your times and routine",
+            "Forget everything",
+            "Sleep when you can",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Steady habits keep sleep good."
+        },
+        {
+          "q": "Why keep times on holidays?",
+          "options": [
+            "It ruins holidays",
+            "It protects your body clock",
+            "It does not matter",
+            "It wastes time"
+          ],
+          "answer": 1,
+          "explain": "Steady times keep the rhythm strong."
+        },
+        {
+          "q": "How often should you check your diary?",
+          "options": [
+            "Every hour",
+            "Never",
+            "Once a month",
+            "Once a year"
+          ],
+          "answer": 2,
+          "explain": "Monthly checks catch problems early."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Sounds that help you sleep",
+      "goal": "Learn which sounds help you sleep.",
+      "video": {
+        "youtube_id": "YCKIONAAFuc",
+        "title": "Sleep Like a Champ",
+        "channel": "US Speedskating"
+      },
+      "steps": [
+        "Try soft rain sounds or calm music.",
+        "Keep the volume low.",
+        "Use a timer to stop the sound after 30 minutes.",
+        "Avoid loud or exciting music.",
+        "Test one sound for 3 nights.",
+        "Keep the sound that works best."
+      ],
+      "task": "Try a sleep sound tonight.",
+      "challenge": "Use the same sound for 3 nights.",
+      "quiz": [
+        {
+          "q": "What kind of sound helps sleep?",
+          "options": [
+            "Loud music",
+            "Soft, calm sounds like rain",
+            "Fast beats",
+            "Shouting"
+          ],
+          "answer": 1,
+          "explain": "Soft calm sounds relax the mind."
+        },
+        {
+          "q": "Why use a timer?",
+          "options": [
+            "It is a rule",
+            "It wastes time",
+            "So the sound stops after you fall asleep",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "A timer saves battery and stops the sound waking you."
+        },
+        {
+          "q": "How many nights should you test a sound?",
+          "options": [
+            "1 night",
+            "1 month",
+            "No nights",
+            "About 3 nights"
+          ],
+          "answer": 3,
+          "explain": "Three nights shows if a sound really helps."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Recover after a hard workout",
+      "goal": "Learn how to recover well after hard exercise.",
+      "video": {
+        "youtube_id": "19cmcJGEBTM",
+        "title": "5 Night Habits for Better Sleep | Simple Wellness Routine for Restful Nights",
+        "channel": "ReyB Health Lab"
+      },
+      "steps": [
+        "Walk slowly for 5 minutes after training.",
+        "Drink water.",
+        "Eat a meal with protein within 2 hours.",
+        "Stretch gently.",
+        "Sleep well that night.",
+        "Take a rest day the next day."
+      ],
+      "task": "Do the recovery steps after your next workout.",
+      "challenge": "Take a full rest day after a hard workout.",
+      "quiz": [
+        {
+          "q": "What should you do right after training?",
+          "options": [
+            "Sit down at once",
+            "Run more",
+            "Walk slowly for 5 minutes",
+            "Skip water"
+          ],
+          "answer": 2,
+          "explain": "A slow walk cools the body down gently."
+        },
+        {
+          "q": "When should you eat after training?",
+          "options": [
+            "The next day",
+            "Never",
+            "Right away, any food",
+            "Within 2 hours"
+          ],
+          "answer": 3,
+          "explain": "Eating within 2 hours helps muscles repair."
+        },
+        {
+          "q": "Why take a rest day?",
+          "options": [
+            "Muscles grow and repair when you rest",
+            "Rest wastes time",
+            "It is not needed",
+            "It makes you weak"
+          ],
+          "answer": 0,
+          "explain": "Rest is when muscles rebuild stronger."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Reset after a bad night",
+      "goal": "Learn what to do after one bad night of sleep.",
+      "video": {
+        "youtube_id": "t0kACis_dJE",
+        "title": "6 tips for better sleep | Sleeping with Science, a TED series",
+        "channel": "TED"
+      },
+      "steps": [
+        "Get up at your normal time.",
+        "Go outside for morning light.",
+        "Drink water and eat a simple breakfast.",
+        "Take a short nap of 20 minutes if you must.",
+        "Avoid caffeine after lunch.",
+        "Go to bed at your normal time."
+      ],
+      "task": "Write your bad-night plan.",
+      "challenge": "Follow the plan after your next bad night.",
+      "quiz": [
+        {
+          "q": "What should you do after a bad night?",
+          "options": [
+            "Sleep all day",
+            "Skip breakfast",
+            "Stay in bed",
+            "Get up at your normal time"
+          ],
+          "answer": 3,
+          "explain": "A normal wake time keeps your body clock steady."
+        },
+        {
+          "q": "How long should a nap be?",
+          "options": [
+            "About 20 minutes",
+            "3 hours",
+            "1 minute",
+            "No nap"
+          ],
+          "answer": 0,
+          "explain": "A 20-minute nap refreshes you without ruining the night."
+        },
+        {
+          "q": "When should you go to bed?",
+          "options": [
+            "Very early",
+            "At your normal time",
+            "Very late",
+            "Never"
+          ],
+          "answer": 1,
+          "explain": "A normal bedtime keeps your sleep pattern steady."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final project.",
+      "video": {
+        "youtube_id": "Enz98dDXQfY",
+        "title": "18-Minute Movement Medicine",
+        "channel": "Yoga With Adriene"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 things you learned about sleep.",
+        "Practise your capstone routine once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 things you learned in this course.",
+      "challenge": "Do your capstone routine from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final project that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new pillow"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own a pillow",
+            "You can follow your sleep system for a week",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "A week of good sleep shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "RTgJSQtvo88",
+        "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+        "channel": "Huberman Lab"
+      },
+      "steps": [
+        "Do your capstone routine one more time.",
+        "Check your sleep system is written down.",
+        "Fix anything that felt hard.",
+        "Rest well tonight."
+      ],
+      "task": "Run your capstone routine tonight.",
+      "challenge": "Fix one hard part of your system.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your pillow",
+            "Your routine, your times and your bedroom",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking your routine makes it smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Stay up all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you do your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: your sleep system",
+      "goal": "Show what you learned: present your sleep system and follow it for a week.",
+      "video": {
+        "youtube_id": "h2aWYjSA1Jc",
+        "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing | Huberman Lab Podcast #84",
+        "channel": "Huberman Lab"
+      },
+      "steps": [
+        "Show your sleep system: times, wind-down, bedroom, morning light.",
+        "Show your sleep diary from the week.",
+        "Explain your system in simple words.",
+        "Write a short report on your month."
+      ],
+      "task": "Present your system, show your diary and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What should your system show?",
+          "options": [
+            "Only a bedtime",
+            "Only a pillow",
+            "Times, wind-down, bedroom and morning light",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "A full system shows real skill."
+        },
+        {
+          "q": "What should your diary show?",
+          "options": [
+            "Nothing",
+            "Only dreams",
+            "Only your weight",
+            "A week of sleep times and ratings"
+          ],
+          "answer": 3,
+          "explain": "A week diary proves the system works."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and what you learned",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your sleep system",
+    "brief": "Present your sleep system, show a week of sleep diary records, explain the system in simple words, and write a short report on your month.",
+    "checks": [
+      "Showed sleep times",
+      "Showed a wind-down routine",
+      "Showed bedroom setup",
+      "Showed morning light habit",
+      "Showed a week of diary records",
+      "Wrote a short report",
+      "Listed one habit to keep"
+    ],
+    "deliverables": [
+      "A written sleep system",
+      "A week of sleep diary records",
+      "A list of sleep tips learned",
+      "A short video or notes from teaching",
+      "A written report"
+    ]
+  }
+}

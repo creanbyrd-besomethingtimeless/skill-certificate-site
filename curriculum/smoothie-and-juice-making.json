@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "smoothie-and-juice-making",
+    "title": "Smoothie and Juice Making",
+    "level": "Beginner",
+    "tagline": "Blend fresh smoothies and juices, and turn it into a small business.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Smoothie Basics: What You Need",
+      "goal": "Know your tools and the parts of a good smoothie.",
+      "video": {
+        "youtube_id": "RTfuY-5vISI",
+        "title": "How to Make a Smoothie",
+        "channel": "Perfect Smoothie"
+      },
+      "steps": [
+        "Find your tools: a blender, a knife, a chopping board, and cups.",
+        "A smoothie has four parts: fruit, liquid, something creamy, and something extra.",
+        "Fruit gives flavour and sweetness. Use ripe fruit.",
+        "Liquid can be water, milk, or yoghurt.",
+        "Something creamy like banana or yoghurt makes it thick and smooth."
+      ],
+      "task": "List your tools and make your first simple smoothie: banana, milk, and honey.",
+      "challenge": "Taste it and write down what you would change.",
+      "quiz": [
+        {
+          "q": "What are the four parts of a smoothie?",
+          "options": [
+            "Fruit, liquid, creamy, extra",
+            "Fruit, sugar, ice, water",
+            "Milk, sugar, fruit, ice",
+            "Banana, milk, honey, sugar"
+          ],
+          "answer": 0,
+          "explain": "Fruit, liquid, something creamy, and something extra make a good smoothie."
+        },
+        {
+          "q": "Why use ripe fruit?",
+          "options": [
+            "It is cheaper",
+            "Ripe fruit is sweeter and softer",
+            "It lasts longer",
+            "It is easier to cut"
+          ],
+          "answer": 1,
+          "explain": "Ripe fruit is sweet and blends smoothly."
+        },
+        {
+          "q": "What makes a smoothie thick?",
+          "options": [
+            "More water",
+            "Banana or yoghurt",
+            "More ice",
+            "More sugar"
+          ],
+          "answer": 1,
+          "explain": "Banana and yoghurt make a smoothie thick and creamy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your First Fruit Smoothie",
+      "goal": "Blend a simple fruit smoothie.",
+      "video": {
+        "youtube_id": "KTG6hiozVPM",
+        "title": "How to Make Fruit Smoothies | Smoothie Recipes",
+        "channel": "Allrecipes"
+      },
+      "steps": [
+        "Pick two fruits: banana and mango work well.",
+        "Peel and chop the fruit into small pieces.",
+        "Add the fruit to the blender with milk or water.",
+        "Blend for 1 minute until smooth. Stop and check.",
+        "Pour into a glass and taste. Add honey if you want it sweeter."
+      ],
+      "task": "Blend a banana and mango smoothie.",
+      "challenge": "Blend a second smoothie with different fruit and compare.",
+      "quiz": [
+        {
+          "q": "Why chop fruit small before blending?",
+          "options": [
+            "It looks nice",
+            "Small pieces blend faster and smoother",
+            "It saves fruit",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Small pieces blend quickly and give a smooth drink."
+        },
+        {
+          "q": "How long should you blend a smoothie?",
+          "options": [
+            "10 seconds",
+            "About 1 minute, until smooth",
+            "5 minutes",
+            "10 minutes"
+          ],
+          "answer": 1,
+          "explain": "About 1 minute is enough for a smooth blend."
+        },
+        {
+          "q": "What can you add if a smoothie is not sweet enough?",
+          "options": [
+            "Salt",
+            "Honey or a ripe banana",
+            "Water",
+            "Ice"
+          ],
+          "answer": 1,
+          "explain": "Honey or ripe banana adds sweetness naturally."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Mango Smoothies: Three Ways",
+      "goal": "Make three different mango smoothies.",
+      "video": {
+        "youtube_id": "lwomIpbEQ1A",
+        "title": "Mango Green Fruit Smoothie",
+        "channel": "A Sweet Pea Chef"
+      },
+      "steps": [
+        "Mango and banana: sweet and creamy.",
+        "Mango and pineapple: fresh and sharp.",
+        "Mango and greens: mango with spinach or kale.",
+        "Taste each one and note the colour, taste, and thickness.",
+        "Pick your favourite and write the recipe down."
+      ],
+      "task": "Make three mango smoothies.",
+      "challenge": "Serve the best one to a friend and ask what they think.",
+      "quiz": [
+        {
+          "q": "What does pineapple add to a mango smoothie?",
+          "options": [
+            "Sweetness only",
+            "A fresh, sharp taste",
+            "Thickness",
+            "Colour only"
+          ],
+          "answer": 1,
+          "explain": "Pineapple adds a fresh, sharp taste that balances the sweet mango."
+        },
+        {
+          "q": "Can you taste spinach in a green smoothie?",
+          "options": [
+            "Yes, a lot",
+            "Barely, if you use enough sweet fruit",
+            "No, never",
+            "Only if it is raw"
+          ],
+          "answer": 1,
+          "explain": "Sweet fruit like mango covers the taste of spinach."
+        },
+        {
+          "q": "Why write down your favourite recipe?",
+          "options": [
+            "To show friends",
+            "So you can make it again the same way",
+            "It is required",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "A written recipe lets you repeat a good smoothie."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Green Smoothies: Healthy and Tasty",
+      "goal": "Make a green smoothie that actually tastes good.",
+      "video": {
+        "youtube_id": "w--WTYJ4yhU",
+        "title": "Mango Green Smoothie",
+        "channel": "UConn Husky Nutrition & Sport"
+      },
+      "steps": [
+        "Green smoothies use leafy greens like spinach or kale.",
+        "Use more fruit than greens: two parts fruit to one part greens.",
+        "Add a banana for sweetness and creaminess.",
+        "Add water or coconut water as the liquid.",
+        "Blend for 1 to 2 minutes until no green bits are left."
+      ],
+      "task": "Make a green smoothie with spinach, banana, and mango.",
+      "challenge": "Make a second one with kale and compare the taste.",
+      "quiz": [
+        {
+          "q": "How much fruit should a green smoothie have?",
+          "options": [
+            "Equal parts",
+            "More fruit than greens, about two to one",
+            "More greens than fruit",
+            "Only greens"
+          ],
+          "answer": 1,
+          "explain": "Two parts fruit to one part greens keeps it sweet and tasty."
+        },
+        {
+          "q": "Why add banana to a green smoothie?",
+          "options": [
+            "For colour",
+            "It adds sweetness and creaminess",
+            "It makes it green",
+            "It is cheaper"
+          ],
+          "answer": 1,
+          "explain": "Banana sweetens the smoothie and makes it thick."
+        },
+        {
+          "q": "How long should you blend a green smoothie?",
+          "options": [
+            "10 seconds",
+            "1 to 2 minutes, until smooth",
+            "5 minutes",
+            "30 seconds"
+          ],
+          "answer": 1,
+          "explain": "Greens need longer blending to disappear fully."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Energy Smoothies: For Busy Days",
+      "goal": "Make smoothies that give you energy.",
+      "video": {
+        "youtube_id": "P138JAWHGaY",
+        "title": "Healthy Green Smoothies",
+        "channel": "Mind Over Munch"
+      },
+      "steps": [
+        "Energy smoothies add oats, peanut butter, or nuts.",
+        "Oats make a smoothie filling, so you stay full longer.",
+        "Peanut butter adds protein and a rich taste.",
+        "Add a banana and milk for a breakfast smoothie.",
+        "Drink it in the morning or before a workout."
+      ],
+      "task": "Make an energy smoothie with oats and peanut butter.",
+      "challenge": "Make a breakfast smoothie and drink it instead of your usual breakfast.",
+      "quiz": [
+        {
+          "q": "What do oats add to a smoothie?",
+          "options": [
+            "Sweetness",
+            "They make it filling so you stay full longer",
+            "Colour",
+            "Thickness only"
+          ],
+          "answer": 1,
+          "explain": "Oats add fibre, which keeps you full for longer."
+        },
+        {
+          "q": "What does peanut butter add?",
+          "options": [
+            "Sweetness",
+            "Protein and a rich taste",
+            "Colour",
+            "Water"
+          ],
+          "answer": 1,
+          "explain": "Peanut butter adds protein and a rich, nutty taste."
+        },
+        {
+          "q": "When is a good time for an energy smoothie?",
+          "options": [
+            "At night",
+            "In the morning or before a workout",
+            "After dinner",
+            "At midnight"
+          ],
+          "answer": 1,
+          "explain": "Energy smoothies are best in the morning or before exercise."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Juice Basics: Fresh Juice at Home",
+      "goal": "Make fresh juice without a juicer.",
+      "video": {
+        "youtube_id": "_iQNUW1ohWI",
+        "title": "3 Healthy Mango Smoothie Recipes",
+        "channel": "Vegetarian Baker"
+      },
+      "steps": [
+        "You can make juice with a blender and a strainer.",
+        "Chop fruit and blend it with a little water.",
+        "Pour through a fine strainer or a clean cloth.",
+        "Press the pulp with a spoon to get all the juice out.",
+        "Drink it fresh. Juice loses vitamins if it sits too long."
+      ],
+      "task": "Make fresh orange or pineapple juice with a blender and strainer.",
+      "challenge": "Make a mixed fruit juice and compare the taste.",
+      "quiz": [
+        {
+          "q": "How do you make juice without a juicer?",
+          "options": [
+            "You cannot",
+            "Blend fruit, then strain it",
+            "Boil the fruit",
+            "Freeze the fruit"
+          ],
+          "answer": 1,
+          "explain": "Blend the fruit with a little water, then strain out the pulp."
+        },
+        {
+          "q": "Why strain the juice?",
+          "options": [
+            "It looks nice",
+            "To remove the pulp and make it smooth",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Straining removes pulp and leaves smooth juice."
+        },
+        {
+          "q": "Why drink juice fresh?",
+          "options": [
+            "It tastes better cold",
+            "Juice loses vitamins if it sits too long",
+            "It goes sour",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Fresh juice has the most vitamins. It drops the longer it sits."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Smoothie Menu",
+      "goal": "Make a menu of three smoothies and serve them.",
+      "video": {
+        "youtube_id": "f1e4BHKgGxc",
+        "title": "Green Mango Smoothie Recipe",
+        "channel": "Jacqui Baihn Nutrition"
+      },
+      "steps": [
+        "Pick three smoothies: a fruit one, a green one, and an energy one.",
+        "Write the recipes with exact amounts.",
+        "Buy all the fruit in one trip.",
+        "Make all three and taste them with your household.",
+        "Pick the best one and name it."
+      ],
+      "task": "Make three smoothies and serve them as a menu.",
+      "challenge": "Ask everyone to vote for their favourite.",
+      "quiz": [
+        {
+          "q": "Why make three different smoothies?",
+          "options": [
+            "It is faster",
+            "It shows your range and lets people choose",
+            "It saves fruit",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A menu with three choices shows your skill and gives people options."
+        },
+        {
+          "q": "Why write recipes with exact amounts?",
+          "options": [
+            "To show off",
+            "So you can make them the same way every time",
+            "It is required",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Exact amounts mean the same great taste every time."
+        },
+        {
+          "q": "Why name your best smoothie?",
+          "options": [
+            "To show off",
+            "A name makes it easy to sell and remember",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A named smoothie is a product you can sell."
+        }
+      ],
+      "project": {
+        "title": "Make a Three-Smoothie Menu",
+        "brief": "Make a fruit smoothie, a green smoothie, and an energy smoothie.",
+        "checks": [
+          "Three different smoothies made",
+          "Recipes written with exact amounts",
+          "Each smoothie smooth, not lumpy",
+          "Each one tasted and compared",
+          "Favourite picked and named",
+          "Feedback collected from tasters"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Cold-Pressed Juice: The Slow Way",
+      "goal": "Make cold-pressed juice and learn why it is special.",
+      "video": {
+        "youtube_id": "ms4WCMjE_H0",
+        "title": "Mango-Kale Smoothie",
+        "channel": "The Traveling Epicurean"
+      },
+      "steps": [
+        "Cold-pressed means juice pressed slowly without heat.",
+        "No heat means more vitamins stay in the juice.",
+        "Use a juicer if you have one, or a blender and strainer.",
+        "Press the fruit slowly. Do not rush it.",
+        "Store in a sealed bottle in the fridge and drink within 2 days."
+      ],
+      "task": "Make a cold-pressed style juice with a blender and strainer.",
+      "challenge": "Make a green power juice with cucumber, apple, and greens.",
+      "quiz": [
+        {
+          "q": "What does cold-pressed mean?",
+          "options": [
+            "Juice made with ice",
+            "Juice pressed slowly without heat",
+            "Juice made in the fridge",
+            "Juice with cold water"
+          ],
+          "answer": 1,
+          "explain": "Cold-pressed juice is pressed slowly without heat."
+        },
+        {
+          "q": "Why is cold-pressed juice special?",
+          "options": [
+            "It is cheaper",
+            "No heat means more vitamins stay in",
+            "It lasts longer",
+            "It is sweeter"
+          ],
+          "answer": 1,
+          "explain": "Heat destroys vitamins. Cold pressing keeps more of them."
+        },
+        {
+          "q": "How long does fresh juice keep in the fridge?",
+          "options": [
+            "1 week",
+            "About 2 days",
+            "1 month",
+            "1 day only"
+          ],
+          "answer": 1,
+          "explain": "Fresh juice is best within 2 days."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Pineapple and Mint Juice",
+      "goal": "Make a fresh pineapple and mint juice.",
+      "video": {
+        "youtube_id": "vQKhA3JMRyw",
+        "title": "Energy Smoothies 101",
+        "channel": "The Traveling Epicurean"
+      },
+      "steps": [
+        "Peel and chop a ripe pineapple.",
+        "Add a small handful of fresh mint leaves.",
+        "Blend with a little water, then strain.",
+        "Taste it. Add a little lime juice for a fresh kick.",
+        "Serve cold over ice."
+      ],
+      "task": "Make pineapple and mint juice.",
+      "challenge": "Make a second batch with ginger and compare.",
+      "quiz": [
+        {
+          "q": "What does mint add to juice?",
+          "options": [
+            "Sweetness",
+            "A cool, fresh taste",
+            "Colour",
+            "Thickness"
+          ],
+          "answer": 1,
+          "explain": "Mint adds a cool, fresh taste."
+        },
+        {
+          "q": "What does lime juice add?",
+          "options": [
+            "Sweetness",
+            "A fresh, sharp kick",
+            "Colour",
+            "Thickness"
+          ],
+          "answer": 1,
+          "explain": "Lime adds a sharp, fresh taste that lifts the juice."
+        },
+        {
+          "q": "Why serve juice over ice?",
+          "options": [
+            "It looks nice",
+            "Cold juice tastes more refreshing",
+            "It saves juice",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Cold juice is more refreshing, especially on a hot day."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Grape Juice and Other Fruit Juices",
+      "goal": "Make grape juice and try other fruits.",
+      "video": {
+        "youtube_id": "FDTyqSLnxhY",
+        "title": "How to Make Cold-Pressed Juice Without a Juicer",
+        "channel": "Hurom"
+      },
+      "steps": [
+        "Wash grapes well and remove the stems.",
+        "Blend with a little water, then strain.",
+        "Taste it. Grapes are sweet, so you may not need sugar.",
+        "Try watermelon juice: blend and strain the same way.",
+        "Try a mixed juice: grape and apple."
+      ],
+      "task": "Make grape juice.",
+      "challenge": "Make watermelon juice and compare.",
+      "quiz": [
+        {
+          "q": "Why wash grapes well?",
+          "options": [
+            "They are dirty",
+            "To remove dirt and chemicals from the skin",
+            "It makes them sweet",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Washing removes dirt and anything sprayed on the fruit."
+        },
+        {
+          "q": "Do you need sugar in grape juice?",
+          "options": [
+            "Yes, always",
+            "Usually not, grapes are sweet",
+            "Only for children",
+            "Only in summer"
+          ],
+          "answer": 1,
+          "explain": "Grapes are naturally sweet, so sugar is often not needed."
+        },
+        {
+          "q": "How do you make watermelon juice?",
+          "options": [
+            "Boil it",
+            "Blend and strain it like other fruit juice",
+            "Freeze it",
+            "Press it by hand"
+          ],
+          "answer": 1,
+          "explain": "Watermelon blends and strains the same way as other fruit."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Smoothie Bowls: Eat Your Smoothie",
+      "goal": "Make a smoothie bowl with toppings.",
+      "video": {
+        "youtube_id": "TK2BFQhRD8I",
+        "title": "Green Power Fusion",
+        "channel": "Hurom"
+      },
+      "steps": [
+        "A smoothie bowl is a thick smoothie served in a bowl.",
+        "Use less liquid and more frozen fruit so it is thick.",
+        "Pour into a bowl.",
+        "Top with sliced fruit, oats, nuts, or seeds.",
+        "Eat with a spoon. It is a meal, not a drink."
+      ],
+      "task": "Make a smoothie bowl.",
+      "challenge": "Make a second bowl with different toppings.",
+      "quiz": [
+        {
+          "q": "What makes a smoothie bowl thick?",
+          "options": [
+            "More water",
+            "Less liquid and more frozen fruit",
+            "More sugar",
+            "More milk"
+          ],
+          "answer": 1,
+          "explain": "Less liquid and frozen fruit make a thick, spoonable smoothie."
+        },
+        {
+          "q": "What goes on top of a smoothie bowl?",
+          "options": [
+            "Nothing",
+            "Sliced fruit, oats, nuts, or seeds",
+            "Only sugar",
+            "Only ice"
+          ],
+          "answer": 1,
+          "explain": "Toppings add crunch, flavour, and make it a full meal."
+        },
+        {
+          "q": "Why eat a smoothie bowl with a spoon?",
+          "options": [
+            "It is fancy",
+            "It is too thick to drink",
+            "It is a rule",
+            "It tastes better"
+          ],
+          "answer": 1,
+          "explain": "A thick smoothie bowl is eaten, not drunk."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Detox and Cleansing Drinks",
+      "goal": "Make light, fresh drinks with cucumber and lemon.",
+      "video": {
+        "youtube_id": "p35bhcCH3mo",
+        "title": "CCA Juice",
+        "channel": "Hurom"
+      },
+      "steps": [
+        "Detox drinks are light drinks with lots of water and fresh ingredients.",
+        "Use cucumber, lemon, mint, and ginger.",
+        "Blend with water and strain, or infuse in water overnight.",
+        "Drink in the morning for a fresh start.",
+        "Keep it simple. No sugar needed."
+      ],
+      "task": "Make a cucumber and lemon drink.",
+      "challenge": "Make a ginger and lemon drink and compare.",
+      "quiz": [
+        {
+          "q": "What is in a detox drink?",
+          "options": [
+            "Sugar and milk",
+            "Cucumber, lemon, mint, and ginger in water",
+            "Only fruit juice",
+            "Tea only"
+          ],
+          "answer": 1,
+          "explain": "Detox drinks use fresh ingredients like cucumber, lemon, and ginger in water."
+        },
+        {
+          "q": "What does ginger add?",
+          "options": [
+            "Sweetness",
+            "A warm, spicy kick",
+            "Colour",
+            "Thickness"
+          ],
+          "answer": 1,
+          "explain": "Ginger adds a warm, spicy taste."
+        },
+        {
+          "q": "Why no sugar in a detox drink?",
+          "options": [
+            "It is expensive",
+            "The drink is meant to be light and fresh",
+            "It is a rule",
+            "It tastes bad"
+          ],
+          "answer": 1,
+          "explain": "Detox drinks are light and fresh, so they skip sugar."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Smoothies for Kids and Families",
+      "goal": "Make smoothies the whole family will love.",
+      "video": {
+        "youtube_id": "RQekW3Il5_Y",
+        "title": "Cold Pressed Grape Juice Recipe",
+        "channel": "Cooker Diary"
+      },
+      "steps": [
+        "Use sweet fruit like banana, mango, and berries.",
+        "Add milk or yoghurt for a creamy taste.",
+        "Let kids pick the fruit and help blend.",
+        "Use fun cups and straws.",
+        "Keep it sweet and simple. No bitter greens for kids."
+      ],
+      "task": "Make a family smoothie and serve it to everyone.",
+      "challenge": "Let a child pick the fruit and make the smoothie with you.",
+      "quiz": [
+        {
+          "q": "What fruit do kids like best in smoothies?",
+          "options": [
+            "Bitter greens",
+            "Sweet fruit like banana and mango",
+            "Sour fruit",
+            "Only apples"
+          ],
+          "answer": 1,
+          "explain": "Sweet fruit like banana and mango are kid favourites."
+        },
+        {
+          "q": "Why let kids help make smoothies?",
+          "options": [
+            "It is faster",
+            "They are more likely to drink what they helped make",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Kids enjoy food more when they helped make it."
+        },
+        {
+          "q": "Why skip bitter greens for kids?",
+          "options": [
+            "They are unhealthy",
+            "Kids often dislike bitter tastes",
+            "They are expensive",
+            "They are hard to blend"
+          ],
+          "answer": 1,
+          "explain": "Bitter greens can put kids off smoothies."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A Juice Bar Menu",
+      "goal": "Make a juice bar menu with smoothies and juices.",
+      "video": {
+        "youtube_id": "e__Efswp8OA",
+        "title": "Pineapple Mint Juice",
+        "channel": "Culinary Creations"
+      },
+      "steps": [
+        "Pick the menu: two smoothies and two juices.",
+        "Write the recipes with exact amounts and costs.",
+        "Buy all the fruit in one trip.",
+        "Make all four drinks and serve them in nice cups.",
+        "Ask tasters to pick a favourite and set a price for each drink."
+      ],
+      "task": "Make a juice bar menu of four drinks.",
+      "challenge": "Price each drink as if you were selling it.",
+      "quiz": [
+        {
+          "q": "Why include both smoothies and juices?",
+          "options": [
+            "It is faster",
+            "It gives customers more choice",
+            "It saves fruit",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A menu with both gives every customer something they like."
+        },
+        {
+          "q": "Why cost each drink?",
+          "options": [
+            "To show off",
+            "So you know what to charge and what you earn",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing tells you the price and the profit on each drink."
+        },
+        {
+          "q": "Why serve drinks in nice cups?",
+          "options": [
+            "It is expensive",
+            "Good cups make drinks look worth buying",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "A nice cup makes a drink look professional and worth the price."
+        }
+      ],
+      "project": {
+        "title": "Make a Juice Bar Menu",
+        "brief": "Make two smoothies and two fresh juices, priced and served.",
+        "checks": [
+          "Four different drinks made",
+          "Recipes written with exact amounts",
+          "Each drink costed and priced",
+          "Drinks served in nice cups",
+          "Tasters picked a favourite",
+          "Feedback collected"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Buying Fruit: Fresh and Cheap",
+      "goal": "Buy fruit well for smoothies and juices.",
+      "video": {
+        "youtube_id": "95GG3F89fL0",
+        "title": "I've Juiced for 31 Years. This Is the Green Juice I Drink Daily",
+        "channel": "John Kohler / Discount Juicers"
+      },
+      "steps": [
+        "Buy fruit in season. It is cheaper and tastes better.",
+        "Buy ripe fruit for today and unripe fruit for later in the week.",
+        "Check for soft spots and mould. Pick firm, heavy fruit.",
+        "Buy from the market in bulk for a lower price.",
+        "Store fruit in a cool place. Freeze overripe fruit for smoothies."
+      ],
+      "task": "Buy fruit for the week and sort it by ripeness.",
+      "challenge": "Freeze overripe bananas for smoothies.",
+      "quiz": [
+        {
+          "q": "Why buy fruit in season?",
+          "options": [
+            "It is bigger",
+            "It is cheaper and tastes better",
+            "It lasts longer",
+            "It is easier to carry"
+          ],
+          "answer": 1,
+          "explain": "Fruit in season is fresh, cheap, and full of flavour."
+        },
+        {
+          "q": "Why buy unripe fruit too?",
+          "options": [
+            "It is cheaper",
+            "It ripens during the week so you always have fruit",
+            "It tastes better",
+            "It is easier to cut"
+          ],
+          "answer": 1,
+          "explain": "Unripe fruit ripens over days, so you have fresh fruit all week."
+        },
+        {
+          "q": "What do you do with overripe bananas?",
+          "options": [
+            "Throw them away",
+            "Freeze them for smoothies",
+            "Cook them",
+            "Give them away"
+          ],
+          "answer": 1,
+          "explain": "Frozen overripe bananas are perfect for smoothies."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Storing Fruit and Juice",
+      "goal": "Store fruit and juice so nothing goes to waste.",
+      "video": {
+        "youtube_id": "RTfuY-5vISI",
+        "title": "How to Make a Smoothie",
+        "channel": "Perfect Smoothie"
+      },
+      "steps": [
+        "Keep ripe fruit in the fridge. Keep unripe fruit on the counter.",
+        "Cut fruit and store it in sealed containers.",
+        "Freeze fruit in bags for smoothies.",
+        "Store juice in sealed bottles in the fridge. Drink within 2 days.",
+        "Label everything with the date."
+      ],
+      "task": "Freeze fruit in bags for the week.",
+      "challenge": "Store a bottle of juice and check it after 2 days.",
+      "quiz": [
+        {
+          "q": "Where do you keep ripe fruit?",
+          "options": [
+            "On the counter",
+            "In the fridge",
+            "In the sun",
+            "In water"
+          ],
+          "answer": 1,
+          "explain": "The fridge slows ripening so ripe fruit lasts longer."
+        },
+        {
+          "q": "How do you store cut fruit?",
+          "options": [
+            "In an open bowl",
+            "In sealed containers",
+            "In water",
+            "In the sun"
+          ],
+          "answer": 1,
+          "explain": "Sealed containers keep cut fruit fresh and stop it drying out."
+        },
+        {
+          "q": "Why label juice with the date?",
+          "options": [
+            "To show off",
+            "So you know when it was made and when to drink it by",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A date tells you if the juice is still fresh."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Costing Smoothies and Juices",
+      "goal": "Work out what each drink costs and what to charge.",
+      "video": {
+        "youtube_id": "KTG6hiozVPM",
+        "title": "How to Make Fruit Smoothies | Smoothie Recipes",
+        "channel": "Allrecipes"
+      },
+      "steps": [
+        "List every ingredient with its price.",
+        "Add the cost of the cup, straw, and packaging.",
+        "Divide the total by the number of drinks you made.",
+        "Charge 2 to 3 times the cost for a profit.",
+        "Compare with juice bars near you."
+      ],
+      "task": "Cost one smoothie and set its selling price.",
+      "challenge": "Cost one juice the same way.",
+      "quiz": [
+        {
+          "q": "What is the cost per drink?",
+          "options": [
+            "The selling price",
+            "Total cost divided by the number of drinks",
+            "The fruit cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Cost per drink is the total cost shared across all the drinks you made."
+        },
+        {
+          "q": "Why charge 2 to 3 times the cost?",
+          "options": [
+            "To be expensive",
+            "To cover cups, packaging, and your time, and still make a profit",
+            "It is a law",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "The extra covers all the costs beyond fruit and leaves profit."
+        },
+        {
+          "q": "What else must you add to the cost?",
+          "options": [
+            "Nothing",
+            "Cups, straws, and packaging",
+            "Only your time",
+            "Only transport"
+          ],
+          "answer": 1,
+          "explain": "Cups, straws, and packaging are real costs of every drink."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Smoothie Business: Your First Stall",
+      "goal": "Plan a small smoothie stall or delivery.",
+      "video": {
+        "youtube_id": "lwomIpbEQ1A",
+        "title": "Mango Green Fruit Smoothie",
+        "channel": "A Sweet Pea Chef"
+      },
+      "steps": [
+        "Pick 3 or 4 drinks to sell. Keep the menu small.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your drinks in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you buy only what you need."
+      ],
+      "task": "Plan your smoothie stall on paper: menu, prices, and costs.",
+      "challenge": "Take photos of your best drinks and show them to three people.",
+      "quiz": [
+        {
+          "q": "Why keep the menu small?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to make well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you buy only what you need and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell drinks."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Smoothies for Weight and Health",
+      "goal": "Make smoothies that are light and healthy.",
+      "video": {
+        "youtube_id": "w--WTYJ4yhU",
+        "title": "Mango Green Smoothie",
+        "channel": "UConn Husky Nutrition & Sport"
+      },
+      "steps": [
+        "Use more vegetables and less sweet fruit.",
+        "Skip sugar and honey. Use whole fruit for sweetness.",
+        "Add protein like yoghurt or nuts to stay full.",
+        "Use water instead of milk to cut calories.",
+        "Drink a smoothie as a meal, not on top of a meal."
+      ],
+      "task": "Make a light green smoothie with no added sugar.",
+      "challenge": "Make a protein smoothie with yoghurt and nuts.",
+      "quiz": [
+        {
+          "q": "How do you make a smoothie lighter?",
+          "options": [
+            "Add more sugar",
+            "Use more vegetables and less sweet fruit",
+            "Add more milk",
+            "Add more honey"
+          ],
+          "answer": 1,
+          "explain": "More vegetables and less sweet fruit make a lighter smoothie."
+        },
+        {
+          "q": "What adds protein to a smoothie?",
+          "options": [
+            "Sugar",
+            "Yoghurt or nuts",
+            "Water",
+            "Ice"
+          ],
+          "answer": 1,
+          "explain": "Yoghurt and nuts add protein, which keeps you full."
+        },
+        {
+          "q": "Why drink a smoothie as a meal?",
+          "options": [
+            "It is faster",
+            "A smoothie has enough in it to count as a meal",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "A full smoothie has fruit, protein, and fibre, so it can replace a meal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Juice Mistakes and Fixes",
+      "goal": "Fix the commonest smoothie and juice problems.",
+      "video": {
+        "youtube_id": "P138JAWHGaY",
+        "title": "Healthy Green Smoothies",
+        "channel": "Mind Over Munch"
+      },
+      "steps": [
+        "Smoothie is too thick? Add a little liquid and blend again.",
+        "Smoothie is too thin? Add more frozen fruit or banana.",
+        "Juice is too sour? Add a sweet fruit like mango or banana.",
+        "Smoothie tastes bitter? You used too many greens. Add more fruit.",
+        "Write down each problem and fix."
+      ],
+      "task": "Fix one smoothie problem you have had.",
+      "challenge": "Make a smoothie, taste it, and adjust it three ways.",
+      "quiz": [
+        {
+          "q": "What do you do if a smoothie is too thick?",
+          "options": [
+            "Add more fruit",
+            "Add a little liquid and blend again",
+            "Add ice",
+            "Throw it away"
+          ],
+          "answer": 1,
+          "explain": "A little liquid thins a thick smoothie."
+        },
+        {
+          "q": "What do you do if a smoothie is too thin?",
+          "options": [
+            "Add water",
+            "Add more frozen fruit or banana",
+            "Add sugar",
+            "Add ice"
+          ],
+          "answer": 1,
+          "explain": "Frozen fruit or banana thickens a thin smoothie."
+        },
+        {
+          "q": "What do you do if juice is too sour?",
+          "options": [
+            "Add salt",
+            "Add a sweet fruit like mango",
+            "Add water",
+            "Add ice"
+          ],
+          "answer": 1,
+          "explain": "Sweet fruit balances sour juice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: A Full Drinks Menu",
+      "goal": "Make a full drinks menu for a small event.",
+      "video": {
+        "youtube_id": "_iQNUW1ohWI",
+        "title": "3 Healthy Mango Smoothie Recipes",
+        "channel": "Vegetarian Baker"
+      },
+      "steps": [
+        "Pick the menu: three smoothies and two juices.",
+        "Write the recipes, costs, and prices.",
+        "Buy all the fruit in one trip.",
+        "Make all five drinks and serve them in nice cups.",
+        "Ask guests to vote for their favourite."
+      ],
+      "task": "Make a full drinks menu for your household or friends.",
+      "challenge": "Cost the whole menu and work out your profit if you sold it.",
+      "quiz": [
+        {
+          "q": "Why make five drinks?",
+          "options": [
+            "It is faster",
+            "A full menu shows your range",
+            "It saves fruit",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Five drinks show you can make a real menu, not just one drink."
+        },
+        {
+          "q": "Why cost the whole menu?",
+          "options": [
+            "To show off",
+            "So you know the profit if you sell it",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Costing the menu tells you if the business can make money."
+        },
+        {
+          "q": "Why ask guests to vote?",
+          "options": [
+            "To show off",
+            "Votes tell you which drinks sell best",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Votes show you which drinks to keep on your menu."
+        }
+      ],
+      "project": {
+        "title": "Make a Full Drinks Menu",
+        "brief": "Make three smoothies and two juices for a small event.",
+        "checks": [
+          "Five different drinks made",
+          "Recipes written with exact amounts",
+          "Each drink costed and priced",
+          "Drinks served in nice cups",
+          "Guests voted for a favourite",
+          "Profit worked out if sold"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Packaging Drinks for Delivery",
+      "goal": "Pack smoothies and juices so they travel well.",
+      "video": {
+        "youtube_id": "f1e4BHKgGxc",
+        "title": "Green Mango Smoothie Recipe",
+        "channel": "Jacqui Baihn Nutrition"
+      },
+      "steps": [
+        "Use clean bottles or cups with tight lids.",
+        "Fill bottles to the top so there is little air inside.",
+        "Label with the drink name, date, and ingredients.",
+        "Keep drinks cold in a cooler bag with ice.",
+        "Tell the customer to drink within 2 days."
+      ],
+      "task": "Pack a smoothie and a juice as if for delivery.",
+      "challenge": "Deliver a drink to someone and ask for feedback.",
+      "quiz": [
+        {
+          "q": "Why fill bottles to the top?",
+          "options": [
+            "It looks nice",
+            "Less air inside keeps juice fresher",
+            "It saves bottles",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Air makes juice spoil faster. A full bottle keeps it fresh."
+        },
+        {
+          "q": "Why keep drinks cold during delivery?",
+          "options": [
+            "They taste better cold",
+            "Cold keeps juice fresh and safe",
+            "It is a rule",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Cold drinks stay fresh and safe during delivery."
+        },
+        {
+          "q": "What should a label say?",
+          "options": [
+            "Only your name",
+            "Drink name, date, and ingredients",
+            "Only the price",
+            "Only the date"
+          ],
+          "answer": 1,
+          "explain": "Labels tell the customer what it is, when it was made, and what is in it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Seasonal Fruits: What to Use When",
+      "goal": "Use the best fruit for each season.",
+      "video": {
+        "youtube_id": "ms4WCMjE_H0",
+        "title": "Mango-Kale Smoothie",
+        "channel": "The Traveling Epicurean"
+      },
+      "steps": [
+        "Mango season: make mango smoothies and juices.",
+        "Pineapple season: make pineapple and mint juice.",
+        "Orange season: make fresh orange juice.",
+        "When fruit is out of season, use frozen fruit.",
+        "Keep a list of what fruit is in season each month."
+      ],
+      "task": "Write a list of fruits in season now and plan three drinks.",
+      "challenge": "Make a smoothie with frozen fruit and compare the taste.",
+      "quiz": [
+        {
+          "q": "Why use fruit in season?",
+          "options": [
+            "It is bigger",
+            "It is cheaper and tastes better",
+            "It lasts longer",
+            "It is easier to carry"
+          ],
+          "answer": 1,
+          "explain": "Fruit in season is fresh, cheap, and full of flavour."
+        },
+        {
+          "q": "What do you do when fruit is out of season?",
+          "options": [
+            "Stop making drinks",
+            "Use frozen fruit",
+            "Use only apples",
+            "Buy expensive fruit"
+          ],
+          "answer": 1,
+          "explain": "Frozen fruit is picked ripe and works well in smoothies."
+        },
+        {
+          "q": "Why keep a seasonal list?",
+          "options": [
+            "To show off",
+            "So you always know the cheapest, tastiest fruit",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A seasonal list helps you plan a menu that makes money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Smoothies for Workouts",
+      "goal": "Make smoothies for before and after workouts.",
+      "video": {
+        "youtube_id": "vQKhA3JMRyw",
+        "title": "Energy Smoothies 101",
+        "channel": "The Traveling Epicurean"
+      },
+      "steps": [
+        "Before a workout: light smoothie with banana and water.",
+        "After a workout: smoothie with protein, like yoghurt or peanut butter.",
+        "Add oats after a workout to replace energy.",
+        "Drink water too. Smoothies do not replace water.",
+        "Keep it simple. Two or three ingredients are enough."
+      ],
+      "task": "Make a pre-workout smoothie.",
+      "challenge": "Make a post-workout smoothie with protein.",
+      "quiz": [
+        {
+          "q": "What is good before a workout?",
+          "options": [
+            "A heavy smoothie",
+            "A light smoothie with banana and water",
+            "A thick smoothie",
+            "A sweet smoothie"
+          ],
+          "answer": 1,
+          "explain": "A light smoothie gives energy without feeling heavy."
+        },
+        {
+          "q": "What is good after a workout?",
+          "options": [
+            "Only water",
+            "A smoothie with protein like yoghurt",
+            "Only fruit",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Protein after a workout helps muscles recover."
+        },
+        {
+          "q": "Do smoothies replace water?",
+          "options": [
+            "Yes",
+            "No, you still need to drink water",
+            "Only in summer",
+            "Only for athletes"
+          ],
+          "answer": 1,
+          "explain": "Smoothies are food. You still need plain water."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Your Signature Smoothie",
+      "goal": "Choose and perfect one smoothie you can make brilliantly.",
+      "video": {
+        "youtube_id": "FDTyqSLnxhY",
+        "title": "How to Make Cold-Pressed Juice Without a Juicer",
+        "channel": "Hurom"
+      },
+      "steps": [
+        "Pick the smoothie your household loves most from this course.",
+        "Write the recipe in your own words with exact amounts.",
+        "Make it again, timing every step and noting problems.",
+        "Fix the problems and make it once more.",
+        "Get someone new to taste it and give honest feedback."
+      ],
+      "task": "Make your signature smoothie and write the final recipe down.",
+      "challenge": "Make it for someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature smoothie?",
+          "options": [
+            "An expensive drink",
+            "A smoothie you can make brilliantly every time",
+            "A smoothie with a fancy name",
+            "A smoothie only you drink"
+          ],
+          "answer": 1,
+          "explain": "A signature smoothie is one you have mastered."
+        },
+        {
+          "q": "Why write the recipe in your own words?",
+          "options": [
+            "To publish it",
+            "So you truly understand it and can repeat it",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Writing it yourself proves you understand each step."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste fruit"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Selling Drinks: First Steps",
+      "goal": "Take your first steps toward selling smoothies and juices.",
+      "video": {
+        "youtube_id": "TK2BFQhRD8I",
+        "title": "Green Power Fusion",
+        "channel": "Hurom"
+      },
+      "steps": [
+        "Pick 3 or 4 drinks to sell. Keep the menu small.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your drinks in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you buy only what you need."
+      ],
+      "task": "Take photos of your best drinks and show them to three people.",
+      "challenge": "Take one real order, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 3 or 4 drinks?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to make well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you buy only what you need and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell drinks."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your drinks business.",
+      "video": {
+        "youtube_id": "p35bhcCH3mo",
+        "title": "CCA Juice",
+        "channel": "Hurom"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which drinks sell best and which do not.",
+        "Keep your money for drinks separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one day of selling.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to make",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for fruit, cups, and packaging."
+        },
+        {
+          "q": "Why keep drinks money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if the business is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Juice and Smoothie Trends",
+      "goal": "Try new drink ideas and see what customers like.",
+      "video": {
+        "youtube_id": "RQekW3Il5_Y",
+        "title": "Cold Pressed Grape Juice Recipe",
+        "channel": "Cooker Diary"
+      },
+      "steps": [
+        "Try a new fruit combination each week.",
+        "Ask customers what flavours they want.",
+        "Try a new topping for smoothie bowls.",
+        "Watch what other juice bars sell and learn from them.",
+        "Keep what works. Drop what does not sell."
+      ],
+      "task": "Try a new fruit combination today.",
+      "challenge": "Ask three people what drink flavour they would like to try.",
+      "quiz": [
+        {
+          "q": "Why try new combinations?",
+          "options": [
+            "To show off",
+            "New flavours keep customers coming back",
+            "It is required",
+            "To waste fruit"
+          ],
+          "answer": 1,
+          "explain": "New flavours give customers a reason to return."
+        },
+        {
+          "q": "Why ask customers what they want?",
+          "options": [
+            "To be polite",
+            "Customers buy what they asked for",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Asking customers tells you what will sell."
+        },
+        {
+          "q": "Why drop drinks that do not sell?",
+          "options": [
+            "To save fruit",
+            "So you do not waste money on fruit nobody wants",
+            "It is a rule",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "A drink that does not sell wastes fruit and money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Drinks Maker's Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "e__Efswp8OA",
+        "title": "Pineapple Mint Juice",
+        "channel": "Culinary Creations"
+      },
+      "steps": [
+        "Make a smoothie from memory, without the recipe.",
+        "Make fresh juice with a blender and strainer.",
+        "Name the four parts of a smoothie.",
+        "Cost one drink from memory.",
+        "List your three strongest drinks and one to improve."
+      ],
+      "task": "Make a full drinks menu from memory, no recipe.",
+      "challenge": "Teach one drink from this course to a friend or family member.",
+      "quiz": [
+        {
+          "q": "What are the four parts of a smoothie?",
+          "options": [
+            "Fruit, sugar, ice, water",
+            "Fruit, liquid, creamy, extra",
+            "Milk, sugar, fruit, ice",
+            "Banana, milk, honey, sugar"
+          ],
+          "answer": 1,
+          "explain": "Fruit, liquid, something creamy, and something extra."
+        },
+        {
+          "q": "Why make drinks from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Making drinks without a recipe shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a drink to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves fruit"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Drinks Menu",
+      "goal": "Plan your capstone drinks menu and gather everything you need.",
+      "video": {
+        "youtube_id": "95GG3F89fL0",
+        "title": "I've Juiced for 31 Years. This Is the Green Juice I Drink Daily",
+        "channel": "John Kohler / Discount Juicers"
+      },
+      "steps": [
+        "Choose your capstone menu: three smoothies and two juices.",
+        "Write the full shopping list with costs.",
+        "Write the making order, starting with what takes longest.",
+        "Check you have every tool and ingredient.",
+        "Do a trial run of the hardest drink if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone drink today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only expensive drinks",
+            "Everything you learned: smoothies, juices, costing, and serving",
+            "Only one drink",
+            "Only juices"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why start with what takes longest?",
+          "options": [
+            "It is harder",
+            "So everything finishes at the same time",
+            "It tastes better",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Long tasks start first so all drinks are ready together."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste fruit",
+            "To find problems before the real menu",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Juice Bar: A Full Menu of Smoothies and Juices",
+    "brief": "Open a small juice bar for a day: serve three smoothies and two fresh juices to your household or customers. Cost every drink, pack them neatly, serve them cold and on time, and collect feedback.",
+    "checks": [
+      "Menu planned with recipes, costs, and prices",
+      "Three smoothies made smooth and tasty",
+      "Two fresh juices made and strained well",
+      "Drinks served cold in nice cups or bottles",
+      "Labels with drink name, date, and ingredients",
+      "Costs worked out and profit known",
+      "Feedback collected from at least one person who drank them"
+    ],
+    "deliverables": [
+      "A photo of your full drinks menu",
+      "Your written menu with recipes, costs, and prices",
+      "Your making order, starting with what takes longest",
+      "Your signature smoothie recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

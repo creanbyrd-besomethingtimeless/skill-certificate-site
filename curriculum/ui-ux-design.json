@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "ui-ux-design",
+    "title": "UI and UX Design",
+    "level": "Beginner",
+    "tagline": "Design apps and websites people enjoy using, from research and wireframes to polished Figma screens.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What UX and UI Mean",
+      "goal": "Understand the difference between UX (how it works) and UI (how it looks).",
+      "video": {
+        "youtube_id": "QJBP2uy8LcU",
+        "title": "Free Figma UX Design UI Essentials Course",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Write down one app you love and one app you find hard to use, and say why for each.",
+        "List three things that make an app easy: clear labels, obvious buttons, fast feedback.",
+        "Open a food delivery app and note the steps from opening it to ordering food.",
+        "Sketch the same flow on paper with boxes and arrows."
+      ],
+      "task": "Pick an app you use daily and write down its three best and three worst moments.",
+      "challenge": "Redesign one confusing screen of an app on paper in five minutes.",
+      "quiz": [
+        {
+          "q": "What is UX design?",
+          "options": [
+            "Making things pretty",
+            "Designing how a product feels and works: easy, clear and useful",
+            "Writing code",
+            "Drawing logos"
+          ],
+          "answer": 1,
+          "explain": "UX is about the experience: can people do what they came to do, easily and without confusion?"
+        },
+        {
+          "q": "What is UI design?",
+          "options": [
+            "Writing code",
+            "Designing what people see and touch: screens, buttons, colours and type",
+            "Testing apps",
+            "Selling apps"
+          ],
+          "answer": 1,
+          "explain": "UI is the visible part: the layout, colours, type and buttons people see and tap."
+        },
+        {
+          "q": "Which comes first, UX or UI?",
+          "options": [
+            "UI",
+            "UX: you work out how it should work before you design how it looks",
+            "They are the same",
+            "Neither"
+          ],
+          "answer": 1,
+          "explain": "First you design the flow and the structure (UX), then you design the look (UI)."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Getting Started with Figma",
+      "goal": "Set up Figma and learn its basic tools.",
+      "video": {
+        "youtube_id": "mT_Jjn8RJdo",
+        "title": "Learn Figma for UI/UX Design",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Create a free Figma account at figma.com.",
+        "Make a new design file and a frame the size of a phone screen.",
+        "Draw a rectangle, a circle and a line with the shape tools.",
+        "Add a text layer, change its size and colour, and move it with the arrow keys."
+      ],
+      "task": "Make a simple welcome screen in Figma with a heading, a short line of text and a button.",
+      "challenge": "Draw five different shapes and change the colour of each one.",
+      "quiz": [
+        {
+          "q": "What is Figma?",
+          "options": [
+            "A coding tool",
+            "A free design tool in the browser for drawing screens, wireframes and prototypes",
+            "A photo app",
+            "A video editor"
+          ],
+          "answer": 1,
+          "explain": "Figma is where designers draw app and website screens, make prototypes and work together."
+        },
+        {
+          "q": "What is a frame in Figma?",
+          "options": [
+            "A picture",
+            "A canvas shaped like a screen or a page that holds your design",
+            "A colour",
+            "A font"
+          ],
+          "answer": 1,
+          "explain": "A frame is the artboard: a phone screen, a desktop page or a card that your design sits on."
+        },
+        {
+          "q": "What are layers?",
+          "options": [
+            "Colours",
+            "The stacked pieces of your design: shapes, text and images, one on top of another",
+            "Pages",
+            "Fonts"
+          ],
+          "answer": 1,
+          "explain": "Every shape, text and image is a layer. Layers stack, and you can select, move and rename each one."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Design Thinking: Empathise",
+      "goal": "Start with the user: learn who they are and what they need.",
+      "video": {
+        "youtube_id": "kbZejnPXyLM",
+        "title": "Free Figma UX Design UI Essentials Course",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Pick a problem to solve, like helping students find cheap food near campus.",
+        "Write down who the users are and what they are trying to do.",
+        "List five questions you would ask a real user about this problem.",
+        "Ask one real person two of your questions and write down their answers."
+      ],
+      "task": "Interview one person about an app they use and write down three frustrations they mention.",
+      "challenge": "Write a one-sentence problem statement for your chosen problem.",
+      "quiz": [
+        {
+          "q": "What is the first step of design thinking?",
+          "options": [
+            "Drawing screens",
+            "Empathise: understand the users and their problem",
+            "Picking colours",
+            "Building the app"
+          ],
+          "answer": 1,
+          "explain": "Design thinking starts with empathy: understanding real users before you draw anything."
+        },
+        {
+          "q": "What is a problem statement?",
+          "options": [
+            "A list of features",
+            "One clear sentence that says who has the problem, what it is and why it matters",
+            "A bug report",
+            "A design file"
+          ],
+          "answer": 1,
+          "explain": "A problem statement focuses the work: who, what problem, and why it matters."
+        },
+        {
+          "q": "Why talk to real users?",
+          "options": [
+            "To waste time",
+            "Because your guesses about users are often wrong",
+            "To sell them something",
+            "To get likes"
+          ],
+          "answer": 1,
+          "explain": "Guessing about users is risky. Talking to them shows you what they really need."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "User Research on a Zero Budget",
+      "goal": "Learn simple research methods that cost nothing.",
+      "video": {
+        "youtube_id": "c9Wg6Cb_YlU",
+        "title": "UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Write five interview questions about your problem, open-ended not yes/no.",
+        "Interview two people and write down what they say in their own words.",
+        "Watch one person use a similar app and note where they pause or get stuck.",
+        "Sort your notes into groups: needs, frustrations and wishes."
+      ],
+      "task": "Interview two people about how they order food and write a short summary of what you learned.",
+      "challenge": "Watch a friend use an app for two minutes and note every moment of confusion.",
+      "quiz": [
+        {
+          "q": "What is an open-ended question?",
+          "options": [
+            "A yes/no question",
+            "A question that lets people answer in their own words, like 'Tell me about the last time you...'",
+            "A trick question",
+            "A multiple choice question"
+          ],
+          "answer": 1,
+          "explain": "Open questions get stories. Yes/no questions get one-word answers that teach you little."
+        },
+        {
+          "q": "Why watch people use an app instead of only asking them?",
+          "options": [
+            "It is faster",
+            "Because people often do things differently from what they say they do",
+            "It is more fun",
+            "It needs no notes"
+          ],
+          "answer": 1,
+          "explain": "Watching shows real behaviour: pauses, wrong taps and workarounds that people forget to mention."
+        },
+        {
+          "q": "What do you do with research notes?",
+          "options": [
+            "Delete them",
+            "Group them into themes so patterns appear",
+            "Frame them",
+            "Ignore them"
+          ],
+          "answer": 1,
+          "explain": "Grouping notes into themes reveals patterns: the same need or frustration mentioned by several people."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Personas",
+      "goal": "Turn research into a persona: a clear picture of one typical user.",
+      "video": {
+        "youtube_id": "HoKD1qIcchQ",
+        "title": "Figma Tutorial for Beginners - Complete Course 2025",
+        "channel": "Average Design Dude"
+      },
+      "steps": [
+        "Pick the most common user from your research notes.",
+        "Give them a name, age, job and a photo (use a placeholder image).",
+        "Write their goals: what are they trying to achieve?",
+        "Write their frustrations: what gets in their way?"
+      ],
+      "task": "Make a one-page persona for your food app with a name, goals and frustrations.",
+      "challenge": "Write a quote in the persona's own words about their main frustration.",
+      "quiz": [
+        {
+          "q": "What is a persona?",
+          "options": [
+            "A real person",
+            "A made-up character built from research that stands for a group of real users",
+            "A logo",
+            "A test user"
+          ],
+          "answer": 1,
+          "explain": "A persona is a realistic character based on research. It keeps the team focused on real users."
+        },
+        {
+          "q": "Why give a persona a name and a photo?",
+          "options": [
+            "To make it pretty",
+            "So the team talks about a real-feeling person instead of 'the user'",
+            "To sell it",
+            "To hide the data"
+          ],
+          "answer": 1,
+          "explain": "A name and face make the persona feel real, so decisions get made for a person, not an abstract idea."
+        },
+        {
+          "q": "What should a persona include?",
+          "options": [
+            "Only a name",
+            "Goals, frustrations, needs and a quote, all based on research",
+            "A list of features",
+            "A colour palette"
+          ],
+          "answer": 1,
+          "explain": "A persona holds what matters for design: what they want, what blocks them, and how they talk about it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "User Journey Mapping",
+      "goal": "Map the steps a user takes and find the painful moments.",
+      "video": {
+        "youtube_id": "B23iWg0koi8",
+        "title": "How To Create UX Personas",
+        "channel": "UX Mastery"
+      },
+      "steps": [
+        "List the steps your persona takes from realising a need to finishing the task.",
+        "For each step, note what they do, think and feel.",
+        "Mark the moments where they feel frustrated or confused.",
+        "Circle the one moment that matters most to fix."
+      ],
+      "task": "Draw a journey map for ordering food: from hungry to food delivered, with feelings at each step.",
+      "challenge": "Find the worst moment in the journey and write one idea to fix it.",
+      "quiz": [
+        {
+          "q": "What is a user journey map?",
+          "options": [
+            "A map of a city",
+            "A drawing of the steps a user takes, with what they do, think and feel at each step",
+            "A list of features",
+            "A design file"
+          ],
+          "answer": 1,
+          "explain": "A journey map shows the whole experience as a timeline, including feelings, so you can see where it breaks."
+        },
+        {
+          "q": "Why note feelings on a journey map?",
+          "options": [
+            "To make it pretty",
+            "Because the worst feelings show you exactly where to improve",
+            "To fill space",
+            "To hide problems"
+          ],
+          "answer": 1,
+          "explain": "Feelings reveal pain points. A step that makes users anxious or angry is a step to fix."
+        },
+        {
+          "q": "What is a pain point?",
+          "options": [
+            "A bug",
+            "A moment in the journey where the user struggles, waits or gets confused",
+            "A feature",
+            "A colour"
+          ],
+          "answer": 1,
+          "explain": "A pain point is a moment of friction. Finding them is the point of the map."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Research and Persona Pack",
+      "goal": "Do real research and turn it into a persona and a journey map.",
+      "video": {
+        "youtube_id": "A2LFJF1SUBg",
+        "title": "Customer Journey Mapping Tutorial",
+        "channel": "Smaply"
+      },
+      "steps": [
+        "Interview at least three people about your chosen problem.",
+        "Write a one-page summary of what you learned.",
+        "Build a persona from the research with goals, frustrations and a quote.",
+        "Draw a journey map and mark the top three pain points."
+      ],
+      "task": "Finish the research pack: summary, persona and journey map.",
+      "challenge": "Share your persona with one person and ask if it feels like a real person.",
+      "quiz": [
+        {
+          "q": "What should research prove?",
+          "options": [
+            "That you are right",
+            "What real users need, in their own words, with evidence",
+            "That the app is good",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Good research gives evidence: quotes and patterns from real users, not your opinions."
+        },
+        {
+          "q": "How many people should you interview for a small project?",
+          "options": [
+            "One",
+            "Three to five is enough to see patterns",
+            "Fifty",
+            "None"
+          ],
+          "answer": 1,
+          "explain": "Three to five interviews usually reveal the main patterns. More helps, but small projects start here."
+        },
+        {
+          "q": "What makes a persona believable?",
+          "options": [
+            "A nice photo",
+            "Details that come from real research, not invention",
+            "A funny name",
+            "Many colours"
+          ],
+          "answer": 1,
+          "explain": "A persona is believable when every detail traces back to something a real user said or did."
+        }
+      ],
+      "project": {
+        "title": "Research and Persona Pack",
+        "brief": "Interview at least three people about a real problem, write a summary of what you learned, build a persona from the research, and draw a journey map with the top three pain points marked.",
+        "checks": [
+          "At least three people were interviewed.",
+          "A one-page summary of the research exists.",
+          "A persona exists with goals, frustrations and a quote.",
+          "A journey map shows the steps with feelings.",
+          "The top three pain points are marked on the map.",
+          "Every persona detail traces back to the research."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Information Architecture",
+      "goal": "Organise content so people can find what they need.",
+      "video": {
+        "youtube_id": "M0I5gdoon6o",
+        "title": "Journey Mapping in UX Design",
+        "channel": "Nielsen Norman Group"
+      },
+      "steps": [
+        "List all the screens your app will need.",
+        "Group them into sections, like Home, Search, Orders and Profile.",
+        "Draw a site map: boxes for screens, lines for how they connect.",
+        "Check that any screen is reachable in three taps or fewer."
+      ],
+      "task": "Draw a site map for your food app with every screen and how they connect.",
+      "challenge": "Ask a friend to find 'my past orders' on your site map and time them.",
+      "quiz": [
+        {
+          "q": "What is information architecture?",
+          "options": [
+            "The colours of an app",
+            "How content and screens are organised so people can find things",
+            "The code structure",
+            "The logo"
+          ],
+          "answer": 1,
+          "explain": "Information architecture is the organisation of an app: what goes where, and how screens connect."
+        },
+        {
+          "q": "What is a site map?",
+          "options": [
+            "A map of a city",
+            "A diagram of all the screens and how they link together",
+            "A list of colours",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A site map shows every screen as a box and the links between them, so you can see the whole structure."
+        },
+        {
+          "q": "Why keep things three taps away?",
+          "options": [
+            "It is a rule of law",
+            "Because people give up when they have to dig deep to find something",
+            "It looks better",
+            "It saves battery"
+          ],
+          "answer": 1,
+          "explain": "The deeper something is buried, the fewer people find it. Keep important things close to the surface."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Wireframes",
+      "goal": "Sketch the structure of screens before you design how they look.",
+      "video": {
+        "youtube_id": "x5OSOCMrOYY",
+        "title": "UI/UX Design Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Sketch your home screen on paper with boxes for images and lines for text.",
+        "Sketch three more screens: search results, item detail and checkout.",
+        "Use simple grey boxes: no colours, no real images, no fancy fonts.",
+        "Show your sketches to one person and ask them what each screen is for."
+      ],
+      "task": "Sketch wireframes for all the main screens of your app on paper.",
+      "challenge": "Redraw the one screen your tester misunderstood.",
+      "quiz": [
+        {
+          "q": "What is a wireframe?",
+          "options": [
+            "A finished design",
+            "A simple sketch of a screen's layout: where things go, without colours or detail",
+            "A kind of code",
+            "A logo"
+          ],
+          "answer": 1,
+          "explain": "A wireframe is a skeleton. It shows the layout and structure so you can test the flow before you polish the look."
+        },
+        {
+          "q": "Why use grey boxes instead of real content?",
+          "options": [
+            "It is faster",
+            "So you focus on layout and flow, not on colours and pictures",
+            "Grey is prettier",
+            "It saves ink"
+          ],
+          "answer": 1,
+          "explain": "Grey boxes keep the focus on structure. Real content distracts from whether the layout works."
+        },
+        {
+          "q": "Why test wireframes with people?",
+          "options": [
+            "To show off",
+            "To catch layout and flow problems while they are cheap to fix",
+            "To get likes",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A paper sketch is cheap to change. Finding a problem now saves hours of redesign later."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Wireframes in Figma",
+      "goal": "Turn paper sketches into clean digital wireframes in Figma.",
+      "video": {
+        "youtube_id": "knjmYezzqIw",
+        "title": "Zero-Budget User Research: 4 Methods for Beginners",
+        "channel": "UX Charan"
+      },
+      "steps": [
+        "Recreate your paper wireframes as frames in Figma.",
+        "Use rectangles for images and lines for text.",
+        "Keep everything grey and use the same spacing everywhere.",
+        "Link the frames together so you can click through the flow."
+      ],
+      "task": "Build digital wireframes for all your app's screens in Figma.",
+      "challenge": "Click through the flow and check every screen connects to the next.",
+      "quiz": [
+        {
+          "q": "Why move wireframes into Figma?",
+          "options": [
+            "Paper is banned",
+            "So you can share them, link them into a flow and change them easily",
+            "It looks better only",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "Digital wireframes are easy to share, link into a clickable flow and update when feedback comes in."
+        },
+        {
+          "q": "What is a low-fidelity wireframe?",
+          "options": [
+            "A bad design",
+            "A simple wireframe with boxes and lines, focused on layout not looks",
+            "A finished screen",
+            "A prototype"
+          ],
+          "answer": 1,
+          "explain": "Low-fidelity means rough and simple. It is for testing structure, not for showing the final look."
+        },
+        {
+          "q": "How do you link wireframes in Figma?",
+          "options": [
+            "With code",
+            "With the prototyping tab: drag from one frame to the next",
+            "With a plugin only",
+            "You cannot"
+          ],
+          "answer": 1,
+          "explain": "Figma's prototyping lets you link frames, so clicking a button in one frame opens the next."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Usability Testing",
+      "goal": "Test your wireframes with real people and learn from what happens.",
+      "video": {
+        "youtube_id": "-sAAa-CCOcg",
+        "title": "Guide to prototyping in Figma",
+        "channel": "Figma"
+      },
+      "steps": [
+        "Write three tasks for a tester, like 'Order a burger for delivery'.",
+        "Ask a tester to do the tasks while thinking out loud.",
+        "Watch and write down where they pause, tap wrong or ask questions.",
+        "Do not help them: watch what they do on their own."
+      ],
+      "task": "Test your wireframes with two people and write down the top five problems.",
+      "challenge": "Fix the worst problem and test again with one person.",
+      "quiz": [
+        {
+          "q": "What is usability testing?",
+          "options": [
+            "Asking people if they like the design",
+            "Watching real people try real tasks and noting where they struggle",
+            "Checking the colours",
+            "Testing the code"
+          ],
+          "answer": 1,
+          "explain": "Usability testing watches people do tasks. Where they struggle shows you what to fix."
+        },
+        {
+          "q": "Why ask testers to think out loud?",
+          "options": [
+            "It is fun",
+            "So you hear what they expect and where they get confused",
+            "To make them nervous",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Thinking aloud reveals what the tester expects and where the design breaks that expectation."
+        },
+        {
+          "q": "Why not help the tester?",
+          "options": [
+            "It is rude",
+            "Because helping hides the problems you need to find",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "If you help, you will never see the struggle. The struggle is the data."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Colour and Typography",
+      "goal": "Choose colours and fonts that are clear, readable and on-brand.",
+      "video": {
+        "youtube_id": "-d6zNGeF59M",
+        "title": "Figma Prototyping Transitions Tutorial",
+        "channel": "Dan Olsavsky"
+      },
+      "steps": [
+        "Pick three colours for your app: a main colour, a second colour and a neutral.",
+        "Check the contrast between text and background is strong enough to read.",
+        "Pick one font for headings and one for body text.",
+        "Set text sizes: big for headings, medium for body, small for captions."
+      ],
+      "task": "Build a colour and type style guide for your app in Figma.",
+      "challenge": "Test your colours on a phone screen in sunlight: can you still read them?",
+      "quiz": [
+        {
+          "q": "Why limit yourself to three colours?",
+          "options": [
+            "It is a rule of law",
+            "So the app looks calm and consistent instead of messy",
+            "It saves money",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "A small palette keeps the design consistent. Too many colours make an app look noisy and random."
+        },
+        {
+          "q": "What is contrast?",
+          "options": [
+            "A colour",
+            "The difference in brightness between text and its background",
+            "A font size",
+            "A shape"
+          ],
+          "answer": 1,
+          "explain": "Contrast is how much text stands out from its background. Low contrast text is hard to read."
+        },
+        {
+          "q": "Why use two fonts at most?",
+          "options": [
+            "It is cheaper",
+            "So the design feels consistent and the fonts do not fight each other",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "One font for headings and one for body text gives variety without chaos."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Visual Design Principles",
+      "goal": "Use spacing, alignment and hierarchy to make screens look clean.",
+      "video": {
+        "youtube_id": "QJBP2uy8LcU",
+        "title": "Free Figma UX Design UI Essentials Course",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Use the same spacing between elements everywhere on a screen.",
+        "Align everything to a grid: left edges line up.",
+        "Make the most important thing biggest and boldest.",
+        "Use white space to separate groups of related items."
+      ],
+      "task": "Redesign one of your wireframes with proper spacing, alignment and hierarchy.",
+      "challenge": "Compare your old and new versions and note three improvements.",
+      "quiz": [
+        {
+          "q": "What is visual hierarchy?",
+          "options": [
+            "A kind of chart",
+            "Arranging elements so the eye sees the most important thing first",
+            "A colour scheme",
+            "A font"
+          ],
+          "answer": 1,
+          "explain": "Hierarchy uses size, weight and position to guide the eye to what matters most first."
+        },
+        {
+          "q": "Why does alignment matter?",
+          "options": [
+            "It is a rule",
+            "Because lined-up edges make a design feel calm and professional",
+            "It saves space",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Aligned elements feel organised. Random edges feel messy, even if people cannot say why."
+        },
+        {
+          "q": "What is white space?",
+          "options": [
+            "Empty space with no colour",
+            "The space between elements that separates groups and lets the design breathe",
+            "A kind of background",
+            "A mistake"
+          ],
+          "answer": 1,
+          "explain": "White space is not wasted space. It separates groups and makes screens easier to scan."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Wireframes and Test Results",
+      "goal": "Turn your research into wireframes and test them with real people.",
+      "video": {
+        "youtube_id": "mT_Jjn8RJdo",
+        "title": "Learn Figma for UI/UX Design",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Build digital wireframes in Figma for all your app's main screens.",
+        "Link them into a clickable flow.",
+        "Test the flow with three people using real tasks.",
+        "Write a short report: the five biggest problems and how you fixed them."
+      ],
+      "task": "Finish the wireframes, the flow and the test report.",
+      "challenge": "Fix the top three problems found in testing.",
+      "quiz": [
+        {
+          "q": "What should a test report include?",
+          "options": [
+            "Your opinions",
+            "The tasks, what happened, the problems found and the fixes",
+            "The colours",
+            "The code"
+          ],
+          "answer": 1,
+          "explain": "A test report records what testers did, where they struggled, and what you changed because of it."
+        },
+        {
+          "q": "How many testers do you need for wireframes?",
+          "options": [
+            "Fifty",
+            "Three to five usually finds the main problems",
+            "One",
+            "None"
+          ],
+          "answer": 1,
+          "explain": "Three to five testers find most big problems. More testers find the same problems again."
+        },
+        {
+          "q": "What do you do with a problem you cannot fix yet?",
+          "options": [
+            "Ignore it",
+            "Write it down and note it for the next round",
+            "Delete the screen",
+            "Blame the tester"
+          ],
+          "answer": 1,
+          "explain": "Write it down. A known problem you plan to fix is better than a forgotten one."
+        }
+      ],
+      "project": {
+        "title": "Wireframes and Test Results",
+        "brief": "Build digital wireframes in Figma for all your app's main screens, link them into a clickable flow, test the flow with three people using real tasks, and write a short report with the five biggest problems and your fixes.",
+        "checks": [
+          "Digital wireframes exist for all main screens.",
+          "The wireframes link into a clickable flow.",
+          "Three people tested the flow with real tasks.",
+          "A report lists the five biggest problems.",
+          "The top three problems are fixed.",
+          "The report explains what changed and why."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "High-Fidelity Design in Figma",
+      "goal": "Turn wireframes into polished screens with real colours, images and text.",
+      "video": {
+        "youtube_id": "kbZejnPXyLM",
+        "title": "Free Figma UX Design UI Essentials Course",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Replace grey boxes with real images and real text.",
+        "Apply your colour palette and fonts to every screen.",
+        "Use components for repeated parts like buttons and cards.",
+        "Check spacing and alignment on every screen."
+      ],
+      "task": "Turn your home screen wireframe into a polished high-fidelity design.",
+      "challenge": "Make a component for your main button and reuse it on three screens.",
+      "quiz": [
+        {
+          "q": "What is high-fidelity design?",
+          "options": [
+            "A rough sketch",
+            "A polished design that looks like the real app, with real colours, images and text",
+            "A prototype",
+            "A wireframe"
+          ],
+          "answer": 1,
+          "explain": "High-fidelity means it looks like the finished product. It is what you show to stakeholders and developers."
+        },
+        {
+          "q": "What is a component in Figma?",
+          "options": [
+            "A kind of file",
+            "A reusable design piece, like a button, that you can use on many screens and update in one place",
+            "A colour",
+            "A page"
+          ],
+          "answer": 1,
+          "explain": "Components are reusable pieces. Change the master component and every copy updates."
+        },
+        {
+          "q": "Why use components?",
+          "options": [
+            "They look better",
+            "So repeated parts stay identical and you can change them all at once",
+            "They are faster",
+            "They save space"
+          ],
+          "answer": 1,
+          "explain": "Components keep buttons, cards and headers consistent across every screen."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Design Systems and Components",
+      "goal": "Build a small design system: buttons, inputs, cards and colours in one place.",
+      "video": {
+        "youtube_id": "c9Wg6Cb_YlU",
+        "title": "UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Make a Figma page called 'Design System'.",
+        "Add your colours as styles and your fonts as text styles.",
+        "Build components for a button, an input field and a card.",
+        "Use only these components on your screens."
+      ],
+      "task": "Build a design system page with colours, text styles and three components.",
+      "challenge": "Redesign one screen using only your design system components.",
+      "quiz": [
+        {
+          "q": "What is a design system?",
+          "options": [
+            "A kind of app",
+            "A shared set of colours, fonts and components that keeps a product consistent",
+            "A database",
+            "A style guide only"
+          ],
+          "answer": 1,
+          "explain": "A design system is the single source of truth for how a product looks and behaves."
+        },
+        {
+          "q": "What are styles in Figma?",
+          "options": [
+            "Colours only",
+            "Saved colours and text settings you can apply anywhere and update in one place",
+            "Fonts only",
+            "Images"
+          ],
+          "answer": 1,
+          "explain": "Styles save a colour or text setting. Change the style once and every use updates."
+        },
+        {
+          "q": "Why does a design system save time?",
+          "options": [
+            "It is faster to draw",
+            "Because you reuse pieces instead of redrawing them on every screen",
+            "It uses less memory",
+            "It hides mistakes"
+          ],
+          "answer": 1,
+          "explain": "Reuse beats redrawing. A design system means you build once and use everywhere."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Prototyping in Figma",
+      "goal": "Make your designs clickable so people can feel the real flow.",
+      "video": {
+        "youtube_id": "HoKD1qIcchQ",
+        "title": "Figma Tutorial for Beginners - Complete Course 2025",
+        "channel": "Average Design Dude"
+      },
+      "steps": [
+        "Link your screens with the prototyping tab.",
+        "Set the transition for each link, like a slide or a fade.",
+        "Add a tap interaction to your main button.",
+        "Play the prototype and click through the whole flow."
+      ],
+      "task": "Build a clickable prototype of your app with at least five screens.",
+      "challenge": "Share the prototype link with one person and ask them to try it.",
+      "quiz": [
+        {
+          "q": "What is a prototype?",
+          "options": [
+            "A finished app",
+            "A clickable model of your design that feels like the real app",
+            "A wireframe",
+            "A code file"
+          ],
+          "answer": 1,
+          "explain": "A prototype links your screens so people can tap through the flow like a real app, without any code."
+        },
+        {
+          "q": "What is a transition?",
+          "options": [
+            "A colour change",
+            "The animation between two screens, like a slide or a fade",
+            "A new screen",
+            "A button"
+          ],
+          "answer": 1,
+          "explain": "Transitions animate the move from one screen to the next, which makes the prototype feel real."
+        },
+        {
+          "q": "Why prototype before building?",
+          "options": [
+            "To show off",
+            "To test the flow and catch problems before developers build it",
+            "To waste time",
+            "To get likes"
+          ],
+          "answer": 1,
+          "explain": "A prototype lets you test the experience cheaply. Fixing a prototype is fast; fixing a built app is slow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Micro-interactions and Animation",
+      "goal": "Add small animations that make the app feel alive.",
+      "video": {
+        "youtube_id": "B23iWg0koi8",
+        "title": "How To Create UX Personas",
+        "channel": "UX Mastery"
+      },
+      "steps": [
+        "Add a button that changes colour when pressed.",
+        "Animate a card that grows slightly when tapped.",
+        "Add a loading spinner for a screen that waits for data.",
+        "Keep animations short: under half a second."
+      ],
+      "task": "Add three micro-interactions to your prototype: a button press, a card tap and a loading state.",
+      "challenge": "Ask one person if the animations help or distract them.",
+      "quiz": [
+        {
+          "q": "What is a micro-interaction?",
+          "options": [
+            "A big animation",
+            "A small animation that responds to one action, like a button press or a like",
+            "A loading screen",
+            "A video"
+          ],
+          "answer": 1,
+          "explain": "Micro-interactions are tiny animations that confirm an action happened, like a heart filling when you tap like."
+        },
+        {
+          "q": "Why keep animations short?",
+          "options": [
+            "To save battery",
+            "Because long animations feel slow and annoy users",
+            "To hide them",
+            "To make them prettier"
+          ],
+          "answer": 1,
+          "explain": "Animations under half a second feel instant. Longer ones feel like waiting."
+        },
+        {
+          "q": "What should an animation communicate?",
+          "options": [
+            "Nothing",
+            "That something happened and what changed",
+            "The brand only",
+            "A joke"
+          ],
+          "answer": 1,
+          "explain": "Good animation shows cause and effect: you tapped, and this is what changed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Accessibility in Design",
+      "goal": "Design so everyone can use your app, including people with disabilities.",
+      "video": {
+        "youtube_id": "A2LFJF1SUBg",
+        "title": "Customer Journey Mapping Tutorial",
+        "channel": "Smaply"
+      },
+      "steps": [
+        "Check that all text has strong contrast against its background.",
+        "Make touch targets at least 44 pixels so they are easy to tap.",
+        "Do not use colour alone to show meaning: add text or an icon too.",
+        "Test your screens in greyscale to check they still make sense."
+      ],
+      "task": "Fix the accessibility issues in your designs: contrast, touch targets and colour-only meaning.",
+      "challenge": "Check your app with a screen reader in mind: does every image have a label?",
+      "quiz": [
+        {
+          "q": "What is accessibility in design?",
+          "options": [
+            "Making apps pretty",
+            "Designing so people with disabilities can use the product too",
+            "Making apps faster",
+            "Making apps for phones only"
+          ],
+          "answer": 1,
+          "explain": "Accessibility means people using screen readers, keyboards or other tools can still use your app fully."
+        },
+        {
+          "q": "Why not use colour alone to show meaning?",
+          "options": [
+            "It is prettier",
+            "Because colour-blind users cannot tell red from green, so they miss the meaning",
+            "It is slower",
+            "It uses more ink"
+          ],
+          "answer": 1,
+          "explain": "Colour alone fails for colour-blind users. Add text or an icon so the meaning is clear to everyone."
+        },
+        {
+          "q": "What is a touch target?",
+          "options": [
+            "A kind of button",
+            "The area you tap to activate something. It should be big enough to hit easily",
+            "A screen",
+            "A colour"
+          ],
+          "answer": 1,
+          "explain": "Touch targets should be at least 44 pixels, so fingers of all sizes can tap them without missing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Design Handoff to Developers",
+      "goal": "Prepare your designs so developers can build them exactly.",
+      "video": {
+        "youtube_id": "M0I5gdoon6o",
+        "title": "Journey Mapping in UX Design",
+        "channel": "Nielsen Norman Group"
+      },
+      "steps": [
+        "Name every layer clearly in Figma.",
+        "Add notes on spacing, colours and behaviour for each screen.",
+        "Export the images and icons developers will need.",
+        "Share the Figma file with a developer and walk them through it."
+      ],
+      "task": "Prepare your app file for handoff: named layers, notes and exported assets.",
+      "challenge": "Ask a developer (or a friend) if they can build one screen from your file alone.",
+      "quiz": [
+        {
+          "q": "What is design handoff?",
+          "options": [
+            "Giving up",
+            "Sharing your finished designs with developers, with the details they need to build them",
+            "Deleting the file",
+            "Selling the design"
+          ],
+          "answer": 1,
+          "explain": "Handoff is when you give developers your designs plus specs: sizes, colours, spacing and behaviour."
+        },
+        {
+          "q": "Why name layers clearly?",
+          "options": [
+            "It looks tidy",
+            "So developers can find things and understand what each piece is",
+            "It is faster",
+            "It saves space"
+          ],
+          "answer": 1,
+          "explain": "Clear layer names like 'primary-button' tell developers what a piece is, instead of 'Rectangle 47'."
+        },
+        {
+          "q": "What should handoff notes include?",
+          "options": [
+            "Your opinions",
+            "Spacing, colours, fonts, behaviour and what happens on tap or error",
+            "The code",
+            "Nothing"
+          ],
+          "answer": 1,
+          "explain": "Handoff notes answer the questions developers will ask: sizes, colours, and what happens in each state."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Polished App Design and Prototype",
+      "goal": "Turn your wireframes into a polished, clickable app design.",
+      "video": {
+        "youtube_id": "x5OSOCMrOYY",
+        "title": "UI/UX Design Full Course 2026",
+        "channel": "Simplilearn"
+      },
+      "steps": [
+        "Design high-fidelity screens for all your app's main flows.",
+        "Build a design system with colours, text styles and components.",
+        "Link the screens into a clickable prototype.",
+        "Test the prototype with three people and fix the top problems."
+      ],
+      "task": "Finish the polished design and prototype, and test it with three people.",
+      "challenge": "Fix the top three problems found in testing.",
+      "quiz": [
+        {
+          "q": "What makes a design polished?",
+          "options": [
+            "Many colours",
+            "Consistent colours, fonts, spacing and components on every screen",
+            "Big images",
+            "Many screens"
+          ],
+          "answer": 1,
+          "explain": "Polish comes from consistency: the same colours, fonts and spacing everywhere."
+        },
+        {
+          "q": "Why test the polished prototype again?",
+          "options": [
+            "To show off",
+            "Because new problems appear when the design is real and detailed",
+            "To waste time",
+            "To get likes"
+          ],
+          "answer": 1,
+          "explain": "Polished screens reveal new issues: text that is too small, images that distract, or flows that feel long."
+        },
+        {
+          "q": "What should you do with test feedback?",
+          "options": [
+            "Ignore it",
+            "Fix the biggest problems first, then retest",
+            "Delete the design",
+            "Blame the tester"
+          ],
+          "answer": 1,
+          "explain": "Fix the biggest problems first. Small polish can wait until the big issues are solved."
+        }
+      ],
+      "project": {
+        "title": "Polished App Design and Prototype",
+        "brief": "Turn your wireframes into high-fidelity screens with a design system, link them into a clickable prototype, test it with three people, and fix the top problems.",
+        "checks": [
+          "High-fidelity screens exist for all main flows.",
+          "A design system page has colours, text styles and components.",
+          "The screens link into a clickable prototype.",
+          "Three people tested the prototype.",
+          "The top three problems found are fixed.",
+          "The design is consistent across every screen."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Portfolio and Case Study",
+      "goal": "Turn your project into a case study that shows how you think.",
+      "video": {
+        "youtube_id": "knjmYezzqIw",
+        "title": "Zero-Budget User Research: 4 Methods for Beginners",
+        "channel": "UX Charan"
+      },
+      "steps": [
+        "Write the story: the problem, your research, your design and the results.",
+        "Show your persona, journey map and wireframes.",
+        "Show before and after screens with the test findings.",
+        "End with what you learned and what you would do next."
+      ],
+      "task": "Write a one-page case study of your app project.",
+      "challenge": "Share it with one person and ask if they understand your process.",
+      "quiz": [
+        {
+          "q": "What is a design case study?",
+          "options": [
+            "A list of tools",
+            "A story of a project: the problem, the process, the design and what you learned",
+            "A CV",
+            "A screenshot"
+          ],
+          "answer": 1,
+          "explain": "A case study shows how you think, not just what you made. Employers read it to see your process."
+        },
+        {
+          "q": "What should a case study show?",
+          "options": [
+            "Only final screens",
+            "Research, wireframes, tests and final screens, with reasons for each decision",
+            "Only colours",
+            "Only the code"
+          ],
+          "answer": 1,
+          "explain": "A case study shows the journey: research, ideas, tests and results, with the reasons behind each choice."
+        },
+        {
+          "q": "Why include what you learned?",
+          "options": [
+            "To fill space",
+            "Because it shows growth and honesty, which employers value",
+            "To hide mistakes",
+            "To make it longer"
+          ],
+          "answer": 1,
+          "explain": "Saying what you learned and what you would do next shows you can reflect and improve."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Design Critique and Feedback",
+      "goal": "Give and receive design feedback that makes the work better.",
+      "video": {
+        "youtube_id": "-sAAa-CCOcg",
+        "title": "Guide to prototyping in Figma",
+        "channel": "Figma"
+      },
+      "steps": [
+        "Share your design with two people and ask for specific feedback.",
+        "Ask 'What is confusing?' instead of 'Do you like it?'.",
+        "Write down every piece of feedback before replying to any of it.",
+        "Pick the feedback that matches your research and act on it."
+      ],
+      "task": "Get feedback on your app design from two people and fix the top three issues.",
+      "challenge": "Give feedback on someone else's design using the same questions.",
+      "quiz": [
+        {
+          "q": "What is a design critique?",
+          "options": [
+            "Saying what you like",
+            "A structured look at a design to find what works and what to improve",
+            "An argument",
+            "A test"
+          ],
+          "answer": 1,
+          "explain": "A critique examines a design against its goals and gives specific, useful feedback."
+        },
+        {
+          "q": "Why ask 'What is confusing?' instead of 'Do you like it?'?",
+          "options": [
+            "It is politer",
+            "Because 'like' gives no useful detail, while confusion points at real problems",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "'Do you like it' gets opinions. 'What is confusing' gets problems you can fix."
+        },
+        {
+          "q": "What should you do with feedback you disagree with?",
+          "options": [
+            "Ignore it",
+            "Ask why, check it against your research, then decide",
+            "Argue",
+            "Delete the design"
+          ],
+          "answer": 1,
+          "explain": "Feedback you disagree with may still hold a truth. Check it against your research before you dismiss it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Presenting Your Design",
+      "goal": "Present your work clearly to people who are not designers.",
+      "video": {
+        "youtube_id": "-d6zNGeF59M",
+        "title": "Figma Prototyping Transitions Tutorial",
+        "channel": "Dan Olsavsky"
+      },
+      "steps": [
+        "Write a five-minute talk: the problem, the users, your design and the results.",
+        "Pick your three best screens and explain each in one sentence.",
+        "Practise the talk out loud twice.",
+        "Prepare for two questions people might ask and write your answers."
+      ],
+      "task": "Write and practise a five-minute presentation of your app design.",
+      "challenge": "Present it to one person and note their questions.",
+      "quiz": [
+        {
+          "q": "What should a design presentation include?",
+          "options": [
+            "All your screens",
+            "The problem, the users, the design, the test results and what you learned",
+            "Only the final screens",
+            "The code"
+          ],
+          "answer": 1,
+          "explain": "A good presentation tells the story: the problem, who it is for, what you made, and whether it worked."
+        },
+        {
+          "q": "Why practise presenting?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you understand it and reveals gaps",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "Presenting tests your understanding. If you cannot explain a decision simply, you do not fully understand it yet."
+        },
+        {
+          "q": "How should you handle a question you cannot answer?",
+          "options": [
+            "Guess",
+            "Say you do not know and offer to check",
+            "Ignore it",
+            "Change the subject"
+          ],
+          "answer": 1,
+          "explain": "Saying 'I don't know, I'll check' is honest and builds trust. Guessing destroys it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Designing for Mobile vs Desktop",
+      "goal": "Design for small phone screens and big desktop screens, not just one.",
+      "video": {
+        "youtube_id": "QJBP2uy8LcU",
+        "title": "Free Figma UX Design UI Essentials Course",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Take your app's home screen and sketch it for a phone and for a desktop.",
+        "On mobile, stack things vertically and make buttons thumb-friendly.",
+        "On desktop, use the wider space for side-by-side content.",
+        "Check that nothing important is hidden on the smaller screen."
+      ],
+      "task": "Make a desktop version of your app's home screen in Figma.",
+      "challenge": "List three things that change between your mobile and desktop layouts.",
+      "quiz": [
+        {
+          "q": "Why design for both mobile and desktop?",
+          "options": [
+            "It is a rule",
+            "Because people use both, and each screen size needs its own layout",
+            "It looks better",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "A phone layout on a desktop wastes space. A desktop layout on a phone is unreadable. Each needs its own design."
+        },
+        {
+          "q": "What changes most on a small screen?",
+          "options": [
+            "The colours",
+            "The layout: things stack vertically and menus hide behind a button",
+            "The font",
+            "The logo"
+          ],
+          "answer": 1,
+          "explain": "Small screens stack content in one column and hide navigation behind a menu button."
+        },
+        {
+          "q": "What is responsive design?",
+          "options": [
+            "One design for all screens",
+            "A design that adapts its layout to the screen size",
+            "A design for phones only",
+            "A kind of animation"
+          ],
+          "answer": 1,
+          "explain": "Responsive design rearranges the same content to fit any screen, from phone to desktop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Content Design: Writing for Screens",
+      "goal": "Write clear words for buttons, labels and messages.",
+      "video": {
+        "youtube_id": "mT_Jjn8RJdo",
+        "title": "Learn Figma for UI/UX Design",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Rewrite three button labels so they say exactly what happens, like 'Place order'.",
+        "Write an error message that says what went wrong and what to do next.",
+        "Cut a long paragraph on one screen down to two short sentences.",
+        "Use plain words: 'buy' instead of 'purchase', 'help' instead of 'assistance'."
+      ],
+      "task": "Rewrite all the text on your app's checkout screen in plain, short words.",
+      "challenge": "Write an empty-state message for when a user has no orders yet.",
+      "quiz": [
+        {
+          "q": "Why do button labels matter?",
+          "options": [
+            "They look nice",
+            "Because the label tells the user exactly what will happen when they tap",
+            "They save space",
+            "They are required"
+          ],
+          "answer": 1,
+          "explain": "A clear label like 'Place order' sets the right expectation. A vague label like 'Submit' does not."
+        },
+        {
+          "q": "What makes a good error message?",
+          "options": [
+            "Big red text",
+            "It says what went wrong in plain words and what to do next",
+            "A code number",
+            "Nothing at all"
+          ],
+          "answer": 1,
+          "explain": "A good error message explains the problem and the fix, so the user can carry on."
+        },
+        {
+          "q": "Why use plain words?",
+          "options": [
+            "It is trendy",
+            "Because users scan fast and plain words are understood instantly",
+            "It is shorter always",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Plain words are read and understood in seconds. Fancy words slow people down and cause mistakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Designing Empty States and Errors",
+      "goal": "Design the screens people see when there is nothing to show or something goes wrong.",
+      "video": {
+        "youtube_id": "kbZejnPXyLM",
+        "title": "Free Figma UX Design UI Essentials Course",
+        "channel": "Bring Your Own Laptop"
+      },
+      "steps": [
+        "Design an empty state for a list with no items: a friendly message and a button to add one.",
+        "Design an error screen for when the internet is off.",
+        "Design a loading state with a spinner and a short message.",
+        "Check that every screen in your app has a plan for empty, error and loading."
+      ],
+      "task": "Design empty, error and loading states for your app's main list screen.",
+      "challenge": "Write the words for each state in plain, friendly language.",
+      "quiz": [
+        {
+          "q": "What is an empty state?",
+          "options": [
+            "A blank screen",
+            "A screen that shows when there is nothing to display yet, with a message and a next step",
+            "An error",
+            "A loading screen"
+          ],
+          "answer": 1,
+          "explain": "An empty state appears when a list is empty. It should explain why and show what to do next."
+        },
+        {
+          "q": "Why design error states?",
+          "options": [
+            "To look pretty",
+            "Because errors happen, and a good error screen helps users recover instead of giving up",
+            "To hide errors",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Errors are part of the experience. A clear error screen with a fix keeps users from leaving."
+        },
+        {
+          "q": "What should a loading state show?",
+          "options": [
+            "Nothing",
+            "That something is happening and roughly how long it will take",
+            "An error",
+            "A blank page"
+          ],
+          "answer": 1,
+          "explain": "A loading state reassures users that the app is working, so they wait instead of tapping again."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Motion and Transitions in Prototypes",
+      "goal": "Use movement in your prototype to show how screens connect.",
+      "video": {
+        "youtube_id": "c9Wg6Cb_YlU",
+        "title": "UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Add a slide transition when moving to the next screen.",
+        "Add a fade for a pop-up or a dialog.",
+        "Use Smart Animate in Figma to move an element smoothly between two frames.",
+        "Keep every transition under half a second."
+      ],
+      "task": "Add Smart Animate to one flow in your prototype so a card grows into its detail screen.",
+      "challenge": "Ask one person if the movement helps them follow the flow.",
+      "quiz": [
+        {
+          "q": "What is Smart Animate?",
+          "options": [
+            "A kind of video",
+            "A Figma feature that animates matching elements between two frames",
+            "A plugin",
+            "A loading spinner"
+          ],
+          "answer": 1,
+          "explain": "Smart Animate finds the same element on two frames and moves it smoothly between them."
+        },
+        {
+          "q": "Why animate transitions?",
+          "options": [
+            "To look fancy",
+            "To show users where things came from and where they went",
+            "To hide loading",
+            "To use more battery"
+          ],
+          "answer": 1,
+          "explain": "Movement shows the relationship between screens: this card became this detail page."
+        },
+        {
+          "q": "When is animation too much?",
+          "options": [
+            "Never",
+            "When it is slow, distracting or happens on every single tap",
+            "When it is short",
+            "When it is smooth"
+          ],
+          "answer": 1,
+          "explain": "Animation should guide, not distract. If users notice the animation more than the content, it is too much."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Usability Heuristics: 10 Rules to Check Your Design",
+      "goal": "Check your design against ten proven usability rules.",
+      "video": {
+        "youtube_id": "HoKD1qIcchQ",
+        "title": "Figma Tutorial for Beginners - Complete Course 2025",
+        "channel": "Average Design Dude"
+      },
+      "steps": [
+        "Read the ten usability heuristics by Jakob Nielsen.",
+        "Check your app against each one and write down where it breaks a rule.",
+        "Fix the two worst breaks you found.",
+        "Use the heuristics as a checklist for every new screen you design."
+      ],
+      "task": "Run a heuristics check on your app and write down the three biggest issues.",
+      "challenge": "Fix the biggest issue and note how the screen improved.",
+      "quiz": [
+        {
+          "q": "What are usability heuristics?",
+          "options": [
+            "A kind of test",
+            "Ten general rules for good design, like 'show system status' and 'prevent errors'",
+            "A design tool",
+            "A colour palette"
+          ],
+          "answer": 1,
+          "explain": "Heuristics are proven rules of thumb. Checking your design against them catches common problems."
+        },
+        {
+          "q": "What does 'visibility of system status' mean?",
+          "options": [
+            "The app is visible",
+            "The app always shows what it is doing, like a loading spinner or a success message",
+            "The app is bright",
+            "The app has many screens"
+          ],
+          "answer": 1,
+          "explain": "Users should always know what is happening. A spinner, a progress bar or a confirmation tells them."
+        },
+        {
+          "q": "What does 'error prevention' mean?",
+          "options": [
+            "Hiding errors",
+            "Designing so mistakes are hard to make, like confirming before deleting",
+            "Showing errors nicely",
+            "Deleting errors"
+          ],
+          "answer": 1,
+          "explain": "The best error message is one the user never sees. Good design prevents the mistake in the first place."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Design Project",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "B23iWg0koi8",
+        "title": "How To Create UX Personas",
+        "channel": "UX Mastery"
+      },
+      "steps": [
+        "List the projects you did and pick the strongest one to finish.",
+        "Write a short plan: the problem, the users, the screens and the prototype.",
+        "Practise explaining your design in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your prototype."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your design.",
+      "challenge": "Show your prototype to one person and note their questions, then improve it.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone design?",
+          "options": [
+            "Many screens",
+            "A real problem, real research, a tested prototype and a clear case study",
+            "Loud colours",
+            "Many files"
+          ],
+          "answer": 1,
+          "explain": "A good capstone solves a real problem with research, a tested prototype and a story that shows your thinking."
+        },
+        {
+          "q": "Why practise explaining your design?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your design in simple words, you really understand it. That is what employers look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the screens",
+            "The problem, the users, the screens, the prototype and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the problem, the users, the screens and prototype, and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Design a Complete App: Research to Prototype",
+    "brief": "Pick a real problem and design a complete app for it: research real users, build a persona and journey map, wireframe and test the flow, then design polished screens with a design system and a clickable prototype. Present it as a case study with a live prototype link.",
+    "checks": [
+      "The design solves a real problem and you can explain the problem in one sentence.",
+      "At least three real users were interviewed and the research is documented.",
+      "A persona and journey map are based on the research.",
+      "Wireframes were tested with real people and the results are documented.",
+      "High-fidelity screens use a consistent design system.",
+      "A clickable prototype covers the main flows.",
+      "You can present the case study in under five minutes in simple words."
+    ],
+    "deliverables": [
+      "A research pack: interview notes, persona and journey map.",
+      "Wireframes and a test report.",
+      "High-fidelity screens and a design system in Figma.",
+      "A clickable prototype link.",
+      "A one-page case study of the project."
+    ]
+  }
+}

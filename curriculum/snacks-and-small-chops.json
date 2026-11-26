@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "snacks-and-small-chops",
+    "title": "Snacks and Small Chops",
+    "level": "Beginner",
+    "tagline": "Make samosas, spring rolls, puff puff and small chops for parties and sales.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What Are Small Chops?",
+      "goal": "Know what small chops are and why people love them.",
+      "video": {
+        "youtube_id": "ak3u7P7mEDI",
+        "title": "Learn Small Chops (Complete Package in 14 mins): Samosa, Spring Roll, and Puff Puff",
+        "channel": "Small Chops Kitchen"
+      },
+      "steps": [
+        "Small chops are small snacks served at parties and events.",
+        "Common ones: samosa, spring roll, puff puff, meat pie, and gizdodo.",
+        "They are bite-size, so guests can eat them while standing and talking.",
+        "They are fried or baked, and served hot or warm.",
+        "Good small chops are crisp outside and tasty inside."
+      ],
+      "task": "List five small chops you know.",
+      "challenge": "Taste a small chop and note what makes it good.",
+      "quiz": [
+        {
+          "q": "What are small chops?",
+          "options": [
+            "A main meal",
+            "Small snacks served at parties",
+            "A soup",
+            "A drink"
+          ],
+          "answer": 1,
+          "explain": "Small chops are bite-size snacks served at events."
+        },
+        {
+          "q": "Why are small chops bite-size?",
+          "options": [
+            "They are cheaper",
+            "So guests can eat them while standing and talking",
+            "They cook faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Bite-size snacks are easy to eat at a party."
+        },
+        {
+          "q": "What makes a good small chop?",
+          "options": [
+            "Big size",
+            "Crisp outside and tasty inside",
+            "Lots of oil",
+            "Sweet only"
+          ],
+          "answer": 1,
+          "explain": "A good small chop is crisp outside and tasty inside."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Puff Puff: The Party Favourite",
+      "goal": "Make puff puff, the sweet fried dough balls.",
+      "video": {
+        "youtube_id": "k6uHJ4kCjOw",
+        "title": "Nigerian Puff Puff Recipe: How to Make Puff Puff",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, salt, and warm water into a thick batter.",
+        "Cover and leave for 1 hour until it rises and bubbles.",
+        "Heat oil in a deep pot. Test with a drop of batter: it should rise at once.",
+        "Drop spoonfuls of batter into the oil. Turn them until golden all over.",
+        "Drain on paper and serve warm."
+      ],
+      "task": "Make a batch of puff puff.",
+      "challenge": "Try a second batch with a little nutmeg and compare.",
+      "quiz": [
+        {
+          "q": "How thick should puff puff batter be?",
+          "options": [
+            "Like water",
+            "Thick, so it holds its shape on a spoon",
+            "Like bread dough",
+            "Very runny"
+          ],
+          "answer": 1,
+          "explain": "Thick batter holds its shape and fries into round balls."
+        },
+        {
+          "q": "How do you know the oil is hot enough?",
+          "options": [
+            "It smokes",
+            "A drop of batter rises at once",
+            "It is quiet",
+            "It turns dark"
+          ],
+          "answer": 1,
+          "explain": "Batter that rises at once means the oil is ready."
+        },
+        {
+          "q": "Why turn puff puff while frying?",
+          "options": [
+            "To make it round",
+            "So it browns evenly all over",
+            "To cool it",
+            "To add flavour"
+          ],
+          "answer": 1,
+          "explain": "Turning gives an even golden colour on all sides."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Samosa: Fold It Right",
+      "goal": "Make samosas with a tasty filling.",
+      "video": {
+        "youtube_id": "Ag6Wc5M7yh4",
+        "title": "You'll Never Need Another Puff Puff Recipe Again | Street Snacks Ep. 17",
+        "channel": "Blessings Cooking TV"
+      },
+      "steps": [
+        "Make the filling: fry minced meat with onion, carrot, and peas.",
+        "Season well and let the filling cool.",
+        "Cut pastry sheets into strips.",
+        "Fold each strip into a triangle pocket. Fill and seal the edge with water.",
+        "Fry in hot oil until golden and crisp."
+      ],
+      "task": "Make a batch of samosas.",
+      "challenge": "Make a second batch with a vegetable filling.",
+      "quiz": [
+        {
+          "q": "Why must samosa filling be cool?",
+          "options": [
+            "It tastes better",
+            "Hot filling makes the pastry soggy",
+            "It is faster",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Hot filling softens the pastry before it fries."
+        },
+        {
+          "q": "How do you seal a samosa?",
+          "options": [
+            "With glue",
+            "With water on the edge",
+            "With a pin",
+            "With oil"
+          ],
+          "answer": 1,
+          "explain": "A little water on the edge sticks the pastry closed."
+        },
+        {
+          "q": "Why fold samosas into triangles?",
+          "options": [
+            "It looks nice",
+            "Triangles hold filling well and fry evenly",
+            "It saves pastry",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A triangle pocket holds the filling and fries crisp."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Spring Rolls: Crisp and Light",
+      "goal": "Make spring rolls from scratch.",
+      "video": {
+        "youtube_id": "eMftXrp7ZS4",
+        "title": "Puff Puff (West African Doughnuts)",
+        "channel": "Lets Eat The World"
+      },
+      "steps": [
+        "Make the filling: fry vegetables and a little meat with seasoning.",
+        "Let the filling cool. Wet filling makes rolls soggy.",
+        "Place filling on a wrapper. Fold the sides in, then roll tightly.",
+        "Seal the edge with a little water or flour paste.",
+        "Fry in hot oil until golden and crisp."
+      ],
+      "task": "Make a batch of spring rolls.",
+      "challenge": "Make the wrappers from scratch if you have time.",
+      "quiz": [
+        {
+          "q": "Why must spring roll filling be cool?",
+          "options": [
+            "It tastes better",
+            "Wet, hot filling makes rolls soggy",
+            "It is faster",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Cool, dry filling keeps rolls crisp."
+        },
+        {
+          "q": "Why roll spring rolls tightly?",
+          "options": [
+            "It looks nice",
+            "So they do not open in the oil",
+            "It saves wrappers",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A loose roll opens in hot oil and the filling spills out."
+        },
+        {
+          "q": "What seals a spring roll?",
+          "options": [
+            "Glue",
+            "Water or flour paste on the edge",
+            "A pin",
+            "Oil"
+          ],
+          "answer": 1,
+          "explain": "Water or flour paste sticks the edge closed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Meat Pie: Flaky and Tasty",
+      "goal": "Make Nigerian meat pie.",
+      "video": {
+        "youtube_id": "Q-64YOS3rss",
+        "title": "10 Minutes Snack! Easy Flaky Meat Pie with Puff Pastry",
+        "channel": "Snack Recipes"
+      },
+      "steps": [
+        "Make the filling: fry minced meat with onion, carrot, and potato.",
+        "Season well and let the filling cool.",
+        "Make pastry: rub butter into flour until it looks like crumbs.",
+        "Add cold water a little at a time until it forms a dough.",
+        "Roll out, cut circles, fill, fold, seal, and bake until golden."
+      ],
+      "task": "Bake a batch of meat pies.",
+      "challenge": "Make a second batch with chicken filling.",
+      "quiz": [
+        {
+          "q": "Why must meat pie filling be cool?",
+          "options": [
+            "It tastes better",
+            "Hot filling melts the pastry",
+            "It is faster",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Hot filling melts the butter in the pastry and makes it soggy."
+        },
+        {
+          "q": "What does rubbing butter into flour do?",
+          "options": [
+            "Makes it sweet",
+            "It makes the pastry flaky",
+            "Makes it rise",
+            "Makes it brown"
+          ],
+          "answer": 1,
+          "explain": "Butter mixed into flour in crumbs makes a flaky crust."
+        },
+        {
+          "q": "Why use cold water for pastry?",
+          "options": [
+            "It is cleaner",
+            "Cold water keeps the butter solid so the pastry stays flaky",
+            "It is faster",
+            "It tastes better"
+          ],
+          "answer": 1,
+          "explain": "Warm water melts the butter and ruins the flaky layers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Gizdodo: Plantain and Gizzard",
+      "goal": "Make gizdodo, the party favourite.",
+      "video": {
+        "youtube_id": "53mTwZsYpjY",
+        "title": "Crispy Samosa & Spring Rolls Recipe (Using the Same Wrap)",
+        "channel": "Samosa Kitchen"
+      },
+      "steps": [
+        "Boil gizzard with onion and seasoning until tender.",
+        "Cut gizzard into small pieces and fry until crisp.",
+        "Fry ripe plantain cubes until golden.",
+        "Fry a pepper mix until the oil separates.",
+        "Mix plantain, gizzard, and pepper together. Serve hot."
+      ],
+      "task": "Make gizdodo.",
+      "challenge": "Serve it on sticks as a party snack.",
+      "quiz": [
+        {
+          "q": "What is gizdodo?",
+          "options": [
+            "A soup",
+            "Fried plantain and gizzard mixed in pepper sauce",
+            "A rice dish",
+            "A drink"
+          ],
+          "answer": 1,
+          "explain": "Gizdodo is fried plantain and gizzard tossed in pepper sauce."
+        },
+        {
+          "q": "Why boil gizzard before frying?",
+          "options": [
+            "It is faster",
+            "Gizzard is tough and needs boiling to soften",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Gizzard is tough. Boiling softens it before frying."
+        },
+        {
+          "q": "Why fry plantain separately?",
+          "options": [
+            "It is faster",
+            "So each part cooks well before mixing",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Plantain and gizzard cook at different speeds, so fry them apart."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Project: A Small Chops Platter",
+      "goal": "Make a platter with four small chops.",
+      "video": {
+        "youtube_id": "B5HdAw_Y0TU",
+        "title": "How to Make Spring Rolls from Scratch",
+        "channel": "NaijaGlamWedding"
+      },
+      "steps": [
+        "Pick four chops: puff puff, samosa, spring roll, and meat pie.",
+        "Write a shopping list and costs.",
+        "Make fillings first and let them cool.",
+        "Fry and bake in order: longest first.",
+        "Arrange on a platter and serve to your household."
+      ],
+      "task": "Make a platter with four small chops.",
+      "challenge": "Ask everyone which chop they liked best.",
+      "quiz": [
+        {
+          "q": "Why make fillings first?",
+          "options": [
+            "It is harder",
+            "They need time to cool before they go into pastry",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Fillings must be cool, or they make pastry soggy."
+        },
+        {
+          "q": "What order do you fry and bake in?",
+          "options": [
+            "Any order",
+            "Longest first, so all finish together",
+            "Shortest first",
+            "Sweetest first"
+          ],
+          "answer": 1,
+          "explain": "Start with what takes longest so all chops are ready together."
+        },
+        {
+          "q": "Why arrange chops on a platter?",
+          "options": [
+            "It looks nice",
+            "A neat platter looks professional and inviting",
+            "It saves space",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A neat platter makes small chops look worth buying."
+        }
+      ],
+      "project": {
+        "title": "Make a Small Chops Platter",
+        "brief": "Make puff puff, samosa, spring roll, and meat pie on one platter.",
+        "checks": [
+          "Four different small chops made",
+          "Fillings made and cooled first",
+          "Each chop golden and crisp",
+          "Platter arranged neatly",
+          "Served hot or warm",
+          "Feedback collected from tasters"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Puff Pastry Snacks: Quick and Flaky",
+      "goal": "Make quick snacks with puff pastry.",
+      "video": {
+        "youtube_id": "kUaGj-IwUtA",
+        "title": "How to Make Vegetable Spring Rolls Filling and Wrappers",
+        "channel": "NaijaGlamWedding"
+      },
+      "steps": [
+        "Buy ready-made puff pastry or make a simple version.",
+        "Keep it cold. Warm pastry sticks and will not puff.",
+        "Cut into squares. Add minced meat or cheese.",
+        "Fold and press the edges with a fork to seal.",
+        "Bake at 200°C until puffed up and golden."
+      ],
+      "task": "Make puff pastry meat snacks.",
+      "challenge": "Make a sweet version with jam and compare.",
+      "quiz": [
+        {
+          "q": "Why must puff pastry stay cold?",
+          "options": [
+            "It tastes better",
+            "Warm pastry sticks and will not puff up",
+            "It is easier to cut",
+            "It saves time"
+          ],
+          "answer": 1,
+          "explain": "Cold butter in the pastry turns to steam and lifts the layers."
+        },
+        {
+          "q": "What makes puff pastry rise?",
+          "options": [
+            "Yeast",
+            "Steam from the butter layers",
+            "Sugar",
+            "Eggs"
+          ],
+          "answer": 1,
+          "explain": "Butter between the layers turns to steam and pushes them apart."
+        },
+        {
+          "q": "Why seal edges with a fork?",
+          "options": [
+            "It looks nice",
+            "So the filling does not leak out",
+            "To make it flat",
+            "To cook it faster"
+          ],
+          "answer": 1,
+          "explain": "Sealed edges keep the filling inside while it bakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Peppered Chicken and Fish",
+      "goal": "Make peppered chicken and fish for parties.",
+      "video": {
+        "youtube_id": "GHd6nOe-yP4",
+        "title": "Dodo Gizzard / Gizdodo Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Grill or fry your protein first until cooked.",
+        "Fry a thick pepper mix with onion until the oil separates.",
+        "Add the protein and toss so every piece is coated.",
+        "Cook on low for 5 minutes so the pepper sticks.",
+        "Serve hot as small chops."
+      ],
+      "task": "Make peppered chicken.",
+      "challenge": "Make peppered fish and note how the time differs.",
+      "quiz": [
+        {
+          "q": "Why cook the protein first?",
+          "options": [
+            "It is faster",
+            "So the pepper coats cooked meat instead of stewing raw meat",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Pre-cooked protein takes the pepper sauce without overcooking."
+        },
+        {
+          "q": "What makes a pepper mix thick enough to coat?",
+          "options": [
+            "More water",
+            "Frying it down until most water is gone",
+            "More oil",
+            "More salt"
+          ],
+          "answer": 1,
+          "explain": "A well-fried, thick pepper mix clings to meat."
+        },
+        {
+          "q": "What is peppered meat often served as?",
+          "options": [
+            "A main course only",
+            "Small chops at parties",
+            "A soup",
+            "A breakfast"
+          ],
+          "answer": 1,
+          "explain": "Peppered chicken and fish are classic party small chops."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Doughnuts: Sweet Party Snacks",
+      "goal": "Make doughnuts for parties.",
+      "video": {
+        "youtube_id": "U6GzHb8qhYE",
+        "title": "How to Make Dodo Gizzard on Stick",
+        "channel": "Eggcellent Recipes"
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, milk, butter, and egg into a soft dough.",
+        "Let it rise for 1 hour. Roll out and cut rings.",
+        "Let the rings rise again for 30 minutes.",
+        "Fry in hot oil for 1 minute each side until golden.",
+        "Dip in a simple glaze of icing sugar and milk."
+      ],
+      "task": "Make a batch of doughnuts.",
+      "challenge": "Try a second batch with a chocolate glaze.",
+      "quiz": [
+        {
+          "q": "Why let doughnut rings rise a second time?",
+          "options": [
+            "To make them bigger",
+            "A second rise makes them light and fluffy",
+            "To cool them",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "The second rise fills the rings with air so they fry up light."
+        },
+        {
+          "q": "How long do doughnuts fry?",
+          "options": [
+            "10 minutes",
+            "About 1 minute each side",
+            "5 minutes",
+            "30 seconds only"
+          ],
+          "answer": 1,
+          "explain": "Doughnuts are small and fry fast, about 1 minute per side."
+        },
+        {
+          "q": "What is a simple glaze?",
+          "options": [
+            "Icing sugar mixed with a little milk",
+            "Melted butter",
+            "Honey only",
+            "Jam"
+          ],
+          "answer": 0,
+          "explain": "Icing sugar and a little milk make a simple sweet glaze."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Buns and Small Breads",
+      "goal": "Make small buns for parties.",
+      "video": {
+        "youtube_id": "3fC_7mDiLY4",
+        "title": "How to Make Flaky Nigerian Meatpie",
+        "channel": "Nigerian Kitchen"
+      },
+      "steps": [
+        "Mix flour, yeast, sugar, milk, and butter into a soft dough.",
+        "Knead for 10 minutes until smooth.",
+        "Let it rise for 1 hour until doubled.",
+        "Shape into small balls and bake at 180°C until golden.",
+        "Brush with butter while warm."
+      ],
+      "task": "Bake a batch of small buns.",
+      "challenge": "Fill half the buns with jam before baking.",
+      "quiz": [
+        {
+          "q": "Why knead bun dough?",
+          "options": [
+            "To make it soft",
+            "To build stretch so the buns rise well",
+            "To warm it",
+            "To remove air"
+          ],
+          "answer": 1,
+          "explain": "Kneading builds stretch in the dough so buns rise and hold shape."
+        },
+        {
+          "q": "Why brush buns with butter after baking?",
+          "options": [
+            "To cool them",
+            "It adds shine and flavour",
+            "To make them last longer only",
+            "To stop them rising"
+          ],
+          "answer": 1,
+          "explain": "Butter on warm buns adds shine and a rich taste."
+        },
+        {
+          "q": "How long do buns rise?",
+          "options": [
+            "10 minutes",
+            "About 1 hour, until doubled",
+            "5 minutes",
+            "1 day"
+          ],
+          "answer": 1,
+          "explain": "Buns rise for about 1 hour until doubled in size."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Sausage Rolls and Mini Pies",
+      "goal": "Make sausage rolls and mini pies.",
+      "video": {
+        "youtube_id": "xil1hx_GXGU",
+        "title": "How to Make Nigerian Meatpie Like a Pro",
+        "channel": "Nigerian Kitchen"
+      },
+      "steps": [
+        "Wrap sausage meat in pastry and cut into small rolls.",
+        "For mini pies, use the meat pie method but smaller.",
+        "Brush the tops with beaten egg for a golden finish.",
+        "Bake at 200°C until golden and crisp.",
+        "Cool slightly before serving."
+      ],
+      "task": "Make a batch of sausage rolls.",
+      "challenge": "Make a batch of mini pies.",
+      "quiz": [
+        {
+          "q": "Why brush pastry with egg?",
+          "options": [
+            "It tastes better",
+            "It gives a golden, shiny finish",
+            "It makes it rise",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Beaten egg on pastry turns golden and shiny in the oven."
+        },
+        {
+          "q": "Why cut sausage rolls small?",
+          "options": [
+            "They cook faster",
+            "Small rolls are party size",
+            "They taste better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Small rolls are the right size for party snacks."
+        },
+        {
+          "q": "Why cool slightly before serving?",
+          "options": [
+            "It tastes better",
+            "Hot filling can burn mouths",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Fresh-baked filling is very hot. A short rest makes it safe to eat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Frying Skills: Oil, Heat, and Safety",
+      "goal": "Fry small chops safely and well.",
+      "video": {
+        "youtube_id": "Kd6CnzV6RJ8",
+        "title": "Quarantine Cooking: African Doughnuts",
+        "channel": "The Daily Evergreen"
+      },
+      "steps": [
+        "Use a deep pot with enough oil to cover the food.",
+        "Heat oil until a drop of batter rises at once.",
+        "Do not crowd the pot. Fry in batches.",
+        "Turn food so it browns evenly.",
+        "Drain on paper. Never leave hot oil alone."
+      ],
+      "task": "Fry a batch of small chops using safe frying steps.",
+      "challenge": "Fry a second batch without crowding and compare.",
+      "quiz": [
+        {
+          "q": "How do you know oil is hot enough?",
+          "options": [
+            "It smokes",
+            "A drop of batter rises at once",
+            "It is quiet",
+            "It turns dark"
+          ],
+          "answer": 1,
+          "explain": "Batter that rises at once means the oil is ready."
+        },
+        {
+          "q": "Why not crowd the pot?",
+          "options": [
+            "It uses more oil",
+            "The oil cools down and food goes soggy",
+            "It takes longer to turn",
+            "The pot breaks"
+          ],
+          "answer": 1,
+          "explain": "Crowding drops the oil temperature, so food goes soggy."
+        },
+        {
+          "q": "Why never leave hot oil alone?",
+          "options": [
+            "It wastes gas",
+            "Hot oil can catch fire",
+            "It cools down",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Hot oil left alone can overheat and catch fire."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Project: A Party Box",
+      "goal": "Make a party box with six small chops.",
+      "video": {
+        "youtube_id": "f-3hL12hE_E",
+        "title": "Puff Pastry and Minced Meat Appetizer with a Trick That Few People Know!",
+        "channel": "Puff Pastry Kitchen"
+      },
+      "steps": [
+        "Pick six chops: puff puff, samosa, spring roll, meat pie, gizdodo, and doughnut.",
+        "Write a shopping list and costs.",
+        "Make fillings first and let them cool.",
+        "Fry and bake in order, longest first.",
+        "Pack the box neatly and price it."
+      ],
+      "task": "Make a party box with six small chops.",
+      "challenge": "Price the box as if you were selling it.",
+      "quiz": [
+        {
+          "q": "Why pick six chops?",
+          "options": [
+            "It is fancy",
+            "Variety makes a party box exciting",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Six different chops give guests lots of choice."
+        },
+        {
+          "q": "Why make fillings first?",
+          "options": [
+            "It is harder",
+            "They need time to cool",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Fillings must be cool, or they make pastry soggy."
+        },
+        {
+          "q": "Why price the box?",
+          "options": [
+            "To show off",
+            "It teaches you the real cost of your work",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Pricing turns cooking into a business skill."
+        }
+      ],
+      "project": {
+        "title": "Make a Party Box",
+        "brief": "Make six different small chops and pack them as one party box.",
+        "checks": [
+          "Six different small chops made",
+          "Fillings made and cooled first",
+          "Each chop golden and crisp",
+          "Box packed neatly",
+          "Box priced as if for sale",
+          "Feedback collected from tasters"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Costing Small Chops",
+      "goal": "Work out what small chops cost and what to charge.",
+      "video": {
+        "youtube_id": "_b1xqfnpCgc",
+        "title": "Minced Meat Puff Pastry So Tasty That Everyone Will Ask for the Recipe!",
+        "channel": "Puff Pastry Kitchen"
+      },
+      "steps": [
+        "List every ingredient with its price.",
+        "Add gas, oil, and packaging costs.",
+        "Divide the total by the number of pieces you made.",
+        "Charge 2 to 3 times the cost per piece for a profit.",
+        "Compare with small chops sellers near you."
+      ],
+      "task": "Cost a batch of puff puff and set a price per piece.",
+      "challenge": "Cost a batch of samosas the same way.",
+      "quiz": [
+        {
+          "q": "What is the cost per piece?",
+          "options": [
+            "The selling price",
+            "Total cost divided by the number of pieces",
+            "The gas cost",
+            "The profit"
+          ],
+          "answer": 1,
+          "explain": "Cost per piece is the total cost shared across all the pieces you made."
+        },
+        {
+          "q": "Why charge 2 to 3 times the cost?",
+          "options": [
+            "To be expensive",
+            "To cover gas, oil, packaging, and your time, and still make a profit",
+            "It is a law",
+            "To impress buyers"
+          ],
+          "answer": 1,
+          "explain": "The extra covers all the costs beyond ingredients and leaves profit."
+        },
+        {
+          "q": "What else must you add to the cost?",
+          "options": [
+            "Nothing",
+            "Gas, oil, and packaging",
+            "Only your time",
+            "Only transport"
+          ],
+          "answer": 1,
+          "explain": "Gas, oil, and packaging are real costs of every chop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Packing Small Chops for Delivery",
+      "goal": "Pack small chops so they stay crisp.",
+      "video": {
+        "youtube_id": "FlK7DITflzg",
+        "title": "I Stopped Rolling Dough — Now I Bake Dinner Pies This Way",
+        "channel": "Baking Tutorials"
+      },
+      "steps": [
+        "Let chops cool slightly before packing. Hot chops make steam.",
+        "Use boxes with paper inside to soak up oil.",
+        "Do not pack hot chops in sealed plastic. They go soggy.",
+        "Label with the contents and the date.",
+        "Deliver fast. Small chops are best fresh."
+      ],
+      "task": "Pack a box of small chops as if for delivery.",
+      "challenge": "Deliver a box to someone and ask for feedback.",
+      "quiz": [
+        {
+          "q": "Why cool chops slightly before packing?",
+          "options": [
+            "It tastes better",
+            "Hot chops make steam and go soggy",
+            "It saves time",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Steam in a closed box makes crisp chops soft."
+        },
+        {
+          "q": "Why use paper in the box?",
+          "options": [
+            "It looks nice",
+            "Paper soaks up oil and keeps chops crisp",
+            "It is cheaper",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Paper soaks up extra oil so chops stay crisp."
+        },
+        {
+          "q": "Why deliver fast?",
+          "options": [
+            "It is polite",
+            "Small chops are best fresh",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Small chops go soft over time, so fast delivery matters."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Small Chops for Weddings",
+      "goal": "Plan small chops for a wedding.",
+      "video": {
+        "youtube_id": "ak3u7P7mEDI",
+        "title": "Learn Small Chops (Complete Package in 14 mins): Samosa, Spring Roll, and Puff Puff",
+        "channel": "Small Chops Kitchen"
+      },
+      "steps": [
+        "Ask how many guests and what chops they want.",
+        "Plan 4 to 5 pieces per guest.",
+        "Make fillings in advance. Fry on the day.",
+        "Hire a helper if the order is big.",
+        "Pack in boxes and deliver on time."
+      ],
+      "task": "Plan small chops for a wedding of 100 guests on paper.",
+      "challenge": "Work out the amounts and costs.",
+      "quiz": [
+        {
+          "q": "How many small chops per guest?",
+          "options": [
+            "1",
+            "4 to 5 pieces",
+            "10",
+            "2"
+          ],
+          "answer": 1,
+          "explain": "Four to five pieces per guest is a good guide."
+        },
+        {
+          "q": "Why fry on the day?",
+          "options": [
+            "It is faster",
+            "Fried chops go soft if made early",
+            "It tastes better",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Fried chops are best fresh. Fry them on the day."
+        },
+        {
+          "q": "Why hire a helper for big orders?",
+          "options": [
+            "It is fancy",
+            "So the work gets done on time",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A helper keeps big orders on schedule."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Taking Small Chops Orders",
+      "goal": "Take a small chops order like a professional.",
+      "video": {
+        "youtube_id": "k6uHJ4kCjOw",
+        "title": "Nigerian Puff Puff Recipe: How to Make Puff Puff",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Ask the date, the number of guests, and the chops wanted.",
+        "Ask about allergies. Write them down.",
+        "Write a quote with the price per box and the total.",
+        "Take a deposit to book the date.",
+        "Confirm everything in writing a few days before."
+      ],
+      "task": "Practise taking an order from a friend.",
+      "challenge": "Write an order form you can use for real customers.",
+      "quiz": [
+        {
+          "q": "What is a deposit?",
+          "options": [
+            "The full price",
+            "Money paid in advance to book the date",
+            "A tip",
+            "A discount"
+          ],
+          "answer": 1,
+          "explain": "A deposit books the date and covers your costs if the customer cancels."
+        },
+        {
+          "q": "Why ask about allergies?",
+          "options": [
+            "To be polite",
+            "So you do not cook food that could harm someone",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Allergies can be serious. Always ask and write the answer down."
+        },
+        {
+          "q": "Why confirm in writing?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A written confirmation stops mistakes about date, numbers, and menu."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Small Chops Business: First Steps",
+      "goal": "Take your first steps toward selling small chops.",
+      "video": {
+        "youtube_id": "Ag6Wc5M7yh4",
+        "title": "You'll Never Need Another Puff Puff Recipe Again | Street Snacks Ep. 17",
+        "channel": "Blessings Cooking TV"
+      },
+      "steps": [
+        "Pick 3 or 4 chops to sell. Keep the menu small.",
+        "Set your prices from your costing work.",
+        "Take clear photos of your chops in good light.",
+        "Tell friends and family first. Ask them to share.",
+        "Take orders in advance so you cook only what is sold."
+      ],
+      "task": "Take photos of your best small chops and show them to three people.",
+      "challenge": "Take one real order, even a small one, and deliver it on time.",
+      "quiz": [
+        {
+          "q": "Why start with only 3 or 4 chops?",
+          "options": [
+            "It is easier",
+            "A small menu is easier to make well and cost",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A small menu keeps quality high and costing simple."
+        },
+        {
+          "q": "Why take orders in advance?",
+          "options": [
+            "To show off",
+            "So you cook only what is sold and waste nothing",
+            "It is required",
+            "To save time"
+          ],
+          "answer": 1,
+          "explain": "Advance orders mean no waste and no guessing."
+        },
+        {
+          "q": "Why do photos matter?",
+          "options": [
+            "To show off",
+            "Clear photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell chops."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Small Chops Mistakes and Fixes",
+      "goal": "Fix the commonest small chops problems.",
+      "video": {
+        "youtube_id": "eMftXrp7ZS4",
+        "title": "Puff Puff (West African Doughnuts)",
+        "channel": "Lets Eat The World"
+      },
+      "steps": [
+        "Chops went soggy? Oil was not hot enough, or you packed them too soon.",
+        "Samosas opened in the oil? Seal edges well with water.",
+        "Pastry is hard? You over-mixed the dough or used warm water.",
+        "Filling is dry? Add a little oil or stock to the filling.",
+        "Write down each problem and fix."
+      ],
+      "task": "Fix one small chops problem you have had.",
+      "challenge": "Write a list of three problems and how you would fix them.",
+      "quiz": [
+        {
+          "q": "Why did chops go soggy?",
+          "options": [
+            "Too much salt",
+            "Oil was not hot enough, or they were packed too soon",
+            "Too much flour",
+            "A cold room"
+          ],
+          "answer": 1,
+          "explain": "Cool oil and packing too soon make chops soggy."
+        },
+        {
+          "q": "Why did samosas open in the oil?",
+          "options": [
+            "Too much filling",
+            "Edges were not sealed well",
+            "Oil was too hot",
+            "They were too big"
+          ],
+          "answer": 1,
+          "explain": "Loose edges open in hot oil. Seal them well with water."
+        },
+        {
+          "q": "What makes pastry hard?",
+          "options": [
+            "Too much butter",
+            "Over-mixing or warm water",
+            "Too much flour",
+            "Too little salt"
+          ],
+          "answer": 1,
+          "explain": "Over-mixing and warm water make pastry tough."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Project: Cater a Party",
+      "goal": "Cater small chops for a real party.",
+      "video": {
+        "youtube_id": "Q-64YOS3rss",
+        "title": "10 Minutes Snack! Easy Flaky Meat Pie with Puff Pastry",
+        "channel": "Snack Recipes"
+      },
+      "steps": [
+        "Take an order for a party of 20 or more.",
+        "Plan the menu, amounts, and costs.",
+        "Make fillings in advance. Fry and bake on the day.",
+        "Pack boxes neatly and deliver on time.",
+        "Ask for feedback and work out your profit."
+      ],
+      "task": "Cater small chops for a party of 20 or more.",
+      "challenge": "Work out your sales, costs, and profit.",
+      "quiz": [
+        {
+          "q": "Why make fillings in advance?",
+          "options": [
+            "It is faster",
+            "They need time to cool",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Fillings made early save time on the party day."
+        },
+        {
+          "q": "Why deliver on time?",
+          "options": [
+            "It is polite",
+            "Late food loses customers fast",
+            "It saves money",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "On-time delivery builds trust."
+        },
+        {
+          "q": "Why work out profit?",
+          "options": [
+            "To show off",
+            "So you know if the job made money",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Profit tells you if the business is working."
+        }
+      ],
+      "project": {
+        "title": "Cater Small Chops for a Party",
+        "brief": "Cook and deliver small chops for a party of 20 or more.",
+        "checks": [
+          "Order taken with date, numbers, and menu",
+          "Fillings made in advance",
+          "Chops fried and baked fresh on the day",
+          "Boxes packed neatly and delivered on time",
+          "Feedback collected from guests",
+          "Sales, costs, and profit worked out"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Seasonal Small Chops: Change Your Menu",
+      "goal": "Change your small chops menu with the seasons.",
+      "video": {
+        "youtube_id": "53mTwZsYpjY",
+        "title": "Crispy Samosa & Spring Rolls Recipe (Using the Same Wrap)",
+        "channel": "Samosa Kitchen"
+      },
+      "steps": [
+        "Offer light chops in hot weather and hearty chops in cold weather.",
+        "Add one new chop each season.",
+        "Ask customers what they want next.",
+        "Keep your best sellers. Drop what does not sell.",
+        "Update your prices when food costs change."
+      ],
+      "task": "Plan a new seasonal small chops menu.",
+      "challenge": "Ask three customers what they would like next.",
+      "quiz": [
+        {
+          "q": "Why change your menu?",
+          "options": [
+            "To show off",
+            "So customers do not get bored",
+            "It is required",
+            "To waste money"
+          ],
+          "answer": 1,
+          "explain": "A changing menu keeps customers ordering."
+        },
+        {
+          "q": "Why drop chops that do not sell?",
+          "options": [
+            "To save money",
+            "So you do not waste food and time",
+            "It is a rule",
+            "To save space"
+          ],
+          "answer": 1,
+          "explain": "A chop that does not sell wastes food and money."
+        },
+        {
+          "q": "Why update prices?",
+          "options": [
+            "To show off",
+            "So you do not lose money when food costs rise",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Old prices can mean you cook at a loss."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Marketing Your Small Chops",
+      "goal": "Tell people about your small chops.",
+      "video": {
+        "youtube_id": "B5HdAw_Y0TU",
+        "title": "How to Make Spring Rolls from Scratch",
+        "channel": "NaijaGlamWedding"
+      },
+      "steps": [
+        "Take clear photos of every box you make.",
+        "Post your menu and prices on WhatsApp and social media.",
+        "Ask happy customers to share your photos and number.",
+        "Offer a discount for a first order.",
+        "Keep a list of past customers and message them about new chops."
+      ],
+      "task": "Post your small chops menu on WhatsApp or social media.",
+      "challenge": "Ask a happy customer to share your number with a friend.",
+      "quiz": [
+        {
+          "q": "Why post photos of chops?",
+          "options": [
+            "To show off",
+            "Good photos help people decide to buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "People buy with their eyes first. Good photos sell chops."
+        },
+        {
+          "q": "Why offer a discount for a first order?",
+          "options": [
+            "To lose money",
+            "To bring in new customers",
+            "It is a rule",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "A first-time discount gives people a reason to try you."
+        },
+        {
+          "q": "Why keep a list of past customers?",
+          "options": [
+            "To show off",
+            "So you can tell them about new chops",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Past customers are the easiest people to sell to again."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Keeping Records: Orders and Money",
+      "goal": "Keep simple records of your small chops business.",
+      "video": {
+        "youtube_id": "kUaGj-IwUtA",
+        "title": "How to Make Vegetable Spring Rolls Filling and Wrappers",
+        "channel": "NaijaGlamWedding"
+      },
+      "steps": [
+        "Write down every order: what, how many, who, and when.",
+        "Write down what you spent and what you earned.",
+        "Work out your profit each week.",
+        "Note which chops sell best and which do not.",
+        "Keep your money for chops separate from your spending money."
+      ],
+      "task": "Start a simple order book today, on paper or on your phone.",
+      "challenge": "Work out your profit from one party order.",
+      "quiz": [
+        {
+          "q": "Why write down every order?",
+          "options": [
+            "To show off",
+            "So nothing is forgotten and you know what to cook",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Written orders stop mistakes and show what sells."
+        },
+        {
+          "q": "What is profit?",
+          "options": [
+            "What you spent",
+            "What is left after costs are taken from what you earned",
+            "What you charged",
+            "What you saved"
+          ],
+          "answer": 1,
+          "explain": "Profit is what remains after you pay for food, oil, gas, and packaging."
+        },
+        {
+          "q": "Why keep chops money separate?",
+          "options": [
+            "It is a law",
+            "So you always know if the business is making money",
+            "It is easier",
+            "To save tax"
+          ],
+          "answer": 1,
+          "explain": "Separate money shows the true profit of your business."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Your Signature Small Chop",
+      "goal": "Choose and perfect one small chop you can make brilliantly.",
+      "video": {
+        "youtube_id": "GHd6nOe-yP4",
+        "title": "Dodo Gizzard / Gizdodo Recipe",
+        "channel": "Nigerian Food TV"
+      },
+      "steps": [
+        "Pick the chop your customers love most from this course.",
+        "Write it down with exact amounts, costs, and prices.",
+        "Make it again, timing every step and noting problems.",
+        "Fix the problems and make it once more.",
+        "Get feedback from someone who ate it."
+      ],
+      "task": "Make your signature small chop and write the final version down.",
+      "challenge": "Serve it to someone new and record what they say.",
+      "quiz": [
+        {
+          "q": "What is a signature chop?",
+          "options": [
+            "An expensive chop",
+            "A chop you can make brilliantly every time",
+            "A chop with a fancy name",
+            "A chop only you eat"
+          ],
+          "answer": 1,
+          "explain": "A signature chop is one you have mastered."
+        },
+        {
+          "q": "Why write exact amounts?",
+          "options": [
+            "To publish it",
+            "So you can repeat it the same way every time",
+            "To impress people",
+            "To save paper"
+          ],
+          "answer": 1,
+          "explain": "Exact amounts mean the same great chop every time."
+        },
+        {
+          "q": "Why get a new person to taste it?",
+          "options": [
+            "To show off",
+            "New tasters give honest feedback",
+            "It is required",
+            "To waste food"
+          ],
+          "answer": 1,
+          "explain": "People who know you may be polite. New tasters are honest."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Growing Your Small Chops Business",
+      "goal": "Grow from small orders to big events.",
+      "video": {
+        "youtube_id": "U6GzHb8qhYE",
+        "title": "How to Make Dodo Gizzard on Stick",
+        "channel": "Eggcellent Recipes"
+      },
+      "steps": [
+        "Start with small parties. Do them well.",
+        "Ask every happy customer for a review or a referral.",
+        "Add one new chop each season.",
+        "Save some profit to buy better equipment.",
+        "Do not take a big order until you are ready for it."
+      ],
+      "task": "Write a growth plan for your small chops business.",
+      "challenge": "List one piece of equipment you want to buy next.",
+      "quiz": [
+        {
+          "q": "How do you grow a small chops business?",
+          "options": [
+            "Take every order",
+            "Do small orders well and grow step by step",
+            "Spend lots on adverts",
+            "Copy others"
+          ],
+          "answer": 1,
+          "explain": "Doing small orders well builds a good name. Growth follows."
+        },
+        {
+          "q": "Why save profit for equipment?",
+          "options": [
+            "To show off",
+            "Better equipment lets you take bigger orders",
+            "It is required",
+            "To waste money"
+          ],
+          "answer": 1,
+          "explain": "Good equipment makes bigger orders possible."
+        },
+        {
+          "q": "Why not take big orders too soon?",
+          "options": [
+            "It is scary",
+            "A failed big order can ruin your name",
+            "It is expensive",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "A big order done badly hurts your name. Grow into it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Food Safety for Small Chops",
+      "goal": "Keep small chops safe to eat.",
+      "video": {
+        "youtube_id": "3fC_7mDiLY4",
+        "title": "How to Make Flaky Nigerian Meatpie",
+        "channel": "Nigerian Kitchen"
+      },
+      "steps": [
+        "Wash hands often and wear clean clothes.",
+        "Keep raw meat away from cooked food.",
+        "Fry food until it is cooked through.",
+        "Cool and store leftovers fast. Do not leave them out.",
+        "Label boxes with the date."
+      ],
+      "task": "Do a food safety check of your small chops work.",
+      "challenge": "Write a food safety list for your business.",
+      "quiz": [
+        {
+          "q": "Why wash hands often?",
+          "options": [
+            "It is polite",
+            "To stop germs spreading to food",
+            "It is a rule",
+            "It saves soap"
+          ],
+          "answer": 1,
+          "explain": "Handwashing stops germs spreading to food."
+        },
+        {
+          "q": "Why fry food until cooked through?",
+          "options": [
+            "It tastes better",
+            "So germs are killed",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Cooking through kills germs in the food."
+        },
+        {
+          "q": "Why label boxes with the date?",
+          "options": [
+            "To show off",
+            "So customers know when it was made",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "A date tells the customer if the food is still fresh."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Small Chops Trends: What Customers Want",
+      "goal": "Learn what small chops customers want now.",
+      "video": {
+        "youtube_id": "xil1hx_GXGU",
+        "title": "How to Make Nigerian Meatpie Like a Pro",
+        "channel": "Nigerian Kitchen"
+      },
+      "steps": [
+        "Customers want crisp chops that stay crisp after delivery.",
+        "Customers want clear labels with ingredients.",
+        "Customers want easy ordering on WhatsApp.",
+        "Customers want new flavours to try.",
+        "Ask your customers what they want and offer it."
+      ],
+      "task": "Ask three people what they want from small chops.",
+      "challenge": "List three trends you will use in your business.",
+      "quiz": [
+        {
+          "q": "What do small chops customers want?",
+          "options": [
+            "Cheap food only",
+            "Crisp chops that stay crisp after delivery",
+            "Raw food",
+            "Only puff puff"
+          ],
+          "answer": 1,
+          "explain": "Customers want crisp chops, even after delivery."
+        },
+        {
+          "q": "Why use clear labels?",
+          "options": [
+            "It looks nice",
+            "So customers know what is in the box",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Clear labels help customers choose and trust you."
+        },
+        {
+          "q": "Why ask customers what they want?",
+          "options": [
+            "To be polite",
+            "So you can offer what they will buy",
+            "It is required",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Asking customers tells you what will sell."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Revision: The Small Chops Skills Check",
+      "goal": "Revisit the core skills of the course.",
+      "video": {
+        "youtube_id": "Kd6CnzV6RJ8",
+        "title": "Quarantine Cooking: African Doughnuts",
+        "channel": "The Daily Evergreen"
+      },
+      "steps": [
+        "Make puff puff from memory, without the recipe.",
+        "Fold a samosa from memory.",
+        "Cost a batch of chops from memory.",
+        "Name the frying safety rules.",
+        "List your three strongest chops and one to improve."
+      ],
+      "task": "Make a full small chops platter from memory, no notes.",
+      "challenge": "Teach one small chops skill to a friend or family member.",
+      "quiz": [
+        {
+          "q": "How do you know oil is hot enough?",
+          "options": [
+            "It smokes",
+            "A drop of batter rises at once",
+            "It is quiet",
+            "It turns dark"
+          ],
+          "answer": 1,
+          "explain": "Batter that rises at once means the oil is ready."
+        },
+        {
+          "q": "Why cook from memory?",
+          "options": [
+            "To show off",
+            "It proves you really know the steps",
+            "It saves paper",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "Cooking without notes shows the skills are truly learned."
+        },
+        {
+          "q": "Why teach a skill to someone else?",
+          "options": [
+            "To show off",
+            "Teaching proves you really know it",
+            "It is faster",
+            "It saves food"
+          ],
+          "answer": 1,
+          "explain": "If you can teach it, you truly understand it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Final Party",
+      "goal": "Plan your capstone party and gather everything you need.",
+      "video": {
+        "youtube_id": "f-3hL12hE_E",
+        "title": "Puff Pastry and Minced Meat Appetizer with a Trick That Few People Know!",
+        "channel": "Puff Pastry Kitchen"
+      },
+      "steps": [
+        "Choose your capstone menu: six small chops for a party.",
+        "Write the full shopping list with amounts and costs.",
+        "Write the cooking order, starting with the longest task.",
+        "Check you have every tool, oil, and ingredient.",
+        "Do a trial run of the hardest chop if you have time."
+      ],
+      "task": "Write your complete capstone plan and cost it.",
+      "challenge": "Do a trial run of your hardest capstone chop today.",
+      "quiz": [
+        {
+          "q": "What should your capstone show?",
+          "options": [
+            "Only puff puff",
+            "Everything you learned: folding, frying, baking, costing, and selling",
+            "Only frying",
+            "Only baking"
+          ],
+          "answer": 1,
+          "explain": "The capstone proves the whole course."
+        },
+        {
+          "q": "Why start with the longest task?",
+          "options": [
+            "It is harder",
+            "So everything finishes at the same time",
+            "It tastes better",
+            "It saves gas"
+          ],
+          "answer": 1,
+          "explain": "Long tasks start first so all chops are ready together."
+        },
+        {
+          "q": "Why do a trial run?",
+          "options": [
+            "To waste food",
+            "To find problems before the real party",
+            "To impress friends",
+            "It is optional"
+          ],
+          "answer": 1,
+          "explain": "A trial run finds problems while there is still time to fix them."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Party Box: Six Small Chops for a Real Event",
+    "brief": "Cater small chops for a real party of 20 or more people: make six different small chops, pack them neatly in boxes, deliver on time, and collect feedback. Work out your sales, costs, and profit.",
+    "checks": [
+      "Order taken with date, guest numbers, and menu",
+      "Six different small chops made: fried and baked",
+      "Fillings made in advance and cooled",
+      "Chops golden, crisp, and packed neatly",
+      "Boxes labelled and delivered on time",
+      "Feedback collected from guests",
+      "Sales, costs, and profit worked out"
+    ],
+    "deliverables": [
+      "A photo of your party boxes",
+      "Your written menu with amounts, costs, and prices",
+      "Your cooking order, starting with the longest task",
+      "Your signature small chop recipe written in your own words",
+      "A short note on what you learned and what you will improve next"
+    ]
+  }
+}

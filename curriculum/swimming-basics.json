@@ -1,0 +1,1718 @@
+{
+  "course": {
+    "id": "swimming-basics",
+    "title": "Swimming Basics",
+    "level": "Beginner",
+    "tagline": "Learn to swim with confidence: floating, strokes and water safety.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Water safety first",
+      "goal": "Learn the safety rules before you get in the water.",
+      "video": {
+        "youtube_id": "bOpyepfUPtM",
+        "title": "How to Swim in 3 Days | Beginner Swimming Lessons with Jonny Rocket",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Watch the video and write the main safety rule in your own words.",
+        "Rule 1: never swim alone. Rule 2: swim where a lifeguard is on duty.",
+        "Learn where the shallow end of your pool is.",
+        "Tell a friend the safety rules."
+      ],
+      "task": "Write the 2 safety rules on a card.",
+      "challenge": "Find a pool with a lifeguard near you.",
+      "quiz": [
+        {
+          "q": "What is the first safety rule?",
+          "options": [
+            "Swim alone at night",
+            "Never swim alone",
+            "Dive in deep water",
+            "Swim far from shore"
+          ],
+          "answer": 1,
+          "explain": "Never swim alone keeps you safe."
+        },
+        {
+          "q": "Why swim where a lifeguard is?",
+          "options": [
+            "It is only for show",
+            "It wastes time",
+            "A lifeguard can help fast if you struggle",
+            "It is not needed"
+          ],
+          "answer": 2,
+          "explain": "A lifeguard watches and helps."
+        },
+        {
+          "q": "What should you learn about your pool?",
+          "options": [
+            "Nothing",
+            "Only the deep end",
+            "Only the diving board",
+            "Where the shallow end is"
+          ],
+          "answer": 3,
+          "explain": "Knowing the shallow end keeps you safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Get comfortable in the water",
+      "goal": "Spend time in shallow water and get used to it.",
+      "video": {
+        "youtube_id": "j2OW9TiemVA",
+        "title": "LEARN to swim CONFIDENT, FLOAT & BE WATER SAFE in 3 Steps",
+        "channel": "Soon to Five"
+      },
+      "steps": [
+        "Walk in waist-deep water for 5 minutes.",
+        "Splash water on your face and arms.",
+        "Hold the pool edge and bob up and down.",
+        "Breathe slowly and relax."
+      ],
+      "task": "Walk in shallow water for 5 minutes.",
+      "challenge": "Bob up and down holding the edge 10 times.",
+      "quiz": [
+        {
+          "q": "Why start in shallow water?",
+          "options": [
+            "It is boring",
+            "It is not needed",
+            "You can stand and feel safe",
+            "Deep water is better"
+          ],
+          "answer": 2,
+          "explain": "Shallow water lets you learn safely."
+        },
+        {
+          "q": "What should you do if you feel scared?",
+          "options": [
+            "Panic",
+            "Jump in deep water",
+            "Get out and never return",
+            "Breathe slowly and hold the edge"
+          ],
+          "answer": 3,
+          "explain": "Slow breathing and holding on calms fear."
+        },
+        {
+          "q": "Why bob up and down?",
+          "options": [
+            "It teaches you how water lifts you",
+            "It is only for fun",
+            "It wastes time",
+            "It does not help"
+          ],
+          "answer": 0,
+          "explain": "Bobbing builds water confidence."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Blow bubbles: breathe out in water",
+      "goal": "Learn to breathe out under water.",
+      "video": {
+        "youtube_id": "6yP9k57OkpA",
+        "title": "How to SWIM and FLOATS (Beginner Tutorial)",
+        "channel": "Wet Sols"
+      },
+      "steps": [
+        "Stand in shallow water and take a breath.",
+        "Put your mouth in the water and blow bubbles slowly.",
+        "Then put your nose in and blow bubbles.",
+        "Then put your whole face in and blow bubbles."
+      ],
+      "task": "Blow bubbles 10 times today.",
+      "challenge": "Blow bubbles with your whole face in.",
+      "quiz": [
+        {
+          "q": "Why blow bubbles?",
+          "options": [
+            "It is only for fun",
+            "It wastes time",
+            "It does not help",
+            "It teaches you to breathe out under water"
+          ],
+          "answer": 3,
+          "explain": "Blowing bubbles is the base of swim breathing."
+        },
+        {
+          "q": "What should you breathe out through?",
+          "options": [
+            "Your nose and mouth",
+            "Your ears",
+            "You should hold your breath",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Breathing out through nose and mouth clears water."
+        },
+        {
+          "q": "Why put your face in slowly?",
+          "options": [
+            "It is scary",
+            "So you get used to it step by step",
+            "It wastes time",
+            "It is not needed"
+          ],
+          "answer": 1,
+          "explain": "Slow steps build confidence."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Float on your back",
+      "goal": "Learn to float on your back and trust the water.",
+      "video": {
+        "youtube_id": "EIU6yINLBt4",
+        "title": "How to Do the Front Crawl / Freestyle Swimming Stroke",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Hold the pool edge and lean back.",
+        "Let your ears go in the water and look up.",
+        "Push your hips up and spread your arms out.",
+        "Relax and let the water hold you for 5 seconds."
+      ],
+      "task": "Float on your back for 5 seconds.",
+      "challenge": "Float on your back for 10 seconds.",
+      "quiz": [
+        {
+          "q": "Why float on your back first?",
+          "options": [
+            "It is the easiest float and builds trust",
+            "It is hard",
+            "It is not needed",
+            "It wastes time"
+          ],
+          "answer": 0,
+          "explain": "Back floating shows you the water holds you."
+        },
+        {
+          "q": "Where should your ears be?",
+          "options": [
+            "Out of the water",
+            "In the water",
+            "Covered",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "Ears in the water helps you float flat."
+        },
+        {
+          "q": "What should your hips do?",
+          "options": [
+            "Sink down",
+            "Stay stiff",
+            "Push up toward the surface",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Hips up keeps your body flat on the water."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Float on your front",
+      "goal": "Learn to float face down.",
+      "video": {
+        "youtube_id": "Q0vq-34dWF0",
+        "title": "Breaking Down the Freestyle Stroke Technique",
+        "channel": "Dick's Sporting Goods"
+      },
+      "steps": [
+        "Hold the pool edge and stretch out face down.",
+        "Keep your face in the water and blow bubbles.",
+        "Let your legs rise behind you.",
+        "Hold the float for 5 seconds, then stand up."
+      ],
+      "task": "Float on your front for 5 seconds.",
+      "challenge": "Float on your front for 10 seconds.",
+      "quiz": [
+        {
+          "q": "What should you do with your face?",
+          "options": [
+            "Lift it up high",
+            "Keep it in the water and blow bubbles",
+            "Close your eyes tight",
+            "Hold your breath"
+          ],
+          "answer": 1,
+          "explain": "Face in and bubbles keep you calm."
+        },
+        {
+          "q": "What should your legs do?",
+          "options": [
+            "Sink down",
+            "Kick hard",
+            "Rise up behind you",
+            "Stay stiff"
+          ],
+          "answer": 2,
+          "explain": "Legs up keep your body flat."
+        },
+        {
+          "q": "How do you stand up from a front float?",
+          "options": [
+            "Jump up",
+            "Roll over fast",
+            "Grab someone",
+            "Tuck your knees, push your arms down, lift your head"
+          ],
+          "answer": 3,
+          "explain": "Tucking knees brings your feet under you."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Kick with a board",
+      "goal": "Learn the flutter kick with a kickboard.",
+      "video": {
+        "youtube_id": "krg9J0Rz4Kg",
+        "title": "How to Swim Freestyle",
+        "channel": "MySwimPro"
+      },
+      "steps": [
+        "Hold a kickboard in front of you.",
+        "Kick from your hips with nearly straight legs.",
+        "Point your toes like a dancer.",
+        "Kick for 10 metres, then rest."
+      ],
+      "task": "Kick 10 metres with a board.",
+      "challenge": "Kick 20 metres with a board.",
+      "quiz": [
+        {
+          "q": "What is a flutter kick?",
+          "options": [
+            "A big splash",
+            "A jump",
+            "Kicking from the hips with nearly straight legs",
+            "A spin"
+          ],
+          "answer": 2,
+          "explain": "A flutter kick moves you forward."
+        },
+        {
+          "q": "Where should the kick come from?",
+          "options": [
+            "Your knees only",
+            "Your toes only",
+            "Your arms",
+            "Your hips"
+          ],
+          "answer": 3,
+          "explain": "Kicking from the hips is strong and smooth."
+        },
+        {
+          "q": "What should your toes do?",
+          "options": [
+            "Point like a dancer",
+            "Flex up hard",
+            "Curl in",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Pointed toes cut through water."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Float and kick",
+      "goal": "Put week 1 together: float on your back and front, then kick.",
+      "video": {
+        "youtube_id": "ZdKBXAoxoDE",
+        "title": "How to Swim Freestyle for Beginners | 5-Step Guide",
+        "channel": "MySwimPro"
+      },
+      "steps": [
+        "Float on your back for 10 seconds.",
+        "Float on your front for 10 seconds.",
+        "Kick 10 metres with a board.",
+        "Write down what felt easy and what felt hard."
+      ],
+      "task": "Do both floats and a 10-metre kick.",
+      "challenge": "Float for 15 seconds on your back.",
+      "quiz": [
+        {
+          "q": "What should week 1 prove?",
+          "options": [
+            "You can swim fast",
+            "You can dive",
+            "Nothing",
+            "You can float and kick"
+          ],
+          "answer": 3,
+          "explain": "Floating and kicking are the base of swimming."
+        },
+        {
+          "q": "How long should you float?",
+          "options": [
+            "About 10 seconds",
+            "1 second",
+            "5 minutes",
+            "No time"
+          ],
+          "answer": 0,
+          "explain": "Ten seconds shows you trust the water."
+        },
+        {
+          "q": "What should you write down?",
+          "options": [
+            "Nothing",
+            "What felt easy and what felt hard",
+            "Only the date",
+            "Only your name"
+          ],
+          "answer": 1,
+          "explain": "Notes show what to practise next."
+        }
+      ],
+      "project": {
+        "title": "Float and kick",
+        "brief": "Float on your back for 10 seconds, float on your front for 10 seconds, and kick 10 metres with a board, then write what felt easy and hard.",
+        "checks": [
+          "Floated on back for 10 seconds",
+          "Floated on front for 10 seconds",
+          "Kicked 10 metres with a board",
+          "Kept breathing calm",
+          "Wrote what felt easy",
+          "Wrote what felt hard"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Push off and glide",
+      "goal": "Learn to push off the wall and glide.",
+      "video": {
+        "youtube_id": "LijdyVaaDnY",
+        "title": "Smooth swimming step by step",
+        "channel": "MySwimPro"
+      },
+      "steps": [
+        "Stand at the wall and put your hands together above your head.",
+        "Push off with your feet and stretch long.",
+        "Glide as far as you can without kicking.",
+        "Add a flutter kick when the glide slows."
+      ],
+      "task": "Glide 3 metres without kicking.",
+      "challenge": "Glide 5 metres without kicking.",
+      "quiz": [
+        {
+          "q": "What is a glide?",
+          "options": [
+            "Sliding through water after pushing off",
+            "A jump",
+            "A dive",
+            "A swim stroke"
+          ],
+          "answer": 0,
+          "explain": "A glide uses the push to slide forward."
+        },
+        {
+          "q": "What shape should your body be?",
+          "options": [
+            "Bent over",
+            "Long and straight like an arrow",
+            "Curled up",
+            "It does not matter"
+          ],
+          "answer": 1,
+          "explain": "A long shape cuts through water."
+        },
+        {
+          "q": "When should you start kicking?",
+          "options": [
+            "At once",
+            "Never",
+            "When the glide slows down",
+            "Only at the end"
+          ],
+          "answer": 2,
+          "explain": "Kicking after the glide keeps you moving."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Freestyle arms, step by step",
+      "goal": "Learn freestyle arm strokes.",
+      "video": {
+        "youtube_id": "1NGpG3kyPc4",
+        "title": "How to Float in Water: Beginner Swimming Tips",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Reach one arm forward into the water.",
+        "Pull it back under your body.",
+        "Lift it out and reach forward again.",
+        "Alternate arms slowly, then add the kick."
+      ],
+      "task": "Do 10 freestyle arm strokes holding a board.",
+      "challenge": "Swim 10 metres of freestyle arms with a kick.",
+      "quiz": [
+        {
+          "q": "What is freestyle?",
+          "options": [
+            "A jump",
+            "A stroke with alternating arms and a flutter kick",
+            "A dive",
+            "Floating only"
+          ],
+          "answer": 1,
+          "explain": "Freestyle is the fastest common stroke."
+        },
+        {
+          "q": "How should your arm enter the water?",
+          "options": [
+            "Slap down hard",
+            "From the side",
+            "Reach forward and in",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Reaching forward makes a smooth entry."
+        },
+        {
+          "q": "What should your arm do under water?",
+          "options": [
+            "Push down",
+            "Wave around",
+            "Nothing",
+            "Pull back under your body"
+          ],
+          "answer": 3,
+          "explain": "Pulling back moves you forward."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Breathe to the side",
+      "goal": "Learn to breathe while swimming freestyle.",
+      "video": {
+        "youtube_id": "ov-hobiVelc",
+        "title": "How to Swim for Beginners | Step-by-Step Swimming Lessons with Jonny Rocket & Ada",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Swim freestyle and turn your head to the side to breathe.",
+        "Keep one ear in the water as you turn.",
+        "Breathe in quickly, then put your face back in.",
+        "Breathe every 3 strokes."
+      ],
+      "task": "Swim 10 metres breathing every 3 strokes.",
+      "challenge": "Swim 15 metres breathing to the side.",
+      "quiz": [
+        {
+          "q": "How do you breathe in freestyle?",
+          "options": [
+            "Lift your head straight up",
+            "Stop and stand",
+            "Turn your head to the side",
+            "Hold your breath"
+          ],
+          "answer": 2,
+          "explain": "Turning to the side keeps your body flat."
+        },
+        {
+          "q": "Where should one ear be?",
+          "options": [
+            "Out of the water",
+            "Covered",
+            "It does not matter",
+            "In the water"
+          ],
+          "answer": 3,
+          "explain": "One ear in keeps your head low."
+        },
+        {
+          "q": "How often should you breathe?",
+          "options": [
+            "About every 3 strokes",
+            "Every stroke",
+            "Never",
+            "Every 10 strokes"
+          ],
+          "answer": 0,
+          "explain": "Every 3 strokes gives steady air."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Backstroke basics",
+      "goal": "Learn backstroke, swimming on your back.",
+      "video": {
+        "youtube_id": "ENH-_66hwWw",
+        "title": "How to Swim For Beginners | Kerima Learns To Swim with Jonny Rocket",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Lie on your back and float.",
+        "Move your arms in circles, one at a time.",
+        "Kick gently from your hips.",
+        "Look up at the sky or ceiling."
+      ],
+      "task": "Swim 10 metres of backstroke.",
+      "challenge": "Swim 15 metres of backstroke.",
+      "quiz": [
+        {
+          "q": "What is backstroke?",
+          "options": [
+            "Swimming face down",
+            "Floating only",
+            "Diving",
+            "Swimming on your back with alternating arms"
+          ],
+          "answer": 3,
+          "explain": "Backstroke is swimming on your back."
+        },
+        {
+          "q": "Where should you look in backstroke?",
+          "options": [
+            "Up at the sky or ceiling",
+            "At your feet",
+            "Behind you",
+            "Down"
+          ],
+          "answer": 0,
+          "explain": "Looking up keeps your body flat."
+        },
+        {
+          "q": "How should your arms move?",
+          "options": [
+            "Both together",
+            "In circles, one at a time",
+            "Not at all",
+            "Under water only"
+          ],
+          "answer": 1,
+          "explain": "Alternating arm circles move you forward."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Tread water",
+      "goal": "Learn to tread water: stay up in deep water.",
+      "video": {
+        "youtube_id": "hHx2sdhmbOU",
+        "title": "How to Float in Water for Beginners | Swim on Your Back in 4 Steps",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Move your legs in a cycling motion.",
+        "Move your hands in small circles to push water down.",
+        "Keep your head above water and breathe normally.",
+        "Tread for 30 seconds."
+      ],
+      "task": "Tread water for 30 seconds.",
+      "challenge": "Tread water for 1 minute.",
+      "quiz": [
+        {
+          "q": "What is treading water?",
+          "options": [
+            "Staying up in deep water without swimming",
+            "Floating only",
+            "Diving",
+            "Sinking"
+          ],
+          "answer": 0,
+          "explain": "Treading keeps you up in deep water."
+        },
+        {
+          "q": "What should your legs do?",
+          "options": [
+            "Stay still",
+            "Move in a cycling motion",
+            "Kick hard and fast",
+            "Cross over"
+          ],
+          "answer": 1,
+          "explain": "Cycling legs keep you up."
+        },
+        {
+          "q": "What should your hands do?",
+          "options": [
+            "Stay still",
+            "Wave in the air",
+            "Push water down in small circles",
+            "Hold your nose"
+          ],
+          "answer": 2,
+          "explain": "Hands pushing down lift you up."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Breaststroke kick",
+      "goal": "Learn the breaststroke frog kick.",
+      "video": {
+        "youtube_id": "tgB8w_Fgrvc",
+        "title": "LEARN TO SWIM | Ep.1 Building Water Comfort | Breath control, sculling, safety skills for beginners",
+        "channel": "Splash Foundation"
+      },
+      "steps": [
+        "Bend your knees and bring your heels toward your body.",
+        "Turn your feet out.",
+        "Kick out and around in a circle, then snap your legs together.",
+        "Practise holding the wall first."
+      ],
+      "task": "Do 10 frog kicks holding the wall.",
+      "challenge": "Do 10 frog kicks with a board.",
+      "quiz": [
+        {
+          "q": "What is a frog kick?",
+          "options": [
+            "A flutter kick",
+            "Bending knees, turning feet out, kicking in a circle",
+            "A jump",
+            "A spin"
+          ],
+          "answer": 1,
+          "explain": "A frog kick powers breaststroke."
+        },
+        {
+          "q": "Where should your feet point?",
+          "options": [
+            "Straight down",
+            "In toward each other",
+            "Out to the sides",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Feet out catch the water."
+        },
+        {
+          "q": "How should the kick end?",
+          "options": [
+            "Legs wide apart",
+            "Legs bent",
+            "It does not matter",
+            "Legs snapping together"
+          ],
+          "answer": 3,
+          "explain": "Snapping together finishes the kick."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Swim 25 metres",
+      "goal": "Put week 2 together: swim 25 metres of freestyle.",
+      "video": {
+        "youtube_id": "bOpyepfUPtM",
+        "title": "How to Swim in 3 Days | Beginner Swimming Lessons with Jonny Rocket",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Warm up with a float and a kick.",
+        "Swim freestyle for 25 metres, breathing to the side.",
+        "Rest at the wall, then swim back.",
+        "Write down how it felt."
+      ],
+      "task": "Swim 25 metres of freestyle.",
+      "challenge": "Swim 25 metres twice with a rest.",
+      "quiz": [
+        {
+          "q": "How far is 25 metres?",
+          "options": [
+            "The whole pool",
+            "1 kilometre",
+            "One length of a short pool",
+            "5 metres"
+          ],
+          "answer": 2,
+          "explain": "Twenty-five metres is one pool length."
+        },
+        {
+          "q": "What should you do if you get tired?",
+          "options": [
+            "Keep going fast",
+            "Panic",
+            "Sink",
+            "Stop at the wall and rest"
+          ],
+          "answer": 3,
+          "explain": "Resting at the wall is safe."
+        },
+        {
+          "q": "What should you write down?",
+          "options": [
+            "How the swim felt",
+            "Nothing",
+            "Only the date",
+            "Only your name"
+          ],
+          "answer": 0,
+          "explain": "Notes show what to improve."
+        }
+      ],
+      "project": {
+        "title": "Swim 25 metres",
+        "brief": "Swim 25 metres of freestyle breathing to the side, rest, then swim back, and write how it felt.",
+        "checks": [
+          "Swam 25 metres freestyle",
+          "Breathed to the side",
+          "Rested at the wall",
+          "Swam back",
+          "Kept calm throughout",
+          "Wrote how it felt"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Swim with a friend",
+      "goal": "Swim with a friend for safety and fun.",
+      "video": {
+        "youtube_id": "j2OW9TiemVA",
+        "title": "LEARN to swim CONFIDENT, FLOAT & BE WATER SAFE in 3 Steps",
+        "channel": "Soon to Five"
+      },
+      "steps": [
+        "Pick a friend to swim with you.",
+        "Stay in the shallow end together.",
+        "Take turns swimming a length.",
+        "Watch each other and cheer each other on."
+      ],
+      "task": "Swim with a friend this week.",
+      "challenge": "Teach a friend to float.",
+      "quiz": [
+        {
+          "q": "Why swim with a friend?",
+          "options": [
+            "It is slower",
+            "It is not useful",
+            "It makes you weaker",
+            "It is safer and more fun"
+          ],
+          "answer": 3,
+          "explain": "A friend adds safety and fun."
+        },
+        {
+          "q": "Where should you stay with a friend?",
+          "options": [
+            "In the shallow end at first",
+            "In the deep end",
+            "Far from the edge",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Shallow water is safe for learning."
+        },
+        {
+          "q": "What should you do while your friend swims?",
+          "options": [
+            "Ignore them",
+            "Watch and cheer them on",
+            "Splash them",
+            "Leave"
+          ],
+          "answer": 1,
+          "explain": "Watching keeps your friend safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Improve your freestyle",
+      "goal": "Make your freestyle smoother and longer.",
+      "video": {
+        "youtube_id": "6yP9k57OkpA",
+        "title": "How to SWIM and FLOATS (Beginner Tutorial)",
+        "channel": "Wet Sols"
+      },
+      "steps": [
+        "Reach further forward with each arm.",
+        "Kick steadily, not hard.",
+        "Breathe every 3 strokes.",
+        "Swim 25 metres and count your strokes."
+      ],
+      "task": "Swim 25 metres and count your strokes.",
+      "challenge": "Swim 25 metres with fewer strokes than last time.",
+      "quiz": [
+        {
+          "q": "Why reach further forward?",
+          "options": [
+            "Longer strokes move you further",
+            "It wastes energy",
+            "It is only for show",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "Long strokes are smooth and efficient."
+        },
+        {
+          "q": "How should you kick in freestyle?",
+          "options": [
+            "As hard as you can",
+            "Steadily, not hard",
+            "Not at all",
+            "Only with one leg"
+          ],
+          "answer": 1,
+          "explain": "A steady kick keeps you moving."
+        },
+        {
+          "q": "Why count your strokes?",
+          "options": [
+            "To fill time",
+            "It is not needed",
+            "Fewer strokes means smoother swimming",
+            "To show off"
+          ],
+          "answer": 2,
+          "explain": "Fewer strokes show better technique."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Learn to dive safely",
+      "goal": "Learn a safe shallow dive from the pool edge.",
+      "video": {
+        "youtube_id": "EIU6yINLBt4",
+        "title": "How to Do the Front Crawl / Freestyle Swimming Stroke",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Only dive where the water is deep enough.",
+        "Sit on the edge and slide in head first.",
+        "Keep your arms stretched above your head.",
+        "Practise with a teacher watching."
+      ],
+      "task": "Practise a sitting dive with a teacher.",
+      "challenge": "Slide in head first from the edge.",
+      "quiz": [
+        {
+          "q": "Where should you dive?",
+          "options": [
+            "Anywhere",
+            "Only where the water is deep enough",
+            "In shallow water",
+            "From a high board first"
+          ],
+          "answer": 1,
+          "explain": "Deep water only is safe for diving."
+        },
+        {
+          "q": "What shape should your body be?",
+          "options": [
+            "Curled up",
+            "Bent over",
+            "Long and straight, arms above your head",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "A long shape enters the water safely."
+        },
+        {
+          "q": "Who should watch you dive?",
+          "options": [
+            "Nobody",
+            "A friend who cannot swim",
+            "It does not matter",
+            "A teacher or lifeguard"
+          ],
+          "answer": 3,
+          "explain": "A teacher keeps diving safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Swim longer: build stamina",
+      "goal": "Build up to swimming for 5 minutes without stopping.",
+      "video": {
+        "youtube_id": "Q0vq-34dWF0",
+        "title": "Breaking Down the Freestyle Stroke Technique",
+        "channel": "Dick's Sporting Goods"
+      },
+      "steps": [
+        "Swim slowly for 2 minutes, rest, repeat.",
+        "Add 1 minute each session.",
+        "Breathe every 3 strokes.",
+        "Write down your longest swim."
+      ],
+      "task": "Swim for 3 minutes without stopping.",
+      "challenge": "Swim for 5 minutes without stopping.",
+      "quiz": [
+        {
+          "q": "How do you swim longer?",
+          "options": [
+            "Swim fast at once",
+            "Hold your breath",
+            "Add a little time each session",
+            "Skip warm-ups"
+          ],
+          "answer": 2,
+          "explain": "Small adds build stamina safely."
+        },
+        {
+          "q": "What pace should a long swim be?",
+          "options": [
+            "As fast as you can",
+            "A sprint",
+            "It does not matter",
+            "Slow and steady"
+          ],
+          "answer": 3,
+          "explain": "Slow and steady lasts longer."
+        },
+        {
+          "q": "What should you do if you get tired?",
+          "options": [
+            "Rest at the wall",
+            "Keep going fast",
+            "Panic",
+            "Sink"
+          ],
+          "answer": 0,
+          "explain": "Resting at the wall is safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Water safety: what to do if you struggle",
+      "goal": "Learn what to do if you get into trouble in water.",
+      "video": {
+        "youtube_id": "krg9J0Rz4Kg",
+        "title": "How to Swim Freestyle",
+        "channel": "MySwimPro"
+      },
+      "steps": [
+        "Stay calm and float on your back.",
+        "Wave one arm and shout for help.",
+        "Do not grab the person trying to help you.",
+        "If you see someone struggle, call for help, do not jump in."
+      ],
+      "task": "Practise floating on your back for 30 seconds.",
+      "challenge": "Tell a friend the 3 safety steps.",
+      "quiz": [
+        {
+          "q": "What should you do if you struggle?",
+          "options": [
+            "Panic and splash",
+            "Swim fast",
+            "Hold your breath",
+            "Stay calm and float on your back"
+          ],
+          "answer": 3,
+          "explain": "Floating calmly saves energy."
+        },
+        {
+          "q": "What should you do to get help?",
+          "options": [
+            "Wave one arm and shout",
+            "Stay quiet",
+            "Swim away",
+            "Dive down"
+          ],
+          "answer": 0,
+          "explain": "Waving and shouting brings help."
+        },
+        {
+          "q": "What should you do if you see someone struggle?",
+          "options": [
+            "Jump in at once",
+            "Call for help, do not jump in",
+            "Ignore them",
+            "Throw water"
+          ],
+          "answer": 1,
+          "explain": "Calling for help is the safe rescue."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Practise all strokes",
+      "goal": "Swim freestyle, backstroke and breaststroke in one session.",
+      "video": {
+        "youtube_id": "ZdKBXAoxoDE",
+        "title": "How to Swim Freestyle for Beginners | 5-Step Guide",
+        "channel": "MySwimPro"
+      },
+      "steps": [
+        "Swim 25 metres freestyle.",
+        "Swim 25 metres backstroke.",
+        "Swim 25 metres breaststroke kick with a board.",
+        "Rest between each one."
+      ],
+      "task": "Swim all 3 strokes today.",
+      "challenge": "Swim your weakest stroke twice.",
+      "quiz": [
+        {
+          "q": "Why practise all strokes?",
+          "options": [
+            "Each stroke trains different muscles",
+            "It wastes time",
+            "It is not needed",
+            "It makes you slower"
+          ],
+          "answer": 0,
+          "explain": "Different strokes build all-round swimming."
+        },
+        {
+          "q": "What should you do between strokes?",
+          "options": [
+            "Keep going fast",
+            "Rest at the wall",
+            "Get out",
+            "Skip the next one"
+          ],
+          "answer": 1,
+          "explain": "Rest keeps each stroke good."
+        },
+        {
+          "q": "Which stroke should you practise most?",
+          "options": [
+            "Only your best one",
+            "None",
+            "Your weakest one",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Practising the weak stroke makes you balanced."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Swim 50 metres",
+      "goal": "Put week 3 together: swim 50 metres without stopping.",
+      "video": {
+        "youtube_id": "LijdyVaaDnY",
+        "title": "Smooth swimming step by step",
+        "channel": "MySwimPro"
+      },
+      "steps": [
+        "Warm up with a float and a kick.",
+        "Swim 50 metres of freestyle, breathing every 3 strokes.",
+        "Rest, then swim 25 metres of backstroke.",
+        "Write down your time and how you felt."
+      ],
+      "task": "Swim 50 metres of freestyle.",
+      "challenge": "Swim 50 metres twice with a rest.",
+      "quiz": [
+        {
+          "q": "How far is 50 metres?",
+          "options": [
+            "One length",
+            "Two lengths of a short pool",
+            "1 kilometre",
+            "5 metres"
+          ],
+          "answer": 1,
+          "explain": "Fifty metres is two pool lengths."
+        },
+        {
+          "q": "What should you do if you get tired?",
+          "options": [
+            "Keep going fast",
+            "Panic",
+            "Rest at the wall, then continue",
+            "Sink"
+          ],
+          "answer": 2,
+          "explain": "Resting is safe."
+        },
+        {
+          "q": "What should you write down?",
+          "options": [
+            "Nothing",
+            "Only the date",
+            "Only your name",
+            "Your time and how you felt"
+          ],
+          "answer": 3,
+          "explain": "Notes show progress."
+        }
+      ],
+      "project": {
+        "title": "Swim 50 metres",
+        "brief": "Swim 50 metres of freestyle breathing every 3 strokes, rest, then swim 25 metres of backstroke.",
+        "checks": [
+          "Swam 50 metres freestyle",
+          "Breathed every 3 strokes",
+          "Rested at the wall",
+          "Swam 25 metres backstroke",
+          "Wrote your time",
+          "Wrote how you felt"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Swim with good breathing",
+      "goal": "Practise breathing every 3 strokes for a full length.",
+      "video": {
+        "youtube_id": "1NGpG3kyPc4",
+        "title": "How to Float in Water: Beginner Swimming Tips",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Swim 25 metres breathing every 3 strokes.",
+        "Keep your head low when you breathe.",
+        "Breathe out slowly under water.",
+        "Write down how many breaths you took."
+      ],
+      "task": "Swim 25 metres breathing every 3 strokes.",
+      "challenge": "Swim 50 metres breathing every 3 strokes.",
+      "quiz": [
+        {
+          "q": "Why breathe every 3 strokes?",
+          "options": [
+            "It is a rule with no reason",
+            "It makes you slower",
+            "It keeps breathing steady and balanced",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Every 3 strokes gives steady air."
+        },
+        {
+          "q": "What should you do under water?",
+          "options": [
+            "Hold your breath",
+            "Breathe in",
+            "Close your mouth tight",
+            "Breathe out slowly"
+          ],
+          "answer": 3,
+          "explain": "Breathing out under water prepares the next breath."
+        },
+        {
+          "q": "Where should your head be when breathing?",
+          "options": [
+            "Low, one ear in the water",
+            "High up",
+            "Under water",
+            "Turned back"
+          ],
+          "answer": 0,
+          "explain": "A low head keeps your body flat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Open water safety",
+      "goal": "Learn the extra rules for lakes, rivers and the sea.",
+      "video": {
+        "youtube_id": "ov-hobiVelc",
+        "title": "How to Swim for Beginners | Step-by-Step Swimming Lessons with Jonny Rocket & Ada",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Never swim alone in open water.",
+        "Check the depth and the current before entering.",
+        "Stay close to shore.",
+        "Get out if you feel cold or tired."
+      ],
+      "task": "Write the 4 open-water rules on a card.",
+      "challenge": "Tell a friend the open-water rules.",
+      "quiz": [
+        {
+          "q": "What is open water?",
+          "options": [
+            "A pool",
+            "A bath",
+            "A bucket",
+            "Lakes, rivers and the sea"
+          ],
+          "answer": 3,
+          "explain": "Open water is natural water outside a pool."
+        },
+        {
+          "q": "Why check the current?",
+          "options": [
+            "Strong water can pull you away",
+            "It does not matter",
+            "It is only for show",
+            "Currents are safe"
+          ],
+          "answer": 0,
+          "explain": "A strong current can carry you away."
+        },
+        {
+          "q": "When should you get out?",
+          "options": [
+            "Never",
+            "If you feel cold or tired",
+            "When you are far out",
+            "Only at night"
+          ],
+          "answer": 1,
+          "explain": "Cold or tired means get out."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Keep swimming: your routine",
+      "goal": "Make swimming a weekly habit.",
+      "video": {
+        "youtube_id": "ENH-_66hwWw",
+        "title": "How to Swim For Beginners | Kerima Learns To Swim with Jonny Rocket",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Swim 2 times a week.",
+        "Each session: warm-up, strokes, cool-down.",
+        "Set a new goal: swim 100 metres.",
+        "Write your weekly swim plan."
+      ],
+      "task": "Write your weekly swim plan.",
+      "challenge": "Swim twice this week.",
+      "quiz": [
+        {
+          "q": "How often should you swim?",
+          "options": [
+            "About 2 times a week",
+            "Every day",
+            "Once a month",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "Twice a week keeps the habit alive."
+        },
+        {
+          "q": "What should each session have?",
+          "options": [
+            "Only hard swimming",
+            "Warm-up, strokes and cool-down",
+            "Only floating",
+            "No warm-up"
+          ],
+          "answer": 1,
+          "explain": "A full session warms up, works and cools down."
+        },
+        {
+          "q": "What is a good next goal?",
+          "options": [
+            "Quit",
+            "Swim less",
+            "Swim 100 metres",
+            "No goal"
+          ],
+          "answer": 2,
+          "explain": "A new goal keeps you growing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Teach a friend to float",
+      "goal": "Teach someone else to float on their back.",
+      "video": {
+        "youtube_id": "hHx2sdhmbOU",
+        "title": "How to Float in Water for Beginners | Swim on Your Back in 4 Steps",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Show them how to lean back and relax.",
+        "Support their head and back at first.",
+        "Let go slowly when they feel safe.",
+        "Cheer them on."
+      ],
+      "task": "Teach one person to float.",
+      "challenge": "Support a friend's first float.",
+      "quiz": [
+        {
+          "q": "Why teach someone else?",
+          "options": [
+            "It wastes time",
+            "Teaching helps you learn it better",
+            "It is not needed",
+            "It makes you tired"
+          ],
+          "answer": 1,
+          "explain": "Teaching locks in your own learning."
+        },
+        {
+          "q": "What should you support first?",
+          "options": [
+            "Their feet only",
+            "Nothing",
+            "Their head and back",
+            "Their arms only"
+          ],
+          "answer": 2,
+          "explain": "Supporting head and back builds trust."
+        },
+        {
+          "q": "When should you let go?",
+          "options": [
+            "At once",
+            "Never",
+            "When they panic",
+            "When they feel safe and relaxed"
+          ],
+          "answer": 3,
+          "explain": "Letting go slowly builds confidence."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Swim with a kickboard: build your legs",
+      "goal": "Learn to build leg strength with a kickboard.",
+      "video": {
+        "youtube_id": "tgB8w_Fgrvc",
+        "title": "LEARN TO SWIM | Ep.1 Building Water Comfort | Breath control, sculling, safety skills for beginners",
+        "channel": "Splash Foundation"
+      },
+      "steps": [
+        "Hold the kickboard with both hands.",
+        "Kick from your hips, not your knees.",
+        "Keep your legs straight but soft.",
+        "Breathe out into the water.",
+        "Kick for 25 metres, then rest.",
+        "Repeat 4 times."
+      ],
+      "task": "Kick 25 metres with a board today.",
+      "challenge": "Kick 50 metres without stopping.",
+      "quiz": [
+        {
+          "q": "Where should the kick come from?",
+          "options": [
+            "Your knees",
+            "Your arms",
+            "Your hips, not your knees",
+            "Your toes"
+          ],
+          "answer": 2,
+          "explain": "Kicking from the hips is strong and smooth."
+        },
+        {
+          "q": "How should your legs be?",
+          "options": [
+            "Stiff and straight",
+            "Bent all the time",
+            "It does not matter",
+            "Straight but soft"
+          ],
+          "answer": 3,
+          "explain": "Straight but soft legs kick best."
+        },
+        {
+          "q": "How far should you kick first?",
+          "options": [
+            "About 25 metres",
+            "100 metres",
+            "1 metre",
+            "No distance"
+          ],
+          "answer": 0,
+          "explain": "Twenty-five metres is a good first goal."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Swim in a group class",
+      "goal": "Learn what to expect in a group swim class.",
+      "video": {
+        "youtube_id": "bOpyepfUPtM",
+        "title": "How to Swim in 3 Days | Beginner Swimming Lessons with Jonny Rocket",
+        "channel": "Jonny Rocket"
+      },
+      "steps": [
+        "Arrive early and tell the teacher you are a beginner.",
+        "Listen to the teacher's instructions.",
+        "Stay in the shallow end until you are sure.",
+        "Ask questions when you do not understand.",
+        "Practise what the teacher shows.",
+        "Thank the teacher at the end."
+      ],
+      "task": "Find a group swim class near you.",
+      "challenge": "Join one class this month.",
+      "quiz": [
+        {
+          "q": "What should you tell the teacher first?",
+          "options": [
+            "Nothing",
+            "That you are an expert",
+            "Only your name",
+            "That you are a beginner"
+          ],
+          "answer": 3,
+          "explain": "Telling the teacher helps them teach you right."
+        },
+        {
+          "q": "Where should you stay at first?",
+          "options": [
+            "In the shallow end",
+            "In the deep end",
+            "Out of the water",
+            "It does not matter"
+          ],
+          "answer": 0,
+          "explain": "The shallow end is safe while you learn."
+        },
+        {
+          "q": "What should you do if you do not understand?",
+          "options": [
+            "Stay quiet",
+            "Ask a question",
+            "Guess",
+            "Leave"
+          ],
+          "answer": 1,
+          "explain": "Asking keeps you safe and learning."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final swim.",
+      "video": {
+        "youtube_id": "j2OW9TiemVA",
+        "title": "LEARN to swim CONFIDENT, FLOAT & BE WATER SAFE in 3 Steps",
+        "channel": "Soon to Five"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 skills you can now do in water.",
+        "Practise your capstone swim once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 swim skills you learned.",
+      "challenge": "Swim your capstone distance from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final swim that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new swimsuit"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own goggles",
+            "You can swim 100 metres safely",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "A safe 100-metre swim shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone swim once more, then rest.",
+      "video": {
+        "youtube_id": "6yP9k57OkpA",
+        "title": "How to SWIM and FLOATS (Beginner Tutorial)",
+        "channel": "Wet Sols"
+      },
+      "steps": [
+        "Swim your capstone distance one more time.",
+        "Check your breathing and your strokes.",
+        "Fix anything that felt hard.",
+        "Rest well tonight."
+      ],
+      "task": "Swim your capstone distance and time it.",
+      "challenge": "Fix one hard part of your swim.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real swim calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your goggles",
+            "Your breathing, your strokes and your turns",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking breathing and strokes makes it smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Swim all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you swim your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: swim 100 metres",
+      "goal": "Show what you learned: swim 100 metres.",
+      "video": {
+        "youtube_id": "EIU6yINLBt4",
+        "title": "How to Do the Front Crawl / Freestyle Swimming Stroke",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Warm up with a float and a kick.",
+        "Swim 100 metres of freestyle, breathing every 3 strokes.",
+        "Rest at the wall if you must, then continue.",
+        "Cool down and write your report."
+      ],
+      "task": "Swim your 100 metres and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "How far is your capstone swim?",
+          "options": [
+            "10 metres",
+            "1 kilometre",
+            "100 metres",
+            "25 metres"
+          ],
+          "answer": 2,
+          "explain": "The capstone is a 100-metre swim."
+        },
+        {
+          "q": "What should you do if you get tired?",
+          "options": [
+            "Keep going fast",
+            "Panic",
+            "Sink",
+            "Rest at the wall, then continue"
+          ],
+          "answer": 3,
+          "explain": "Resting is safe."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "Your time, your strokes and how you felt",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Swim 100 metres",
+    "brief": "Swim 100 metres of freestyle breathing every 3 strokes, with a warm-up and cool-down, and write a short report on your time, strokes and how you felt.",
+    "checks": [
+      "Warmed up with float and kick",
+      "Swam 100 metres",
+      "Breathed every 3 strokes",
+      "Rested only if needed",
+      "Cooled down",
+      "Wrote a short report",
+      "Listed one thing to improve"
+    ],
+    "deliverables": [
+      "A written swim plan",
+      "A list of swim skills learned",
+      "A weekly swim plan",
+      "A short video or notes from the swim",
+      "A written report"
+    ]
+  }
+}

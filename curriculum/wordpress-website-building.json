@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "wordpress-website-building",
+    "title": "WordPress Website Building",
+    "level": "Beginner",
+    "tagline": "Build professional websites with WordPress, no code needed, and launch one for a real client.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "WordPress.com vs WordPress.org",
+      "goal": "Understand the difference between the two WordPresses and pick the right one.",
+      "video": {
+        "youtube_id": "TX8djQV2wKo",
+        "title": "Hostinger WordPress Tutorial 2026 - Full Course for Beginners",
+        "channel": "Hostinger"
+      },
+      "steps": [
+        "Learn what WordPress.org is: free software you install on your own hosting.",
+        "Learn what WordPress.com is: a hosted service with limits on the free plan.",
+        "Write down what you want: a blog, a business site or a shop.",
+        "Decide which WordPress fits your goal and write down why."
+      ],
+      "task": "Write a short note: which WordPress you picked and why.",
+      "challenge": "List three things you can do on WordPress.org that you cannot do free on WordPress.com.",
+      "quiz": [
+        {
+          "q": "What is WordPress.org?",
+          "options": [
+            "A hosting company",
+            "Free software you install on your own web hosting, with full control",
+            "A kind of theme",
+            "A blog service"
+          ],
+          "answer": 1,
+          "explain": "WordPress.org is the free software. You install it on hosting you rent, and you control everything."
+        },
+        {
+          "q": "What is WordPress.com?",
+          "options": [
+            "The same as WordPress.org",
+            "A hosted service where WordPress runs the site for you, with limits on free plans",
+            "A plugin",
+            "A theme shop"
+          ],
+          "answer": 1,
+          "explain": "WordPress.com hosts the site for you. It is easier to start but limits what you can change on free plans."
+        },
+        {
+          "q": "Which should you pick to build client websites?",
+          "options": [
+            "WordPress.com free",
+            "WordPress.org, because you control themes, plugins and the domain",
+            "Neither",
+            "Both are the same"
+          ],
+          "answer": 1,
+          "explain": "WordPress.org gives full control over themes, plugins and domains, which is what client work needs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Domain Names and Hosting",
+      "goal": "Get a domain name and web hosting for your site.",
+      "video": {
+        "youtube_id": "O79pJ7qXwoE",
+        "title": "How to Make a Website with WordPress - Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Learn what a domain is: your site's address, like example.com.",
+        "Learn what hosting is: rented space on a server where your site lives.",
+        "Buy a domain name and a hosting plan from a provider like Hostinger.",
+        "Log into your hosting account and find the WordPress installer."
+      ],
+      "task": "Buy a domain and hosting, and write down your login details somewhere safe.",
+      "challenge": "Check that your domain points to your hosting.",
+      "quiz": [
+        {
+          "q": "What is a domain name?",
+          "options": [
+            "A kind of hosting",
+            "Your website's address on the internet, like example.com",
+            "A password",
+            "A kind of theme"
+          ],
+          "answer": 1,
+          "explain": "A domain name is the address people type to reach your site."
+        },
+        {
+          "q": "What is web hosting?",
+          "options": [
+            "A domain name",
+            "Rented space on a server where your website's files live",
+            "A kind of theme",
+            "A plugin"
+          ],
+          "answer": 1,
+          "explain": "Hosting is the server space where your site lives. Visitors reach it through your domain."
+        },
+        {
+          "q": "Why do you need both a domain and hosting?",
+          "options": [
+            "You do not",
+            "Because the domain is the address and hosting is the home: one without the other does not work",
+            "It is cheaper",
+            "It is required by law"
+          ],
+          "answer": 1,
+          "explain": "The domain points visitors to your hosting. Hosting holds the site. You need both."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Installing WordPress",
+      "goal": "Install WordPress on your hosting and log in for the first time.",
+      "video": {
+        "youtube_id": "x2EZ5bQaYMI",
+        "title": "WordPress Course for Beginners",
+        "channel": "Preet Tech Ideas"
+      },
+      "steps": [
+        "Open your hosting's WordPress installer and start the install.",
+        "Pick your domain, set a site title and create an admin username and password.",
+        "Wait for the install to finish, then open yoursite.com/wp-admin.",
+        "Log in with your admin details and see the WordPress dashboard."
+      ],
+      "task": "Install WordPress and log into your dashboard.",
+      "challenge": "Change your admin password to a strong, unique one.",
+      "quiz": [
+        {
+          "q": "What is the WordPress dashboard?",
+          "options": [
+            "Your website",
+            "The admin area where you control your site: pages, posts, themes and settings",
+            "A kind of theme",
+            "A plugin"
+          ],
+          "answer": 1,
+          "explain": "The dashboard is the control panel. You build and manage your whole site from there."
+        },
+        {
+          "q": "What is wp-admin?",
+          "options": [
+            "A kind of theme",
+            "The login address for your WordPress dashboard",
+            "A plugin",
+            "A domain"
+          ],
+          "answer": 1,
+          "explain": "Adding /wp-admin to your domain opens the login page for your site's dashboard."
+        },
+        {
+          "q": "Why use a strong admin password?",
+          "options": [
+            "It is faster",
+            "Because the admin account controls the whole site, and a weak password lets attackers in",
+            "It is required",
+            "It saves space"
+          ],
+          "answer": 1,
+          "explain": "The admin account can change anything. A weak password is an open door to your whole site."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "The WordPress Dashboard Tour",
+      "goal": "Learn your way around the dashboard: posts, pages, media and settings.",
+      "video": {
+        "youtube_id": "3YG3XLmBX4A",
+        "title": "Elementor Tutorial: Build Your First WordPress Page in 15 Minutes",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "Open Posts and Pages and see the difference between them.",
+        "Open Media and see where your images live.",
+        "Open Appearance and Settings and look at the options.",
+        "Change your site title and tagline in Settings."
+      ],
+      "task": "Explore every menu item in the dashboard and write down what each one does.",
+      "challenge": "Set your site title, tagline and timezone.",
+      "quiz": [
+        {
+          "q": "What is the difference between a post and a page?",
+          "options": [
+            "There is none",
+            "Posts are for blog entries in date order, pages are for fixed content like About and Contact",
+            "Posts are longer",
+            "Pages are for images only"
+          ],
+          "answer": 1,
+          "explain": "Posts are time-based blog entries. Pages are permanent, like Home, About and Contact."
+        },
+        {
+          "q": "What is the Media Library?",
+          "options": [
+            "A kind of theme",
+            "Where WordPress stores your images, videos and files",
+            "A plugin",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "The Media Library holds every file you upload, so you can reuse them on any page."
+        },
+        {
+          "q": "What is in Settings?",
+          "options": [
+            "Themes",
+            "Site title, tagline, timezone, reading and discussion options",
+            "Plugins",
+            "Posts"
+          ],
+          "answer": 1,
+          "explain": "Settings holds the site-wide choices: title, tagline, timezone and how the homepage works."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Themes: How Your Site Looks",
+      "goal": "Choose and customise a theme for your site.",
+      "video": {
+        "youtube_id": "ZzgpIR_qPnM",
+        "title": "How to Make a Professional eCommerce Website with WordPress",
+        "channel": "WinningWP"
+      },
+      "steps": [
+        "Open Appearance, then Themes, and browse the free themes.",
+        "Install a popular free theme like Astra or Blocksy.",
+        "Activate the theme and visit your site to see the change.",
+        "Use the Customizer to change colours and fonts."
+      ],
+      "task": "Install and activate a theme, then change its colours to match your brand.",
+      "challenge": "Try two themes and pick the one that fits your site best.",
+      "quiz": [
+        {
+          "q": "What is a WordPress theme?",
+          "options": [
+            "A plugin",
+            "A package that controls how your site looks: layout, colours and fonts",
+            "A kind of page",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A theme controls the design: the layout, colours, fonts and style of your site."
+        },
+        {
+          "q": "What is the Customizer?",
+          "options": [
+            "A kind of theme",
+            "A live preview tool where you change colours, fonts and layout and see the result instantly",
+            "A plugin",
+            "A page editor"
+          ],
+          "answer": 1,
+          "explain": "The Customizer lets you tweak your theme and watch the changes live before you save them."
+        },
+        {
+          "q": "Can you change themes later?",
+          "options": [
+            "No",
+            "Yes, your content stays, only the design changes",
+            "Only once",
+            "Only with a new domain"
+          ],
+          "answer": 1,
+          "explain": "Your posts and pages live separately from the theme. Changing themes changes the look, not the content."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Pages and the Block Editor",
+      "goal": "Build pages with the WordPress block editor.",
+      "video": {
+        "youtube_id": "rKTz1k2xy7w",
+        "title": "Is Your WooCommerce Store Ready for Black Friday? A Quick Security Check",
+        "channel": "WooCommerce"
+      },
+      "steps": [
+        "Create a new page called Home.",
+        "Add a heading block, a paragraph block and an image block.",
+        "Add a button block that links to your Contact page.",
+        "Publish the page and set it as your homepage in Settings."
+      ],
+      "task": "Build a Home page with a heading, text, an image and a button.",
+      "challenge": "Build an About page and a Contact page.",
+      "quiz": [
+        {
+          "q": "What is the block editor?",
+          "options": [
+            "A kind of theme",
+            "WordPress's editor where you build pages from blocks: headings, paragraphs, images, buttons",
+            "A plugin",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "The block editor builds pages from blocks. Each block is one piece: text, an image, a button or more."
+        },
+        {
+          "q": "What is a block?",
+          "options": [
+            "A kind of theme",
+            "One piece of content, like a paragraph or an image, that you can move and style",
+            "A page",
+            "A plugin"
+          ],
+          "answer": 1,
+          "explain": "A block is a single unit of content. You add, move and style blocks to build a page."
+        },
+        {
+          "q": "How do you set a page as your homepage?",
+          "options": [
+            "You cannot",
+            "In Settings, under Reading, choose a static page as the homepage",
+            "By naming it Home",
+            "By deleting the blog"
+          ],
+          "answer": 1,
+          "explain": "In Settings > Reading you pick a static page as your homepage instead of the latest posts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Business Website",
+      "goal": "Build a complete business website with WordPress.",
+      "video": {
+        "youtube_id": "3pEGqrE1aaQ",
+        "title": "WordPress - Full Course for Beginners (2026)",
+        "channel": "Metics Media"
+      },
+      "steps": [
+        "Plan the site: Home, About, Services and Contact pages.",
+        "Install a theme and set your colours and fonts.",
+        "Build all four pages with the block editor.",
+        "Set the Home page as your homepage and check every link works."
+      ],
+      "task": "Finish the business website and share the link with one person.",
+      "challenge": "Check the site on your phone to make sure it looks good there too.",
+      "quiz": [
+        {
+          "q": "What should a business website have?",
+          "options": [
+            "Only a homepage",
+            "Clear pages for what the business does, who it is and how to contact it",
+            "Many plugins",
+            "A blog only"
+          ],
+          "answer": 1,
+          "explain": "A business site needs Home, About, Services and Contact at minimum, so visitors can understand and reach the business."
+        },
+        {
+          "q": "Why check the site on a phone?",
+          "options": [
+            "To use data",
+            "Because most visitors browse on phones",
+            "To show off",
+            "To waste time"
+          ],
+          "answer": 1,
+          "explain": "Most web traffic is on phones. A site that looks broken on a phone loses most of its visitors."
+        },
+        {
+          "q": "What makes a homepage good?",
+          "options": [
+            "Many words",
+            "A clear headline, what the business does, and one clear next step",
+            "Bright colours",
+            "Many images"
+          ],
+          "answer": 1,
+          "explain": "A good homepage tells visitors in seconds what the business does and what to do next."
+        }
+      ],
+      "project": {
+        "title": "Business Website",
+        "brief": "Build a complete business website with WordPress: Home, About, Services and Contact pages, a theme with your colours and fonts, and a homepage set as the front page. Check every link and test the site on a phone.",
+        "checks": [
+          "Four pages exist: Home, About, Services and Contact.",
+          "A theme is installed with custom colours and fonts.",
+          "The Home page is set as the homepage.",
+          "Every link on the site works.",
+          "The site looks good on a phone.",
+          "The site has a clear headline and a next step on the homepage."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Plugins: Adding Features",
+      "goal": "Add features to your site with plugins.",
+      "video": {
+        "youtube_id": "KCTVfi_LNdU",
+        "title": "WordPress Tutorial for Beginners (2026) - Newest Update Full",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "Open Plugins and search for a contact form plugin like WPForms or Contact Form 7.",
+        "Install and activate the plugin.",
+        "Build a simple contact form and add it to your Contact page.",
+        "Test the form by sending yourself a message."
+      ],
+      "task": "Add a contact form to your site and test it.",
+      "challenge": "Install a plugin that adds social media share buttons.",
+      "quiz": [
+        {
+          "q": "What is a WordPress plugin?",
+          "options": [
+            "A kind of theme",
+            "An add-on that adds a feature to your site, like a form, a shop or SEO tools",
+            "A kind of page",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A plugin adds a feature. There are plugins for forms, shops, backups, SEO and almost anything else."
+        },
+        {
+          "q": "Why not install too many plugins?",
+          "options": [
+            "It is expensive",
+            "Because each plugin can slow the site and add security risks",
+            "It is hard",
+            "It deletes content"
+          ],
+          "answer": 1,
+          "explain": "Every plugin adds code. Too many can slow the site and increase the chance of a security problem."
+        },
+        {
+          "q": "What should you check before installing a plugin?",
+          "options": [
+            "Its colour",
+            "Its ratings, number of installs, and whether it was updated recently",
+            "Its price only",
+            "Its name"
+          ],
+          "answer": 1,
+          "explain": "Good plugins have many installs, good ratings and recent updates. Abandoned plugins can be unsafe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Elementor: Drag-and-Drop Design",
+      "goal": "Design pages visually with Elementor.",
+      "video": {
+        "youtube_id": "MrXO2Cg0cA8",
+        "title": "WordPress Tutorial for Beginners (2026) – Updated & Simple",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "Install and activate the Elementor plugin.",
+        "Open a page with Elementor and see the drag-and-drop editor.",
+        "Drag a heading, an image and a button onto the page.",
+        "Change the section background and add spacing."
+      ],
+      "task": "Rebuild your Home page with Elementor.",
+      "challenge": "Make a hero section with a big heading, a short line and a button.",
+      "quiz": [
+        {
+          "q": "What is Elementor?",
+          "options": [
+            "A theme",
+            "A page builder plugin that lets you design pages by dragging elements onto the canvas",
+            "A kind of hosting",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "Elementor is a visual page builder. You drag headings, images and buttons onto the page and style them live."
+        },
+        {
+          "q": "What is a section in Elementor?",
+          "options": [
+            "A kind of theme",
+            "A horizontal band of the page that holds columns and widgets",
+            "A page",
+            "A plugin"
+          ],
+          "answer": 1,
+          "explain": "A section is a row of the page. Inside it are columns, and inside columns are widgets like headings and buttons."
+        },
+        {
+          "q": "Why use a page builder instead of the block editor?",
+          "options": [
+            "It is faster always",
+            "Because it gives more control over layout, spacing and design",
+            "It is required",
+            "It is cheaper"
+          ],
+          "answer": 1,
+          "explain": "Page builders give fine control over layout and design, which is handy for landing pages and custom designs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Menus and Navigation",
+      "goal": "Build menus so visitors can find their way around your site.",
+      "video": {
+        "youtube_id": "mpPy8itXqCY",
+        "title": "WordPress Tutorial for Beginners (2026) | Step-by-Step Full",
+        "channel": "Create and Go"
+      },
+      "steps": [
+        "Open Appearance, then Menus, and create a main menu.",
+        "Add your pages to the menu in the order you want.",
+        "Add the menu to your theme's header location.",
+        "Check the menu on your live site and click every link."
+      ],
+      "task": "Build a main menu with all your pages and a footer menu with links.",
+      "challenge": "Add a 'Book now' button to your menu.",
+      "quiz": [
+        {
+          "q": "What is a menu in WordPress?",
+          "options": [
+            "A kind of page",
+            "A list of links that helps visitors move around your site",
+            "A theme",
+            "A plugin"
+          ],
+          "answer": 1,
+          "explain": "A menu is a set of links, usually in the header, that lets visitors reach your main pages."
+        },
+        {
+          "q": "Where do menus appear?",
+          "options": [
+            "Only on the homepage",
+            "In the header, footer or sidebar, depending on your theme",
+            "Only in the dashboard",
+            "Nowhere"
+          ],
+          "answer": 1,
+          "explain": "Themes have menu locations, usually a header menu and a footer menu. You assign your menu to a location."
+        },
+        {
+          "q": "Why keep menus short?",
+          "options": [
+            "It is a rule",
+            "Because visitors scan menus fast and too many links overwhelm them",
+            "It saves space",
+            "It is faster"
+          ],
+          "answer": 1,
+          "explain": "A short menu is easy to scan. Too many links make visitors stop reading and leave."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Blogging with WordPress",
+      "goal": "Write and publish blog posts that people can find.",
+      "video": {
+        "youtube_id": "TX8djQV2wKo",
+        "title": "Hostinger WordPress Tutorial 2026 - Full Course for Beginners",
+        "channel": "Hostinger"
+      },
+      "steps": [
+        "Create a new post with a clear title.",
+        "Write the post with headings, short paragraphs and one image.",
+        "Add a category and a few tags.",
+        "Publish the post and share the link."
+      ],
+      "task": "Write and publish your first blog post of at least 300 words.",
+      "challenge": "Add a featured image to the post.",
+      "quiz": [
+        {
+          "q": "What is a category?",
+          "options": [
+            "A kind of theme",
+            "A broad group for posts, like News or Tips",
+            "A tag",
+            "A page"
+          ],
+          "answer": 1,
+          "explain": "Categories group posts into broad topics. A post usually has one category."
+        },
+        {
+          "q": "What is a tag?",
+          "options": [
+            "A category",
+            "A specific keyword for a post, like 'beginner' or '2026'",
+            "A theme",
+            "A page"
+          ],
+          "answer": 1,
+          "explain": "Tags are specific keywords. They help readers find posts about one small topic."
+        },
+        {
+          "q": "What is a featured image?",
+          "options": [
+            "A kind of theme",
+            "The main image for a post, shown at the top and in lists",
+            "A logo",
+            "A background"
+          ],
+          "answer": 1,
+          "explain": "The featured image represents the post. It shows at the top of the post and in post lists."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "SEO Basics for WordPress",
+      "goal": "Help search engines find your site with basic SEO.",
+      "video": {
+        "youtube_id": "O79pJ7qXwoE",
+        "title": "How to Make a Website with WordPress - Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Install an SEO plugin like Yoast SEO or Rank Math.",
+        "Write a clear title and description for your homepage.",
+        "Add alt text to your images so search engines understand them.",
+        "Check that your site is set to be visible to search engines."
+      ],
+      "task": "Set up SEO for your homepage and your first blog post.",
+      "challenge": "Write a title and description for each of your main pages.",
+      "quiz": [
+        {
+          "q": "What is SEO?",
+          "options": [
+            "A kind of theme",
+            "Search engine optimisation: making your site easy for search engines to find and show",
+            "A plugin",
+            "A kind of hosting"
+          ],
+          "answer": 1,
+          "explain": "SEO helps your site appear in search results when people look for what you offer."
+        },
+        {
+          "q": "What is a meta description?",
+          "options": [
+            "A kind of image",
+            "The short text search engines show under your page title in results",
+            "A theme setting",
+            "A plugin"
+          ],
+          "answer": 1,
+          "explain": "The meta description is the snippet under your title in search results. A clear one gets more clicks."
+        },
+        {
+          "q": "What is alt text?",
+          "options": [
+            "A kind of theme",
+            "Text that describes an image for search engines and screen readers",
+            "A caption",
+            "A file name"
+          ],
+          "answer": 1,
+          "explain": "Alt text describes an image. It helps search engines understand it and helps blind users know what it shows."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Images and Media",
+      "goal": "Use images well: the right size, the right format, and fast loading.",
+      "video": {
+        "youtube_id": "x2EZ5bQaYMI",
+        "title": "WordPress Course for Beginners",
+        "channel": "Preet Tech Ideas"
+      },
+      "steps": [
+        "Learn the best image sizes for your theme and resize images before uploading.",
+        "Compress images so they load fast.",
+        "Add alt text to every image you upload.",
+        "Organise images in the Media Library with clear names."
+      ],
+      "task": "Compress and re-upload the images on your site, then check the site loads faster.",
+      "challenge": "Rename your images with clear names before uploading.",
+      "quiz": [
+        {
+          "q": "Why compress images?",
+          "options": [
+            "To make them prettier",
+            "Because big images slow the site down and visitors leave",
+            "To save storage only",
+            "To hide them"
+          ],
+          "answer": 1,
+          "explain": "Large images are the most common reason a site loads slowly. Compression shrinks them without visible loss."
+        },
+        {
+          "q": "What is alt text for?",
+          "options": [
+            "Decoration",
+            "It describes the image for search engines and for people who cannot see it",
+            "It is a caption",
+            "It is a file name"
+          ],
+          "answer": 1,
+          "explain": "Alt text tells search engines and screen readers what an image shows."
+        },
+        {
+          "q": "Why use clear file names?",
+          "options": [
+            "It looks tidy",
+            "Because search engines read file names, and clear names help your images get found",
+            "It is faster",
+            "It saves space"
+          ],
+          "answer": 1,
+          "explain": "A file named 'chocolate-cake.jpg' tells search engines what the image is. 'IMG_1234.jpg' tells them nothing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Blog Website",
+      "goal": "Build a complete blog website with posts, categories and SEO.",
+      "video": {
+        "youtube_id": "3YG3XLmBX4A",
+        "title": "Elementor Tutorial: Build Your First WordPress Page in 15 Minutes",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "Plan the blog: pick a topic and write down five post ideas.",
+        "Set up the blog page and categories.",
+        "Write and publish three posts with images and alt text.",
+        "Set up SEO for the site and share one post."
+      ],
+      "task": "Finish the blog with three published posts and share the link.",
+      "challenge": "Ask one person to read a post and tell you what they think.",
+      "quiz": [
+        {
+          "q": "What makes a good blog?",
+          "options": [
+            "Many posts",
+            "Clear topics, regular posts, and posts that answer real questions",
+            "Big images",
+            "Many plugins"
+          ],
+          "answer": 1,
+          "explain": "A good blog has a clear topic, posts that help readers, and a regular rhythm."
+        },
+        {
+          "q": "Why use categories and tags?",
+          "options": [
+            "They look nice",
+            "So readers can find posts about the topics they care about",
+            "They are required",
+            "They make the site faster"
+          ],
+          "answer": 1,
+          "explain": "Categories and tags organise posts so readers can browse by topic instead of scrolling through everything."
+        },
+        {
+          "q": "What should a blog post do?",
+          "options": [
+            "Fill space",
+            "Answer a question or solve a problem for the reader",
+            "Show off",
+            "Sell something"
+          ],
+          "answer": 1,
+          "explain": "A good post helps the reader: it answers a question, teaches something or solves a problem."
+        }
+      ],
+      "project": {
+        "title": "Blog Website",
+        "brief": "Build a complete blog website: pick a topic, set up categories, write and publish three posts with images and alt text, and set up SEO for the site.",
+        "checks": [
+          "A topic and five post ideas are written down.",
+          "Categories are set up and used.",
+          "Three posts are published with images and alt text.",
+          "Each post has a featured image.",
+          "SEO is set up for the homepage and posts.",
+          "One post has been shared and read by someone else."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "WooCommerce: Your Online Shop",
+      "goal": "Turn your site into a shop with WooCommerce.",
+      "video": {
+        "youtube_id": "ZzgpIR_qPnM",
+        "title": "How to Make a Professional eCommerce Website with WordPress",
+        "channel": "WinningWP"
+      },
+      "steps": [
+        "Install and activate WooCommerce and run the setup wizard.",
+        "Set your currency, shipping and payment options.",
+        "Add your first product with a name, price and photo.",
+        "Visit your shop page and check the product shows."
+      ],
+      "task": "Add five products to your shop with prices and photos.",
+      "challenge": "Test buying one product yourself (without paying, if possible).",
+      "quiz": [
+        {
+          "q": "What is WooCommerce?",
+          "options": [
+            "A theme",
+            "A free plugin that turns WordPress into an online shop",
+            "A kind of hosting",
+            "A payment service"
+          ],
+          "answer": 1,
+          "explain": "WooCommerce adds a shop to WordPress: products, a cart, checkout and payments."
+        },
+        {
+          "q": "What do you need to sell online?",
+          "options": [
+            "Only a website",
+            "Products, prices, payment setup and a way to deliver or ship",
+            "Only a plugin",
+            "Only a domain"
+          ],
+          "answer": 1,
+          "explain": "Selling needs products with prices, a way to take payment, and a plan for delivery or shipping."
+        },
+        {
+          "q": "What is the setup wizard for?",
+          "options": [
+            "It designs your shop",
+            "It walks you through the basics: currency, shipping, payments and taxes",
+            "It writes your products",
+            "It deletes your site"
+          ],
+          "answer": 1,
+          "explain": "The wizard sets up the essentials so your shop is ready to take orders."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Products, Payments and Orders",
+      "goal": "Manage products, take payments and handle orders.",
+      "video": {
+        "youtube_id": "rKTz1k2xy7w",
+        "title": "Is Your WooCommerce Store Ready for Black Friday? A Quick Security Check",
+        "channel": "WooCommerce"
+      },
+      "steps": [
+        "Add products with prices, stock levels and descriptions.",
+        "Set up a payment method like Paystack or Stripe.",
+        "Place a test order and check it appears in WooCommerce orders.",
+        "Change an order's status from Processing to Completed."
+      ],
+      "task": "Set up payments and place a test order on your shop.",
+      "challenge": "Write down the steps from order to delivery for your shop.",
+      "quiz": [
+        {
+          "q": "What is an order status?",
+          "options": [
+            "A kind of product",
+            "The stage an order is at: pending, processing, completed or cancelled",
+            "A payment method",
+            "A shipping option"
+          ],
+          "answer": 1,
+          "explain": "Order status tracks where an order is. You update it as you pack and deliver."
+        },
+        {
+          "q": "Why test the checkout yourself?",
+          "options": [
+            "To waste time",
+            "So you find problems before real customers hit them",
+            "To get free products",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "Testing checkout yourself catches broken payments, wrong prices and confusing steps before customers do."
+        },
+        {
+          "q": "What payment methods should a Nigerian shop offer?",
+          "options": [
+            "Only cards",
+            "Bank transfer and a payment gateway like Paystack, so customers can pay how they like",
+            "Only cash",
+            "Only PayPal"
+          ],
+          "answer": 1,
+          "explain": "Nigerian customers pay by bank transfer and card. Offering both covers most buyers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Security: Keeping WordPress Safe",
+      "goal": "Protect your site from hackers with basic security.",
+      "video": {
+        "youtube_id": "3pEGqrE1aaQ",
+        "title": "WordPress - Full Course for Beginners (2026)",
+        "channel": "Metics Media"
+      },
+      "steps": [
+        "Use strong passwords and 2FA for all admin accounts.",
+        "Install a security plugin and run a scan.",
+        "Keep WordPress, themes and plugins updated.",
+        "Set up automatic backups so you can restore the site."
+      ],
+      "task": "Do a security check on your site and fix the top three issues.",
+      "challenge": "Set up weekly automatic backups.",
+      "quiz": [
+        {
+          "q": "Why is WordPress a target for hackers?",
+          "options": [
+            "It is weak",
+            "Because it powers so many sites, attackers know its weak points",
+            "It is free",
+            "It is slow"
+          ],
+          "answer": 1,
+          "explain": "WordPress is popular, so attackers study it. Most attacks target weak passwords and old plugins."
+        },
+        {
+          "q": "Why update WordPress, themes and plugins?",
+          "options": [
+            "For new features",
+            "Because updates fix security holes attackers use",
+            "To make it faster",
+            "To change the look"
+          ],
+          "answer": 1,
+          "explain": "Updates patch holes. Attackers target sites that skip them."
+        },
+        {
+          "q": "Why back up your site?",
+          "options": [
+            "To waste space",
+            "Because if the site is hacked or breaks, a backup is the only way to get it back",
+            "To make it faster",
+            "To hide it"
+          ],
+          "answer": 1,
+          "explain": "A backup lets you restore your site after a hack, a bad update or a mistake."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Speed: Making WordPress Fast",
+      "goal": "Make your site load fast with caching and optimisation.",
+      "video": {
+        "youtube_id": "KCTVfi_LNdU",
+        "title": "WordPress Tutorial for Beginners (2026) - Newest Update Full",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "Test your site's speed with a free speed test tool.",
+        "Install a caching plugin and test the speed again.",
+        "Compress your images and remove plugins you do not use.",
+        "Check the speed on your phone."
+      ],
+      "task": "Speed up your site and write down the before and after load times.",
+      "challenge": "Remove two plugins you do not need.",
+      "quiz": [
+        {
+          "q": "What is caching?",
+          "options": [
+            "A kind of backup",
+            "Saving a ready-made copy of a page so it loads fast instead of being built each time",
+            "A kind of theme",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "Caching stores a finished copy of each page. Visitors get the copy instantly instead of waiting for WordPress to build it."
+        },
+        {
+          "q": "Why does speed matter?",
+          "options": [
+            "It looks good",
+            "Because visitors leave slow sites, and search engines rank fast sites higher",
+            "It saves battery",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Slow sites lose visitors. A one-second delay can cut conversions noticeably."
+        },
+        {
+          "q": "What slows WordPress down most?",
+          "options": [
+            "Too many pages",
+            "Big images, too many plugins and no caching",
+            "Too many posts",
+            "Too many users"
+          ],
+          "answer": 1,
+          "explain": "The usual culprits are uncompressed images, too many plugins and no caching."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Forms, Email and Newsletters",
+      "goal": "Collect emails and stay in touch with visitors.",
+      "video": {
+        "youtube_id": "MrXO2Cg0cA8",
+        "title": "WordPress Tutorial for Beginners (2026) – Updated & Simple",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "Add a newsletter signup form to your site.",
+        "Connect it to an email service like Mailchimp or Brevo.",
+        "Set up a contact form that sends mail to your inbox.",
+        "Test both forms by signing up yourself."
+      ],
+      "task": "Add a newsletter form and a contact form to your site, and test both.",
+      "challenge": "Write your first welcome email for new subscribers.",
+      "quiz": [
+        {
+          "q": "Why collect email addresses?",
+          "options": [
+            "To sell them",
+            "So you can tell visitors about new posts and offers, even if they never return to the site",
+            "To fill space",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "Email lets you reach people directly. Social media may not show your posts, but email lands in their inbox."
+        },
+        {
+          "q": "What is a lead magnet?",
+          "options": [
+            "A kind of plugin",
+            "Something free you offer in exchange for an email address, like a guide or a discount",
+            "A kind of form",
+            "A theme"
+          ],
+          "answer": 1,
+          "explain": "A lead magnet is a free gift that makes signing up worth it: a guide, a checklist or a discount."
+        },
+        {
+          "q": "Why test your forms?",
+          "options": [
+            "To waste time",
+            "Because a broken form loses every visitor who tries to contact you",
+            "To get emails",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "A form that does not send is worse than no form. Test it so you know it works."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Client Work: Building for Others",
+      "goal": "Learn how to build WordPress sites for paying clients.",
+      "video": {
+        "youtube_id": "mpPy8itXqCY",
+        "title": "WordPress Tutorial for Beginners (2026) | Step-by-Step Full",
+        "channel": "Create and Go"
+      },
+      "steps": [
+        "Write down what to ask a client before you start: goals, content, budget, deadline.",
+        "Make a simple quote for a small business website.",
+        "Agree on what is included: pages, revisions, training.",
+        "Plan how you will hand over the site and teach the client to use it."
+      ],
+      "task": "Write a client brief and a quote for a pretend client.",
+      "challenge": "Practise explaining your price in one sentence.",
+      "quiz": [
+        {
+          "q": "What should you ask a client first?",
+          "options": [
+            "Their favourite colour",
+            "Their goals, their content, their budget and their deadline",
+            "Their password",
+            "Their age"
+          ],
+          "answer": 1,
+          "explain": "Goals, content, budget and deadline decide everything about the project. Ask them first."
+        },
+        {
+          "q": "Why agree on revisions before you start?",
+          "options": [
+            "To waste time",
+            "So the client knows how many changes are included and you do not work forever for free",
+            "To show off",
+            "To hide costs"
+          ],
+          "answer": 1,
+          "explain": "Agreed revisions stop endless changes. Everyone knows what is included."
+        },
+        {
+          "q": "What should handover include?",
+          "options": [
+            "Nothing",
+            "The site, the logins, and a short training so the client can update it",
+            "Only the site",
+            "Only the password"
+          ],
+          "answer": 1,
+          "explain": "Handover means the client can run the site: logins, a short guide and a training session."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Complete Shop Website",
+      "goal": "Build a complete online shop for a real or imaginary business.",
+      "video": {
+        "youtube_id": "TX8djQV2wKo",
+        "title": "Hostinger WordPress Tutorial 2026 - Full Course for Beginners",
+        "channel": "Hostinger"
+      },
+      "steps": [
+        "Plan the shop: products, categories, shipping and payments.",
+        "Build the shop with WooCommerce and at least ten products.",
+        "Set up payments and test the full checkout.",
+        "Add the shop to your main menu and share the link."
+      ],
+      "task": "Finish the shop with at least ten products and a tested checkout.",
+      "challenge": "Ask one person to buy something (without paying) and tell you what was confusing.",
+      "quiz": [
+        {
+          "q": "What makes a shop trustworthy?",
+          "options": [
+            "Many products",
+            "Clear prices, real photos, contact details and a working checkout",
+            "Bright colours",
+            "Many plugins"
+          ],
+          "answer": 1,
+          "explain": "Trust comes from clarity: real prices, real photos, easy contact and a checkout that works."
+        },
+        {
+          "q": "Why test the whole checkout?",
+          "options": [
+            "To waste time",
+            "Because a broken step anywhere loses the sale",
+            "To get free products",
+            "To show off"
+          ],
+          "answer": 1,
+          "explain": "Checkout has many steps. One broken step means no sale, so test them all."
+        },
+        {
+          "q": "What should a product page have?",
+          "options": [
+            "Only a price",
+            "A clear photo, a name, a price, a description and a buy button",
+            "Only a photo",
+            "A long essay"
+          ],
+          "answer": 1,
+          "explain": "A good product page shows the product clearly, says what it costs and makes buying easy."
+        }
+      ],
+      "project": {
+        "title": "Complete Shop Website",
+        "brief": "Build a complete online shop with WooCommerce: at least ten products with prices and photos, payments set up, a tested checkout, and the shop linked from the main menu.",
+        "checks": [
+          "At least ten products exist with prices and photos.",
+          "Payments are set up.",
+          "The full checkout has been tested.",
+          "Order statuses are understood and can be updated.",
+          "The shop is linked from the main menu.",
+          "One person tested the checkout and gave feedback."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Analytics and Growing Traffic",
+      "goal": "See who visits your site and what they do.",
+      "video": {
+        "youtube_id": "O79pJ7qXwoE",
+        "title": "How to Make a Website with WordPress - Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Connect Google Analytics or a simpler tool to your site.",
+        "Check which pages get the most visitors.",
+        "Find out where visitors come from: search, social or direct.",
+        "Write down one change you will make based on what you see."
+      ],
+      "task": "Set up analytics and check your most visited page.",
+      "challenge": "Write down three things you learned about your visitors.",
+      "quiz": [
+        {
+          "q": "What is web analytics?",
+          "options": [
+            "A kind of theme",
+            "Data about who visits your site, what they look at and how long they stay",
+            "A plugin",
+            "A kind of hosting"
+          ],
+          "answer": 1,
+          "explain": "Analytics shows you your visitors: how many, where they come from and what they do on your site."
+        },
+        {
+          "q": "Why check which pages are popular?",
+          "options": [
+            "To show off",
+            "So you can make more of what works and fix what does not",
+            "To waste time",
+            "To hide pages"
+          ],
+          "answer": 1,
+          "explain": "Popular pages show what visitors want. Unpopular pages show what to fix or remove."
+        },
+        {
+          "q": "What is a bounce?",
+          "options": [
+            "A kind of error",
+            "When a visitor leaves after seeing only one page",
+            "A kind of click",
+            "A kind of form"
+          ],
+          "answer": 1,
+          "explain": "A bounce is a visit with only one page viewed. A high bounce rate can mean the page did not match what the visitor wanted."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Maintenance and Updates",
+      "goal": "Keep a WordPress site healthy after launch.",
+      "video": {
+        "youtube_id": "x2EZ5bQaYMI",
+        "title": "WordPress Course for Beginners",
+        "channel": "Preet Tech Ideas"
+      },
+      "steps": [
+        "Make a maintenance checklist: updates, backups, security scans, broken links.",
+        "Update WordPress, themes and plugins, one at a time, and check the site after each.",
+        "Check for broken links and fix them.",
+        "Write down a monthly maintenance routine."
+      ],
+      "task": "Do a full maintenance round on your site and write down what you did.",
+      "challenge": "Set a monthly reminder to repeat it.",
+      "quiz": [
+        {
+          "q": "Why update one thing at a time?",
+          "options": [
+            "It is slower",
+            "So if something breaks, you know exactly which update caused it",
+            "It is faster",
+            "It is a rule"
+          ],
+          "answer": 1,
+          "explain": "Updating everything at once makes it hard to find the cause when something breaks."
+        },
+        {
+          "q": "What should a monthly routine include?",
+          "options": [
+            "Nothing",
+            "Updates, a backup check, a security scan and a broken-link check",
+            "Only updates",
+            "Only backups"
+          ],
+          "answer": 1,
+          "explain": "A monthly routine covers updates, backups, security and links, so small problems never become big ones."
+        },
+        {
+          "q": "Why offer maintenance to clients?",
+          "options": [
+            "To make money only",
+            "Because sites need ongoing care, and clients will pay for someone they trust to do it",
+            "To waste time",
+            "To hide problems"
+          ],
+          "answer": 1,
+          "explain": "Maintenance is steady work: clients need it, and it builds a long relationship."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Selling WordPress Services",
+      "goal": "Turn your WordPress skills into income.",
+      "video": {
+        "youtube_id": "3YG3XLmBX4A",
+        "title": "Elementor Tutorial: Build Your First WordPress Page in 15 Minutes",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "List the services you can offer: business sites, blogs, shops, maintenance.",
+        "Set a price for each service based on your time and skill.",
+        "Write a short offer for a small business website.",
+        "Find one local business without a website and pitch them."
+      ],
+      "task": "Write your service list with prices and a one-page offer.",
+      "challenge": "Pitch one real business, even if they say no.",
+      "quiz": [
+        {
+          "q": "How should you price a website?",
+          "options": [
+            "Guess",
+            "Based on the work involved, your skill, and the value to the client",
+            "The cheapest possible",
+            "The same as everyone else"
+          ],
+          "answer": 1,
+          "explain": "Price on value and effort, not on guessing. A site that brings customers is worth more than one that does not."
+        },
+        {
+          "q": "Why start with small local businesses?",
+          "options": [
+            "They pay more",
+            "Because they often have no website and are easy to reach and help",
+            "They are easier to fool",
+            "They need no maintenance"
+          ],
+          "answer": 1,
+          "explain": "Local businesses without websites are everywhere, and a good site makes a visible difference for them."
+        },
+        {
+          "q": "What should your offer include?",
+          "options": [
+            "Only the price",
+            "What you will build, how long it takes, what it costs and what happens after",
+            "Only the design",
+            "Only the pages"
+          ],
+          "answer": 1,
+          "explain": "A clear offer says what you will do, when, for how much, and what support comes after."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Landing Pages That Convert",
+      "goal": "Build landing pages that turn visitors into customers.",
+      "video": {
+        "youtube_id": "ZzgpIR_qPnM",
+        "title": "How to Make a Professional eCommerce Website with WordPress",
+        "channel": "WinningWP"
+      },
+      "steps": [
+        "Learn what a landing page is: one page, one goal, one action.",
+        "Write a clear headline that states the benefit in one sentence.",
+        "Add one strong call to action and repeat it at the end.",
+        "Remove the main menu and distractions so visitors focus on the goal."
+      ],
+      "task": "Build a landing page for one product with a headline, benefits and a buy button.",
+      "challenge": "Ask one person to read it for five seconds and tell you what the page offers.",
+      "quiz": [
+        {
+          "q": "What is a landing page?",
+          "options": [
+            "The homepage",
+            "A single page built for one goal, like selling one product or collecting emails",
+            "A blog post",
+            "A kind of theme"
+          ],
+          "answer": 1,
+          "explain": "A landing page has one job. Everything on it pushes the visitor toward one action."
+        },
+        {
+          "q": "Why remove the menu from a landing page?",
+          "options": [
+            "It looks better",
+            "Because every extra link is a chance for the visitor to leave without acting",
+            "It is faster",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "A landing page focuses attention. Extra links distract from the one action you want."
+        },
+        {
+          "q": "What makes a good call to action?",
+          "options": [
+            "A long sentence",
+            "Short, clear words that say what happens, like 'Buy now' or 'Get the guide'",
+            "A big image",
+            "A bright colour only"
+          ],
+          "answer": 1,
+          "explain": "A good call to action is short and specific. It tells the visitor exactly what will happen when they click."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Child Themes: Customise Safely",
+      "goal": "Change your theme safely with a child theme.",
+      "video": {
+        "youtube_id": "rKTz1k2xy7w",
+        "title": "Is Your WooCommerce Store Ready for Black Friday? A Quick Security Check",
+        "channel": "WooCommerce"
+      },
+      "steps": [
+        "Learn what a child theme is: a theme that inherits from another theme.",
+        "Create a child theme folder with a style.css that names the parent.",
+        "Activate the child theme and check the site still looks the same.",
+        "Add one small CSS change in the child theme and see it apply."
+      ],
+      "task": "Create a child theme for your site and change one colour with it.",
+      "challenge": "Write down why you should not edit the parent theme directly.",
+      "quiz": [
+        {
+          "q": "What is a child theme?",
+          "options": [
+            "A kind of plugin",
+            "A theme that inherits a parent theme's design and lets you change it safely",
+            "A small theme",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A child theme builds on a parent theme. Your changes live in the child, so parent updates do not erase them."
+        },
+        {
+          "q": "Why not edit the parent theme directly?",
+          "options": [
+            "It is slower",
+            "Because the next theme update will overwrite your changes",
+            "It is hard",
+            "It is illegal"
+          ],
+          "answer": 1,
+          "explain": "Theme updates replace the theme's files. Changes made directly are lost. A child theme keeps them safe."
+        },
+        {
+          "q": "What goes in a child theme?",
+          "options": [
+            "Everything",
+            "Only your changes: a style.css, and any templates you override",
+            "Nothing",
+            "The whole parent theme"
+          ],
+          "answer": 1,
+          "explain": "A child theme holds only your changes. Everything else comes from the parent."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Membership Sites",
+      "goal": "Build a site where members log in to see special content.",
+      "video": {
+        "youtube_id": "3pEGqrE1aaQ",
+        "title": "WordPress - Full Course for Beginners (2026)",
+        "channel": "Metics Media"
+      },
+      "steps": [
+        "Install a membership plugin like MemberPress or Paid Member Subscriptions.",
+        "Create a membership level with a price.",
+        "Protect one page so only members can see it.",
+        "Test the signup and login as a new member."
+      ],
+      "task": "Add a members-only page to your site with a free membership level.",
+      "challenge": "Write down what content you would reserve for paying members.",
+      "quiz": [
+        {
+          "q": "What is a membership site?",
+          "options": [
+            "A kind of blog",
+            "A site where some content is only for logged-in members",
+            "A kind of shop",
+            "A forum"
+          ],
+          "answer": 1,
+          "explain": "A membership site restricts some content to members, who may pay or sign up free."
+        },
+        {
+          "q": "Why would someone pay for membership?",
+          "options": [
+            "They would not",
+            "For content, community or services they cannot get elsewhere",
+            "To see ads",
+            "To fill forms"
+          ],
+          "answer": 1,
+          "explain": "People pay for membership when the content or community is valuable enough to be worth it."
+        },
+        {
+          "q": "What should you protect with membership?",
+          "options": [
+            "Everything",
+            "Your best content, while keeping enough free to attract new members",
+            "Nothing",
+            "Only images"
+          ],
+          "answer": 1,
+          "explain": "Keep some content free to attract people, and reserve your best work for members."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Booking and Appointment Sites",
+      "goal": "Add booking to your site so clients can book you online.",
+      "video": {
+        "youtube_id": "KCTVfi_LNdU",
+        "title": "WordPress Tutorial for Beginners (2026) - Newest Update Full",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "Install a booking plugin like Amelia or Bookly.",
+        "Set your services, prices and available hours.",
+        "Add the booking form to a page.",
+        "Test a booking yourself and check the confirmation email arrives."
+      ],
+      "task": "Add a booking form to your site for one service.",
+      "challenge": "Write down the steps a client takes from booking to showing up.",
+      "quiz": [
+        {
+          "q": "What does a booking plugin do?",
+          "options": [
+            "It sells products",
+            "It lets visitors pick a service, a date and a time, and books it for you",
+            "It sends emails only",
+            "It designs pages"
+          ],
+          "answer": 1,
+          "explain": "A booking plugin shows your availability, takes the booking and sends confirmations, so you do not do it by hand."
+        },
+        {
+          "q": "Why take bookings online?",
+          "options": [
+            "It is trendy",
+            "Because clients can book any time, even when you are asleep, and you never miss a call",
+            "It is cheaper",
+            "It hides your number"
+          ],
+          "answer": 1,
+          "explain": "Online booking works around the clock. Clients book when it suits them, and you get fewer missed calls."
+        },
+        {
+          "q": "What should a booking confirmation include?",
+          "options": [
+            "Nothing",
+            "The service, date, time, price and what to bring or do next",
+            "Only the date",
+            "Only the price"
+          ],
+          "answer": 1,
+          "explain": "A good confirmation tells the client everything they need: what, when, where, how much and what to do next."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Multilingual Sites",
+      "goal": "Make your site available in more than one language.",
+      "video": {
+        "youtube_id": "MrXO2Cg0cA8",
+        "title": "WordPress Tutorial for Beginners (2026) – Updated & Simple",
+        "channel": "Create a Pro Website"
+      },
+      "steps": [
+        "Install a translation plugin like Polylang or TranslatePress.",
+        "Add a second language to your site.",
+        "Translate your homepage into the second language.",
+        "Add a language switcher to your menu so visitors can choose."
+      ],
+      "task": "Translate your homepage into a second language and test the switcher.",
+      "challenge": "Write down which pages matter most to translate first.",
+      "quiz": [
+        {
+          "q": "Why offer your site in another language?",
+          "options": [
+            "It looks good",
+            "Because it reaches people who do not read your first language",
+            "It is faster",
+            "It is required"
+          ],
+          "answer": 1,
+          "explain": "A second language opens your site to new visitors and customers who prefer that language."
+        },
+        {
+          "q": "What does a translation plugin do?",
+          "options": [
+            "It translates automatically only",
+            "It lets you write or manage translations for each page and switch between them",
+            "It deletes pages",
+            "It changes the theme"
+          ],
+          "answer": 1,
+          "explain": "A translation plugin manages versions of your pages in each language and adds a switcher for visitors."
+        },
+        {
+          "q": "What should you translate first?",
+          "options": [
+            "Everything",
+            "Your homepage, your main services and your contact page",
+            "Only the footer",
+            "Only the blog"
+          ],
+          "answer": 1,
+          "explain": "Translate the pages that matter most first: the homepage, services and contact. The rest can follow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your WordPress Project",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "mpPy8itXqCY",
+        "title": "WordPress Tutorial for Beginners (2026) | Step-by-Step Full",
+        "channel": "Create and Go"
+      },
+      "steps": [
+        "List the sites you built and pick the strongest one to finish.",
+        "Write a short plan: the client, the site, the pages and the features.",
+        "Practise explaining your site in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your site."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your site.",
+      "challenge": "Show your site to one person and note their questions, then improve it.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone WordPress project?",
+          "options": [
+            "Many pages",
+            "A real site for a real need, with a shop or blog, SEO and security done well",
+            "Loud colours",
+            "Many plugins"
+          ],
+          "answer": 1,
+          "explain": "A good capstone is a complete, useful site: good design, real content, SEO, security and speed all done."
+        },
+        {
+          "q": "Why practise explaining your site?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your site in simple words, you really understand it. That is what employers and clients look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the pages",
+            "The client or goal, the pages, the features and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers who the site is for, what it contains, the features it needs and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Build a Complete Website for a Real Client",
+    "brief": "Build a complete WordPress website for a real client or a real business idea: a business site or a shop with at least eight pages or products, SEO, security and speed done well, and a handover guide so the client can update it. Present a live demo and a short write-up of your process.",
+    "checks": [
+      "The site is for a real client or a real business idea and you can explain who it is for in one sentence.",
+      "It has at least eight pages or products.",
+      "SEO is set up with titles, descriptions and alt text.",
+      "Security is set up: strong passwords, 2FA, updates and backups.",
+      "The site loads fast on a phone and a computer.",
+      "A handover guide explains how the client can update the site.",
+      "You can present a live demo and explain how it works in simple words."
+    ],
+    "deliverables": [
+      "A live WordPress website with a link.",
+      "At least eight pages or products.",
+      "A handover guide for the client.",
+      "A short write-up of your process and what you learned.",
+      "Screenshots or a short demo video of the site."
+    ]
+  }
+}

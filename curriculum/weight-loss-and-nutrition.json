@@ -1,0 +1,1716 @@
+{
+  "course": {
+    "id": "weight-loss-and-nutrition",
+    "title": "Weight Loss and Nutrition",
+    "level": "Beginner",
+    "tagline": "Lose weight safely with food, habits and workouts that actually stick.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Start here: how weight loss works",
+      "goal": "Learn the simple idea behind losing weight safely.",
+      "video": {
+        "youtube_id": "cgWSbF38PZ0",
+        "title": "weightloss is stupid easy (for beginners)",
+        "channel": "Bryson"
+      },
+      "steps": [
+        "Watch the video and write down the main idea in one sentence.",
+        "Learn this: to lose weight, you use a little more energy than you eat.",
+        "Write down your starting weight and waist size today.",
+        "Set one small goal: lose half a kilo a week, not more."
+      ],
+      "task": "Write your starting numbers and your goal on one page.",
+      "challenge": "Explain weight loss to a friend in one sentence.",
+      "quiz": [
+        {
+          "q": "How does weight loss work?",
+          "options": [
+            "You stop eating completely",
+            "You use a little more energy than you eat",
+            "You only drink water",
+            "You exercise all day"
+          ],
+          "answer": 1,
+          "explain": "A small gap between energy in and energy out leads to slow loss."
+        },
+        {
+          "q": "How fast should you lose weight?",
+          "options": [
+            "5 kilos a week",
+            "10 kilos a week",
+            "About half a kilo a week",
+            "As fast as possible"
+          ],
+          "answer": 2,
+          "explain": "Slow loss is safe and lasts longer."
+        },
+        {
+          "q": "What should you write down first?",
+          "options": [
+            "Nothing",
+            "Only your height",
+            "Only your age",
+            "Your starting weight and waist size"
+          ],
+          "answer": 3,
+          "explain": "Starting numbers let you see progress."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Know your food: protein, carbs, fats",
+      "goal": "Learn the 3 main food groups in plain words.",
+      "video": {
+        "youtube_id": "DMZ5dJQBNuQ",
+        "title": "Complete Guide On Weight Loss",
+        "channel": "Kapil Kanodia"
+      },
+      "steps": [
+        "Protein builds and repairs muscle. List 3 protein foods.",
+        "Carbs give energy. List 3 carb foods.",
+        "Fats protect the body. List 2 healthy fat foods.",
+        "Write one meal that has all three groups."
+      ],
+      "task": "Write one meal with protein, carbs and healthy fats.",
+      "challenge": "Name 3 protein foods you can buy at a local market.",
+      "quiz": [
+        {
+          "q": "What does protein do?",
+          "options": [
+            "It gives quick energy only",
+            "It makes you thirsty",
+            "It builds and repairs muscle",
+            "It does nothing"
+          ],
+          "answer": 2,
+          "explain": "Protein is the building material for muscle."
+        },
+        {
+          "q": "What do carbs do?",
+          "options": [
+            "They build bones",
+            "They are bad for everyone",
+            "They do nothing",
+            "They give the body energy"
+          ],
+          "answer": 3,
+          "explain": "Carbs are the body's main fuel."
+        },
+        {
+          "q": "What is a healthy fat food?",
+          "options": [
+            "Avocado, nuts or olive oil",
+            "Fried snacks",
+            "Sweets",
+            "Sugary drinks"
+          ],
+          "answer": 0,
+          "explain": "Avocado, nuts and olive oil are healthy fats."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Build a healthy plate",
+      "goal": "Learn the simple plate rule for every meal.",
+      "video": {
+        "youtube_id": "IYDumDbB2Zc",
+        "title": "How To Lose Weight: A Dietitian's Step-By-Step Guide",
+        "channel": "Ivy Rooted Wellness"
+      },
+      "steps": [
+        "Draw a plate: half vegetables, a quarter protein, a quarter carbs.",
+        "Make one meal using the plate rule.",
+        "Take a photo of your plate.",
+        "Write down how full you felt after eating it."
+      ],
+      "task": "Make one meal using the plate rule.",
+      "challenge": "Use the plate rule for all meals tomorrow.",
+      "quiz": [
+        {
+          "q": "What goes on half the plate?",
+          "options": [
+            "Meat",
+            "Rice",
+            "Sweets",
+            "Vegetables"
+          ],
+          "answer": 3,
+          "explain": "Half the plate is vegetables."
+        },
+        {
+          "q": "What goes on a quarter of the plate?",
+          "options": [
+            "Protein, like beans, fish or eggs",
+            "Sweets",
+            "Fried snacks",
+            "Only rice"
+          ],
+          "answer": 0,
+          "explain": "A quarter of the plate is protein."
+        },
+        {
+          "q": "Why use the plate rule?",
+          "options": [
+            "It is only for show",
+            "It keeps meals balanced without counting",
+            "It makes food boring",
+            "It is not useful"
+          ],
+          "answer": 1,
+          "explain": "The plate rule makes balanced eating easy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Drink water, skip sugary drinks",
+      "goal": "Learn why water helps weight loss and sugary drinks hurt it.",
+      "video": {
+        "youtube_id": "Ci-5aTK_coI",
+        "title": "How to Start Your Weight Loss Journey | Beginner's Guide",
+        "channel": "Agrata Aggarwal"
+      },
+      "steps": [
+        "Count how many sugary drinks you had yesterday.",
+        "Drink a glass of water before each meal today.",
+        "Carry a water bottle with you all day.",
+        "Write down how many glasses of water you drank."
+      ],
+      "task": "Drink 6 to 8 glasses of water today.",
+      "challenge": "Go a full day with no sugary drinks.",
+      "quiz": [
+        {
+          "q": "Why drink water before a meal?",
+          "options": [
+            "It helps you feel full and eat a little less",
+            "It makes you hungry",
+            "It is only for show",
+            "It does nothing"
+          ],
+          "answer": 0,
+          "explain": "Water before meals helps you eat less."
+        },
+        {
+          "q": "What is wrong with sugary drinks?",
+          "options": [
+            "They are healthy",
+            "They add lots of calories with no fullness",
+            "They help weight loss",
+            "They have no calories"
+          ],
+          "answer": 1,
+          "explain": "Sugary drinks add calories without filling you up."
+        },
+        {
+          "q": "How much water should you aim for?",
+          "options": [
+            "1 glass a day",
+            "20 glasses a day",
+            "About 6 to 8 glasses a day",
+            "No water"
+          ],
+          "answer": 2,
+          "explain": "Six to eight glasses is a good daily aim."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Walk every day",
+      "goal": "Start a daily walking habit that burns energy gently.",
+      "video": {
+        "youtube_id": "lg9Itcx5Ejs",
+        "title": "Dr. Webster's Free Fat Loss Video Series #1- Diet",
+        "channel": "Dr. Webster"
+      },
+      "steps": [
+        "Walk for 10 minutes after one meal today.",
+        "Count your steps with your phone if you can.",
+        "Walk a little further each day this week.",
+        "Write down your steps and how you felt."
+      ],
+      "task": "Walk 10 minutes after lunch today.",
+      "challenge": "Walk 30 minutes in total today.",
+      "quiz": [
+        {
+          "q": "Why walk after a meal?",
+          "options": [
+            "It makes you hungry",
+            "It helps digestion and burns a little energy",
+            "It is bad for you",
+            "It does nothing"
+          ],
+          "answer": 1,
+          "explain": "A short walk after eating helps your body use the food."
+        },
+        {
+          "q": "How much walking should you aim for?",
+          "options": [
+            "5 minutes a week",
+            "3 hours at once",
+            "About 30 minutes a day",
+            "No walking"
+          ],
+          "answer": 2,
+          "explain": "Thirty minutes a day is a good aim."
+        },
+        {
+          "q": "What should you do if you feel tired while walking?",
+          "options": [
+            "Run faster",
+            "Stop walking forever",
+            "Ignore it",
+            "Slow down and rest"
+          ],
+          "answer": 3,
+          "explain": "Slowing down keeps walking safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Sleep helps weight loss",
+      "goal": "Learn why good sleep makes weight loss easier.",
+      "video": {
+        "youtube_id": "QG1tUO_JY1M",
+        "title": "If I Wanted to Lose My Gut FAST",
+        "channel": "Gut to Lean"
+      },
+      "steps": [
+        "Sleep 7 to 8 hours tonight.",
+        "Go to bed at the same time as last night.",
+        "Keep your phone away from your bed.",
+        "Write down how hungry you felt today."
+      ],
+      "task": "Sleep 7 to 8 hours tonight.",
+      "challenge": "Go to bed and wake up at the same time for 3 days.",
+      "quiz": [
+        {
+          "q": "Why does sleep help weight loss?",
+          "options": [
+            "Sleep does nothing",
+            "Sleep makes you gain weight",
+            "Poor sleep makes you hungrier the next day",
+            "Sleep is only for rest"
+          ],
+          "answer": 2,
+          "explain": "Good sleep keeps hunger hormones in balance."
+        },
+        {
+          "q": "How much sleep should you aim for?",
+          "options": [
+            "3 hours",
+            "12 hours",
+            "No sleep",
+            "7 to 8 hours a night"
+          ],
+          "answer": 3,
+          "explain": "Seven to eight hours is the healthy aim."
+        },
+        {
+          "q": "What should you do before bed?",
+          "options": [
+            "Put your phone away and wind down",
+            "Eat a big meal",
+            "Watch bright screens",
+            "Drink coffee"
+          ],
+          "answer": 0,
+          "explain": "Winding down helps you fall asleep."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "PROJECT WEEK 1: Your food diary",
+      "goal": "Put week 1 together: keep a simple food diary for 3 days.",
+      "video": {
+        "youtube_id": "nhBEKfYbz0Y",
+        "title": "Meal Planning For Beginners (in 6 easy steps)",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Write down everything you eat and drink for 3 days.",
+        "Note the time and how hungry you felt.",
+        "Circle one thing you can improve, like sugary drinks.",
+        "Write one small change you will make next week."
+      ],
+      "task": "Keep a food diary for 3 days.",
+      "challenge": "Find one pattern in your diary and write it down.",
+      "quiz": [
+        {
+          "q": "What is a food diary?",
+          "options": [
+            "A diet plan",
+            "A recipe book",
+            "A shopping list",
+            "A written list of what you eat and drink"
+          ],
+          "answer": 3,
+          "explain": "A food diary shows what you really eat."
+        },
+        {
+          "q": "Why keep a food diary?",
+          "options": [
+            "It shows patterns you can improve",
+            "To fill paper",
+            "It is not needed",
+            "To show off"
+          ],
+          "answer": 0,
+          "explain": "Seeing your real eating helps you change one thing."
+        },
+        {
+          "q": "What should you do with your diary?",
+          "options": [
+            "Throw it away",
+            "Pick one small thing to improve",
+            "Change everything at once",
+            "Hide it"
+          ],
+          "answer": 1,
+          "explain": "One small change at a time works best."
+        }
+      ],
+      "project": {
+        "title": "Your food diary",
+        "brief": "Keep a simple food diary for 3 days: write everything you eat and drink, note hunger, and pick one small thing to improve.",
+        "checks": [
+          "Diary covers 3 full days",
+          "Every meal and drink is written",
+          "Hunger notes are included",
+          "Found one pattern",
+          "Picked one small change",
+          "Wrote the change down"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Move more in daily life",
+      "goal": "Burn more energy with small daily moves.",
+      "video": {
+        "youtube_id": "xT2318MSFxE",
+        "title": "Keep Your Diet Simple: A Doctor's Approach to Eating Healthy",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Take the stairs instead of the lift once today.",
+        "Stand up and stretch every hour.",
+        "Walk to a nearby shop instead of driving.",
+        "Write down 3 small moves you did today."
+      ],
+      "task": "Do 3 small active things today.",
+      "challenge": "Take the stairs 3 times today.",
+      "quiz": [
+        {
+          "q": "Why do small moves help?",
+          "options": [
+            "They add up and burn energy through the day",
+            "They do nothing",
+            "They make you tired",
+            "They are a waste"
+          ],
+          "answer": 0,
+          "explain": "Small moves through the day add up."
+        },
+        {
+          "q": "What is a good small move?",
+          "options": [
+            "Sitting all day",
+            "Taking the stairs",
+            "Driving everywhere",
+            "Lying down"
+          ],
+          "answer": 1,
+          "explain": "Stairs are an easy daily exercise."
+        },
+        {
+          "q": "How often should you stand up?",
+          "options": [
+            "Never",
+            "Once a day",
+            "About once an hour",
+            "Every 5 minutes"
+          ],
+          "answer": 2,
+          "explain": "Standing once an hour breaks up long sitting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Plan your meals for the week",
+      "goal": "Learn to plan meals so you eat well without stress.",
+      "video": {
+        "youtube_id": "PWgcAvsg2GI",
+        "title": "How to Meal Prep a Week of Food in 1 HOUR!",
+        "channel": "Cambria Joy"
+      },
+      "steps": [
+        "Pick 3 healthy dinners for this week.",
+        "Write a shopping list for those meals.",
+        "Shop once and buy only what is on the list.",
+        "Cook one meal and save the rest for tomorrow."
+      ],
+      "task": "Write a 3-day meal plan and a shopping list.",
+      "challenge": "Cook one planned meal tonight.",
+      "quiz": [
+        {
+          "q": "Why plan meals?",
+          "options": [
+            "It wastes time",
+            "It stops rushed, unhealthy choices",
+            "It makes food boring",
+            "It is not needed"
+          ],
+          "answer": 1,
+          "explain": "A plan makes healthy eating easy."
+        },
+        {
+          "q": "Why write a shopping list?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "So you buy only what you need",
+            "To spend more"
+          ],
+          "answer": 2,
+          "explain": "A list stops impulse buying."
+        },
+        {
+          "q": "What should you do with leftovers?",
+          "options": [
+            "Throw them away",
+            "Eat them all at once",
+            "Leave them out",
+            "Save them for tomorrow's lunch"
+          ],
+          "answer": 3,
+          "explain": "Leftovers save time and money."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Eat slowly and notice fullness",
+      "goal": "Learn to eat slowly so you notice when you are full.",
+      "video": {
+        "youtube_id": "BS_wcm4kjGw",
+        "title": "How to make a meal plan on a budget",
+        "channel": "The Whole Home"
+      },
+      "steps": [
+        "Put your fork down between bites.",
+        "Chew each bite 10 times.",
+        "Stop eating when you feel 80 percent full.",
+        "Write down how it felt to eat slowly."
+      ],
+      "task": "Eat one meal slowly today, putting your fork down between bites.",
+      "challenge": "Eat without your phone or TV for one meal.",
+      "quiz": [
+        {
+          "q": "Why eat slowly?",
+          "options": [
+            "It wastes time",
+            "It makes food cold",
+            "It gives your body time to feel full",
+            "It does not matter"
+          ],
+          "answer": 2,
+          "explain": "Slow eating helps you stop before overeating."
+        },
+        {
+          "q": "When should you stop eating?",
+          "options": [
+            "When the plate is empty",
+            "When you feel stuffed",
+            "Never",
+            "When you feel about 80 percent full"
+          ],
+          "answer": 3,
+          "explain": "Stopping at 80 percent full avoids overeating."
+        },
+        {
+          "q": "Why put your phone away while eating?",
+          "options": [
+            "So you notice your food and fullness",
+            "It is a rule with no reason",
+            "It makes food taste bad",
+            "It is not needed"
+          ],
+          "answer": 0,
+          "explain": "Eating without screens helps you notice fullness."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Healthy snacks that fill you up",
+      "goal": "Learn snacks that keep you full without many calories.",
+      "video": {
+        "youtube_id": "LgTZJ6HgNJ8",
+        "title": "Healthy Meal Planning Video",
+        "channel": "Healthy Grocery Girl"
+      },
+      "steps": [
+        "List 3 filling snacks: fruit, nuts, yoghurt, boiled eggs.",
+        "Prepare one snack in advance for tomorrow.",
+        "Eat your snack slowly and notice if you feel full.",
+        "Write down which snack kept you full longest."
+      ],
+      "task": "Prepare a healthy snack for tomorrow.",
+      "challenge": "Swap one sugary snack for fruit this week.",
+      "quiz": [
+        {
+          "q": "What makes a good snack?",
+          "options": [
+            "Only sugar",
+            "Only salt",
+            "Nothing at all",
+            "Protein or fibre that keeps you full"
+          ],
+          "answer": 3,
+          "explain": "Protein and fibre snacks keep hunger away."
+        },
+        {
+          "q": "Why prepare snacks in advance?",
+          "options": [
+            "So you grab something healthy, not junk",
+            "It wastes time",
+            "It is not needed",
+            "It makes food boring"
+          ],
+          "answer": 0,
+          "explain": "Ready snacks stop rushed bad choices."
+        },
+        {
+          "q": "What is a filling snack?",
+          "options": [
+            "A sweet drink",
+            "A boiled egg or a handful of nuts",
+            "A bag of crisps",
+            "A candy bar"
+          ],
+          "answer": 1,
+          "explain": "Eggs and nuts keep you full for hours."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Cook at home more often",
+      "goal": "Learn why home cooking helps weight loss.",
+      "video": {
+        "youtube_id": "cgWSbF38PZ0",
+        "title": "weightloss is stupid easy (for beginners)",
+        "channel": "Bryson"
+      },
+      "steps": [
+        "Cook one meal at home today.",
+        "Use less oil: one spoon, not a flood.",
+        "Add vegetables to the meal.",
+        "Write down what you cooked and how it tasted."
+      ],
+      "task": "Cook one healthy meal at home today.",
+      "challenge": "Cook at home 3 times this week.",
+      "quiz": [
+        {
+          "q": "Why cook at home?",
+          "options": [
+            "You control the oil, salt and portions",
+            "It is slower",
+            "It is more expensive",
+            "It is not useful"
+          ],
+          "answer": 0,
+          "explain": "Home cooking lets you control what goes in."
+        },
+        {
+          "q": "How much oil should you use?",
+          "options": [
+            "A whole cup",
+            "About one spoon",
+            "As much as possible",
+            "No oil at all"
+          ],
+          "answer": 1,
+          "explain": "One spoon of oil is enough for most meals."
+        },
+        {
+          "q": "Why add vegetables to a meal?",
+          "options": [
+            "They make food boring",
+            "They add lots of calories",
+            "They fill you up with few calories",
+            "They are not needed"
+          ],
+          "answer": 2,
+          "explain": "Vegetables add bulk and nutrients cheaply."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Handle cravings simply",
+      "goal": "Learn what to do when you crave sweet or salty food.",
+      "video": {
+        "youtube_id": "DMZ5dJQBNuQ",
+        "title": "Complete Guide On Weight Loss",
+        "channel": "Kapil Kanodia"
+      },
+      "steps": [
+        "When a craving comes, wait 10 minutes and drink water.",
+        "Ask yourself: am I hungry or just bored?",
+        "If you are hungry, eat a healthy snack.",
+        "Write down one craving and what you did."
+      ],
+      "task": "Use the 10-minute wait trick once today.",
+      "challenge": "Write down 2 cravings and what you did about them.",
+      "quiz": [
+        {
+          "q": "What is a craving?",
+          "options": [
+            "Real hunger",
+            "A strong want for a certain food",
+            "A disease",
+            "A bad habit only"
+          ],
+          "answer": 1,
+          "explain": "A craving is a strong want, not always real hunger."
+        },
+        {
+          "q": "What should you do when a craving comes?",
+          "options": [
+            "Eat at once",
+            "Ignore it forever",
+            "Wait 10 minutes and drink water",
+            "Eat a lot"
+          ],
+          "answer": 2,
+          "explain": "Waiting helps you see if you are truly hungry."
+        },
+        {
+          "q": "How do you tell hunger from boredom?",
+          "options": [
+            "You cannot tell",
+            "Boredom is hunger",
+            "It does not matter",
+            "Ask: would I eat a plain meal right now?"
+          ],
+          "answer": 3,
+          "explain": "If a plain meal sounds good, you are truly hungry."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "PROJECT WEEK 2: Your weekly meal plan",
+      "goal": "Put week 2 together: write a full week of healthy meals.",
+      "video": {
+        "youtube_id": "IYDumDbB2Zc",
+        "title": "How To Lose Weight: A Dietitian's Step-By-Step Guide",
+        "channel": "Ivy Rooted Wellness"
+      },
+      "steps": [
+        "Plan 7 dinners using the plate rule.",
+        "Write a shopping list for the week.",
+        "Cook at least 3 of the meals.",
+        "Write down what worked and what was hard."
+      ],
+      "task": "Write your 7-day meal plan.",
+      "challenge": "Cook 3 planned meals this week.",
+      "quiz": [
+        {
+          "q": "What should a weekly plan include?",
+          "options": [
+            "Only one meal",
+            "Only snacks",
+            "7 dinners using the plate rule",
+            "Only drinks"
+          ],
+          "answer": 2,
+          "explain": "A full week plan makes eating easy."
+        },
+        {
+          "q": "Why shop once for the week?",
+          "options": [
+            "It wastes time",
+            "It costs more",
+            "It is not needed",
+            "It saves time and stops impulse buying"
+          ],
+          "answer": 3,
+          "explain": "One shop a week keeps you on plan."
+        },
+        {
+          "q": "What should you do if a meal is hard to cook?",
+          "options": [
+            "Swap it for a simpler one",
+            "Skip eating",
+            "Order fast food",
+            "Give up the plan"
+          ],
+          "answer": 0,
+          "explain": "A simpler swap keeps the plan going."
+        }
+      ],
+      "project": {
+        "title": "Your weekly meal plan",
+        "brief": "Write a full week of dinners using the plate rule, with a shopping list, and cook at least 3 of the meals.",
+        "checks": [
+          "Plan has 7 dinners",
+          "Every meal uses the plate rule",
+          "Shopping list is written",
+          "Cooked at least 3 meals",
+          "Used the plate rule while cooking",
+          "Wrote what worked and what was hard"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Move more: add strength",
+      "goal": "Add simple strength moves to help weight loss.",
+      "video": {
+        "youtube_id": "Ci-5aTK_coI",
+        "title": "How to Start Your Weight Loss Journey | Beginner's Guide",
+        "channel": "Agrata Aggarwal"
+      },
+      "steps": [
+        "Do 10 squats and 5 wall push-ups.",
+        "Rest 1 minute and repeat once.",
+        "Do this 3 times this week.",
+        "Write down how you felt after."
+      ],
+      "task": "Do 2 rounds of squats and push-ups today.",
+      "challenge": "Do the strength moves 3 times this week.",
+      "quiz": [
+        {
+          "q": "Why does strength help weight loss?",
+          "options": [
+            "It does nothing",
+            "It makes you gain fat",
+            "It is only for athletes",
+            "Muscle burns more energy, even at rest"
+          ],
+          "answer": 3,
+          "explain": "More muscle means your body uses more energy."
+        },
+        {
+          "q": "How often should a beginner do strength moves?",
+          "options": [
+            "About 3 times a week",
+            "Every day with no rest",
+            "Once a month",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "Three times a week builds muscle safely."
+        },
+        {
+          "q": "What is a good beginner strength move?",
+          "options": [
+            "A 100 kg lift",
+            "A bodyweight squat",
+            "A one-arm push-up",
+            "A handstand"
+          ],
+          "answer": 1,
+          "explain": "Bodyweight squats are safe and simple."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Read food labels simply",
+      "goal": "Learn to read a food label in 30 seconds.",
+      "video": {
+        "youtube_id": "lg9Itcx5Ejs",
+        "title": "Dr. Webster's Free Fat Loss Video Series #1- Diet",
+        "channel": "Dr. Webster"
+      },
+      "steps": [
+        "Look at the serving size first.",
+        "Check sugar: less than 5 grams per 100 grams is low.",
+        "Check salt: less than 0.3 grams per 100 grams is low.",
+        "Compare two similar foods and pick the better one."
+      ],
+      "task": "Compare two foods in your kitchen by their labels.",
+      "challenge": "Pick the lower-sugar option next time you shop.",
+      "quiz": [
+        {
+          "q": "What should you check first on a label?",
+          "options": [
+            "The serving size",
+            "The brand name",
+            "The colour",
+            "The price"
+          ],
+          "answer": 0,
+          "explain": "Serving size tells you what the numbers mean."
+        },
+        {
+          "q": "What is a low sugar level?",
+          "options": [
+            "50 grams per 100 grams",
+            "Less than 5 grams per 100 grams",
+            "Sugar does not matter",
+            "Any amount"
+          ],
+          "answer": 1,
+          "explain": "Under 5 grams per 100 grams is low sugar."
+        },
+        {
+          "q": "Why compare two foods?",
+          "options": [
+            "To waste time",
+            "It is not needed",
+            "To pick the healthier one",
+            "To spend more"
+          ],
+          "answer": 2,
+          "explain": "Comparing helps you choose better."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Eat out without ruining progress",
+      "goal": "Learn simple choices when you eat at a restaurant.",
+      "video": {
+        "youtube_id": "QG1tUO_JY1M",
+        "title": "If I Wanted to Lose My Gut FAST",
+        "channel": "Gut to Lean"
+      },
+      "steps": [
+        "Pick grilled food instead of fried.",
+        "Ask for sauce on the side.",
+        "Drink water instead of a sugary drink.",
+        "Stop eating when you feel full, even if food is left."
+      ],
+      "task": "Use one eat-out tip at your next meal out.",
+      "challenge": "Share a large meal with a friend.",
+      "quiz": [
+        {
+          "q": "What is a better choice at a restaurant?",
+          "options": [
+            "Fried food",
+            "Grilled food instead of fried",
+            "Extra sauce",
+            "A sugary drink"
+          ],
+          "answer": 1,
+          "explain": "Grilled food has less fat than fried."
+        },
+        {
+          "q": "Why ask for sauce on the side?",
+          "options": [
+            "It is rude",
+            "It does not matter",
+            "So you control how much you use",
+            "Sauce is healthy"
+          ],
+          "answer": 2,
+          "explain": "Sauce on the side lets you use a little."
+        },
+        {
+          "q": "What should you do with leftover food?",
+          "options": [
+            "Force yourself to finish",
+            "Eat it all at once",
+            "Throw it away",
+            "Stop when full and take it home"
+          ],
+          "answer": 3,
+          "explain": "Stopping when full is the healthy choice."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Keep going when progress slows",
+      "goal": "Learn what to do when weight loss pauses.",
+      "video": {
+        "youtube_id": "nhBEKfYbz0Y",
+        "title": "Meal Planning For Beginners (in 6 easy steps)",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Check your food diary for hidden extras.",
+        "Add one more walk this week.",
+        "Drink water before each meal.",
+        "Remember: a pause is normal, not failure."
+      ],
+      "task": "Add one extra walk this week.",
+      "challenge": "Write down 3 things you have done well so far.",
+      "quiz": [
+        {
+          "q": "Why does weight loss pause sometimes?",
+          "options": [
+            "You failed",
+            "It is over",
+            "The body adjusts and needs a small change",
+            "You must quit"
+          ],
+          "answer": 2,
+          "explain": "Pauses are normal; a small change restarts progress."
+        },
+        {
+          "q": "What is a good first fix for a pause?",
+          "options": [
+            "Stop eating",
+            "Double your exercise at once",
+            "Quit",
+            "Add one more walk and check your diary"
+          ],
+          "answer": 3,
+          "explain": "One small change is safe and works."
+        },
+        {
+          "q": "What should you remember during a pause?",
+          "options": [
+            "A pause is normal, not failure",
+            "You failed",
+            "It will never work",
+            "Give up"
+          ],
+          "answer": 0,
+          "explain": "Pauses happen to everyone; keep going."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Build your support team",
+      "goal": "Learn how friends and family help weight loss.",
+      "video": {
+        "youtube_id": "xT2318MSFxE",
+        "title": "Keep Your Diet Simple: A Doctor's Approach to Eating Healthy",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Tell one person about your goal.",
+        "Ask a friend to walk with you once a week.",
+        "Cook a healthy meal with a family member.",
+        "Write down who supports you."
+      ],
+      "task": "Tell one person your goal today.",
+      "challenge": "Walk with a friend this week.",
+      "quiz": [
+        {
+          "q": "Why tell someone your goal?",
+          "options": [
+            "It is a secret",
+            "It does not matter",
+            "It makes you weak",
+            "Support keeps you going when it gets hard"
+          ],
+          "answer": 3,
+          "explain": "Sharing your goal brings help and cheer."
+        },
+        {
+          "q": "What can a friend do to help?",
+          "options": [
+            "Walk with you and cheer you on",
+            "Bring you junk food",
+            "Tease you",
+            "Ignore you"
+          ],
+          "answer": 0,
+          "explain": "A walking friend makes it fun and steady."
+        },
+        {
+          "q": "What should you do if someone offers you junk food?",
+          "options": [
+            "Eat it all",
+            "Say no kindly and offer a healthy swap",
+            "Get angry",
+            "Hide"
+          ],
+          "answer": 1,
+          "explain": "A kind no keeps your plan on track."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Plan for parties and holidays",
+      "goal": "Learn to enjoy events without losing progress.",
+      "video": {
+        "youtube_id": "PWgcAvsg2GI",
+        "title": "How to Meal Prep a Week of Food in 1 HOUR!",
+        "channel": "Cambria Joy"
+      },
+      "steps": [
+        "Eat a healthy snack before the party.",
+        "Fill half your plate with vegetables first.",
+        "Drink water between any other drinks.",
+        "Enjoy one treat, then stop."
+      ],
+      "task": "Use the party plan at your next event.",
+      "challenge": "Eat a healthy snack before your next outing.",
+      "quiz": [
+        {
+          "q": "Why eat before a party?",
+          "options": [
+            "So you are not starving when you arrive",
+            "It is rude",
+            "It does not matter",
+            "It makes you eat more"
+          ],
+          "answer": 0,
+          "explain": "A snack before stops overeating at the party."
+        },
+        {
+          "q": "What should you fill your plate with first?",
+          "options": [
+            "Sweets",
+            "Vegetables",
+            "Fried food",
+            "Only meat"
+          ],
+          "answer": 1,
+          "explain": "Vegetables first fill you up with few calories."
+        },
+        {
+          "q": "How many treats should you enjoy?",
+          "options": [
+            "As many as possible",
+            "None at all",
+            "One, then stop",
+            "All of them"
+          ],
+          "answer": 2,
+          "explain": "One treat lets you enjoy without overdoing it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "PROJECT WEEK 3: Your full healthy week",
+      "goal": "Put week 3 together: live one full healthy week.",
+      "video": {
+        "youtube_id": "BS_wcm4kjGw",
+        "title": "How to make a meal plan on a budget",
+        "channel": "The Whole Home"
+      },
+      "steps": [
+        "Follow your meal plan for 7 days.",
+        "Walk 30 minutes every day.",
+        "Sleep 7 to 8 hours each night.",
+        "Write down what was easy and what was hard."
+      ],
+      "task": "Live your healthy week and record each day.",
+      "challenge": "Tick off every healthy day on your calendar.",
+      "quiz": [
+        {
+          "q": "What should a healthy week include?",
+          "options": [
+            "Only dieting",
+            "Planned meals, daily walks and good sleep",
+            "Only exercise",
+            "Only sleeping"
+          ],
+          "answer": 1,
+          "explain": "Food, movement and sleep work together."
+        },
+        {
+          "q": "Why record each day?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "So you can see what worked",
+            "To show off"
+          ],
+          "answer": 2,
+          "explain": "Records show your wins and your hard spots."
+        },
+        {
+          "q": "What should you do after the week?",
+          "options": [
+            "Quit",
+            "Change everything",
+            "Forget it",
+            "Keep what worked and fix what was hard"
+          ],
+          "answer": 3,
+          "explain": "Keep the wins and fix the hard parts."
+        }
+      ],
+      "project": {
+        "title": "Your full healthy week",
+        "brief": "Live one full healthy week: follow your meal plan, walk 30 minutes daily, sleep 7 to 8 hours, and record each day.",
+        "checks": [
+          "Followed the meal plan for 7 days",
+          "Walked 30 minutes each day",
+          "Slept 7 to 8 hours each night",
+          "Recorded each day",
+          "Noted what was easy",
+          "Noted what was hard"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Check your progress",
+      "goal": "Measure your progress the right way.",
+      "video": {
+        "youtube_id": "LgTZJ6HgNJ8",
+        "title": "Healthy Meal Planning Video",
+        "channel": "Healthy Grocery Girl"
+      },
+      "steps": [
+        "Weigh yourself at the same time of day.",
+        "Measure your waist with a tape.",
+        "Compare with your starting numbers.",
+        "Write down what improved."
+      ],
+      "task": "Record your weight and waist today.",
+      "challenge": "Compare with your day 1 numbers.",
+      "quiz": [
+        {
+          "q": "When should you weigh yourself?",
+          "options": [
+            "Any time",
+            "After a big meal",
+            "At the same time of day each time",
+            "At night only"
+          ],
+          "answer": 2,
+          "explain": "Same time gives true comparisons."
+        },
+        {
+          "q": "What else should you measure besides weight?",
+          "options": [
+            "Your height",
+            "Your shoe size",
+            "Nothing",
+            "Your waist size"
+          ],
+          "answer": 3,
+          "explain": "Waist size shows fat loss even when weight pauses."
+        },
+        {
+          "q": "How often should you weigh yourself?",
+          "options": [
+            "Once a week",
+            "Every hour",
+            "Once a year",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "Once a week shows the trend without stress."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Make it last: habits for life",
+      "goal": "Learn how to keep your new habits for good.",
+      "video": {
+        "youtube_id": "cgWSbF38PZ0",
+        "title": "weightloss is stupid easy (for beginners)",
+        "channel": "Bryson"
+      },
+      "steps": [
+        "Pick 3 habits you want to keep forever.",
+        "Write each habit on a card and put it where you see it.",
+        "Plan what to do when life gets busy.",
+        "Celebrate how far you have come."
+      ],
+      "task": "Write your 3 forever habits on cards.",
+      "challenge": "Celebrate your progress today.",
+      "quiz": [
+        {
+          "q": "What makes a habit last?",
+          "options": [
+            "Doing it once",
+            "Doing it perfectly",
+            "Doing it alone",
+            "Doing it small and often"
+          ],
+          "answer": 3,
+          "explain": "Small and often builds habits that stick."
+        },
+        {
+          "q": "What should you do when life gets busy?",
+          "options": [
+            "Keep a tiny version of the habit",
+            "Quit completely",
+            "Do nothing",
+            "Wait for a perfect week"
+          ],
+          "answer": 0,
+          "explain": "A tiny version keeps the habit alive."
+        },
+        {
+          "q": "Why celebrate progress?",
+          "options": [
+            "It is silly",
+            "It reminds you how far you have come",
+            "It wastes time",
+            "It is not needed"
+          ],
+          "answer": 1,
+          "explain": "Celebrating keeps you going."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Cook a healthy feast",
+      "goal": "Cook a full healthy meal for yourself or family.",
+      "video": {
+        "youtube_id": "DMZ5dJQBNuQ",
+        "title": "Complete Guide On Weight Loss",
+        "channel": "Kapil Kanodia"
+      },
+      "steps": [
+        "Pick a protein, a carb and two vegetables.",
+        "Cook using the plate rule.",
+        "Use one spoon of oil and less salt.",
+        "Share the meal and enjoy it slowly."
+      ],
+      "task": "Cook a healthy feast today.",
+      "challenge": "Teach a family member the plate rule.",
+      "quiz": [
+        {
+          "q": "What should a healthy feast have?",
+          "options": [
+            "Protein, carbs and vegetables",
+            "Only meat",
+            "Only rice",
+            "Only sweets"
+          ],
+          "answer": 0,
+          "explain": "A feast with all food groups is balanced."
+        },
+        {
+          "q": "How much oil should you use?",
+          "options": [
+            "A whole cup",
+            "About one spoon",
+            "As much as possible",
+            "No oil"
+          ],
+          "answer": 1,
+          "explain": "One spoon is enough for most meals."
+        },
+        {
+          "q": "Why share a healthy meal?",
+          "options": [
+            "It is a waste",
+            "It is not needed",
+            "It helps your family eat well too",
+            "It costs more"
+          ],
+          "answer": 2,
+          "explain": "Sharing spreads healthy habits."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Plan your next month",
+      "goal": "Make a plan to keep losing weight safely next month.",
+      "video": {
+        "youtube_id": "IYDumDbB2Zc",
+        "title": "How To Lose Weight: A Dietitian's Step-By-Step Guide",
+        "channel": "Ivy Rooted Wellness"
+      },
+      "steps": [
+        "Set a goal for next month: half a kilo a week.",
+        "Pick 3 meals you will cook every week.",
+        "Pick 3 days to walk and 3 days for strength.",
+        "Write the plan on one page."
+      ],
+      "task": "Write your next-month plan.",
+      "challenge": "Put your plan where you can see it.",
+      "quiz": [
+        {
+          "q": "What is a safe monthly goal?",
+          "options": [
+            "10 kilos a month",
+            "About 2 kilos a month",
+            "20 kilos a month",
+            "No goal"
+          ],
+          "answer": 1,
+          "explain": "Two kilos a month is safe and steady."
+        },
+        {
+          "q": "What should your plan include?",
+          "options": [
+            "Only dieting",
+            "Only exercise",
+            "Meals, walks and strength days",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "Food and movement together work best."
+        },
+        {
+          "q": "Why write the plan down?",
+          "options": [
+            "To fill paper",
+            "It is not needed",
+            "To show off",
+            "So you can see it and follow it"
+          ],
+          "answer": 3,
+          "explain": "A written plan is easy to follow."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Handle stress without food",
+      "goal": "Learn ways to calm stress that do not use food.",
+      "video": {
+        "youtube_id": "Ci-5aTK_coI",
+        "title": "How to Start Your Weight Loss Journey | Beginner's Guide",
+        "channel": "Agrata Aggarwal"
+      },
+      "steps": [
+        "When stressed, take 5 slow breaths.",
+        "Go for a 10-minute walk.",
+        "Call a friend and talk.",
+        "Write down what stressed you and what helped."
+      ],
+      "task": "Use one stress trick today instead of snacking.",
+      "challenge": "Write down 3 stress tricks that work for you.",
+      "quiz": [
+        {
+          "q": "Why do people eat when stressed?",
+          "options": [
+            "They are always hungry",
+            "It is a disease",
+            "Food feels like comfort in the moment",
+            "It is the only way"
+          ],
+          "answer": 2,
+          "explain": "Stress eating is a habit, not real hunger."
+        },
+        {
+          "q": "What is a good stress trick?",
+          "options": [
+            "Eating a lot",
+            "Shouting",
+            "Ignoring it",
+            "A walk or slow breathing"
+          ],
+          "answer": 3,
+          "explain": "A walk or breathing calms the body."
+        },
+        {
+          "q": "What should you do after a stressful day?",
+          "options": [
+            "Rest, breathe and talk to someone",
+            "Eat a lot",
+            "Stay up late",
+            "Skip meals"
+          ],
+          "answer": 0,
+          "explain": "Rest and talk help more than food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Your healthy shopping list",
+      "goal": "Learn to shop for a healthy week in one trip.",
+      "video": {
+        "youtube_id": "lg9Itcx5Ejs",
+        "title": "Dr. Webster's Free Fat Loss Video Series #1- Diet",
+        "channel": "Dr. Webster"
+      },
+      "steps": [
+        "Plan your meals first, then write the list.",
+        "Shop the outside of the shop first: fruit, vegetables and meat.",
+        "Pick whole foods you can see and name.",
+        "Skip sugary drinks and snacks at the till.",
+        "Buy frozen vegetables as a back-up.",
+        "Check your list before you pay."
+      ],
+      "task": "Write a shopping list for your next week.",
+      "challenge": "Buy only what is on your list.",
+      "quiz": [
+        {
+          "q": "Why plan meals before shopping?",
+          "options": [
+            "It wastes time",
+            "It is not needed",
+            "It makes food cost more",
+            "So you buy only what you need"
+          ],
+          "answer": 3,
+          "explain": "Planning first stops impulse buying."
+        },
+        {
+          "q": "Where are the fresh foods in most shops?",
+          "options": [
+            "Around the outside edges",
+            "In the middle aisles",
+            "At the till",
+            "In the freezer only"
+          ],
+          "answer": 0,
+          "explain": "Fresh food usually sits around the edges of the shop."
+        },
+        {
+          "q": "What is a good back-up food?",
+          "options": [
+            "Sweets",
+            "Frozen vegetables",
+            "Fizzy drinks",
+            "Crisps"
+          ],
+          "answer": 1,
+          "explain": "Frozen vegetables are healthy and last for months."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Get ready for your capstone",
+      "goal": "Review the whole course and prepare your final project.",
+      "video": {
+        "youtube_id": "QG1tUO_JY1M",
+        "title": "If I Wanted to Lose My Gut FAST",
+        "channel": "Gut to Lean"
+      },
+      "steps": [
+        "Read your notes from weeks 1 to 4.",
+        "List 5 things you learned about food and weight.",
+        "Practise your capstone meal plan once.",
+        "Write down any questions you still have."
+      ],
+      "task": "List 5 things you learned in this course.",
+      "challenge": "Cook one capstone meal from memory.",
+      "quiz": [
+        {
+          "q": "What is the capstone?",
+          "options": [
+            "A final project that shows what you learned",
+            "A test with no help",
+            "A holiday",
+            "A new kitchen"
+          ],
+          "answer": 0,
+          "explain": "The capstone is your final show of skill."
+        },
+        {
+          "q": "What should you review before the capstone?",
+          "options": [
+            "Nothing",
+            "Your notes from all four weeks",
+            "Only week 1",
+            "Only the videos"
+          ],
+          "answer": 1,
+          "explain": "Reviewing all weeks brings the course together."
+        },
+        {
+          "q": "How do you know you are ready?",
+          "options": [
+            "You watched all videos",
+            "You own a cookbook",
+            "You can plan a healthy week and cook the meals",
+            "You read one book"
+          ],
+          "answer": 2,
+          "explain": "Planning and cooking a healthy week shows you are ready."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Final practice day",
+      "goal": "Practise your capstone once more, then rest.",
+      "video": {
+        "youtube_id": "nhBEKfYbz0Y",
+        "title": "Meal Planning For Beginners (in 6 easy steps)",
+        "channel": "Goodness Lover"
+      },
+      "steps": [
+        "Cook one capstone meal and time it.",
+        "Check your meal plan for the week.",
+        "Fix anything that felt hard.",
+        "Rest well tonight."
+      ],
+      "task": "Cook one capstone meal and time it.",
+      "challenge": "Fix one hard part of your plan.",
+      "quiz": [
+        {
+          "q": "Why practise once more?",
+          "options": [
+            "It wastes time",
+            "Practice makes the real run calm and smooth",
+            "It is not needed",
+            "It makes you nervous"
+          ],
+          "answer": 1,
+          "explain": "Practice turns worry into calm confidence."
+        },
+        {
+          "q": "What should you check after practice?",
+          "options": [
+            "Nothing",
+            "Only your plate",
+            "Your timing, your portions and your plan",
+            "Only the music"
+          ],
+          "answer": 2,
+          "explain": "Checking timing and portions makes the week smooth."
+        },
+        {
+          "q": "What should you do the night before?",
+          "options": [
+            "Cook all night",
+            "Skip sleep",
+            "Eat nothing",
+            "Rest well"
+          ],
+          "answer": 3,
+          "explain": "Good rest helps you do your best."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone day: your healthy week",
+      "goal": "Show what you learned: present your healthy week plan and cook one meal.",
+      "video": {
+        "youtube_id": "xT2318MSFxE",
+        "title": "Keep Your Diet Simple: A Doctor's Approach to Eating Healthy",
+        "channel": "Dr. Austin Blanchon"
+      },
+      "steps": [
+        "Show your 7-day meal plan using the plate rule.",
+        "Cook one full healthy meal.",
+        "Explain your plan in simple words.",
+        "Write a short report on your month."
+      ],
+      "task": "Present your plan, cook your meal and write your report.",
+      "challenge": "Hand in your report and celebrate.",
+      "quiz": [
+        {
+          "q": "What should your plan show?",
+          "options": [
+            "Only one meal",
+            "Only snacks",
+            "7 days of balanced meals",
+            "Nothing"
+          ],
+          "answer": 2,
+          "explain": "A full week plan shows real skill."
+        },
+        {
+          "q": "What should your meal include?",
+          "options": [
+            "Only meat",
+            "Only rice",
+            "Only sweets",
+            "Protein, carbs and vegetables"
+          ],
+          "answer": 3,
+          "explain": "A balanced meal has all food groups."
+        },
+        {
+          "q": "What goes in your report?",
+          "options": [
+            "What you did and what you learned",
+            "Only the date",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A short report shows what you learned."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your healthy week plan",
+    "brief": "Present a 7-day healthy meal plan using the plate rule, cook one full balanced meal, explain your plan in simple words, and write a short report on your month.",
+    "checks": [
+      "Plan has 7 balanced days",
+      "Every meal uses the plate rule",
+      "Cooked one full meal",
+      "Explained the plan simply",
+      "Measured progress",
+      "Wrote a short report",
+      "Listed one habit to keep"
+    ],
+    "deliverables": [
+      "A 7-day meal plan",
+      "A shopping list",
+      "A food diary from week 1",
+      "A short video or photos of your meal",
+      "A written report"
+    ]
+  }
+}

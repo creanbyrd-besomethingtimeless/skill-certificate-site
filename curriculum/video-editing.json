@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "video-editing",
+    "title": "Video Editing",
+    "level": "Beginner",
+    "tagline": "Edit clean, sharp videos with CapCut and Premiere Pro, from cuts and captions to a finished upload.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet your editor",
+      "goal": "Open CapCut and know the main parts of the screen.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Download the free CapCut app on your phone or computer.",
+        "Open CapCut and tap New Project.",
+        "Pick one short video clip from your gallery.",
+        "Look at the timeline. It is the long bar at the bottom where your clips sit."
+      ],
+      "task": "Open CapCut and find the timeline, the preview screen, and the play button.",
+      "challenge": "Open CapCut again without help and start a new project in under one minute.",
+      "quiz": [
+        {
+          "q": "What is a timeline in a video editor?",
+          "options": [
+            "The long bar where you line up your clips",
+            "The list of songs in the app",
+            "The button that saves your video",
+            "The color of your text"
+          ],
+          "answer": 0,
+          "explain": "The timeline is the long bar at the bottom. You place your clips on it in order."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet your editor\"?",
+          "options": [
+            "Open Premiere Pro and set up your first project.",
+            "Edit a short video that teaches one simple thing.",
+            "Export a video in 1080p for YouTube.",
+            "Open CapCut and know the main parts of the screen."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Open CapCut and know the main parts of the screen."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick one short video clip from your gallery.",
+            "Look at the timeline. It is the long bar at the bottom where your clips sit.",
+            "Download the free CapCut app on your phone or computer.",
+            "Open CapCut and tap New Project."
+          ],
+          "answer": 2,
+          "explain": "Start with: Download the free CapCut app on your phone or computer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your first cut",
+      "goal": "Cut out the boring parts of a clip.",
+      "video": {
+        "youtube_id": "eCsM0r3RNc4",
+        "title": "Premiere Pro Full Course Tutorial (6+ Hours)",
+        "channel": "Learnit Training"
+      },
+      "steps": [
+        "Add one clip to the timeline.",
+        "Play the clip and find a boring part.",
+        "Tap the clip, move the white line to the boring part, and tap Split.",
+        "Tap the boring part and delete it."
+      ],
+      "task": "Cut one 20-second clip down to 10 seconds by removing the dull parts.",
+      "challenge": "Cut out every pause and mistake in a 30-second talking clip.",
+      "quiz": [
+        {
+          "q": "What does it mean to trim a clip?",
+          "options": [
+            "To cut off the start or end of a clip",
+            "To make the clip louder",
+            "To add music to a clip",
+            "To change the clip color"
+          ],
+          "answer": 0,
+          "explain": "Trimming means cutting off the parts you do not need at the start or end."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first cut\"?",
+          "options": [
+            "Cut clips so they land on the music beat.",
+            "Edit a short video made for social media.",
+            "Cut out the boring parts of a clip.",
+            "Use the razor tool to cut clips in Premiere Pro."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Cut out the boring parts of a clip."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Tap the boring part and delete it.",
+            "Add one clip to the timeline.",
+            "Play the clip and find a boring part.",
+            "Tap the clip, move the white line to the boring part, and tap Split."
+          ],
+          "answer": 1,
+          "explain": "Start with: Add one clip to the timeline."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Put clips in order",
+      "goal": "Join three clips into one short video.",
+      "video": {
+        "youtube_id": "VUMVsGm0xOE",
+        "title": "CapCut App Video Editing Tutorial - COMPLETE Guide (2025)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Pick three short clips about one thing.",
+        "Add them to the timeline in the order you want.",
+        "Drag a clip left or right to change its place.",
+        "Play the video from the start to the end."
+      ],
+      "task": "Make a 15-second video from three clips in the right order.",
+      "challenge": "Make the same video again, but change the order so the best clip comes first.",
+      "quiz": [
+        {
+          "q": "What is a timeline in a video editor?",
+          "options": [
+            "The long bar where you line up your clips",
+            "The list of songs in the app",
+            "The button that saves your video",
+            "The color of your text"
+          ],
+          "answer": 0,
+          "explain": "The timeline is the long bar at the bottom. You place your clips on it in order."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Put clips in order\"?",
+          "options": [
+            "Pick three edits you like and copy one idea.",
+            "Join three clips into one short video.",
+            "Fix quiet audio and remove background noise.",
+            "Use extra video to hide a cut."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Join three clips into one short video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick three short clips about one thing.",
+            "Add them to the timeline in the order you want.",
+            "Drag a clip left or right to change its place.",
+            "Play the video from the start to the end."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick three short clips about one thing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Add music",
+      "goal": "Add a music track and keep it quiet under talking.",
+      "video": {
+        "youtube_id": "ge-MmahCcWg",
+        "title": "3 1/2 hour beginner video editing course",
+        "channel": "VideoRevealed"
+      },
+      "steps": [
+        "Open the Audio menu in CapCut.",
+        "Pick a calm song from the free music list.",
+        "Drag it to the timeline under your video.",
+        "Turn the music volume down to about 20 percent."
+      ],
+      "task": "Add music to your video from day 3 and set the volume low.",
+      "challenge": "Add music that starts quiet and gets louder at the end.",
+      "quiz": [
+        {
+          "q": "What does it mean to trim a clip?",
+          "options": [
+            "To cut off the start or end of a clip",
+            "To make the clip louder",
+            "To add music to a clip",
+            "To change the clip color"
+          ],
+          "answer": 0,
+          "explain": "Trimming means cutting off the parts you do not need at the start or end."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add music\"?",
+          "options": [
+            "Add a music track and keep it quiet under talking.",
+            "Make a dull clip brighter and warmer.",
+            "Style captions so they are big and clear.",
+            "Use keyboard shortcuts to edit in half the time."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Add a music track and keep it quiet under talking."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a calm song from the free music list.",
+            "Drag it to the timeline under your video.",
+            "Turn the music volume down to about 20 percent.",
+            "Open the Audio menu in CapCut."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open the Audio menu in CapCut."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Add words on screen",
+      "goal": "Add a title and captions to a video.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Tap Text, then Add Text, and type a short title.",
+        "Move the title to the top of the screen.",
+        "Tap Auto Captions and pick the language you speak.",
+        "Read the captions and fix any wrong words."
+      ],
+      "task": "Add a title and auto captions to one of your videos.",
+      "challenge": "Change the caption color and size so it is easy to read on a phone.",
+      "quiz": [
+        {
+          "q": "What is a timeline in a video editor?",
+          "options": [
+            "The long bar where you line up your clips",
+            "The list of songs in the app",
+            "The button that saves your video",
+            "The color of your text"
+          ],
+          "answer": 0,
+          "explain": "The timeline is the long bar at the bottom. You place your clips on it in order."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add words on screen\"?",
+          "options": [
+            "Add a simple moving title to a video.",
+            "Add three sound effects at the right moments.",
+            "Pick the best frame and save it as a picture.",
+            "Add a title and captions to a video."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Add a title and captions to a video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Tap Auto Captions and pick the language you speak.",
+            "Read the captions and fix any wrong words.",
+            "Tap Text, then Add Text, and type a short title.",
+            "Move the title to the top of the screen."
+          ],
+          "answer": 2,
+          "explain": "Start with: Tap Text, then Add Text, and type a short title."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Smooth moves between clips",
+      "goal": "Add one simple fade between two clips.",
+      "video": {
+        "youtube_id": "7I1Xmyu0gzM",
+        "title": "Learn Video Editing from Zero to Pro: Filmora 15 Full Course 2026",
+        "channel": "Tausif Khalid"
+      },
+      "steps": [
+        "Open your video from day 3.",
+        "Tap the small square between two clips.",
+        "Pick the Fade transition.",
+        "Play the video and watch the clips blend into each other."
+      ],
+      "task": "Add a fade between every clip in a short video.",
+      "challenge": "Try three transitions and pick the one that looks the most calm.",
+      "quiz": [
+        {
+          "q": "What does it mean to trim a clip?",
+          "options": [
+            "To cut off the start or end of a clip",
+            "To make the clip louder",
+            "To add music to a clip",
+            "To change the clip color"
+          ],
+          "answer": 0,
+          "explain": "Trimming means cutting off the parts you do not need at the start or end."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Smooth moves between clips\"?",
+          "options": [
+            "Steady a shaky clip.",
+            "Follow a short brief and deliver on time.",
+            "Add one simple fade between two clips.",
+            "Make a slow-motion moment in a video."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Add one simple fade between two clips."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play the video and watch the clips blend into each other.",
+            "Open your video from day 3.",
+            "Tap the small square between two clips.",
+            "Pick the Fade transition."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open your video from day 3."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Edit a 30-second video",
+      "goal": "Finish your first full edit.",
+      "video": {
+        "youtube_id": "4B0rb15L4Ac",
+        "title": "Free Video Editing Course | Wondershare Filmora 16 Complete Course (Basic to Advanced)",
+        "channel": "Sufiyan Khan"
+      },
+      "steps": [
+        "Pick 3 or more clips about your day.",
+        "Cut out the boring parts.",
+        "Add a title at the start.",
+        "Add music and export the video."
+      ],
+      "task": "Finish and export a 30-second video about your day.",
+      "challenge": "Show your video to a friend and ask what part they liked most.",
+      "quiz": [
+        {
+          "q": "What is a timeline in a video editor?",
+          "options": [
+            "The long bar where you line up your clips",
+            "The list of songs in the app",
+            "The button that saves your video",
+            "The color of your text"
+          ],
+          "answer": 0,
+          "explain": "The timeline is the long bar at the bottom. You place your clips on it in order."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit a 30-second video\"?",
+          "options": [
+            "Spot and fix five common editing mistakes.",
+            "Finish your first full edit.",
+            "Edit a short video that teaches one simple thing.",
+            "Export a video in 1080p for YouTube."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Finish your first full edit."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick 3 or more clips about your day.",
+            "Cut out the boring parts.",
+            "Add a title at the start.",
+            "Add music and export the video."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick 3 or more clips about your day."
+        }
+      ],
+      "project": {
+        "title": "My Day in 30 Seconds",
+        "brief": "Edit a 30-second video about your day, using three or more clips.",
+        "checks": [
+          "Video is 25 to 35 seconds long",
+          "Has at least 3 clips",
+          "Has a title at the start",
+          "Has music",
+          "Has no long boring parts",
+          "Exports and plays well"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Meet Premiere Pro",
+      "goal": "Open Premiere Pro and set up your first project.",
+      "video": {
+        "youtube_id": "C5O353fpPwM",
+        "title": "CapCut for PC & Mac: Beginner Tutorial 2026",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Open Premiere Pro on your computer.",
+        "Click New Project and give it a simple name.",
+        "Import one video clip into the project.",
+        "Drag the clip to the timeline at the bottom."
+      ],
+      "task": "Open Premiere Pro, start a project, and add one clip to the timeline.",
+      "challenge": "Find the razor tool, the selection tool, and the play button without help.",
+      "quiz": [
+        {
+          "q": "What is 1080p?",
+          "options": [
+            "A common video size that looks sharp on most screens",
+            "A type of music file",
+            "A video editing app",
+            "A kind of camera lens"
+          ],
+          "answer": 0,
+          "explain": "1080p is a clear video size. It looks sharp on phones, laptops and TVs."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet Premiere Pro\"?",
+          "options": [
+            "Open Premiere Pro and set up your first project.",
+            "Cut clips so they land on the music beat.",
+            "Edit a short video made for social media.",
+            "Build a checklist you use before every export."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Open Premiere Pro and set up your first project."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Click New Project and give it a simple name.",
+            "Import one video clip into the project.",
+            "Drag the clip to the timeline at the bottom.",
+            "Open Premiere Pro on your computer."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open Premiere Pro on your computer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Cut like a pro",
+      "goal": "Use the razor tool to cut clips in Premiere Pro.",
+      "video": {
+        "youtube_id": "foYyeGLf9yU",
+        "title": "How to Make A YouTube Video for Beginners START to FINISH!",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Add a clip to the timeline in Premiere Pro.",
+        "Pick the razor tool. It looks like a small blade.",
+        "Click on the clip where you want to cut.",
+        "Delete the part you do not want."
+      ],
+      "task": "Cut a 30-second clip into three clean parts using the razor tool.",
+      "challenge": "Cut out all the mistakes in a talking clip so it sounds smooth.",
+      "quiz": [
+        {
+          "q": "Why should you keep music quiet under talking?",
+          "options": [
+            "So people can hear the words clearly",
+            "So the video file is smaller",
+            "So the video looks brighter",
+            "So the app runs faster"
+          ],
+          "answer": 0,
+          "explain": "Music that is too loud hides the words. Keep it low so the talking stays clear."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Cut like a pro\"?",
+          "options": [
+            "Use extra video to hide a cut.",
+            "Pick three edits you like and copy one idea.",
+            "Edit a 2-minute video with no help.",
+            "Use the razor tool to cut clips in Premiere Pro."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Use the razor tool to cut clips in Premiere Pro."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Click on the clip where you want to cut.",
+            "Delete the part you do not want.",
+            "Add a clip to the timeline in Premiere Pro.",
+            "Pick the razor tool. It looks like a small blade."
+          ],
+          "answer": 2,
+          "explain": "Start with: Add a clip to the timeline in Premiere Pro."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Sound that is clear",
+      "goal": "Fix quiet audio and remove background noise.",
+      "video": {
+        "youtube_id": "PxY9SswA5j8",
+        "title": "VIDEOGRAPHY BASICS for Beginners | Full Course, Start Here!",
+        "channel": "Pascal Basel"
+      },
+      "steps": [
+        "Add a clip with talking to the timeline.",
+        "Click the audio track to select it.",
+        "Turn the volume up until the voice is easy to hear.",
+        "Use the noise removal effect to soften background hiss."
+      ],
+      "task": "Make a quiet talking clip loud and clear.",
+      "challenge": "Record yourself talking in a noisy room, then clean up the sound.",
+      "quiz": [
+        {
+          "q": "What is 1080p?",
+          "options": [
+            "A common video size that looks sharp on most screens",
+            "A type of music file",
+            "A video editing app",
+            "A kind of camera lens"
+          ],
+          "answer": 0,
+          "explain": "1080p is a clear video size. It looks sharp on phones, laptops and TVs."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Sound that is clear\"?",
+          "options": [
+            "Use keyboard shortcuts to edit in half the time.",
+            "Pick your best three edits and say why they work.",
+            "Fix quiet audio and remove background noise.",
+            "Style captions so they are big and clear."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Fix quiet audio and remove background noise."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use the noise removal effect to soften background hiss.",
+            "Add a clip with talking to the timeline.",
+            "Click the audio track to select it.",
+            "Turn the volume up until the voice is easy to hear."
+          ],
+          "answer": 1,
+          "explain": "Start with: Add a clip with talking to the timeline."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Color that looks good",
+      "goal": "Make a dull clip brighter and warmer.",
+      "video": {
+        "youtube_id": "xKRh4PI-BKg",
+        "title": "The Ultimate Beginner Guide to Videography",
+        "channel": "Jason Neistadt"
+      },
+      "steps": [
+        "Add a dull-looking clip to the timeline.",
+        "Open the color or Lumetri panel.",
+        "Move the brightness slider up a little.",
+        "Move the warmth slider a little to the right."
+      ],
+      "task": "Make a dark clip brighter and warmer without making it look fake.",
+      "challenge": "Fix one clip that looks too blue and one that looks too dark.",
+      "quiz": [
+        {
+          "q": "Why should you keep music quiet under talking?",
+          "options": [
+            "So people can hear the words clearly",
+            "So the video file is smaller",
+            "So the video looks brighter",
+            "So the app runs faster"
+          ],
+          "answer": 0,
+          "explain": "Music that is too loud hides the words. Keep it low so the talking stays clear."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Color that looks good\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Make a dull clip brighter and warmer.",
+            "Add three sound effects at the right moments.",
+            "Pick the best frame and save it as a picture."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Make a dull clip brighter and warmer."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a dull-looking clip to the timeline.",
+            "Open the color or Lumetri panel.",
+            "Move the brightness slider up a little.",
+            "Move the warmth slider a little to the right."
+          ],
+          "answer": 0,
+          "explain": "Start with: Add a dull-looking clip to the timeline."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Text that moves",
+      "goal": "Add a simple moving title to a video.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Add a title to the start of your video.",
+        "Open the text settings and pick a big, bold font.",
+        "Add a simple animation, like Fade In.",
+        "Play the video and watch the title appear."
+      ],
+      "task": "Add a moving title to the start of a video.",
+      "challenge": "Make a title that slides in from the left and stops in the middle.",
+      "quiz": [
+        {
+          "q": "What is 1080p?",
+          "options": [
+            "A common video size that looks sharp on most screens",
+            "A type of music file",
+            "A video editing app",
+            "A kind of camera lens"
+          ],
+          "answer": 0,
+          "explain": "1080p is a clear video size. It looks sharp on phones, laptops and TVs."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Text that moves\"?",
+          "options": [
+            "Add a simple moving title to a video.",
+            "Steady a shaky clip.",
+            "Follow a short brief and deliver on time.",
+            "Open CapCut and know the main parts of the screen."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Add a simple moving title to a video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open the text settings and pick a big, bold font.",
+            "Add a simple animation, like Fade In.",
+            "Play the video and watch the title appear.",
+            "Add a title to the start of your video."
+          ],
+          "answer": 3,
+          "explain": "Start with: Add a title to the start of your video."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Speed up and slow down",
+      "goal": "Make a slow-motion moment in a video.",
+      "video": {
+        "youtube_id": "eCsM0r3RNc4",
+        "title": "Premiere Pro Full Course Tutorial (6+ Hours)",
+        "channel": "Learnit Training"
+      },
+      "steps": [
+        "Pick a clip with a fun action, like a jump.",
+        "Split the clip just before and just after the action.",
+        "Set that middle part to play at half speed.",
+        "Play it back and check it looks smooth."
+      ],
+      "task": "Make one action in a video play in slow motion.",
+      "challenge": "Make a boring walk look fast by speeding it up two times.",
+      "quiz": [
+        {
+          "q": "Why should you keep music quiet under talking?",
+          "options": [
+            "So people can hear the words clearly",
+            "So the video file is smaller",
+            "So the video looks brighter",
+            "So the app runs faster"
+          ],
+          "answer": 0,
+          "explain": "Music that is too loud hides the words. Keep it low so the talking stays clear."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Speed up and slow down\"?",
+          "options": [
+            "Export a video in 1080p for YouTube.",
+            "Spot and fix five common editing mistakes.",
+            "Cut out the boring parts of a clip.",
+            "Make a slow-motion moment in a video."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make a slow-motion moment in a video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Set that middle part to play at half speed.",
+            "Play it back and check it looks smooth.",
+            "Pick a clip with a fun action, like a jump.",
+            "Split the clip just before and just after the action."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a clip with a fun action, like a jump."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Edit a 1-minute how-to video",
+      "goal": "Edit a short video that teaches one simple thing.",
+      "video": {
+        "youtube_id": "VUMVsGm0xOE",
+        "title": "CapCut App Video Editing Tutorial - COMPLETE Guide (2025)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Film yourself doing one simple thing, like making tea.",
+        "Cut out the mistakes and long pauses.",
+        "Add captions for each step.",
+        "Add music and export the video."
+      ],
+      "task": "Edit and export a 1-minute how-to video.",
+      "challenge": "Ask a friend to follow your video and see if they can do the task.",
+      "quiz": [
+        {
+          "q": "What is 1080p?",
+          "options": [
+            "A common video size that looks sharp on most screens",
+            "A type of music file",
+            "A video editing app",
+            "A kind of camera lens"
+          ],
+          "answer": 0,
+          "explain": "1080p is a clear video size. It looks sharp on phones, laptops and TVs."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit a 1-minute how-to video\"?",
+          "options": [
+            "Build a checklist you use before every export.",
+            "Join three clips into one short video.",
+            "Edit a short video that teaches one simple thing.",
+            "Edit a short video made for social media."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Edit a short video that teaches one simple thing."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add music and export the video.",
+            "Film yourself doing one simple thing, like making tea.",
+            "Cut out the mistakes and long pauses.",
+            "Add captions for each step."
+          ],
+          "answer": 1,
+          "explain": "Start with: Film yourself doing one simple thing, like making tea."
+        }
+      ],
+      "project": {
+        "title": "How-To in One Minute",
+        "brief": "Edit a 1-minute video that teaches one simple thing.",
+        "checks": [
+          "Video is 50 to 70 seconds long",
+          "Steps are in a clear order",
+          "Voice is easy to hear",
+          "Captions are on screen",
+          "Has a clear ending",
+          "Exports in 1080p"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Cut on the beat",
+      "goal": "Cut clips so they land on the music beat.",
+      "video": {
+        "youtube_id": "ge-MmahCcWg",
+        "title": "3 1/2 hour beginner video editing course",
+        "channel": "VideoRevealed"
+      },
+      "steps": [
+        "Add a song with a clear beat to your timeline.",
+        "Listen and mark where the beat hits.",
+        "Cut your clips at those beat marks.",
+        "Play it back and check the cuts feel right."
+      ],
+      "task": "Edit a 20-second video where every cut lands on a beat.",
+      "challenge": "Edit the same video to a faster song and compare the feel.",
+      "quiz": [
+        {
+          "q": "What is B-roll?",
+          "options": [
+            "Extra video you show over the main video to keep it interesting",
+            "A video that failed to export",
+            "The first clip in your project",
+            "A type of music"
+          ],
+          "answer": 0,
+          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Cut on the beat\"?",
+          "options": [
+            "Add a music track and keep it quiet under talking.",
+            "Cut clips so they land on the music beat.",
+            "Pick three edits you like and copy one idea.",
+            "Edit a 2-minute video with no help."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Cut clips so they land on the music beat."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a song with a clear beat to your timeline.",
+            "Listen and mark where the beat hits.",
+            "Cut your clips at those beat marks.",
+            "Play it back and check the cuts feel right."
+          ],
+          "answer": 0,
+          "explain": "Start with: Add a song with a clear beat to your timeline."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Cover a jump cut with B-roll",
+      "goal": "Use extra video to hide a cut.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Take a talking clip and cut out a mistake in the middle.",
+        "Find a close-up clip, like your hands or the object.",
+        "Place that clip over the cut. This is called B-roll.",
+        "Play it back. The cut should now be hard to see."
+      ],
+      "task": "Fix a jump cut in a talking video using B-roll.",
+      "challenge": "Film B-roll for a video before you edit it, and use it in three places.",
+      "quiz": [
+        {
+          "q": "What do captions do?",
+          "options": [
+            "They show the spoken words as text on screen",
+            "They make the video longer",
+            "They change the music",
+            "They remove background noise"
+          ],
+          "answer": 0,
+          "explain": "Captions show the words being spoken as text, so people can follow even with the sound off."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Cover a jump cut with B-roll\"?",
+          "options": [
+            "Use extra video to hide a cut.",
+            "Use keyboard shortcuts to edit in half the time.",
+            "Pick your best three edits and say why they work.",
+            "Add a title and captions to a video."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Use extra video to hide a cut."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find a close-up clip, like your hands or the object.",
+            "Place that clip over the cut. This is called B-roll.",
+            "Play it back. The cut should now be hard to see.",
+            "Take a talking clip and cut out a mistake in the middle."
+          ],
+          "answer": 3,
+          "explain": "Start with: Take a talking clip and cut out a mistake in the middle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Captions people can read",
+      "goal": "Style captions so they are big and clear.",
+      "video": {
+        "youtube_id": "7I1Xmyu0gzM",
+        "title": "Learn Video Editing from Zero to Pro: Filmora 15 Full Course 2026",
+        "channel": "Tausif Khalid"
+      },
+      "steps": [
+        "Open a video with auto captions.",
+        "Make the caption text bigger.",
+        "Pick a bright color with a dark background behind it.",
+        "Check the captions on your phone. They must be easy to read."
+      ],
+      "task": "Make captions on a video big, bright, and easy to read.",
+      "challenge": "Style captions in two different looks and ask a friend which is easier to read.",
+      "quiz": [
+        {
+          "q": "What is B-roll?",
+          "options": [
+            "Extra video you show over the main video to keep it interesting",
+            "A video that failed to export",
+            "The first clip in your project",
+            "A type of music"
+          ],
+          "answer": 0,
+          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Captions people can read\"?",
+          "options": [
+            "Pick the best frame and save it as a picture.",
+            "Write a simple plan to keep getting better.",
+            "Add one simple fade between two clips.",
+            "Style captions so they are big and clear."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Style captions so they are big and clear."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a bright color with a dark background behind it.",
+            "Check the captions on your phone. They must be easy to read.",
+            "Open a video with auto captions.",
+            "Make the caption text bigger."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open a video with auto captions."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Sound effects",
+      "goal": "Add three sound effects at the right moments.",
+      "video": {
+        "youtube_id": "4B0rb15L4Ac",
+        "title": "Free Video Editing Course | Wondershare Filmora 16 Complete Course (Basic to Advanced)",
+        "channel": "Sufiyan Khan"
+      },
+      "steps": [
+        "Open a video with clear actions, like a door closing.",
+        "Find the sound effects list in your editor.",
+        "Add a whoosh sound when the scene changes.",
+        "Add a pop sound when text appears."
+      ],
+      "task": "Add three sound effects to a video at the right moments.",
+      "challenge": "Add a sound effect that makes a joke land better.",
+      "quiz": [
+        {
+          "q": "What do captions do?",
+          "options": [
+            "They show the spoken words as text on screen",
+            "They make the video longer",
+            "They change the music",
+            "They remove background noise"
+          ],
+          "answer": 0,
+          "explain": "Captions show the words being spoken as text, so people can follow even with the sound off."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Sound effects\"?",
+          "options": [
+            "Open CapCut and know the main parts of the screen.",
+            "Finish your first full edit.",
+            "Add three sound effects at the right moments.",
+            "Follow a short brief and deliver on time."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Add three sound effects at the right moments."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a pop sound when text appears.",
+            "Open a video with clear actions, like a door closing.",
+            "Find the sound effects list in your editor.",
+            "Add a whoosh sound when the scene changes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open a video with clear actions, like a door closing."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Fix shaky video",
+      "goal": "Steady a shaky clip.",
+      "video": {
+        "youtube_id": "C5O353fpPwM",
+        "title": "CapCut for PC & Mac: Beginner Tutorial 2026",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Add a shaky clip to your timeline.",
+        "Find the stabilization effect in your editor.",
+        "Turn it on and let it work.",
+        "Play the clip. It should look much calmer now."
+      ],
+      "task": "Steady one shaky clip.",
+      "challenge": "Film a clip while walking, then steady it and compare before and after.",
+      "quiz": [
+        {
+          "q": "What is B-roll?",
+          "options": [
+            "Extra video you show over the main video to keep it interesting",
+            "A video that failed to export",
+            "The first clip in your project",
+            "A type of music"
+          ],
+          "answer": 0,
+          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix shaky video\"?",
+          "options": [
+            "Open Premiere Pro and set up your first project.",
+            "Steady a shaky clip.",
+            "Spot and fix five common editing mistakes.",
+            "Cut out the boring parts of a clip."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Steady a shaky clip."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a shaky clip to your timeline.",
+            "Find the stabilization effect in your editor.",
+            "Turn it on and let it work.",
+            "Play the clip. It should look much calmer now."
+          ],
+          "answer": 0,
+          "explain": "Start with: Add a shaky clip to your timeline."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Export the right way",
+      "goal": "Export a video in 1080p for YouTube.",
+      "video": {
+        "youtube_id": "foYyeGLf9yU",
+        "title": "How to Make A YouTube Video for Beginners START to FINISH!",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Finish your edit and check it plays well.",
+        "Tap Export.",
+        "Pick 1080p for the size and 30 fps for the speed.",
+        "Export and watch the final video all the way through."
+      ],
+      "task": "Export a video in 1080p and watch it fully.",
+      "challenge": "Export the same video for a phone app in vertical size and compare.",
+      "quiz": [
+        {
+          "q": "What do captions do?",
+          "options": [
+            "They show the spoken words as text on screen",
+            "They make the video longer",
+            "They change the music",
+            "They remove background noise"
+          ],
+          "answer": 0,
+          "explain": "Captions show the words being spoken as text, so people can follow even with the sound off."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Export the right way\"?",
+          "options": [
+            "Export a video in 1080p for YouTube.",
+            "Build a checklist you use before every export.",
+            "Join three clips into one short video.",
+            "Use the razor tool to cut clips in Premiere Pro."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Export a video in 1080p for YouTube."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Tap Export.",
+            "Pick 1080p for the size and 30 fps for the speed.",
+            "Export and watch the final video all the way through.",
+            "Finish your edit and check it plays well."
+          ],
+          "answer": 3,
+          "explain": "Start with: Finish your edit and check it plays well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Edit a 60-second social video",
+      "goal": "Edit a short video made for social media.",
+      "video": {
+        "youtube_id": "PxY9SswA5j8",
+        "title": "VIDEOGRAPHY BASICS for Beginners | Full Course, Start Here!",
+        "channel": "Pascal Basel"
+      },
+      "steps": [
+        "Pick a topic people will stop and watch.",
+        "Film or pick clips that fit in 60 seconds.",
+        "Cut it tight. Remove every slow part.",
+        "Add captions, music, and export it."
+      ],
+      "task": "Edit and export a 60-second video for social media.",
+      "challenge": "Post your video and count how many people watch it to the end.",
+      "quiz": [
+        {
+          "q": "What is B-roll?",
+          "options": [
+            "Extra video you show over the main video to keep it interesting",
+            "A video that failed to export",
+            "The first clip in your project",
+            "A type of music"
+          ],
+          "answer": 0,
+          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit a 60-second social video\"?",
+          "options": [
+            "Edit a 2-minute video with no help.",
+            "Add a music track and keep it quiet under talking.",
+            "Fix quiet audio and remove background noise.",
+            "Edit a short video made for social media."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Edit a short video made for social media."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Cut it tight. Remove every slow part.",
+            "Add captions, music, and export it.",
+            "Pick a topic people will stop and watch.",
+            "Film or pick clips that fit in 60 seconds."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a topic people will stop and watch."
+        }
+      ],
+      "project": {
+        "title": "Social Video in 60 Seconds",
+        "brief": "Edit a 60-second video made for social media.",
+        "checks": [
+          "Video is about 60 seconds",
+          "Starts strong in the first 3 seconds",
+          "Has captions",
+          "Has music that fits",
+          "Text is big and easy to read",
+          "Exports in the right size for the app"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Find your style",
+      "goal": "Pick three edits you like and copy one idea.",
+      "video": {
+        "youtube_id": "xKRh4PI-BKg",
+        "title": "The Ultimate Beginner Guide to Videography",
+        "channel": "Jason Neistadt"
+      },
+      "steps": [
+        "Watch three videos you love.",
+        "Write down one editing idea from each one.",
+        "Pick one idea and use it in your own video.",
+        "Save the video and compare it with your first edit."
+      ],
+      "task": "Use one idea from a video you love in your own edit.",
+      "challenge": "Make the same 15-second video in three different styles.",
+      "quiz": [
+        {
+          "q": "Why do editors save their work often?",
+          "options": [
+            "So they do not lose their work if the app closes",
+            "So the video exports faster",
+            "So the music sounds better",
+            "So the colors look brighter"
+          ],
+          "answer": 0,
+          "explain": "Apps can crash. Saving often means you never lose your hard work."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Find your style\"?",
+          "options": [
+            "Add a title and captions to a video.",
+            "Make a dull clip brighter and warmer.",
+            "Pick three edits you like and copy one idea.",
+            "Pick your best three edits and say why they work."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Pick three edits you like and copy one idea."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save the video and compare it with your first edit.",
+            "Watch three videos you love.",
+            "Write down one editing idea from each one.",
+            "Pick one idea and use it in your own video."
+          ],
+          "answer": 1,
+          "explain": "Start with: Watch three videos you love."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Edit faster",
+      "goal": "Use keyboard shortcuts to edit in half the time.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Learn three shortcuts: Split, Delete, and Play/Pause.",
+        "Edit a 30-second clip using only shortcuts.",
+        "Time yourself.",
+        "Edit the same clip again and try to be faster."
+      ],
+      "task": "Edit a short video using keyboard shortcuts only.",
+      "challenge": "Write your five most-used shortcuts on a note by your computer.",
+      "quiz": [
+        {
+          "q": "What is a jump cut?",
+          "options": [
+            "A cut that skips a small part of a clip, so the speaker seems to jump forward",
+            "A cut that adds music",
+            "A cut that changes the color",
+            "A cut at the end of a video"
+          ],
+          "answer": 0,
+          "explain": "A jump cut removes a small middle part, so the speaker jumps ahead. It keeps videos fast and tight."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit faster\"?",
+          "options": [
+            "Add a simple moving title to a video.",
+            "Use keyboard shortcuts to edit in half the time.",
+            "Write a simple plan to keep getting better.",
+            "Add one simple fade between two clips."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Use keyboard shortcuts to edit in half the time."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Learn three shortcuts: Split, Delete, and Play/Pause.",
+            "Edit a 30-second clip using only shortcuts.",
+            "Time yourself.",
+            "Edit the same clip again and try to be faster."
+          ],
+          "answer": 0,
+          "explain": "Start with: Learn three shortcuts: Split, Delete, and Play/Pause."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Make a thumbnail moment",
+      "goal": "Pick the best frame and save it as a picture.",
+      "video": {
+        "youtube_id": "eCsM0r3RNc4",
+        "title": "Premiere Pro Full Course Tutorial (6+ Hours)",
+        "channel": "Learnit Training"
+      },
+      "steps": [
+        "Open a finished video in your editor.",
+        "Find the most exciting moment.",
+        "Pause on that frame.",
+        "Save that frame as a picture to use as a thumbnail."
+      ],
+      "task": "Save the best frame of a video as a picture.",
+      "challenge": "Make three thumbnail pictures from one video and pick the best.",
+      "quiz": [
+        {
+          "q": "Why do editors save their work often?",
+          "options": [
+            "So they do not lose their work if the app closes",
+            "So the video exports faster",
+            "So the music sounds better",
+            "So the colors look brighter"
+          ],
+          "answer": 0,
+          "explain": "Apps can crash. Saving often means you never lose your hard work."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a thumbnail moment\"?",
+          "options": [
+            "Pick the best frame and save it as a picture.",
+            "Open CapCut and know the main parts of the screen.",
+            "Finish your first full edit.",
+            "Make a slow-motion moment in a video."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Pick the best frame and save it as a picture."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find the most exciting moment.",
+            "Pause on that frame.",
+            "Save that frame as a picture to use as a thumbnail.",
+            "Open a finished video in your editor."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a finished video in your editor."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Edit for a client",
+      "goal": "Follow a short brief and deliver on time.",
+      "video": {
+        "youtube_id": "VUMVsGm0xOE",
+        "title": "CapCut App Video Editing Tutorial - COMPLETE Guide (2025)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Read this brief: a 30-second advert for a small shop.",
+        "Plan the video in three parts: hook, product, call to action.",
+        "Edit the video to match the brief.",
+        "Export it and check it against the brief."
+      ],
+      "task": "Edit a 30-second advert from a short written brief.",
+      "challenge": "Ask a friend to act as the client and give you one change to make.",
+      "quiz": [
+        {
+          "q": "What is a jump cut?",
+          "options": [
+            "A cut that skips a small part of a clip, so the speaker seems to jump forward",
+            "A cut that adds music",
+            "A cut that changes the color",
+            "A cut at the end of a video"
+          ],
+          "answer": 0,
+          "explain": "A jump cut removes a small middle part, so the speaker jumps ahead. It keeps videos fast and tight."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit for a client\"?",
+          "options": [
+            "Cut out the boring parts of a clip.",
+            "Open Premiere Pro and set up your first project.",
+            "Edit a short video that teaches one simple thing.",
+            "Follow a short brief and deliver on time."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Follow a short brief and deliver on time."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit the video to match the brief.",
+            "Export it and check it against the brief.",
+            "Read this brief: a 30-second advert for a small shop.",
+            "Plan the video in three parts: hook, product, call to action."
+          ],
+          "answer": 2,
+          "explain": "Start with: Read this brief: a 30-second advert for a small shop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Fix common mistakes",
+      "goal": "Spot and fix five common editing mistakes.",
+      "video": {
+        "youtube_id": "ge-MmahCcWg",
+        "title": "3 1/2 hour beginner video editing course",
+        "channel": "VideoRevealed"
+      },
+      "steps": [
+        "Open one of your old videos.",
+        "Look for dead air, shaky shots, and bad sound.",
+        "Fix one mistake at a time.",
+        "Export the fixed video."
+      ],
+      "task": "Fix five mistakes in one of your old videos.",
+      "challenge": "Make a list of mistakes you will check for before every export.",
+      "quiz": [
+        {
+          "q": "Why do editors save their work often?",
+          "options": [
+            "So they do not lose their work if the app closes",
+            "So the video exports faster",
+            "So the music sounds better",
+            "So the colors look brighter"
+          ],
+          "answer": 0,
+          "explain": "Apps can crash. Saving often means you never lose your hard work."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix common mistakes\"?",
+          "options": [
+            "Use the razor tool to cut clips in Premiere Pro.",
+            "Cut clips so they land on the music beat.",
+            "Spot and fix five common editing mistakes.",
+            "Join three clips into one short video."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Spot and fix five common editing mistakes."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Export the fixed video.",
+            "Open one of your old videos.",
+            "Look for dead air, shaky shots, and bad sound.",
+            "Fix one mistake at a time."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open one of your old videos."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Your editing checklist",
+      "goal": "Build a checklist you use before every export.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Write down everything you check before you export.",
+        "Add sound, captions, color, and spelling to the list.",
+        "Use the list on your next video.",
+        "Keep the list where you can see it when you edit."
+      ],
+      "task": "Write your own pre-export checklist and use it once.",
+      "challenge": "Share your checklist with another learner and add their best idea.",
+      "quiz": [
+        {
+          "q": "What is a jump cut?",
+          "options": [
+            "A cut that skips a small part of a clip, so the speaker seems to jump forward",
+            "A cut that adds music",
+            "A cut that changes the color",
+            "A cut at the end of a video"
+          ],
+          "answer": 0,
+          "explain": "A jump cut removes a small middle part, so the speaker jumps ahead. It keeps videos fast and tight."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your editing checklist\"?",
+          "options": [
+            "Use extra video to hide a cut.",
+            "Build a checklist you use before every export.",
+            "Add a music track and keep it quiet under talking.",
+            "Fix quiet audio and remove background noise."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Build a checklist you use before every export."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down everything you check before you export.",
+            "Add sound, captions, color, and spelling to the list.",
+            "Use the list on your next video.",
+            "Keep the list where you can see it when you edit."
+          ],
+          "answer": 0,
+          "explain": "Start with: Write down everything you check before you export."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Edit a full video start to finish",
+      "goal": "Edit a 2-minute video with no help.",
+      "video": {
+        "youtube_id": "7I1Xmyu0gzM",
+        "title": "Learn Video Editing from Zero to Pro: Filmora 15 Full Course 2026",
+        "channel": "Tausif Khalid"
+      },
+      "steps": [
+        "Pick a topic and gather your clips.",
+        "Cut, add music, captions, and color.",
+        "Watch the whole video twice.",
+        "Fix any problems and export it."
+      ],
+      "task": "Edit a full 2-minute video from start to finish.",
+      "challenge": "Time how long the full edit takes you, from first clip to export.",
+      "quiz": [
+        {
+          "q": "Why do editors save their work often?",
+          "options": [
+            "So they do not lose their work if the app closes",
+            "So the video exports faster",
+            "So the music sounds better",
+            "So the colors look brighter"
+          ],
+          "answer": 0,
+          "explain": "Apps can crash. Saving often means you never lose your hard work."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit a full video start to finish\"?",
+          "options": [
+            "Edit a 2-minute video with no help.",
+            "Add a title and captions to a video.",
+            "Make a dull clip brighter and warmer.",
+            "Style captions so they are big and clear."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Edit a 2-minute video with no help."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Cut, add music, captions, and color.",
+            "Watch the whole video twice.",
+            "Fix any problems and export it.",
+            "Pick a topic and gather your clips."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pick a topic and gather your clips."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best three edits and say why they work.",
+      "video": {
+        "youtube_id": "4B0rb15L4Ac",
+        "title": "Free Video Editing Course | Wondershare Filmora 16 Complete Course (Basic to Advanced)",
+        "channel": "Sufiyan Khan"
+      },
+      "steps": [
+        "Watch all the videos you made this month.",
+        "Pick your best three.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three videos and write why each one works.",
+      "challenge": "Show your best video to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is a jump cut?",
+          "options": [
+            "A cut that skips a small part of a clip, so the speaker seems to jump forward",
+            "A cut that adds music",
+            "A cut that changes the color",
+            "A cut at the end of a video"
+          ],
+          "answer": 0,
+          "explain": "A jump cut removes a small middle part, so the speaker jumps ahead. It keeps videos fast and tight."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Add one simple fade between two clips.",
+            "Add a simple moving title to a video.",
+            "Add three sound effects at the right moments.",
+            "Pick your best three edits and say why they work."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best three edits and say why they work."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Watch all the videos you made this month.",
+            "Pick your best three."
+          ],
+          "answer": 2,
+          "explain": "Start with: Watch all the videos you made this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "C5O353fpPwM",
+        "title": "CapCut for PC & Mac: Beginner Tutorial 2026",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your editing.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "Why do editors save their work often?",
+          "options": [
+            "So they do not lose their work if the app closes",
+            "So the video exports faster",
+            "So the music sounds better",
+            "So the colors look brighter"
+          ],
+          "answer": 0,
+          "explain": "Apps can crash. Saving often means you never lose your hard work."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Make a slow-motion moment in a video.",
+            "Steady a shaky clip.",
+            "Write a simple plan to keep getting better.",
+            "Finish your first full edit."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your First Client Video",
+    "brief": "Edit a full 2-minute video for a real or pretend small business. It is a short advert with a clear message, clean cuts, captions, music, and a call to action at the end.",
+    "checks": [
+      "Video is 1 minute 45 to 2 minutes 15 long",
+      "Has a clear message in the first 5 seconds",
+      "Cuts are clean with no dead air",
+      "Captions are correct and easy to read",
+      "Music fits and does not hide the voice",
+      "Ends with a clear call to action",
+      "Exports in 1080p and plays well"
+    ],
+    "deliverables": [
+      "Final 2-minute video file",
+      "A list of the clips and music used",
+      "Before-and-after of one color fix",
+      "Captions file or screenshot",
+      "A short note on what you would improve next time"
+    ]
+  }
+}

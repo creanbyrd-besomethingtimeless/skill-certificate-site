@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "videography-basics",
+    "title": "Videography Basics",
+    "level": "Beginner",
+    "tagline": "Shoot steady, cinematic video: framing, light, sound and editing for real clients.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet your camera for video",
+      "goal": "Learn the main parts for shooting video.",
+      "video": {
+        "youtube_id": "foYyeGLf9yU",
+        "title": "How to Make A YouTube Video for Beginners START to FINISH!",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Pick up your camera or phone.",
+        "Switch to video mode.",
+        "Find the record button.",
+        "Record a 10-second clip and play it back."
+      ],
+      "task": "Record a 10-second clip and play it back.",
+      "challenge": "Record ten clips of one thing from different spots.",
+      "quiz": [
+        {
+          "q": "What is B-roll?",
+          "options": [
+            "Extra video you show over the main video to keep it interesting",
+            "A video that failed to export",
+            "The first clip in your project",
+            "A type of music"
+          ],
+          "answer": 0,
+          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet your camera for video\"?",
+          "options": [
+            "Learn three simple camera moves.",
+            "Shoot and edit a 1-minute video.",
+            "Record video at a real event.",
+            "Learn the main parts for shooting video."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Learn the main parts for shooting video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find the record button.",
+            "Record a 10-second clip and play it back.",
+            "Pick up your camera or phone.",
+            "Switch to video mode."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick up your camera or phone."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Hold the camera steady",
+      "goal": "Keep your shots steady without a tripod.",
+      "video": {
+        "youtube_id": "PxY9SswA5j8",
+        "title": "VIDEOGRAPHY BASICS for Beginners | Full Course, Start Here!",
+        "channel": "Pascal Basel"
+      },
+      "steps": [
+        "Hold the camera with two hands.",
+        "Tuck your elbows close to your body.",
+        "Walk slowly, heel first.",
+        "Record a 10-second clip while walking."
+      ],
+      "task": "Record a steady 10-second clip while walking.",
+      "challenge": "Record the same walk with one hand and with two hands, then compare.",
+      "quiz": [
+        {
+          "q": "Why is sound so important in video?",
+          "options": [
+            "Because people stop watching if they cannot hear clearly",
+            "Because it makes the file smaller",
+            "Because it makes the video brighter",
+            "Because it makes the camera faster"
+          ],
+          "answer": 0,
+          "explain": "Bad sound makes people leave fast. Clear sound keeps them watching."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Hold the camera steady\"?",
+          "options": [
+            "Cut your video in CapCut or Premiere Pro.",
+            "Shoot and edit a video for social media.",
+            "Keep your shots steady without a tripod.",
+            "Record a person talking to the camera."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Keep your shots steady without a tripod."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record a 10-second clip while walking.",
+            "Hold the camera with two hands.",
+            "Tuck your elbows close to your body.",
+            "Walk slowly, heel first."
+          ],
+          "answer": 1,
+          "explain": "Start with: Hold the camera with two hands."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Frame your shot",
+      "goal": "Place your subject well in the frame.",
+      "video": {
+        "youtube_id": "xKRh4PI-BKg",
+        "title": "The Ultimate Beginner Guide to Videography",
+        "channel": "Jason Neistadt"
+      },
+      "steps": [
+        "Turn on the grid lines in your camera.",
+        "Place your subject on a grid line, not in the middle.",
+        "Leave space in front of a moving subject.",
+        "Record a 10-second clip."
+      ],
+      "task": "Record a clip with the subject on a grid line.",
+      "challenge": "Record five clips using the rule of thirds.",
+      "quiz": [
+        {
+          "q": "What is B-roll?",
+          "options": [
+            "Extra video you show over the main video to keep it interesting",
+            "A video that failed to export",
+            "The first clip in your project",
+            "A type of music"
+          ],
+          "answer": 0,
+          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Frame your shot\"?",
+          "options": [
+            "Tell a story with video.",
+            "Place your subject well in the frame.",
+            "Record extra shots to cover your video.",
+            "Add captions to a video."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Place your subject well in the frame."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Turn on the grid lines in your camera.",
+            "Place your subject on a grid line, not in the middle.",
+            "Leave space in front of a moving subject.",
+            "Record a 10-second clip."
+          ],
+          "answer": 0,
+          "explain": "Start with: Turn on the grid lines in your camera."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Light for video",
+      "goal": "Find good light before you record.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Record a friend in a dark room.",
+        "Record the same friend near a window.",
+        "Compare the two clips.",
+        "Notice how the window clip is brighter and clearer."
+      ],
+      "task": "Record the same shot in dark light and in window light, then compare.",
+      "challenge": "Record a clip in the morning, at noon, and in the evening.",
+      "quiz": [
+        {
+          "q": "Why is sound so important in video?",
+          "options": [
+            "Because people stop watching if they cannot hear clearly",
+            "Because it makes the file smaller",
+            "Because it makes the video brighter",
+            "Because it makes the camera faster"
+          ],
+          "answer": 0,
+          "explain": "Bad sound makes people leave fast. Clear sound keeps them watching."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Light for video\"?",
+          "options": [
+            "Find good light before you record.",
+            "Use a tripod or a stack of books for steady shots.",
+            "Make your video colors look good.",
+            "Follow a short brief and deliver."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Find good light before you record."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record the same friend near a window.",
+            "Compare the two clips.",
+            "Notice how the window clip is brighter and clearer.",
+            "Record a friend in a dark room."
+          ],
+          "answer": 3,
+          "explain": "Start with: Record a friend in a dark room."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Sound matters most",
+      "goal": "Record clear sound with your phone.",
+      "video": {
+        "youtube_id": "eCsM0r3RNc4",
+        "title": "Premiere Pro Full Course Tutorial (6+ Hours)",
+        "channel": "Learnit Training"
+      },
+      "steps": [
+        "Record yourself talking in a quiet room.",
+        "Record yourself talking in a noisy room.",
+        "Listen to both clips.",
+        "Notice how the noisy room hides your voice."
+      ],
+      "task": "Record yourself talking in a quiet room and in a noisy room, then compare.",
+      "challenge": "Record yourself talking close to the phone and far from it.",
+      "quiz": [
+        {
+          "q": "What is B-roll?",
+          "options": [
+            "Extra video you show over the main video to keep it interesting",
+            "A video that failed to export",
+            "The first clip in your project",
+            "A type of music"
+          ],
+          "answer": 0,
+          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Sound matters most\"?",
+          "options": [
+            "Shoot video in the soft light before sunset.",
+            "Add music and sound effects to a video.",
+            "Spot and fix five common mistakes.",
+            "Record clear sound with your phone."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Record clear sound with your phone."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Listen to both clips.",
+            "Notice how the noisy room hides your voice.",
+            "Record yourself talking in a quiet room.",
+            "Record yourself talking in a noisy room."
+          ],
+          "answer": 2,
+          "explain": "Start with: Record yourself talking in a quiet room."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Your first video",
+      "goal": "Shoot and edit a 30-second video.",
+      "video": {
+        "youtube_id": "VUMVsGm0xOE",
+        "title": "CapCut App Video Editing Tutorial - COMPLETE Guide (2025)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Pick a simple topic, like your morning.",
+        "Record three short clips.",
+        "Put them in order in CapCut.",
+        "Add music and export the video."
+      ],
+      "task": "Shoot and edit a 30-second video.",
+      "challenge": "Show your video to a friend and ask what they liked.",
+      "quiz": [
+        {
+          "q": "Why is sound so important in video?",
+          "options": [
+            "Because people stop watching if they cannot hear clearly",
+            "Because it makes the file smaller",
+            "Because it makes the video brighter",
+            "Because it makes the camera faster"
+          ],
+          "answer": 0,
+          "explain": "Bad sound makes people leave fast. Clear sound keeps them watching."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first video\"?",
+          "options": [
+            "Record a simple interview.",
+            "Find the kind of videos you love to make.",
+            "Shoot and edit a 30-second video.",
+            "Record a clean product video."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Shoot and edit a 30-second video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add music and export the video.",
+            "Pick a simple topic, like your morning.",
+            "Record three short clips.",
+            "Put them in order in CapCut."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a simple topic, like your morning."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Shoot a 30-second video",
+      "goal": "Plan and shoot a short video.",
+      "video": {
+        "youtube_id": "ge-MmahCcWg",
+        "title": "3 1/2 hour beginner video editing course",
+        "channel": "VideoRevealed"
+      },
+      "steps": [
+        "Write down three shots you need.",
+        "Record each shot for 5 to 10 seconds.",
+        "Check each shot after you record it.",
+        "Put the shots together in your editor."
+      ],
+      "task": "Shoot a 30-second video from a shot list.",
+      "challenge": "Shoot the same video again, but change one shot.",
+      "quiz": [
+        {
+          "q": "What is B-roll?",
+          "options": [
+            "Extra video you show over the main video to keep it interesting",
+            "A video that failed to export",
+            "The first clip in your project",
+            "A type of music"
+          ],
+          "answer": 0,
+          "explain": "B-roll is extra footage, like a close-up of your hands, shown over the main video."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a 30-second video\"?",
+          "options": [
+            "Shoot and edit a 2-minute video.",
+            "Plan and shoot a short video.",
+            "Shoot and edit a 1-minute video.",
+            "Record video at a real event."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Plan and shoot a short video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down three shots you need.",
+            "Record each shot for 5 to 10 seconds.",
+            "Check each shot after you record it.",
+            "Put the shots together in your editor."
+          ],
+          "answer": 0,
+          "explain": "Start with: Write down three shots you need."
+        }
+      ],
+      "project": {
+        "title": "30-Second Video",
+        "brief": "Shoot and edit a 30-second video from a shot list.",
+        "checks": [
+          "Video is 25 to 35 seconds long",
+          "Shot list was used",
+          "Shots are steady",
+          "Sound is clear",
+          "Video is edited and exported",
+          "Saved in a folder"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Camera moves",
+      "goal": "Learn three simple camera moves.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Pan: move the camera slowly left to right.",
+        "Tilt: move the camera slowly up and down.",
+        "Push in: walk slowly toward your subject.",
+        "Record one clip for each move."
+      ],
+      "task": "Record a pan, a tilt, and a push-in.",
+      "challenge": "Record a video that uses all three moves.",
+      "quiz": [
+        {
+          "q": "What is a tilt in videography?",
+          "options": [
+            "Moving the camera slowly up or down",
+            "Moving the camera left or right",
+            "Walking toward the subject",
+            "Zooming in fast"
+          ],
+          "answer": 0,
+          "explain": "A tilt is a slow move up or down, like looking from the ground to the sky."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Camera moves\"?",
+          "options": [
+            "Learn three simple camera moves.",
+            "Cut your video in CapCut or Premiere Pro.",
+            "Shoot and edit a video for social media.",
+            "Pick your best clips for a showreel."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Learn three simple camera moves."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Tilt: move the camera slowly up and down.",
+            "Push in: walk slowly toward your subject.",
+            "Record one clip for each move.",
+            "Pan: move the camera slowly left to right."
+          ],
+          "answer": 3,
+          "explain": "Start with: Pan: move the camera slowly left to right."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Shoot a talking video",
+      "goal": "Record a person talking to the camera.",
+      "video": {
+        "youtube_id": "7I1Xmyu0gzM",
+        "title": "Learn Video Editing from Zero to Pro: Filmora 15 Full Course 2026",
+        "channel": "Tausif Khalid"
+      },
+      "steps": [
+        "Ask a friend to stand near a window.",
+        "Place the camera at their eye level.",
+        "Ask them to talk for 30 seconds.",
+        "Check the sound and the light."
+      ],
+      "task": "Record a 30-second talking video.",
+      "challenge": "Record a talking video with the camera too low, then at eye level.",
+      "quiz": [
+        {
+          "q": "What is a pan in videography?",
+          "options": [
+            "Moving the camera slowly left or right",
+            "Moving the camera up and down",
+            "Walking toward the subject",
+            "Zooming in fast"
+          ],
+          "answer": 0,
+          "explain": "A pan is a slow move from left to right, or right to left."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a talking video\"?",
+          "options": [
+            "Add captions to a video.",
+            "Tell a story with video.",
+            "Record a timelapse video.",
+            "Record a person talking to the camera."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Record a person talking to the camera."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Ask them to talk for 30 seconds.",
+            "Check the sound and the light.",
+            "Ask a friend to stand near a window.",
+            "Place the camera at their eye level."
+          ],
+          "answer": 2,
+          "explain": "Start with: Ask a friend to stand near a window."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Shoot B-roll",
+      "goal": "Record extra shots to cover your video.",
+      "video": {
+        "youtube_id": "4B0rb15L4Ac",
+        "title": "Free Video Editing Course | Wondershare Filmora 16 Complete Course (Basic to Advanced)",
+        "channel": "Sufiyan Khan"
+      },
+      "steps": [
+        "Think of a talking video you made.",
+        "List three extra shots, like hands or the room.",
+        "Record each extra shot for 5 seconds.",
+        "These are called B-roll."
+      ],
+      "task": "Record three B-roll shots for a talking video.",
+      "challenge": "Film B-roll before you shoot the main video.",
+      "quiz": [
+        {
+          "q": "What is a tilt in videography?",
+          "options": [
+            "Moving the camera slowly up or down",
+            "Moving the camera left or right",
+            "Walking toward the subject",
+            "Zooming in fast"
+          ],
+          "answer": 0,
+          "explain": "A tilt is a slow move up or down, like looking from the ground to the sky."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot B-roll\"?",
+          "options": [
+            "Follow a short brief and deliver.",
+            "Pick your best work and say why it works.",
+            "Record extra shots to cover your video.",
+            "Make your video colors look good."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Record extra shots to cover your video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "These are called B-roll.",
+            "Think of a talking video you made.",
+            "List three extra shots, like hands or the room.",
+            "Record each extra shot for 5 seconds."
+          ],
+          "answer": 1,
+          "explain": "Start with: Think of a talking video you made."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Shoot with a tripod",
+      "goal": "Use a tripod or a stack of books for steady shots.",
+      "video": {
+        "youtube_id": "C5O353fpPwM",
+        "title": "CapCut for PC & Mac: Beginner Tutorial 2026",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Set your camera on a tripod or a stack of books.",
+        "Frame your shot.",
+        "Record a 20-second clip without touching the camera.",
+        "The shot should be perfectly still."
+      ],
+      "task": "Record a 20-second clip on a tripod.",
+      "challenge": "Record a talking video on a tripod and one handheld, then compare.",
+      "quiz": [
+        {
+          "q": "What is a pan in videography?",
+          "options": [
+            "Moving the camera slowly left or right",
+            "Moving the camera up and down",
+            "Walking toward the subject",
+            "Zooming in fast"
+          ],
+          "answer": 0,
+          "explain": "A pan is a slow move from left to right, or right to left."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot with a tripod\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Use a tripod or a stack of books for steady shots.",
+            "Add music and sound effects to a video.",
+            "Spot and fix five common mistakes."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Use a tripod or a stack of books for steady shots."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Set your camera on a tripod or a stack of books.",
+            "Frame your shot.",
+            "Record a 20-second clip without touching the camera.",
+            "The shot should be perfectly still."
+          ],
+          "answer": 0,
+          "explain": "Start with: Set your camera on a tripod or a stack of books."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Golden hour video",
+      "goal": "Shoot video in the soft light before sunset.",
+      "video": {
+        "youtube_id": "foYyeGLf9yU",
+        "title": "How to Make A YouTube Video for Beginners START to FINISH!",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Go outside one hour before sunset.",
+        "Record a person or a place.",
+        "Notice how the light is warm and soft.",
+        "Record five clips and pick your best three."
+      ],
+      "task": "Record video during golden hour and pick your best three.",
+      "challenge": "Record the same shot at noon and at golden hour, then compare.",
+      "quiz": [
+        {
+          "q": "What is a tilt in videography?",
+          "options": [
+            "Moving the camera slowly up or down",
+            "Moving the camera left or right",
+            "Walking toward the subject",
+            "Zooming in fast"
+          ],
+          "answer": 0,
+          "explain": "A tilt is a slow move up or down, like looking from the ground to the sky."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Golden hour video\"?",
+          "options": [
+            "Shoot video in the soft light before sunset.",
+            "Record a simple interview.",
+            "Find the kind of videos you love to make.",
+            "Learn the main parts for shooting video."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Shoot video in the soft light before sunset."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record a person or a place.",
+            "Notice how the light is warm and soft.",
+            "Record five clips and pick your best three.",
+            "Go outside one hour before sunset."
+          ],
+          "answer": 3,
+          "explain": "Start with: Go outside one hour before sunset."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Shoot a product video",
+      "goal": "Record a clean product video.",
+      "video": {
+        "youtube_id": "PxY9SswA5j8",
+        "title": "VIDEOGRAPHY BASICS for Beginners | Full Course, Start Here!",
+        "channel": "Pascal Basel"
+      },
+      "steps": [
+        "Pick a product, like a shoe or a bottle.",
+        "Put it on a plain background.",
+        "Light it from a window.",
+        "Record five clips from different angles."
+      ],
+      "task": "Record five product clips from different angles.",
+      "challenge": "Record a product video on a white background and on a colored one.",
+      "quiz": [
+        {
+          "q": "What is a pan in videography?",
+          "options": [
+            "Moving the camera slowly left or right",
+            "Moving the camera up and down",
+            "Walking toward the subject",
+            "Zooming in fast"
+          ],
+          "answer": 0,
+          "explain": "A pan is a slow move from left to right, or right to left."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a product video\"?",
+          "options": [
+            "Record video at a real event.",
+            "Shoot and edit a 2-minute video.",
+            "Keep your shots steady without a tripod.",
+            "Record a clean product video."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Record a clean product video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Light it from a window.",
+            "Record five clips from different angles.",
+            "Pick a product, like a shoe or a bottle.",
+            "Put it on a plain background."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a product, like a shoe or a bottle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Shoot a 1-minute video",
+      "goal": "Shoot and edit a 1-minute video.",
+      "video": {
+        "youtube_id": "xKRh4PI-BKg",
+        "title": "The Ultimate Beginner Guide to Videography",
+        "channel": "Jason Neistadt"
+      },
+      "steps": [
+        "Pick a topic, like how to make tea.",
+        "Write a shot list of five shots.",
+        "Record each shot.",
+        "Edit the shots into a 1-minute video."
+      ],
+      "task": "Shoot and edit a 1-minute video.",
+      "challenge": "Ask a friend to watch your video and say what was clear.",
+      "quiz": [
+        {
+          "q": "What is a tilt in videography?",
+          "options": [
+            "Moving the camera slowly up or down",
+            "Moving the camera left or right",
+            "Walking toward the subject",
+            "Zooming in fast"
+          ],
+          "answer": 0,
+          "explain": "A tilt is a slow move up or down, like looking from the ground to the sky."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a 1-minute video\"?",
+          "options": [
+            "Pick your best clips for a showreel.",
+            "Place your subject well in the frame.",
+            "Shoot and edit a 1-minute video.",
+            "Shoot and edit a video for social media."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Shoot and edit a 1-minute video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit the shots into a 1-minute video.",
+            "Pick a topic, like how to make tea.",
+            "Write a shot list of five shots.",
+            "Record each shot."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a topic, like how to make tea."
+        }
+      ],
+      "project": {
+        "title": "1-Minute Video",
+        "brief": "Shoot and edit a 1-minute video.",
+        "checks": [
+          "Video is 50 to 70 seconds long",
+          "Has a clear topic",
+          "Has B-roll",
+          "Captions are on screen",
+          "Sound is clear",
+          "Exports and plays well"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Edit your video",
+      "goal": "Cut your video in CapCut or Premiere Pro.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Open your video in your editor.",
+        "Cut out the boring parts.",
+        "Put the clips in a good order.",
+        "Add music and export it."
+      ],
+      "task": "Edit a video: cut, order, add music, export.",
+      "challenge": "Edit the same video two ways and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is a shot list?",
+          "options": [
+            "A written list of every shot you plan to record",
+            "A list of camera prices",
+            "A list of music tracks",
+            "A list of editing apps"
+          ],
+          "answer": 0,
+          "explain": "A shot list tells you what to record before you start, so you do not miss anything."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit your video\"?",
+          "options": [
+            "Find good light before you record.",
+            "Cut your video in CapCut or Premiere Pro.",
+            "Tell a story with video.",
+            "Record a timelapse video."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Cut your video in CapCut or Premiere Pro."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open your video in your editor.",
+            "Cut out the boring parts.",
+            "Put the clips in a good order.",
+            "Add music and export it."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open your video in your editor."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Add captions",
+      "goal": "Add captions to a video.",
+      "video": {
+        "youtube_id": "eCsM0r3RNc4",
+        "title": "Premiere Pro Full Course Tutorial (6+ Hours)",
+        "channel": "Learnit Training"
+      },
+      "steps": [
+        "Open your video in CapCut.",
+        "Tap Auto Captions and pick your language.",
+        "Read the captions and fix any wrong words.",
+        "Make the captions big enough to read on a phone."
+      ],
+      "task": "Add auto captions to a video.",
+      "challenge": "Style the captions in two looks and pick the easier one to read.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when cameras charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Add captions\"?",
+          "options": [
+            "Add captions to a video.",
+            "Follow a short brief and deliver.",
+            "Pick your best work and say why it works.",
+            "Record clear sound with your phone."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Add captions to a video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Tap Auto Captions and pick your language.",
+            "Read the captions and fix any wrong words.",
+            "Make the captions big enough to read on a phone.",
+            "Open your video in CapCut."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open your video in CapCut."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Color for video",
+      "goal": "Make your video colors look good.",
+      "video": {
+        "youtube_id": "VUMVsGm0xOE",
+        "title": "CapCut App Video Editing Tutorial - COMPLETE Guide (2025)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Open a dull-looking clip in your editor.",
+        "Make it a little brighter.",
+        "Make it a little warmer.",
+        "Compare before and after."
+      ],
+      "task": "Make a dull clip brighter and warmer.",
+      "challenge": "Fix one clip that looks too blue and one that looks too dark.",
+      "quiz": [
+        {
+          "q": "What is a shot list?",
+          "options": [
+            "A written list of every shot you plan to record",
+            "A list of camera prices",
+            "A list of music tracks",
+            "A list of editing apps"
+          ],
+          "answer": 0,
+          "explain": "A shot list tells you what to record before you start, so you do not miss anything."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Color for video\"?",
+          "options": [
+            "Spot and fix five common mistakes.",
+            "Write a simple plan to keep getting better.",
+            "Shoot and edit a 30-second video.",
+            "Make your video colors look good."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Make your video colors look good."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Make it a little warmer.",
+            "Compare before and after.",
+            "Open a dull-looking clip in your editor.",
+            "Make it a little brighter."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open a dull-looking clip in your editor."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Sound design",
+      "goal": "Add music and sound effects to a video.",
+      "video": {
+        "youtube_id": "ge-MmahCcWg",
+        "title": "3 1/2 hour beginner video editing course",
+        "channel": "VideoRevealed"
+      },
+      "steps": [
+        "Open a video with clear actions.",
+        "Add a music track and keep it quiet.",
+        "Add a sound effect at one key moment.",
+        "Play the video and check the sound."
+      ],
+      "task": "Add music and one sound effect to a video.",
+      "challenge": "Add sound effects to three moments in a video.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when cameras charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Sound design\"?",
+          "options": [
+            "Learn the main parts for shooting video.",
+            "Plan and shoot a short video.",
+            "Add music and sound effects to a video.",
+            "Find the kind of videos you love to make."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Add music and sound effects to a video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Play the video and check the sound.",
+            "Open a video with clear actions.",
+            "Add a music track and keep it quiet.",
+            "Add a sound effect at one key moment."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open a video with clear actions."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Shoot an interview",
+      "goal": "Record a simple interview.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Ask a friend three questions.",
+        "Place them near a window for light.",
+        "Record their answers.",
+        "Edit the best answers into a 1-minute video."
+      ],
+      "task": "Record a simple interview with three questions.",
+      "challenge": "Record an interview with two cameras, or two angles.",
+      "quiz": [
+        {
+          "q": "What is a shot list?",
+          "options": [
+            "A written list of every shot you plan to record",
+            "A list of camera prices",
+            "A list of music tracks",
+            "A list of editing apps"
+          ],
+          "answer": 0,
+          "explain": "A shot list tells you what to record before you start, so you do not miss anything."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot an interview\"?",
+          "options": [
+            "Learn three simple camera moves.",
+            "Record a simple interview.",
+            "Shoot and edit a 2-minute video.",
+            "Keep your shots steady without a tripod."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Record a simple interview."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Ask a friend three questions.",
+            "Place them near a window for light.",
+            "Record their answers.",
+            "Edit the best answers into a 1-minute video."
+          ],
+          "answer": 0,
+          "explain": "Start with: Ask a friend three questions."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Shoot an event",
+      "goal": "Record video at a real event.",
+      "video": {
+        "youtube_id": "7I1Xmyu0gzM",
+        "title": "Learn Video Editing from Zero to Pro: Filmora 15 Full Course 2026",
+        "channel": "Tausif Khalid"
+      },
+      "steps": [
+        "Go to a birthday or a small gathering.",
+        "Record people, details, and the place.",
+        "Capture feelings: laughter, hugs, dancing.",
+        "Edit the best clips into a 1-minute video."
+      ],
+      "task": "Record an event and edit a 1-minute video from it.",
+      "challenge": "Record an event without using flash or extra lights.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when cameras charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot an event\"?",
+          "options": [
+            "Record video at a real event.",
+            "Pick your best clips for a showreel.",
+            "Place your subject well in the frame.",
+            "Record a person talking to the camera."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Record video at a real event."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Record people, details, and the place.",
+            "Capture feelings: laughter, hugs, dancing.",
+            "Edit the best clips into a 1-minute video.",
+            "Go to a birthday or a small gathering."
+          ],
+          "answer": 3,
+          "explain": "Start with: Go to a birthday or a small gathering."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Shoot a 60-second social video",
+      "goal": "Shoot and edit a video for social media.",
+      "video": {
+        "youtube_id": "4B0rb15L4Ac",
+        "title": "Free Video Editing Course | Wondershare Filmora 16 Complete Course (Basic to Advanced)",
+        "channel": "Sufiyan Khan"
+      },
+      "steps": [
+        "Pick a topic people will stop and watch.",
+        "Record clips that fit in 60 seconds.",
+        "Edit it tight. Remove every slow part.",
+        "Add captions, music, and export it."
+      ],
+      "task": "Shoot and edit a 60-second video for social media.",
+      "challenge": "Post your video and count how many people watch it to the end.",
+      "quiz": [
+        {
+          "q": "What is a shot list?",
+          "options": [
+            "A written list of every shot you plan to record",
+            "A list of camera prices",
+            "A list of music tracks",
+            "A list of editing apps"
+          ],
+          "answer": 0,
+          "explain": "A shot list tells you what to record before you start, so you do not miss anything."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a 60-second social video\"?",
+          "options": [
+            "Record a timelapse video.",
+            "Find good light before you record.",
+            "Record extra shots to cover your video.",
+            "Shoot and edit a video for social media."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Shoot and edit a video for social media."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit it tight. Remove every slow part.",
+            "Add captions, music, and export it.",
+            "Pick a topic people will stop and watch.",
+            "Record clips that fit in 60 seconds."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a topic people will stop and watch."
+        }
+      ],
+      "project": {
+        "title": "60-Second Social Video",
+        "brief": "Shoot and edit a 60-second video for social media.",
+        "checks": [
+          "Video is about 60 seconds",
+          "Starts strong in the first 3 seconds",
+          "Has captions",
+          "Has music that fits",
+          "Shots are steady",
+          "Exports in the right size"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Shoot a story",
+      "goal": "Tell a story with video.",
+      "video": {
+        "youtube_id": "C5O353fpPwM",
+        "title": "CapCut for PC & Mac: Beginner Tutorial 2026",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Pick a story, like a day at the market.",
+        "Plan five shots: a start, three middle shots, and an end.",
+        "Record the five shots.",
+        "Edit them in order."
+      ],
+      "task": "Tell a story with five shots in order.",
+      "challenge": "Make a video story about your morning routine.",
+      "quiz": [
+        {
+          "q": "What is a tripod for?",
+          "options": [
+            "It holds the camera still so shots do not shake",
+            "It makes the camera lighter",
+            "It charges the camera",
+            "It edits the video"
+          ],
+          "answer": 0,
+          "explain": "A tripod holds your camera steady. A stack of books works too."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a story\"?",
+          "options": [
+            "Record clear sound with your phone.",
+            "Use a tripod or a stack of books for steady shots.",
+            "Tell a story with video.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Tell a story with video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit them in order.",
+            "Pick a story, like a day at the market.",
+            "Plan five shots: a start, three middle shots, and an end.",
+            "Record the five shots."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a story, like a day at the market."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Shoot for a client",
+      "goal": "Follow a short brief and deliver.",
+      "video": {
+        "youtube_id": "foYyeGLf9yU",
+        "title": "How to Make A YouTube Video for Beginners START to FINISH!",
+        "channel": "Think Media"
+      },
+      "steps": [
+        "Read this brief: a 30-second advert for a small shop.",
+        "Plan the video in three parts: hook, product, call to action.",
+        "Shoot the video.",
+        "Edit it and check it against the brief."
+      ],
+      "task": "Shoot a 30-second advert from a short brief.",
+      "challenge": "Ask a friend to act as the client and give you one change to make.",
+      "quiz": [
+        {
+          "q": "Why should you record extra B-roll?",
+          "options": [
+            "So you can cover cuts and keep the video interesting",
+            "So the file is bigger",
+            "So the video is longer",
+            "So the music sounds better"
+          ],
+          "answer": 0,
+          "explain": "B-roll covers your cuts and gives the viewer something new to look at."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot for a client\"?",
+          "options": [
+            "Shoot video in the soft light before sunset.",
+            "Follow a short brief and deliver.",
+            "Write a simple plan to keep getting better.",
+            "Shoot and edit a 30-second video."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Follow a short brief and deliver."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Read this brief: a 30-second advert for a small shop.",
+            "Plan the video in three parts: hook, product, call to action.",
+            "Shoot the video.",
+            "Edit it and check it against the brief."
+          ],
+          "answer": 0,
+          "explain": "Start with: Read this brief: a 30-second advert for a small shop."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Fix common video mistakes",
+      "goal": "Spot and fix five common mistakes.",
+      "video": {
+        "youtube_id": "PxY9SswA5j8",
+        "title": "VIDEOGRAPHY BASICS for Beginners | Full Course, Start Here!",
+        "channel": "Pascal Basel"
+      },
+      "steps": [
+        "Open one of your old videos.",
+        "Look for shaky shots, bad sound, and dark scenes.",
+        "Fix one mistake at a time.",
+        "Export the fixed video."
+      ],
+      "task": "Fix five mistakes in one of your old videos.",
+      "challenge": "Make a list of mistakes you will check for before every shoot.",
+      "quiz": [
+        {
+          "q": "What is a tripod for?",
+          "options": [
+            "It holds the camera still so shots do not shake",
+            "It makes the camera lighter",
+            "It charges the camera",
+            "It edits the video"
+          ],
+          "answer": 0,
+          "explain": "A tripod holds your camera steady. A stack of books works too."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix common video mistakes\"?",
+          "options": [
+            "Spot and fix five common mistakes.",
+            "Learn the main parts for shooting video.",
+            "Plan and shoot a short video.",
+            "Record a clean product video."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Spot and fix five common mistakes."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look for shaky shots, bad sound, and dark scenes.",
+            "Fix one mistake at a time.",
+            "Export the fixed video.",
+            "Open one of your old videos."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open one of your old videos."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Build your videography style",
+      "goal": "Find the kind of videos you love to make.",
+      "video": {
+        "youtube_id": "xKRh4PI-BKg",
+        "title": "The Ultimate Beginner Guide to Videography",
+        "channel": "Jason Neistadt"
+      },
+      "steps": [
+        "Look at all your videos from this month.",
+        "Pick the five you love most.",
+        "Write down what they have in common.",
+        "Shoot three more videos in that style."
+      ],
+      "task": "Pick your five favorite videos and find what they have in common.",
+      "challenge": "Shoot three new videos in your favorite style.",
+      "quiz": [
+        {
+          "q": "Why should you record extra B-roll?",
+          "options": [
+            "So you can cover cuts and keep the video interesting",
+            "So the file is bigger",
+            "So the video is longer",
+            "So the music sounds better"
+          ],
+          "answer": 0,
+          "explain": "B-roll covers your cuts and gives the viewer something new to look at."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build your videography style\"?",
+          "options": [
+            "Keep your shots steady without a tripod.",
+            "Learn three simple camera moves.",
+            "Shoot and edit a 1-minute video.",
+            "Find the kind of videos you love to make."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Find the kind of videos you love to make."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write down what they have in common.",
+            "Shoot three more videos in that style.",
+            "Look at all your videos from this month.",
+            "Pick the five you love most."
+          ],
+          "answer": 2,
+          "explain": "Start with: Look at all your videos from this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Shoot a full video",
+      "goal": "Shoot and edit a 2-minute video.",
+      "video": {
+        "youtube_id": "vi9M9eb8bY4",
+        "title": "How to Edit a YouTube Video | Complete Guide",
+        "channel": "Miracamp"
+      },
+      "steps": [
+        "Pick a topic and write a shot list.",
+        "Shoot all the clips.",
+        "Edit them with music, captions, and color.",
+        "Watch the whole video twice and fix problems."
+      ],
+      "task": "Shoot and edit a full 2-minute video.",
+      "challenge": "Time how long the full shoot and edit takes you.",
+      "quiz": [
+        {
+          "q": "What is a tripod for?",
+          "options": [
+            "It holds the camera still so shots do not shake",
+            "It makes the camera lighter",
+            "It charges the camera",
+            "It edits the video"
+          ],
+          "answer": 0,
+          "explain": "A tripod holds your camera steady. A stack of books works too."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a full video\"?",
+          "options": [
+            "Record a person talking to the camera.",
+            "Cut your video in CapCut or Premiere Pro.",
+            "Shoot and edit a 2-minute video.",
+            "Place your subject well in the frame."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Shoot and edit a 2-minute video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Watch the whole video twice and fix problems.",
+            "Pick a topic and write a shot list.",
+            "Shoot all the clips.",
+            "Edit them with music, captions, and color."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a topic and write a shot list."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Your showreel",
+      "goal": "Pick your best clips for a showreel.",
+      "video": {
+        "youtube_id": "eCsM0r3RNc4",
+        "title": "Premiere Pro Full Course Tutorial (6+ Hours)",
+        "channel": "Learnit Training"
+      },
+      "steps": [
+        "Look at all your videos from this month.",
+        "Pick your best five clips.",
+        "Edit them into a 30-second showreel.",
+        "Save it in a folder called Best Work."
+      ],
+      "task": "Make a 30-second showreel of your best clips.",
+      "challenge": "Show your showreel to a friend and ask which clip is best.",
+      "quiz": [
+        {
+          "q": "Why should you record extra B-roll?",
+          "options": [
+            "So you can cover cuts and keep the video interesting",
+            "So the file is bigger",
+            "So the video is longer",
+            "So the music sounds better"
+          ],
+          "answer": 0,
+          "explain": "B-roll covers your cuts and gives the viewer something new to look at."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your showreel\"?",
+          "options": [
+            "Add captions to a video.",
+            "Pick your best clips for a showreel.",
+            "Find good light before you record.",
+            "Record extra shots to cover your video."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Pick your best clips for a showreel."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Look at all your videos from this month.",
+            "Pick your best five clips.",
+            "Edit them into a 30-second showreel.",
+            "Save it in a folder called Best Work."
+          ],
+          "answer": 0,
+          "explain": "Start with: Look at all your videos from this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Shoot a timelapse",
+      "goal": "Record a timelapse video.",
+      "video": {
+        "youtube_id": "VUMVsGm0xOE",
+        "title": "CapCut App Video Editing Tutorial - COMPLETE Guide (2025)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Find a scene that changes slowly, like clouds.",
+        "Set your camera on a tripod.",
+        "Use timelapse mode or record for 10 minutes.",
+        "Speed up the clip in your editor."
+      ],
+      "task": "Record a 10-second timelapse of clouds or traffic.",
+      "challenge": "Record a timelapse of a sunset.",
+      "quiz": [
+        {
+          "q": "What is a tripod for?",
+          "options": [
+            "It holds the camera still so shots do not shake",
+            "It makes the camera lighter",
+            "It charges the camera",
+            "It edits the video"
+          ],
+          "answer": 0,
+          "explain": "A tripod holds your camera steady. A stack of books works too."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a timelapse\"?",
+          "options": [
+            "Record a timelapse video.",
+            "Record clear sound with your phone.",
+            "Use a tripod or a stack of books for steady shots.",
+            "Make your video colors look good."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Record a timelapse video."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Set your camera on a tripod.",
+            "Use timelapse mode or record for 10 minutes.",
+            "Speed up the clip in your editor.",
+            "Find a scene that changes slowly, like clouds."
+          ],
+          "answer": 3,
+          "explain": "Start with: Find a scene that changes slowly, like clouds."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "ge-MmahCcWg",
+        "title": "3 1/2 hour beginner video editing course",
+        "channel": "VideoRevealed"
+      },
+      "steps": [
+        "Open your showreel folder.",
+        "Pick your best three videos.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three videos and write why each one works.",
+      "challenge": "Show your best video to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "Why should you record extra B-roll?",
+          "options": [
+            "So you can cover cuts and keep the video interesting",
+            "So the file is bigger",
+            "So the video is longer",
+            "So the music sounds better"
+          ],
+          "answer": 0,
+          "explain": "B-roll covers your cuts and gives the viewer something new to look at."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Shoot and edit a 30-second video.",
+            "Shoot video in the soft light before sunset.",
+            "Add music and sound effects to a video.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your showreel folder.",
+            "Pick your best three videos."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your showreel folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "6GnmzvqqzJw",
+        "title": "How To Edit Videos (COMPLETE Beginner's Guide to Video Editing!)",
+        "channel": "Primal Video"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your videography.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "What is a tripod for?",
+          "options": [
+            "It holds the camera still so shots do not shake",
+            "It makes the camera lighter",
+            "It charges the camera",
+            "It edits the video"
+          ],
+          "answer": 0,
+          "explain": "A tripod holds your camera steady. A stack of books works too."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Record a clean product video.",
+            "Record a simple interview.",
+            "Write a simple plan to keep getting better.",
+            "Plan and shoot a short video."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your First Client Video",
+    "brief": "Shoot and edit a full 2-minute video for a real or pretend small business: a short advert with a clear message, clean shots, good sound, captions, and a call to action at the end.",
+    "checks": [
+      "Video is 1 minute 45 to 2 minutes 15 long",
+      "Has a clear message in the first 5 seconds",
+      "Shots are steady and well framed",
+      "Sound is clear and easy to hear",
+      "Captions are correct and easy to read",
+      "Ends with a clear call to action",
+      "Exports and plays well"
+    ],
+    "deliverables": [
+      "Final 2-minute video file",
+      "A shot list you used",
+      "Before-and-after of one color fix",
+      "A short note on the sound setup",
+      "A note on what you would improve next time"
+    ]
+  }
+}

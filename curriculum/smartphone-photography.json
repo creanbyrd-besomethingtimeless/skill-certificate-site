@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "smartphone-photography",
+    "title": "Smartphone Photography",
+    "level": "Beginner",
+    "tagline": "Shoot portraits, products and food with your phone that look like they came from a studio.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet your phone camera",
+      "goal": "Learn what your phone camera can do.",
+      "video": {
+        "youtube_id": "HajzDPwzCxc",
+        "title": "6 Top Tips On Photographing Food With Your Smartphone",
+        "channel": "COOPH"
+      },
+      "steps": [
+        "Open the camera app on your phone.",
+        "Find the photo mode, video mode, and portrait mode.",
+        "Find the front and back camera switch.",
+        "Take one photo with each camera."
+      ],
+      "task": "Take a photo with the front camera and one with the back camera.",
+      "challenge": "Take ten photos of one thing from different spots.",
+      "quiz": [
+        {
+          "q": "Why should you clean your phone lens?",
+          "options": [
+            "Because a dirty lens makes photos soft and foggy",
+            "Because it saves battery",
+            "Because it makes the phone faster",
+            "Because it changes the photo size"
+          ],
+          "answer": 0,
+          "explain": "A dirty lens blurs your photos. Wipe it gently before you shoot."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Meet your phone camera\"?",
+          "options": [
+            "Take a great portrait with your phone.",
+            "Take a set of ten photos on one theme.",
+            "Take a photo from above of items on a table.",
+            "Learn what your phone camera can do."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Learn what your phone camera can do."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find the front and back camera switch.",
+            "Take one photo with each camera.",
+            "Open the camera app on your phone.",
+            "Find the photo mode, video mode, and portrait mode."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open the camera app on your phone."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Clean your lens",
+      "goal": "A clean lens makes sharper photos.",
+      "video": {
+        "youtube_id": "3d5bxInBCHw",
+        "title": "Basics of Food Photography | Tutorial 1",
+        "channel": "Lemon in Ginger"
+      },
+      "steps": [
+        "Find a soft cloth or your shirt.",
+        "Wipe the camera lens gently in circles.",
+        "Take a photo of a bright light.",
+        "Check that there are no smudges or flares."
+      ],
+      "task": "Clean your lens and take a before-and-after photo.",
+      "challenge": "Clean your lens every day this week before you shoot.",
+      "quiz": [
+        {
+          "q": "What does tapping the screen do in your camera app?",
+          "options": [
+            "It tells the camera what to focus on",
+            "It takes a video",
+            "It turns off the flash",
+            "It deletes the photo"
+          ],
+          "answer": 0,
+          "explain": "Tapping the screen sets the focus on that spot, so your subject looks sharp."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Clean your lens\"?",
+          "options": [
+            "Edit photos with a free phone app.",
+            "Share a set of five photos online.",
+            "A clean lens makes sharper photos.",
+            "Take a clean product photo with your phone."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: A clean lens makes sharper photos."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Check that there are no smudges or flares.",
+            "Find a soft cloth or your shirt.",
+            "Wipe the camera lens gently in circles.",
+            "Take a photo of a bright light."
+          ],
+          "answer": 1,
+          "explain": "Start with: Find a soft cloth or your shirt."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Tap to focus",
+      "goal": "Tap the screen to focus on your subject.",
+      "video": {
+        "youtube_id": "by51h-gWpQI",
+        "title": "How to Add Presets to Lightroom Mobile",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Open your camera app.",
+        "Tap on your subject on the screen.",
+        "Wait for the focus square to appear.",
+        "Take the photo when your subject looks sharp."
+      ],
+      "task": "Take a photo by tapping to focus on the subject.",
+      "challenge": "Take three photos, focusing on three different things.",
+      "quiz": [
+        {
+          "q": "Why should you clean your phone lens?",
+          "options": [
+            "Because a dirty lens makes photos soft and foggy",
+            "Because it saves battery",
+            "Because it makes the phone faster",
+            "Because it changes the photo size"
+          ],
+          "answer": 0,
+          "explain": "A dirty lens blurs your photos. Wipe it gently before you shoot."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Tap to focus\"?",
+          "options": [
+            "Take a good photo of an outfit.",
+            "Tap the screen to focus on your subject.",
+            "Take a tasty food photo with your phone.",
+            "Crop photos to make them stronger."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Tap the screen to focus on your subject."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Open your camera app.",
+            "Tap on your subject on the screen.",
+            "Wait for the focus square to appear.",
+            "Take the photo when your subject looks sharp."
+          ],
+          "answer": 0,
+          "explain": "Start with: Open your camera app."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Light first",
+      "goal": "Find good light before you take a photo.",
+      "video": {
+        "youtube_id": "FBCuu4412lk",
+        "title": "How to Edit Using Lightroom Mobile Presets",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Take a photo of a friend in a dark room.",
+        "Take the same photo near a window.",
+        "Compare the two photos.",
+        "Notice how the window photo is brighter and clearer."
+      ],
+      "task": "Take the same photo in dark light and in window light, then compare.",
+      "challenge": "Take a photo in the morning, at noon, and in the evening.",
+      "quiz": [
+        {
+          "q": "What does tapping the screen do in your camera app?",
+          "options": [
+            "It tells the camera what to focus on",
+            "It takes a video",
+            "It turns off the flash",
+            "It deletes the photo"
+          ],
+          "answer": 0,
+          "explain": "Tapping the screen sets the focus on that spot, so your subject looks sharp."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Light first\"?",
+          "options": [
+            "Find good light before you take a photo.",
+            "Take photos using only window light.",
+            "Fix a photo that looks too yellow or too blue.",
+            "Take a good photo of a pet."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Find good light before you take a photo."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take the same photo near a window.",
+            "Compare the two photos.",
+            "Notice how the window photo is brighter and clearer.",
+            "Take a photo of a friend in a dark room."
+          ],
+          "answer": 3,
+          "explain": "Start with: Take a photo of a friend in a dark room."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Portrait mode",
+      "goal": "Use portrait mode for photos of people.",
+      "video": {
+        "youtube_id": "bWdDJS2N-YM",
+        "title": "Mobile Portraits from Capture to Edit Using Adobe Lightroom Mobile",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Open your camera app and pick Portrait mode.",
+        "Ask a friend to stand still.",
+        "Tap on their face to focus.",
+        "Take the photo. The background should look blurry."
+      ],
+      "task": "Take a portrait in portrait mode.",
+      "challenge": "Take a portrait in normal mode and in portrait mode, then compare.",
+      "quiz": [
+        {
+          "q": "Why should you clean your phone lens?",
+          "options": [
+            "Because a dirty lens makes photos soft and foggy",
+            "Because it saves battery",
+            "Because it makes the phone faster",
+            "Because it changes the photo size"
+          ],
+          "answer": 0,
+          "explain": "A dirty lens blurs your photos. Wipe it gently before you shoot."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Portrait mode\"?",
+          "options": [
+            "Take photos in the soft light before sunset.",
+            "Take photos after dark with your phone.",
+            "Take photos of life on the street.",
+            "Use portrait mode for photos of people."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Use portrait mode for photos of people."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Tap on their face to focus.",
+            "Take the photo. The background should look blurry.",
+            "Open your camera app and pick Portrait mode.",
+            "Ask a friend to stand still."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your camera app and pick Portrait mode."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Rule of thirds on your phone",
+      "goal": "Turn on the grid and place your subject well.",
+      "video": {
+        "youtube_id": "axKEUnxqWZY",
+        "title": "DSLR Basic Settings Tutorial - Photography/Videography 101",
+        "channel": "Steve DiCasa"
+      },
+      "steps": [
+        "Open your camera settings and turn on the grid.",
+        "Place your subject where two grid lines cross.",
+        "Take the photo.",
+        "Compare it with a photo where the subject is in the middle."
+      ],
+      "task": "Take a photo with the subject on a grid line crossing.",
+      "challenge": "Take five photos using the rule of thirds.",
+      "quiz": [
+        {
+          "q": "What does tapping the screen do in your camera app?",
+          "options": [
+            "It tells the camera what to focus on",
+            "It takes a video",
+            "It turns off the flash",
+            "It deletes the photo"
+          ],
+          "answer": 0,
+          "explain": "Tapping the screen sets the focus on that spot, so your subject looks sharp."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Rule of thirds on your phone\"?",
+          "options": [
+            "Take a good selfie with your phone.",
+            "Take photos for a small business.",
+            "Turn on the grid and place your subject well.",
+            "Bounce light onto your subject."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Turn on the grid and place your subject well."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Compare it with a photo where the subject is in the middle.",
+            "Open your camera settings and turn on the grid.",
+            "Place your subject where two grid lines cross.",
+            "Take the photo."
+          ],
+          "answer": 1,
+          "explain": "Start with: Open your camera settings and turn on the grid."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Take 10 good phone photos",
+      "goal": "Use what you learned this week.",
+      "video": {
+        "youtube_id": "F8T94sdiNjc",
+        "title": "Aperture, Shutter Speed, ISO and Light Explained - Understanding Exposure",
+        "channel": "Tony Northrup"
+      },
+      "steps": [
+        "Pick one subject, like a friend or a pet.",
+        "Take ten photos using different light and angles.",
+        "Pick your best three.",
+        "Save them in a folder called Week 1."
+      ],
+      "task": "Take ten photos of one subject and pick your best three.",
+      "challenge": "Show your best photo to a friend and ask what they like about it.",
+      "quiz": [
+        {
+          "q": "Why should you clean your phone lens?",
+          "options": [
+            "Because a dirty lens makes photos soft and foggy",
+            "Because it saves battery",
+            "Because it makes the phone faster",
+            "Because it changes the photo size"
+          ],
+          "answer": 0,
+          "explain": "A dirty lens blurs your photos. Wipe it gently before you shoot."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Take 10 good phone photos\"?",
+          "options": [
+            "Find the kind of photos you love to take.",
+            "Use what you learned this week.",
+            "Take a set of ten photos on one theme.",
+            "Take a photo from above of items on a table."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Use what you learned this week."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick one subject, like a friend or a pet.",
+            "Take ten photos using different light and angles.",
+            "Pick your best three.",
+            "Save them in a folder called Week 1."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick one subject, like a friend or a pet."
+        }
+      ],
+      "project": {
+        "title": "10 Good Phone Photos",
+        "brief": "Take ten good photos of one subject with your phone.",
+        "checks": [
+          "Ten photos taken",
+          "Different light used",
+          "Different angles used",
+          "Best three picked",
+          "Photos are sharp",
+          "Saved in a folder"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Shoot a portrait on your phone",
+      "goal": "Take a great portrait with your phone.",
+      "video": {
+        "youtube_id": "st_4GLsLcH4",
+        "title": "Use This Simple Trick for Better Photography Composition in Any Portrait",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Ask a friend to stand near a window.",
+        "Use portrait mode.",
+        "Tap on their eyes to focus.",
+        "Take ten photos and pick the best one."
+      ],
+      "task": "Take a portrait with the focus on the eyes.",
+      "challenge": "Take portraits of three different people.",
+      "quiz": [
+        {
+          "q": "What is the rule of thirds?",
+          "options": [
+            "Placing your subject where grid lines cross, not in the middle",
+            "Always putting the subject in the middle",
+            "Taking three photos of everything",
+            "Using three lights"
+          ],
+          "answer": 0,
+          "explain": "The rule of thirds puts your subject off-center, where grid lines cross. It makes photos more interesting."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a portrait on your phone\"?",
+          "options": [
+            "Take a great portrait with your phone.",
+            "Edit photos with a free phone app.",
+            "Share a set of five photos online.",
+            "Tell a story with five photos."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Take a great portrait with your phone."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Use portrait mode.",
+            "Tap on their eyes to focus.",
+            "Take ten photos and pick the best one.",
+            "Ask a friend to stand near a window."
+          ],
+          "answer": 3,
+          "explain": "Start with: Ask a friend to stand near a window."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Shoot a product on your phone",
+      "goal": "Take a clean product photo with your phone.",
+      "video": {
+        "youtube_id": "nz0wnQzSS5U",
+        "title": "Photography Basics Video Course",
+        "channel": "Photography Life"
+      },
+      "steps": [
+        "Pick a product, like a shoe or a bottle.",
+        "Put it on a plain background.",
+        "Light it from a window.",
+        "Take ten photos from different angles."
+      ],
+      "task": "Take ten product photos from different angles.",
+      "challenge": "Take a product photo on a white background and on a colored one.",
+      "quiz": [
+        {
+          "q": "What is portrait mode on a phone?",
+          "options": [
+            "A mode that blurs the background behind a person",
+            "A mode that only works at night",
+            "A mode that makes photos black and white",
+            "A mode that zooms in"
+          ],
+          "answer": 0,
+          "explain": "Portrait mode blurs the background so the person stands out."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a product on your phone\"?",
+          "options": [
+            "Crop photos to make them stronger.",
+            "Take a good photo of an outfit.",
+            "Pick your best ten photos.",
+            "Take a clean product photo with your phone."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Take a clean product photo with your phone."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Light it from a window.",
+            "Take ten photos from different angles.",
+            "Pick a product, like a shoe or a bottle.",
+            "Put it on a plain background."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a product, like a shoe or a bottle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Shoot food on your phone",
+      "goal": "Take a tasty food photo with your phone.",
+      "video": {
+        "youtube_id": "yhAmMUi2NmM",
+        "title": "Learn Photography for Beginners | Full photography course",
+        "channel": "Parker Photographic"
+      },
+      "steps": [
+        "Make or buy a plate of food.",
+        "Place it near a window for soft light.",
+        "Take a photo from above.",
+        "Add a fork or a cloth for style."
+      ],
+      "task": "Take a food photo from above near a window.",
+      "challenge": "Take food photos from three angles and pick the best.",
+      "quiz": [
+        {
+          "q": "What is the rule of thirds?",
+          "options": [
+            "Placing your subject where grid lines cross, not in the middle",
+            "Always putting the subject in the middle",
+            "Taking three photos of everything",
+            "Using three lights"
+          ],
+          "answer": 0,
+          "explain": "The rule of thirds puts your subject off-center, where grid lines cross. It makes photos more interesting."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot food on your phone\"?",
+          "options": [
+            "Take a good photo of a pet.",
+            "Pick your best work and say why it works.",
+            "Take a tasty food photo with your phone.",
+            "Fix a photo that looks too yellow or too blue."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Take a tasty food photo with your phone."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Add a fork or a cloth for style.",
+            "Make or buy a plate of food.",
+            "Place it near a window for soft light.",
+            "Take a photo from above."
+          ],
+          "answer": 1,
+          "explain": "Start with: Make or buy a plate of food."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Use natural light",
+      "goal": "Take photos using only window light.",
+      "video": {
+        "youtube_id": "HajzDPwzCxc",
+        "title": "6 Top Tips On Photographing Food With Your Smartphone",
+        "channel": "COOPH"
+      },
+      "steps": [
+        "Find a window with soft light.",
+        "Place your subject near it.",
+        "Turn off the room lights.",
+        "Take ten photos and pick your best three."
+      ],
+      "task": "Take ten photos using only window light.",
+      "challenge": "Take a photo with light from the front, side, and back.",
+      "quiz": [
+        {
+          "q": "What is portrait mode on a phone?",
+          "options": [
+            "A mode that blurs the background behind a person",
+            "A mode that only works at night",
+            "A mode that makes photos black and white",
+            "A mode that zooms in"
+          ],
+          "answer": 0,
+          "explain": "Portrait mode blurs the background so the person stands out."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use natural light\"?",
+          "options": [
+            "Write a simple plan to keep getting better.",
+            "Take photos using only window light.",
+            "Take photos after dark with your phone.",
+            "Take photos of life on the street."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Take photos using only window light."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find a window with soft light.",
+            "Place your subject near it.",
+            "Turn off the room lights.",
+            "Take ten photos and pick your best three."
+          ],
+          "answer": 0,
+          "explain": "Start with: Find a window with soft light."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Golden hour on your phone",
+      "goal": "Take photos in the soft light before sunset.",
+      "video": {
+        "youtube_id": "3d5bxInBCHw",
+        "title": "Basics of Food Photography | Tutorial 1",
+        "channel": "Lemon in Ginger"
+      },
+      "steps": [
+        "Go outside one hour before sunset.",
+        "Take photos of a person or a place.",
+        "Notice how the light is warm and soft.",
+        "Take ten photos and pick your best three."
+      ],
+      "task": "Take photos during golden hour and pick your best three.",
+      "challenge": "Take the same photo at noon and at golden hour, then compare.",
+      "quiz": [
+        {
+          "q": "What is the rule of thirds?",
+          "options": [
+            "Placing your subject where grid lines cross, not in the middle",
+            "Always putting the subject in the middle",
+            "Taking three photos of everything",
+            "Using three lights"
+          ],
+          "answer": 0,
+          "explain": "The rule of thirds puts your subject off-center, where grid lines cross. It makes photos more interesting."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Golden hour on your phone\"?",
+          "options": [
+            "Take photos in the soft light before sunset.",
+            "Take a good selfie with your phone.",
+            "Take photos for a small business.",
+            "Learn what your phone camera can do."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Take photos in the soft light before sunset."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take photos of a person or a place.",
+            "Notice how the light is warm and soft.",
+            "Take ten photos and pick your best three.",
+            "Go outside one hour before sunset."
+          ],
+          "answer": 3,
+          "explain": "Start with: Go outside one hour before sunset."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Use a reflector on your phone",
+      "goal": "Bounce light onto your subject.",
+      "video": {
+        "youtube_id": "by51h-gWpQI",
+        "title": "How to Add Presets to Lightroom Mobile",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Hold a white board near your subject.",
+        "Angle it so light bounces onto their face.",
+        "Take a portrait.",
+        "Compare it with a portrait without the reflector."
+      ],
+      "task": "Take a portrait using a white board as a reflector.",
+      "challenge": "Try a reflector made from foil and one made from paper.",
+      "quiz": [
+        {
+          "q": "What is portrait mode on a phone?",
+          "options": [
+            "A mode that blurs the background behind a person",
+            "A mode that only works at night",
+            "A mode that makes photos black and white",
+            "A mode that zooms in"
+          ],
+          "answer": 0,
+          "explain": "Portrait mode blurs the background so the person stands out."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Use a reflector on your phone\"?",
+          "options": [
+            "Take a photo from above of items on a table.",
+            "Find the kind of photos you love to take.",
+            "A clean lens makes sharper photos.",
+            "Bounce light onto your subject."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Bounce light onto your subject."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take a portrait.",
+            "Compare it with a portrait without the reflector.",
+            "Hold a white board near your subject.",
+            "Angle it so light bounces onto their face."
+          ],
+          "answer": 2,
+          "explain": "Start with: Hold a white board near your subject."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Your first phone photo set",
+      "goal": "Take a set of ten photos on one theme.",
+      "video": {
+        "youtube_id": "FBCuu4412lk",
+        "title": "How to Edit Using Lightroom Mobile Presets",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Pick a theme, like morning or streets.",
+        "Take ten photos on that theme.",
+        "Pick your best five.",
+        "Save them in a folder called My First Set."
+      ],
+      "task": "Take ten photos on one theme and pick your best five.",
+      "challenge": "Show your set to a friend and ask which photo tells the story best.",
+      "quiz": [
+        {
+          "q": "What is the rule of thirds?",
+          "options": [
+            "Placing your subject where grid lines cross, not in the middle",
+            "Always putting the subject in the middle",
+            "Taking three photos of everything",
+            "Using three lights"
+          ],
+          "answer": 0,
+          "explain": "The rule of thirds puts your subject off-center, where grid lines cross. It makes photos more interesting."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your first phone photo set\"?",
+          "options": [
+            "Tell a story with five photos.",
+            "Tap the screen to focus on your subject.",
+            "Take a set of ten photos on one theme.",
+            "Share a set of five photos online."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Take a set of ten photos on one theme."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Save them in a folder called My First Set.",
+            "Pick a theme, like morning or streets.",
+            "Take ten photos on that theme.",
+            "Pick your best five."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick a theme, like morning or streets."
+        }
+      ],
+      "project": {
+        "title": "Phone Photo Set on One Theme",
+        "brief": "Take ten photos on one theme and pick your best five.",
+        "checks": [
+          "Ten photos taken on one theme",
+          "Best five picked",
+          "Photos tell a story together",
+          "Good light in most photos",
+          "Photos are sharp",
+          "Saved in a folder"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Edit on your phone",
+      "goal": "Edit photos with a free phone app.",
+      "video": {
+        "youtube_id": "bWdDJS2N-YM",
+        "title": "Mobile Portraits from Capture to Edit Using Adobe Lightroom Mobile",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Download Snapseed or Lightroom Mobile.",
+        "Open a photo in the app.",
+        "Make it a little brighter.",
+        "Add a little contrast and save it."
+      ],
+      "task": "Edit three photos on your phone.",
+      "challenge": "Edit the same photo two ways and pick the better one.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when phones charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Edit on your phone\"?",
+          "options": [
+            "Find good light before you take a photo.",
+            "Edit photos with a free phone app.",
+            "Take a good photo of an outfit.",
+            "Pick your best ten photos."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Edit photos with a free phone app."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Download Snapseed or Lightroom Mobile.",
+            "Open a photo in the app.",
+            "Make it a little brighter.",
+            "Add a little contrast and save it."
+          ],
+          "answer": 0,
+          "explain": "Start with: Download Snapseed or Lightroom Mobile."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Crop on your phone",
+      "goal": "Crop photos to make them stronger.",
+      "video": {
+        "youtube_id": "axKEUnxqWZY",
+        "title": "DSLR Basic Settings Tutorial - Photography/Videography 101",
+        "channel": "Steve DiCasa"
+      },
+      "steps": [
+        "Open a photo with too much empty space.",
+        "Crop out the empty parts.",
+        "Keep the subject big in the frame.",
+        "Save the cropped photo."
+      ],
+      "task": "Crop three photos to make the subject bigger.",
+      "challenge": "Crop one photo into a square and one into a wide shape.",
+      "quiz": [
+        {
+          "q": "What is a flat lay?",
+          "options": [
+            "A photo taken from above of items laid flat on a surface",
+            "A photo of a building",
+            "A photo taken at night",
+            "A photo of a person jumping"
+          ],
+          "answer": 0,
+          "explain": "A flat lay is a photo taken straight down at items arranged on a flat surface."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Crop on your phone\"?",
+          "options": [
+            "Crop photos to make them stronger.",
+            "Take a good photo of a pet.",
+            "Pick your best work and say why it works.",
+            "Use portrait mode for photos of people."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Crop photos to make them stronger."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Crop out the empty parts.",
+            "Keep the subject big in the frame.",
+            "Save the cropped photo.",
+            "Open a photo with too much empty space."
+          ],
+          "answer": 3,
+          "explain": "Start with: Open a photo with too much empty space."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Fix colors on your phone",
+      "goal": "Fix a photo that looks too yellow or too blue.",
+      "video": {
+        "youtube_id": "F8T94sdiNjc",
+        "title": "Aperture, Shutter Speed, ISO and Light Explained - Understanding Exposure",
+        "channel": "Tony Northrup"
+      },
+      "steps": [
+        "Open a photo with a color tint.",
+        "Find the warmth or temperature slider.",
+        "Move it until the colors look natural.",
+        "Save the fixed photo."
+      ],
+      "task": "Fix a photo that looks too yellow.",
+      "challenge": "Fix one photo that looks too yellow and one that looks too blue.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when phones charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Fix colors on your phone\"?",
+          "options": [
+            "Take photos of life on the street.",
+            "Write a simple plan to keep getting better.",
+            "Turn on the grid and place your subject well.",
+            "Fix a photo that looks too yellow or too blue."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Fix a photo that looks too yellow or too blue."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Move it until the colors look natural.",
+            "Save the fixed photo.",
+            "Open a photo with a color tint.",
+            "Find the warmth or temperature slider."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open a photo with a color tint."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Shoot at night on your phone",
+      "goal": "Take photos after dark with your phone.",
+      "video": {
+        "youtube_id": "st_4GLsLcH4",
+        "title": "Use This Simple Trick for Better Photography Composition in Any Portrait",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Go outside after dark.",
+        "Find night mode in your camera app.",
+        "Hold the phone still or rest it on a table.",
+        "Take ten photos and pick your best three."
+      ],
+      "task": "Take ten night photos and pick your best three.",
+      "challenge": "Take a photo of city lights at night.",
+      "quiz": [
+        {
+          "q": "What is a flat lay?",
+          "options": [
+            "A photo taken from above of items laid flat on a surface",
+            "A photo of a building",
+            "A photo taken at night",
+            "A photo of a person jumping"
+          ],
+          "answer": 0,
+          "explain": "A flat lay is a photo taken straight down at items arranged on a flat surface."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot at night on your phone\"?",
+          "options": [
+            "Learn what your phone camera can do.",
+            "Use what you learned this week.",
+            "Take photos after dark with your phone.",
+            "Take photos for a small business."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Take photos after dark with your phone."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take ten photos and pick your best three.",
+            "Go outside after dark.",
+            "Find night mode in your camera app.",
+            "Hold the phone still or rest it on a table."
+          ],
+          "answer": 1,
+          "explain": "Start with: Go outside after dark."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Shoot a selfie that looks good",
+      "goal": "Take a good selfie with your phone.",
+      "video": {
+        "youtube_id": "nz0wnQzSS5U",
+        "title": "Photography Basics Video Course",
+        "channel": "Photography Life"
+      },
+      "steps": [
+        "Find a window with soft light.",
+        "Hold the phone a little above your eyes.",
+        "Tap on your face to focus.",
+        "Take ten selfies and pick the best one."
+      ],
+      "task": "Take ten selfies near a window and pick the best.",
+      "challenge": "Take a selfie with the back camera and a timer.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when phones charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a selfie that looks good\"?",
+          "options": [
+            "Take a great portrait with your phone.",
+            "Take a good selfie with your phone.",
+            "Find the kind of photos you love to take.",
+            "A clean lens makes sharper photos."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Take a good selfie with your phone."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Find a window with soft light.",
+            "Hold the phone a little above your eyes.",
+            "Tap on your face to focus.",
+            "Take ten selfies and pick the best one."
+          ],
+          "answer": 0,
+          "explain": "Start with: Find a window with soft light."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Shoot a flat lay",
+      "goal": "Take a photo from above of items on a table.",
+      "video": {
+        "youtube_id": "yhAmMUi2NmM",
+        "title": "Learn Photography for Beginners | Full photography course",
+        "channel": "Parker Photographic"
+      },
+      "steps": [
+        "Lay three or four items on a plain surface.",
+        "Stand above them and hold the phone flat.",
+        "Line up the items neatly.",
+        "Take the photo and check it is straight."
+      ],
+      "task": "Take a flat lay photo of three items.",
+      "challenge": "Take a flat lay of your morning routine items.",
+      "quiz": [
+        {
+          "q": "What is a flat lay?",
+          "options": [
+            "A photo taken from above of items laid flat on a surface",
+            "A photo of a building",
+            "A photo taken at night",
+            "A photo of a person jumping"
+          ],
+          "answer": 0,
+          "explain": "A flat lay is a photo taken straight down at items arranged on a flat surface."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a flat lay\"?",
+          "options": [
+            "Take a photo from above of items on a table.",
+            "Tell a story with five photos.",
+            "Tap the screen to focus on your subject.",
+            "Take a clean product photo with your phone."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Take a photo from above of items on a table."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Stand above them and hold the phone flat.",
+            "Line up the items neatly.",
+            "Take the photo and check it is straight.",
+            "Lay three or four items on a plain surface."
+          ],
+          "answer": 3,
+          "explain": "Start with: Lay three or four items on a plain surface."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Share your best phone photos",
+      "goal": "Share a set of five photos online.",
+      "video": {
+        "youtube_id": "HajzDPwzCxc",
+        "title": "6 Top Tips On Photographing Food With Your Smartphone",
+        "channel": "COOPH"
+      },
+      "steps": [
+        "Pick your best five photos from this month.",
+        "Edit each one lightly.",
+        "Write one short caption for each.",
+        "Share them on your social media or with a friend."
+      ],
+      "task": "Share five of your best photos.",
+      "challenge": "Ask for feedback on your five photos and write down what you hear.",
+      "quiz": [
+        {
+          "q": "What is golden hour?",
+          "options": [
+            "The soft, warm light in the hour before sunset",
+            "The hour after midnight",
+            "The brightest hour of the day",
+            "The hour when phones charge"
+          ],
+          "answer": 0,
+          "explain": "Golden hour is the hour before sunset. The light is warm, soft and flattering."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Share your best phone photos\"?",
+          "options": [
+            "Pick your best ten photos.",
+            "Find good light before you take a photo.",
+            "Take a tasty food photo with your phone.",
+            "Share a set of five photos online."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Share a set of five photos online."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one short caption for each.",
+            "Share them on your social media or with a friend.",
+            "Pick your best five photos from this month.",
+            "Edit each one lightly."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick your best five photos from this month."
+        }
+      ],
+      "project": {
+        "title": "Share Your Best Phone Photos",
+        "brief": "Share a set of five edited photos online.",
+        "checks": [
+          "Five photos picked",
+          "Each photo edited lightly",
+          "Each photo has a caption",
+          "Photos shared online or with friends",
+          "Feedback collected",
+          "Photos saved in a folder"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Shoot an outfit",
+      "goal": "Take a good photo of an outfit.",
+      "video": {
+        "youtube_id": "3d5bxInBCHw",
+        "title": "Basics of Food Photography | Tutorial 1",
+        "channel": "Lemon in Ginger"
+      },
+      "steps": [
+        "Pick an outfit and a clean background.",
+        "Take a full-body photo from a little distance.",
+        "Take a close-up of one detail, like shoes.",
+        "Pick your best three photos."
+      ],
+      "task": "Take an outfit photo, full body and close-up.",
+      "challenge": "Take outfit photos in three different places.",
+      "quiz": [
+        {
+          "q": "Why is window light good for photos?",
+          "options": [
+            "Because it is soft and even, and makes skin look good",
+            "Because it is free",
+            "Because it makes photos smaller",
+            "Because it works only at noon"
+          ],
+          "answer": 0,
+          "explain": "Window light is soft and spreads evenly. It is one of the best lights for photos."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot an outfit\"?",
+          "options": [
+            "Use portrait mode for photos of people.",
+            "Take photos using only window light.",
+            "Take a good photo of an outfit.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Take a good photo of an outfit."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick your best three photos.",
+            "Pick an outfit and a clean background.",
+            "Take a full-body photo from a little distance.",
+            "Take a close-up of one detail, like shoes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Pick an outfit and a clean background."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Shoot a pet",
+      "goal": "Take a good photo of a pet.",
+      "video": {
+        "youtube_id": "by51h-gWpQI",
+        "title": "How to Add Presets to Lightroom Mobile",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Get down to the pet's eye level.",
+        "Tap on the pet's eyes to focus.",
+        "Take many photos quickly.",
+        "Pick the best three."
+      ],
+      "task": "Take ten pet photos and pick your best three.",
+      "challenge": "Take a pet photo in good light and one in bad light.",
+      "quiz": [
+        {
+          "q": "What is night mode on a phone?",
+          "options": [
+            "A setting that takes brighter photos in the dark",
+            "A setting that turns off the camera",
+            "A setting for black and white photos",
+            "A setting that saves battery"
+          ],
+          "answer": 0,
+          "explain": "Night mode takes in more light over a few seconds, so dark photos come out brighter."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a pet\"?",
+          "options": [
+            "Take photos in the soft light before sunset.",
+            "Take a good photo of a pet.",
+            "Write a simple plan to keep getting better.",
+            "Turn on the grid and place your subject well."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Take a good photo of a pet."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Get down to the pet's eye level.",
+            "Tap on the pet's eyes to focus.",
+            "Take many photos quickly.",
+            "Pick the best three."
+          ],
+          "answer": 0,
+          "explain": "Start with: Get down to the pet's eye level."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Shoot a street scene",
+      "goal": "Take photos of life on the street.",
+      "video": {
+        "youtube_id": "FBCuu4412lk",
+        "title": "How to Edit Using Lightroom Mobile Presets",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Go to a busy street.",
+        "Take photos of people walking, shops, and signs.",
+        "Be kind and polite if someone asks.",
+        "Pick your best five photos."
+      ],
+      "task": "Take ten street photos and pick your best five.",
+      "challenge": "Take a street photo that tells a story without words.",
+      "quiz": [
+        {
+          "q": "Why is window light good for photos?",
+          "options": [
+            "Because it is soft and even, and makes skin look good",
+            "Because it is free",
+            "Because it makes photos smaller",
+            "Because it works only at noon"
+          ],
+          "answer": 0,
+          "explain": "Window light is soft and spreads evenly. It is one of the best lights for photos."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a street scene\"?",
+          "options": [
+            "Take photos of life on the street.",
+            "Learn what your phone camera can do.",
+            "Use what you learned this week.",
+            "Bounce light onto your subject."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Take photos of life on the street."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take photos of people walking, shops, and signs.",
+            "Be kind and polite if someone asks.",
+            "Pick your best five photos.",
+            "Go to a busy street."
+          ],
+          "answer": 3,
+          "explain": "Start with: Go to a busy street."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Shoot a small business",
+      "goal": "Take photos for a small business.",
+      "video": {
+        "youtube_id": "bWdDJS2N-YM",
+        "title": "Mobile Portraits from Capture to Edit Using Adobe Lightroom Mobile",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Pick a small business, real or pretend.",
+        "Take photos of the products, the shop, and the owner.",
+        "Edit the photos lightly.",
+        "Give the business five finished photos."
+      ],
+      "task": "Take ten photos for a small business and deliver five.",
+      "challenge": "Take product photos for a shop that sells food.",
+      "quiz": [
+        {
+          "q": "What is night mode on a phone?",
+          "options": [
+            "A setting that takes brighter photos in the dark",
+            "A setting that turns off the camera",
+            "A setting for black and white photos",
+            "A setting that saves battery"
+          ],
+          "answer": 0,
+          "explain": "Night mode takes in more light over a few seconds, so dark photos come out brighter."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Shoot a small business\"?",
+          "options": [
+            "A clean lens makes sharper photos.",
+            "Take a great portrait with your phone.",
+            "Take a set of ten photos on one theme.",
+            "Take photos for a small business."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Take photos for a small business."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Edit the photos lightly.",
+            "Give the business five finished photos.",
+            "Pick a small business, real or pretend.",
+            "Take photos of the products, the shop, and the owner."
+          ],
+          "answer": 2,
+          "explain": "Start with: Pick a small business, real or pretend."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Build your phone style",
+      "goal": "Find the kind of photos you love to take.",
+      "video": {
+        "youtube_id": "axKEUnxqWZY",
+        "title": "DSLR Basic Settings Tutorial - Photography/Videography 101",
+        "channel": "Steve DiCasa"
+      },
+      "steps": [
+        "Look at all your photos from this month.",
+        "Pick the ten you love most.",
+        "Write down what they have in common.",
+        "Take five more photos in that style."
+      ],
+      "task": "Pick your ten favorite photos and find what they have in common.",
+      "challenge": "Take five new photos in your favorite style.",
+      "quiz": [
+        {
+          "q": "Why is window light good for photos?",
+          "options": [
+            "Because it is soft and even, and makes skin look good",
+            "Because it is free",
+            "Because it makes photos smaller",
+            "Because it works only at noon"
+          ],
+          "answer": 0,
+          "explain": "Window light is soft and spreads evenly. It is one of the best lights for photos."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Build your phone style\"?",
+          "options": [
+            "Take a clean product photo with your phone.",
+            "Edit photos with a free phone app.",
+            "Find the kind of photos you love to take.",
+            "Tap the screen to focus on your subject."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Find the kind of photos you love to take."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Take five more photos in that style.",
+            "Look at all your photos from this month.",
+            "Pick the ten you love most.",
+            "Write down what they have in common."
+          ],
+          "answer": 1,
+          "explain": "Start with: Look at all your photos from this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Make a photo series on your phone",
+      "goal": "Tell a story with five photos.",
+      "video": {
+        "youtube_id": "F8T94sdiNjc",
+        "title": "Aperture, Shutter Speed, ISO and Light Explained - Understanding Exposure",
+        "channel": "Tony Northrup"
+      },
+      "steps": [
+        "Pick a story, like a day at the market.",
+        "Plan five photos: a start, three middle shots, and an end.",
+        "Take the five photos.",
+        "Put them in order and share them."
+      ],
+      "task": "Tell a story with five photos in order.",
+      "challenge": "Make a photo series about your morning routine.",
+      "quiz": [
+        {
+          "q": "What is night mode on a phone?",
+          "options": [
+            "A setting that takes brighter photos in the dark",
+            "A setting that turns off the camera",
+            "A setting for black and white photos",
+            "A setting that saves battery"
+          ],
+          "answer": 0,
+          "explain": "Night mode takes in more light over a few seconds, so dark photos come out brighter."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Make a photo series on your phone\"?",
+          "options": [
+            "Crop photos to make them stronger.",
+            "Tell a story with five photos.",
+            "Find good light before you take a photo.",
+            "Take a tasty food photo with your phone."
+          ],
+          "answer": 1,
+          "explain": "Today's goal is: Tell a story with five photos."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick a story, like a day at the market.",
+            "Plan five photos: a start, three middle shots, and an end.",
+            "Take the five photos.",
+            "Put them in order and share them."
+          ],
+          "answer": 0,
+          "explain": "Start with: Pick a story, like a day at the market."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Your phone portfolio",
+      "goal": "Pick your best ten photos.",
+      "video": {
+        "youtube_id": "st_4GLsLcH4",
+        "title": "Use This Simple Trick for Better Photography Composition in Any Portrait",
+        "channel": "SLR Lounge"
+      },
+      "steps": [
+        "Look at all your photos from this month.",
+        "Pick your best ten.",
+        "Save them in a folder called Portfolio.",
+        "Write one sentence about each photo."
+      ],
+      "task": "Pick your best ten photos and save them in a portfolio.",
+      "challenge": "Show your portfolio to a friend and ask which photo is best.",
+      "quiz": [
+        {
+          "q": "Why is window light good for photos?",
+          "options": [
+            "Because it is soft and even, and makes skin look good",
+            "Because it is free",
+            "Because it makes photos smaller",
+            "Because it works only at noon"
+          ],
+          "answer": 0,
+          "explain": "Window light is soft and spreads evenly. It is one of the best lights for photos."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Your phone portfolio\"?",
+          "options": [
+            "Pick your best ten photos.",
+            "Use portrait mode for photos of people.",
+            "Take photos using only window light.",
+            "Fix a photo that looks too yellow or too blue."
+          ],
+          "answer": 0,
+          "explain": "Today's goal is: Pick your best ten photos."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Pick your best ten.",
+            "Save them in a folder called Portfolio.",
+            "Write one sentence about each photo.",
+            "Look at all your photos from this month."
+          ],
+          "answer": 3,
+          "explain": "Start with: Look at all your photos from this month."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Review your best work",
+      "goal": "Pick your best work and say why it works.",
+      "video": {
+        "youtube_id": "nz0wnQzSS5U",
+        "title": "Photography Basics Video Course",
+        "channel": "Photography Life"
+      },
+      "steps": [
+        "Open your portfolio folder.",
+        "Pick your best three photos.",
+        "Write one sentence about why each one works.",
+        "Save them in a folder called Best Work."
+      ],
+      "task": "Pick your best three photos and write why each one works.",
+      "challenge": "Show your best photo to someone new and ask what they think.",
+      "quiz": [
+        {
+          "q": "What is night mode on a phone?",
+          "options": [
+            "A setting that takes brighter photos in the dark",
+            "A setting that turns off the camera",
+            "A setting for black and white photos",
+            "A setting that saves battery"
+          ],
+          "answer": 0,
+          "explain": "Night mode takes in more light over a few seconds, so dark photos come out brighter."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "options": [
+            "Turn on the grid and place your subject well.",
+            "Take photos in the soft light before sunset.",
+            "Take photos after dark with your phone.",
+            "Pick your best work and say why it works."
+          ],
+          "answer": 3,
+          "explain": "Today's goal is: Pick your best work and say why it works."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Write one sentence about why each one works.",
+            "Save them in a folder called Best Work.",
+            "Open your portfolio folder.",
+            "Pick your best three photos."
+          ],
+          "answer": 2,
+          "explain": "Start with: Open your portfolio folder."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Plan your next 30 days",
+      "goal": "Write a simple plan to keep getting better.",
+      "video": {
+        "youtube_id": "yhAmMUi2NmM",
+        "title": "Learn Photography for Beginners | Full photography course",
+        "channel": "Parker Photographic"
+      },
+      "steps": [
+        "Write down the one skill you want to improve most.",
+        "Pick one project to do each week.",
+        "Write the plan on paper or in your notes.",
+        "Put the plan where you will see it every day."
+      ],
+      "task": "Write a simple 4-week plan to keep improving your phone photography.",
+      "challenge": "Set a date to review your plan in 30 days.",
+      "quiz": [
+        {
+          "q": "Why is window light good for photos?",
+          "options": [
+            "Because it is soft and even, and makes skin look good",
+            "Because it is free",
+            "Because it makes photos smaller",
+            "Because it works only at noon"
+          ],
+          "answer": 0,
+          "explain": "Window light is soft and spreads evenly. It is one of the best lights for photos."
+        },
+        {
+          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "options": [
+            "Bounce light onto your subject.",
+            "Take a good selfie with your phone.",
+            "Write a simple plan to keep getting better.",
+            "Use what you learned this week."
+          ],
+          "answer": 2,
+          "explain": "Today's goal is: Write a simple plan to keep getting better."
+        },
+        {
+          "q": "What is the first step in today's lesson?",
+          "options": [
+            "Put the plan where you will see it every day.",
+            "Write down the one skill you want to improve most.",
+            "Pick one project to do each week.",
+            "Write the plan on paper or in your notes."
+          ],
+          "answer": 1,
+          "explain": "Start with: Write down the one skill you want to improve most."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Your First Phone Portfolio",
+    "brief": "Build a portfolio of ten photos taken only with your phone: two portraits, two product or food photos, two street or event photos, two flat lays or outfits, and two free-choice photos. Edit them on your phone and present them as a set.",
+    "checks": [
+      "Ten photos in total, all from a phone",
+      "Two portraits included",
+      "Two product or food photos included",
+      "Two street or event photos included",
+      "Two flat lays or outfits included",
+      "All photos edited on the phone",
+      "Photos saved in one portfolio folder"
+    ],
+    "deliverables": [
+      "Ten finished photos",
+      "A short caption for each photo",
+      "Before-and-after of one edit",
+      "A note on your favorite style",
+      "A plan for your next photo project"
+    ]
+  }
+}

@@ -1,0 +1,1744 @@
+{
+  "course": {
+    "id": "speed-reading",
+    "title": "Speed Reading",
+    "level": "Beginner",
+    "tagline": "Read faster and remember more, with techniques you can use every day.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What is speed reading?",
+      "goal": "Say what speed reading is and what it is not.",
+      "video": {
+        "youtube_id": "HB__TF9rp0E",
+        "title": "You're Not Slow: Become a Speed Reader in 15 Minutes",
+        "channel": "Elizabeth Filips"
+      },
+      "steps": [
+        "Watch today's video and note the technique for what speed reading is: read faster and remember more.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with what speed reading is: read faster and remember more.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with what speed reading is: read faster and remember more and check what your summary missed.",
+        "Read one article or chapter tonight using what speed reading is: read faster and remember more and note your speed and recall."
+      ],
+      "task": "Time yourself reading one page. Write down your speed.",
+      "challenge": "Read a page and write its main idea in one sentence.",
+      "quiz": [
+        {
+          "q": "What is the goal of speed reading?",
+          "options": [
+            "Read faster and remember more.",
+            "Skip whole chapters.",
+            "Read as fast as possible, even if you forget it all.",
+            "Never read slowly again."
+          ],
+          "answer": 0,
+          "explain": "Speed reading means reading faster and remembering more — not just moving your eyes fast."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Test your speed and memory after one week.",
+            "Say what speed reading is and what it is not.",
+            "Use a simple trick to remember more.",
+            "Use speed reading to study."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about What is speed reading? — its goal is: Say what speed reading is and what it is not."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "stopping regressions: going back over lines",
+            "reading with a question in mind",
+            "expanding your eye span",
+            "what speed reading is: read faster and remember more"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was what speed reading is: read faster and remember more."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Measure your speed",
+      "goal": "Know how fast you read now.",
+      "video": {
+        "youtube_id": "HB__TF9rp0E",
+        "title": "You're Not Slow: Become a Speed Reader in 15 Minutes",
+        "channel": "Elizabeth Filips"
+      },
+      "steps": [
+        "Watch today's video and note the technique for measuring your reading speed in words per minute.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with measuring your reading speed in words per minute.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with measuring your reading speed in words per minute and check what your summary missed.",
+        "Read one article or chapter tonight using measuring your reading speed in words per minute and note your speed and recall."
+      ],
+      "task": "Read for one minute and count the words you read.",
+      "challenge": "Measure your speed on two different texts.",
+      "quiz": [
+        {
+          "q": "How do you measure reading speed?",
+          "options": [
+            "Count the words you read in one minute.",
+            "Count the pages you turn.",
+            "Time how long you sleep.",
+            "Count the books you own."
+          ],
+          "answer": 0,
+          "explain": "Count the words you read in one minute. That number is your words per minute."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Preview a text before reading it fully.",
+            "Test your speed and memory after two weeks.",
+            "Know how fast you read now.",
+            "Read a novel faster without losing the story."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Measure your speed — its goal is: Know how fast you read now."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "measuring your reading speed in words per minute",
+            "reading in chunks of words",
+            "focusing while reading",
+            "timed reading drills"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was measuring your reading speed in words per minute."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Stop saying words in your head",
+      "goal": "Read without saying every word in your head.",
+      "video": {
+        "youtube_id": "HB__TF9rp0E",
+        "title": "You're Not Slow: Become a Speed Reader in 15 Minutes",
+        "channel": "Elizabeth Filips"
+      },
+      "steps": [
+        "Watch today's video and note the technique for stopping subvocalisation: saying words in your head.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with stopping subvocalisation: saying words in your head.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with stopping subvocalisation: saying words in your head and check what your summary missed.",
+        "Read one article or chapter tonight using stopping subvocalisation: saying words in your head and note your speed and recall."
+      ],
+      "task": "Read a page while humming softly, so you cannot say the words.",
+      "challenge": "Read a full page without moving your lips.",
+      "quiz": [
+        {
+          "q": "What is subvocalisation?",
+          "options": [
+            "Saying words in your head as you read.",
+            "Reading out loud.",
+            "Moving your lips.",
+            "Skipping words."
+          ],
+          "answer": 0,
+          "explain": "Subvocalisation is saying words in your head as you read. It slows you down to talking speed."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Find the main idea of each paragraph fast.",
+            "Change your speed for different texts.",
+            "Test your speed and memory after three weeks.",
+            "Read without saying every word in your head."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Stop saying words in your head — its goal is: Read without saying every word in your head."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "testing your speed and memory",
+            "stopping subvocalisation: saying words in your head",
+            "remembering what you read: retell it in your own words",
+            "speed reading for study"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was stopping subvocalisation: saying words in your head."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Use your finger or a pointer",
+      "goal": "Guide your eyes with a finger or pen.",
+      "video": {
+        "youtube_id": "BQQjxj7sZi4",
+        "title": "How to Speed Read",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Watch today's video and note the technique for guiding your eyes with a finger or pen.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with guiding your eyes with a finger or pen.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with guiding your eyes with a finger or pen and check what your summary missed.",
+        "Read one article or chapter tonight using guiding your eyes with a finger or pen and note your speed and recall."
+      ],
+      "task": "Read a page with your finger moving under the words.",
+      "challenge": "Read a full chapter with a pointer, without going back.",
+      "quiz": [
+        {
+          "q": "Why use a finger or pen while reading?",
+          "options": [
+            "It keeps your eyes moving forward at a steady pace.",
+            "It makes reading slower.",
+            "It is only for children.",
+            "It stops you from understanding."
+          ],
+          "answer": 0,
+          "explain": "A pointer keeps your eyes moving forward at a steady pace, so you do not drift or go back."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Guide your eyes with a finger or pen.",
+            "Skip small filler words and focus on key words.",
+            "Read silently, without moving your lips.",
+            "Read fast on a phone or computer."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Use your finger or a pointer — its goal is: Guide your eyes with a finger or pen."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "previewing a text: headings, first lines, last lines",
+            "testing your speed and memory again",
+            "guiding your eyes with a finger or pen",
+            "reading novels faster"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was guiding your eyes with a finger or pen."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Stop going back",
+      "goal": "Read forward without re-reading lines.",
+      "video": {
+        "youtube_id": "BQQjxj7sZi4",
+        "title": "How to Speed Read",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Watch today's video and note the technique for stopping regressions: going back over lines.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with stopping regressions: going back over lines.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with stopping regressions: going back over lines and check what your summary missed.",
+        "Read one article or chapter tonight using stopping regressions: going back over lines and note your speed and recall."
+      ],
+      "task": "Read a page without going back over any line.",
+      "challenge": "Read a full chapter without going back once.",
+      "quiz": [
+        {
+          "q": "What is a regression in reading?",
+          "options": [
+            "Going back over lines you already read.",
+            "Reading too fast.",
+            "Skipping pages.",
+            "Reading with your eyes closed."
+          ],
+          "answer": 0,
+          "explain": "A regression is going back over lines you already read. It wastes time and breaks your focus."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read with a question in mind.",
+            "Read forward without re-reading lines.",
+            "Take in more words in one look.",
+            "Take short notes that help you remember."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Stop going back — its goal is: Read forward without re-reading lines."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "finding the main idea of a paragraph",
+            "changing speed for different texts",
+            "testing your speed and memory again",
+            "stopping regressions: going back over lines"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was stopping regressions: going back over lines."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Read in chunks",
+      "goal": "Read groups of words, not one word at a time.",
+      "video": {
+        "youtube_id": "BQQjxj7sZi4",
+        "title": "How to Speed Read",
+        "channel": "Howcast"
+      },
+      "steps": [
+        "Watch today's video and note the technique for reading in chunks of words.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with reading in chunks of words.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with reading in chunks of words and check what your summary missed.",
+        "Read one article or chapter tonight using reading in chunks of words and note your speed and recall."
+      ],
+      "task": "Read a page in groups of three words at a time.",
+      "challenge": "Read a page in groups of five words.",
+      "quiz": [
+        {
+          "q": "Why read in chunks?",
+          "options": [
+            "Your eyes can take in several words at once.",
+            "Single words are easier.",
+            "Chunks are only for experts.",
+            "Chunks slow you down."
+          ],
+          "answer": 0,
+          "explain": "Your eyes can take in several words at once. Reading in chunks is faster than reading word by word."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read without losing focus.",
+            "Push your speed with timed drills.",
+            "Read groups of words, not one word at a time.",
+            "Read a hard text slowly and carefully."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Read in chunks — its goal is: Read groups of words, not one word at a time."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reading in chunks of words",
+            "skipping small words, focusing on key words",
+            "reading silently without moving your lips",
+            "reading fast on a screen"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was reading in chunks of words."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Your first speed test",
+      "goal": "Test your speed and memory after one week.",
+      "video": {
+        "youtube_id": "tEJNX_TiA20",
+        "title": "Iris Reading Speed Reading Lesson",
+        "channel": "Iris Reading"
+      },
+      "steps": [
+        "Watch today's video and note the technique for testing your speed and memory.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with testing your speed and memory.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with testing your speed and memory and check what your summary missed.",
+        "Read one article or chapter tonight using testing your speed and memory and note your speed and recall."
+      ],
+      "task": "Read a new page for one minute, count the words, and write the main idea.",
+      "challenge": "Compare today's speed with day 2. Write down the change.",
+      "quiz": [
+        {
+          "q": "What should you test after reading?",
+          "options": [
+            "How much you remember, not just how fast you went.",
+            "Only your speed.",
+            "Only the number of pages.",
+            "Nothing at all."
+          ],
+          "answer": 0,
+          "explain": "Speed means nothing without memory. Always test what you remember after reading."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Use a simple trick to remember more.",
+            "Use speed reading to study.",
+            "Read every day, even for a short time.",
+            "Test your speed and memory after one week."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Your first speed test — its goal is: Test your speed and memory after one week."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reading with a question in mind",
+            "testing your speed and memory",
+            "expanding your eye span",
+            "taking smart notes while reading"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was testing your speed and memory."
+        }
+      ],
+      "project": {
+        "title": "Your First Speed Test",
+        "brief": "Read a new page for one minute, count the words, and write the main idea in one sentence. Compare your speed with day 2.",
+        "checks": [
+          "You read a new page for one minute",
+          "You counted the words you read",
+          "You wrote the main idea in one sentence",
+          "You compared your speed with day 2",
+          "You used your finger or a pointer",
+          "You did not go back over any line"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Preview before you read",
+      "goal": "Preview a text before reading it fully.",
+      "video": {
+        "youtube_id": "tEJNX_TiA20",
+        "title": "Iris Reading Speed Reading Lesson",
+        "channel": "Iris Reading"
+      },
+      "steps": [
+        "Watch today's video and note the technique for previewing a text: headings, first lines, last lines.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with previewing a text: headings, first lines, last lines.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with previewing a text: headings, first lines, last lines and check what your summary missed.",
+        "Read one article or chapter tonight using previewing a text: headings, first lines, last lines and note your speed and recall."
+      ],
+      "task": "Preview a chapter: read the headings, first lines and last lines.",
+      "challenge": "Preview a whole book chapter in two minutes.",
+      "quiz": [
+        {
+          "q": "Why preview a text first?",
+          "options": [
+            "It tells your brain what to look for, so you read faster.",
+            "It wastes time.",
+            "It spoils the ending.",
+            "It is only for exams."
+          ],
+          "answer": 0,
+          "explain": "Previewing tells your brain what to look for. You read faster when you know where the text is going."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Preview a text before reading it fully.",
+            "Test your speed and memory after two weeks.",
+            "Read a novel faster without losing the story.",
+            "Read a page at your fastest speed with good memory."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Preview before you read — its goal is: Preview a text before reading it fully."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "focusing while reading",
+            "timed reading drills",
+            "previewing a text: headings, first lines, last lines",
+            "reading hard texts slowly"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was previewing a text: headings, first lines, last lines."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Read the main idea first",
+      "goal": "Find the main idea of each paragraph fast.",
+      "video": {
+        "youtube_id": "tEJNX_TiA20",
+        "title": "Iris Reading Speed Reading Lesson",
+        "channel": "Iris Reading"
+      },
+      "steps": [
+        "Watch today's video and note the technique for finding the main idea of a paragraph.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with finding the main idea of a paragraph.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with finding the main idea of a paragraph and check what your summary missed.",
+        "Read one article or chapter tonight using finding the main idea of a paragraph and note your speed and recall."
+      ],
+      "task": "Read five paragraphs and write the main idea of each in one line.",
+      "challenge": "Read a news article and write its main idea in one sentence.",
+      "quiz": [
+        {
+          "q": "Where is the main idea usually found?",
+          "options": [
+            "In the first or last sentence of a paragraph.",
+            "In the middle word.",
+            "In the page number.",
+            "Nowhere, you must guess."
+          ],
+          "answer": 0,
+          "explain": "The main idea is usually in the first or last sentence of a paragraph."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Change your speed for different texts.",
+            "Find the main idea of each paragraph fast.",
+            "Test your speed and memory after three weeks.",
+            "Say what you learned about reading in 30 days."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Read the main idea first — its goal is: Find the main idea of each paragraph fast."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "remembering what you read: retell it in your own words",
+            "speed reading for study",
+            "building a daily reading habit",
+            "finding the main idea of a paragraph"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was finding the main idea of a paragraph."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Skip the small words",
+      "goal": "Skip small filler words and focus on key words.",
+      "video": {
+        "youtube_id": "rerQAcKbq-o",
+        "title": "Speed Read 700% Faster Ultimate Secrets",
+        "channel": "X-Beings"
+      },
+      "steps": [
+        "Watch today's video and note the technique for skipping small words, focusing on key words.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with skipping small words, focusing on key words.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with skipping small words, focusing on key words and check what your summary missed.",
+        "Read one article or chapter tonight using skipping small words, focusing on key words and note your speed and recall."
+      ],
+      "task": "Read a page and circle only the key words.",
+      "challenge": "Read a page by looking at key words only, then retell it.",
+      "quiz": [
+        {
+          "q": "Which words can you skim past?",
+          "options": [
+            "Small words like the, a, and, of.",
+            "Names and numbers.",
+            "Key words.",
+            "The main idea."
+          ],
+          "answer": 0,
+          "explain": "Small words like the, a, and and of carry little meaning. Key words carry the message."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read silently, without moving your lips.",
+            "Read fast on a phone or computer.",
+            "Skip small filler words and focus on key words.",
+            "Plan your reading for the next 30 days."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Skip the small words — its goal is: Skip small filler words and focus on key words."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "skipping small words, focusing on key words",
+            "testing your speed and memory again",
+            "reading novels faster",
+            "your fastest read with good memory"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was skipping small words, focusing on key words."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Read with a question",
+      "goal": "Read with a question in mind.",
+      "video": {
+        "youtube_id": "rerQAcKbq-o",
+        "title": "Speed Read 700% Faster Ultimate Secrets",
+        "channel": "X-Beings"
+      },
+      "steps": [
+        "Watch today's video and note the technique for reading with a question in mind.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with reading with a question in mind.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with reading with a question in mind and check what your summary missed.",
+        "Read one article or chapter tonight using reading with a question in mind and note your speed and recall."
+      ],
+      "task": "Write one question before you read a chapter. Find its answer.",
+      "challenge": "Read a chapter and answer three questions about it.",
+      "quiz": [
+        {
+          "q": "Why read with a question in mind?",
+          "options": [
+            "A question gives your reading a purpose and keeps you focused.",
+            "Questions slow you down.",
+            "Questions are only for tests.",
+            "Reading without a purpose is faster."
+          ],
+          "answer": 0,
+          "explain": "A question gives your reading a purpose. Your brain looks for the answer as you read."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Take in more words in one look.",
+            "Take short notes that help you remember.",
+            "Read a full chapter fast and retell it well.",
+            "Read with a question in mind."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Read with a question — its goal is: Read with a question in mind."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "changing speed for different texts",
+            "reading with a question in mind",
+            "testing your speed and memory again",
+            "reviewing what you learned"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was reading with a question in mind."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Focus your mind",
+      "goal": "Read without losing focus.",
+      "video": {
+        "youtube_id": "rerQAcKbq-o",
+        "title": "Speed Read 700% Faster Ultimate Secrets",
+        "channel": "X-Beings"
+      },
+      "steps": [
+        "Watch today's video and note the technique for focusing while reading.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with focusing while reading.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with focusing while reading and check what your summary missed.",
+        "Read one article or chapter tonight using focusing while reading and note your speed and recall."
+      ],
+      "task": "Read for ten minutes without checking your phone.",
+      "challenge": "Read for twenty minutes in one quiet sitting.",
+      "quiz": [
+        {
+          "q": "What breaks your focus most while reading?",
+          "options": [
+            "Phone notifications and noise.",
+            "Reading too slowly.",
+            "Good lighting.",
+            "A quiet room."
+          ],
+          "answer": 0,
+          "explain": "Phone notifications and noise break focus. Put the phone away and read in a quiet place."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read without losing focus.",
+            "Push your speed with timed drills.",
+            "Read a hard text slowly and carefully.",
+            "Keep your new speed with daily practice."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Focus your mind — its goal is: Read without losing focus."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reading silently without moving your lips",
+            "reading fast on a screen",
+            "focusing while reading",
+            "planning your reading for the next 30 days"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was focusing while reading."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Remember what you read",
+      "goal": "Use a simple trick to remember more.",
+      "video": {
+        "youtube_id": "fadSUxBFkNw",
+        "title": "How to READ Faster and RETAIN More",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for remembering what you read: retell it in your own words.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with remembering what you read: retell it in your own words.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with remembering what you read: retell it in your own words and check what your summary missed.",
+        "Read one article or chapter tonight using remembering what you read: retell it in your own words and note your speed and recall."
+      ],
+      "task": "After reading a page, close the book and retell it in your own words.",
+      "challenge": "Retell a whole chapter to a friend from memory.",
+      "quiz": [
+        {
+          "q": "What is the best way to remember what you read?",
+          "options": [
+            "Retell it in your own words right after reading.",
+            "Read it once more, fast.",
+            "Highlight everything.",
+            "Read it out loud once."
+          ],
+          "answer": 0,
+          "explain": "Retelling in your own words right after reading locks the ideas into your memory."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Use speed reading to study.",
+            "Use a simple trick to remember more.",
+            "Read every day, even for a short time.",
+            "Say what speed reading is and what it is not."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Remember what you read — its goal is: Use a simple trick to remember more."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "expanding your eye span",
+            "taking smart notes while reading",
+            "a full chapter read fast and retold well",
+            "remembering what you read: retell it in your own words"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was remembering what you read: retell it in your own words."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Speed test two",
+      "goal": "Test your speed and memory after two weeks.",
+      "video": {
+        "youtube_id": "fadSUxBFkNw",
+        "title": "How to READ Faster and RETAIN More",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for testing your speed and memory again.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with testing your speed and memory again.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with testing your speed and memory again and check what your summary missed.",
+        "Read one article or chapter tonight using testing your speed and memory again and note your speed and recall."
+      ],
+      "task": "Read a new page for one minute, count the words, and write the main idea.",
+      "challenge": "Compare today's speed with day 7. Write down the change.",
+      "quiz": [
+        {
+          "q": "What does a good speed test need?",
+          "options": [
+            "A new text, a timer and a memory check.",
+            "A text you already read.",
+            "No timer.",
+            "No memory check."
+          ],
+          "answer": 0,
+          "explain": "A good test uses a new text, a timer and a memory check. Speed without memory is not reading."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read a novel faster without losing the story.",
+            "Read a page at your fastest speed with good memory.",
+            "Test your speed and memory after two weeks.",
+            "Know how fast you read now."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Speed test two — its goal is: Test your speed and memory after two weeks."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "testing your speed and memory again",
+            "timed reading drills",
+            "reading hard texts slowly",
+            "keeping your new speed with daily practice"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was testing your speed and memory again."
+        }
+      ],
+      "project": {
+        "title": "The Study Chapter",
+        "brief": "Study a full chapter using preview, read and retell. Take five short notes and retell the chapter from memory.",
+        "checks": [
+          "You previewed the chapter first",
+          "You read the chapter with a pointer",
+          "You took five short notes",
+          "You retold the chapter in your own words",
+          "You answered three questions about the chapter",
+          "You read the chapter without going back"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Read different texts",
+      "goal": "Change your speed for different texts.",
+      "video": {
+        "youtube_id": "fadSUxBFkNw",
+        "title": "How to READ Faster and RETAIN More",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for changing speed for different texts.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with changing speed for different texts.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with changing speed for different texts and check what your summary missed.",
+        "Read one article or chapter tonight using changing speed for different texts and note your speed and recall."
+      ],
+      "task": "Read a story fast and a hard text slowly. Note the difference.",
+      "challenge": "Read a news article fast and a contract slowly.",
+      "quiz": [
+        {
+          "q": "Should you read everything at the same speed?",
+          "options": [
+            "No. Easy texts can go fast, hard texts need slow reading.",
+            "Yes, always the same speed.",
+            "No, hard texts should go fastest.",
+            "Yes, speed is all that matters."
+          ],
+          "answer": 0,
+          "explain": "Easy texts can go fast. Hard texts need slow, careful reading. Good readers change speed."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Test your speed and memory after three weeks.",
+            "Say what you learned about reading in 30 days.",
+            "Read without saying every word in your head.",
+            "Change your speed for different texts."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Read different texts — its goal is: Change your speed for different texts."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "speed reading for study",
+            "changing speed for different texts",
+            "building a daily reading habit",
+            "what speed reading is: read faster and remember more"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was changing speed for different texts."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Read without moving your lips",
+      "goal": "Read silently, without moving your lips.",
+      "video": {
+        "youtube_id": "VkT4M6mUi3w",
+        "title": "How To Read Faster & Speed Reading",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for reading silently without moving your lips.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with reading silently without moving your lips.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with reading silently without moving your lips and check what your summary missed.",
+        "Read one article or chapter tonight using reading silently without moving your lips and note your speed and recall."
+      ],
+      "task": "Read a page with your lips still. Hold a pen between your teeth if it helps.",
+      "challenge": "Read a full chapter with still lips.",
+      "quiz": [
+        {
+          "q": "Why stop moving your lips?",
+          "options": [
+            "Lip movement ties your eyes to talking speed.",
+            "It looks bad.",
+            "It is only for children.",
+            "It stops understanding."
+          ],
+          "answer": 0,
+          "explain": "Moving your lips ties your eyes to talking speed. Still lips let your eyes move faster."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read silently, without moving your lips.",
+            "Read fast on a phone or computer.",
+            "Plan your reading for the next 30 days.",
+            "Guide your eyes with a finger or pen."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Read without moving your lips — its goal is: Read silently, without moving your lips."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reading novels faster",
+            "your fastest read with good memory",
+            "reading silently without moving your lips",
+            "measuring your reading speed in words per minute"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was reading silently without moving your lips."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Expand your eye span",
+      "goal": "Take in more words in one look.",
+      "video": {
+        "youtube_id": "VkT4M6mUi3w",
+        "title": "How To Read Faster & Speed Reading",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for expanding your eye span.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with expanding your eye span.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with expanding your eye span and check what your summary missed.",
+        "Read one article or chapter tonight using expanding your eye span and note your speed and recall."
+      ],
+      "task": "Practise looking at the middle of a line and seeing the words around it.",
+      "challenge": "Read a page using only three eye stops per line.",
+      "quiz": [
+        {
+          "q": "What is eye span?",
+          "options": [
+            "How many words your eyes take in at one look.",
+            "How far your eyes can see.",
+            "How fast your eyes move.",
+            "How big your eyes are."
+          ],
+          "answer": 0,
+          "explain": "Eye span is how many words your eyes take in at one look. A wider span means fewer stops and faster reading."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Take short notes that help you remember.",
+            "Take in more words in one look.",
+            "Read a full chapter fast and retell it well.",
+            "Read forward without re-reading lines."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Expand your eye span — its goal is: Take in more words in one look."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "testing your speed and memory again",
+            "reviewing what you learned",
+            "stopping subvocalisation: saying words in your head",
+            "expanding your eye span"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was expanding your eye span."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Read faster with a timer",
+      "goal": "Push your speed with timed drills.",
+      "video": {
+        "youtube_id": "VkT4M6mUi3w",
+        "title": "How To Read Faster & Speed Reading",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for timed reading drills.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with timed reading drills.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with timed reading drills and check what your summary missed.",
+        "Read one article or chapter tonight using timed reading drills and note your speed and recall."
+      ],
+      "task": "Read for one minute at a speed that feels too fast, then retell it.",
+      "challenge": "Do three one-minute speed drills today.",
+      "quiz": [
+        {
+          "q": "Why practise at a speed that feels too fast?",
+          "options": [
+            "It stretches your comfort zone, so normal speed feels easy.",
+            "It makes you forget everything.",
+            "It is a waste of time.",
+            "It only works for experts."
+          ],
+          "answer": 0,
+          "explain": "Practising too fast stretches your comfort zone. After that, your normal speed feels easy."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read a hard text slowly and carefully.",
+            "Keep your new speed with daily practice.",
+            "Push your speed with timed drills.",
+            "Read groups of words, not one word at a time."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Read faster with a timer — its goal is: Push your speed with timed drills."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "timed reading drills",
+            "reading fast on a screen",
+            "planning your reading for the next 30 days",
+            "guiding your eyes with a finger or pen"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was timed reading drills."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Read for study",
+      "goal": "Use speed reading to study.",
+      "video": {
+        "youtube_id": "wuousSjxly8",
+        "title": "How To Memorize Fast And Easily — Even When Speed Reading",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for speed reading for study.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with speed reading for study.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with speed reading for study and check what your summary missed.",
+        "Read one article or chapter tonight using speed reading for study and note your speed and recall."
+      ],
+      "task": "Preview, read and retell one study chapter.",
+      "challenge": "Study a full chapter using preview, read, retell.",
+      "quiz": [
+        {
+          "q": "What is the best study reading order?",
+          "options": [
+            "Preview, read, retell.",
+            "Read, preview, forget.",
+            "Retell, read, preview.",
+            "Read once and stop."
+          ],
+          "answer": 0,
+          "explain": "Preview first, then read, then retell in your own words. That order locks in the learning."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read every day, even for a short time.",
+            "Say what speed reading is and what it is not.",
+            "Test your speed and memory after one week.",
+            "Use speed reading to study."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Read for study — its goal is: Use speed reading to study."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "taking smart notes while reading",
+            "speed reading for study",
+            "a full chapter read fast and retold well",
+            "stopping regressions: going back over lines"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was speed reading for study."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Read for fun, fast",
+      "goal": "Read a novel faster without losing the story.",
+      "video": {
+        "youtube_id": "wuousSjxly8",
+        "title": "How To Memorize Fast And Easily — Even When Speed Reading",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for reading novels faster.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with reading novels faster.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with reading novels faster and check what your summary missed.",
+        "Read one article or chapter tonight using reading novels faster and note your speed and recall."
+      ],
+      "task": "Read a novel chapter fast and retell the story.",
+      "challenge": "Read three novel chapters fast today.",
+      "quiz": [
+        {
+          "q": "Can you speed read a novel?",
+          "options": [
+            "Yes, if you still follow the story and the characters.",
+            "No, never.",
+            "Only the first page.",
+            "Only if you skip the ending."
+          ],
+          "answer": 0,
+          "explain": "Yes, you can speed read a novel — as long as you still follow the story and the characters."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read a novel faster without losing the story.",
+            "Read a page at your fastest speed with good memory.",
+            "Know how fast you read now.",
+            "Preview a text before reading it fully."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Read for fun, fast — its goal is: Read a novel faster without losing the story."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reading hard texts slowly",
+            "keeping your new speed with daily practice",
+            "reading novels faster",
+            "reading in chunks of words"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was reading novels faster."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Speed test three",
+      "goal": "Test your speed and memory after three weeks.",
+      "video": {
+        "youtube_id": "wuousSjxly8",
+        "title": "How To Memorize Fast And Easily — Even When Speed Reading",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for testing your speed and memory again.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with testing your speed and memory again.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with testing your speed and memory again and check what your summary missed.",
+        "Read one article or chapter tonight using testing your speed and memory again and note your speed and recall."
+      ],
+      "task": "Read a new page for one minute, count the words, and write the main idea.",
+      "challenge": "Compare today's speed with day 14. Write down the change.",
+      "quiz": [
+        {
+          "q": "What shows real progress in speed reading?",
+          "options": [
+            "Faster speed with the same or better memory.",
+            "Faster speed alone.",
+            "More pages turned.",
+            "Less time spent reading."
+          ],
+          "answer": 0,
+          "explain": "Real progress is faster speed with the same or better memory. Speed alone is not progress."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Say what you learned about reading in 30 days.",
+            "Test your speed and memory after three weeks.",
+            "Read without saying every word in your head.",
+            "Find the main idea of each paragraph fast."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Speed test three — its goal is: Test your speed and memory after three weeks."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "building a daily reading habit",
+            "what speed reading is: read faster and remember more",
+            "testing your speed and memory",
+            "testing your speed and memory again"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was testing your speed and memory again."
+        }
+      ],
+      "project": {
+        "title": "The Fast Novel Chapter",
+        "brief": "Read three novel chapters fast and retell each story. Time yourself and check your memory after each one.",
+        "checks": [
+          "You read three chapters fast",
+          "You timed each chapter",
+          "You retold each chapter in your own words",
+          "You remembered the main events",
+          "You used chunks of words, not one word at a time",
+          "You did not move your lips while reading"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Read on a screen",
+      "goal": "Read fast on a phone or computer.",
+      "video": {
+        "youtube_id": "IagIbAhC1bc",
+        "title": "Jim Kwik Super Reading",
+        "channel": "Mindvalley"
+      },
+      "steps": [
+        "Watch today's video and note the technique for reading fast on a screen.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with reading fast on a screen.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with reading fast on a screen and check what your summary missed.",
+        "Read one article or chapter tonight using reading fast on a screen and note your speed and recall."
+      ],
+      "task": "Read an online article with a pointer on the screen.",
+      "challenge": "Read three online articles fast and retell each one.",
+      "quiz": [
+        {
+          "q": "What makes screen reading hard?",
+          "options": [
+            "Distractions and bright light tire your eyes.",
+            "Screens are always faster.",
+            "Screens have no words.",
+            "Screens are only for videos."
+          ],
+          "answer": 0,
+          "explain": "Distractions and bright light tire your eyes. Use a pointer, take breaks and block distractions."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Plan your reading for the next 30 days.",
+            "Guide your eyes with a finger or pen.",
+            "Read fast on a phone or computer.",
+            "Skip small filler words and focus on key words."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Read on a screen — its goal is: Read fast on a phone or computer."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reading fast on a screen",
+            "your fastest read with good memory",
+            "measuring your reading speed in words per minute",
+            "previewing a text: headings, first lines, last lines"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was reading fast on a screen."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Take smart notes",
+      "goal": "Take short notes that help you remember.",
+      "video": {
+        "youtube_id": "IagIbAhC1bc",
+        "title": "Jim Kwik Super Reading",
+        "channel": "Mindvalley"
+      },
+      "steps": [
+        "Watch today's video and note the technique for taking smart notes while reading.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with taking smart notes while reading.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with taking smart notes while reading and check what your summary missed.",
+        "Read one article or chapter tonight using taking smart notes while reading and note your speed and recall."
+      ],
+      "task": "Read a chapter and write five short notes.",
+      "challenge": "Retell the chapter using only your five notes.",
+      "quiz": [
+        {
+          "q": "What makes a good reading note?",
+          "options": [
+            "A short line in your own words.",
+            "A copy of the whole page.",
+            "A long quote.",
+            "A drawing of the book."
+          ],
+          "answer": 0,
+          "explain": "A good note is a short line in your own words. Copying whole pages does not help you remember."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read a full chapter fast and retell it well.",
+            "Read forward without re-reading lines.",
+            "Read with a question in mind.",
+            "Take short notes that help you remember."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Take smart notes — its goal is: Take short notes that help you remember."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "reviewing what you learned",
+            "taking smart notes while reading",
+            "stopping subvocalisation: saying words in your head",
+            "finding the main idea of a paragraph"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was taking smart notes while reading."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Read hard texts",
+      "goal": "Read a hard text slowly and carefully.",
+      "video": {
+        "youtube_id": "IagIbAhC1bc",
+        "title": "Jim Kwik Super Reading",
+        "channel": "Mindvalley"
+      },
+      "steps": [
+        "Watch today's video and note the technique for reading hard texts slowly.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with reading hard texts slowly.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with reading hard texts slowly and check what your summary missed.",
+        "Read one article or chapter tonight using reading hard texts slowly and note your speed and recall."
+      ],
+      "task": "Read a hard page slowly, one paragraph at a time, and retell each one.",
+      "challenge": "Read a hard article and explain it to a friend simply.",
+      "quiz": [
+        {
+          "q": "What should you do with a hard text?",
+          "options": [
+            "Slow down, read in small parts and retell each part.",
+            "Speed up to get it over with.",
+            "Skip it.",
+            "Read it once and move on."
+          ],
+          "answer": 0,
+          "explain": "Slow down for hard texts. Read in small parts and retell each part before moving on."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read a hard text slowly and carefully.",
+            "Keep your new speed with daily practice.",
+            "Read groups of words, not one word at a time.",
+            "Read without losing focus."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Read hard texts — its goal is: Read a hard text slowly and carefully."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "planning your reading for the next 30 days",
+            "guiding your eyes with a finger or pen",
+            "reading hard texts slowly",
+            "skipping small words, focusing on key words"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was reading hard texts slowly."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Build a reading habit",
+      "goal": "Read every day, even for a short time.",
+      "video": {
+        "youtube_id": "e_O9XbBdQu8",
+        "title": "Reading Skills: Read Faster and Remember More",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for building a daily reading habit.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with building a daily reading habit.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with building a daily reading habit and check what your summary missed.",
+        "Read one article or chapter tonight using building a daily reading habit and note your speed and recall."
+      ],
+      "task": "Read for fifteen minutes today.",
+      "challenge": "Read for fifteen minutes at the same time tomorrow.",
+      "quiz": [
+        {
+          "q": "What matters most in a reading habit?",
+          "options": [
+            "Reading a little every day.",
+            "Reading for five hours once a week.",
+            "Waiting for free time.",
+            "Reading only when you feel like it."
+          ],
+          "answer": 0,
+          "explain": "Reading a little every day matters most. Short daily reading beats long rare reading."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Say what speed reading is and what it is not.",
+            "Read every day, even for a short time.",
+            "Test your speed and memory after one week.",
+            "Use a simple trick to remember more."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Build a reading habit — its goal is: Read every day, even for a short time."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "a full chapter read fast and retold well",
+            "stopping regressions: going back over lines",
+            "reading with a question in mind",
+            "building a daily reading habit"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was building a daily reading habit."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Your fastest read yet",
+      "goal": "Read a page at your fastest speed with good memory.",
+      "video": {
+        "youtube_id": "e_O9XbBdQu8",
+        "title": "Reading Skills: Read Faster and Remember More",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for your fastest read with good memory.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with your fastest read with good memory.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with your fastest read with good memory and check what your summary missed.",
+        "Read one article or chapter tonight using your fastest read with good memory and note your speed and recall."
+      ],
+      "task": "Read a page as fast as you can and still retell it well.",
+      "challenge": "Beat your day 2 speed with the same memory.",
+      "quiz": [
+        {
+          "q": "What is your fastest good speed?",
+          "options": [
+            "Your fastest speed with good memory, not your fastest speed alone.",
+            "Your fastest speed, even with no memory.",
+            "The speed of your eyes.",
+            "The speed of your finger."
+          ],
+          "answer": 0,
+          "explain": "Your fastest good speed is the fastest you can go and still remember. That is the number that counts."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Know how fast you read now.",
+            "Preview a text before reading it fully.",
+            "Read a page at your fastest speed with good memory.",
+            "Test your speed and memory after two weeks."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Your fastest read yet — its goal is: Read a page at your fastest speed with good memory."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "your fastest read with good memory",
+            "keeping your new speed with daily practice",
+            "reading in chunks of words",
+            "focusing while reading"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was your fastest read with good memory."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Review your reading",
+      "goal": "Say what you learned about reading in 30 days.",
+      "video": {
+        "youtube_id": "e_O9XbBdQu8",
+        "title": "Reading Skills: Read Faster and Remember More",
+        "channel": "Jim Kwik"
+      },
+      "steps": [
+        "Watch today's video and note the technique for reviewing what you learned.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with reviewing what you learned.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with reviewing what you learned and check what your summary missed.",
+        "Read one article or chapter tonight using reviewing what you learned and note your speed and recall."
+      ],
+      "task": "Write down five reading skills you now have.",
+      "challenge": "Write a short note to a new reader with your best tip.",
+      "quiz": [
+        {
+          "q": "What is the most important speed reading skill?",
+          "options": [
+            "Reading faster and remembering more.",
+            "Moving your eyes fast.",
+            "Skipping pages.",
+            "Reading without a timer."
+          ],
+          "answer": 0,
+          "explain": "Reading faster and remembering more is the core skill. Everything else serves that."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read without saying every word in your head.",
+            "Find the main idea of each paragraph fast.",
+            "Change your speed for different texts.",
+            "Say what you learned about reading in 30 days."
+          ],
+          "answer": 3,
+          "explain": "Today's lesson is about Review your reading — its goal is: Say what you learned about reading in 30 days."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "what speed reading is: read faster and remember more",
+            "reviewing what you learned",
+            "testing your speed and memory",
+            "remembering what you read: retell it in your own words"
+          ],
+          "answer": 1,
+          "explain": "Today's focus was reviewing what you learned."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Read for life",
+      "goal": "Plan your reading for the next 30 days.",
+      "video": {
+        "youtube_id": "J1ZYAdO2m9A",
+        "title": "10 Days To Faster Reading",
+        "channel": "Book Summary"
+      },
+      "steps": [
+        "Watch today's video and note the technique for planning your reading for the next 30 days.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with planning your reading for the next 30 days.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with planning your reading for the next 30 days and check what your summary missed.",
+        "Read one article or chapter tonight using planning your reading for the next 30 days and note your speed and recall."
+      ],
+      "task": "Pick one book to read next month and plan your daily pages.",
+      "challenge": "Start the book today.",
+      "quiz": [
+        {
+          "q": "What should you do after 30 days of speed reading?",
+          "options": [
+            "Keep reading a little every day.",
+            "Stop and never read again.",
+            "Only read when forced.",
+            "Forget everything you learned."
+          ],
+          "answer": 0,
+          "explain": "Keep reading a little every day. Thirty days is the start, not the end."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Plan your reading for the next 30 days.",
+            "Guide your eyes with a finger or pen.",
+            "Skip small filler words and focus on key words.",
+            "Read silently, without moving your lips."
+          ],
+          "answer": 0,
+          "explain": "Today's lesson is about Read for life — its goal is: Plan your reading for the next 30 days."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "measuring your reading speed in words per minute",
+            "previewing a text: headings, first lines, last lines",
+            "planning your reading for the next 30 days",
+            "testing your speed and memory again"
+          ],
+          "answer": 2,
+          "explain": "Today's focus was planning your reading for the next 30 days."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Your reading, your speed",
+      "goal": "Read a full chapter fast and retell it well.",
+      "video": {
+        "youtube_id": "J1ZYAdO2m9A",
+        "title": "10 Days To Faster Reading",
+        "channel": "Book Summary"
+      },
+      "steps": [
+        "Watch today's video and note the technique for a full chapter read fast and retold well.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with a full chapter read fast and retold well.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with a full chapter read fast and retold well and check what your summary missed.",
+        "Read one article or chapter tonight using a full chapter read fast and retold well and note your speed and recall."
+      ],
+      "task": "Read a full chapter fast and retell it in your own words.",
+      "challenge": "Read the chapter again tomorrow and see how much you still remember.",
+      "quiz": [
+        {
+          "q": "What shows you have truly learned speed reading?",
+          "options": [
+            "You read faster, remember more and enjoy reading.",
+            "You never read slowly again.",
+            "You finish every book in one day.",
+            "You never forget anything."
+          ],
+          "answer": 0,
+          "explain": "You have learned it when you read faster, remember more and enjoy reading."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read forward without re-reading lines.",
+            "Read a full chapter fast and retell it well.",
+            "Read with a question in mind.",
+            "Take in more words in one look."
+          ],
+          "answer": 1,
+          "explain": "Today's lesson is about Your reading, your speed — its goal is: Read a full chapter fast and retell it well."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "stopping subvocalisation: saying words in your head",
+            "finding the main idea of a paragraph",
+            "changing speed for different texts",
+            "a full chapter read fast and retold well"
+          ],
+          "answer": 3,
+          "explain": "Today's focus was a full chapter read fast and retold well."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Keep reading",
+      "goal": "Keep your new speed with daily practice.",
+      "video": {
+        "youtube_id": "J1ZYAdO2m9A",
+        "title": "10 Days To Faster Reading",
+        "channel": "Book Summary"
+      },
+      "steps": [
+        "Watch today's video and note the technique for keeping your new speed with daily practice.",
+        "Pick a fresh passage of about 500 words and time yourself reading it with keeping your new speed with daily practice.",
+        "Write a 3-sentence summary of the passage from memory.",
+        "Re-read the passage with keeping your new speed with daily practice and check what your summary missed.",
+        "Read one article or chapter tonight using keeping your new speed with daily practice and note your speed and recall."
+      ],
+      "task": "Read for fifteen minutes today using your pointer.",
+      "challenge": "Teach a friend one speed reading trick.",
+      "quiz": [
+        {
+          "q": "How do you keep your new speed?",
+          "options": [
+            "Practise a little every day.",
+            "Stop practising.",
+            "Read only once a week.",
+            "Never time yourself again."
+          ],
+          "answer": 0,
+          "explain": "Practise a little every day. Speed fades fast without practice."
+        },
+        {
+          "q": "Which of these is the goal of today's lesson?",
+          "options": [
+            "Read groups of words, not one word at a time.",
+            "Read without losing focus.",
+            "Keep your new speed with daily practice.",
+            "Push your speed with timed drills."
+          ],
+          "answer": 2,
+          "explain": "Today's lesson is about Keep reading — its goal is: Keep your new speed with daily practice."
+        },
+        {
+          "q": "Which of these did today's lesson focus on?",
+          "options": [
+            "keeping your new speed with daily practice",
+            "guiding your eyes with a finger or pen",
+            "skipping small words, focusing on key words",
+            "reading silently without moving your lips"
+          ],
+          "answer": 0,
+          "explain": "Today's focus was keeping your new speed with daily practice."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "The Speed Reader",
+    "brief": "Read a full chapter of a book you have never read, fast, with a timer. Retell it in your own words and answer five questions about it. Compare your speed and memory with day 2.",
+    "checks": [
+      "You read a full chapter you had never read",
+      "You timed your reading",
+      "You counted your words per minute",
+      "You retold the chapter in your own words",
+      "You answered five questions about the chapter",
+      "Your speed is faster than day 2",
+      "Your memory is as good as or better than day 2"
+    ],
+    "deliverables": [
+      "A written record of your day 2 speed and your final speed",
+      "A one-page retelling of the chapter in your own words",
+      "Five questions and answers about the chapter",
+      "Five short notes from the chapter",
+      "A short note on what you will read next"
+    ]
+  }
+}

@@ -1,0 +1,1714 @@
+{
+ "course": {
+  "id": "shoemaking",
+  "title": "Shoemaking",
+  "level": "Beginner",
+  "tagline": "Make sandals, slippers and shoes by hand, from cutting leather to a finished pair.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Shoemaking Tools and Materials",
+   "goal": "Identify lasts, leather, soles and every hand tool a shoemaker needs.",
+   "video": {
+    "youtube_id": "3HsTfGPEsHg",
+    "title": "How to Make Simple Sneakers",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Lay out a last (the foot-shaped form you build the shoe around), leather pieces, sole material, awl, hammer, knife and thread.",
+    "Feel the difference between upper leather, lining leather and sole leather.",
+    "Learn the shoe part names: vamp (front top), quarter (side), insole (inside bottom) and outsole (bottom).",
+    "Set up a clean, flat workbench with good light."
+   ],
+   "task": "Label a diagram of a shoe with vamp, quarter, insole, outsole and heel.",
+   "challenge": "Name every part of a shoe from memory, pointing at a real shoe.",
+   "quiz": [
+    {
+     "q": "What is the first step in making a simple sneaker?",
+     "options": [
+      "Glue the sole",
+      "Measure and pattern the upper",
+      "Dye the leather",
+      "Polish the finished shoe"
+     ],
+     "answer": 1,
+     "explain": "Every shoe starts with measurements and a pattern for the upper."
+    },
+    {
+     "q": "What is a last?",
+     "options": [
+      "A type of glue",
+      "A foot-shaped form shoes are built around",
+      "A stitching tool",
+      "A sole material"
+     ],
+     "answer": 1,
+     "explain": "The last gives the shoe its shape and size during making."
+    },
+    {
+     "q": "Why work with the shoe on the last?",
+     "options": [
+      "It looks professional",
+      "It holds the shape while you stitch and glue",
+      "It keeps the leather dry",
+      "It saves time"
+     ],
+     "answer": 1,
+     "explain": "The last keeps the upper in the correct three-dimensional shape."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Measure Feet Correctly",
+   "goal": "Measure foot length, width and girth accurately for a good fit.",
+   "video": {
+    "youtube_id": "3HsTfGPEsHg",
+    "title": "How to Make Simple Sneakers",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Trace both feet on paper while standing with weight on them.",
+    "Measure the length from heel to longest toe in centimetres.",
+    "Measure the width across the ball and the girth around the instep.",
+    "Compare left and right feet and note any difference."
+   ],
+   "task": "Complete a foot measurement sheet for yourself and one other person.",
+   "challenge": "Measure a foot in under three minutes with repeatable results.",
+   "quiz": [
+    {
+     "q": "What is the first step in making a simple sneaker?",
+     "options": [
+      "Glue the sole",
+      "Measure and pattern the upper",
+      "Dye the leather",
+      "Polish the finished shoe"
+     ],
+     "answer": 1,
+     "explain": "Every shoe starts with measurements and a pattern for the upper."
+    },
+    {
+     "q": "What is a last?",
+     "options": [
+      "A type of glue",
+      "A foot-shaped form shoes are built around",
+      "A stitching tool",
+      "A sole material"
+     ],
+     "answer": 1,
+     "explain": "The last gives the shoe its shape and size during making."
+    },
+    {
+     "q": "Why work with the shoe on the last?",
+     "options": [
+      "It looks professional",
+      "It holds the shape while you stitch and glue",
+      "It keeps the leather dry",
+      "It saves time"
+     ],
+     "answer": 1,
+     "explain": "The last keeps the upper in the correct three-dimensional shape."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Choose the Right Last",
+   "goal": "Pick or adapt a last that matches the foot shape you measured.",
+   "video": {
+    "youtube_id": "3HsTfGPEsHg",
+    "title": "How to Make Simple Sneakers",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Compare your foot measurements with the last length and width.",
+    "Check the last toe shape: round, square or pointed.",
+    "Note where the last is wider or narrower than the foot.",
+    "Pad a last with tape where extra width is needed."
+   ],
+   "task": "Select the correct last size for a measured foot and explain why.",
+   "challenge": "Adapt a last with tape to fit a wide foot.",
+   "quiz": [
+    {
+     "q": "What is the first step in making a simple sneaker?",
+     "options": [
+      "Glue the sole",
+      "Measure and pattern the upper",
+      "Dye the leather",
+      "Polish the finished shoe"
+     ],
+     "answer": 1,
+     "explain": "Every shoe starts with measurements and a pattern for the upper."
+    },
+    {
+     "q": "What is a last?",
+     "options": [
+      "A type of glue",
+      "A foot-shaped form shoes are built around",
+      "A stitching tool",
+      "A sole material"
+     ],
+     "answer": 1,
+     "explain": "The last gives the shoe its shape and size during making."
+    },
+    {
+     "q": "Why work with the shoe on the last?",
+     "options": [
+      "It looks professional",
+      "It holds the shape while you stitch and glue",
+      "It keeps the leather dry",
+      "It saves time"
+     ],
+     "answer": 1,
+     "explain": "The last keeps the upper in the correct three-dimensional shape."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Leather Basics: Types and Cuts",
+   "goal": "Tell full-grain, top-grain and suede apart and cut leather on the right grain.",
+   "video": {
+    "youtube_id": "uHPVogn_Dfs",
+    "title": "How to Measure Feet for Shoemaking",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Handle three leather types and note stretch, thickness and finish.",
+    "Find the tightest, least stretchy direction of a hide.",
+    "Cut a test strip along the backbone line where leather is strongest.",
+    "Thin a leather edge with a knife on a cutting board (thinning an edge like this is called skiving)."
+   ],
+   "task": "Cut four upper pieces from leather, all on the correct grain.",
+   "challenge": "Skive a leather edge to half thickness without cutting through.",
+   "quiz": [
+    {
+     "q": "Why measure both feet standing up?",
+     "options": [
+      "Feet spread under weight",
+      "It is faster",
+      "Shoes are sold in pairs",
+      "The last needs two sizes"
+     ],
+     "answer": 0,
+     "explain": "Feet lengthen and widen under body weight, so standing measurements give the true fit."
+    },
+    {
+     "q": "Which measurement decides shoe length?",
+     "options": [
+      "Instep girth",
+      "Heel to longest toe",
+      "Ankle width",
+      "Arch height"
+     ],
+     "answer": 1,
+     "explain": "Length comes from heel to the longest toe, usually the big or second toe."
+    },
+    {
+     "q": "Why measure the ball width?",
+     "options": [
+      "For the heel size",
+      "So the shoe is wide enough where the foot bends",
+      "For the lace length",
+      "For the sole thickness"
+     ],
+     "answer": 1,
+     "explain": "The ball is the widest part and where the foot flexes when walking."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Pattern a Simple Sandal",
+   "goal": "Draft a sandal upper pattern from a foot tracing.",
+   "video": {
+    "youtube_id": "uHPVogn_Dfs",
+    "title": "How to Measure Feet for Shoemaking",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Trace the foot and draw the sandal outline 5mm outside the tracing.",
+    "Design two straps: one over the toes, one around the ankle.",
+    "Add 8mm seam allowance where straps join the sole.",
+    "Cut the pattern in paper and test it against the foot."
+   ],
+   "task": "Draft and cut a paper pattern for a two-strap sandal.",
+   "challenge": "Draft a sandal pattern for a child's foot from one tracing.",
+   "quiz": [
+    {
+     "q": "Why measure both feet standing up?",
+     "options": [
+      "Feet spread under weight",
+      "It is faster",
+      "Shoes are sold in pairs",
+      "The last needs two sizes"
+     ],
+     "answer": 0,
+     "explain": "Feet lengthen and widen under body weight, so standing measurements give the true fit."
+    },
+    {
+     "q": "Which measurement decides shoe length?",
+     "options": [
+      "Instep girth",
+      "Heel to longest toe",
+      "Ankle width",
+      "Arch height"
+     ],
+     "answer": 1,
+     "explain": "Length comes from heel to the longest toe, usually the big or second toe."
+    },
+    {
+     "q": "Why measure the ball width?",
+     "options": [
+      "For the heel size",
+      "So the shoe is wide enough where the foot bends",
+      "For the lace length",
+      "For the sole thickness"
+     ],
+     "answer": 1,
+     "explain": "The ball is the widest part and where the foot flexes when walking."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Cut Uppers and Linings",
+   "goal": "Cut leather uppers and linings cleanly and in matching pairs.",
+   "video": {
+    "youtube_id": "uHPVogn_Dfs",
+    "title": "How to Measure Feet for Shoemaking",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Place the pattern on the leather avoiding scars and thin spots.",
+    "Cut with a sharp knife in one smooth motion, not sawing.",
+    "Cut the lining pieces slightly smaller than the uppers.",
+    "Mark left and right pieces so they never get mixed up."
+   ],
+   "task": "Cut a matching pair of uppers and linings for sandals.",
+   "challenge": "Cut a pair of uppers using the least leather possible.",
+   "quiz": [
+    {
+     "q": "Why measure both feet standing up?",
+     "options": [
+      "Feet spread under weight",
+      "It is faster",
+      "Shoes are sold in pairs",
+      "The last needs two sizes"
+     ],
+     "answer": 0,
+     "explain": "Feet lengthen and widen under body weight, so standing measurements give the true fit."
+    },
+    {
+     "q": "Which measurement decides shoe length?",
+     "options": [
+      "Instep girth",
+      "Heel to longest toe",
+      "Ankle width",
+      "Arch height"
+     ],
+     "answer": 1,
+     "explain": "Length comes from heel to the longest toe, usually the big or second toe."
+    },
+    {
+     "q": "Why measure the ball width?",
+     "options": [
+      "For the heel size",
+      "So the shoe is wide enough where the foot bends",
+      "For the lace length",
+      "For the sole thickness"
+     ],
+     "answer": 1,
+     "explain": "The ball is the widest part and where the foot flexes when walking."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Make a Pair of Leather Slippers",
+   "goal": "Assemble a simple pair of leather slippers from cut pieces to finished pair.",
+   "video": {
+    "youtube_id": "Um6cO7ew0fc",
+    "title": "Harry Rogers Easy Shoemaking Series Part 1",
+    "channel": "Harry Rogers"
+   },
+   "steps": [
+    "Glue the lining to the upper, then stitch the edges.",
+    "Attach the upper to the insole with contact adhesive.",
+    "Glue and press the outsole, then trim the edges flush.",
+    "Rub the sole edges with beeswax until smooth and shiny (this is called burnishing) and try the slippers on."
+   ],
+   "task": "Finish a wearable pair of leather slippers.",
+   "challenge": "Make the slippers with no glue showing at any edge.",
+   "quiz": [
+    {
+     "q": "What is a last in shoemaking?",
+     "options": [
+      "A type of glue",
+      "A foot-shaped form you build the shoe around",
+      "A stitching tool",
+      "A sole material"
+     ],
+     "answer": 1,
+     "explain": "The last gives the shoe its shape and size while you work."
+    },
+    {
+     "q": "Why order the right lasts before you start your first shoe?",
+     "options": [
+      "They look nice",
+      "So the shoe is built to the right size and shape from the start",
+      "They are cheap",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Starting with the right last means the finished shoe fits the foot it was made for."
+    },
+    {
+     "q": "What is the first thing to check when you start your first shoe?",
+     "options": [
+      "The colour of the leather",
+      "That your last matches your foot measurements",
+      "The price of glue",
+      "The weather"
+     ],
+     "answer": 1,
+     "explain": "If the last does not match the foot, the shoe will not fit no matter how well you sew."
+    }
+   ],
+   "project": {
+    "title": "Make a Pair of Leather Slippers",
+    "brief": "Assemble simple leather slippers from cut pieces to a finished, wearable pair.",
+    "checks": [
+     "Uppers and linings cut in pairs",
+     "Stitching even and strong",
+     "Soles glued and trimmed flush",
+     "Edges burnished smooth",
+     "Slippers fit both feet",
+     "Comfortable to walk in"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Stitching Leather by Hand",
+   "goal": "Saddle stitch leather strongly with two needles and waxed thread.",
+   "video": {
+    "youtube_id": "Um6cO7ew0fc",
+    "title": "Harry Rogers Easy Shoemaking Series Part 1",
+    "channel": "Harry Rogers"
+   },
+   "steps": [
+    "Thread two needles on one length of waxed thread.",
+    "Punch stitch holes evenly with an awl or pricking iron.",
+    "Pass both needles through each hole in opposite directions.",
+    "Pull each stitch tight and keep the tension even."
+   ],
+   "task": "Sew a 15cm leather seam with a saddle stitch (two needles passing through each hole in turn) and keep the stitches even.",
+   "challenge": "Stitch a curved leather edge without puckering.",
+   "quiz": [
+    {
+     "q": "What is a last in shoemaking?",
+     "options": [
+      "A type of glue",
+      "A foot-shaped form you build the shoe around",
+      "A stitching tool",
+      "A sole material"
+     ],
+     "answer": 1,
+     "explain": "The last gives the shoe its shape and size while you work."
+    },
+    {
+     "q": "Why order the right lasts before you start your first shoe?",
+     "options": [
+      "They look nice",
+      "So the shoe is built to the right size and shape from the start",
+      "They are cheap",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Starting with the right last means the finished shoe fits the foot it was made for."
+    },
+    {
+     "q": "What is the first thing to check when you start your first shoe?",
+     "options": [
+      "The colour of the leather",
+      "That your last matches your foot measurements",
+      "The price of glue",
+      "The weather"
+     ],
+     "answer": 1,
+     "explain": "If the last does not match the foot, the shoe will not fit no matter how well you sew."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Lasting: Pulling Uppers Over the Last",
+   "goal": "Last an upper onto the last so it takes the shoe shape.",
+   "video": {
+    "youtube_id": "Um6cO7ew0fc",
+    "title": "Harry Rogers Easy Shoemaking Series Part 1",
+    "channel": "Harry Rogers"
+   },
+   "steps": [
+    "Centre the upper on the last and tack it at the toe.",
+    "Pull the leather tight over the last with lasting pliers.",
+    "Fold the extra leather around the bottom (called the lasting allowance) under the insole and tack it there, working toe to heel.",
+    "Check the upper sits smooth with no wrinkles at the vamp."
+   ],
+   "task": "Last one sandal upper smoothly onto a last.",
+   "challenge": "Last an upper with no wrinkles at the toe.",
+   "quiz": [
+    {
+     "q": "What is a last in shoemaking?",
+     "options": [
+      "A type of glue",
+      "A foot-shaped form you build the shoe around",
+      "A stitching tool",
+      "A sole material"
+     ],
+     "answer": 1,
+     "explain": "The last gives the shoe its shape and size while you work."
+    },
+    {
+     "q": "Why order the right lasts before you start your first shoe?",
+     "options": [
+      "They look nice",
+      "So the shoe is built to the right size and shape from the start",
+      "They are cheap",
+      "To save leather"
+     ],
+     "answer": 1,
+     "explain": "Starting with the right last means the finished shoe fits the foot it was made for."
+    },
+    {
+     "q": "What is the first thing to check when you start your first shoe?",
+     "options": [
+      "The colour of the leather",
+      "That your last matches your foot measurements",
+      "The price of glue",
+      "The weather"
+     ],
+     "answer": 1,
+     "explain": "If the last does not match the foot, the shoe will not fit no matter how well you sew."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Soles: Cutting and Shaping",
+   "goal": "Cut, shape and finish outsoles and midsoles to match the last.",
+   "video": {
+    "youtube_id": "_1rwpq3KUPw",
+    "title": "How to Make a Tabi Shoe Pattern",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Trace the lasted shoe onto sole leather or rubber sheet.",
+    "Cut the outsole 2mm proud of the upper all round.",
+    "Cut the sole edge at a slant (called bevelling) with a knife at 45 degrees.",
+    "Sand the sole edge smooth with coarse then fine sandpaper."
+   ],
+   "task": "Cut and shape a pair of outsoles to match a lasted pair.",
+   "challenge": "Shape a sole edge perfectly even all round.",
+   "quiz": [
+    {
+     "q": "How do you make a pattern from a last?",
+     "options": [
+      "Trace the last on paper",
+      "Wrap it in tape, draw design lines, cut the tape off and flatten it",
+      "Photograph it",
+      "Guess the shape"
+     ],
+     "answer": 1,
+     "explain": "The tape-shell method captures the last's curves as a flat pattern."
+    },
+    {
+     "q": "What is a tabi shoe?",
+     "options": [
+      "A shoe with a heel",
+      "A shoe with a split toe",
+      "A slipper",
+      "A boot"
+     ],
+     "answer": 1,
+     "explain": "Tabi shoes split the big toe from the rest, a traditional Japanese shape."
+    },
+    {
+     "q": "Why add seam allowance to a shoe pattern?",
+     "options": [
+      "For decoration",
+      "So pieces can be joined without shrinking the shoe",
+      "To use more leather",
+      "To make cutting easier"
+     ],
+     "answer": 1,
+     "explain": "Seam allowance is the extra material used to join pieces together."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Gluing and Attaching Soles",
+   "goal": "Bond soles permanently with contact adhesive and correct pressing.",
+   "video": {
+    "youtube_id": "_1rwpq3KUPw",
+    "title": "How to Make a Tabi Shoe Pattern",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Roughen both bonding surfaces with sandpaper.",
+    "Apply a thin even coat of contact adhesive to both sides.",
+    "Wait until the glue is tacky and dry to the touch.",
+    "Press the sole on firmly, then hammer the bond all round."
+   ],
+   "task": "Glue a pair of soles that cannot be peeled off by hand.",
+   "challenge": "Glue a sole with no squeeze-out visible at the edge.",
+   "quiz": [
+    {
+     "q": "How do you make a pattern from a last?",
+     "options": [
+      "Trace the last on paper",
+      "Wrap it in tape, draw design lines, cut the tape off and flatten it",
+      "Photograph it",
+      "Guess the shape"
+     ],
+     "answer": 1,
+     "explain": "The tape-shell method captures the last's curves as a flat pattern."
+    },
+    {
+     "q": "What is a tabi shoe?",
+     "options": [
+      "A shoe with a heel",
+      "A shoe with a split toe",
+      "A slipper",
+      "A boot"
+     ],
+     "answer": 1,
+     "explain": "Tabi shoes split the big toe from the rest, a traditional Japanese shape."
+    },
+    {
+     "q": "Why add seam allowance to a shoe pattern?",
+     "options": [
+      "For decoration",
+      "So pieces can be joined without shrinking the shoe",
+      "To use more leather",
+      "To make cutting easier"
+     ],
+     "answer": 1,
+     "explain": "Seam allowance is the extra material used to join pieces together."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Heels and Edge Finishing",
+   "goal": "Build a stacked heel and burnish all edges to a clean finish.",
+   "video": {
+    "youtube_id": "_1rwpq3KUPw",
+    "title": "How to Make a Tabi Shoe Pattern",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Cut three heel layers and glue them into a stack.",
+    "Shape the heel with a knife and sandpaper to match the sole.",
+    "Dampen the leather edges and rub them with beeswax and a smooth bone tool until shiny.",
+    "Polish the finished edges until they shine."
+   ],
+   "task": "Build and attach a heel, then burnish all edges.",
+   "challenge": "Burnish a sole edge to a glass-smooth shine.",
+   "quiz": [
+    {
+     "q": "How do you make a pattern from a last?",
+     "options": [
+      "Trace the last on paper",
+      "Wrap it in tape, draw design lines, cut the tape off and flatten it",
+      "Photograph it",
+      "Guess the shape"
+     ],
+     "answer": 1,
+     "explain": "The tape-shell method captures the last's curves as a flat pattern."
+    },
+    {
+     "q": "What is a tabi shoe?",
+     "options": [
+      "A shoe with a heel",
+      "A shoe with a split toe",
+      "A slipper",
+      "A boot"
+     ],
+     "answer": 1,
+     "explain": "Tabi shoes split the big toe from the rest, a traditional Japanese shape."
+    },
+    {
+     "q": "Why add seam allowance to a shoe pattern?",
+     "options": [
+      "For decoration",
+      "So pieces can be joined without shrinking the shoe",
+      "To use more leather",
+      "To make cutting easier"
+     ],
+     "answer": 1,
+     "explain": "Seam allowance is the extra material used to join pieces together."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Straps, Buckles and Closures",
+   "goal": "Fit straps, buckles and Velcro closures that hold and adjust well.",
+   "video": {
+    "youtube_id": "SJ7uaeC1uC0",
+    "title": "How to Make Tabi Shoes",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Cut a strap to length allowing 3cm for the buckle fold.",
+    "Punch buckle holes evenly spaced 2cm apart.",
+    "Rivet or stitch a buckle securely to the strap.",
+    "Test the closure: it should hold firmly and release easily."
+   ],
+   "task": "Fit a working buckle closure on a sandal strap.",
+   "challenge": "Fit a strap that adjusts across three sizes.",
+   "quiz": [
+    {
+     "q": "What is saddle stitching?",
+     "options": [
+      "Stitching with a machine",
+      "Hand stitching with two needles passing through each hole",
+      "Gluing leather",
+      "A decorative stitch"
+     ],
+     "answer": 1,
+     "explain": "Saddle stitch uses two needles and waxed thread for the strongest hand seam."
+    },
+    {
+     "q": "Why use waxed thread for leather?",
+     "options": [
+      "It is cheaper",
+      "It grips, resists rot and locks the stitch",
+      "It comes in more colours",
+      "It is thinner"
+     ],
+     "answer": 1,
+     "explain": "Wax helps the thread hold tension and protects it from moisture and wear."
+    },
+    {
+     "q": "What tool makes even stitch holes in leather?",
+     "options": [
+      "A hammer",
+      "An awl or pricking iron",
+      "A knife",
+      "Pliers"
+     ],
+     "answer": 1,
+     "explain": "An awl or pricking iron punches evenly spaced holes for neat stitching."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Project: Make a Pair of Leather Sandals",
+   "goal": "Make a complete pair of leather sandals with straps, soles and finished edges.",
+   "video": {
+    "youtube_id": "SJ7uaeC1uC0",
+    "title": "How to Make Tabi Shoes",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Cut uppers, linings and soles from your patterns.",
+    "Stitch and assemble the uppers, then last them.",
+    "Attach soles and heels, then burnish every edge.",
+    "Fit the sandals on the wearer and adjust the straps."
+   ],
+   "task": "Finish a wearable pair of leather sandals.",
+   "challenge": "Make sandals a customer would pay for at a market stall.",
+   "quiz": [
+    {
+     "q": "What is saddle stitching?",
+     "options": [
+      "Stitching with a machine",
+      "Hand stitching with two needles passing through each hole",
+      "Gluing leather",
+      "A decorative stitch"
+     ],
+     "answer": 1,
+     "explain": "Saddle stitch uses two needles and waxed thread for the strongest hand seam."
+    },
+    {
+     "q": "Why use waxed thread for leather?",
+     "options": [
+      "It is cheaper",
+      "It grips, resists rot and locks the stitch",
+      "It comes in more colours",
+      "It is thinner"
+     ],
+     "answer": 1,
+     "explain": "Wax helps the thread hold tension and protects it from moisture and wear."
+    },
+    {
+     "q": "What tool makes even stitch holes in leather?",
+     "options": [
+      "A hammer",
+      "An awl or pricking iron",
+      "A knife",
+      "Pliers"
+     ],
+     "answer": 1,
+     "explain": "An awl or pricking iron punches evenly spaced holes for neat stitching."
+    }
+   ],
+   "project": {
+    "title": "Make a Pair of Leather Sandals",
+    "brief": "Build complete leather sandals with straps, soles, heels and finished edges.",
+    "checks": [
+     "Pattern drafted from foot tracing",
+     "Uppers stitched and lasted",
+     "Soles and heels attached firmly",
+     "Buckles or closures work",
+     "Edges burnished",
+     "Sandals fit and walk well"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "Sneaker Construction Basics",
+   "goal": "Understand sneaker parts: foxing, toe cap, collar and cupsole.",
+   "video": {
+    "youtube_id": "SJ7uaeC1uC0",
+    "title": "How to Make Tabi Shoes",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Take apart an old sneaker and label each part.",
+    "Note how the upper is stitched to the middle sole layer (called the midsole).",
+    "Trace the cup sole — the rubber sole shaped like a cup that hugs the bottom of the shoe — and see how it wraps the upper.",
+    "Plan a simple sneaker upper in two panels."
+   ],
+   "task": "Label every part of a dissected sneaker.",
+   "challenge": "Sketch a two-panel sneaker upper that could be cut and sewn.",
+   "quiz": [
+    {
+     "q": "What is saddle stitching?",
+     "options": [
+      "Stitching with a machine",
+      "Hand stitching with two needles passing through each hole",
+      "Gluing leather",
+      "A decorative stitch"
+     ],
+     "answer": 1,
+     "explain": "Saddle stitch uses two needles and waxed thread for the strongest hand seam."
+    },
+    {
+     "q": "Why use waxed thread for leather?",
+     "options": [
+      "It is cheaper",
+      "It grips, resists rot and locks the stitch",
+      "It comes in more colours",
+      "It is thinner"
+     ],
+     "answer": 1,
+     "explain": "Wax helps the thread hold tension and protects it from moisture and wear."
+    },
+    {
+     "q": "What tool makes even stitch holes in leather?",
+     "options": [
+      "A hammer",
+      "An awl or pricking iron",
+      "A knife",
+      "Pliers"
+     ],
+     "answer": 1,
+     "explain": "An awl or pricking iron punches evenly spaced holes for neat stitching."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "Pattern a Closed Shoe",
+   "goal": "Draft a pattern for a closed shoe from a last and foot measurements.",
+   "video": {
+    "youtube_id": "pyRMvThqq7E",
+    "title": "How to Make Victorian Ballet Flats",
+    "channel": "Katherine Haircare"
+   },
+   "steps": [
+    "Wrap the last in masking tape and draw the design lines on it.",
+    "Cut the tape shell off and flatten it into a pattern.",
+    "Add seam allowances and mark the vamp and quarter lines.",
+    "Test the paper pattern by folding it back onto the last."
+   ],
+   "task": "Draft a flattened tape pattern for a closed shoe.",
+   "challenge": "Draft a pattern where the vamp and quarters meet cleanly.",
+   "quiz": [
+    {
+     "q": "What is a ballet flat made from?",
+     "options": [
+      "Thick sole leather only",
+      "A soft one-piece upper with a flexible sole",
+      "Wood",
+      "Rubber boots"
+     ],
+     "answer": 1,
+     "explain": "Ballet flats use a soft upper gathered at the top with a thin flexible sole."
+    },
+    {
+     "q": "How does elastic keep a flat on the foot?",
+     "options": [
+      "It glues the shoe on",
+      "It gathers the top line so it hugs the foot",
+      "It stiffens the sole",
+      "It replaces the heel"
+     ],
+     "answer": 1,
+     "explain": "Elastic around the top line pulls the opening snug around the foot."
+    },
+    {
+     "q": "Why is a soft shoe good for a beginner project?",
+     "options": [
+      "It needs no tools",
+      "It has few parts and teaches cutting, gathering and sole work",
+      "It sells for more",
+      "It needs no pattern"
+     ],
+     "answer": 1,
+     "explain": "A flat teaches the core skills with a simple one-piece pattern."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "Sewing a Closed Upper",
+   "goal": "Sew a closed shoe upper with strong seams and a neat lining.",
+   "video": {
+    "youtube_id": "pyRMvThqq7E",
+    "title": "How to Make Victorian Ballet Flats",
+    "channel": "Katherine Haircare"
+   },
+   "steps": [
+    "Stitch the vamp to the quarters with a saddle stitch.",
+    "Sew the back seam and press it flat.",
+    "Attach the lining, leaving the top edge open.",
+    "Turn the upper right side out and check the seams."
+   ],
+   "task": "Sew a complete closed upper, lined and turned.",
+   "challenge": "Sew an upper with no twisted seams.",
+   "quiz": [
+    {
+     "q": "What is a ballet flat made from?",
+     "options": [
+      "Thick sole leather only",
+      "A soft one-piece upper with a flexible sole",
+      "Wood",
+      "Rubber boots"
+     ],
+     "answer": 1,
+     "explain": "Ballet flats use a soft upper gathered at the top with a thin flexible sole."
+    },
+    {
+     "q": "How does elastic keep a flat on the foot?",
+     "options": [
+      "It glues the shoe on",
+      "It gathers the top line so it hugs the foot",
+      "It stiffens the sole",
+      "It replaces the heel"
+     ],
+     "answer": 1,
+     "explain": "Elastic around the top line pulls the opening snug around the foot."
+    },
+    {
+     "q": "Why is a soft shoe good for a beginner project?",
+     "options": [
+      "It needs no tools",
+      "It has few parts and teaches cutting, gathering and sole work",
+      "It sells for more",
+      "It needs no pattern"
+     ],
+     "answer": 1,
+     "explain": "A flat teaches the core skills with a simple one-piece pattern."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "Tabi and Shaped Shoes",
+   "goal": "Make a shaped shoe like a tabi with a split toe.",
+   "video": {
+    "youtube_id": "pyRMvThqq7E",
+    "title": "How to Make Victorian Ballet Flats",
+    "channel": "Katherine Haircare"
+   },
+   "steps": [
+    "Study the tabi shape: a split between big toe and the rest.",
+    "Cut the split-toe pattern with extra allowance at the split.",
+    "Stitch the split carefully so it lies flat.",
+    "Last the tabi upper and check the toe shape holds."
+   ],
+   "task": "Make one tabi-style shoe upper with a clean split toe.",
+   "challenge": "Make a split toe that is comfortable to wear.",
+   "quiz": [
+    {
+     "q": "What is a ballet flat made from?",
+     "options": [
+      "Thick sole leather only",
+      "A soft one-piece upper with a flexible sole",
+      "Wood",
+      "Rubber boots"
+     ],
+     "answer": 1,
+     "explain": "Ballet flats use a soft upper gathered at the top with a thin flexible sole."
+    },
+    {
+     "q": "How does elastic keep a flat on the foot?",
+     "options": [
+      "It glues the shoe on",
+      "It gathers the top line so it hugs the foot",
+      "It stiffens the sole",
+      "It replaces the heel"
+     ],
+     "answer": 1,
+     "explain": "Elastic around the top line pulls the opening snug around the foot."
+    },
+    {
+     "q": "Why is a soft shoe good for a beginner project?",
+     "options": [
+      "It needs no tools",
+      "It has few parts and teaches cutting, gathering and sole work",
+      "It sells for more",
+      "It needs no pattern"
+     ],
+     "answer": 1,
+     "explain": "A flat teaches the core skills with a simple one-piece pattern."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Ballet Flats and Soft Shoes",
+   "goal": "Make a soft flat shoe with a gathered top line and elastic.",
+   "video": {
+    "youtube_id": "4DWAud_xGBE",
+    "title": "I Made Shoes! Beginner Shoemaking Tips and Tools",
+    "channel": "Beginner Shoemaking"
+   },
+   "steps": [
+    "Cut a one-piece upper for a ballet flat.",
+    "Gather the top line with elastic so it hugs the foot.",
+    "Attach a thin flexible sole.",
+    "Fit the flat and check it stays on when walking."
+   ],
+   "task": "Make one soft ballet flat that stays on the foot.",
+   "challenge": "Make a pair of flats that fold flat for travel.",
+   "quiz": [
+    {
+     "q": "What is the first rule of shoemaking for beginners?",
+     "options": [
+      "Buy the most expensive leather",
+      "Start simple and learn the tools before complex shoes",
+      "Skip measuring",
+      "Use only glue"
+     ],
+     "answer": 1,
+     "explain": "Simple projects build tool skills and confidence before complex shoes."
+    },
+    {
+     "q": "Which tool cuts leather cleanly?",
+     "options": [
+      "Scissors for paper",
+      "A sharp knife in one smooth cut",
+      "A saw",
+      "A hammer"
+     ],
+     "answer": 1,
+     "explain": "A sharp knife cuts leather cleanly; sawing tears the edge."
+    },
+    {
+     "q": "Why keep leather away from scars and thin spots?",
+     "options": [
+      "They are ugly",
+      "Weak spots tear and wear out fast",
+      "They cost more",
+      "They smell bad"
+     ],
+     "answer": 1,
+     "explain": "Scars and thin areas are weak points that fail in a worn shoe."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Dyeing and Colouring Leather",
+   "goal": "Dye leather evenly and seal it so the colour lasts.",
+   "video": {
+    "youtube_id": "4DWAud_xGBE",
+    "title": "I Made Shoes! Beginner Shoemaking Tips and Tools",
+    "channel": "Beginner Shoemaking"
+   },
+   "steps": [
+    "Clean the leather with a damp cloth and let it dry.",
+    "Apply dye in thin coats with a wool dauber, not one heavy coat.",
+    "Let each coat dry fully before the next.",
+    "Seal with a leather finish and buff to a shine."
+   ],
+   "task": "Dye a leather sample evenly with no streaks.",
+   "challenge": "Dye a pair of uppers one solid colour with no patchiness.",
+   "quiz": [
+    {
+     "q": "What is the first rule of shoemaking for beginners?",
+     "options": [
+      "Buy the most expensive leather",
+      "Start simple and learn the tools before complex shoes",
+      "Skip measuring",
+      "Use only glue"
+     ],
+     "answer": 1,
+     "explain": "Simple projects build tool skills and confidence before complex shoes."
+    },
+    {
+     "q": "Which tool cuts leather cleanly?",
+     "options": [
+      "Scissors for paper",
+      "A sharp knife in one smooth cut",
+      "A saw",
+      "A hammer"
+     ],
+     "answer": 1,
+     "explain": "A sharp knife cuts leather cleanly; sawing tears the edge."
+    },
+    {
+     "q": "Why keep leather away from scars and thin spots?",
+     "options": [
+      "They are ugly",
+      "Weak spots tear and wear out fast",
+      "They cost more",
+      "They smell bad"
+     ],
+     "answer": 1,
+     "explain": "Scars and thin areas are weak points that fail in a worn shoe."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Project: Make a Pair of Closed Shoes",
+   "goal": "Build a complete pair of closed shoes from pattern to finished pair.",
+   "video": {
+    "youtube_id": "4DWAud_xGBE",
+    "title": "I Made Shoes! Beginner Shoemaking Tips and Tools",
+    "channel": "Beginner Shoemaking"
+   },
+   "steps": [
+    "Cut and sew both uppers with linings.",
+    "Last both shoes and attach insoles.",
+    "Glue soles and heels, then finish every edge.",
+    "Fit both shoes and photograph the finished pair."
+   ],
+   "task": "Finish a wearable pair of closed shoes.",
+   "challenge": "Make closed shoes with matching left and right shaping.",
+   "quiz": [
+    {
+     "q": "What is the first rule of shoemaking for beginners?",
+     "options": [
+      "Buy the most expensive leather",
+      "Start simple and learn the tools before complex shoes",
+      "Skip measuring",
+      "Use only glue"
+     ],
+     "answer": 1,
+     "explain": "Simple projects build tool skills and confidence before complex shoes."
+    },
+    {
+     "q": "Which tool cuts leather cleanly?",
+     "options": [
+      "Scissors for paper",
+      "A sharp knife in one smooth cut",
+      "A saw",
+      "A hammer"
+     ],
+     "answer": 1,
+     "explain": "A sharp knife cuts leather cleanly; sawing tears the edge."
+    },
+    {
+     "q": "Why keep leather away from scars and thin spots?",
+     "options": [
+      "They are ugly",
+      "Weak spots tear and wear out fast",
+      "They cost more",
+      "They smell bad"
+     ],
+     "answer": 1,
+     "explain": "Scars and thin areas are weak points that fail in a worn shoe."
+    }
+   ],
+   "project": {
+    "title": "Make a Pair of Closed Shoes",
+    "brief": "Build a complete pair of closed shoes from pattern to finished pair.",
+    "checks": [
+     "Pattern drafted from last",
+     "Uppers sewn and lined",
+     "Shoes lasted smoothly",
+     "Soles and heels attached",
+     "Edges finished and polished",
+     "Pair fits and looks matched"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Repair and Resoling",
+   "goal": "Resole a worn shoe and repair a torn upper.",
+   "video": {
+    "youtube_id": "fLuu6eFCUD0",
+    "title": "How to Make Leather Sandals by Hand",
+    "channel": "Sun Sandals"
+   },
+   "steps": [
+    "Remove a worn outsole without damaging the upper.",
+    "Clean the old glue and roughen the surface.",
+    "Glue a new sole and trim it to the upper.",
+    "Stitch a torn upper seam and blend the repair."
+   ],
+   "task": "Resole one worn shoe so it looks and feels new.",
+   "challenge": "Repair a torn strap so the fix is invisible.",
+   "quiz": [
+    {
+     "q": "What are leather sandals usually made from?",
+     "options": [
+      "Plastic",
+      "Cut leather uppers, straps and a leather or rubber sole",
+      "Cloth only",
+      "Metal"
+     ],
+     "answer": 1,
+     "explain": "Handmade sandals combine leather uppers and straps with a shaped sole."
+    },
+    {
+     "q": "Why burnish sole edges?",
+     "options": [
+      "For colour",
+      "To seal, smooth and strengthen the edge",
+      "To make them thicker",
+      "To add grip"
+     ],
+     "answer": 1,
+     "explain": "Burnishing compresses and seals the edge so it resists wear and looks finished."
+    },
+    {
+     "q": "What holds a sandal sole to the upper?",
+     "options": [
+      "Stitches only",
+      "Contact adhesive plus stitching or tacks",
+      "Hope",
+      "Velcro only"
+     ],
+     "answer": 1,
+     "explain": "Contact adhesive bonds the sole, with stitching or tacks adding strength."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Comfort and Fit Testing",
+   "goal": "Test fit properly: walking, standing and all-day comfort.",
+   "video": {
+    "youtube_id": "fLuu6eFCUD0",
+    "title": "How to Make Leather Sandals by Hand",
+    "channel": "Sun Sandals"
+   },
+   "steps": [
+    "Walk 100 steps in the shoes and note any rubbing.",
+    "Check the heel does not slip when walking.",
+    "Press the toe area: there should be 1cm of room.",
+    "Adjust straps or padding where rubbing occurs."
+   ],
+   "task": "Fit-test a pair for comfort and record every fix needed.",
+   "challenge": "Fix a heel-slip problem with padding, not a smaller size.",
+   "quiz": [
+    {
+     "q": "What are leather sandals usually made from?",
+     "options": [
+      "Plastic",
+      "Cut leather uppers, straps and a leather or rubber sole",
+      "Cloth only",
+      "Metal"
+     ],
+     "answer": 1,
+     "explain": "Handmade sandals combine leather uppers and straps with a shaped sole."
+    },
+    {
+     "q": "Why burnish sole edges?",
+     "options": [
+      "For colour",
+      "To seal, smooth and strengthen the edge",
+      "To make them thicker",
+      "To add grip"
+     ],
+     "answer": 1,
+     "explain": "Burnishing compresses and seals the edge so it resists wear and looks finished."
+    },
+    {
+     "q": "What holds a sandal sole to the upper?",
+     "options": [
+      "Stitches only",
+      "Contact adhesive plus stitching or tacks",
+      "Hope",
+      "Velcro only"
+     ],
+     "answer": 1,
+     "explain": "Contact adhesive bonds the sole, with stitching or tacks adding strength."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Clog Soles and Wooden Soles",
+   "goal": "Shape a clog-style sole and attach an upper to it.",
+   "video": {
+    "youtube_id": "fLuu6eFCUD0",
+    "title": "How to Make Leather Sandals by Hand",
+    "channel": "Sun Sandals"
+   },
+   "steps": [
+    "Trace the foot onto a wooden or cork sole blank.",
+    "Cut and sand the sole to shape with a rounded toe.",
+    "Drill or cut fixing points for the upper straps.",
+    "Attach the upper and test the clog for balance."
+   ],
+   "task": "Make one clog with a shaped sole and secure upper.",
+   "challenge": "Make a clog sole that is level and does not rock.",
+   "quiz": [
+    {
+     "q": "What are leather sandals usually made from?",
+     "options": [
+      "Plastic",
+      "Cut leather uppers, straps and a leather or rubber sole",
+      "Cloth only",
+      "Metal"
+     ],
+     "answer": 1,
+     "explain": "Handmade sandals combine leather uppers and straps with a shaped sole."
+    },
+    {
+     "q": "Why burnish sole edges?",
+     "options": [
+      "For colour",
+      "To seal, smooth and strengthen the edge",
+      "To make them thicker",
+      "To add grip"
+     ],
+     "answer": 1,
+     "explain": "Burnishing compresses and seals the edge so it resists wear and looks finished."
+    },
+    {
+     "q": "What holds a sandal sole to the upper?",
+     "options": [
+      "Stitches only",
+      "Contact adhesive plus stitching or tacks",
+      "Hope",
+      "Velcro only"
+     ],
+     "answer": 1,
+     "explain": "Contact adhesive bonds the sole, with stitching or tacks adding strength."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Pricing and Selling Footwear",
+   "goal": "Price handmade shoes from materials, time and a fair profit.",
+   "video": {
+    "youtube_id": "oOVNFxQOckE",
+    "title": "Handmade Leather Sandals Tutorial",
+    "channel": "Sun Sandals"
+   },
+   "steps": [
+    "Add up leather, soles, thread and glue for one pair.",
+    "Time the build and value your hours fairly.",
+    "Add profit and compare with market prices for handmade shoes.",
+    "Write a simple price list for slippers, sandals and shoes."
+   ],
+   "task": "Produce a price list for three shoe types with costs shown.",
+   "challenge": "Price a custom pair for a named customer.",
+   "quiz": [
+    {
+     "q": "What is a clog sole made from?",
+     "options": [
+      "Soft leather",
+      "Wood or cork shaped to the foot",
+      "Foam",
+      "Plastic"
+     ],
+     "answer": 1,
+     "explain": "Clogs use a rigid shaped sole, traditionally wood, now often cork."
+    },
+    {
+     "q": "Why must a clog sole be level?",
+     "options": [
+      "For looks",
+      "So it does not rock and the wearer walks safely",
+      "To save wood",
+      "For the glue"
+     ],
+     "answer": 1,
+     "explain": "A rocking sole is unstable and uncomfortable to walk on."
+    },
+    {
+     "q": "How is an upper fixed to a clog sole?",
+     "options": [
+      "With glue only",
+      "With tacks, nails or a stitched welt into the sole",
+      "With tape",
+      "It just sits on top"
+     ],
+     "answer": 1,
+     "explain": "Uppers are mechanically fixed into the rigid sole so they cannot pull off."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Care, Polish and Packaging",
+   "goal": "Clean, polish and package shoes so they sell as premium products.",
+   "video": {
+    "youtube_id": "oOVNFxQOckE",
+    "title": "Handmade Leather Sandals Tutorial",
+    "channel": "Sun Sandals"
+   },
+   "steps": [
+    "Brush off dust, then apply cream polish in small circles.",
+    "Buff with a soft cloth until the shine is even.",
+    "Stuff the shoes with tissue to hold their shape.",
+    "Box or wrap the pair with a care card."
+   ],
+   "task": "Present a finished pair polished, stuffed and boxed.",
+   "challenge": "Polish a scuffed pair back to a shop shine.",
+   "quiz": [
+    {
+     "q": "What is a clog sole made from?",
+     "options": [
+      "Soft leather",
+      "Wood or cork shaped to the foot",
+      "Foam",
+      "Plastic"
+     ],
+     "answer": 1,
+     "explain": "Clogs use a rigid shaped sole, traditionally wood, now often cork."
+    },
+    {
+     "q": "Why must a clog sole be level?",
+     "options": [
+      "For looks",
+      "So it does not rock and the wearer walks safely",
+      "To save wood",
+      "For the glue"
+     ],
+     "answer": 1,
+     "explain": "A rocking sole is unstable and uncomfortable to walk on."
+    },
+    {
+     "q": "How is an upper fixed to a clog sole?",
+     "options": [
+      "With glue only",
+      "With tacks, nails or a stitched welt into the sole",
+      "With tape",
+      "It just sits on top"
+     ],
+     "answer": 1,
+     "explain": "Uppers are mechanically fixed into the rigid sole so they cannot pull off."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Photograph Your Shoes",
+   "goal": "Photograph shoes clearly so buyers can see the quality.",
+   "video": {
+    "youtube_id": "oOVNFxQOckE",
+    "title": "Handmade Leather Sandals Tutorial",
+    "channel": "Sun Sandals"
+   },
+   "steps": [
+    "Photograph in daylight near a window, not under yellow bulbs.",
+    "Shoot from four angles: front, side, back and sole.",
+    "Use a plain background so the shoe stands out.",
+    "Check the photo is sharp and the colour looks true."
+   ],
+   "task": "Photograph a finished pair from four angles.",
+   "challenge": "Take a photo where the stitching and sole are clearly visible.",
+   "quiz": [
+    {
+     "q": "What is a clog sole made from?",
+     "options": [
+      "Soft leather",
+      "Wood or cork shaped to the foot",
+      "Foam",
+      "Plastic"
+     ],
+     "answer": 1,
+     "explain": "Clogs use a rigid shaped sole, traditionally wood, now often cork."
+    },
+    {
+     "q": "Why must a clog sole be level?",
+     "options": [
+      "For looks",
+      "So it does not rock and the wearer walks safely",
+      "To save wood",
+      "For the glue"
+     ],
+     "answer": 1,
+     "explain": "A rocking sole is unstable and uncomfortable to walk on."
+    },
+    {
+     "q": "How is an upper fixed to a clog sole?",
+     "options": [
+      "With glue only",
+      "With tacks, nails or a stitched welt into the sole",
+      "With tape",
+      "It just sits on top"
+     ],
+     "answer": 1,
+     "explain": "Uppers are mechanically fixed into the rigid sole so they cannot pull off."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Custom Orders and Measuring Clients",
+   "goal": "Take a custom order: measure a client and agree the design.",
+   "video": {
+    "youtube_id": "qLZ1ySkyGcY",
+    "title": "How to Make Clog Sandal Soles",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Measure the client’s feet and write the numbers on an order sheet.",
+    "Agree the shoe type, leather and colour with the client.",
+    "Agree the price, deposit and delivery date in writing.",
+    "Keep the order sheet safe and follow it when you build."
+   ],
+   "task": "Complete an order sheet for a real or pretend client.",
+   "challenge": "Take a full set of measurements for a custom pair.",
+   "quiz": [
+    {
+     "q": "Why photograph shoes from four angles?",
+     "options": [
+      "To use more film",
+      "So a buyer can judge shape, stitching and finish",
+      "It is a tradition",
+      "To show the box"
+     ],
+     "answer": 1,
+     "explain": "Front, back, side and sole views show the full quality of the pair."
+    },
+    {
+     "q": "What should a costing sheet include?",
+     "options": [
+      "Only the leather price",
+      "Materials, time, profit and selling price",
+      "The customer's name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real price comes from materials plus time plus profit."
+    },
+    {
+     "q": "Why stuff finished shoes with tissue?",
+     "options": [
+      "To keep them warm",
+      "To hold their shape in storage and display",
+      "To add weight",
+      "To hide mistakes"
+     ],
+     "answer": 1,
+     "explain": "Tissue stuffing stops the uppers collapsing and creasing."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone pair, materials and build schedule.",
+   "video": {
+    "youtube_id": "qLZ1ySkyGcY",
+    "title": "How to Make Clog Sandal Soles",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Pick the shoe type that best shows your skills.",
+    "Buy or gather all leather, soles and notions.",
+    "Cut and label every piece in build order.",
+    "Write a two-day build plan with fitting time."
+   ],
+   "task": "Have all capstone pieces cut and labelled, ready to build.",
+   "challenge": "Plan a capstone pair that uses stitching, lasting and sole work.",
+   "quiz": [
+    {
+     "q": "Why photograph shoes from four angles?",
+     "options": [
+      "To use more film",
+      "So a buyer can judge shape, stitching and finish",
+      "It is a tradition",
+      "To show the box"
+     ],
+     "answer": 1,
+     "explain": "Front, back, side and sole views show the full quality of the pair."
+    },
+    {
+     "q": "What should a costing sheet include?",
+     "options": [
+      "Only the leather price",
+      "Materials, time, profit and selling price",
+      "The customer's name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real price comes from materials plus time plus profit."
+    },
+    {
+     "q": "Why stuff finished shoes with tissue?",
+     "options": [
+      "To keep them warm",
+      "To hold their shape in storage and display",
+      "To add weight",
+      "To hide mistakes"
+     ],
+     "answer": 1,
+     "explain": "Tissue stuffing stops the uppers collapsing and creasing."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Build and Present",
+   "goal": "Build your capstone pair, fit it, finish it and present it.",
+   "video": {
+    "youtube_id": "qLZ1ySkyGcY",
+    "title": "How to Make Clog Sandal Soles",
+    "channel": "I Can Make Shoes"
+   },
+   "steps": [
+    "Build the pair following your plan, checking fit as you go.",
+    "Finish every edge, polish and fit-test on the wearer.",
+    "Photograph the pair from four angles.",
+    "Present the pair with your costing sheet and care note."
+   ],
+   "task": "Present a finished, fitted capstone pair with photos and costing.",
+   "challenge": "Finish the pair early enough for a full polish and photo session.",
+   "quiz": [
+    {
+     "q": "Why photograph shoes from four angles?",
+     "options": [
+      "To use more film",
+      "So a buyer can judge shape, stitching and finish",
+      "It is a tradition",
+      "To show the box"
+     ],
+     "answer": 1,
+     "explain": "Front, back, side and sole views show the full quality of the pair."
+    },
+    {
+     "q": "What should a costing sheet include?",
+     "options": [
+      "Only the leather price",
+      "Materials, time, profit and selling price",
+      "The customer's name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real price comes from materials plus time plus profit."
+    },
+    {
+     "q": "Why stuff finished shoes with tissue?",
+     "options": [
+      "To keep them warm",
+      "To hold their shape in storage and display",
+      "To add weight",
+      "To hide mistakes"
+     ],
+     "answer": 1,
+     "explain": "Tissue stuffing stops the uppers collapsing and creasing."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Make a Complete Pair of Shoes",
+  "brief": "Design and build a complete pair of shoes of your choice (sandals, closed shoes or sneakers) for a real wearer, fitted, finished and presented with a costing sheet.",
+  "checks": [
+   "Pair designed from a real foot measurement",
+   "Uppers cut, stitched and lasted cleanly",
+   "Soles and heels attached firmly with finished edges",
+   "Pair fits the wearer in length, width and comfort",
+   "Leather dyed or finished evenly if coloured",
+   "Photos taken from four angles",
+   "Costing sheet shows materials, time and selling price"
+  ],
+  "deliverables": [
+   "Finished pair of shoes, fitted and wearable",
+   "Foot measurement sheet for the wearer",
+   "Costing and pricing sheet",
+   "Four photos: front, side, back and sole",
+   "Care note for the wearer"
+  ]
+ }
+}

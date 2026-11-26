@@ -1,0 +1,1714 @@
+{
+  "course": {
+    "id": "sql-and-databases",
+    "title": "SQL and Databases",
+    "level": "Beginner",
+    "tagline": "Query, design and manage databases with SQL, from your first SELECT to real reports.",
+    "duration_days": 30
+  },
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "What a Database Is and How to Set One Up",
+      "goal": "Understand what a database is and install a free one on your computer.",
+      "video": {
+        "youtube_id": "HXV3zeQKqGY",
+        "title": "SQL and Databases - A Full Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Install MySQL or PostgreSQL on your computer, or use an online SQL playground.",
+        "Open the database tool and connect to your local server.",
+        "Make a database called practice with CREATE DATABASE practice;.",
+        "Use the database with USE practice; and check it is selected."
+      ],
+      "task": "Set up your database and create a database called practice.",
+      "challenge": "List the databases on your server to confirm yours is there.",
+      "quiz": [
+        {
+          "q": "What is a database?",
+          "options": [
+            "A spreadsheet file",
+            "A organised store for data that many programs can read and update safely",
+            "A website",
+            "A kind of chart"
+          ],
+          "answer": 1,
+          "explain": "A database stores data in an organised way so programs can find, add, change and delete it safely."
+        },
+        {
+          "q": "What is SQL?",
+          "options": [
+            "A programming language for websites",
+            "Structured Query Language: the language you use to ask a database for data",
+            "A kind of database",
+            "A file format"
+          ],
+          "answer": 1,
+          "explain": "SQL is the language for talking to databases: asking questions, adding data and changing it."
+        },
+        {
+          "q": "What is a table?",
+          "options": [
+            "A chart",
+            "A set of rows and columns that stores one kind of thing, like customers",
+            "A file",
+            "A database"
+          ],
+          "answer": 1,
+          "explain": "A table stores one kind of data. Each row is one item, each column is one fact about it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Your First Table",
+      "goal": "Create a table with columns and the right data types.",
+      "video": {
+        "youtube_id": "KBDSJU3cGkc",
+        "title": "Mastering SQL for Web Developers – Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Create a table called customers with id, name, email and city columns.",
+        "Choose the right type for each column: INT for id, VARCHAR for text.",
+        "Make id the primary key so each row has a unique number.",
+        "Show the table's structure to check your columns are right."
+      ],
+      "task": "Create a customers table with at least five columns and a primary key.",
+      "challenge": "Create a second table called orders with order id, customer id and amount.",
+      "quiz": [
+        {
+          "q": "What is a primary key?",
+          "options": [
+            "The first column",
+            "A column (or columns) that uniquely identifies each row",
+            "A password",
+            "The biggest column"
+          ],
+          "answer": 1,
+          "explain": "A primary key gives each row a unique value, so you can always tell rows apart."
+        },
+        {
+          "q": "What is VARCHAR(100)?",
+          "options": [
+            "A number",
+            "A text type that can hold up to 100 characters",
+            "A date type",
+            "A yes/no type"
+          ],
+          "answer": 1,
+          "explain": "VARCHAR stores text. The number sets the longest text it can hold."
+        },
+        {
+          "q": "Why choose the right data type?",
+          "options": [
+            "It looks better",
+            "So the database stores data correctly and can check it, like rejecting text in a number column",
+            "It is faster always",
+            "It saves space only"
+          ],
+          "answer": 1,
+          "explain": "Types tell the database what each column holds, so it can store it right and catch mistakes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Inserting Data",
+      "goal": "Add rows to a table with INSERT.",
+      "video": {
+        "youtube_id": "26ls5lNiijk",
+        "title": "Learn Relational Database Design",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Insert one customer with INSERT INTO customers VALUES (...).",
+        "Insert three more customers in one statement.",
+        "Insert a row naming only some columns and let the rest be empty.",
+        "Check your rows with SELECT * FROM customers;."
+      ],
+      "task": "Add ten customers to your table with realistic names, emails and cities.",
+      "challenge": "Add five orders linked to your customers by their id.",
+      "quiz": [
+        {
+          "q": "What does INSERT INTO do?",
+          "options": [
+            "It deletes rows",
+            "It adds new rows to a table",
+            "It shows rows",
+            "It changes rows"
+          ],
+          "answer": 1,
+          "explain": "INSERT INTO adds new rows to a table with the values you give."
+        },
+        {
+          "q": "Why name the columns in an INSERT?",
+          "options": [
+            "It is required always",
+            "So the values go into the right columns even if the table changes",
+            "It makes it faster",
+            "It deletes old rows"
+          ],
+          "answer": 1,
+          "explain": "Naming columns makes your intent clear and protects you if the table order changes."
+        },
+        {
+          "q": "What happens if you skip a column with no default?",
+          "options": [
+            "An error always",
+            "It gets NULL (empty) unless the column forbids it",
+            "It copies the last row",
+            "It deletes the row"
+          ],
+          "answer": 1,
+          "explain": "A skipped column gets NULL unless it is defined as NOT NULL, which would cause an error."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Your First SELECT",
+      "goal": "Read data back with SELECT and pick the columns you want.",
+      "video": {
+        "youtube_id": "mXW7JHJM34k",
+        "title": "Learn SQL for Analytics",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Run SELECT * FROM customers; to see every row and column.",
+        "Run SELECT name, city FROM customers; to see only two columns.",
+        "Run SELECT DISTINCT city FROM customers; to see each city once.",
+        "Count the rows with SELECT COUNT(*) FROM customers;."
+      ],
+      "task": "Write queries that show all customers, then only names and emails, then each city once.",
+      "challenge": "Count how many customers are in each city.",
+      "quiz": [
+        {
+          "q": "What does SELECT * do?",
+          "options": [
+            "It deletes everything",
+            "It returns every column of every row",
+            "It counts rows",
+            "It creates a table"
+          ],
+          "answer": 1,
+          "explain": "SELECT * returns all columns. It is handy for a quick look, but name your columns in real work."
+        },
+        {
+          "q": "What does DISTINCT do?",
+          "options": [
+            "It sorts rows",
+            "It removes duplicate values so each value appears once",
+            "It counts rows",
+            "It deletes rows"
+          ],
+          "answer": 1,
+          "explain": "DISTINCT removes duplicates from the result, so each value shows only once."
+        },
+        {
+          "q": "What does COUNT(*) return?",
+          "options": [
+            "The first row",
+            "The number of rows",
+            "The biggest value",
+            "All the data"
+          ],
+          "answer": 1,
+          "explain": "COUNT(*) counts the rows in the result."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Filtering with WHERE",
+      "goal": "Filter rows with WHERE and comparison operators.",
+      "video": {
+        "youtube_id": "WXk7yDqsKxs",
+        "title": "Learn Databases and SQL from Harvard University",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Find customers in Lagos with WHERE city = 'Lagos'.",
+        "Find orders over 10000 with WHERE amount > 10000.",
+        "Combine two conditions with AND.",
+        "Find customers in Lagos or Abuja with OR."
+      ],
+      "task": "Find all orders over 5000 made in the last month.",
+      "challenge": "Find all customers whose name starts with A using LIKE 'A%'.",
+      "quiz": [
+        {
+          "q": "What does WHERE do?",
+          "options": [
+            "It sorts rows",
+            "It filters rows, keeping only those that match a condition",
+            "It deletes rows",
+            "It counts rows"
+          ],
+          "answer": 1,
+          "explain": "WHERE keeps only the rows where the condition is true."
+        },
+        {
+          "q": "What does LIKE 'A%' do?",
+          "options": [
+            "It finds exact matches",
+            "It finds values that start with A",
+            "It finds values that end with A",
+            "It counts values"
+          ],
+          "answer": 1,
+          "explain": "LIKE with % matches patterns. 'A%' means the value starts with A."
+        },
+        {
+          "q": "What is the difference between AND and OR?",
+          "options": [
+            "There is none",
+            "AND needs both conditions true, OR needs at least one true",
+            "AND is faster",
+            "OR deletes rows"
+          ],
+          "answer": 1,
+          "explain": "AND keeps rows where both conditions are true. OR keeps rows where at least one is true."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Sorting and Limiting",
+      "goal": "Sort results with ORDER BY and limit how many rows you get.",
+      "video": {
+        "youtube_id": "-fW2X7fh7Yg",
+        "title": "Learn SQL for Efficient Data Storage and Retrieval",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Sort customers by name from A to Z with ORDER BY name.",
+        "Sort orders by amount from biggest to smallest with ORDER BY amount DESC.",
+        "Show only the top 5 orders with LIMIT 5.",
+        "Sort by city first, then by name inside each city."
+      ],
+      "task": "List the top 10 biggest orders and the 10 smallest.",
+      "challenge": "Show the five most recent orders by date.",
+      "quiz": [
+        {
+          "q": "What does ORDER BY do?",
+          "options": [
+            "It filters rows",
+            "It sorts the result rows by a column",
+            "It counts rows",
+            "It deletes rows"
+          ],
+          "answer": 1,
+          "explain": "ORDER BY sorts the results by the column you name."
+        },
+        {
+          "q": "What does DESC mean?",
+          "options": [
+            "Sort from smallest to biggest",
+            "Sort from biggest to smallest",
+            "Sort by date",
+            "Delete the column"
+          ],
+          "answer": 1,
+          "explain": "DESC sorts descending: biggest first. ASC (the default) sorts ascending: smallest first."
+        },
+        {
+          "q": "What does LIMIT 5 do?",
+          "options": [
+            "It deletes five rows",
+            "It returns only the first five rows of the result",
+            "It counts five rows",
+            "It sorts five rows"
+          ],
+          "answer": 1,
+          "explain": "LIMIT caps how many rows you get back, which is handy for top-N lists."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project 1: Build a Small Database",
+      "goal": "Build a small database for a shop: customers, products and orders.",
+      "video": {
+        "youtube_id": "Rgxlx8-jIwo",
+        "title": "SQL JOINs Explained with Real Business Data",
+        "channel": "DataGuy"
+      },
+      "steps": [
+        "Design three tables: customers, products and orders, with the right columns.",
+        "Make id the primary key in each table.",
+        "Add at least 10 customers, 10 products and 20 orders.",
+        "Write five queries that answer real questions about your shop."
+      ],
+      "task": "Finish the shop database and run your five queries to check they work.",
+      "challenge": "Add a fourth table for categories and link products to it.",
+      "quiz": [
+        {
+          "q": "What should you design before creating tables?",
+          "options": [
+            "Nothing",
+            "The tables, their columns, types and how they link together",
+            "The charts",
+            "The colours"
+          ],
+          "answer": 1,
+          "explain": "Design first: what tables you need, what each holds, and how they connect. It saves painful fixes later."
+        },
+        {
+          "q": "Why link orders to customers by id?",
+          "options": [
+            "To make it slower",
+            "So each order points to exactly one customer and you can join them later",
+            "To hide customers",
+            "To delete orders"
+          ],
+          "answer": 1,
+          "explain": "Linking by id connects the tables. You can then join them to see who ordered what."
+        },
+        {
+          "q": "How do you check your database works?",
+          "options": [
+            "Trust it",
+            "Run queries that answer real questions and check the answers make sense",
+            "Count the tables",
+            "Look at the file size"
+          ],
+          "answer": 1,
+          "explain": "Real queries that return sensible answers prove your tables and data are right."
+        }
+      ],
+      "project": {
+        "title": "Build a Small Shop Database",
+        "brief": "Design and build a small database for a shop: customers, products and orders tables with primary keys, at least 10 customers, 10 products and 20 orders, plus five queries that answer real questions about the shop.",
+        "checks": [
+          "Three tables exist: customers, products and orders.",
+          "Each table has a primary key.",
+          "The tables hold at least 10 customers, 10 products and 20 orders.",
+          "Orders link to customers by id.",
+          "Five queries answer real questions about the shop.",
+          "Every query runs without errors."
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Updating and Deleting Data",
+      "goal": "Change rows with UPDATE and remove them with DELETE, safely.",
+      "video": {
+        "youtube_id": "OZvR0yULjVE",
+        "title": "What a Table Is and Your First SELECT | Six Minutes: SQL, Part 1",
+        "channel": "Six Minutes"
+      },
+      "steps": [
+        "Change one customer's city with UPDATE ... SET ... WHERE ...;.",
+        "Update several rows at once with a condition.",
+        "Delete one row with DELETE FROM ... WHERE ...;.",
+        "Always check your WHERE clause first with a SELECT before updating or deleting."
+      ],
+      "task": "Update the price of three products and delete one order that was cancelled.",
+      "challenge": "Practise the safety habit: run the SELECT version of your WHERE first.",
+      "quiz": [
+        {
+          "q": "Why must UPDATE always have a WHERE?",
+          "options": [
+            "It is faster",
+            "Without WHERE it changes every row in the table",
+            "It deletes the table",
+            "It is not needed"
+          ],
+          "answer": 1,
+          "explain": "An UPDATE without WHERE changes all rows. A WHERE limits it to the rows you mean."
+        },
+        {
+          "q": "Why check with SELECT before a DELETE?",
+          "options": [
+            "It is slower",
+            "So you see exactly which rows will be deleted before they are gone",
+            "It is required by law",
+            "It makes a backup"
+          ],
+          "answer": 1,
+          "explain": "A SELECT with the same WHERE shows you the rows at risk. Deleting is hard to undo."
+        },
+        {
+          "q": "What does SET do in an UPDATE?",
+          "options": [
+            "It deletes a row",
+            "It names the new value for a column",
+            "It sorts rows",
+            "It creates a table"
+          ],
+          "answer": 1,
+          "explain": "SET assigns the new value to the column you are updating."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Aggregate Functions",
+      "goal": "Summarise data with COUNT, SUM, AVG, MIN and MAX.",
+      "video": {
+        "youtube_id": "l8DCPaHc5TQ",
+        "title": "Learn SQL for Data Analysis in one hour",
+        "channel": "Chandoo"
+      },
+      "steps": [
+        "Count all orders with COUNT(*).",
+        "Find total sales with SUM(amount).",
+        "Find the average order value with AVG(amount).",
+        "Find the biggest and smallest order with MAX() and MIN()."
+      ],
+      "task": "Calculate total sales, average order value, biggest order and number of orders in your shop.",
+      "challenge": "Find the average price of products in each category.",
+      "quiz": [
+        {
+          "q": "What does SUM(amount) do?",
+          "options": [
+            "It counts rows",
+            "It adds up all the values in the amount column",
+            "It finds the biggest value",
+            "It sorts values"
+          ],
+          "answer": 1,
+          "explain": "SUM adds all the values in a column together into one total."
+        },
+        {
+          "q": "What does AVG() do?",
+          "options": [
+            "It counts rows",
+            "It calculates the average of the values",
+            "It finds the biggest value",
+            "It sorts values"
+          ],
+          "answer": 1,
+          "explain": "AVG adds the values and divides by how many there are, giving the average."
+        },
+        {
+          "q": "What is the difference between COUNT(*) and COUNT(column)?",
+          "options": [
+            "There is none",
+            "COUNT(*) counts all rows, COUNT(column) counts only rows where that column is not empty",
+            "COUNT(*) is faster",
+            "COUNT(column) counts all rows"
+          ],
+          "answer": 1,
+          "explain": "COUNT(*) counts every row. COUNT(column) skips rows where that column is NULL."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Grouping with GROUP BY",
+      "goal": "Group rows and calculate per group with GROUP BY.",
+      "video": {
+        "youtube_id": "qw--VYLpxG4",
+        "title": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Count orders per customer with GROUP BY customer_id.",
+        "Find total sales per city with GROUP BY city.",
+        "Filter groups with HAVING, like only cities with more than 5 orders.",
+        "Sort the groups by their total sales."
+      ],
+      "task": "Find total sales and order count for each product category.",
+      "challenge": "Find which city has the highest average order value.",
+      "quiz": [
+        {
+          "q": "What does GROUP BY do?",
+          "options": [
+            "It sorts rows",
+            "It splits rows into groups by a column's values so you can calculate per group",
+            "It deletes rows",
+            "It filters rows"
+          ],
+          "answer": 1,
+          "explain": "GROUP BY makes one group per value, like one group per city, then aggregates run on each group."
+        },
+        {
+          "q": "What is the difference between WHERE and HAVING?",
+          "options": [
+            "There is none",
+            "WHERE filters rows before grouping, HAVING filters groups after grouping",
+            "HAVING is faster",
+            "WHERE filters groups"
+          ],
+          "answer": 1,
+          "explain": "WHERE filters individual rows first. HAVING filters the groups that result, like 'only groups with more than 5 orders'."
+        },
+        {
+          "q": "Why must SELECT columns be in GROUP BY or an aggregate?",
+          "options": [
+            "It is a style rule",
+            "Because each group produces one row, so every value shown must be per group",
+            "It makes it faster",
+            "It is not required"
+          ],
+          "answer": 1,
+          "explain": "A grouped query returns one row per group. A column that is not grouped or aggregated has no single value per group."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Working with Dates and Text",
+      "goal": "Work with dates and text functions in SQL.",
+      "video": {
+        "youtube_id": "HXV3zeQKqGY",
+        "title": "SQL and Databases - A Full Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Filter orders from the last 30 days with a date condition.",
+        "Extract the year and month from a date column.",
+        "Use UPPER() and LOWER() to change text case.",
+        "Use CONCAT() to join first and last name into a full name."
+      ],
+      "task": "Find all orders from this month and show the customer's full name for each.",
+      "challenge": "Find customers whose email ends with '@gmail.com'.",
+      "quiz": [
+        {
+          "q": "How do you compare dates in SQL?",
+          "options": [
+            "You cannot",
+            "With the same operators: = < > and BETWEEN for a range",
+            "With text functions only",
+            "With LIKE only"
+          ],
+          "answer": 1,
+          "explain": "Dates compare like numbers. BETWEEN '2026-01-01' AND '2026-01-31' finds a whole month."
+        },
+        {
+          "q": "What does CONCAT() do?",
+          "options": [
+            "It deletes text",
+            "It joins two or more text values into one",
+            "It sorts text",
+            "It counts text"
+          ],
+          "answer": 1,
+          "explain": "CONCAT sticks text values together, like joining a first name and a last name."
+        },
+        {
+          "q": "What does UPPER() do?",
+          "options": [
+            "It deletes text",
+            "It turns text into capital letters",
+            "It sorts text",
+            "It counts letters"
+          ],
+          "answer": 1,
+          "explain": "UPPER() returns the text in capitals. LOWER() returns it in small letters."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Handling NULL Values",
+      "goal": "Understand NULL and handle missing data in queries.",
+      "video": {
+        "youtube_id": "KBDSJU3cGkc",
+        "title": "Mastering SQL for Web Developers – Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Find rows where email is NULL with WHERE email IS NULL.",
+        "Find rows where email is not empty with WHERE email IS NOT NULL.",
+        "Replace NULL with a default using COALESCE() or IFNULL().",
+        "Count how many rows have a missing phone number."
+      ],
+      "task": "Find all customers with no phone number and fill in 'Not given' in your report query.",
+      "challenge": "Count missing values in each column of your orders table.",
+      "quiz": [
+        {
+          "q": "What is NULL?",
+          "options": [
+            "Zero",
+            "An empty string",
+            "A missing value: we do not have this information",
+            "An error"
+          ],
+          "answer": 1,
+          "explain": "NULL means missing or unknown. It is not zero and not an empty string."
+        },
+        {
+          "q": "Why use IS NULL instead of = NULL?",
+          "options": [
+            "They are the same",
+            "= NULL never matches anything, because NULL is not equal to anything, even itself",
+            "IS NULL is faster",
+            "= NULL deletes rows"
+          ],
+          "answer": 1,
+          "explain": "NULL is not a value, so = cannot compare it. IS NULL is the correct test."
+        },
+        {
+          "q": "What does COALESCE() do?",
+          "options": [
+            "It deletes NULLs",
+            "It returns the first value that is not NULL, or a default you choose",
+            "It counts NULLs",
+            "It sorts NULLs"
+          ],
+          "answer": 1,
+          "explain": "COALESCE picks the first non-NULL value in its list, so you can show a default like 'Not given'."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "JOINs: Combining Tables",
+      "goal": "Combine rows from two tables with INNER JOIN.",
+      "video": {
+        "youtube_id": "26ls5lNiijk",
+        "title": "Learn Relational Database Design",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Join orders to customers to show who placed each order.",
+        "Join orders to products to show what was ordered.",
+        "Use table aliases like c and o to keep queries short.",
+        "Join three tables in one query: orders, customers and products."
+      ],
+      "task": "Write a query that lists each order with the customer name, product name and amount.",
+      "challenge": "Find orders with no matching customer (if any) and explain why.",
+      "quiz": [
+        {
+          "q": "What does INNER JOIN do?",
+          "options": [
+            "It deletes rows",
+            "It combines rows from two tables where the link matches",
+            "It sorts tables",
+            "It counts rows"
+          ],
+          "answer": 1,
+          "explain": "INNER JOIN pairs rows from two tables where the join condition matches, like order.customer_id = customer.id."
+        },
+        {
+          "q": "What is a table alias?",
+          "options": [
+            "A copy of a table",
+            "A short name for a table in a query, like c for customers",
+            "A new table",
+            "A deleted table"
+          ],
+          "answer": 1,
+          "explain": "An alias is a nickname for a table in one query, so you can write c.name instead of customers.name."
+        },
+        {
+          "q": "What is ON in a JOIN?",
+          "options": [
+            "A filter for the final result",
+            "The condition that says how rows from the two tables match",
+            "A sort order",
+            "A limit"
+          ],
+          "answer": 1,
+          "explain": "ON states the link between the tables, usually that a foreign key equals a primary key."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project 2: Sales Report with JOINs",
+      "goal": "Build a sales report that joins tables and answers business questions.",
+      "video": {
+        "youtube_id": "mXW7JHJM34k",
+        "title": "Learn SQL for Analytics",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Use your shop database with customers, products and orders.",
+        "Write a query for total sales per product with a JOIN and GROUP BY.",
+        "Write a query for total sales per customer.",
+        "Write a query for the best-selling product in each city."
+      ],
+      "task": "Finish the sales report with at least four queries and write one sentence for each finding.",
+      "challenge": "Add a query that finds customers who have never ordered.",
+      "quiz": [
+        {
+          "q": "What makes a good report query?",
+          "options": [
+            "It is long",
+            "It answers one clear question with a number",
+            "It uses many tables",
+            "It has no WHERE"
+          ],
+          "answer": 1,
+          "explain": "A good report query answers one question and returns a number you can act on."
+        },
+        {
+          "q": "Why join tables for a report?",
+          "options": [
+            "To make it slower",
+            "Because the facts you need live in different tables",
+            "To hide data",
+            "To delete rows"
+          ],
+          "answer": 1,
+          "explain": "Customers, products and orders live in separate tables. JOINs bring them together for one answer."
+        },
+        {
+          "q": "How do you find customers who never ordered?",
+          "options": [
+            "You cannot",
+            "With a LEFT JOIN and a check for NULL on the order side",
+            "With an INNER JOIN",
+            "With a DELETE"
+          ],
+          "answer": 1,
+          "explain": "A LEFT JOIN keeps all customers, and rows with no order have NULL order values, which you can filter for."
+        }
+      ],
+      "project": {
+        "title": "Sales Report with JOINs",
+        "brief": "Build a sales report on your shop database using JOINs and GROUP BY: total sales per product, total sales per customer, best-selling product per city, and customers who have never ordered.",
+        "checks": [
+          "A query shows total sales per product using a JOIN.",
+          "A query shows total sales per customer.",
+          "A query shows the best-selling product in each city.",
+          "A query finds customers who have never ordered.",
+          "Each finding has one sentence explaining what it means.",
+          "Every query runs without errors."
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "LEFT, RIGHT and FULL JOINs",
+      "goal": "Keep unmatched rows with LEFT, RIGHT and FULL JOINs.",
+      "video": {
+        "youtube_id": "WXk7yDqsKxs",
+        "title": "Learn Databases and SQL from Harvard University",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Use LEFT JOIN to show all customers, even those with no orders.",
+        "Find customers with no orders by checking for NULL on the order side.",
+        "Try RIGHT JOIN and compare the result with LEFT JOIN.",
+        "Use UNION to combine two result sets into one list."
+      ],
+      "task": "List all customers with their order count, including customers with zero orders.",
+      "challenge": "Combine a list of customer emails and supplier emails into one list with UNION.",
+      "quiz": [
+        {
+          "q": "What does LEFT JOIN do?",
+          "options": [
+            "It deletes rows",
+            "It keeps all rows from the left table, even when there is no match on the right",
+            "It sorts rows",
+            "It counts rows"
+          ],
+          "answer": 1,
+          "explain": "LEFT JOIN keeps every left row. Rows with no match get NULL for the right table's columns."
+        },
+        {
+          "q": "What does UNION do?",
+          "options": [
+            "It joins tables",
+            "It stacks the results of two queries into one list, removing duplicates",
+            "It deletes rows",
+            "It sorts"
+          ],
+          "answer": 1,
+          "explain": "UNION combines two result sets with the same columns into one, with duplicates removed."
+        },
+        {
+          "q": "When would you use a LEFT JOIN instead of an INNER JOIN?",
+          "options": [
+            "Never",
+            "When you need all rows from one side, even those with no match",
+            "When it is faster",
+            "When you want fewer rows"
+          ],
+          "answer": 1,
+          "explain": "Use LEFT JOIN when missing matches still matter, like customers who have not ordered yet."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Subqueries",
+      "goal": "Use a query inside another query to answer harder questions.",
+      "video": {
+        "youtube_id": "-fW2X7fh7Yg",
+        "title": "Learn SQL for Efficient Data Storage and Retrieval",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Find products that cost more than the average price with a subquery.",
+        "Find customers who ordered more than the average order count.",
+        "Use a subquery in the WHERE clause with IN.",
+        "Use a subquery in the SELECT to show a value beside each row."
+      ],
+      "task": "Find all products that sold more than the average product's total sales.",
+      "challenge": "Find the customer with the highest total spending using a subquery.",
+      "quiz": [
+        {
+          "q": "What is a subquery?",
+          "options": [
+            "A deleted query",
+            "A query inside another query, in brackets, that returns a value or a set of rows",
+            "A kind of table",
+            "A sort order"
+          ],
+          "answer": 1,
+          "explain": "A subquery runs inside an outer query and gives it a value or a list to compare against."
+        },
+        {
+          "q": "What does WHERE price > (SELECT AVG(price) FROM products) do?",
+          "options": [
+            "It deletes products",
+            "It keeps products that cost more than the average price",
+            "It counts products",
+            "It sorts products"
+          ],
+          "answer": 1,
+          "explain": "The subquery calculates the average price, and the outer query keeps products above it."
+        },
+        {
+          "q": "When is a subquery better than a JOIN?",
+          "options": [
+            "Always",
+            "When you need a single value or a simple filter, a subquery can be clearer",
+            "Never",
+            "Only for deletes"
+          ],
+          "answer": 1,
+          "explain": "For a single comparison value, a subquery is often simpler to read than a join."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Window Functions",
+      "goal": "Rank and compare rows with window functions like ROW_NUMBER and RANK.",
+      "video": {
+        "youtube_id": "Rgxlx8-jIwo",
+        "title": "SQL JOINs Explained with Real Business Data",
+        "channel": "DataGuy"
+      },
+      "steps": [
+        "Rank products by sales with RANK() OVER (ORDER BY sales DESC).",
+        "Number rows in each category with ROW_NUMBER() OVER (PARTITION BY category ORDER BY sales DESC).",
+        "Show each order beside the running total with SUM() OVER (ORDER BY date).",
+        "Compare each order with the previous one using LAG()."
+      ],
+      "task": "Rank your products by total sales and show the top 3 in each category.",
+      "challenge": "Show a running total of sales over time.",
+      "quiz": [
+        {
+          "q": "What does OVER do?",
+          "options": [
+            "It deletes rows",
+            "It defines the window of rows a function looks at, without collapsing them",
+            "It sorts the table",
+            "It filters rows"
+          ],
+          "answer": 1,
+          "explain": "OVER defines the window. Unlike GROUP BY, it keeps every row and adds a calculated value beside it."
+        },
+        {
+          "q": "What does PARTITION BY do?",
+          "options": [
+            "It deletes rows",
+            "It splits rows into groups, like GROUP BY, but keeps each row",
+            "It sorts rows",
+            "It counts rows"
+          ],
+          "answer": 1,
+          "explain": "PARTITION BY divides rows into groups. The function runs separately in each group."
+        },
+        {
+          "q": "What is the difference between RANK() and ROW_NUMBER()?",
+          "options": [
+            "There is none",
+            "RANK gives the same rank to ties and skips numbers, ROW_NUMBER gives every row a unique number",
+            "RANK is faster",
+            "ROW_NUMBER deletes rows"
+          ],
+          "answer": 1,
+          "explain": "RANK shares ranks for equal values and skips the next numbers. ROW_NUMBER never shares."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Indexes and Performance",
+      "goal": "Make queries fast with indexes and check how they run.",
+      "video": {
+        "youtube_id": "OZvR0yULjVE",
+        "title": "What a Table Is and Your First SELECT | Six Minutes: SQL, Part 1",
+        "channel": "Six Minutes"
+      },
+      "steps": [
+        "Add an index on a column you filter often, like email or city.",
+        "Run a query before and after adding the index and compare the time.",
+        "Use EXPLAIN to see how the database runs your query.",
+        "Remove an index you do not need with DROP INDEX."
+      ],
+      "task": "Add indexes to the columns your report queries filter and join on, then test the speed.",
+      "challenge": "Use EXPLAIN on your slowest query and write down what it shows.",
+      "quiz": [
+        {
+          "q": "What is an index?",
+          "options": [
+            "A kind of table",
+            "A lookup structure that helps the database find rows fast, like a book's index",
+            "A backup",
+            "A password"
+          ],
+          "answer": 1,
+          "explain": "An index lets the database jump straight to matching rows instead of scanning the whole table."
+        },
+        {
+          "q": "When should you add an index?",
+          "options": [
+            "On every column",
+            "On columns you often filter, join or sort by",
+            "Never",
+            "Only on text columns"
+          ],
+          "answer": 1,
+          "explain": "Indexes speed up searches on the columns they cover, but they slow down writes, so add them where they help."
+        },
+        {
+          "q": "What does EXPLAIN do?",
+          "options": [
+            "It runs the query",
+            "It shows the plan the database will use to run your query",
+            "It deletes the query",
+            "It counts rows"
+          ],
+          "answer": 1,
+          "explain": "EXPLAIN shows how the database will execute your query, including whether it uses an index."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Database Design: Normalisation",
+      "goal": "Design clean tables with normalisation: one fact, one place.",
+      "video": {
+        "youtube_id": "l8DCPaHc5TQ",
+        "title": "Learn SQL for Data Analysis in one hour",
+        "channel": "Chandoo"
+      },
+      "steps": [
+        "Spot repeated data in a flat table, like the same customer name on every order.",
+        "Split it into two tables linked by an id.",
+        "Check that each table has one job and no repeated facts.",
+        "Draw a simple diagram of your tables and their links."
+      ],
+      "task": "Redesign a messy flat table into two or three clean tables.",
+      "challenge": "Check your shop database: does any fact appear in two places?",
+      "quiz": [
+        {
+          "q": "What is normalisation?",
+          "options": [
+            "Making tables bigger",
+            "Organising tables so each fact lives in one place and is not repeated",
+            "Deleting tables",
+            "Sorting tables"
+          ],
+          "answer": 1,
+          "explain": "Normalisation removes repeated data by splitting tables, so a change in one place updates everywhere."
+        },
+        {
+          "q": "What problem does repeated data cause?",
+          "options": [
+            "It looks bad",
+            "If you update one copy and miss another, the data disagrees with itself",
+            "It is slower always",
+            "It uses less space"
+          ],
+          "answer": 1,
+          "explain": "Repeated data can get out of sync. One copy says Lagos, another says Abuja, and you no longer know the truth."
+        },
+        {
+          "q": "What is a foreign key?",
+          "options": [
+            "A password",
+            "A column that points to the primary key of another table, linking the two",
+            "A kind of index",
+            "A deleted column"
+          ],
+          "answer": 1,
+          "explain": "A foreign key stores another table's primary key, which is how tables link together."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Relationships: One-to-Many and Many-to-Many",
+      "goal": "Model real relationships between tables correctly.",
+      "video": {
+        "youtube_id": "qw--VYLpxG4",
+        "title": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Model one-to-many: one customer has many orders, using a foreign key.",
+        "Model many-to-many: students and courses, using a join table.",
+        "Create the join table with two foreign keys as its primary key.",
+        "Query across the join table to list each student's courses."
+      ],
+      "task": "Add a many-to-many relationship to your shop: products and tags, with a join table.",
+      "challenge": "List each product with its tags using two JOINs.",
+      "quiz": [
+        {
+          "q": "What is a one-to-many relationship?",
+          "options": [
+            "One table",
+            "One row in table A links to many rows in table B, like one customer with many orders",
+            "Many tables",
+            "No link"
+          ],
+          "answer": 1,
+          "explain": "One-to-many means one parent row has many child rows, linked by a foreign key on the child."
+        },
+        {
+          "q": "What is a many-to-many relationship?",
+          "options": [
+            "One row links to one row",
+            "Rows on both sides can link to many rows on the other side, like students and courses",
+            "No link",
+            "One table only"
+          ],
+          "answer": 1,
+          "explain": "Many-to-many means each student takes many courses and each course has many students."
+        },
+        {
+          "q": "What is a join table?",
+          "options": [
+            "A deleted table",
+            "A small table with two foreign keys that links two tables in a many-to-many relationship",
+            "A kind of index",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "A join table holds one row per link, with a foreign key to each side."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project 3: Complete Reporting Database",
+      "goal": "Build a complete reporting database with clean design, views and a report.",
+      "video": {
+        "youtube_id": "HXV3zeQKqGY",
+        "title": "SQL and Databases - A Full Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Design a database for a small business with at least four tables and a many-to-many link.",
+        "Create the tables with primary and foreign keys.",
+        "Add realistic data: at least 20 rows in the main tables.",
+        "Build two views and write a report with five queries that answer business questions."
+      ],
+      "task": "Finish the reporting database, views and report, and check every query runs.",
+      "challenge": "Add an index to the columns your report filters on.",
+      "quiz": [
+        {
+          "q": "What makes a database design complete?",
+          "options": [
+            "Many tables",
+            "Clean tables, correct links, realistic data and queries that answer real questions",
+            "Big tables",
+            "Many indexes"
+          ],
+          "answer": 1,
+          "explain": "A complete design has clean tables, correct relationships, realistic data and useful queries."
+        },
+        {
+          "q": "Why build views for a report?",
+          "options": [
+            "To store data",
+            "So the report queries stay short and readable",
+            "To delete data",
+            "To make it slower"
+          ],
+          "answer": 1,
+          "explain": "Views hide the long joins, so each report query is short and clear."
+        },
+        {
+          "q": "How do you know your report is good?",
+          "options": [
+            "It is long",
+            "Each query answers one real question and the numbers make sense",
+            "It has many charts",
+            "It uses many tables"
+          ],
+          "answer": 1,
+          "explain": "A good report answers real questions with numbers that check out against the data."
+        }
+      ],
+      "project": {
+        "title": "Complete Reporting Database",
+        "brief": "Build a complete reporting database for a small business with at least four tables and a many-to-many link, realistic data, two views, and a report with five queries that answer business questions.",
+        "checks": [
+          "The database has at least four tables with primary and foreign keys.",
+          "It includes a many-to-many relationship with a join table.",
+          "The main tables hold realistic data (at least 20 rows).",
+          "Two views exist and can be queried like tables.",
+          "The report has five queries that answer business questions.",
+          "Every query runs without errors."
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Views",
+      "goal": "Save useful queries as views so you can reuse them.",
+      "video": {
+        "youtube_id": "KBDSJU3cGkc",
+        "title": "Mastering SQL for Web Developers – Full Course",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Create a view that shows each order with customer and product names.",
+        "Query the view like a table with SELECT * FROM order_details.",
+        "Update the underlying data and check the view shows the new data.",
+        "Drop a view you no longer need."
+      ],
+      "task": "Make a view for your best-selling products report and query it.",
+      "challenge": "Make a view that shows monthly sales totals.",
+      "quiz": [
+        {
+          "q": "What is a view?",
+          "options": [
+            "A real table",
+            "A saved query that behaves like a table but stores no data of its own",
+            "A backup",
+            "A chart"
+          ],
+          "answer": 1,
+          "explain": "A view is a saved SELECT. You query it like a table, and it runs the saved query each time."
+        },
+        {
+          "q": "Why use a view?",
+          "options": [
+            "To store data",
+            "To reuse a complex query without rewriting it, and to hide complexity",
+            "To delete data",
+            "To make data faster always"
+          ],
+          "answer": 1,
+          "explain": "Views save you rewriting long joins. They also let you share a simple view while hiding the messy details."
+        },
+        {
+          "q": "Does a view store data?",
+          "options": [
+            "Yes, like a table",
+            "No, it runs its saved query each time you use it",
+            "Only sometimes",
+            "It stores a copy"
+          ],
+          "answer": 1,
+          "explain": "A view stores only the query, not the data. The data is read fresh from the real tables each time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Stored Procedures and Functions",
+      "goal": "Save reusable logic in the database with stored procedures.",
+      "video": {
+        "youtube_id": "26ls5lNiijk",
+        "title": "Learn Relational Database Design",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Write a stored procedure that adds a new order for a customer.",
+        "Call it with different values and check the rows appear.",
+        "Write a function that calculates the total spent by one customer.",
+        "Call the function inside a SELECT."
+      ],
+      "task": "Write a procedure that records a sale and updates the product stock.",
+      "challenge": "Write a function that returns the average order value for a customer.",
+      "quiz": [
+        {
+          "q": "What is a stored procedure?",
+          "options": [
+            "A table",
+            "A saved set of SQL statements you can call by name with values",
+            "A backup",
+            "A kind of index"
+          ],
+          "answer": 1,
+          "explain": "A stored procedure is a saved routine in the database. You call it by name instead of repeating the SQL."
+        },
+        {
+          "q": "Why use stored procedures?",
+          "options": [
+            "To make queries slower",
+            "To reuse logic, keep it in one place and make sure every caller does it the same way",
+            "To delete data",
+            "To hide tables"
+          ],
+          "answer": 1,
+          "explain": "Procedures keep logic in one place. Every app that calls it gets the same behaviour."
+        },
+        {
+          "q": "What is the difference between a procedure and a function?",
+          "options": [
+            "There is none",
+            "A function returns a value you can use in a query, a procedure runs steps and may return nothing",
+            "A function is faster",
+            "A procedure cannot take values"
+          ],
+          "answer": 1,
+          "explain": "A function returns a value, so you can use it inside a SELECT. A procedure runs a set of steps."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Transactions and Data Safety",
+      "goal": "Keep data correct with transactions: all or nothing.",
+      "video": {
+        "youtube_id": "mXW7JHJM34k",
+        "title": "Learn SQL for Analytics",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Start a transaction, insert two related rows, then COMMIT.",
+        "Start another, insert a bad row, then ROLLBACK and check nothing changed.",
+        "Move money between two accounts in one transaction so it never half-happens.",
+        "Explain in plain words why a bank transfer must be a transaction."
+      ],
+      "task": "Write a transaction that records an order and reduces stock, and test the rollback.",
+      "challenge": "Try a transaction with a deliberate error and confirm nothing was saved.",
+      "quiz": [
+        {
+          "q": "What is a transaction?",
+          "options": [
+            "A single query",
+            "A group of changes that succeed together or fail together",
+            "A backup",
+            "A kind of table"
+          ],
+          "answer": 1,
+          "explain": "A transaction wraps several changes. Either all of them happen, or none of them do."
+        },
+        {
+          "q": "What does COMMIT do?",
+          "options": [
+            "It deletes the changes",
+            "It saves the transaction's changes permanently",
+            "It starts a transaction",
+            "It undoes changes"
+          ],
+          "answer": 1,
+          "explain": "COMMIT makes the transaction's changes permanent."
+        },
+        {
+          "q": "What does ROLLBACK do?",
+          "options": [
+            "It saves the changes",
+            "It undoes all changes in the current transaction",
+            "It starts a transaction",
+            "It deletes the table"
+          ],
+          "answer": 1,
+          "explain": "ROLLBACK throws away the transaction's changes, leaving the data as it was."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Backups and Security Basics",
+      "goal": "Protect your data with backups and sensible access control.",
+      "video": {
+        "youtube_id": "WXk7yDqsKxs",
+        "title": "Learn Databases and SQL from Harvard University",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Export your database to a backup file.",
+        "Delete a table, then restore it from the backup.",
+        "Create a read-only user for reports and test that they cannot delete data.",
+        "Write down a simple backup schedule: what to back up and how often."
+      ],
+      "task": "Back up your shop database, test the restore, and write your backup plan.",
+      "challenge": "Create a user who can only read data and test it.",
+      "quiz": [
+        {
+          "q": "Why back up a database?",
+          "options": [
+            "To waste space",
+            "Because hardware fails and mistakes happen, and a backup is the only way to get data back",
+            "To make it faster",
+            "To hide data"
+          ],
+          "answer": 1,
+          "explain": "Without a backup, a deleted table or a failed disk means the data is gone forever."
+        },
+        {
+          "q": "What is the simplest backup?",
+          "options": [
+            "A screenshot",
+            "An export of the database to a file you store somewhere safe",
+            "A copy of the code",
+            "A printout"
+          ],
+          "answer": 1,
+          "explain": "An export dumps the whole database to a file. You can restore from it later."
+        },
+        {
+          "q": "Why give report users read-only access?",
+          "options": [
+            "To annoy them",
+            "So a report can never change or delete data by mistake",
+            "To make reports faster",
+            "To hide data"
+          ],
+          "answer": 1,
+          "explain": "Read-only access means reports can never damage data, even if a query has a mistake."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "SQL in Real Applications",
+      "goal": "See how apps use SQL: connecting, querying and keeping data safe.",
+      "video": {
+        "youtube_id": "-fW2X7fh7Yg",
+        "title": "Learn SQL for Efficient Data Storage and Retrieval",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "Connect a small Python script to your database and run a SELECT.",
+        "Use a parameter in the query instead of pasting values into the SQL text.",
+        "Explain in plain words what SQL injection is and why parameters stop it.",
+        "List the tables your app would need for a simple shop."
+      ],
+      "task": "Write a Python script that connects to your database and prints the top 5 products.",
+      "challenge": "Rewrite a query with a parameter and test it with a tricky input like a quote mark.",
+      "quiz": [
+        {
+          "q": "What is SQL injection?",
+          "options": [
+            "A fast query",
+            "An attack where a user types SQL into a form and the app runs it, letting them read or delete data",
+            "A kind of index",
+            "A backup"
+          ],
+          "answer": 1,
+          "explain": "SQL injection happens when user input is pasted into SQL text. A crafted input can change the query and steal or destroy data."
+        },
+        {
+          "q": "How do parameters stop SQL injection?",
+          "options": [
+            "They make queries faster",
+            "They send the value separately from the SQL, so the database treats it as data, never as code",
+            "They hide the query",
+            "They delete bad input"
+          ],
+          "answer": 1,
+          "explain": "Parameters keep code and data apart. The database never runs a value as SQL."
+        },
+        {
+          "q": "Why should apps never build SQL by joining strings?",
+          "options": [
+            "It is slower",
+            "Because a single quote in the input can break the query or turn it into an attack",
+            "It uses more memory",
+            "It is hard to read"
+          ],
+          "answer": 1,
+          "explain": "Joining strings mixes data with code. One quote can break the query or open the door to injection."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Triggers",
+      "goal": "Make the database react automatically with triggers.",
+      "video": {
+        "youtube_id": "Rgxlx8-jIwo",
+        "title": "SQL JOINs Explained with Real Business Data",
+        "channel": "DataGuy"
+      },
+      "steps": [
+        "Create a trigger that logs every new order into an audit table.",
+        "Make a trigger that updates product stock when an order is inserted.",
+        "Test the trigger by inserting an order and checking the stock.",
+        "Drop a trigger you no longer need."
+      ],
+      "task": "Add a trigger that records every price change in a price history table.",
+      "challenge": "Add a trigger that stops an order when the stock is zero.",
+      "quiz": [
+        {
+          "q": "What is a trigger?",
+          "options": [
+            "A kind of table",
+            "Code the database runs automatically when a row is inserted, updated or deleted",
+            "A backup",
+            "An index"
+          ],
+          "answer": 1,
+          "explain": "A trigger fires on a data change. It can log the change, update another table or block a bad change."
+        },
+        {
+          "q": "Why log changes with a trigger?",
+          "options": [
+            "To make it slower",
+            "So you have a history of who changed what and when",
+            "To hide data",
+            "To delete data"
+          ],
+          "answer": 1,
+          "explain": "An audit log from triggers shows every change, which helps you find mistakes and prove what happened."
+        },
+        {
+          "q": "When should you be careful with triggers?",
+          "options": [
+            "Never",
+            "When they hide important logic where developers cannot see it, making the system hard to understand",
+            "Only on Fridays",
+            "Only for deletes"
+          ],
+          "answer": 1,
+          "explain": "Triggers run invisibly. Too many of them make a database hard to understand and debug."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Common Table Expressions (CTEs)",
+      "goal": "Write clearer complex queries with WITH and CTEs.",
+      "video": {
+        "youtube_id": "OZvR0yULjVE",
+        "title": "What a Table Is and Your First SELECT | Six Minutes: SQL, Part 1",
+        "channel": "Six Minutes"
+      },
+      "steps": [
+        "Write a query with WITH that names a subquery and uses it twice.",
+        "Use a CTE to find the average order value, then list orders above it.",
+        "Chain two CTEs: one for totals per customer, one for the top customers.",
+        "Compare the CTE version with the subquery version for readability."
+      ],
+      "task": "Rewrite your best-selling product query using a CTE.",
+      "challenge": "Use a CTE to find customers who spent more than twice the average.",
+      "quiz": [
+        {
+          "q": "What is a CTE?",
+          "options": [
+            "A kind of table",
+            "A named temporary result you define with WITH and use like a table in your query",
+            "A backup",
+            "An index"
+          ],
+          "answer": 1,
+          "explain": "A CTE is a named query defined with WITH. You can use it in the main query like a table."
+        },
+        {
+          "q": "Why use a CTE instead of a subquery?",
+          "options": [
+            "It is faster always",
+            "It makes complex queries easier to read and lets you reuse the same result twice",
+            "It deletes data",
+            "It sorts data"
+          ],
+          "answer": 1,
+          "explain": "CTEs give a name to a step, so a long query reads like a story instead of nested brackets."
+        },
+        {
+          "q": "Can a CTE call another CTE?",
+          "options": [
+            "No",
+            "Yes, you can define several CTEs separated by commas and use earlier ones in later ones",
+            "Only once",
+            "Only in MySQL"
+          ],
+          "answer": 1,
+          "explain": "You can chain CTEs: define one, then use it in the next, which breaks a hard query into clear steps."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Importing and Exporting Data",
+      "goal": "Move data in and out of your database with files.",
+      "video": {
+        "youtube_id": "l8DCPaHc5TQ",
+        "title": "Learn SQL for Data Analysis in one hour",
+        "channel": "Chandoo"
+      },
+      "steps": [
+        "Export a table to a CSV file.",
+        "Import a CSV file into a new table.",
+        "Check the row count after import to confirm nothing was lost.",
+        "Export your whole database as a backup file."
+      ],
+      "task": "Import a real CSV dataset into a new table and run three queries on it.",
+      "challenge": "Export your shop database and restore it under a different name.",
+      "quiz": [
+        {
+          "q": "Why import data from CSV files?",
+          "options": [
+            "To waste time",
+            "Because real data often arrives as spreadsheets or exports from other systems",
+            "To delete data",
+            "To hide data"
+          ],
+          "answer": 1,
+          "explain": "Real-world data comes as CSVs from other tools. Importing brings it into your database so you can query it."
+        },
+        {
+          "q": "What should you check after an import?",
+          "options": [
+            "Nothing",
+            "The row count, the column types and a few sample rows",
+            "The file size",
+            "The table name"
+          ],
+          "answer": 1,
+          "explain": "After importing, check the row count matches and the data looks right. Imports can silently drop or misread rows."
+        },
+        {
+          "q": "What is the simplest way to back up a whole database?",
+          "options": [
+            "A screenshot",
+            "Export it to a file with the database's dump tool",
+            "Copy the code",
+            "Print it"
+          ],
+          "answer": 1,
+          "explain": "A dump exports the whole database, tables and data, to a file you can restore from later."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone Prep: Plan Your Database Project",
+      "goal": "Review everything, pick your capstone project and plan your demo.",
+      "video": {
+        "youtube_id": "qw--VYLpxG4",
+        "title": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+        "channel": "freeCodeCamp.org"
+      },
+      "steps": [
+        "List the databases you built and pick the most interesting one.",
+        "Write a short plan: the business, the tables, the relationships and the report.",
+        "Practise explaining your design in simple words, as if to a friend.",
+        "Record a short video or write a short post showing your database and report."
+      ],
+      "task": "Write your capstone plan and a one-minute explanation of your database.",
+      "challenge": "Show your report to one person and note their questions, then improve it.",
+      "quiz": [
+        {
+          "q": "What makes a good capstone database?",
+          "options": [
+            "Many tables",
+            "A real business problem, clean design, realistic data and a useful report",
+            "Big tables",
+            "Many indexes"
+          ],
+          "answer": 1,
+          "explain": "A good capstone solves a real problem with clean tables, realistic data and a report someone can use."
+        },
+        {
+          "q": "Why practise explaining your design?",
+          "options": [
+            "To memorise it",
+            "Because explaining simply proves you truly understand it",
+            "To make it longer",
+            "To impress strangers"
+          ],
+          "answer": 1,
+          "explain": "If you can explain your design in simple words, you really understand it. That is what employers look for."
+        },
+        {
+          "q": "What should your capstone plan include?",
+          "options": [
+            "Only the SQL",
+            "The business, the tables, the relationships, the report and how you will show it",
+            "Your password",
+            "Random ideas"
+          ],
+          "answer": 1,
+          "explain": "A plan covers the business problem, the tables and links, the report queries and how you will present it."
+        }
+      ],
+      "project": null
+    }
+  ],
+  "capstone": {
+    "title": "Design and Build a Business Database with Reports",
+    "brief": "Design and build a complete database for a real small business: a shop, a school, a clinic or a gym. It must have at least five tables with correct relationships, realistic data, indexes on the columns you filter on, two views, and a written report with queries that answer real business questions. Present it with a short demo.",
+    "checks": [
+      "The database solves a real business problem and you can explain the business in one sentence.",
+      "It has at least five tables with primary and foreign keys.",
+      "It includes a many-to-many relationship with a join table.",
+      "The tables hold realistic data (at least 30 rows in the main tables).",
+      "Indexes exist on the columns the report filters and joins on.",
+      "Two views exist and the report uses them.",
+      "You can present the design and the report in under five minutes in simple words."
+    ],
+    "deliverables": [
+      "A working database (the SQL file that creates it).",
+      "A diagram or written description of the tables and relationships.",
+      "A written report with at least five queries and findings.",
+      "A short demo video or screenshots showing the queries running.",
+      "A one-page write-up of what you learned in 30 days."
+    ]
+  }
+}

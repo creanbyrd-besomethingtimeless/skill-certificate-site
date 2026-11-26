@@ -1,0 +1,1714 @@
+{
+ "course": {
+  "id": "welding-and-metalwork",
+  "title": "Welding and Metalwork",
+  "level": "Beginner",
+  "tagline": "Cut, join and shape metal into gates, frames and furniture.",
+  "duration_days": 30
+ },
+ "days": [
+  {
+   "day": 1,
+   "week": 1,
+   "title": "Welding Safety: Gear Up",
+   "goal": "Know the safety gear and rules before you strike an arc.",
+   "video": {
+    "youtube_id": "MuWa_PZ-b5Y",
+    "title": "Learn to Weld",
+    "channel": "MOTORZ TV"
+   },
+   "steps": [
+    "Wear a welding helmet, gloves, long sleeves and boots.",
+    "Learn that the arc (the bright light) can burn eyes and skin.",
+    "Work in fresh air: welding smoke is harmful to breathe.",
+    "Keep water and a fire extinguisher close."
+   ],
+   "task": "Put on full safety gear and check every item.",
+   "challenge": "Name every piece of safety gear and what it protects.",
+   "quiz": [
+    {
+     "q": "What is the first thing to put on before welding?",
+     "options": [
+      "Gloves only",
+      "Full safety gear: helmet, gloves, long sleeves, boots",
+      "Sunglasses",
+      "An apron only"
+     ],
+     "answer": 1,
+     "explain": "Full gear protects eyes, skin and feet from arc light, sparks and hot metal."
+    },
+    {
+     "q": "Why is welding smoke dangerous?",
+     "options": [
+      "It smells bad",
+      "It is harmful to breathe and needs fresh air",
+      "It stains clothes",
+      "It makes you sleepy"
+     ],
+     "answer": 1,
+     "explain": "Welding fumes carry metal particles that harm lungs, so work in fresh air."
+    },
+    {
+     "q": "What is the arc in welding?",
+     "options": [
+      "A tool",
+      "The bright light and heat that melts the metal",
+      "A type of rod",
+      "A gas"
+     ],
+     "answer": 1,
+     "explain": "The arc is the electric spark that melts metal so pieces join."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "title": "Welding Tools and Metals",
+   "goal": "Know the welder, rods and the metals you will join.",
+   "video": {
+    "youtube_id": "MuWa_PZ-b5Y",
+    "title": "Learn to Weld",
+    "channel": "MOTORZ TV"
+   },
+   "steps": [
+    "Learn the parts: the welder, the electrode holder and the earth clamp.",
+    "A welding rod (electrode) is the stick that melts to join metal.",
+    "Feel mild steel, the easiest metal for beginners.",
+    "Set up a clean metal workbench."
+   ],
+   "task": "Label the parts of a welder: holder, clamp and dials.",
+   "challenge": "Tell mild steel from aluminium by look and weight.",
+   "quiz": [
+    {
+     "q": "What is the first thing to put on before welding?",
+     "options": [
+      "Gloves only",
+      "Full safety gear: helmet, gloves, long sleeves, boots",
+      "Sunglasses",
+      "An apron only"
+     ],
+     "answer": 1,
+     "explain": "Full gear protects eyes, skin and feet from arc light, sparks and hot metal."
+    },
+    {
+     "q": "Why is welding smoke dangerous?",
+     "options": [
+      "It smells bad",
+      "It is harmful to breathe and needs fresh air",
+      "It stains clothes",
+      "It makes you sleepy"
+     ],
+     "answer": 1,
+     "explain": "Welding fumes carry metal particles that harm lungs, so work in fresh air."
+    },
+    {
+     "q": "What is the arc in welding?",
+     "options": [
+      "A tool",
+      "The bright light and heat that melts the metal",
+      "A type of rod",
+      "A gas"
+     ],
+     "answer": 1,
+     "explain": "The arc is the electric spark that melts metal so pieces join."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "title": "Strike Your First Arc",
+   "goal": "Strike an arc and hold it steady on scrap metal.",
+   "video": {
+    "youtube_id": "MuWa_PZ-b5Y",
+    "title": "Learn to Weld",
+    "channel": "MOTORZ TV"
+   },
+   "steps": [
+    "Clamp the earth lead to your metal piece.",
+    "Tap the rod on the metal like striking a match to start the arc.",
+    "Hold the rod a few millimetres from the metal to keep the arc alive.",
+    "Practise striking the arc ten times in a row."
+   ],
+   "task": "Strike and hold an arc for five seconds on scrap.",
+   "challenge": "Strike the arc first try, five times in a row.",
+   "quiz": [
+    {
+     "q": "What is the first thing to put on before welding?",
+     "options": [
+      "Gloves only",
+      "Full safety gear: helmet, gloves, long sleeves, boots",
+      "Sunglasses",
+      "An apron only"
+     ],
+     "answer": 1,
+     "explain": "Full gear protects eyes, skin and feet from arc light, sparks and hot metal."
+    },
+    {
+     "q": "Why is welding smoke dangerous?",
+     "options": [
+      "It smells bad",
+      "It is harmful to breathe and needs fresh air",
+      "It stains clothes",
+      "It makes you sleepy"
+     ],
+     "answer": 1,
+     "explain": "Welding fumes carry metal particles that harm lungs, so work in fresh air."
+    },
+    {
+     "q": "What is the arc in welding?",
+     "options": [
+      "A tool",
+      "The bright light and heat that melts the metal",
+      "A type of rod",
+      "A gas"
+     ],
+     "answer": 1,
+     "explain": "The arc is the electric spark that melts metal so pieces join."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "title": "Stick Welding Basics",
+   "goal": "Run your first straight weld beads on flat metal.",
+   "video": {
+    "youtube_id": "IZ_EqwNwIIw",
+    "title": "Stick Welding for Beginners",
+    "channel": "Western Welding Academy"
+   },
+   "steps": [
+    "A weld bead is the line of melted metal that joins two pieces.",
+    "Move the rod slowly and steadily along the joint.",
+    "Keep the same angle and distance the whole way.",
+    "Let the bead cool, then chip off the slag (the crust on top)."
+   ],
+   "task": "Run three straight beads on flat metal.",
+   "challenge": "Run a bead that is straight and even from end to end.",
+   "quiz": [
+    {
+     "q": "What is a welding rod?",
+     "options": [
+      "A measuring stick",
+      "The stick that melts to join metal",
+      "A cleaning tool",
+      "A clamp"
+     ],
+     "answer": 1,
+     "explain": "The rod (electrode) melts into the joint to form the weld."
+    },
+    {
+     "q": "What is a weld bead?",
+     "options": [
+      "A necklace",
+      "The line of melted metal that joins two pieces",
+      "A type of rod",
+      "A gas bubble"
+     ],
+     "answer": 1,
+     "explain": "The bead is the raised line of metal left after welding."
+    },
+    {
+     "q": "What is slag?",
+     "options": [
+      "A tool",
+      "The crust that forms on top of a stick weld",
+      "A metal type",
+      "A gas"
+     ],
+     "answer": 1,
+     "explain": "Slag is the crust that covers a stick weld and must be chipped off."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "title": "Weld Beads: Straight and Even",
+   "goal": "Practise beads until they are straight, even and strong.",
+   "video": {
+    "youtube_id": "IZ_EqwNwIIw",
+    "title": "Stick Welding for Beginners",
+    "channel": "Western Welding Academy"
+   },
+   "steps": [
+    "Watch the molten pool (the glowing liquid metal) and follow it.",
+    "Move at a steady speed: too fast makes a thin bead, too slow makes a fat one.",
+    "Keep the rod angle the same.",
+    "Compare your beads and keep the best one."
+   ],
+   "task": "Run five beads and pick the straightest one.",
+   "challenge": "Run a bead with no gaps or holes in it.",
+   "quiz": [
+    {
+     "q": "What is a welding rod?",
+     "options": [
+      "A measuring stick",
+      "The stick that melts to join metal",
+      "A cleaning tool",
+      "A clamp"
+     ],
+     "answer": 1,
+     "explain": "The rod (electrode) melts into the joint to form the weld."
+    },
+    {
+     "q": "What is a weld bead?",
+     "options": [
+      "A necklace",
+      "The line of melted metal that joins two pieces",
+      "A type of rod",
+      "A gas bubble"
+     ],
+     "answer": 1,
+     "explain": "The bead is the raised line of metal left after welding."
+    },
+    {
+     "q": "What is slag?",
+     "options": [
+      "A tool",
+      "The crust that forms on top of a stick weld",
+      "A metal type",
+      "A gas"
+     ],
+     "answer": 1,
+     "explain": "Slag is the crust that covers a stick weld and must be chipped off."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "title": "Join Two Pieces: Butt Joint",
+   "goal": "Weld two flat pieces edge to edge.",
+   "video": {
+    "youtube_id": "IZ_EqwNwIIw",
+    "title": "Stick Welding for Beginners",
+    "channel": "Western Welding Academy"
+   },
+   "steps": [
+    "Line the two pieces up with a tiny gap between them.",
+    "Tack weld (small spot welds) at both ends to hold them.",
+    "Run a bead along the whole joint.",
+    "Check the back: the weld should show through."
+   ],
+   "task": "Weld two plates edge to edge so they hold firm.",
+   "challenge": "Weld a butt joint that does not break when bent.",
+   "quiz": [
+    {
+     "q": "What is a welding rod?",
+     "options": [
+      "A measuring stick",
+      "The stick that melts to join metal",
+      "A cleaning tool",
+      "A clamp"
+     ],
+     "answer": 1,
+     "explain": "The rod (electrode) melts into the joint to form the weld."
+    },
+    {
+     "q": "What is a weld bead?",
+     "options": [
+      "A necklace",
+      "The line of melted metal that joins two pieces",
+      "A type of rod",
+      "A gas bubble"
+     ],
+     "answer": 1,
+     "explain": "The bead is the raised line of metal left after welding."
+    },
+    {
+     "q": "What is slag?",
+     "options": [
+      "A tool",
+      "The crust that forms on top of a stick weld",
+      "A metal type",
+      "A gas"
+     ],
+     "answer": 1,
+     "explain": "Slag is the crust that covers a stick weld and must be chipped off."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "title": "Project: Run Weld Beads on a Practice Plate",
+   "goal": "Fill a practice plate with neat parallel beads.",
+   "video": {
+    "youtube_id": "KHDDtFgF2YU",
+    "title": "How to Strike an Arc: Stick Welding Basics",
+    "channel": "Welding Basics"
+   },
+   "steps": [
+    "Clean the plate and clamp it flat.",
+    "Run beads in straight parallel lines across the plate.",
+    "Keep each bead the same width and spacing.",
+    "Chip the slag and inspect every bead."
+   ],
+   "task": "Finish a plate covered in neat, even beads.",
+   "challenge": "Fill the plate with beads that are all the same width.",
+   "quiz": [
+    {
+     "q": "How do you start an arc?",
+     "options": [
+      "Hit the metal hard",
+      "Tap the rod like striking a match",
+      "Press a button",
+      "Heat the rod"
+     ],
+     "answer": 1,
+     "explain": "A light tap like striking a match starts the arc."
+    },
+    {
+     "q": "How far should the rod sit from the metal?",
+     "options": [
+      "Touching it",
+      "A few millimetres away",
+      "10cm away",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "A small gap keeps the arc alive; touching it kills the arc."
+    },
+    {
+     "q": "What happens if you move the rod too fast?",
+     "options": [
+      "The bead is too fat",
+      "The bead is thin and weak",
+      "Nothing",
+      "It gets hotter"
+     ],
+     "answer": 1,
+     "explain": "Moving too fast leaves too little metal, so the bead is thin and weak."
+    }
+   ],
+   "project": {
+    "title": "Run Weld Beads on a Practice Plate",
+    "brief": "Fill a practice plate with neat parallel weld beads.",
+    "checks": [
+     "Plate cleaned and clamped",
+     "Beads straight and parallel",
+     "Beads even in width",
+     "Slag chipped off cleanly",
+     "No holes in the beads",
+     "Best bead picked and kept"
+    ]
+   }
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "title": "Tack Welding",
+   "goal": "Use tack welds to hold pieces in place before the full weld.",
+   "video": {
+    "youtube_id": "KHDDtFgF2YU",
+    "title": "How to Strike an Arc: Stick Welding Basics",
+    "channel": "Welding Basics"
+   },
+   "steps": [
+    "A tack weld is a small quick weld that holds parts together.",
+    "Tack at the ends and the middle of a joint.",
+    "Check the pieces are square before you tack.",
+    "Tack, check, then weld fully."
+   ],
+   "task": "Tack a frame square before welding it fully.",
+   "challenge": "Tack a frame so it stays square after welding.",
+   "quiz": [
+    {
+     "q": "How do you start an arc?",
+     "options": [
+      "Hit the metal hard",
+      "Tap the rod like striking a match",
+      "Press a button",
+      "Heat the rod"
+     ],
+     "answer": 1,
+     "explain": "A light tap like striking a match starts the arc."
+    },
+    {
+     "q": "How far should the rod sit from the metal?",
+     "options": [
+      "Touching it",
+      "A few millimetres away",
+      "10cm away",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "A small gap keeps the arc alive; touching it kills the arc."
+    },
+    {
+     "q": "What happens if you move the rod too fast?",
+     "options": [
+      "The bead is too fat",
+      "The bead is thin and weak",
+      "Nothing",
+      "It gets hotter"
+     ],
+     "answer": 1,
+     "explain": "Moving too fast leaves too little metal, so the bead is thin and weak."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "title": "Weld a Corner Joint",
+   "goal": "Weld two pieces at a right angle.",
+   "video": {
+    "youtube_id": "KHDDtFgF2YU",
+    "title": "How to Strike an Arc: Stick Welding Basics",
+    "channel": "Welding Basics"
+   },
+   "steps": [
+    "Set the pieces at 90 degrees and clamp them.",
+    "Tack both ends, then check the angle with a square.",
+    "Run a bead along the inside corner.",
+    "Check the joint is strong and square."
+   ],
+   "task": "Weld a corner joint that is square and strong.",
+   "challenge": "Weld a corner with no gaps at the ends.",
+   "quiz": [
+    {
+     "q": "How do you start an arc?",
+     "options": [
+      "Hit the metal hard",
+      "Tap the rod like striking a match",
+      "Press a button",
+      "Heat the rod"
+     ],
+     "answer": 1,
+     "explain": "A light tap like striking a match starts the arc."
+    },
+    {
+     "q": "How far should the rod sit from the metal?",
+     "options": [
+      "Touching it",
+      "A few millimetres away",
+      "10cm away",
+      "It does not matter"
+     ],
+     "answer": 1,
+     "explain": "A small gap keeps the arc alive; touching it kills the arc."
+    },
+    {
+     "q": "What happens if you move the rod too fast?",
+     "options": [
+      "The bead is too fat",
+      "The bead is thin and weak",
+      "Nothing",
+      "It gets hotter"
+     ],
+     "answer": 1,
+     "explain": "Moving too fast leaves too little metal, so the bead is thin and weak."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "title": "Stick Welding (SMAW) 101",
+   "goal": "Understand stick welding: rods, current and settings.",
+   "video": {
+    "youtube_id": "WqmWBn6XNpM",
+    "title": "Stick Welding (SMAW) 101",
+    "channel": "KHM Megatools"
+   },
+   "steps": [
+    "SMAW is the full name for stick welding.",
+    "Learn that thicker rods need more current (power).",
+    "Set the welder to the right amps for your rod size.",
+    "Practise with the settings from the rod box."
+   ],
+   "task": "Set a welder to the right amps for a rod size.",
+   "challenge": "Explain what SMAW means in plain words.",
+   "quiz": [
+    {
+     "q": "What does SMAW stand for?",
+     "options": [
+      "A brand",
+      "Shielded Metal Arc Welding, the full name for stick welding",
+      "A rod size",
+      "A gas type"
+     ],
+     "answer": 1,
+     "explain": "SMAW is stick welding: a rod shielded by its own coating."
+    },
+    {
+     "q": "What happens if the current is too high?",
+     "options": [
+      "The weld is stronger",
+      "It burns holes in the metal",
+      "Nothing",
+      "It welds faster only"
+     ],
+     "answer": 1,
+     "explain": "Too much current melts through thin metal and leaves holes."
+    },
+    {
+     "q": "Why test settings on scrap first?",
+     "options": [
+      "To waste metal",
+      "So the real piece is welded with the right settings",
+      "It is the law",
+      "To warm up"
+     ],
+     "answer": 1,
+     "explain": "Scrap lets you dial in the settings before touching the real work."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "title": "Rod Sizes and Current",
+   "goal": "Pick the right rod and current for the metal thickness.",
+   "video": {
+    "youtube_id": "WqmWBn6XNpM",
+    "title": "Stick Welding (SMAW) 101",
+    "channel": "KHM Megatools"
+   },
+   "steps": [
+    "Thin metal needs a thin rod and low current.",
+    "Thick metal needs a thick rod and higher current.",
+    "Too much current burns holes; too little makes a weak weld.",
+    "Test on scrap before you weld the real piece."
+   ],
+   "task": "Pick the right rod and amps for three metal thicknesses.",
+   "challenge": "Weld thin metal without burning a hole in it.",
+   "quiz": [
+    {
+     "q": "What does SMAW stand for?",
+     "options": [
+      "A brand",
+      "Shielded Metal Arc Welding, the full name for stick welding",
+      "A rod size",
+      "A gas type"
+     ],
+     "answer": 1,
+     "explain": "SMAW is stick welding: a rod shielded by its own coating."
+    },
+    {
+     "q": "What happens if the current is too high?",
+     "options": [
+      "The weld is stronger",
+      "It burns holes in the metal",
+      "Nothing",
+      "It welds faster only"
+     ],
+     "answer": 1,
+     "explain": "Too much current melts through thin metal and leaves holes."
+    },
+    {
+     "q": "Why test settings on scrap first?",
+     "options": [
+      "To waste metal",
+      "So the real piece is welded with the right settings",
+      "It is the law",
+      "To warm up"
+     ],
+     "answer": 1,
+     "explain": "Scrap lets you dial in the settings before touching the real work."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "title": "Weld a Small Frame",
+   "goal": "Weld four bars into a square frame.",
+   "video": {
+    "youtube_id": "WqmWBn6XNpM",
+    "title": "Stick Welding (SMAW) 101",
+    "channel": "KHM Megatools"
+   },
+   "steps": [
+    "Cut four bars to size with a grinder or saw.",
+    "Tack the corners, check the frame is square.",
+    "Weld each corner fully.",
+    "Check the frame is flat and square."
+   ],
+   "task": "Weld a square frame that is flat and true.",
+   "challenge": "Weld a frame with all four corners square.",
+   "quiz": [
+    {
+     "q": "What does SMAW stand for?",
+     "options": [
+      "A brand",
+      "Shielded Metal Arc Welding, the full name for stick welding",
+      "A rod size",
+      "A gas type"
+     ],
+     "answer": 1,
+     "explain": "SMAW is stick welding: a rod shielded by its own coating."
+    },
+    {
+     "q": "What happens if the current is too high?",
+     "options": [
+      "The weld is stronger",
+      "It burns holes in the metal",
+      "Nothing",
+      "It welds faster only"
+     ],
+     "answer": 1,
+     "explain": "Too much current melts through thin metal and leaves holes."
+    },
+    {
+     "q": "Why test settings on scrap first?",
+     "options": [
+      "To waste metal",
+      "So the real piece is welded with the right settings",
+      "It is the law",
+      "To warm up"
+     ],
+     "answer": 1,
+     "explain": "Scrap lets you dial in the settings before touching the real work."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "title": "Stick Welding Practice",
+   "goal": "Practise stick welding until your beads are neat.",
+   "video": {
+    "youtube_id": "hytW79WlPb0",
+    "title": "Stick Welding Basics",
+    "channel": "Welding Basics"
+   },
+   "steps": [
+    "Run beads on flat, then on a corner joint.",
+    "Practise starting and stopping cleanly.",
+    "Chip slag and look for holes (porosity) in your beads.",
+    "Repeat your weakest bead until it improves."
+   ],
+   "task": "Run ten beads and keep your three best.",
+   "challenge": "Run a bead with no holes in it at all.",
+   "quiz": [
+    {
+     "q": "Why practise beads on flat metal first?",
+     "options": [
+      "It is easy",
+      "Flat beads teach speed, angle and distance before joints",
+      "It looks nice",
+      "It saves rods"
+     ],
+     "answer": 1,
+     "explain": "Flat practice builds the hand control every joint needs."
+    },
+    {
+     "q": "What are holes in a weld called?",
+     "options": [
+      "Cracks",
+      "Porosity",
+      "Slag",
+      "Beads"
+     ],
+     "answer": 1,
+     "explain": "Porosity is tiny holes from gas trapped in the weld, often from dirty metal."
+    },
+    {
+     "q": "What causes porosity in a weld?",
+     "options": [
+      "Too much current",
+      "Dirty metal or damp rods",
+      "Moving too slow",
+      "Cold weather"
+     ],
+     "answer": 1,
+     "explain": "Rust, paint and damp rods trap gas in the weld and leave holes."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "title": "Project: Weld a Small Metal Frame",
+   "goal": "Weld a small frame for a table or stool.",
+   "video": {
+    "youtube_id": "hytW79WlPb0",
+    "title": "Stick Welding Basics",
+    "channel": "Welding Basics"
+   },
+   "steps": [
+    "Cut the bars to your plan.",
+    "Tack, check square, then weld fully.",
+    "Grind the welds smooth where hands will touch.",
+    "Test the frame: it should hold weight without bending."
+   ],
+   "task": "Finish a small welded frame, square and strong.",
+   "challenge": "Build a frame that holds your weight.",
+   "quiz": [
+    {
+     "q": "Why practise beads on flat metal first?",
+     "options": [
+      "It is easy",
+      "Flat beads teach speed, angle and distance before joints",
+      "It looks nice",
+      "It saves rods"
+     ],
+     "answer": 1,
+     "explain": "Flat practice builds the hand control every joint needs."
+    },
+    {
+     "q": "What are holes in a weld called?",
+     "options": [
+      "Cracks",
+      "Porosity",
+      "Slag",
+      "Beads"
+     ],
+     "answer": 1,
+     "explain": "Porosity is tiny holes from gas trapped in the weld, often from dirty metal."
+    },
+    {
+     "q": "What causes porosity in a weld?",
+     "options": [
+      "Too much current",
+      "Dirty metal or damp rods",
+      "Moving too slow",
+      "Cold weather"
+     ],
+     "answer": 1,
+     "explain": "Rust, paint and damp rods trap gas in the weld and leave holes."
+    }
+   ],
+   "project": {
+    "title": "Weld a Small Metal Frame",
+    "brief": "Weld a small frame for a table or stool, square and strong.",
+    "checks": [
+     "Bars cut to size",
+     "Corners tacked square",
+     "Welds full and strong",
+     "Frame flat and square",
+     "Welds ground smooth",
+     "Frame holds weight"
+    ]
+   }
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "title": "MIG Welding Basics",
+   "goal": "Learn MIG welding: wire feed, gas and settings.",
+   "video": {
+    "youtube_id": "hytW79WlPb0",
+    "title": "Stick Welding Basics",
+    "channel": "Welding Basics"
+   },
+   "steps": [
+    "MIG welding feeds a wire through a gun while gas shields the weld.",
+    "Learn the parts: the gun, the wire spool and the gas bottle.",
+    "Set the wire speed and voltage for your metal thickness.",
+    "Practise on scrap before the real piece."
+   ],
+   "task": "Set up a MIG welder and run a bead on scrap.",
+   "challenge": "Explain how MIG is different from stick welding.",
+   "quiz": [
+    {
+     "q": "Why practise beads on flat metal first?",
+     "options": [
+      "It is easy",
+      "Flat beads teach speed, angle and distance before joints",
+      "It looks nice",
+      "It saves rods"
+     ],
+     "answer": 1,
+     "explain": "Flat practice builds the hand control every joint needs."
+    },
+    {
+     "q": "What are holes in a weld called?",
+     "options": [
+      "Cracks",
+      "Porosity",
+      "Slag",
+      "Beads"
+     ],
+     "answer": 1,
+     "explain": "Porosity is tiny holes from gas trapped in the weld, often from dirty metal."
+    },
+    {
+     "q": "What causes porosity in a weld?",
+     "options": [
+      "Too much current",
+      "Dirty metal or damp rods",
+      "Moving too slow",
+      "Cold weather"
+     ],
+     "answer": 1,
+     "explain": "Rust, paint and damp rods trap gas in the weld and leave holes."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "title": "MIG Beads on Flat Metal",
+   "goal": "Run neat MIG beads on flat metal.",
+   "video": {
+    "youtube_id": "gc9fBVq9NlE",
+    "title": "MIG Welding Basics For Beginners",
+    "channel": "TimWelds"
+   },
+   "steps": [
+    "Hold the gun at a steady angle and distance.",
+    "Pull the trigger and move at a steady speed.",
+    "Listen for a steady crackle: that is the sound of a good MIG weld.",
+    "Check the bead is even with no holes."
+   ],
+   "task": "Run five neat MIG beads on flat metal.",
+   "challenge": "Run a MIG bead that sounds like steady bacon frying.",
+   "quiz": [
+    {
+     "q": "How does MIG welding work?",
+     "options": [
+      "A rod melts by hand",
+      "A wire feeds through a gun while gas shields the weld",
+      "Two metals are glued",
+      "Heat from a flame"
+     ],
+     "answer": 1,
+     "explain": "MIG feeds wire automatically and shields the weld with gas."
+    },
+    {
+     "q": "What sound does a good MIG weld make?",
+     "options": [
+      "Silence",
+      "A steady crackle like bacon frying",
+      "A loud bang",
+      "A hiss"
+     ],
+     "answer": 1,
+     "explain": "A steady crackle means the wire speed and voltage are right."
+    },
+    {
+     "q": "What does the gas do in MIG welding?",
+     "options": [
+      "Makes it hotter",
+      "Shields the hot metal from air so the weld stays clean",
+      "Cools the metal",
+      "Adds colour"
+     ],
+     "answer": 1,
+     "explain": "Shielding gas keeps air away so the weld does not fill with holes."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "title": "MIG Joints",
+   "goal": "Weld butt and corner joints with MIG.",
+   "video": {
+    "youtube_id": "gc9fBVq9NlE",
+    "title": "MIG Welding Basics For Beginners",
+    "channel": "TimWelds"
+   },
+   "steps": [
+    "Tack the pieces, check square, then weld.",
+    "Use short steady passes, not one long rush.",
+    "Let the weld cool between passes on thin metal.",
+    "Check the back of the joint for full penetration (the weld reaching through)."
+   ],
+   "task": "MIG weld a butt joint and a corner joint.",
+   "challenge": "Weld a joint that holds when you bend it.",
+   "quiz": [
+    {
+     "q": "How does MIG welding work?",
+     "options": [
+      "A rod melts by hand",
+      "A wire feeds through a gun while gas shields the weld",
+      "Two metals are glued",
+      "Heat from a flame"
+     ],
+     "answer": 1,
+     "explain": "MIG feeds wire automatically and shields the weld with gas."
+    },
+    {
+     "q": "What sound does a good MIG weld make?",
+     "options": [
+      "Silence",
+      "A steady crackle like bacon frying",
+      "A loud bang",
+      "A hiss"
+     ],
+     "answer": 1,
+     "explain": "A steady crackle means the wire speed and voltage are right."
+    },
+    {
+     "q": "What does the gas do in MIG welding?",
+     "options": [
+      "Makes it hotter",
+      "Shields the hot metal from air so the weld stays clean",
+      "Cools the metal",
+      "Adds colour"
+     ],
+     "answer": 1,
+     "explain": "Shielding gas keeps air away so the weld does not fill with holes."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "title": "MIG vs Stick: Which to Use",
+   "goal": "Know when to use MIG and when to use stick.",
+   "video": {
+    "youtube_id": "gc9fBVq9NlE",
+    "title": "MIG Welding Basics For Beginners",
+    "channel": "TimWelds"
+   },
+   "steps": [
+    "MIG is faster and cleaner on thin metal indoors.",
+    "Stick works outdoors in wind and on rusty metal.",
+    "MIG needs gas and a clean surface.",
+    "Choose the right process for each job."
+   ],
+   "task": "Pick the right welding process for three different jobs.",
+   "challenge": "Explain MIG vs stick to a friend in plain words.",
+   "quiz": [
+    {
+     "q": "How does MIG welding work?",
+     "options": [
+      "A rod melts by hand",
+      "A wire feeds through a gun while gas shields the weld",
+      "Two metals are glued",
+      "Heat from a flame"
+     ],
+     "answer": 1,
+     "explain": "MIG feeds wire automatically and shields the weld with gas."
+    },
+    {
+     "q": "What sound does a good MIG weld make?",
+     "options": [
+      "Silence",
+      "A steady crackle like bacon frying",
+      "A loud bang",
+      "A hiss"
+     ],
+     "answer": 1,
+     "explain": "A steady crackle means the wire speed and voltage are right."
+    },
+    {
+     "q": "What does the gas do in MIG welding?",
+     "options": [
+      "Makes it hotter",
+      "Shields the hot metal from air so the weld stays clean",
+      "Cools the metal",
+      "Adds colour"
+     ],
+     "answer": 1,
+     "explain": "Shielding gas keeps air away so the weld does not fill with holes."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "title": "Project: MIG Weld a Small Table Frame",
+   "goal": "MIG weld a small table frame.",
+   "video": {
+    "youtube_id": "cB4irRaB_6s",
+    "title": "MIG Welding Basics For Beginners",
+    "channel": "Make It Kustom"
+   },
+   "steps": [
+    "Cut the bars to your plan.",
+    "Tack, check square, then MIG weld each joint.",
+    "Grind the welds smooth.",
+    "Test the frame for strength and squareness."
+   ],
+   "task": "Finish a MIG-welded table frame, square and strong.",
+   "challenge": "Build the frame with clean welds and no holes.",
+   "quiz": [
+    {
+     "q": "When is MIG better than stick?",
+     "options": [
+      "Outdoors in wind",
+      "On clean thin metal indoors",
+      "On rusty metal",
+      "Underwater"
+     ],
+     "answer": 1,
+     "explain": "MIG is fast and clean on thin clean metal indoors."
+    },
+    {
+     "q": "When is stick better than MIG?",
+     "options": [
+      "On thin clean metal",
+      "Outdoors in wind or on rusty metal",
+      "On aluminium only",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Stick works in wind and on dirty metal where MIG gas would blow away."
+    },
+    {
+     "q": "What is full penetration in a weld?",
+     "options": [
+      "A deep cut",
+      "The weld reaching right through the joint",
+      "A thick bead",
+      "A long weld"
+     ],
+     "answer": 1,
+     "explain": "Full penetration means the weld metal reaches through the whole joint."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "title": "Clean Metal Before Welding",
+   "goal": "Clean metal so your welds are strong, not full of holes.",
+   "video": {
+    "youtube_id": "cB4irRaB_6s",
+    "title": "MIG Welding Basics For Beginners",
+    "channel": "Make It Kustom"
+   },
+   "steps": [
+    "Grind off rust, paint and dirt from the joint area.",
+    "Wipe the metal with a clean cloth.",
+    "Learn that dirty metal makes weak welds full of holes.",
+    "Clean both sides of every joint before you weld."
+   ],
+   "task": "Clean a rusty piece until it shines, then weld it.",
+   "challenge": "Tell a clean weld from a dirty one by looking.",
+   "quiz": [
+    {
+     "q": "When is MIG better than stick?",
+     "options": [
+      "Outdoors in wind",
+      "On clean thin metal indoors",
+      "On rusty metal",
+      "Underwater"
+     ],
+     "answer": 1,
+     "explain": "MIG is fast and clean on thin clean metal indoors."
+    },
+    {
+     "q": "When is stick better than MIG?",
+     "options": [
+      "On thin clean metal",
+      "Outdoors in wind or on rusty metal",
+      "On aluminium only",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Stick works in wind and on dirty metal where MIG gas would blow away."
+    },
+    {
+     "q": "What is full penetration in a weld?",
+     "options": [
+      "A deep cut",
+      "The weld reaching right through the joint",
+      "A thick bead",
+      "A long weld"
+     ],
+     "answer": 1,
+     "explain": "Full penetration means the weld metal reaches through the whole joint."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "title": "Grinding and Finishing Welds",
+   "goal": "Grind welds smooth and safe to touch.",
+   "video": {
+    "youtube_id": "cB4irRaB_6s",
+    "title": "MIG Welding Basics For Beginners",
+    "channel": "Make It Kustom"
+   },
+   "steps": [
+    "Wear glasses and gloves when grinding.",
+    "Grind the high spots flat with a flap disc.",
+    "Round sharp edges so no one gets cut.",
+    "Check the finished weld is smooth and strong."
+   ],
+   "task": "Grind a weld smooth without thinning the metal.",
+   "challenge": "Finish a weld so it feels smooth to the touch.",
+   "quiz": [
+    {
+     "q": "When is MIG better than stick?",
+     "options": [
+      "Outdoors in wind",
+      "On clean thin metal indoors",
+      "On rusty metal",
+      "Underwater"
+     ],
+     "answer": 1,
+     "explain": "MIG is fast and clean on thin clean metal indoors."
+    },
+    {
+     "q": "When is stick better than MIG?",
+     "options": [
+      "On thin clean metal",
+      "Outdoors in wind or on rusty metal",
+      "On aluminium only",
+      "Never"
+     ],
+     "answer": 1,
+     "explain": "Stick works in wind and on dirty metal where MIG gas would blow away."
+    },
+    {
+     "q": "What is full penetration in a weld?",
+     "options": [
+      "A deep cut",
+      "The weld reaching right through the joint",
+      "A thick bead",
+      "A long weld"
+     ],
+     "answer": 1,
+     "explain": "Full penetration means the weld metal reaches through the whole joint."
+    }
+   ],
+   "project": {
+    "title": "MIG Weld a Small Table Frame",
+    "brief": "MIG weld a table frame, square, strong and clean.",
+    "checks": [
+     "Bars cut to plan",
+     "Joints tacked square",
+     "MIG welds neat with no holes",
+     "Frame square and flat",
+     "Welds ground smooth",
+     "Frame holds weight"
+    ]
+   }
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "title": "Cut Metal Safely",
+   "goal": "Cut metal straight with a grinder or saw.",
+   "video": {
+    "youtube_id": "FF_9qGJnXRU",
+    "title": "Clean Metal Surfaces Before Welding",
+    "channel": "Metalwork Tutorials"
+   },
+   "steps": [
+    "Mark the cut line clearly.",
+    "Clamp the metal firmly before you cut.",
+    "Cut slowly and let the tool do the work.",
+    "File the cut edge smooth."
+   ],
+   "task": "Cut four bars to exact lengths with clean ends.",
+   "challenge": "Cut a bar square with less than 2mm of error.",
+   "quiz": [
+    {
+     "q": "Why clean metal before welding?",
+     "options": [
+      "For looks",
+      "Dirty metal makes weak welds full of holes",
+      "It saves rods",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Rust and paint trap gas and weaken the weld."
+    },
+    {
+     "q": "What should you grind off before welding?",
+     "options": [
+      "The whole piece",
+      "Rust, paint and dirt from the joint area",
+      "The edges only",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "Only the joint area needs to be clean and shiny for a strong weld."
+    },
+    {
+     "q": "Why grind welds smooth?",
+     "options": [
+      "For looks only",
+      "So hands do not get cut and the piece looks finished",
+      "To make it weaker",
+      "To save paint"
+     ],
+     "answer": 1,
+     "explain": "Smooth welds are safe to touch and take paint evenly."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "title": "Build a Metal Gate Frame",
+   "goal": "Plan and build a small metal gate frame.",
+   "video": {
+    "youtube_id": "FF_9qGJnXRU",
+    "title": "Clean Metal Surfaces Before Welding",
+    "channel": "Metalwork Tutorials"
+   },
+   "steps": [
+    "Measure the opening the gate must fit.",
+    "Draw the frame with its bars and diagonal brace.",
+    "Cut the bars and tack the frame square.",
+    "Weld fully and check it fits the opening."
+   ],
+   "task": "Build a gate frame that fits its opening.",
+   "challenge": "Build a gate frame that is square and does not sag.",
+   "quiz": [
+    {
+     "q": "Why clean metal before welding?",
+     "options": [
+      "For looks",
+      "Dirty metal makes weak welds full of holes",
+      "It saves rods",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Rust and paint trap gas and weaken the weld."
+    },
+    {
+     "q": "What should you grind off before welding?",
+     "options": [
+      "The whole piece",
+      "Rust, paint and dirt from the joint area",
+      "The edges only",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "Only the joint area needs to be clean and shiny for a strong weld."
+    },
+    {
+     "q": "Why grind welds smooth?",
+     "options": [
+      "For looks only",
+      "So hands do not get cut and the piece looks finished",
+      "To make it weaker",
+      "To save paint"
+     ],
+     "answer": 1,
+     "explain": "Smooth welds are safe to touch and take paint evenly."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "title": "Gate Hinges and Latches",
+   "goal": "Fit hinges and a latch so a gate swings and shuts well.",
+   "video": {
+    "youtube_id": "FF_9qGJnXRU",
+    "title": "Clean Metal Surfaces Before Welding",
+    "channel": "Metalwork Tutorials"
+   },
+   "steps": [
+    "Weld hinge plates to the frame and the post.",
+    "Hang the gate and check it swings freely.",
+    "Fit a latch that clicks shut.",
+    "Adjust until the gate closes without lifting."
+   ],
+   "task": "Fit hinges and a latch on a practice gate.",
+   "challenge": "Hang a gate that swings and shuts first time.",
+   "quiz": [
+    {
+     "q": "Why clean metal before welding?",
+     "options": [
+      "For looks",
+      "Dirty metal makes weak welds full of holes",
+      "It saves rods",
+      "It is faster"
+     ],
+     "answer": 1,
+     "explain": "Rust and paint trap gas and weaken the weld."
+    },
+    {
+     "q": "What should you grind off before welding?",
+     "options": [
+      "The whole piece",
+      "Rust, paint and dirt from the joint area",
+      "The edges only",
+      "Nothing"
+     ],
+     "answer": 1,
+     "explain": "Only the joint area needs to be clean and shiny for a strong weld."
+    },
+    {
+     "q": "Why grind welds smooth?",
+     "options": [
+      "For looks only",
+      "So hands do not get cut and the piece looks finished",
+      "To make it weaker",
+      "To save paint"
+     ],
+     "answer": 1,
+     "explain": "Smooth welds are safe to touch and take paint evenly."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "title": "Steel Door Frames",
+   "goal": "Weld a steel door frame square and strong.",
+   "video": {
+    "youtube_id": "NUhkw0ikr-g",
+    "title": "How to Build a 15' Metal Property Gate",
+    "channel": "Wilker Do's"
+   },
+   "steps": [
+    "Cut the frame pieces to size.",
+    "Tack the corners and check square with diagonals.",
+    "Weld fully and grind the corners smooth.",
+    "Test the frame with a door: it should fit with an even gap."
+   ],
+   "task": "Weld a door frame that fits a door evenly.",
+   "challenge": "Weld a frame with even gaps all round the door.",
+   "quiz": [
+    {
+     "q": "Why add a diagonal brace to a gate frame?",
+     "options": [
+      "For looks",
+      "To stop the gate sagging",
+      "To make it heavier",
+      "To hold the latch"
+     ],
+     "answer": 1,
+     "explain": "A diagonal brace stops a rectangular frame sagging under its own weight."
+    },
+    {
+     "q": "How do you check a frame is square?",
+     "options": [
+      "Guess",
+      "Measure both diagonals: equal means square",
+      "Weigh it",
+      "Look at it"
+     ],
+     "answer": 1,
+     "explain": "Equal diagonals prove the frame is square."
+    },
+    {
+     "q": "Why tack before welding fully?",
+     "options": [
+      "To save rods",
+      "To hold parts in place and check square first",
+      "It looks nice",
+      "To cool the metal"
+     ],
+     "answer": 1,
+     "explain": "Tacks hold the shape so you can check square before the full weld locks it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "title": "Price a Welding Job",
+   "goal": "Price a welding job from metal, time and a fair profit.",
+   "video": {
+    "youtube_id": "NUhkw0ikr-g",
+    "title": "How to Build a 15' Metal Property Gate",
+    "channel": "Wilker Do's"
+   },
+   "steps": [
+    "List the metal, rods, gas and discs the job needs.",
+    "Time the job and value your hours fairly.",
+    "Add 20 percent profit and round to a clean price.",
+    "Write a simple quote a customer can understand."
+   ],
+   "task": "Write a clear quote for a small gate, parts and labour shown.",
+   "challenge": "Price a table frame fairly.",
+   "quiz": [
+    {
+     "q": "Why add a diagonal brace to a gate frame?",
+     "options": [
+      "For looks",
+      "To stop the gate sagging",
+      "To make it heavier",
+      "To hold the latch"
+     ],
+     "answer": 1,
+     "explain": "A diagonal brace stops a rectangular frame sagging under its own weight."
+    },
+    {
+     "q": "How do you check a frame is square?",
+     "options": [
+      "Guess",
+      "Measure both diagonals: equal means square",
+      "Weigh it",
+      "Look at it"
+     ],
+     "answer": 1,
+     "explain": "Equal diagonals prove the frame is square."
+    },
+    {
+     "q": "Why tack before welding fully?",
+     "options": [
+      "To save rods",
+      "To hold parts in place and check square first",
+      "It looks nice",
+      "To cool the metal"
+     ],
+     "answer": 1,
+     "explain": "Tacks hold the shape so you can check square before the full weld locks it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "title": "Hang a Metal Gate",
+   "goal": "Hang a gate frame on hinges so it swings smoothly.",
+   "video": {
+    "youtube_id": "NUhkw0ikr-g",
+    "title": "How to Build a 15' Metal Property Gate",
+    "channel": "Wilker Do's"
+   },
+   "steps": [
+    "Check the frame is square before you hang it.",
+    "Fit hinges to the post first, then to the gate.",
+    "Hang the gate and check it swings without scraping.",
+    "Fit a latch that closes easily."
+   ],
+   "task": "Hang a practice gate so it swings smoothly.",
+   "challenge": "Hang a gate that does not sag.",
+   "quiz": [
+    {
+     "q": "Why add a diagonal brace to a gate frame?",
+     "options": [
+      "For looks",
+      "To stop the gate sagging",
+      "To make it heavier",
+      "To hold the latch"
+     ],
+     "answer": 1,
+     "explain": "A diagonal brace stops a rectangular frame sagging under its own weight."
+    },
+    {
+     "q": "How do you check a frame is square?",
+     "options": [
+      "Guess",
+      "Measure both diagonals: equal means square",
+      "Weigh it",
+      "Look at it"
+     ],
+     "answer": 1,
+     "explain": "Equal diagonals prove the frame is square."
+    },
+    {
+     "q": "Why tack before welding fully?",
+     "options": [
+      "To save rods",
+      "To hold parts in place and check square first",
+      "It looks nice",
+      "To cool the metal"
+     ],
+     "answer": 1,
+     "explain": "Tacks hold the shape so you can check square before the full weld locks it."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "title": "Write a Welding Quote",
+   "goal": "Write a clear quote for a welding job.",
+   "video": {
+    "youtube_id": "Qw8sNct0Glo",
+    "title": "How to Weld Steel Door Frames",
+    "channel": "Steel Door Institute"
+   },
+   "steps": [
+    "List the metal, rods and discs you need and their cost.",
+    "Add your time at a fair hourly rate.",
+    "Add profit and write the total clearly.",
+    "Write what the quote covers so the customer understands."
+   ],
+   "task": "Write a quote for a small gate frame.",
+   "challenge": "Quote a job you have never done before.",
+   "quiz": [
+    {
+     "q": "What should a welding quote include?",
+     "options": [
+      "Only the metal price",
+      "Metal, rods, gas, discs, time and profit",
+      "Your name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real quote covers materials, time and profit."
+    },
+    {
+     "q": "Why grind welds before painting?",
+     "options": [
+      "To waste time",
+      "So paint sticks to smooth clean metal",
+      "To make it heavier",
+      "To change the colour"
+     ],
+     "answer": 1,
+     "explain": "Paint sticks best to clean smooth metal, not rough slag."
+    },
+    {
+     "q": "What is the best way to get welding customers?",
+     "options": [
+      "Wait",
+      "Do good work and let happy customers tell others",
+      "Charge the most",
+      "Hide your prices"
+     ],
+     "answer": 1,
+     "explain": "Good work and word of mouth bring steady customers."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 29,
+   "week": 5,
+   "title": "Capstone Planning",
+   "goal": "Choose your capstone build, buy the metal and plan the day.",
+   "video": {
+    "youtube_id": "Qw8sNct0Glo",
+    "title": "How to Weld Steel Door Frames",
+    "channel": "Steel Door Institute"
+   },
+   "steps": [
+    "Pick a gate, frame or furniture piece that shows your skills.",
+    "Buy or gather all metal, rods and discs.",
+    "Cut and label every piece in build order.",
+    "Write a two-day build plan with time for grinding and painting."
+   ],
+   "task": "Have all capstone pieces cut and labelled, ready to weld.",
+   "challenge": "Plan a capstone build that uses MIG or stick, grinding and paint.",
+   "quiz": [
+    {
+     "q": "What should a welding quote include?",
+     "options": [
+      "Only the metal price",
+      "Metal, rods, gas, discs, time and profit",
+      "Your name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real quote covers materials, time and profit."
+    },
+    {
+     "q": "Why grind welds before painting?",
+     "options": [
+      "To waste time",
+      "So paint sticks to smooth clean metal",
+      "To make it heavier",
+      "To change the colour"
+     ],
+     "answer": 1,
+     "explain": "Paint sticks best to clean smooth metal, not rough slag."
+    },
+    {
+     "q": "What is the best way to get welding customers?",
+     "options": [
+      "Wait",
+      "Do good work and let happy customers tell others",
+      "Charge the most",
+      "Hide your prices"
+     ],
+     "answer": 1,
+     "explain": "Good work and word of mouth bring steady customers."
+    }
+   ],
+   "project": null
+  },
+  {
+   "day": 30,
+   "week": 5,
+   "title": "Capstone: Build and Present",
+   "goal": "Build your capstone piece, finish it and present it.",
+   "video": {
+    "youtube_id": "Qw8sNct0Glo",
+    "title": "How to Weld Steel Door Frames",
+    "channel": "Steel Door Institute"
+   },
+   "steps": [
+    "Weld the piece following your plan, checking it is square.",
+    "Grind smooth, paint or seal it.",
+    "Photograph it from four angles.",
+    "Present it with your costing sheet and care note."
+   ],
+   "task": "Present a finished capstone piece with photos and costing.",
+   "challenge": "Finish the piece with time left for paint to dry.",
+   "quiz": [
+    {
+     "q": "What should a welding quote include?",
+     "options": [
+      "Only the metal price",
+      "Metal, rods, gas, discs, time and profit",
+      "Your name only",
+      "The date only"
+     ],
+     "answer": 1,
+     "explain": "A real quote covers materials, time and profit."
+    },
+    {
+     "q": "Why grind welds before painting?",
+     "options": [
+      "To waste time",
+      "So paint sticks to smooth clean metal",
+      "To make it heavier",
+      "To change the colour"
+     ],
+     "answer": 1,
+     "explain": "Paint sticks best to clean smooth metal, not rough slag."
+    },
+    {
+     "q": "What is the best way to get welding customers?",
+     "options": [
+      "Wait",
+      "Do good work and let happy customers tell others",
+      "Charge the most",
+      "Hide your prices"
+     ],
+     "answer": 1,
+     "explain": "Good work and word of mouth bring steady customers."
+    }
+   ],
+   "project": null
+  }
+ ],
+ "capstone": {
+  "title": "Build a Metal Gate, Frame or Furniture Piece",
+  "brief": "Design and build a metal gate, frame or furniture piece for a real home, welded, ground smooth and painted, and present it with a costing sheet.",
+  "checks": [
+   "Piece designed from real measurements",
+   "Welds strong with no holes",
+   "Frame square and flat",
+   "Welds ground smooth and safe to touch",
+   "Painted or sealed evenly",
+   "Photos taken from four angles",
+   "Costing sheet shows metal, rods, gas, time and price"
+  ],
+  "deliverables": [
+   "Finished metal piece, strong and safe",
+   "Measured drawing of the piece",
+   "Costing and pricing sheet",
+   "Four photos: front, side, back and detail",
+   "Care note for the owner"
+  ]
+ }
+}
