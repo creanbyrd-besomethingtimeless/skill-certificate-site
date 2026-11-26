@@ -1,1714 +1,1714 @@
 {
- "course": {
-  "id": "bead-making-and-jewellery",
-  "title": "Bead Making and Jewellery",
-  "level": "Beginner",
-  "tagline": "Make beaded necklaces, bracelets and waist beads people love to wear.",
-  "duration_days": 30
- },
- "days": [
-  {
-   "day": 1,
-   "week": 1,
-   "title": "Jewellery Making Basics",
-   "goal": "Know the tools and materials of bead jewellery.",
-   "video": {
-    "youtube_id": "8AXtIYyJ6jg",
-    "title": "5 Essential Jewelry Making Techniques",
-    "channel": "Style Makers"
-   },
-   "steps": [
-    "Learn the tools: pliers, cutters, beading needle and thread.",
-    "Learn the materials: beads, cord, clasps and findings (the small metal parts).",
-    "Learn bead sizes: small beads are 4mm, big beads are 10mm.",
-    "Set up a bead mat so beads do not roll away."
-   ],
-   "task": "Label your tools and materials.",
-   "challenge": "Name three tools and what each does.",
-   "quiz": [
-    {
-     "q": "What are findings in jewellery making?",
-     "options": [
-      "Beads",
-      "The small metal parts like clasps and rings",
-      "The thread",
-      "The tools"
-     ],
-     "answer": 1,
-     "explain": "Findings are the small metal parts: clasps, jump rings and hooks."
-    },
-    {
-     "q": "Why use a bead mat?",
-     "options": [
-      "For looks",
-      "So beads do not roll away",
-      "To cut beads",
-      "To store beads"
-     ],
-     "answer": 1,
-     "explain": "A bead mat has a soft surface that stops beads rolling off the table."
-    },
-    {
-     "q": "What size is a small bead?",
-     "options": [
-      "10mm",
-      "4mm",
-      "20mm",
-      "1mm"
-     ],
-     "answer": 1,
-     "explain": "Small beads are about 4mm across; big beads are about 10mm."
-    }
-   ],
-   "project": null
+  "course": {
+    "id": "bead-making-and-jewellery",
+    "title": "Bead Making and Jewellery",
+    "level": "Beginner",
+    "tagline": "Make beaded necklaces, bracelets and waist beads people love to wear.",
+    "duration_days": 30
   },
-  {
-   "day": 2,
-   "week": 1,
-   "title": "Bead Types: Glass, Wood, Stone and Plastic",
-   "goal": "Tell bead types apart and know what each suits.",
-   "video": {
-    "youtube_id": "8AXtIYyJ6jg",
-    "title": "5 Essential Jewelry Making Techniques",
-    "channel": "Style Makers"
-   },
-   "steps": [
-    "Hold glass, wood, stone and plastic beads.",
-    "Learn that glass beads shine and suit necklaces.",
-    "Learn that wood beads are light and suit casual bracelets.",
-    "Learn that stone beads are heavy and suit statement pieces."
-   ],
-   "task": "Sort beads into glass, wood, stone and plastic.",
-   "challenge": "Pick the best bead type for a bracelet and explain why.",
-   "quiz": [
+  "days": [
     {
-     "q": "What are findings in jewellery making?",
-     "options": [
-      "Beads",
-      "The small metal parts like clasps and rings",
-      "The thread",
-      "The tools"
-     ],
-     "answer": 1,
-     "explain": "Findings are the small metal parts: clasps, jump rings and hooks."
+      "day": 1,
+      "week": 1,
+      "title": "Jewellery Making Basics",
+      "goal": "Know the tools and materials of bead jewellery.",
+      "video": {
+        "youtube_id": "8AXtIYyJ6jg",
+        "title": "5 Essential Jewelry Making Techniques",
+        "channel": "Style Makers"
+      },
+      "steps": [
+        "Learn the tools: pliers, cutters, beading needle and thread.",
+        "Learn the materials: beads, cord, clasps and findings (the small metal parts).",
+        "Learn bead sizes: small beads are 4mm, big beads are 10mm.",
+        "Set up a bead mat so beads do not roll away."
+      ],
+      "task": "Label your tools and materials.",
+      "challenge": "Name three tools and what each does.",
+      "quiz": [
+        {
+          "q": "What are findings in jewellery making?",
+          "options": [
+            "Beads",
+            "The small metal parts like clasps and rings",
+            "The thread",
+            "The tools"
+          ],
+          "answer": 1,
+          "explain": "Findings are the small metal parts: clasps, jump rings and hooks."
+        },
+        {
+          "q": "Why use a bead mat?",
+          "options": [
+            "For looks",
+            "So beads do not roll away",
+            "To cut beads",
+            "To store beads"
+          ],
+          "answer": 1,
+          "explain": "A bead mat has a soft surface that stops beads rolling off the table."
+        },
+        {
+          "q": "What size is a small bead?",
+          "options": [
+            "10mm",
+            "4mm",
+            "20mm",
+            "1mm"
+          ],
+          "answer": 1,
+          "explain": "Small beads are about 4mm across; big beads are about 10mm."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "Why use a bead mat?",
-     "options": [
-      "For looks",
-      "So beads do not roll away",
-      "To cut beads",
-      "To store beads"
-     ],
-     "answer": 1,
-     "explain": "A bead mat has a soft surface that stops beads rolling off the table."
+      "day": 2,
+      "week": 1,
+      "title": "Bead Types: Glass, Wood, Stone and Plastic",
+      "goal": "Tell bead types apart and know what each suits.",
+      "video": {
+        "youtube_id": "8AXtIYyJ6jg",
+        "title": "5 Essential Jewelry Making Techniques",
+        "channel": "Style Makers"
+      },
+      "steps": [
+        "Hold glass, wood, stone and plastic beads.",
+        "Learn that glass beads shine and suit necklaces.",
+        "Learn that wood beads are light and suit casual bracelets.",
+        "Learn that stone beads are heavy and suit statement pieces."
+      ],
+      "task": "Sort beads into glass, wood, stone and plastic.",
+      "challenge": "Pick the best bead type for a bracelet and explain why.",
+      "quiz": [
+        {
+          "q": "Which beads suit a casual bracelet?",
+          "options": [
+            "Glass",
+            "Wood",
+            "Stone",
+            "Crystal"
+          ],
+          "answer": 1,
+          "explain": "Wood beads are light and suit casual everyday bracelets."
+        },
+        {
+          "q": "Why are stone beads heavy?",
+          "options": [
+            "They are big",
+            "Stone is a dense material",
+            "They are wet",
+            "They are coated"
+          ],
+          "answer": 1,
+          "explain": "Stone is dense, so stone beads feel heavy compared with wood or plastic."
+        },
+        {
+          "q": "Which beads shine the most?",
+          "options": [
+            "Wood",
+            "Glass",
+            "Plastic",
+            "Clay"
+          ],
+          "answer": 1,
+          "explain": "Glass beads catch light and shine, so they suit necklaces."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "What size is a small bead?",
-     "options": [
-      "10mm",
-      "4mm",
-      "20mm",
-      "1mm"
-     ],
-     "answer": 1,
-     "explain": "Small beads are about 4mm across; big beads are about 10mm."
+      "day": 3,
+      "week": 1,
+      "title": "Stringing Beads",
+      "goal": "String beads on cord in a neat pattern.",
+      "video": {
+        "youtube_id": "8AXtIYyJ6jg",
+        "title": "5 Essential Jewelry Making Techniques",
+        "channel": "Style Makers"
+      },
+      "steps": [
+        "Cut cord a little longer than you need.",
+        "Thread beads in your pattern, checking the colours.",
+        "Keep the beads snug with no gaps.",
+        "Tie a strong knot and hide it inside a bead."
+      ],
+      "task": "String a bracelet with a neat pattern.",
+      "challenge": "String beads with no gaps and no loose cord.",
+      "quiz": [
+        {
+          "q": "How long should you cut the cord when stringing beads?",
+          "options": [
+            "A little longer than you need",
+            "Exactly the length you need",
+            "Half the length you need",
+            "Twice the length you need"
+          ],
+          "answer": 0,
+          "explain": "Cut cord a little longer than you need so you have room to tie the knot."
+        },
+        {
+          "q": "How should the beads sit on the cord?",
+          "options": [
+            "Snug together with no gaps",
+            "Loose with big gaps",
+            "All bunched at one end",
+            "Hanging off the cord"
+          ],
+          "answer": 0,
+          "explain": "Keep the beads snug with no gaps so the pattern looks neat."
+        },
+        {
+          "q": "What should you do with the knot after tying it?",
+          "options": [
+            "Hide it inside a bead",
+            "Leave it hanging out",
+            "Cut the cord short",
+            "Glue it to the clasp"
+          ],
+          "answer": 0,
+          "explain": "Tie a strong knot and hide it inside a bead so it is safe and does not show."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Bracelet Sizes and Fit",
+      "goal": "Measure wrists and make bracelets that fit.",
+      "video": {
+        "youtube_id": "7mLnapjznVw",
+        "title": "How to measure wrist & bracelet sizes! Perfect bracelets every time + tips for a secure knot",
+        "channel": "Bracelet Addiction"
+      },
+      "steps": [
+        "Measure a wrist with a tape around the bone.",
+        "Add about 1cm for comfort.",
+        "Learn that a tight bracelet is uncomfortable and breaks easily.",
+        "Test the fit on a real wrist before you finish."
+      ],
+      "task": "Measure three wrists and record the sizes.",
+      "challenge": "Make a bracelet that fits a wrist well.",
+      "quiz": [
+        {
+          "q": "Where do you measure a wrist for a bracelet?",
+          "options": [
+            "Around the wrist bone",
+            "At the elbow",
+            "At the hand",
+            "At the forearm"
+          ],
+          "answer": 0,
+          "explain": "Measure a wrist with a tape around the bone."
+        },
+        {
+          "q": "How much extra should you add for comfort?",
+          "options": [
+            "About 1cm",
+            "Nothing",
+            "5cm",
+            "10cm"
+          ],
+          "answer": 0,
+          "explain": "Add about 1cm for comfort."
+        },
+        {
+          "q": "Why should a bracelet not be too tight?",
+          "options": [
+            "It is uncomfortable and breaks easily",
+            "It looks better tight",
+            "It lasts longer tight",
+            "It is easier to make"
+          ],
+          "answer": 0,
+          "explain": "A tight bracelet is uncomfortable and breaks easily. Test the fit on a real wrist before you finish."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Pearl Necklaces",
+      "goal": "String a pearl necklace that sits well.",
+      "video": {
+        "youtube_id": "jMBcdJsUmO4",
+        "title": "Pearl Knotting Using Tweezers",
+        "channel": "Beadaholique - Your Home for Beading Inspiration"
+      },
+      "steps": [
+        "Learn that pearls need a knot between each one so they do not rub.",
+        "String pearls with knots using a beading needle.",
+        "Add a clasp that is easy to open.",
+        "Check the necklace hangs evenly."
+      ],
+      "task": "String a short pearl necklace with knots.",
+      "challenge": "Knot between pearls so they do not rub.",
+      "quiz": [
+        {
+          "q": "Why put a knot between each pearl?",
+          "options": [
+            "So the pearls do not rub each other",
+            "To make the necklace longer",
+            "To make it heavier",
+            "For the colour"
+          ],
+          "answer": 0,
+          "explain": "Pearls need a knot between each one so they do not rub."
+        },
+        {
+          "q": "What tool do you use to string pearls with knots?",
+          "options": [
+            "A beading needle",
+            "A hammer",
+            "A pair of scissors",
+            "A glue gun"
+          ],
+          "answer": 0,
+          "explain": "String pearls with knots using a beading needle."
+        },
+        {
+          "q": "How should you check a finished pearl necklace?",
+          "options": [
+            "Check it hangs evenly",
+            "Check it is very heavy",
+            "Check it has no clasp",
+            "Check the knots are loose"
+          ],
+          "answer": 0,
+          "explain": "Check the necklace hangs evenly before you finish."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Clasps and Findings",
+      "goal": "Fit clasps and findings so jewellery opens and closes well.",
+      "video": {
+        "youtube_id": "SywtG8BEq-w",
+        "title": "How to Attach a Clasp - Make a Beaded Bracelet - Jewellery Making Tutorial",
+        "channel": "Katie Parker Jewellery"
+      },
+      "steps": [
+        "Learn the clasp types: lobster, toggle and magnetic.",
+        "Learn that a jump ring is a small metal ring that joins parts.",
+        "Open a jump ring sideways, never pull it apart.",
+        "Test the clasp three times before you finish."
+      ],
+      "task": "Fit a lobster clasp to a bracelet.",
+      "challenge": "Open and close a jump ring the right way.",
+      "quiz": [
+        {
+          "q": "What are the three clasp types you learned?",
+          "options": [
+            "Lobster, toggle and magnetic",
+            "Hook, pin and nail",
+            "Zip, button and snap",
+            "Gold, silver and bronze"
+          ],
+          "answer": 0,
+          "explain": "Learn the clasp types: lobster, toggle and magnetic."
+        },
+        {
+          "q": "What is a jump ring?",
+          "options": [
+            "A small metal ring that joins parts",
+            "A type of bead",
+            "A type of cord",
+            "A clasp for necklaces only"
+          ],
+          "answer": 0,
+          "explain": "A jump ring is a small metal ring that joins parts."
+        },
+        {
+          "q": "How should you open a jump ring?",
+          "options": [
+            "Twist it sideways, never pull it apart",
+            "Pull it apart",
+            "Cut it open",
+            "Squeeze it flat"
+          ],
+          "answer": 0,
+          "explain": "Open a jump ring sideways, never pull it apart. Test the clasp three times before you finish."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project: Make a Beaded Bracelet Set",
+      "goal": "Make a set of three beaded bracelets that match.",
+      "video": {
+        "youtube_id": "s6fuIgBz86c",
+        "title": "DIY Beaded Bracelet",
+        "channel": "Marie Beadsy"
+      },
+      "steps": [
+        "Pick beads in colours that go together.",
+        "Make three bracelets in different patterns.",
+        "Fit clasps and check the sizes.",
+        "Present the set neatly on a card or cloth."
+      ],
+      "task": "Finish a set of three matching bracelets.",
+      "challenge": "Make three bracelets with three patterns that still match.",
+      "quiz": [
+        {
+          "q": "How many bracelets are in the bracelet set?",
+          "options": [
+            "Three",
+            "One",
+            "Five",
+            "Ten"
+          ],
+          "answer": 0,
+          "explain": "Make a set of three beaded bracelets that match."
+        },
+        {
+          "q": "How should the three bracelets be different?",
+          "options": [
+            "Different patterns, but colours that go together",
+            "Different sizes only",
+            "Different clasps only",
+            "They should all be the same"
+          ],
+          "answer": 0,
+          "explain": "Pick beads in colours that go together and make three bracelets in different patterns."
+        },
+        {
+          "q": "What should you check before you present the set?",
+          "options": [
+            "The clasps work and the sizes fit",
+            "The beads are all the same colour",
+            "The bracelets are all the same pattern",
+            "The card is the biggest one"
+          ],
+          "answer": 0,
+          "explain": "Fit clasps and check the sizes, then present the set neatly on a card or cloth."
+        }
+      ],
+      "project": {
+        "title": "Make a Beaded Bracelet Set",
+        "brief": "Make a set of three beaded bracelets that match.",
+        "checks": [
+          "Three bracelets made",
+          "Colours match",
+          "Patterns different",
+          "Clasps fitted and working",
+          "Sizes correct",
+          "Set presented neatly"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Florere Bracelet",
+      "goal": "Make a Florere bracelet with a flower pattern.",
+      "video": {
+        "youtube_id": "s6fuIgBz86c",
+        "title": "DIY Beaded Bracelet",
+        "channel": "Marie Beadsy"
+      },
+      "steps": [
+        "Learn the Florere pattern: beads in a flower shape.",
+        "Follow the pattern step by step, one petal at a time.",
+        "Keep the thread tension even so the flower sits flat.",
+        "Finish with a clasp and check the shape."
+      ],
+      "task": "Make a Florere bracelet with a clear flower pattern.",
+      "challenge": "Make a flower pattern that sits flat.",
+      "quiz": [
+        {
+          "q": "What is the Florere pattern?",
+          "options": [
+            "Beads in a flower shape",
+            "A plain row",
+            "A zigzag",
+            "A spiral"
+          ],
+          "answer": 0,
+          "explain": "Learn the Florere pattern: beads in a flower shape."
+        },
+        {
+          "q": "How should you follow the pattern?",
+          "options": [
+            "Step by step, one petal at a time",
+            "All at once",
+            "Backwards",
+            "In any order"
+          ],
+          "answer": 0,
+          "explain": "Follow the pattern step by step, one petal at a time."
+        },
+        {
+          "q": "Why keep the thread tension even?",
+          "options": [
+            "So the flower sits flat",
+            "For speed",
+            "To save thread",
+            "For colour"
+          ],
+          "answer": 0,
+          "explain": "Keep the thread tension even so the flower sits flat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Bead Patterns and Colour",
+      "goal": "Design bead patterns with colour that works.",
+      "video": {
+        "youtube_id": "s6fuIgBz86c",
+        "title": "DIY Beaded Bracelet",
+        "channel": "Marie Beadsy"
+      },
+      "steps": [
+        "Learn that warm colours (red, orange) feel bold.",
+        "Learn that cool colours (blue, green) feel calm.",
+        "Use one main colour, one second colour and a small accent.",
+        "Draw your pattern on paper before you bead."
+      ],
+      "task": "Draw a bead pattern with three colours.",
+      "challenge": "Design a pattern with colours that work together.",
+      "quiz": [
+        {
+          "q": "How do warm colours like red and orange feel?",
+          "options": [
+            "Bold",
+            "Calm",
+            "Cold",
+            "Sad"
+          ],
+          "answer": 0,
+          "explain": "Warm colours (red, orange) feel bold."
+        },
+        {
+          "q": "How do cool colours like blue and green feel?",
+          "options": [
+            "Calm",
+            "Bold",
+            "Angry",
+            "Loud"
+          ],
+          "answer": 0,
+          "explain": "Cool colours (blue, green) feel calm."
+        },
+        {
+          "q": "What should you do before you start beading a pattern?",
+          "options": [
+            "Draw your pattern on paper first",
+            "Start beading straight away",
+            "Buy new beads",
+            "Cut the cord first"
+          ],
+          "answer": 0,
+          "explain": "Draw your pattern on paper before you bead. Use one main colour, one second colour and a small accent."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Woven Cuff Bracelets",
+      "goal": "Weave beads into a wide cuff bracelet.",
+      "video": {
+        "youtube_id": "9JuzakdHY10",
+        "title": "How to Make a Florere Bracelet",
+        "channel": "PotomacBeads"
+      },
+      "steps": [
+        "Weaving means passing thread through beads in rows.",
+        "Set up a bead loom (a frame that holds threads) or weave by hand.",
+        "Weave row by row, keeping the rows straight.",
+        "Finish the edges neatly and add a clasp."
+      ],
+      "task": "Weave a small cuff bracelet.",
+      "challenge": "Weave rows that stay straight and even.",
+      "quiz": [
+        {
+          "q": "What does weaving beads mean?",
+          "options": [
+            "Passing thread through beads in rows",
+            "Gluing beads to cloth",
+            "Stringing beads on one cord",
+            "Cutting beads in half"
+          ],
+          "answer": 0,
+          "explain": "Weaving means passing thread through beads in rows."
+        },
+        {
+          "q": "What is a bead loom?",
+          "options": [
+            "A frame that holds threads for weaving beads",
+            "A tool to cut beads",
+            "A bead box",
+            "A necklace"
+          ],
+          "answer": 0,
+          "explain": "A bead loom is a frame that holds threads. You can also weave by hand."
+        },
+        {
+          "q": "How should you weave the rows?",
+          "options": [
+            "Row by row, keeping the rows straight",
+            "All at once",
+            "In circles",
+            "From the middle out"
+          ],
+          "answer": 0,
+          "explain": "Weave row by row, keeping the rows straight, then finish the edges neatly and add a clasp."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Wire Wrapping Basics",
+      "goal": "Wrap wire around beads to hold them.",
+      "video": {
+        "youtube_id": "9JuzakdHY10",
+        "title": "How to Make a Florere Bracelet",
+        "channel": "PotomacBeads"
+      },
+      "steps": [
+        "Wire wrapping means bending wire to hold a bead.",
+        "Use round-nose pliers to make loops.",
+        "Make a loop, thread a bead, then close the loop.",
+        "Keep loops the same size for a neat look."
+      ],
+      "task": "Wrap wire around three beads with neat loops.",
+      "challenge": "Make loops that are all the same size.",
+      "quiz": [
+        {
+          "q": "What is wire wrapping?",
+          "options": [
+            "Wrapping beads in paper",
+            "Bending wire to hold a bead",
+            "Cutting wire",
+            "Painting wire"
+          ],
+          "answer": 1,
+          "explain": "Wire wrapping bends wire around a bead to hold it in place."
+        },
+        {
+          "q": "Why make loops the same size?",
+          "options": [
+            "For speed",
+            "So the piece looks neat",
+            "To save wire",
+            "It is the law"
+          ],
+          "answer": 1,
+          "explain": "Matching loops make the jewellery look professional."
+        },
+        {
+          "q": "What tool makes wire loops?",
+          "options": [
+            "Flat pliers",
+            "Round-nose pliers",
+            "Cutters",
+            "Hammer"
+          ],
+          "answer": 1,
+          "explain": "Round-nose pliers bend wire into smooth round loops."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Beaded Earrings",
+      "goal": "Make a pair of beaded earrings.",
+      "video": {
+        "youtube_id": "9JuzakdHY10",
+        "title": "How to Make a Florere Bracelet",
+        "channel": "PotomacBeads"
+      },
+      "steps": [
+        "Pick beads light enough for ears.",
+        "Make two earrings the same: same beads, same order.",
+        "Fit ear hooks and check they hang evenly.",
+        "Test the pair: they should match and feel light."
+      ],
+      "task": "Make a pair of matching beaded earrings.",
+      "challenge": "Make two earrings that are exactly the same.",
+      "quiz": [
+        {
+          "q": "What kind of beads should you pick for earrings?",
+          "options": [
+            "Light ones",
+            "The heaviest ones",
+            "The biggest stones",
+            "Sharp ones"
+          ],
+          "answer": 0,
+          "explain": "Pick beads light enough for ears."
+        },
+        {
+          "q": "How should the two earrings compare?",
+          "options": [
+            "The same: same beads, same order",
+            "Different beads each side",
+            "One long, one short",
+            "Different colours"
+          ],
+          "answer": 0,
+          "explain": "Make two earrings the same: same beads, same order."
+        },
+        {
+          "q": "What should you check after fitting the ear hooks?",
+          "options": [
+            "That they hang evenly and feel light",
+            "That they are very heavy",
+            "That one is longer",
+            "That the hooks are hidden"
+          ],
+          "answer": 0,
+          "explain": "Fit ear hooks and check they hang evenly. The pair should match and feel light."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Gemstone Cluster Bracelet",
+      "goal": "Make a bracelet with clusters of small gemstones.",
+      "video": {
+        "youtube_id": "83Ja9uu-IXI",
+        "title": "How to Make Woven Cuff Bracelets",
+        "channel": "Jill Wiseman Designs"
+      },
+      "steps": [
+        "A cluster is a group of small beads bunched together.",
+        "Wire small gemstones into clusters.",
+        "Join clusters along the bracelet.",
+        "Check the bracelet is not too heavy to wear."
+      ],
+      "task": "Make a bracelet with gemstone clusters.",
+      "challenge": "Make clusters that are even and secure.",
+      "quiz": [
+        {
+          "q": "What is a cluster in jewellery making?",
+          "options": [
+            "A group of small beads bunched together",
+            "One big bead",
+            "A type of clasp",
+            "A broken bracelet"
+          ],
+          "answer": 0,
+          "explain": "A cluster is a group of small beads bunched together."
+        },
+        {
+          "q": "How do you make a gemstone cluster?",
+          "options": [
+            "Wire small gemstones together into a bunch",
+            "Glue them to a card",
+            "String them on elastic",
+            "Melt them together"
+          ],
+          "answer": 0,
+          "explain": "Wire small gemstones into clusters, then join the clusters along the bracelet."
+        },
+        {
+          "q": "What should you check on a finished cluster bracelet?",
+          "options": [
+            "That it is not too heavy to wear",
+            "That it has no clasp",
+            "That all clusters are the same colour",
+            "That it is very tight"
+          ],
+          "answer": 0,
+          "explain": "Check the bracelet is not too heavy to wear."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project: Make a Woven Cuff Bracelet",
+      "goal": "Weave a wide cuff bracelet and finish it neatly.",
+      "video": {
+        "youtube_id": "83Ja9uu-IXI",
+        "title": "How to Make Woven Cuff Bracelets",
+        "channel": "Jill Wiseman Designs"
+      },
+      "steps": [
+        "Pick a pattern and colours for the cuff.",
+        "Weave row by row until the cuff is wide enough.",
+        "Finish the edges and add a clasp.",
+        "Check the cuff fits and sits flat on the wrist."
+      ],
+      "task": "Finish a woven cuff bracelet that fits well.",
+      "challenge": "Weave a cuff with a clear pattern.",
+      "quiz": [
+        {
+          "q": "What should you pick first for a woven cuff?",
+          "options": [
+            "A pattern and colours",
+            "A clasp only",
+            "A box only",
+            "A price only"
+          ],
+          "answer": 0,
+          "explain": "Pick a pattern and colours for the cuff before you start weaving."
+        },
+        {
+          "q": "When do you stop weaving the cuff?",
+          "options": [
+            "When it is wide enough",
+            "After one row",
+            "When the thread runs out",
+            "When it is as wide as your arm"
+          ],
+          "answer": 0,
+          "explain": "Weave row by row until the cuff is wide enough."
+        },
+        {
+          "q": "What should you check on the finished cuff?",
+          "options": [
+            "That it fits and sits flat on the wrist",
+            "That it is very heavy",
+            "That the edges are rough",
+            "That it has no clasp"
+          ],
+          "answer": 0,
+          "explain": "Check the cuff fits and sits flat on the wrist."
+        }
+      ],
+      "project": {
+        "title": "Make a Woven Cuff Bracelet",
+        "brief": "Weave a wide cuff bracelet and finish it neatly.",
+        "checks": [
+          "Pattern clear",
+          "Rows straight and even",
+          "Edges finished",
+          "Clasp fitted",
+          "Cuff fits well",
+          "Sits flat on the wrist"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Necklace Lengths",
+      "goal": "Know necklace lengths and what each suits.",
+      "video": {
+        "youtube_id": "83Ja9uu-IXI",
+        "title": "How to Make Woven Cuff Bracelets",
+        "channel": "Jill Wiseman Designs"
+      },
+      "steps": [
+        "A choker sits high on the neck, about 35cm.",
+        "A princess length sits on the collarbone, about 45cm.",
+        "A matinee length sits on the chest, about 55cm.",
+        "Measure the length before you cut the cord."
+      ],
+      "task": "Make necklaces in two different lengths.",
+      "challenge": "Pick the right length for a necklace and explain why.",
+      "quiz": [
+        {
+          "q": "How long is a choker necklace?",
+          "options": [
+            "55cm",
+            "About 35cm",
+            "45cm",
+            "70cm"
+          ],
+          "answer": 1,
+          "explain": "A choker sits high on the neck at about 35cm."
+        },
+        {
+          "q": "How long is a princess necklace?",
+          "options": [
+            "35cm",
+            "About 45cm",
+            "55cm",
+            "70cm"
+          ],
+          "answer": 1,
+          "explain": "Princess length sits on the collarbone at about 45cm."
+        },
+        {
+          "q": "Why measure necklace length before cutting cord?",
+          "options": [
+            "To save time",
+            "So the necklace sits where you want it",
+            "It is the law",
+            "For looks"
+          ],
+          "answer": 1,
+          "explain": "Measuring first means the necklace ends at the right place on the body."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Wire Earrings",
+      "goal": "Make wire-wrapped earrings with beads.",
+      "video": {
+        "youtube_id": "4c4TKExhzOo",
+        "title": "How to Make Wire Wrapped and Beaded Earrings",
+        "channel": "Becky Stern"
+      },
+      "steps": [
+        "Wrap wire around a bead to make a drop.",
+        "Make two drops the same size.",
+        "Fit ear hooks and check they match.",
+        "Polish the wire so it shines."
+      ],
+      "task": "Make a pair of wire-wrapped earrings.",
+      "challenge": "Make two drops that match exactly.",
+      "quiz": [
+        {
+          "q": "How do you make a wire earring drop?",
+          "options": [
+            "Wrap wire around a bead",
+            "Glue the bead to a hook",
+            "Melt the wire",
+            "Tie the bead with thread"
+          ],
+          "answer": 0,
+          "explain": "Wrap wire around a bead to make a drop."
+        },
+        {
+          "q": "How should the two drops compare?",
+          "options": [
+            "The same size",
+            "One big, one small",
+            "Different colours",
+            "Different shapes"
+          ],
+          "answer": 0,
+          "explain": "Make two drops the same size."
+        },
+        {
+          "q": "What should you do to the wire at the end?",
+          "options": [
+            "Polish it so it shines",
+            "Paint it black",
+            "Bend it flat",
+            "Leave it dull"
+          ],
+          "answer": 0,
+          "explain": "Polish the wire so it shines."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Waist Beads: The Tradition",
+      "goal": "Know what waist beads are and how they are worn.",
+      "video": {
+        "youtube_id": "4c4TKExhzOo",
+        "title": "How to Make Wire Wrapped and Beaded Earrings",
+        "channel": "Becky Stern"
+      },
+      "steps": [
+        "Waist beads are strands worn around the waist, common in African culture.",
+        "They can be worn for beauty, confidence or tradition.",
+        "They are made on strong cord, not elastic, for a lasting fit.",
+        "Measure the waist at the navel for the right size."
+      ],
+      "task": "Explain waist beads to a customer in plain words.",
+      "challenge": "Measure a waist for waist beads.",
+      "quiz": [
+        {
+          "q": "What are waist beads?",
+          "options": [
+            "Strands worn around the waist",
+            "Anklets",
+            "Necklaces",
+            "Bracelets"
+          ],
+          "answer": 0,
+          "explain": "Waist beads are strands worn around the waist, common in African culture."
+        },
+        {
+          "q": "What are waist beads worn for?",
+          "options": [
+            "Beauty, confidence or tradition",
+            "Only for parties",
+            "Only for dancing",
+            "To keep warm"
+          ],
+          "answer": 0,
+          "explain": "They can be worn for beauty, confidence or tradition."
+        },
+        {
+          "q": "Where do you measure for waist beads?",
+          "options": [
+            "At the waist at the navel",
+            "At the chest",
+            "At the hips",
+            "At the neck"
+          ],
+          "answer": 0,
+          "explain": "Measure the waist at the navel for the right size."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Waist Beads on Elastic",
+      "goal": "Make waist beads on elastic cord.",
+      "video": {
+        "youtube_id": "4c4TKExhzOo",
+        "title": "How to Make Wire Wrapped and Beaded Earrings",
+        "channel": "Becky Stern"
+      },
+      "steps": [
+        "Cut elastic cord longer than the waist size.",
+        "Thread beads in your pattern.",
+        "Tie a strong knot and hide it inside a bead.",
+        "Check the beads sit flat and the cord is not twisted."
+      ],
+      "task": "Make a waist bead strand on elastic.",
+      "challenge": "Make a strand that fits and sits flat.",
+      "quiz": [
+        {
+          "q": "How long should you cut the elastic cord for waist beads?",
+          "options": [
+            "Longer than the waist size",
+            "Shorter than the waist size",
+            "Exactly the waist size",
+            "Half the waist size"
+          ],
+          "answer": 0,
+          "explain": "Cut elastic cord longer than the waist size."
+        },
+        {
+          "q": "What should you do with the knot?",
+          "options": [
+            "Tie a strong knot and hide it inside a bead",
+            "Leave it loose",
+            "Cut it off",
+            "Glue it to the skin"
+          ],
+          "answer": 0,
+          "explain": "Tie a strong knot and hide it inside a bead."
+        },
+        {
+          "q": "What should you check on the finished waist beads?",
+          "options": [
+            "The beads sit flat and the cord is not twisted",
+            "The cord is very tight",
+            "The beads are all different sizes",
+            "The knot shows"
+          ],
+          "answer": 0,
+          "explain": "Check the beads sit flat and the cord is not twisted."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Project: Make a Necklace and Earring Set",
+      "goal": "Make a matching necklace and earring set.",
+      "video": {
+        "youtube_id": "UY_o3QRrHZc",
+        "title": "How to Make a Gemstone Cluster Bracelet",
+        "channel": "Andria Bieber"
+      },
+      "steps": [
+        "Pick beads and a colour scheme for the set.",
+        "Make the necklace first, then earrings to match.",
+        "Check both pieces use the same beads and colours.",
+        "Present the set together."
+      ],
+      "task": "Finish a matching necklace and earring set.",
+      "challenge": "Make a set where the earrings clearly match the necklace.",
+      "quiz": [
+        {
+          "q": "What should you make first in the necklace and earring set?",
+          "options": [
+            "The necklace, then earrings to match",
+            "The earrings, then the necklace",
+            "Both at the same time",
+            "The clasp first"
+          ],
+          "answer": 0,
+          "explain": "Make the necklace first, then earrings to match."
+        },
+        {
+          "q": "What should the necklace and earrings share?",
+          "options": [
+            "The same beads and colours",
+            "The same length",
+            "The same clasp",
+            "The same price"
+          ],
+          "answer": 0,
+          "explain": "Check both pieces use the same beads and colours."
+        },
+        {
+          "q": "What should you do first when planning the set?",
+          "options": [
+            "Pick beads and a colour scheme",
+            "Buy a box",
+            "Set the price",
+            "Take a photo"
+          ],
+          "answer": 0,
+          "explain": "Pick beads and a colour scheme for the set before you start."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Waist Beads Without Elastic",
+      "goal": "Make waist beads on strong non-elastic cord.",
+      "video": {
+        "youtube_id": "UY_o3QRrHZc",
+        "title": "How to Make a Gemstone Cluster Bracelet",
+        "channel": "Andria Bieber"
+      },
+      "steps": [
+        "Use strong beading thread or cotton cord.",
+        "Thread beads and tie off with a strong knot.",
+        "Learn that non-elastic beads are tied on and stay on.",
+        "Check the size before you tie it off: it cannot stretch."
+      ],
+      "task": "Make waist beads on non-elastic cord.",
+      "challenge": "Make a strand that fits exactly, with no stretch.",
+      "quiz": [
+        {
+          "q": "What cord do you use for waist beads without elastic?",
+          "options": [
+            "Strong beading thread or cotton cord",
+            "Rubber band",
+            "Wire",
+            "Ribbon"
+          ],
+          "answer": 0,
+          "explain": "Use strong beading thread or cotton cord."
+        },
+        {
+          "q": "Why are non-elastic waist beads tied on?",
+          "options": [
+            "They cannot stretch, so they are tied to fit",
+            "They are cheaper",
+            "They look better",
+            "They are faster to make"
+          ],
+          "answer": 0,
+          "explain": "Non-elastic beads are tied on and stay on."
+        },
+        {
+          "q": "When must you check the size?",
+          "options": [
+            "Before you tie it off",
+            "After you tie it off",
+            "When the customer wears it",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "Check the size before you tie it off: it cannot stretch."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Waist Beads with Names",
+      "goal": "Make waist beads with letter beads spelling a name.",
+      "video": {
+        "youtube_id": "UY_o3QRrHZc",
+        "title": "How to Make a Gemstone Cluster Bracelet",
+        "channel": "Andria Bieber"
+      },
+      "steps": [
+        "Plan the name with letter beads in the middle.",
+        "Add pattern beads on each side.",
+        "Check the spelling twice before you finish.",
+        "Tie off and check the name reads clearly."
+      ],
+      "task": "Make waist beads spelling a name correctly.",
+      "challenge": "Make a name strand with the name clear to read.",
+      "quiz": [
+        {
+          "q": "What beads spell a name on waist beads?",
+          "options": [
+            "Glass beads",
+            "Letter beads",
+            "Stone beads",
+            "Wood beads"
+          ],
+          "answer": 1,
+          "explain": "Letter beads spell out a name in the middle of the strand."
+        },
+        {
+          "q": "Why check the spelling twice?",
+          "options": [
+            "For fun",
+            "So the name reads correctly on the finished strand",
+            "It is the law",
+            "To save beads"
+          ],
+          "answer": 1,
+          "explain": "A wrong letter is hard to fix once the strand is tied off."
+        },
+        {
+          "q": "Where do letter beads go on a name strand?",
+          "options": [
+            "At the end",
+            "In the middle, with pattern beads on each side",
+            "On the clasp",
+            "Under the beads"
+          ],
+          "answer": 1,
+          "explain": "The name sits in the middle so it reads clearly when worn."
+        }
+      ],
+      "project": {
+        "title": "Make a Necklace and Earring Set",
+        "brief": "Make a matching necklace and earring set.",
+        "checks": [
+          "Necklace finished",
+          "Earrings finished",
+          "Same beads and colours",
+          "Earrings match each other",
+          "Clasps and hooks work",
+          "Set presented together"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Jewellery Care and Repairs",
+      "goal": "Fix broken jewellery and tell customers how to care for it.",
+      "video": {
+        "youtube_id": "TuJgdrtaC6I",
+        "title": "DIY African Waist Beads",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Re-string a broken bracelet with new cord.",
+        "Replace a broken clasp.",
+        "Tell customers to keep jewellery dry and away from perfume.",
+        "Offer a repair service and price it."
+      ],
+      "task": "Repair a broken bracelet so it looks new.",
+      "challenge": "Write care instructions for a customer.",
+      "quiz": [
+        {
+          "q": "How do you fix a broken bracelet?",
+          "options": [
+            "Re-string it with new cord",
+            "Throw it away",
+            "Glue the beads together",
+            "Melt the beads"
+          ],
+          "answer": 0,
+          "explain": "Re-string a broken bracelet with new cord."
+        },
+        {
+          "q": "What should you tell customers about caring for jewellery?",
+          "options": [
+            "Keep it dry and away from perfume",
+            "Wash it every day",
+            "Spray perfume on it",
+            "Keep it in water"
+          ],
+          "answer": 0,
+          "explain": "Tell customers to keep jewellery dry and away from perfume."
+        },
+        {
+          "q": "What can you offer customers besides new jewellery?",
+          "options": [
+            "A repair service, with a price",
+            "Free beads",
+            "A refund for old pieces",
+            "A cleaning cloth only"
+          ],
+          "answer": 0,
+          "explain": "Offer a repair service and price it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Jewellery Business Basics",
+      "goal": "Learn how a small jewellery business works.",
+      "video": {
+        "youtube_id": "TuJgdrtaC6I",
+        "title": "DIY African Waist Beads",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Work out the cost of one bracelet: beads, cord, clasp and time.",
+        "Add a fair profit.",
+        "Learn where to sell: markets, online and gift shops.",
+        "Keep a simple sales record."
+      ],
+      "task": "Work out the cost and price of one bracelet.",
+      "challenge": "List three places you could sell jewellery.",
+      "quiz": [
+        {
+          "q": "What goes into the cost of one bracelet?",
+          "options": [
+            "Beads, cord, clasp and time",
+            "Only the beads",
+            "Only your time",
+            "Only the clasp"
+          ],
+          "answer": 0,
+          "explain": "Work out the cost of one bracelet: beads, cord, clasp and time."
+        },
+        {
+          "q": "What should you add after the cost?",
+          "options": [
+            "A fair profit",
+            "A discount always",
+            "Nothing",
+            "A free gift always"
+          ],
+          "answer": 0,
+          "explain": "Add a fair profit on top of your costs."
+        },
+        {
+          "q": "Where can you sell your jewellery?",
+          "options": [
+            "Markets, online and gift shops",
+            "Only at home",
+            "Only to friends",
+            "Only at school"
+          ],
+          "answer": 0,
+          "explain": "Learn where to sell: markets, online and gift shops. Keep a simple sales record."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Price Your Jewellery",
+      "goal": "Price jewellery so the business pays.",
+      "video": {
+        "youtube_id": "TuJgdrtaC6I",
+        "title": "DIY African Waist Beads",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Add up all costs for one piece.",
+        "Add your time at a fair hourly rate.",
+        "Add profit and round to a clean price.",
+        "Compare your price with jewellery in shops."
+      ],
+      "task": "Price three jewellery pieces with costs shown.",
+      "challenge": "Price a matching set of necklace and earrings.",
+      "quiz": [
+        {
+          "q": "What should you add to the costs when pricing jewellery?",
+          "options": [
+            "Your time at a fair hourly rate",
+            "Only the beads",
+            "Nothing else",
+            "Only the box"
+          ],
+          "answer": 0,
+          "explain": "Add your time at a fair hourly rate, then add profit."
+        },
+        {
+          "q": "What should you do after adding profit?",
+          "options": [
+            "Round to a clean price",
+            "Keep the odd number",
+            "Double it again",
+            "Hide the price"
+          ],
+          "answer": 0,
+          "explain": "Add profit and round to a clean price."
+        },
+        {
+          "q": "Why compare your price with jewellery in shops?",
+          "options": [
+            "To check your price is fair",
+            "To copy their designs",
+            "To sell cheaper always",
+            "To avoid selling at markets"
+          ],
+          "answer": 0,
+          "explain": "Compare your price with jewellery in shops."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Packaging and Display",
+      "goal": "Present jewellery so it sells: cards, boxes and displays.",
+      "video": {
+        "youtube_id": "Glhw_qcP-FI",
+        "title": "How to Make Waist Beads Without Elastic",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Mount bracelets on cards for markets.",
+        "Use small boxes for necklaces.",
+        "Display pieces at eye level, not flat on a table.",
+        "Keep a record of what you made and sold."
+      ],
+      "task": "Present three pieces ready to sell.",
+      "challenge": "Display a set so customers notice it.",
+      "quiz": [
+        {
+          "q": "How should you mount bracelets for markets?",
+          "options": [
+            "On cards",
+            "In a bag",
+            "On the ground",
+            "In a big box"
+          ],
+          "answer": 0,
+          "explain": "Mount bracelets on cards for markets."
+        },
+        {
+          "q": "Where should you display pieces?",
+          "options": [
+            "At eye level, not flat on a table",
+            "Flat on the table",
+            "Under the table",
+            "Behind you"
+          ],
+          "answer": 0,
+          "explain": "Display pieces at eye level, not flat on a table."
+        },
+        {
+          "q": "What should you keep a record of?",
+          "options": [
+            "What you made and sold",
+            "Only what you sold",
+            "Only the prices",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Keep a record of what you made and sold."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Sell Jewellery at a Market",
+      "goal": "Set up a market stall and sell your jewellery.",
+      "video": {
+        "youtube_id": "Glhw_qcP-FI",
+        "title": "How to Make Waist Beads Without Elastic",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Pick your best pieces and price them clearly.",
+        "Display pieces at eye level on a clean cloth.",
+        "Let customers try bracelets on.",
+        "Keep a record of every sale."
+      ],
+      "task": "Set up a market stall display for your jewellery.",
+      "challenge": "Sell your first piece at a market.",
+      "quiz": [
+        {
+          "q": "How should you display jewellery at a market?",
+          "options": [
+            "At eye level on a clean cloth",
+            "Flat on the table",
+            "In a closed bag",
+            "On the ground"
+          ],
+          "answer": 0,
+          "explain": "Display pieces at eye level on a clean cloth."
+        },
+        {
+          "q": "What should you let customers do?",
+          "options": [
+            "Try bracelets on",
+            "Take pieces home free",
+            "Open every box",
+            "Set their own price"
+          ],
+          "answer": 0,
+          "explain": "Let customers try bracelets on."
+        },
+        {
+          "q": "What should you keep a record of at the market?",
+          "options": [
+            "Every sale",
+            "Only the big sales",
+            "Only the customers' names",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Keep a record of every sale."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Take Custom Jewellery Orders",
+      "goal": "Take a custom order: agree the design, size and price.",
+      "video": {
+        "youtube_id": "Glhw_qcP-FI",
+        "title": "How to Make Waist Beads Without Elastic",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Ask the customer what they want: colours, size and style.",
+        "Agree the price and delivery date in writing.",
+        "Make the piece and check it matches what they asked for.",
+        "Keep the order sheet safe."
+      ],
+      "task": "Complete an order sheet for a custom bracelet.",
+      "challenge": "Make a piece exactly as a customer asked.",
+      "quiz": [
+        {
+          "q": "What should you ask a custom-order customer first?",
+          "options": [
+            "What they want: colours, size and style",
+            "How much money they have",
+            "Where they live",
+            "Their age"
+          ],
+          "answer": 0,
+          "explain": "Ask the customer what they want: colours, size and style."
+        },
+        {
+          "q": "What should you agree in writing?",
+          "options": [
+            "The price and delivery date",
+            "Only the colour",
+            "Only the size",
+            "Nothing in writing"
+          ],
+          "answer": 0,
+          "explain": "Agree the price and delivery date in writing."
+        },
+        {
+          "q": "What should you keep safe?",
+          "options": [
+            "The order sheet",
+            "The customer's phone",
+            "The beads only",
+            "The receipt only"
+          ],
+          "answer": 0,
+          "explain": "Keep the order sheet safe."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Personalised Jewellery: Names and Initials",
+      "goal": "Make personalised jewellery with names and initials.",
+      "video": {
+        "youtube_id": "o1WHkKVgixs",
+        "title": "How to Make Waist Beads with Names",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Plan the name with letter beads.",
+        "Add pattern beads on each side.",
+        "Check the spelling twice before you finish.",
+        "Present the piece as a gift."
+      ],
+      "task": "Make a bracelet spelling a name correctly.",
+      "challenge": "Make a personalised piece as a gift.",
+      "quiz": [
+        {
+          "q": "What beads spell a name on personalised jewellery?",
+          "options": [
+            "Letter beads",
+            "Glass beads",
+            "Stone beads",
+            "Wood beads"
+          ],
+          "answer": 0,
+          "explain": "Plan the name with letter beads."
+        },
+        {
+          "q": "Where do the pattern beads go?",
+          "options": [
+            "On each side of the name",
+            "On the clasp",
+            "Under the name",
+            "Only at the end"
+          ],
+          "answer": 0,
+          "explain": "Add pattern beads on each side."
+        },
+        {
+          "q": "Why check the spelling twice?",
+          "options": [
+            "So the name is correct on the finished piece",
+            "To use more beads",
+            "To make it longer",
+            "For fun"
+          ],
+          "answer": 0,
+          "explain": "Check the spelling twice before you finish."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Capstone Planning",
+      "goal": "Choose your capstone jewellery set, buy supplies and plan the days.",
+      "video": {
+        "youtube_id": "o1WHkKVgixs",
+        "title": "How to Make Waist Beads with Names",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Pick three pieces that show your best skills.",
+        "Buy all beads, cord, clasps and findings.",
+        "Plan the making days.",
+        "Design display cards for the set."
+      ],
+      "task": "Have all capstone supplies bought and cards designed.",
+      "challenge": "Plan a capstone set of three pieces.",
+      "quiz": [
+        {
+          "q": "How many pieces should your capstone set have?",
+          "options": [
+            "Three",
+            "One",
+            "Five",
+            "Ten"
+          ],
+          "answer": 0,
+          "explain": "Pick three pieces that show your best skills."
+        },
+        {
+          "q": "What should you buy before you start making?",
+          "options": [
+            "All beads, cord, clasps and findings",
+            "Only the beads",
+            "Only the clasps",
+            "Nothing yet"
+          ],
+          "answer": 0,
+          "explain": "Buy all beads, cord, clasps and findings."
+        },
+        {
+          "q": "What should you plan besides the making days?",
+          "options": [
+            "Display cards for the set",
+            "A party",
+            "A holiday",
+            "A new shop"
+          ],
+          "answer": 0,
+          "explain": "Plan the making days and design display cards for the set."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone: Make and Present a Jewellery Set",
+      "goal": "Make a set of three jewellery pieces and present them.",
+      "video": {
+        "youtube_id": "o1WHkKVgixs",
+        "title": "How to Make Waist Beads with Names",
+        "channel": "African Bead Tutorials"
+      },
+      "steps": [
+        "Make the three pieces following your plan.",
+        "Check each piece for fit, finish and clasps.",
+        "Mount and box the set neatly.",
+        "Present the set with costing and care notes."
+      ],
+      "task": "Present a finished jewellery set, checked and boxed.",
+      "challenge": "Finish the set with time left to fix any faults.",
+      "quiz": [
+        {
+          "q": "What should you check on each finished piece?",
+          "options": [
+            "Fit, finish and clasps",
+            "Only the colour",
+            "Only the price",
+            "Only the size"
+          ],
+          "answer": 0,
+          "explain": "Check each piece for fit, finish and clasps."
+        },
+        {
+          "q": "How should you present the set?",
+          "options": [
+            "Mount and box it neatly",
+            "Loose in a bag",
+            "On the floor",
+            "Without any box"
+          ],
+          "answer": 0,
+          "explain": "Mount and box the set neatly."
+        },
+        {
+          "q": "What should you present with the set?",
+          "options": [
+            "Costing and care notes",
+            "Only the price",
+            "Only a photo",
+            "Nothing else"
+          ],
+          "answer": 0,
+          "explain": "Present the set with costing and care notes."
+        }
+      ],
+      "project": null
     }
-   ],
-   "project": null
-  },
-  {
-   "day": 3,
-   "week": 1,
-   "title": "Stringing Beads",
-   "goal": "String beads on cord in a neat pattern.",
-   "video": {
-    "youtube_id": "8AXtIYyJ6jg",
-    "title": "5 Essential Jewelry Making Techniques",
-    "channel": "Style Makers"
-   },
-   "steps": [
-    "Cut cord a little longer than you need.",
-    "Thread beads in your pattern, checking the colours.",
-    "Keep the beads snug with no gaps.",
-    "Tie a strong knot and hide it inside a bead."
-   ],
-   "task": "String a bracelet with a neat pattern.",
-   "challenge": "String beads with no gaps and no loose cord.",
-   "quiz": [
-    {
-     "q": "What are findings in jewellery making?",
-     "options": [
-      "Beads",
-      "The small metal parts like clasps and rings",
-      "The thread",
-      "The tools"
-     ],
-     "answer": 1,
-     "explain": "Findings are the small metal parts: clasps, jump rings and hooks."
-    },
-    {
-     "q": "Why use a bead mat?",
-     "options": [
-      "For looks",
-      "So beads do not roll away",
-      "To cut beads",
-      "To store beads"
-     ],
-     "answer": 1,
-     "explain": "A bead mat has a soft surface that stops beads rolling off the table."
-    },
-    {
-     "q": "What size is a small bead?",
-     "options": [
-      "10mm",
-      "4mm",
-      "20mm",
-      "1mm"
-     ],
-     "answer": 1,
-     "explain": "Small beads are about 4mm across; big beads are about 10mm."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 4,
-   "week": 1,
-   "title": "Bracelet Sizes and Fit",
-   "goal": "Measure wrists and make bracelets that fit.",
-   "video": {
-    "youtube_id": "U65cbafKlsE",
-    "title": "How to Make Beaded Bracelets and Pearl Necklaces",
-    "channel": "Lisa Mecham"
-   },
-   "steps": [
-    "Measure a wrist with a tape around the bone.",
-    "Add about 1cm for comfort.",
-    "Learn that a tight bracelet is uncomfortable and breaks easily.",
-    "Test the fit on a real wrist before you finish."
-   ],
-   "task": "Measure three wrists and record the sizes.",
-   "challenge": "Make a bracelet that fits a wrist well.",
-   "quiz": [
-    {
-     "q": "Which beads suit a casual bracelet?",
-     "options": [
-      "Glass",
-      "Wood",
-      "Stone",
-      "Crystal"
-     ],
-     "answer": 1,
-     "explain": "Wood beads are light and suit casual everyday bracelets."
-    },
-    {
-     "q": "Why are stone beads heavy?",
-     "options": [
-      "They are big",
-      "Stone is a dense material",
-      "They are wet",
-      "They are coated"
-     ],
-     "answer": 1,
-     "explain": "Stone is dense, so stone beads feel heavy compared with wood or plastic."
-    },
-    {
-     "q": "Which beads shine the most?",
-     "options": [
-      "Wood",
-      "Glass",
-      "Plastic",
-      "Clay"
-     ],
-     "answer": 1,
-     "explain": "Glass beads catch light and shine, so they suit necklaces."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 5,
-   "week": 1,
-   "title": "Pearl Necklaces",
-   "goal": "String a pearl necklace that sits well.",
-   "video": {
-    "youtube_id": "U65cbafKlsE",
-    "title": "How to Make Beaded Bracelets and Pearl Necklaces",
-    "channel": "Lisa Mecham"
-   },
-   "steps": [
-    "Learn that pearls need a knot between each one so they do not rub.",
-    "String pearls with knots using a beading needle.",
-    "Add a clasp that is easy to open.",
-    "Check the necklace hangs evenly."
-   ],
-   "task": "String a short pearl necklace with knots.",
-   "challenge": "Knot between pearls so they do not rub.",
-   "quiz": [
-    {
-     "q": "Which beads suit a casual bracelet?",
-     "options": [
-      "Glass",
-      "Wood",
-      "Stone",
-      "Crystal"
-     ],
-     "answer": 1,
-     "explain": "Wood beads are light and suit casual everyday bracelets."
-    },
-    {
-     "q": "Why are stone beads heavy?",
-     "options": [
-      "They are big",
-      "Stone is a dense material",
-      "They are wet",
-      "They are coated"
-     ],
-     "answer": 1,
-     "explain": "Stone is dense, so stone beads feel heavy compared with wood or plastic."
-    },
-    {
-     "q": "Which beads shine the most?",
-     "options": [
-      "Wood",
-      "Glass",
-      "Plastic",
-      "Clay"
-     ],
-     "answer": 1,
-     "explain": "Glass beads catch light and shine, so they suit necklaces."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 6,
-   "week": 1,
-   "title": "Clasps and Findings",
-   "goal": "Fit clasps and findings so jewellery opens and closes well.",
-   "video": {
-    "youtube_id": "U65cbafKlsE",
-    "title": "How to Make Beaded Bracelets and Pearl Necklaces",
-    "channel": "Lisa Mecham"
-   },
-   "steps": [
-    "Learn the clasp types: lobster, toggle and magnetic.",
-    "Learn that a jump ring is a small metal ring that joins parts.",
-    "Open a jump ring sideways, never pull it apart.",
-    "Test the clasp three times before you finish."
-   ],
-   "task": "Fit a lobster clasp to a bracelet.",
-   "challenge": "Open and close a jump ring the right way.",
-   "quiz": [
-    {
-     "q": "Which beads suit a casual bracelet?",
-     "options": [
-      "Glass",
-      "Wood",
-      "Stone",
-      "Crystal"
-     ],
-     "answer": 1,
-     "explain": "Wood beads are light and suit casual everyday bracelets."
-    },
-    {
-     "q": "Why are stone beads heavy?",
-     "options": [
-      "They are big",
-      "Stone is a dense material",
-      "They are wet",
-      "They are coated"
-     ],
-     "answer": 1,
-     "explain": "Stone is dense, so stone beads feel heavy compared with wood or plastic."
-    },
-    {
-     "q": "Which beads shine the most?",
-     "options": [
-      "Wood",
-      "Glass",
-      "Plastic",
-      "Clay"
-     ],
-     "answer": 1,
-     "explain": "Glass beads catch light and shine, so they suit necklaces."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 7,
-   "week": 1,
-   "title": "Project: Make a Beaded Bracelet Set",
-   "goal": "Make a set of three beaded bracelets that match.",
-   "video": {
-    "youtube_id": "s6fuIgBz86c",
-    "title": "DIY Beaded Bracelet",
-    "channel": "Marie Beadsy"
-   },
-   "steps": [
-    "Pick beads in colours that go together.",
-    "Make three bracelets in different patterns.",
-    "Fit clasps and check the sizes.",
-    "Present the set neatly on a card or cloth."
-   ],
-   "task": "Finish a set of three matching bracelets.",
-   "challenge": "Make three bracelets with three patterns that still match.",
-   "quiz": [
-    {
-     "q": "How much extra cord should you add for comfort in a bracelet?",
-     "options": [
-      "None",
-      "About 1cm",
-      "5cm",
-      "10cm"
-     ],
-     "answer": 1,
-     "explain": "Adding about 1cm gives a bracelet room to move without being loose."
-    },
-    {
-     "q": "Where do you measure a wrist for a bracelet?",
-     "options": [
-      "At the elbow",
-      "Around the wrist bone",
-      "At the hand",
-      "At the forearm"
-     ],
-     "answer": 1,
-     "explain": "Measure around the wrist bone for the right bracelet size."
-    },
-    {
-     "q": "Why hide a knot inside a bead?",
-     "options": [
-      "For looks",
-      "So the knot is safe and does not show",
-      "To save cord",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Hiding the knot inside a bead keeps it safe and the piece looking neat."
-    }
-   ],
-   "project": {
-    "title": "Make a Beaded Bracelet Set",
-    "brief": "Make a set of three beaded bracelets that match.",
-    "checks": [
-     "Three bracelets made",
-     "Colours match",
-     "Patterns different",
-     "Clasps fitted and working",
-     "Sizes correct",
-     "Set presented neatly"
-    ]
-   }
-  },
-  {
-   "day": 8,
-   "week": 2,
-   "title": "Florere Bracelet",
-   "goal": "Make a Florere bracelet with a flower pattern.",
-   "video": {
-    "youtube_id": "s6fuIgBz86c",
-    "title": "DIY Beaded Bracelet",
-    "channel": "Marie Beadsy"
-   },
-   "steps": [
-    "Learn the Florere pattern: beads in a flower shape.",
-    "Follow the pattern step by step, one petal at a time.",
-    "Keep the thread tension even so the flower sits flat.",
-    "Finish with a clasp and check the shape."
-   ],
-   "task": "Make a Florere bracelet with a clear flower pattern.",
-   "challenge": "Make a flower pattern that sits flat.",
-   "quiz": [
-    {
-     "q": "How much extra cord should you add for comfort in a bracelet?",
-     "options": [
-      "None",
-      "About 1cm",
-      "5cm",
-      "10cm"
-     ],
-     "answer": 1,
-     "explain": "Adding about 1cm gives a bracelet room to move without being loose."
-    },
-    {
-     "q": "Where do you measure a wrist for a bracelet?",
-     "options": [
-      "At the elbow",
-      "Around the wrist bone",
-      "At the hand",
-      "At the forearm"
-     ],
-     "answer": 1,
-     "explain": "Measure around the wrist bone for the right bracelet size."
-    },
-    {
-     "q": "Why hide a knot inside a bead?",
-     "options": [
-      "For looks",
-      "So the knot is safe and does not show",
-      "To save cord",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Hiding the knot inside a bead keeps it safe and the piece looking neat."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 9,
-   "week": 2,
-   "title": "Bead Patterns and Colour",
-   "goal": "Design bead patterns with colour that works.",
-   "video": {
-    "youtube_id": "s6fuIgBz86c",
-    "title": "DIY Beaded Bracelet",
-    "channel": "Marie Beadsy"
-   },
-   "steps": [
-    "Learn that warm colours (red, orange) feel bold.",
-    "Learn that cool colours (blue, green) feel calm.",
-    "Use one main colour, one second colour and a small accent.",
-    "Draw your pattern on paper before you bead."
-   ],
-   "task": "Draw a bead pattern with three colours.",
-   "challenge": "Design a pattern with colours that work together.",
-   "quiz": [
-    {
-     "q": "How much extra cord should you add for comfort in a bracelet?",
-     "options": [
-      "None",
-      "About 1cm",
-      "5cm",
-      "10cm"
-     ],
-     "answer": 1,
-     "explain": "Adding about 1cm gives a bracelet room to move without being loose."
-    },
-    {
-     "q": "Where do you measure a wrist for a bracelet?",
-     "options": [
-      "At the elbow",
-      "Around the wrist bone",
-      "At the hand",
-      "At the forearm"
-     ],
-     "answer": 1,
-     "explain": "Measure around the wrist bone for the right bracelet size."
-    },
-    {
-     "q": "Why hide a knot inside a bead?",
-     "options": [
-      "For looks",
-      "So the knot is safe and does not show",
-      "To save cord",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Hiding the knot inside a bead keeps it safe and the piece looking neat."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 10,
-   "week": 2,
-   "title": "Woven Cuff Bracelets",
-   "goal": "Weave beads into a wide cuff bracelet.",
-   "video": {
-    "youtube_id": "9JuzakdHY10",
-    "title": "How to Make a Florere Bracelet",
-    "channel": "PotomacBeads"
-   },
-   "steps": [
-    "Weaving means passing thread through beads in rows.",
-    "Set up a bead loom (a frame that holds threads) or weave by hand.",
-    "Weave row by row, keeping the rows straight.",
-    "Finish the edges neatly and add a clasp."
-   ],
-   "task": "Weave a small cuff bracelet.",
-   "challenge": "Weave rows that stay straight and even.",
-   "quiz": [
-    {
-     "q": "Why knot between pearls?",
-     "options": [
-      "For looks",
-      "So pearls do not rub each other",
-      "To make it longer",
-      "To save thread"
-     ],
-     "answer": 1,
-     "explain": "Knots stop pearls rubbing and keep them apart so they last longer."
-    },
-    {
-     "q": "What clasp is easy to open with one hand?",
-     "options": [
-      "Toggle",
-      "Lobster",
-      "Magnetic",
-      "Hook"
-     ],
-     "answer": 1,
-     "explain": "A lobster clasp opens with a small lever and is easy to use."
-    },
-    {
-     "q": "How do you open a jump ring?",
-     "options": [
-      "Pull it apart",
-      "Twist it sideways",
-      "Cut it",
-      "Squeeze it"
-     ],
-     "answer": 1,
-     "explain": "Twisting sideways keeps the ring round; pulling apart bends it out of shape."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 11,
-   "week": 2,
-   "title": "Wire Wrapping Basics",
-   "goal": "Wrap wire around beads to hold them.",
-   "video": {
-    "youtube_id": "9JuzakdHY10",
-    "title": "How to Make a Florere Bracelet",
-    "channel": "PotomacBeads"
-   },
-   "steps": [
-    "Wire wrapping means bending wire to hold a bead.",
-    "Use round-nose pliers to make loops.",
-    "Make a loop, thread a bead, then close the loop.",
-    "Keep loops the same size for a neat look."
-   ],
-   "task": "Wrap wire around three beads with neat loops.",
-   "challenge": "Make loops that are all the same size.",
-   "quiz": [
-    {
-     "q": "Why knot between pearls?",
-     "options": [
-      "For looks",
-      "So pearls do not rub each other",
-      "To make it longer",
-      "To save thread"
-     ],
-     "answer": 1,
-     "explain": "Knots stop pearls rubbing and keep them apart so they last longer."
-    },
-    {
-     "q": "What clasp is easy to open with one hand?",
-     "options": [
-      "Toggle",
-      "Lobster",
-      "Magnetic",
-      "Hook"
-     ],
-     "answer": 1,
-     "explain": "A lobster clasp opens with a small lever and is easy to use."
-    },
-    {
-     "q": "How do you open a jump ring?",
-     "options": [
-      "Pull it apart",
-      "Twist it sideways",
-      "Cut it",
-      "Squeeze it"
-     ],
-     "answer": 1,
-     "explain": "Twisting sideways keeps the ring round; pulling apart bends it out of shape."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 12,
-   "week": 2,
-   "title": "Beaded Earrings",
-   "goal": "Make a pair of beaded earrings.",
-   "video": {
-    "youtube_id": "9JuzakdHY10",
-    "title": "How to Make a Florere Bracelet",
-    "channel": "PotomacBeads"
-   },
-   "steps": [
-    "Pick beads light enough for ears.",
-    "Make two earrings the same: same beads, same order.",
-    "Fit ear hooks and check they hang evenly.",
-    "Test the pair: they should match and feel light."
-   ],
-   "task": "Make a pair of matching beaded earrings.",
-   "challenge": "Make two earrings that are exactly the same.",
-   "quiz": [
-    {
-     "q": "Why knot between pearls?",
-     "options": [
-      "For looks",
-      "So pearls do not rub each other",
-      "To make it longer",
-      "To save thread"
-     ],
-     "answer": 1,
-     "explain": "Knots stop pearls rubbing and keep them apart so they last longer."
-    },
-    {
-     "q": "What clasp is easy to open with one hand?",
-     "options": [
-      "Toggle",
-      "Lobster",
-      "Magnetic",
-      "Hook"
-     ],
-     "answer": 1,
-     "explain": "A lobster clasp opens with a small lever and is easy to use."
-    },
-    {
-     "q": "How do you open a jump ring?",
-     "options": [
-      "Pull it apart",
-      "Twist it sideways",
-      "Cut it",
-      "Squeeze it"
-     ],
-     "answer": 1,
-     "explain": "Twisting sideways keeps the ring round; pulling apart bends it out of shape."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 13,
-   "week": 2,
-   "title": "Gemstone Cluster Bracelet",
-   "goal": "Make a bracelet with clusters of small gemstones.",
-   "video": {
-    "youtube_id": "83Ja9uu-IXI",
-    "title": "How to Make Woven Cuff Bracelets",
-    "channel": "Jill Wiseman Designs"
-   },
-   "steps": [
-    "A cluster is a group of small beads bunched together.",
-    "Wire small gemstones into clusters.",
-    "Join clusters along the bracelet.",
-    "Check the bracelet is not too heavy to wear."
-   ],
-   "task": "Make a bracelet with gemstone clusters.",
-   "challenge": "Make clusters that are even and secure.",
-   "quiz": [
-    {
-     "q": "What is the Florere pattern?",
-     "options": [
-      "A plain row",
-      "Beads in a flower shape",
-      "A zigzag",
-      "A spiral"
-     ],
-     "answer": 1,
-     "explain": "The Florere bracelet makes flower shapes from beads."
-    },
-    {
-     "q": "Why keep thread tension even?",
-     "options": [
-      "For speed",
-      "So the flower sits flat",
-      "To save thread",
-      "For colour"
-     ],
-     "answer": 1,
-     "explain": "Even tension keeps the pattern flat and neat."
-    },
-    {
-     "q": "What is a bead loom?",
-     "options": [
-      "A tool to cut beads",
-      "A frame that holds threads for weaving beads",
-      "A bead box",
-      "A necklace"
-     ],
-     "answer": 1,
-     "explain": "A loom holds warp threads so you can weave bead rows across them."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 14,
-   "week": 2,
-   "title": "Project: Make a Woven Cuff Bracelet",
-   "goal": "Weave a wide cuff bracelet and finish it neatly.",
-   "video": {
-    "youtube_id": "83Ja9uu-IXI",
-    "title": "How to Make Woven Cuff Bracelets",
-    "channel": "Jill Wiseman Designs"
-   },
-   "steps": [
-    "Pick a pattern and colours for the cuff.",
-    "Weave row by row until the cuff is wide enough.",
-    "Finish the edges and add a clasp.",
-    "Check the cuff fits and sits flat on the wrist."
-   ],
-   "task": "Finish a woven cuff bracelet that fits well.",
-   "challenge": "Weave a cuff with a clear pattern.",
-   "quiz": [
-    {
-     "q": "What is the Florere pattern?",
-     "options": [
-      "A plain row",
-      "Beads in a flower shape",
-      "A zigzag",
-      "A spiral"
-     ],
-     "answer": 1,
-     "explain": "The Florere bracelet makes flower shapes from beads."
-    },
-    {
-     "q": "Why keep thread tension even?",
-     "options": [
-      "For speed",
-      "So the flower sits flat",
-      "To save thread",
-      "For colour"
-     ],
-     "answer": 1,
-     "explain": "Even tension keeps the pattern flat and neat."
-    },
-    {
-     "q": "What is a bead loom?",
-     "options": [
-      "A tool to cut beads",
-      "A frame that holds threads for weaving beads",
-      "A bead box",
-      "A necklace"
-     ],
-     "answer": 1,
-     "explain": "A loom holds warp threads so you can weave bead rows across them."
-    }
-   ],
-   "project": {
-    "title": "Make a Woven Cuff Bracelet",
-    "brief": "Weave a wide cuff bracelet and finish it neatly.",
-    "checks": [
-     "Pattern clear",
-     "Rows straight and even",
-     "Edges finished",
-     "Clasp fitted",
-     "Cuff fits well",
-     "Sits flat on the wrist"
-    ]
-   }
-  },
-  {
-   "day": 15,
-   "week": 3,
-   "title": "Necklace Lengths",
-   "goal": "Know necklace lengths and what each suits.",
-   "video": {
-    "youtube_id": "83Ja9uu-IXI",
-    "title": "How to Make Woven Cuff Bracelets",
-    "channel": "Jill Wiseman Designs"
-   },
-   "steps": [
-    "A choker sits high on the neck, about 35cm.",
-    "A princess length sits on the collarbone, about 45cm.",
-    "A matinee length sits on the chest, about 55cm.",
-    "Measure the length before you cut the cord."
-   ],
-   "task": "Make necklaces in two different lengths.",
-   "challenge": "Pick the right length for a necklace and explain why.",
-   "quiz": [
-    {
-     "q": "What is the Florere pattern?",
-     "options": [
-      "A plain row",
-      "Beads in a flower shape",
-      "A zigzag",
-      "A spiral"
-     ],
-     "answer": 1,
-     "explain": "The Florere bracelet makes flower shapes from beads."
-    },
-    {
-     "q": "Why keep thread tension even?",
-     "options": [
-      "For speed",
-      "So the flower sits flat",
-      "To save thread",
-      "For colour"
-     ],
-     "answer": 1,
-     "explain": "Even tension keeps the pattern flat and neat."
-    },
-    {
-     "q": "What is a bead loom?",
-     "options": [
-      "A tool to cut beads",
-      "A frame that holds threads for weaving beads",
-      "A bead box",
-      "A necklace"
-     ],
-     "answer": 1,
-     "explain": "A loom holds warp threads so you can weave bead rows across them."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 16,
-   "week": 3,
-   "title": "Wire Earrings",
-   "goal": "Make wire-wrapped earrings with beads.",
-   "video": {
-    "youtube_id": "4c4TKExhzOo",
-    "title": "How to Make Wire Wrapped and Beaded Earrings",
-    "channel": "Becky Stern"
-   },
-   "steps": [
-    "Wrap wire around a bead to make a drop.",
-    "Make two drops the same size.",
-    "Fit ear hooks and check they match.",
-    "Polish the wire so it shines."
-   ],
-   "task": "Make a pair of wire-wrapped earrings.",
-   "challenge": "Make two drops that match exactly.",
-   "quiz": [
-    {
-     "q": "What is wire wrapping?",
-     "options": [
-      "Wrapping beads in paper",
-      "Bending wire to hold a bead",
-      "Cutting wire",
-      "Painting wire"
-     ],
-     "answer": 1,
-     "explain": "Wire wrapping bends wire around a bead to hold it in place."
-    },
-    {
-     "q": "Why make loops the same size?",
-     "options": [
-      "For speed",
-      "So the piece looks neat",
-      "To save wire",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Matching loops make the jewellery look professional."
-    },
-    {
-     "q": "What tool makes wire loops?",
-     "options": [
-      "Flat pliers",
-      "Round-nose pliers",
-      "Cutters",
-      "Hammer"
-     ],
-     "answer": 1,
-     "explain": "Round-nose pliers bend wire into smooth round loops."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 17,
-   "week": 3,
-   "title": "Waist Beads: The Tradition",
-   "goal": "Know what waist beads are and how they are worn.",
-   "video": {
-    "youtube_id": "4c4TKExhzOo",
-    "title": "How to Make Wire Wrapped and Beaded Earrings",
-    "channel": "Becky Stern"
-   },
-   "steps": [
-    "Waist beads are strands worn around the waist, common in African culture.",
-    "They can be worn for beauty, confidence or tradition.",
-    "They are made on strong cord, not elastic, for a lasting fit.",
-    "Measure the waist at the navel for the right size."
-   ],
-   "task": "Explain waist beads to a customer in plain words.",
-   "challenge": "Measure a waist for waist beads.",
-   "quiz": [
-    {
-     "q": "What is wire wrapping?",
-     "options": [
-      "Wrapping beads in paper",
-      "Bending wire to hold a bead",
-      "Cutting wire",
-      "Painting wire"
-     ],
-     "answer": 1,
-     "explain": "Wire wrapping bends wire around a bead to hold it in place."
-    },
-    {
-     "q": "Why make loops the same size?",
-     "options": [
-      "For speed",
-      "So the piece looks neat",
-      "To save wire",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Matching loops make the jewellery look professional."
-    },
-    {
-     "q": "What tool makes wire loops?",
-     "options": [
-      "Flat pliers",
-      "Round-nose pliers",
-      "Cutters",
-      "Hammer"
-     ],
-     "answer": 1,
-     "explain": "Round-nose pliers bend wire into smooth round loops."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 18,
-   "week": 3,
-   "title": "Waist Beads on Elastic",
-   "goal": "Make waist beads on elastic cord.",
-   "video": {
-    "youtube_id": "4c4TKExhzOo",
-    "title": "How to Make Wire Wrapped and Beaded Earrings",
-    "channel": "Becky Stern"
-   },
-   "steps": [
-    "Cut elastic cord longer than the waist size.",
-    "Thread beads in your pattern.",
-    "Tie a strong knot and hide it inside a bead.",
-    "Check the beads sit flat and the cord is not twisted."
-   ],
-   "task": "Make a waist bead strand on elastic.",
-   "challenge": "Make a strand that fits and sits flat.",
-   "quiz": [
-    {
-     "q": "What is wire wrapping?",
-     "options": [
-      "Wrapping beads in paper",
-      "Bending wire to hold a bead",
-      "Cutting wire",
-      "Painting wire"
-     ],
-     "answer": 1,
-     "explain": "Wire wrapping bends wire around a bead to hold it in place."
-    },
-    {
-     "q": "Why make loops the same size?",
-     "options": [
-      "For speed",
-      "So the piece looks neat",
-      "To save wire",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Matching loops make the jewellery look professional."
-    },
-    {
-     "q": "What tool makes wire loops?",
-     "options": [
-      "Flat pliers",
-      "Round-nose pliers",
-      "Cutters",
-      "Hammer"
-     ],
-     "answer": 1,
-     "explain": "Round-nose pliers bend wire into smooth round loops."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 19,
-   "week": 3,
-   "title": "Project: Make a Necklace and Earring Set",
-   "goal": "Make a matching necklace and earring set.",
-   "video": {
-    "youtube_id": "UY_o3QRrHZc",
-    "title": "How to Make a Gemstone Cluster Bracelet",
-    "channel": "Andria Bieber"
-   },
-   "steps": [
-    "Pick beads and a colour scheme for the set.",
-    "Make the necklace first, then earrings to match.",
-    "Check both pieces use the same beads and colours.",
-    "Present the set together."
-   ],
-   "task": "Finish a matching necklace and earring set.",
-   "challenge": "Make a set where the earrings clearly match the necklace.",
-   "quiz": [
-    {
-     "q": "How long is a choker necklace?",
-     "options": [
-      "55cm",
-      "About 35cm",
-      "45cm",
-      "70cm"
-     ],
-     "answer": 1,
-     "explain": "A choker sits high on the neck at about 35cm."
-    },
-    {
-     "q": "How long is a princess necklace?",
-     "options": [
-      "35cm",
-      "About 45cm",
-      "55cm",
-      "70cm"
-     ],
-     "answer": 1,
-     "explain": "Princess length sits on the collarbone at about 45cm."
-    },
-    {
-     "q": "Why measure necklace length before cutting cord?",
-     "options": [
-      "To save time",
-      "So the necklace sits where you want it",
-      "It is the law",
-      "For looks"
-     ],
-     "answer": 1,
-     "explain": "Measuring first means the necklace ends at the right place on the body."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 20,
-   "week": 3,
-   "title": "Waist Beads Without Elastic",
-   "goal": "Make waist beads on strong non-elastic cord.",
-   "video": {
-    "youtube_id": "UY_o3QRrHZc",
-    "title": "How to Make a Gemstone Cluster Bracelet",
-    "channel": "Andria Bieber"
-   },
-   "steps": [
-    "Use strong beading thread or cotton cord.",
-    "Thread beads and tie off with a strong knot.",
-    "Learn that non-elastic beads are tied on and stay on.",
-    "Check the size before you tie it off: it cannot stretch."
-   ],
-   "task": "Make waist beads on non-elastic cord.",
-   "challenge": "Make a strand that fits exactly, with no stretch.",
-   "quiz": [
-    {
-     "q": "How long is a choker necklace?",
-     "options": [
-      "55cm",
-      "About 35cm",
-      "45cm",
-      "70cm"
-     ],
-     "answer": 1,
-     "explain": "A choker sits high on the neck at about 35cm."
-    },
-    {
-     "q": "How long is a princess necklace?",
-     "options": [
-      "35cm",
-      "About 45cm",
-      "55cm",
-      "70cm"
-     ],
-     "answer": 1,
-     "explain": "Princess length sits on the collarbone at about 45cm."
-    },
-    {
-     "q": "Why measure necklace length before cutting cord?",
-     "options": [
-      "To save time",
-      "So the necklace sits where you want it",
-      "It is the law",
-      "For looks"
-     ],
-     "answer": 1,
-     "explain": "Measuring first means the necklace ends at the right place on the body."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 21,
-   "week": 3,
-   "title": "Waist Beads with Names",
-   "goal": "Make waist beads with letter beads spelling a name.",
-   "video": {
-    "youtube_id": "UY_o3QRrHZc",
-    "title": "How to Make a Gemstone Cluster Bracelet",
-    "channel": "Andria Bieber"
-   },
-   "steps": [
-    "Plan the name with letter beads in the middle.",
-    "Add pattern beads on each side.",
-    "Check the spelling twice before you finish.",
-    "Tie off and check the name reads clearly."
-   ],
-   "task": "Make waist beads spelling a name correctly.",
-   "challenge": "Make a name strand with the name clear to read.",
-   "quiz": [
-    {
-     "q": "How long is a choker necklace?",
-     "options": [
-      "55cm",
-      "About 35cm",
-      "45cm",
-      "70cm"
-     ],
-     "answer": 1,
-     "explain": "A choker sits high on the neck at about 35cm."
-    },
-    {
-     "q": "How long is a princess necklace?",
-     "options": [
-      "35cm",
-      "About 45cm",
-      "55cm",
-      "70cm"
-     ],
-     "answer": 1,
-     "explain": "Princess length sits on the collarbone at about 45cm."
-    },
-    {
-     "q": "Why measure necklace length before cutting cord?",
-     "options": [
-      "To save time",
-      "So the necklace sits where you want it",
-      "It is the law",
-      "For looks"
-     ],
-     "answer": 1,
-     "explain": "Measuring first means the necklace ends at the right place on the body."
-    }
-   ],
-   "project": {
-    "title": "Make a Necklace and Earring Set",
-    "brief": "Make a matching necklace and earring set.",
-    "checks": [
-     "Necklace finished",
-     "Earrings finished",
-     "Same beads and colours",
-     "Earrings match each other",
-     "Clasps and hooks work",
-     "Set presented together"
-    ]
-   }
-  },
-  {
-   "day": 22,
-   "week": 4,
-   "title": "Jewellery Care and Repairs",
-   "goal": "Fix broken jewellery and tell customers how to care for it.",
-   "video": {
-    "youtube_id": "TuJgdrtaC6I",
-    "title": "DIY African Waist Beads",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Re-string a broken bracelet with new cord.",
-    "Replace a broken clasp.",
-    "Tell customers to keep jewellery dry and away from perfume.",
-    "Offer a repair service and price it."
-   ],
-   "task": "Repair a broken bracelet so it looks new.",
-   "challenge": "Write care instructions for a customer.",
-   "quiz": [
-    {
-     "q": "What are waist beads?",
-     "options": [
-      "Anklets",
-      "Strands worn around the waist",
-      "Necklaces",
-      "Bracelets"
-     ],
-     "answer": 1,
-     "explain": "Waist beads are strands worn around the waist, common in African culture."
-    },
-    {
-     "q": "Where do you measure for waist beads?",
-     "options": [
-      "At the chest",
-      "At the waist at the navel",
-      "At the hips",
-      "At the neck"
-     ],
-     "answer": 1,
-     "explain": "Measure at the waist, usually at the navel, for the right size."
-    },
-    {
-     "q": "Why are non-elastic waist beads tied on?",
-     "options": [
-      "For looks",
-      "They cannot stretch, so they are tied to fit",
-      "It is faster",
-      "They are cheaper"
-     ],
-     "answer": 1,
-     "explain": "Non-elastic cord cannot stretch, so the beads are tied on at the right size."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 23,
-   "week": 4,
-   "title": "Jewellery Business Basics",
-   "goal": "Learn how a small jewellery business works.",
-   "video": {
-    "youtube_id": "TuJgdrtaC6I",
-    "title": "DIY African Waist Beads",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Work out the cost of one bracelet: beads, cord, clasp and time.",
-    "Add a fair profit.",
-    "Learn where to sell: markets, online and gift shops.",
-    "Keep a simple sales record."
-   ],
-   "task": "Work out the cost and price of one bracelet.",
-   "challenge": "List three places you could sell jewellery.",
-   "quiz": [
-    {
-     "q": "What are waist beads?",
-     "options": [
-      "Anklets",
-      "Strands worn around the waist",
-      "Necklaces",
-      "Bracelets"
-     ],
-     "answer": 1,
-     "explain": "Waist beads are strands worn around the waist, common in African culture."
-    },
-    {
-     "q": "Where do you measure for waist beads?",
-     "options": [
-      "At the chest",
-      "At the waist at the navel",
-      "At the hips",
-      "At the neck"
-     ],
-     "answer": 1,
-     "explain": "Measure at the waist, usually at the navel, for the right size."
-    },
-    {
-     "q": "Why are non-elastic waist beads tied on?",
-     "options": [
-      "For looks",
-      "They cannot stretch, so they are tied to fit",
-      "It is faster",
-      "They are cheaper"
-     ],
-     "answer": 1,
-     "explain": "Non-elastic cord cannot stretch, so the beads are tied on at the right size."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 24,
-   "week": 4,
-   "title": "Price Your Jewellery",
-   "goal": "Price jewellery so the business pays.",
-   "video": {
-    "youtube_id": "TuJgdrtaC6I",
-    "title": "DIY African Waist Beads",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Add up all costs for one piece.",
-    "Add your time at a fair hourly rate.",
-    "Add profit and round to a clean price.",
-    "Compare your price with jewellery in shops."
-   ],
-   "task": "Price three jewellery pieces with costs shown.",
-   "challenge": "Price a matching set of necklace and earrings.",
-   "quiz": [
-    {
-     "q": "What are waist beads?",
-     "options": [
-      "Anklets",
-      "Strands worn around the waist",
-      "Necklaces",
-      "Bracelets"
-     ],
-     "answer": 1,
-     "explain": "Waist beads are strands worn around the waist, common in African culture."
-    },
-    {
-     "q": "Where do you measure for waist beads?",
-     "options": [
-      "At the chest",
-      "At the waist at the navel",
-      "At the hips",
-      "At the neck"
-     ],
-     "answer": 1,
-     "explain": "Measure at the waist, usually at the navel, for the right size."
-    },
-    {
-     "q": "Why are non-elastic waist beads tied on?",
-     "options": [
-      "For looks",
-      "They cannot stretch, so they are tied to fit",
-      "It is faster",
-      "They are cheaper"
-     ],
-     "answer": 1,
-     "explain": "Non-elastic cord cannot stretch, so the beads are tied on at the right size."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 25,
-   "week": 4,
-   "title": "Packaging and Display",
-   "goal": "Present jewellery so it sells: cards, boxes and displays.",
-   "video": {
-    "youtube_id": "Glhw_qcP-FI",
-    "title": "How to Make Waist Beads Without Elastic",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Mount bracelets on cards for markets.",
-    "Use small boxes for necklaces.",
-    "Display pieces at eye level, not flat on a table.",
-    "Keep a record of what you made and sold."
-   ],
-   "task": "Present three pieces ready to sell.",
-   "challenge": "Display a set so customers notice it.",
-   "quiz": [
-    {
-     "q": "What should a jewellery price cover?",
-     "options": [
-      "Only the beads",
-      "Beads, cord, clasp, time and profit",
-      "The cord only",
-      "Your time only"
-     ],
-     "answer": 1,
-     "explain": "A real price covers all materials, your time and a fair profit."
-    },
-    {
-     "q": "Why mount bracelets on cards for markets?",
-     "options": [
-      "For fun",
-      "So customers can see them clearly",
-      "To save space",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Cards let customers see and hold bracelets easily at a market stall."
-    },
-    {
-     "q": "Why keep a record of what you made and sold?",
-     "options": [
-      "For fun",
-      "So you know what sells and what to make more of",
-      "It is the law",
-      "To show friends"
-     ],
-     "answer": 1,
-     "explain": "Sales records show which pieces sell so you can make more of them."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 26,
-   "week": 4,
-   "title": "Sell Jewellery at a Market",
-   "goal": "Set up a market stall and sell your jewellery.",
-   "video": {
-    "youtube_id": "Glhw_qcP-FI",
-    "title": "How to Make Waist Beads Without Elastic",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Pick your best pieces and price them clearly.",
-    "Display pieces at eye level on a clean cloth.",
-    "Let customers try bracelets on.",
-    "Keep a record of every sale."
-   ],
-   "task": "Set up a market stall display for your jewellery.",
-   "challenge": "Sell your first piece at a market.",
-   "quiz": [
-    {
-     "q": "What should a jewellery price cover?",
-     "options": [
-      "Only the beads",
-      "Beads, cord, clasp, time and profit",
-      "The cord only",
-      "Your time only"
-     ],
-     "answer": 1,
-     "explain": "A real price covers all materials, your time and a fair profit."
-    },
-    {
-     "q": "Why mount bracelets on cards for markets?",
-     "options": [
-      "For fun",
-      "So customers can see them clearly",
-      "To save space",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Cards let customers see and hold bracelets easily at a market stall."
-    },
-    {
-     "q": "Why keep a record of what you made and sold?",
-     "options": [
-      "For fun",
-      "So you know what sells and what to make more of",
-      "It is the law",
-      "To show friends"
-     ],
-     "answer": 1,
-     "explain": "Sales records show which pieces sell so you can make more of them."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 27,
-   "week": 4,
-   "title": "Take Custom Jewellery Orders",
-   "goal": "Take a custom order: agree the design, size and price.",
-   "video": {
-    "youtube_id": "Glhw_qcP-FI",
-    "title": "How to Make Waist Beads Without Elastic",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Ask the customer what they want: colours, size and style.",
-    "Agree the price and delivery date in writing.",
-    "Make the piece and check it matches what they asked for.",
-    "Keep the order sheet safe."
-   ],
-   "task": "Complete an order sheet for a custom bracelet.",
-   "challenge": "Make a piece exactly as a customer asked.",
-   "quiz": [
-    {
-     "q": "What should a jewellery price cover?",
-     "options": [
-      "Only the beads",
-      "Beads, cord, clasp, time and profit",
-      "The cord only",
-      "Your time only"
-     ],
-     "answer": 1,
-     "explain": "A real price covers all materials, your time and a fair profit."
-    },
-    {
-     "q": "Why mount bracelets on cards for markets?",
-     "options": [
-      "For fun",
-      "So customers can see them clearly",
-      "To save space",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Cards let customers see and hold bracelets easily at a market stall."
-    },
-    {
-     "q": "Why keep a record of what you made and sold?",
-     "options": [
-      "For fun",
-      "So you know what sells and what to make more of",
-      "It is the law",
-      "To show friends"
-     ],
-     "answer": 1,
-     "explain": "Sales records show which pieces sell so you can make more of them."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 28,
-   "week": 4,
-   "title": "Personalised Jewellery: Names and Initials",
-   "goal": "Make personalised jewellery with names and initials.",
-   "video": {
-    "youtube_id": "o1WHkKVgixs",
-    "title": "How to Make Waist Beads with Names",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Plan the name with letter beads.",
-    "Add pattern beads on each side.",
-    "Check the spelling twice before you finish.",
-    "Present the piece as a gift."
-   ],
-   "task": "Make a bracelet spelling a name correctly.",
-   "challenge": "Make a personalised piece as a gift.",
-   "quiz": [
-    {
-     "q": "What beads spell a name on waist beads?",
-     "options": [
-      "Glass beads",
-      "Letter beads",
-      "Stone beads",
-      "Wood beads"
-     ],
-     "answer": 1,
-     "explain": "Letter beads spell out a name in the middle of the strand."
-    },
-    {
-     "q": "Why check the spelling twice?",
-     "options": [
-      "For fun",
-      "So the name reads correctly on the finished strand",
-      "It is the law",
-      "To save beads"
-     ],
-     "answer": 1,
-     "explain": "A wrong letter is hard to fix once the strand is tied off."
-    },
-    {
-     "q": "Where do letter beads go on a name strand?",
-     "options": [
-      "At the end",
-      "In the middle, with pattern beads on each side",
-      "On the clasp",
-      "Under the beads"
-     ],
-     "answer": 1,
-     "explain": "The name sits in the middle so it reads clearly when worn."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 29,
-   "week": 5,
-   "title": "Capstone Planning",
-   "goal": "Choose your capstone jewellery set, buy supplies and plan the days.",
-   "video": {
-    "youtube_id": "o1WHkKVgixs",
-    "title": "How to Make Waist Beads with Names",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Pick three pieces that show your best skills.",
-    "Buy all beads, cord, clasps and findings.",
-    "Plan the making days.",
-    "Design display cards for the set."
-   ],
-   "task": "Have all capstone supplies bought and cards designed.",
-   "challenge": "Plan a capstone set of three pieces.",
-   "quiz": [
-    {
-     "q": "What beads spell a name on waist beads?",
-     "options": [
-      "Glass beads",
-      "Letter beads",
-      "Stone beads",
-      "Wood beads"
-     ],
-     "answer": 1,
-     "explain": "Letter beads spell out a name in the middle of the strand."
-    },
-    {
-     "q": "Why check the spelling twice?",
-     "options": [
-      "For fun",
-      "So the name reads correctly on the finished strand",
-      "It is the law",
-      "To save beads"
-     ],
-     "answer": 1,
-     "explain": "A wrong letter is hard to fix once the strand is tied off."
-    },
-    {
-     "q": "Where do letter beads go on a name strand?",
-     "options": [
-      "At the end",
-      "In the middle, with pattern beads on each side",
-      "On the clasp",
-      "Under the beads"
-     ],
-     "answer": 1,
-     "explain": "The name sits in the middle so it reads clearly when worn."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 30,
-   "week": 5,
-   "title": "Capstone: Make and Present a Jewellery Set",
-   "goal": "Make a set of three jewellery pieces and present them.",
-   "video": {
-    "youtube_id": "o1WHkKVgixs",
-    "title": "How to Make Waist Beads with Names",
-    "channel": "African Bead Tutorials"
-   },
-   "steps": [
-    "Make the three pieces following your plan.",
-    "Check each piece for fit, finish and clasps.",
-    "Mount and box the set neatly.",
-    "Present the set with costing and care notes."
-   ],
-   "task": "Present a finished jewellery set, checked and boxed.",
-   "challenge": "Finish the set with time left to fix any faults.",
-   "quiz": [
-    {
-     "q": "What beads spell a name on waist beads?",
-     "options": [
-      "Glass beads",
-      "Letter beads",
-      "Stone beads",
-      "Wood beads"
-     ],
-     "answer": 1,
-     "explain": "Letter beads spell out a name in the middle of the strand."
-    },
-    {
-     "q": "Why check the spelling twice?",
-     "options": [
-      "For fun",
-      "So the name reads correctly on the finished strand",
-      "It is the law",
-      "To save beads"
-     ],
-     "answer": 1,
-     "explain": "A wrong letter is hard to fix once the strand is tied off."
-    },
-    {
-     "q": "Where do letter beads go on a name strand?",
-     "options": [
-      "At the end",
-      "In the middle, with pattern beads on each side",
-      "On the clasp",
-      "Under the beads"
-     ],
-     "answer": 1,
-     "explain": "The name sits in the middle so it reads clearly when worn."
-    }
-   ],
-   "project": null
-  }
- ],
- "capstone": {
-  "title": "Make and Present a Jewellery Set",
-  "brief": "Make a set of three jewellery pieces, check each for fit and finish, mount and box them, and present the set with costing and care notes.",
-  "checks": [
-   "Three pieces in one set",
-   "Same beads and colours across the set",
-   "Clasps, hooks and knots secure",
-   "Sizes and lengths correct",
-   "Pieces checked for finish",
-   "Set mounted and boxed neatly",
-   "Costing sheet shows materials, time and price"
   ],
-  "deliverables": [
-   "Set of three jewellery pieces, boxed",
-   "Care notes for customers",
-   "Costing and pricing sheet",
-   "Display cards",
-   "Photos of the set"
-  ]
- }
+  "capstone": {
+    "title": "Make and Present a Jewellery Set",
+    "brief": "Make a set of three jewellery pieces, check each for fit and finish, mount and box them, and present the set with costing and care notes.",
+    "checks": [
+      "Three pieces in one set",
+      "Same beads and colours across the set",
+      "Clasps, hooks and knots secure",
+      "Sizes and lengths correct",
+      "Pieces checked for finish",
+      "Set mounted and boxed neatly",
+      "Costing sheet shows materials, time and price"
+    ],
+    "deliverables": [
+      "Set of three jewellery pieces, boxed",
+      "Care notes for customers",
+      "Costing and pricing sheet",
+      "Display cards",
+      "Photos of the set"
+    ]
+  }
 }

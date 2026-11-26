@@ -28,37 +28,37 @@
       "challenge": "Do welcome to brow styling two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on welcome to brow styling?",
+          "q": "What does a spoolie brush do before you shape brows?",
           "options": [
-            "You should rush through the technique to save time.",
-            "A spoolie brushes brow hairs into place before shaping.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "It brushes brow hairs into place",
+            "It cuts the brow hairs short",
+            "It colours the brows darker",
+            "It pulls brow hairs out"
           ],
-          "answer": 1,
-          "explain": "A spoolie brushes brow hairs into place before shaping."
+          "answer": 0,
+          "explain": "Brush the hairs into place first so you can see the real shape before you cut or pull anything."
         },
         {
-          "q": "Which tool is most essential for welcome to brow styling?",
+          "q": "Which tool brushes brow hairs into place?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "spoolie brush",
-            "foil shaver"
+            "Brow scissors",
+            "Tweezers",
+            "Spoolie brush",
+            "Brow pencil"
           ],
           "answer": 2,
-          "explain": "The spoolie brush is the essential tool for this work."
+          "explain": "The spoolie brush is the small brush that combs brow hairs into place."
         },
         {
-          "q": "What should you always do when working on welcome to brow styling?",
+          "q": "What should you do before you use tint or wax on a client?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test tint and wax first"
+            "Patch test the tint and wax first",
+            "Skip the test to save time",
+            "Test it on the client's hair only",
+            "Use it straight away"
           ],
-          "answer": 3,
-          "explain": "You should always patch test tint and wax first."
+          "answer": 0,
+          "explain": "A patch test first shows if the client's skin will react to the tint or wax."
         }
       ],
       "project": null
@@ -84,37 +84,37 @@
       "challenge": "Do brow anatomy two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow anatomy?",
+          "q": "Which part of the eyebrow is the highest point?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "The brow arch is the highest point of the eyebrow.",
-            "Using dirty tools gives the same result as clean ones."
+            "The head",
+            "The tail",
+            "The arch",
+            "The skin under the brow"
           ],
           "answer": 2,
-          "explain": "The brow arch is the highest point of the eyebrow."
+          "explain": "The arch is the highest point of the eyebrow."
         },
         {
-          "q": "Which tool is most essential for brow anatomy?",
+          "q": "Which tool helps you draw the brow shape before you touch any hair?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "brow mapping string"
+            "Brow scissors",
+            "Tweezers",
+            "Brow mapping string",
+            "Brow tint"
           ],
-          "answer": 3,
-          "explain": "The brow mapping string is the essential tool for this work."
+          "answer": 2,
+          "explain": "Mapping string draws a clean outline you can follow while you shape."
         },
         {
-          "q": "What should you always do when working on brow anatomy?",
+          "q": "When should you never wax a client's brows?",
           "options": [
-            "never wax broken or sunburned skin",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "When the skin is broken or sunburned",
+            "When the brows are thick",
+            "When the client is in a hurry",
+            "When the brows are light in colour"
           ],
           "answer": 0,
-          "explain": "Never wax broken or sunburned skin."
+          "explain": "Never wax skin that is broken, sunburned or irritated."
         }
       ],
       "project": null
@@ -140,37 +140,37 @@
       "challenge": "Do hygiene and safety two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hygiene and safety?",
+          "q": "Why should you never wax skin that is broken, sunburned or irritated?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Never wax skin that is broken, sunburned or irritated."
-          ],
-          "answer": 3,
-          "explain": "Never wax skin that is broken, sunburned or irritated."
-        },
-        {
-          "q": "Which tool is most essential for hygiene and safety?",
-          "options": [
-            "tweezers",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "It can hurt the skin and cause infection",
+            "The wax will not stick at all",
+            "The brows will grow back darker",
+            "The wax will change colour"
           ],
           "answer": 0,
-          "explain": "The tweezers is the essential tool for this work."
+          "explain": "Broken or sore skin can be hurt badly by wax and can get infected."
         },
         {
-          "q": "What should you always do when working on hygiene and safety?",
+          "q": "Which tool must you disinfect between clients?",
           "options": [
-            "disinfect your clippers between clients",
-            "use a fresh wax stick for each client",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Brow tint",
+            "Tweezers",
+            "Mapping string",
+            "Brow pencil"
           ],
           "answer": 1,
-          "explain": "You should always use a fresh wax stick for each client."
+          "explain": "Disinfect your tweezers between clients so germs do not spread."
+        },
+        {
+          "q": "What should you do with a wax stick after using it on one client?",
+          "options": [
+            "Use a fresh stick for each client",
+            "Put it back in the wax pot",
+            "Wipe it and use it again",
+            "Keep it for the next day"
+          ],
+          "answer": 0,
+          "explain": "Use a fresh wax stick for each client so germs do not spread."
         }
       ],
       "project": null
@@ -196,37 +196,37 @@
       "challenge": "Do brow mapping: the three points two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow mapping: the three points?",
+          "q": "Where should the start of the brow line up?",
           "options": [
-            "The brow start lines up with the side of the nose.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "With the side of the nose",
+            "With the middle of the eye",
+            "With the ear",
+            "With the corner of the mouth"
           ],
           "answer": 0,
           "explain": "The brow start lines up with the side of the nose."
         },
         {
-          "q": "Which tool is most essential for brow mapping: the three points?",
+          "q": "Which three points do you mark when you map a brow?",
           "options": [
-            "clipper with guards",
-            "brow tint",
-            "trimmer",
-            "foil shaver"
+            "The start, the arch and the tail",
+            "Only the tail",
+            "Only the middle",
+            "The eyelid and the cheek"
           ],
-          "answer": 1,
-          "explain": "The brow tint is the essential tool for this work."
+          "answer": 0,
+          "explain": "Mapping marks three points: the start, the arch and the tail."
         },
         {
-          "q": "What should you always do when working on brow mapping: the three points?",
+          "q": "Why do you map the brows before you shape them?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "patch test tint and wax first",
-            "check the client for cuts before starting"
+            "So both brows come out even and in the right place",
+            "So the brows grow faster",
+            "So you do not need tweezers",
+            "So the tint lasts longer"
           ],
-          "answer": 2,
-          "explain": "You should always patch test tint and wax first."
+          "answer": 0,
+          "explain": "Mapping first gives you a clear shape to follow, so both brows match."
         }
       ],
       "project": null
@@ -252,37 +252,37 @@
       "challenge": "Do measuring with string two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on measuring with string?",
+          "q": "What does mapping string do?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Mapping string draws a clean brow outline to follow.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "It draws a clean brow outline to follow",
+            "It pulls brow hairs out",
+            "It colours the brows",
+            "It cuts long brow hairs"
           ],
-          "answer": 1,
-          "explain": "Mapping string draws a clean brow outline to follow."
+          "answer": 0,
+          "explain": "Mapping string draws a clean brow outline to follow before you touch any hair."
         },
         {
-          "q": "Which tool is most essential for measuring with string?",
+          "q": "When do you draw the brow shape with mapping string?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "spoolie brush",
-            "foil shaver"
+            "Before you touch any hair",
+            "After you finish waxing",
+            "Only after tinting",
+            "When the client is leaving"
           ],
-          "answer": 2,
-          "explain": "The spoolie brush is the essential tool for this work."
+          "answer": 0,
+          "explain": "Draw the shape first, then shape the hairs to match it."
         },
         {
-          "q": "What should you always do when working on measuring with string?",
+          "q": "What should you check on the client's skin before waxing?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never wax broken or sunburned skin"
+            "That the skin is not broken, sunburned or irritated",
+            "That the skin is tanned",
+            "That the skin is oily",
+            "That the skin is pale"
           ],
-          "answer": 3,
-          "explain": "Never wax broken or sunburned skin."
+          "answer": 0,
+          "explain": "Never wax skin that is broken, sunburned or irritated."
         }
       ],
       "project": null
@@ -308,37 +308,37 @@
       "challenge": "Do tweezing technique two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on tweezing technique?",
+          "q": "Which way should you pull brow hairs with tweezers?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Tweezers pull hairs in the direction they grow.",
-            "The best result comes from skipping the preparation step."
-          ],
-          "answer": 2,
-          "explain": "Tweezers pull hairs in the direction they grow."
-        },
-        {
-          "q": "Which tool is most essential for tweezing technique?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "brow mapping string"
-          ],
-          "answer": 3,
-          "explain": "The brow mapping string is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on tweezing technique?",
-          "options": [
-            "use a fresh wax stick for each client",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "In the direction the hairs grow",
+            "Against the direction the hairs grow",
+            "Sideways across the brow",
+            "Down towards the eye"
           ],
           "answer": 0,
-          "explain": "You should always use a fresh wax stick for each client."
+          "explain": "Pull hairs in the direction they grow so they come out cleanly and hurt less."
+        },
+        {
+          "q": "How many hairs should you pull at a time when tweezing?",
+          "options": [
+            "One at a time",
+            "A whole row at once",
+            "Five at a time",
+            "As many as the tweezers can hold"
+          ],
+          "answer": 0,
+          "explain": "Pull one hair at a time and check symmetry as you go."
+        },
+        {
+          "q": "What should you keep checking while you tweeze?",
+          "options": [
+            "That both brows stay even and symmetrical",
+            "That the tweezers stay hot",
+            "That the client keeps their eyes shut",
+            "That the room stays quiet"
+          ],
+          "answer": 0,
+          "explain": "Check symmetry often so one brow does not end up thinner than the other."
         }
       ],
       "project": null
@@ -364,37 +364,37 @@
       "challenge": "Do waxing brows two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on waxing brows?",
+          "q": "Which way do you pull the wax off?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Wax is pulled the opposite way the hair grows."
-          ],
-          "answer": 3,
-          "explain": "Wax is pulled the opposite way the hair grows."
-        },
-        {
-          "q": "Which tool is most essential for waxing brows?",
-          "options": [
-            "tweezers",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "The opposite way the hair grows",
+            "The same way the hair grows",
+            "Up towards the forehead",
+            "Slowly downwards"
           ],
           "answer": 0,
-          "explain": "The tweezers is the essential tool for this work."
+          "explain": "Wax is pulled the opposite way the hair grows so the hairs come out."
         },
         {
-          "q": "What should you always do when working on waxing brows?",
+          "q": "Which way do you apply the wax?",
           "options": [
-            "disinfect your clippers between clients",
-            "patch test tint and wax first",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "In the direction the hair grows",
+            "Against the direction the hair grows",
+            "In circles",
+            "Across the brow"
           ],
-          "answer": 1,
-          "explain": "You should always patch test tint and wax first."
+          "answer": 0,
+          "explain": "Apply wax in the direction of growth, then pull against it."
+        },
+        {
+          "q": "What should you do after pulling the wax off?",
+          "options": [
+            "Soothe the skin with oil",
+            "Put makeup on straight away",
+            "Wax the same spot again",
+            "Rub the skin hard"
+          ],
+          "answer": 0,
+          "explain": "Soothe the skin with oil after waxing to calm it."
         }
       ],
       "project": {
@@ -431,37 +431,37 @@
       "challenge": "Do week 1 project: a mapped and shaped brow two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: a mapped and shaped brow?",
+          "q": "What should a shaped brow follow?",
           "options": [
-            "A shaped brow follows the mapped outline and is symmetrical.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "The mapped outline, and both sides should match",
+            "The client's hairline",
+            "The shape of the eyes only",
+            "Whatever shape is in fashion"
           ],
           "answer": 0,
           "explain": "A shaped brow follows the mapped outline and is symmetrical."
         },
         {
-          "q": "Which tool is most essential for week 1 project: a mapped and shaped brow?",
+          "q": "What three steps shape a model's brows in this project?",
           "options": [
-            "clipper with guards",
-            "brow tint",
-            "trimmer",
-            "foil shaver"
+            "Map, tweeze and wax",
+            "Tint, trim and thread",
+            "Wash, dry and brush",
+            "Map, tint and laminate"
           ],
-          "answer": 1,
-          "explain": "The brow tint is the essential tool for this work."
+          "answer": 0,
+          "explain": "Map the shape first, then tweeze and wax the hairs into that shape."
         },
         {
-          "q": "What should you always do when working on week 1 project: a mapped and shaped brow?",
+          "q": "How do you check your work as you shape brows?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never wax broken or sunburned skin",
-            "check the client for cuts before starting"
+            "Check in a mirror or a photo after each try",
+            "Wait until the very end to look",
+            "Ask the client to check for you",
+            "Only check once the tint is on"
           ],
-          "answer": 2,
-          "explain": "Never wax broken or sunburned skin."
+          "answer": 0,
+          "explain": "Check your work in a mirror or a photo after each try so you can fix mistakes early."
         }
       ],
       "project": null
@@ -487,37 +487,37 @@
       "challenge": "Do trimming brow hairs two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on trimming brow hairs?",
+          "q": "Which hairs should you trim?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Trim only the tips that stick out above the brow line.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Only the tips that stick out above the brow line",
+            "All the hairs at the tail",
+            "The hairs at the head of the brow",
+            "Every long hair you can see"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Trim only the tips that stick out above the brow line."
         },
         {
-          "q": "Which tool is most essential for trimming brow hairs?",
+          "q": "What should you do before you trim brow hairs?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "spoolie brush",
-            "foil shaver"
+            "Brush the hairs up with a spoolie",
+            "Wet the brows with water",
+            "Apply tint first",
+            "Wax the brows first"
           ],
-          "answer": 2,
-          "explain": "The spoolie brush is the essential tool for this work."
+          "answer": 0,
+          "explain": "Brush the hairs up first so you can see which tips stick out."
         },
         {
-          "q": "What should you always do when working on trimming brow hairs?",
+          "q": "What happens if you trim too much off the brows?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "use a fresh wax stick for each client"
+            "The brows can look thin and uneven",
+            "The brows grow back darker",
+            "The tint will not work",
+            "The brows will stop growing"
           ],
-          "answer": 3,
-          "explain": "You should always use a fresh wax stick for each client."
+          "answer": 0,
+          "explain": "Trim only the tips. Cutting too much leaves thin, uneven brows."
         }
       ],
       "project": null
@@ -543,37 +543,37 @@
       "challenge": "Do threading brows two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on threading brows?",
+          "q": "What does threading use to remove brow hair?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Threading uses a twisted cotton thread to remove hair.",
-            "You should always use the strongest product available."
-          ],
-          "answer": 2,
-          "explain": "Threading uses a twisted cotton thread to remove hair."
-        },
-        {
-          "q": "Which tool is most essential for threading brows?",
-          "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "brow mapping string"
-          ],
-          "answer": 3,
-          "explain": "The brow mapping string is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on threading brows?",
-          "options": [
-            "patch test tint and wax first",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "A twisted cotton thread",
+            "Hot wax",
+            "Tweezers",
+            "Small scissors"
           ],
           "answer": 0,
-          "explain": "You should always patch test tint and wax first."
+          "explain": "Threading uses a twisted cotton thread to roll and pull hairs out in a clean line."
+        },
+        {
+          "q": "How does the thread remove the hairs?",
+          "options": [
+            "It rolls over the skin and pulls hairs out",
+            "It burns the hairs off",
+            "It cuts the hairs at the skin",
+            "It pushes the hairs under the skin"
+          ],
+          "answer": 0,
+          "explain": "The twisted thread rolls along the skin and pulls the hairs out in a clean line."
+        },
+        {
+          "q": "What is one good thing about threading brows?",
+          "options": [
+            "It removes hairs in a clean, straight line",
+            "It colours the brows darker",
+            "It makes brows grow faster",
+            "It needs no skill to do well"
+          ],
+          "answer": 0,
+          "explain": "Threading pulls hairs out in a clean line, which gives a neat shape."
         }
       ],
       "project": null
@@ -599,37 +599,37 @@
       "challenge": "Do tinting brows: choosing colour two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on tinting brows: choosing colour?",
+          "q": "How dark should brow tint be?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Brow tint is usually one shade darker than the hair."
-          ],
-          "answer": 3,
-          "explain": "Brow tint is usually one shade darker than the hair."
-        },
-        {
-          "q": "Which tool is most essential for tinting brows: choosing colour?",
-          "options": [
-            "tweezers",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "One shade darker than the hair",
+            "Three shades darker than the hair",
+            "The same shade as the skin",
+            "As dark as possible"
           ],
           "answer": 0,
-          "explain": "The tweezers is the essential tool for this work."
+          "explain": "Pick a tint one shade darker than the hair for a defined look."
         },
         {
-          "q": "What should you always do when working on tinting brows: choosing colour?",
+          "q": "Why pick a tint only one shade darker?",
           "options": [
-            "disinfect your clippers between clients",
-            "never wax broken or sunburned skin",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "It looks defined but still natural",
+            "It lasts twice as long",
+            "It is cheaper to buy",
+            "It works on every skin type"
           ],
-          "answer": 1,
-          "explain": "Never wax broken or sunburned skin."
+          "answer": 0,
+          "explain": "One shade darker defines the brows without looking harsh or fake."
+        },
+        {
+          "q": "What should you do before you apply tint to a client?",
+          "options": [
+            "Patch test the tint first",
+            "Apply it straight away",
+            "Mix it with wax",
+            "Test it only on the client's hand"
+          ],
+          "answer": 0,
+          "explain": "Patch test tint first to check the client is not allergic to it."
         }
       ],
       "project": null
@@ -640,9 +640,9 @@
       "title": "Tinting Brows: Application",
       "goal": "By the end of today you can explain and practise: Apply tint evenly, time it carefully, and remove it before it goes too dark.",
       "video": {
-        "youtube_id": "1orVG2lzOr0",
-        "title": "Step-by-Step Brow Lamination Tutorial",
-        "channel": "Brow Tutorial"
+        "youtube_id": "hURvqprTnt8",
+        "title": "Easy Eyebrow Tinting Tutorial 2019 - What is the Best Way to Tint Your Eyebrows?",
+        "channel": "Stacy Rody"
       },
       "steps": [
         "Get your tools ready: spoolie brush, brow mapping string and tweezers.",
@@ -655,37 +655,37 @@
       "challenge": "Do tinting brows: application two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on tinting brows: application?",
+          "q": "Why must you time brow tint carefully?",
           "options": [
-            "Brow tint must be timed carefully to avoid going too dark.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "So it does not go too dark",
+            "So it dries faster",
+            "So it smells less",
+            "So it costs less"
           ],
           "answer": 0,
           "explain": "Brow tint must be timed carefully to avoid going too dark."
         },
         {
-          "q": "Which tool is most essential for tinting brows: application?",
+          "q": "How should you apply brow tint?",
           "options": [
-            "clipper with guards",
-            "brow tint",
-            "trimmer",
-            "foil shaver"
+            "Evenly across the brow",
+            "Only on the tail",
+            "In thick blobs",
+            "Only on one brow at a time"
           ],
-          "answer": 1,
-          "explain": "The brow tint is the essential tool for this work."
+          "answer": 0,
+          "explain": "Apply tint evenly so the colour comes out the same all over."
         },
         {
-          "q": "What should you always do when working on tinting brows: application?",
+          "q": "When should you remove the tint?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "use a fresh wax stick for each client",
-            "check the client for cuts before starting"
+            "Before it goes too dark",
+            "After it dries hard",
+            "When the client says stop",
+            "After 24 hours"
           ],
-          "answer": 2,
-          "explain": "You should always use a fresh wax stick for each client."
+          "answer": 0,
+          "explain": "Remove the tint before it goes too dark. Watch the time."
         }
       ],
       "project": null
@@ -711,37 +711,37 @@
       "challenge": "Do tinting brows: aftercare two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on tinting brows: aftercare?",
+          "q": "How long should tinted brows stay dry?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Tinted brows should stay dry for 24 hours.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "24 hours",
+            "1 hour",
+            "1 week",
+            "10 minutes"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Tinted brows should stay dry for 24 hours."
         },
         {
-          "q": "Which tool is most essential for tinting brows: aftercare?",
+          "q": "What should a client avoid on tinted brows for 24 hours?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "spoolie brush",
-            "foil shaver"
+            "Water and makeup",
+            "Sunlight only",
+            "Sleeping",
+            "Brushing"
           ],
-          "answer": 2,
-          "explain": "The spoolie brush is the essential tool for this work."
+          "answer": 0,
+          "explain": "Tell the client to avoid water and makeup on brows for 24 hours."
         },
         {
-          "q": "What should you always do when working on tinting brows: aftercare?",
+          "q": "Why should tinted brows stay dry for a day?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test tint and wax first"
+            "Water can wash the tint out too soon",
+            "Water makes the brows grow",
+            "Water changes the brow shape",
+            "Water makes the skin itch"
           ],
-          "answer": 3,
-          "explain": "You should always patch test tint and wax first."
+          "answer": 0,
+          "explain": "Water too soon can fade the fresh tint before it sets."
         }
       ],
       "project": null
@@ -767,37 +767,37 @@
       "challenge": "Do brow lamination: what it is two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow lamination: what it is?",
+          "q": "What does brow lamination do to the hairs?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Brow lamination sets hairs into a brushed-up shape.",
-            "Using dirty tools gives the same result as clean ones."
+            "It relaxes them so they can be brushed into a full, fluffy shape",
+            "It dyes them black",
+            "It cuts them shorter",
+            "It pulls them out"
           ],
-          "answer": 2,
+          "answer": 0,
+          "explain": "Lamination relaxes brow hairs so they can be brushed into a full, fluffy shape."
+        },
+        {
+          "q": "What shape does lamination set the hairs into?",
+          "options": [
+            "A brushed-up shape",
+            "A flat, straight shape",
+            "A curly shape",
+            "A shape pointing down"
+          ],
+          "answer": 0,
           "explain": "Brow lamination sets hairs into a brushed-up shape."
         },
         {
-          "q": "Which tool is most essential for brow lamination: what it is?",
+          "q": "What should you check before laminating a client's brows?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "brow mapping string"
-          ],
-          "answer": 3,
-          "explain": "The brow mapping string is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on brow lamination: what it is?",
-          "options": [
-            "never wax broken or sunburned skin",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "That the skin is not broken or irritated",
+            "That the brows are already dark",
+            "That the client has long hair",
+            "That the brows were waxed yesterday"
           ],
           "answer": 0,
-          "explain": "Never wax broken or sunburned skin."
+          "explain": "Never treat skin that is broken, sunburned or irritated."
         }
       ],
       "project": {
@@ -834,37 +834,37 @@
       "challenge": "Do week 2 project: tint plus lamination two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: tint plus lamination?",
+          "q": "What do tint plus lamination give the brows?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Tint plus lamination gives full, defined, fluffy brows."
+            "A full, defined, fluffy finish",
+            "A thinner, lighter look",
+            "A straight, flat shape",
+            "A shorter brow"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Tint plus lamination gives full, defined, fluffy brows."
         },
         {
-          "q": "Which tool is most essential for week 2 project: tint plus lamination?",
+          "q": "Which two treatments do you combine in this project?",
           "options": [
-            "tweezers",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "Tint and lamination",
+            "Waxing and threading",
+            "Trimming and tweezing",
+            "Henna and makeup"
           ],
           "answer": 0,
-          "explain": "The tweezers is the essential tool for this work."
+          "explain": "Tint colours the brows and lamination sets them into a full, fluffy shape."
         },
         {
-          "q": "What should you always do when working on week 2 project: tint plus lamination?",
+          "q": "What should you do after each try when you practise?",
           "options": [
-            "disinfect your clippers between clients",
-            "use a fresh wax stick for each client",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Check your work in a mirror or a photo",
+            "Move on without looking",
+            "Start again from the beginning",
+            "Ask someone else to finish"
           ],
-          "answer": 1,
-          "explain": "You should always use a fresh wax stick for each client."
+          "answer": 0,
+          "explain": "Check your work in a mirror or a photo after each try."
         }
       ],
       "project": null
@@ -890,37 +890,37 @@
       "challenge": "Do brow lamination step by step two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow lamination step by step?",
+          "q": "How should you time lamination solutions?",
           "options": [
-            "Lamination solutions must be timed exactly as the kit directs.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Exactly as the kit directs",
+            "Twice as long as the kit says",
+            "As short as you like",
+            "Until the hairs feel dry"
           ],
           "answer": 0,
           "explain": "Lamination solutions must be timed exactly as the kit directs."
         },
         {
-          "q": "Which tool is most essential for brow lamination step by step?",
+          "q": "What is the first step when you laminate brows?",
           "options": [
-            "clipper with guards",
-            "brow tint",
-            "trimmer",
-            "foil shaver"
+            "Apply lifting solution",
+            "Apply tint",
+            "Trim the hairs",
+            "Wax the brows"
           ],
-          "answer": 1,
-          "explain": "The brow tint is the essential tool for this work."
+          "answer": 0,
+          "explain": "Apply lifting solution first, then brush the hairs up, set them, and nourish with oil."
         },
         {
-          "q": "What should you always do when working on brow lamination step by step?",
+          "q": "What is the last step in lamination?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "patch test tint and wax first",
-            "check the client for cuts before starting"
+            "Nourish the brows with oil",
+            "Wax the brows",
+            "Apply makeup",
+            "Wash the brows with soap"
           ],
-          "answer": 2,
-          "explain": "You should always patch test tint and wax first."
+          "answer": 0,
+          "explain": "After setting the hairs, nourish them with oil."
         }
       ],
       "project": null
@@ -946,37 +946,37 @@
       "challenge": "Do brow henna two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow henna?",
+          "q": "What does brow henna stain?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Brow henna stains both the skin and the hair.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "Both the skin and the hair",
+            "Only the hair",
+            "Only the skin",
+            "Only the brow bone"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Brow henna stains both the skin and the hair."
         },
         {
-          "q": "Which tool is most essential for brow henna?",
+          "q": "Why does henna last longer than normal tint?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "spoolie brush",
-            "foil shaver"
+            "It stains the skin as well as the hair",
+            "It is painted on thicker",
+            "It dries in the sun",
+            "It is mixed with wax"
           ],
-          "answer": 2,
-          "explain": "The spoolie brush is the essential tool for this work."
+          "answer": 0,
+          "explain": "Henna stains the skin under the brows too, so the look lasts longer."
         },
         {
-          "q": "What should you always do when working on brow henna?",
+          "q": "What should you do before you apply henna to a client?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never wax broken or sunburned skin"
+            "Patch test it first",
+            "Apply it straight away",
+            "Mix it with tint",
+            "Heat it up first"
           ],
-          "answer": 3,
-          "explain": "Never wax broken or sunburned skin."
+          "answer": 0,
+          "explain": "Patch test first to check the client's skin will not react."
         }
       ],
       "project": null
@@ -1002,37 +1002,37 @@
       "challenge": "Do filling brows with makeup two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on filling brows with makeup?",
+          "q": "How should you fill sparse brows with makeup?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Brow makeup uses short strokes that mimic real hairs.",
-            "The best result comes from skipping the preparation step."
+            "In short, hair-like strokes",
+            "In one long line",
+            "In big circles",
+            "With dots all over"
           ],
-          "answer": 2,
+          "answer": 0,
+          "explain": "Fill sparse areas with a pencil or powder in short, hair-like strokes."
+        },
+        {
+          "q": "What do short makeup strokes mimic?",
+          "options": [
+            "Real brow hairs",
+            "The brow bone",
+            "The skin colour",
+            "The eyelashes"
+          ],
+          "answer": 0,
           "explain": "Brow makeup uses short strokes that mimic real hairs."
         },
         {
-          "q": "Which tool is most essential for filling brows with makeup?",
+          "q": "Which tools can you use to fill brows with makeup?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "brow mapping string"
-          ],
-          "answer": 3,
-          "explain": "The brow mapping string is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on filling brows with makeup?",
-          "options": [
-            "use a fresh wax stick for each client",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "A pencil or powder",
+            "Wax and a stick",
+            "Tweezers and scissors",
+            "Tint and developer"
           ],
           "answer": 0,
-          "explain": "You should always use a fresh wax stick for each client."
+          "explain": "Fill sparse areas with a pencil or powder."
         }
       ],
       "project": null
@@ -1058,37 +1058,37 @@
       "challenge": "Do brow shapes for face shapes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow shapes for face shapes?",
+          "q": "Which brow shape suits a round face?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Brow shape should suit the client's face shape."
-          ],
-          "answer": 3,
-          "explain": "Brow shape should suit the client's face shape."
-        },
-        {
-          "q": "Which tool is most essential for brow shapes for face shapes?",
-          "options": [
-            "tweezers",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "A soft arch",
+            "A very sharp, defined arch",
+            "A flat brow with no arch",
+            "A very thin brow"
           ],
           "answer": 0,
-          "explain": "The tweezers is the essential tool for this work."
+          "explain": "Soft arches suit round faces."
         },
         {
-          "q": "What should you always do when working on brow shapes for face shapes?",
+          "q": "Which brow shape suits a square face?",
           "options": [
-            "disinfect your clippers between clients",
-            "patch test tint and wax first",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "A defined arch",
+            "A soft arch",
+            "No arch at all",
+            "A rounded brow"
           ],
-          "answer": 1,
-          "explain": "You should always patch test tint and wax first."
+          "answer": 0,
+          "explain": "Defined arches suit square faces."
+        },
+        {
+          "q": "Why should the brow shape suit the face shape?",
+          "options": [
+            "So the brows frame the face well",
+            "So the brows grow faster",
+            "So the tint lasts longer",
+            "So the client pays more"
+          ],
+          "answer": 0,
+          "explain": "Brow shape should suit the client's face shape so the brows frame the face."
         }
       ],
       "project": null
@@ -1099,9 +1099,9 @@
       "title": "Correcting Over-Plucked Brows",
       "goal": "By the end of today you can explain and practise: Let brows grow, fill with makeup, and use growth serum while they recover.",
       "video": {
-        "youtube_id": "j0cwKLmYOGs",
-        "title": "How to Do DIY Brow Lamination",
-        "channel": "Claodinka"
+        "youtube_id": "fgBXZxXnkUM",
+        "title": "How To: Fill in Brows with Brow Powder",
+        "channel": "Birchbox"
       },
       "steps": [
         "Get your tools ready: spoolie brush, brow mapping string and tweezers.",
@@ -1114,37 +1114,37 @@
       "challenge": "Do correcting over-plucked brows two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on correcting over-plucked brows?",
+          "q": "What is the first thing over-plucked brows need?",
           "options": [
-            "Over-plucked brows need time to grow back fully.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "Time to grow back fully",
+            "More plucking to even them out",
+            "Waxing straight away",
+            "Dark tint to hide the gaps"
           ],
           "answer": 0,
           "explain": "Over-plucked brows need time to grow back fully."
         },
         {
-          "q": "Which tool is most essential for correcting over-plucked brows?",
+          "q": "How can a client fill the gaps while brows grow back?",
           "options": [
-            "clipper with guards",
-            "brow tint",
-            "trimmer",
-            "foil shaver"
+            "Fill with makeup and use growth serum",
+            "Shave the brows off",
+            "Wax the brows every week",
+            "Pull the new hairs out"
           ],
-          "answer": 1,
-          "explain": "The brow tint is the essential tool for this work."
+          "answer": 0,
+          "explain": "Let brows grow, fill with makeup, and use growth serum while they recover."
         },
         {
-          "q": "What should you always do when working on correcting over-plucked brows?",
+          "q": "What should you tell a client with over-plucked brows NOT to do?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "never wax broken or sunburned skin",
-            "check the client for cuts before starting"
+            "Keep plucking the new hairs",
+            "Fill the gaps with makeup",
+            "Wait for them to grow",
+            "Use growth serum"
           ],
-          "answer": 2,
-          "explain": "Never wax broken or sunburned skin."
+          "answer": 0,
+          "explain": "The brows need time to grow. More plucking only makes it worse."
         }
       ],
       "project": null
@@ -1170,37 +1170,37 @@
       "challenge": "Do week 3 project: a full brow transformation two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: a full brow transformation?",
+          "q": "What does a brow transformation show?",
           "options": [
-            "You never need to check your work until the very end.",
-            "A brow transformation shows a clear before and after.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "A clear before and after",
+            "Only the after photo",
+            "The tools you used",
+            "The price of the service"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "A brow transformation shows a clear before and after."
         },
         {
-          "q": "Which tool is most essential for week 3 project: a full brow transformation?",
+          "q": "Which four steps make a full brow transformation?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "spoolie brush",
-            "foil shaver"
+            "Map, wax, tint and laminate",
+            "Trim, thread, fill and photograph",
+            "Wash, tint, wax and trim",
+            "Map, tweeze, thread and henna"
           ],
-          "answer": 2,
-          "explain": "The spoolie brush is the essential tool for this work."
+          "answer": 0,
+          "explain": "Map, wax, tint and laminate a full brow transformation on a model."
         },
         {
-          "q": "What should you always do when working on week 3 project: a full brow transformation?",
+          "q": "Why take before-and-after photos of a transformation?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "use a fresh wax stick for each client"
+            "To show the client the clear difference",
+            "To use up phone space",
+            "To check the lighting",
+            "To sell the camera"
           ],
-          "answer": 3,
-          "explain": "You should always use a fresh wax stick for each client."
+          "answer": 0,
+          "explain": "Before-and-after photos show the clear difference your work made."
         }
       ],
       "project": {
@@ -1237,37 +1237,37 @@
       "challenge": "Do brow aftercare two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow aftercare?",
+          "q": "How long should a client avoid water on brows after tint or lamination?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Brows need a day without water after tint or lamination.",
-            "You should always use the strongest product available."
+            "A day",
+            "An hour",
+            "A week",
+            "A month"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Brows need a day without water after tint or lamination."
         },
         {
-          "q": "Which tool is most essential for brow aftercare?",
+          "q": "What should clients avoid on their brows after treatment?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "brow mapping string"
-          ],
-          "answer": 3,
-          "explain": "The brow mapping string is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on brow aftercare?",
-          "options": [
-            "patch test tint and wax first",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Touching, water and harsh products",
+            "A clean spoolie",
+            "A soft towel",
+            "Cool water"
           ],
           "answer": 0,
-          "explain": "You should always patch test tint and wax first."
+          "explain": "Tell clients to avoid touching, water and harsh products for a day after treatment."
+        },
+        {
+          "q": "Why should clients avoid harsh products after a brow treatment?",
+          "options": [
+            "They can irritate the skin and spoil the result",
+            "They make the brows grow faster",
+            "They change the brow colour to red",
+            "They make the brows fall out at once"
+          ],
+          "answer": 0,
+          "explain": "Harsh products can irritate freshly treated skin and spoil the result."
         }
       ],
       "project": null
@@ -1293,37 +1293,37 @@
       "challenge": "Do dealing with sensitive skin two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on dealing with sensitive skin?",
+          "q": "What does patch testing prevent?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Patch testing prevents reactions to tint and wax."
+            "Reactions to tint and wax",
+            "Brows growing too fast",
+            "Tint going too dark",
+            "Wax sticking to the skin"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Patch testing prevents reactions to tint and wax."
         },
         {
-          "q": "Which tool is most essential for dealing with sensitive skin?",
+          "q": "What should you do for a client with sensitive skin?",
           "options": [
-            "tweezers",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "Use a gentler method",
+            "Use the strongest wax you have",
+            "Skip the consultation",
+            "Work as fast as you can"
           ],
           "answer": 0,
-          "explain": "The tweezers is the essential tool for this work."
+          "explain": "Patch test tint and wax, and use a gentler method for sensitive clients."
         },
         {
-          "q": "What should you always do when working on dealing with sensitive skin?",
+          "q": "What should you ask about before treating sensitive skin?",
           "options": [
-            "disinfect your clippers between clients",
-            "never wax broken or sunburned skin",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Allergies and skin sensitivity",
+            "The client's favourite colour",
+            "How often they wash their hair",
+            "What shampoo they use"
           ],
-          "answer": 1,
-          "explain": "Never wax broken or sunburned skin."
+          "answer": 0,
+          "explain": "Ask about allergies and skin sensitivity before you start."
         }
       ],
       "project": null
@@ -1349,37 +1349,37 @@
       "challenge": "Do brow mistakes and fixes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow mistakes and fixes?",
+          "q": "How do you fix uneven brows?",
           "options": [
-            "Uneven brows are fixed by mapping and regrowing the shorter side.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Map again and let the shorter side grow back",
+            "Pluck the longer side until it matches",
+            "Tint both brows very dark",
+            "Wax both brows again"
           ],
           "answer": 0,
-          "explain": "Uneven brows are fixed by mapping and regrowing the shorter side."
+          "explain": "Fix uneven brows by mapping again and growing the shorter side back."
         },
         {
-          "q": "Which tool is most essential for brow mistakes and fixes?",
+          "q": "Why map again when brows are uneven?",
           "options": [
-            "clipper with guards",
-            "brow tint",
-            "trimmer",
-            "foil shaver"
+            "To find the right even shape for both sides",
+            "To make the brows darker",
+            "To remove more hair",
+            "To save time"
           ],
-          "answer": 1,
-          "explain": "The brow tint is the essential tool for this work."
+          "answer": 0,
+          "explain": "Mapping again shows you the even shape both brows should follow."
         },
         {
-          "q": "What should you always do when working on brow mistakes and fixes?",
+          "q": "What should you NOT do to fix uneven brows?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "use a fresh wax stick for each client",
-            "check the client for cuts before starting"
+            "Keep plucking the longer side down",
+            "Let the shorter side grow back",
+            "Fill the shorter side with makeup",
+            "Map the shape again"
           ],
-          "answer": 2,
-          "explain": "You should always use a fresh wax stick for each client."
+          "answer": 0,
+          "explain": "Do not keep plucking the longer side. Let the shorter side grow back instead."
         }
       ],
       "project": null
@@ -1405,37 +1405,37 @@
       "challenge": "Do client consultation for brows two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on client consultation for brows?",
+          "q": "What does a brow consultation check?",
           "options": [
-            "You should rush through the technique to save time.",
-            "A brow consultation checks allergies and skin sensitivity.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Allergies and skin sensitivity",
+            "The client's job",
+            "The client's age",
+            "The client's hair length"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "A brow consultation checks allergies and skin sensitivity."
         },
         {
-          "q": "Which tool is most essential for client consultation for brows?",
+          "q": "What else should you ask in a consultation?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "spoolie brush",
-            "foil shaver"
+            "The brow shape the client wants",
+            "The client's favourite food",
+            "How the client found your shop",
+            "The client's phone number only"
           ],
-          "answer": 2,
-          "explain": "The spoolie brush is the essential tool for this work."
+          "answer": 0,
+          "explain": "Ask about allergies, skin sensitivity, and the brow shape they want."
         },
         {
-          "q": "What should you always do when working on client consultation for brows?",
+          "q": "When should the consultation happen?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "patch test tint and wax first"
+            "Before you start any treatment",
+            "After you finish waxing",
+            "While the tint is on",
+            "When the client is leaving"
           ],
-          "answer": 3,
-          "explain": "You should always patch test tint and wax first."
+          "answer": 0,
+          "explain": "Ask these questions before you start, so you can pick a safe method."
         }
       ],
       "project": null
@@ -1461,37 +1461,37 @@
       "challenge": "Do pricing brow services two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on pricing brow services?",
+          "q": "Why bundle mapping, wax and tint together?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Bundling wax, tint and lamination gives clients better value.",
-            "Using dirty tools gives the same result as clean ones."
+            "It gives clients better value",
+            "It takes longer to do",
+            "It uses more products",
+            "It needs no consultation"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Bundling wax, tint and lamination gives clients better value."
         },
         {
-          "q": "Which tool is most essential for pricing brow services?",
+          "q": "How should you charge for brow services?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "brow mapping string"
-          ],
-          "answer": 3,
-          "explain": "The brow mapping string is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on pricing brow services?",
-          "options": [
-            "never wax broken or sunburned skin",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "By service",
+            "One price for everything",
+            "By the hour only",
+            "By how many hairs you remove"
           ],
           "answer": 0,
-          "explain": "Never wax broken or sunburned skin."
+          "explain": "Charge by service and bundle mapping, wax and tint for a better price."
+        },
+        {
+          "q": "What is a good bundle to offer a brow client?",
+          "options": [
+            "Mapping, wax and tint",
+            "Tint only",
+            "Threading only",
+            "Trimming only"
+          ],
+          "answer": 0,
+          "explain": "A bundle of mapping, wax and tint gives the client a full result at a better price."
         }
       ],
       "project": null
@@ -1517,37 +1517,37 @@
       "challenge": "Do brow business basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on brow business basics?",
+          "q": "Why take before-and-after photos of brow work?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Before-and-after photos sell brow services."
+            "They sell your brow services",
+            "They use up phone space",
+            "They replace a consultation",
+            "They make the tint last longer"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Before-and-after photos sell brow services."
         },
         {
-          "q": "Which tool is most essential for brow business basics?",
+          "q": "What should you keep to run a brow business well?",
           "options": [
-            "tweezers",
-            "clipper with guards",
-            "trimmer",
-            "foil shaver"
+            "A booking list and stocked tint shades",
+            "Only a phone",
+            "Only a mirror",
+            "A list of clients' ages"
           ],
           "answer": 0,
-          "explain": "The tweezers is the essential tool for this work."
+          "explain": "Keep a booking list, stock tint shades, and photograph before and after."
         },
         {
-          "q": "What should you always do when working on brow business basics?",
+          "q": "Why stock different tint shades?",
           "options": [
-            "disinfect your clippers between clients",
-            "use a fresh wax stick for each client",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "So you can match each client's hair",
+            "So the shelf looks full",
+            "So you can charge more",
+            "So clients can take them home"
           ],
-          "answer": 1,
-          "explain": "You should always use a fresh wax stick for each client."
+          "answer": 0,
+          "explain": "Different clients have different hair colours, so stock a range of tint shades."
         }
       ],
       "project": null
@@ -1573,37 +1573,37 @@
       "challenge": "Do building a brow portfolio two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on building a brow portfolio?",
+          "q": "Why photograph every brow in the same light and angle?",
           "options": [
-            "Consistent photos make a brow portfolio look professional.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "So the portfolio looks professional and consistent",
+            "So the photos take up less space",
+            "So clients cannot compare them",
+            "So the tint looks darker"
           ],
           "answer": 0,
           "explain": "Consistent photos make a brow portfolio look professional."
         },
         {
-          "q": "Which tool is most essential for building a brow portfolio?",
+          "q": "What makes a brow portfolio look professional?",
           "options": [
-            "clipper with guards",
-            "brow tint",
-            "trimmer",
-            "foil shaver"
+            "Consistent photos in the same light and angle",
+            "A different filter on every photo",
+            "Only photos of famous clients",
+            "Photos taken in the dark"
           ],
-          "answer": 1,
-          "explain": "The brow tint is the essential tool for this work."
+          "answer": 0,
+          "explain": "Photograph every brow in the same light and angle for a consistent portfolio."
         },
         {
-          "q": "What should you always do when working on building a brow portfolio?",
+          "q": "What should every photo in your portfolio show clearly?",
           "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "patch test tint and wax first",
-            "check the client for cuts before starting"
+            "The brow work itself",
+            "The salon furniture",
+            "The client's clothes",
+            "The tools on the table"
           ],
-          "answer": 2,
-          "explain": "You should always patch test tint and wax first."
+          "answer": 0,
+          "explain": "The portfolio should show your brow work clearly, in the same light and angle every time."
         }
       ],
       "project": null
@@ -1629,37 +1629,37 @@
       "challenge": "Do aftercare cards for brows two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on aftercare cards for brows?",
+          "q": "What should you give the client after every brow service?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Written aftercare protects brow results.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "A written aftercare card",
+            "A free tint",
+            "A new spoolie to keep",
+            "A discount for a friend"
           ],
-          "answer": 1,
+          "answer": 0,
+          "explain": "Give the client a written aftercare card after every brow service."
+        },
+        {
+          "q": "Why does written aftercare protect brow results?",
+          "options": [
+            "The client knows exactly what to avoid",
+            "The card makes the brows darker",
+            "The card replaces the consultation",
+            "The client reads it once and forgets it"
+          ],
+          "answer": 0,
           "explain": "Written aftercare protects brow results."
         },
         {
-          "q": "Which tool is most essential for aftercare cards for brows?",
+          "q": "What should the aftercare card tell the client?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "spoolie brush",
-            "foil shaver"
+            "To keep brows dry and avoid harsh products for a day",
+            "To wash the brows straight away",
+            "To pluck any stray hairs at home",
+            "To put makeup on at once"
           ],
-          "answer": 2,
-          "explain": "The spoolie brush is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on aftercare cards for brows?",
-          "options": [
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting",
-            "never wax broken or sunburned skin"
-          ],
-          "answer": 3,
-          "explain": "Never wax broken or sunburned skin."
+          "answer": 0,
+          "explain": "The card should remind them to keep brows dry and avoid harsh products for a day."
         }
       ],
       "project": null
@@ -1685,37 +1685,37 @@
       "challenge": "Do capstone week: a paying brow client two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: a paying brow client?",
+          "q": "What does a full brow service on a paying client cover?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A paying brow client covers consultation, mapping, tint and photos.",
-            "The best result comes from skipping the preparation step."
+            "Consultation, mapping, tint and photos",
+            "Tint only",
+            "Waxing only",
+            "Photos only"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A paying brow client covers consultation, mapping, tint and photos."
         },
         {
-          "q": "Which tool is most essential for capstone week: a paying brow client?",
+          "q": "What should you do first with a paying client?",
           "options": [
-            "clipper with guards",
-            "trimmer",
-            "foil shaver",
-            "brow mapping string"
-          ],
-          "answer": 3,
-          "explain": "The brow mapping string is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on capstone week: a paying brow client?",
-          "options": [
-            "use a fresh wax stick for each client",
-            "disinfect your clippers between clients",
-            "never cut broken skin",
-            "check the client for cuts before starting"
+            "Consult them about allergies and the shape they want",
+            "Apply tint straight away",
+            "Wax the brows first",
+            "Take the after photo"
           ],
           "answer": 0,
-          "explain": "You should always use a fresh wax stick for each client."
+          "explain": "Start with a consultation, then map, tint and photograph."
+        },
+        {
+          "q": "What should you give the paying client when you finish?",
+          "options": [
+            "A written aftercare card",
+            "A free wax stick",
+            "A refund",
+            "A new brow pencil"
+          ],
+          "answer": 0,
+          "explain": "Give the client a written aftercare card after every brow service."
         }
       ],
       "project": null

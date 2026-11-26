@@ -38,15 +38,15 @@
           "explain": "Copywriting is writing that sells. It makes readers act, like buying or signing up."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Meet copywriting\"?",
+          "q": "What do adverts ask you to do?",
           "options": [
-            "Write a short sales page.",
-            "Write a description that sells.",
-            "Write your best piece yet.",
-            "Learn what copywriting is."
+            "Something, like buy or sign up",
+            "Nothing",
+            "Read a novel",
+            "Watch a film"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Learn what copywriting is."
+          "answer": 0,
+          "explain": "Notice how they ask you to do something."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -93,15 +93,15 @@
           "explain": "A benefit is what the customer gets. Features say what it is. Benefits say why it matters."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write your first headline\"?",
+          "q": "How long should each headline be?",
           "options": [
-            "Write three pieces of copy.",
-            "Follow a short brief.",
-            "Write a headline that sells.",
-            "Write a sales email."
+            "Under 10 words",
+            "Over 50 words",
+            "Exactly 20 words",
+            "One word only"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a headline that sells."
+          "answer": 0,
+          "explain": "Keep each one under 10 words."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -148,15 +148,15 @@
           "explain": "Copywriting is writing that sells. It makes readers act, like buying or signing up."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Know your customer\"?",
+          "q": "Who should you write for?",
           "options": [
-            "Plan four ads for one month.",
-            "Write for one customer.",
-            "Write an ad for social media.",
-            "Edit a piece you wrote."
+            "One customer, like a busy mum",
+            "Everyone at once",
+            "Nobody",
+            "Only experts"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write for one customer."
+          "answer": 0,
+          "explain": "Pick a customer, like a busy mum. Write a sentence just for her."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -203,15 +203,15 @@
           "explain": "A benefit is what the customer gets. Features say what it is. Benefits say why it matters."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a benefit\"?",
+          "q": "What should you write first for a product?",
           "options": [
-            "Write what a product does for the customer.",
-            "Add urgency to your copy.",
-            "Rewrite hard copy in simple words.",
-            "Find the copy style you love."
+            "One feature: what it is",
+            "The price",
+            "A review",
+            "The ending"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write what a product does for the customer."
+          "explain": "Write one feature: what it is. Write one benefit: what it does for the customer."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -258,15 +258,15 @@
           "explain": "Copywriting is writing that sells. It makes readers act, like buying or signing up."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a call to action\"?",
+          "q": "What strong verb can you use in a call to action?",
           "options": [
-            "Add proof that others love the product.",
-            "Write a 500-word sales page.",
-            "Write a 1000-word sales letter.",
-            "Write a clear call to action."
+            "Buy, Get, or Try",
+            "Maybe, Perhaps, or Soon",
+            "Hello, Goodbye, or Thanks",
+            "Slowly, Softly, or Quietly"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Write a clear call to action."
+          "answer": 0,
+          "explain": "Use a strong verb, like Buy, Get, or Try. Keep it short."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -313,15 +313,15 @@
           "explain": "A benefit is what the customer gets. Features say what it is. Benefits say why it matters."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write an advert\"?",
+          "q": "How many sentences about the benefit go in your short advert?",
           "options": [
-            "Write a script for a 1-minute sales video.",
-            "Pick your best pieces.",
-            "Write a short advert.",
-            "Write a landing page for a product."
+            "Two sentences",
+            "Ten sentences",
+            "No sentences",
+            "One word"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a short advert."
+          "answer": 0,
+          "explain": "Write two sentences about the benefit."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -368,15 +368,15 @@
           "explain": "Copywriting is writing that sells. It makes readers act, like buying or signing up."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write an advert\"?",
+          "q": "What should you do after writing your advert?",
           "options": [
-            "Write a pitch to a client.",
-            "Write and share an advert.",
-            "Write a description that sells.",
-            "Write your best piece yet."
+            "Read it out loud",
+            "Delete it",
+            "Hide it",
+            "Send it without reading"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write and share an advert."
+          "answer": 0,
+          "explain": "Read it out loud. Share it with a friend."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -434,15 +434,15 @@
           "explain": "A headline is the first thing people see. It must make them stop and read more."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a sales page\"?",
+          "q": "What goes at the end of a sales page?",
           "options": [
-            "Write a short sales page.",
-            "Write three pieces of copy.",
-            "Follow a short brief.",
-            "Test two headlines and pick the winner."
+            "A call to action and a price",
+            "A long story",
+            "A photo only",
+            "Nothing"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write a short sales page."
+          "explain": "End with a call to action and a price."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -489,15 +489,15 @@
           "explain": "A call to action tells readers what to do next, like Buy Now or Sign Up."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write an email that sells\"?",
+          "q": "How long should a sales email subject line be?",
           "options": [
-            "Edit a piece you wrote.",
-            "Plan four ads for one month.",
-            "Write copy that offers one more thing.",
-            "Write a sales email."
+            "Under 10 words",
+            "Over 50 words",
+            "Exactly 20 words",
+            "One word"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Write a sales email."
+          "answer": 0,
+          "explain": "Write a subject line under 10 words."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -544,15 +544,15 @@
           "explain": "A headline is the first thing people see. It must make them stop and read more."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a social media ad\"?",
+          "q": "How long should a social media ad be?",
           "options": [
-            "Find the copy style you love.",
-            "Pick your best work and say why it works.",
-            "Write an ad for social media.",
-            "Rewrite hard copy in simple words."
+            "Under 50 words",
+            "Over 500 words",
+            "Exactly 200 words",
+            "One word"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write an ad for social media."
+          "answer": 0,
+          "explain": "Write it in under 50 words."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -599,15 +599,15 @@
           "explain": "A call to action tells readers what to do next, like Buy Now or Sign Up."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Use urgency\"?",
+          "q": "How do you add urgency to your copy?",
           "options": [
-            "Write a simple plan to keep getting better.",
-            "Add urgency to your copy.",
-            "Write a 500-word sales page.",
-            "Write a 1000-word sales letter."
+            "Add a time limit, like Today only",
+            "Make it longer",
+            "Remove the price",
+            "Use small letters"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Add urgency to your copy."
+          "answer": 0,
+          "explain": "Add a time limit, like Today only. Add a reason to act now."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -654,15 +654,15 @@
           "explain": "A headline is the first thing people see. It must make them stop and read more."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Use social proof\"?",
+          "q": "What do you add to your advert as social proof?",
           "options": [
-            "Add proof that others love the product.",
-            "Write a script for a 1-minute sales video.",
-            "Pick your best pieces.",
-            "Learn what copywriting is."
+            "A short review from a happy customer",
+            "A photo of the factory",
+            "The price list",
+            "A long story"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Add proof that others love the product."
+          "explain": "Write a short review from a happy customer. Add it to your advert."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -709,15 +709,15 @@
           "explain": "A call to action tells readers what to do next, like Buy Now or Sign Up."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a landing page\"?",
+          "q": "What should a landing page focus on?",
           "options": [
-            "Write your best piece yet.",
-            "Write a pitch to a client.",
-            "Write a headline that sells.",
-            "Write a landing page for a product."
+            "One action",
+            "Ten actions",
+            "Everything the shop sells",
+            "Nothing"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Write a landing page for a product."
+          "answer": 0,
+          "explain": "Keep the page focused on one action."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -764,15 +764,15 @@
           "explain": "A headline is the first thing people see. It must make them stop and read more."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a product description that sells\"?",
+          "q": "How long should a product description that sells be?",
           "options": [
-            "Test two headlines and pick the winner.",
-            "Write for one customer.",
-            "Write a description that sells.",
-            "Follow a short brief."
+            "Under 100 words",
+            "Over 1000 words",
+            "Exactly 500 words",
+            "One word"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a description that sells."
+          "answer": 0,
+          "explain": "Keep it under 100 words."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -830,15 +830,15 @@
           "explain": "Urgency gives people a reason to act now, not later. Use it honestly."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Your first copy set\"?",
+          "q": "How many pieces of copy are in your first copy set?",
           "options": [
-            "Write what a product does for the customer.",
-            "Write three pieces of copy.",
-            "Plan four ads for one month.",
-            "Write copy that offers one more thing."
+            "Three",
+            "One",
+            "Ten",
+            "Thirty"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write three pieces of copy."
+          "answer": 0,
+          "explain": "Write an advert, a sales email, and a product description."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -885,15 +885,15 @@
           "explain": "Social proof is reviews and stories from happy customers. It builds trust."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Edit your copy\"?",
+          "q": "What should you cut when you edit copy?",
           "options": [
-            "Edit a piece you wrote.",
-            "Find the copy style you love.",
-            "Pick your best work and say why it works.",
-            "Write a clear call to action."
+            "Any word that is not needed",
+            "The headline",
+            "Every long word",
+            "The call to action"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Edit a piece you wrote."
+          "explain": "Cut any word that is not needed."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -940,15 +940,15 @@
           "explain": "Urgency gives people a reason to act now, not later. Use it honestly."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write with simple words\"?",
+          "q": "What should you do with hard words in copy?",
           "options": [
-            "Write a 1000-word sales letter.",
-            "Write a simple plan to keep getting better.",
-            "Write a short advert.",
-            "Rewrite hard copy in simple words."
+            "Replace each one with a simple word",
+            "Keep them all",
+            "Delete the whole page",
+            "Add more hard words"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Rewrite hard copy in simple words."
+          "answer": 0,
+          "explain": "Replace each hard word with a simple one."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -995,15 +995,15 @@
           "explain": "Social proof is reviews and stories from happy customers. It builds trust."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a long sales page\"?",
+          "q": "How many words is your long sales page?",
           "options": [
-            "Learn what copywriting is.",
-            "Write and share an advert.",
-            "Write a 500-word sales page.",
-            "Pick your best pieces."
+            "500 words",
+            "50 words",
+            "5000 words",
+            "100 words"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a 500-word sales page."
+          "answer": 0,
+          "explain": "Write 500 words. Edit it and share it."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1050,15 +1050,15 @@
           "explain": "Urgency gives people a reason to act now, not later. Use it honestly."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a video script that sells\"?",
+          "q": "What should your sales video script start with?",
           "options": [
-            "Write a short sales page.",
-            "Write a script for a 1-minute sales video.",
-            "Write a pitch to a client.",
-            "Write a headline that sells."
+            "A hook",
+            "A long story",
+            "A price",
+            "The ending"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write a script for a 1-minute sales video."
+          "answer": 0,
+          "explain": "Write a hook. Write three benefits. Write a call to action."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1105,15 +1105,15 @@
           "explain": "Social proof is reviews and stories from happy customers. It builds trust."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a portfolio piece\"?",
+          "q": "How many words is your best portfolio piece?",
           "options": [
-            "Write your best piece yet.",
-            "Test two headlines and pick the winner.",
-            "Write for one customer.",
-            "Write a sales email."
+            "500 words",
+            "50 words",
+            "5000 words",
+            "100 words"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write your best piece yet."
+          "explain": "Write 500 words. Edit it twice."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1160,15 +1160,15 @@
           "explain": "Urgency gives people a reason to act now, not later. Use it honestly."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write for a client\"?",
+          "q": "What is the brief for your client piece?",
           "options": [
-            "Write copy that offers one more thing.",
-            "Write what a product does for the customer.",
-            "Write an ad for social media.",
-            "Follow a short brief."
+            "An advert for a coffee shop",
+            "A novel",
+            "A song",
+            "A blog post"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Follow a short brief."
+          "answer": 0,
+          "explain": "Read this brief: an advert for a coffee shop."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1226,15 +1226,15 @@
           "explain": "A portfolio is your best copy in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a month of ads\"?",
+          "q": "How many ads do you plan for one month?",
           "options": [
-            "Write a clear call to action.",
-            "Add urgency to your copy.",
-            "Plan four ads for one month.",
-            "Pick your best work and say why it works."
+            "Four ads, one for each week",
+            "One ad",
+            "Thirty ads",
+            "No ads"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Plan four ads for one month."
+          "answer": 0,
+          "explain": "Plan one ad for each week. Write all four ads."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1281,15 +1281,15 @@
           "explain": "A landing page has one job. It focuses on one product and one action."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Build your style\"?",
+          "q": "How do you find the copy style you love?",
           "options": [
-            "Add proof that others love the product.",
-            "Find the copy style you love.",
-            "Write a simple plan to keep getting better.",
-            "Write a short advert."
+            "Pick the three pieces you love most and write down what they have in common",
+            "Copy someone else's style",
+            "Write faster",
+            "Use hard words"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Find the copy style you love."
+          "answer": 0,
+          "explain": "Pick the three you love most. Write down what they have in common."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1336,15 +1336,15 @@
           "explain": "A portfolio is your best copy in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a long sales letter\"?",
+          "q": "How many words is your long sales letter?",
           "options": [
-            "Write a 1000-word sales letter.",
-            "Learn what copywriting is.",
-            "Write and share an advert.",
-            "Write a landing page for a product."
+            "1000 words",
+            "100 words",
+            "500 words",
+            "10000 words"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write a 1000-word sales letter."
+          "explain": "Write 1000 words. Edit it and share it."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1391,15 +1391,15 @@
           "explain": "A landing page has one job. It focuses on one product and one action."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a copy portfolio\"?",
+          "q": "How many of your best pieces go in your copy portfolio?",
           "options": [
-            "Write a headline that sells.",
-            "Write a short sales page.",
-            "Write a description that sells.",
-            "Pick your best pieces."
+            "Five",
+            "One",
+            "Three",
+            "Twenty"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Pick your best pieces."
+          "answer": 0,
+          "explain": "Pick your best five. Save them in a folder called Portfolio."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1446,15 +1446,15 @@
           "explain": "A portfolio is your best copy in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Pitch a client\"?",
+          "q": "What should you include when you pitch a client?",
           "options": [
-            "Write a sales email.",
-            "Write three pieces of copy.",
-            "Write a pitch to a client.",
-            "Write for one customer."
+            "A link to your portfolio",
+            "A photo of yourself",
+            "A long story",
+            "Nothing"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a pitch to a client."
+          "answer": 0,
+          "explain": "Include a link to your portfolio."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1501,15 +1501,15 @@
           "explain": "A landing page has one job. It focuses on one product and one action."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a headline test\"?",
+          "q": "How do you test two headlines?",
           "options": [
-            "Edit a piece you wrote.",
-            "Test two headlines and pick the winner.",
-            "Write what a product does for the customer.",
-            "Write an ad for social media."
+            "Show both to three friends and ask which makes them want to read more",
+            "Pick the longer one",
+            "Pick the first one",
+            "Ask nobody"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Test two headlines and pick the winner."
+          "answer": 0,
+          "explain": "Show both to three friends. Ask which one makes them want to read more."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1556,15 +1556,15 @@
           "explain": "A portfolio is your best copy in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write an upsell\"?",
+          "q": "What is an upsell?",
           "options": [
-            "Write copy that offers one more thing.",
-            "Write a clear call to action.",
-            "Add urgency to your copy.",
-            "Rewrite hard copy in simple words."
+            "Copy that offers one more thing after a purchase",
+            "A discount",
+            "A refund",
+            "A free gift with no words"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write copy that offers one more thing."
+          "explain": "Write one sentence offering a second product. Explain why the two go well together."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1611,15 +1611,15 @@
           "explain": "A landing page has one job. It focuses on one product and one action."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "q": "How many of your best pieces do you pick for review?",
           "options": [
-            "Write a short advert.",
-            "Add proof that others love the product.",
-            "Write a 500-word sales page.",
-            "Pick your best work and say why it works."
+            "Three",
+            "One",
+            "Ten",
+            "All of them"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Pick your best work and say why it works."
+          "answer": 0,
+          "explain": "Pick your best three pieces. Write one sentence about why each one works."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1666,15 +1666,15 @@
           "explain": "A portfolio is your best copy in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "q": "What is the first step in your plan to keep getting better?",
           "options": [
-            "Write a landing page for a product.",
-            "Write a script for a 1-minute sales video.",
-            "Write a simple plan to keep getting better.",
-            "Write and share an advert."
+            "Write down the one skill you want to improve most",
+            "Buy a new app",
+            "Delete your old copy",
+            "Stop writing"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a simple plan to keep getting better."
+          "answer": 0,
+          "explain": "Write down the one skill you want to improve most."
         },
         {
           "q": "What is the first step in today's lesson?",

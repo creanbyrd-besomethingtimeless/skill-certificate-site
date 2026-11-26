@@ -1,1714 +1,1714 @@
 {
- "course": {
-  "id": "carpentry-and-furniture-making",
-  "title": "Carpentry and Furniture Making",
-  "level": "Beginner",
-  "tagline": "Build tables, chairs and shelves with wood, tools and clean joints.",
-  "duration_days": 30
- },
- "days": [
-  {
-   "day": 1,
-   "week": 1,
-   "title": "Wood, Tools and Safety",
-   "goal": "Know the main wood types and the safety rules for every tool.",
-   "video": {
-    "youtube_id": "y7gLvEYoBu0",
-    "title": "What Kind of Wood Should You Build With? | WOODWORKING BASICS",
-    "channel": "Woodworking for Mere Mortals"
-   },
-   "steps": [
-    "Lay out a saw, hammer, tape measure, square, drill and sandpaper and name each one.",
-    "Feel pine, plywood and hardwood and note which is soft, light or heavy.",
-    "Put on safety glasses and learn the rule: never cut toward your body.",
-    "Sweep your work area and set up a steady bench or table."
-   ],
-   "task": "Make a tool list with the job each tool does.",
-   "challenge": "Name every tool on your bench without looking at the list.",
-   "quiz": [
-    {
-     "q": "What should you do first when you pick up a saw?",
-     "options": [
-      "Cut as fast as you can",
-      "Check the area is clear, wear safety glasses and clamp the wood",
-      "Oil the blade",
-      "Stand on one foot"
-     ],
-     "answer": 1,
-     "explain": "Safety comes first: glasses on, wood clamped, hands clear of the blade."
-    },
-    {
-     "q": "Which wood is soft and easy for a beginner to cut?",
-     "options": [
-      "Pine",
-      "Ironwood",
-      "Teak",
-      "Mahogany"
-     ],
-     "answer": 0,
-     "explain": "Pine is soft, light and cheap, so it is the best wood to learn on."
-    },
-    {
-     "q": "What does the grain of wood mean?",
-     "options": [
-      "The colour of the wood",
-      "The direction the wood fibres run",
-      "The price of the board",
-      "The smell of the wood"
-     ],
-     "answer": 1,
-     "explain": "Grain is the direction of the fibres; you cut and sand along it."
-    }
-   ],
-   "project": null
+  "course": {
+    "id": "carpentry-and-furniture-making",
+    "title": "Carpentry and Furniture Making",
+    "level": "Beginner",
+    "tagline": "Build tables, chairs and shelves with wood, tools and clean joints.",
+    "duration_days": 30
   },
-  {
-   "day": 2,
-   "week": 1,
-   "title": "Measure and Mark Like a Pro",
-   "goal": "Measure twice and mark wood so your cuts come out right.",
-   "video": {
-    "youtube_id": "y7gLvEYoBu0",
-    "title": "What Kind of Wood Should You Build With? | WOODWORKING BASICS",
-    "channel": "Woodworking for Mere Mortals"
-   },
-   "steps": [
-    "Measure a board three times and write the number down each time.",
-    "Mark a cut line with a pencil and a square so the line is straight.",
-    "Mark an X on the waste side so you cut on the right side of the line.",
-    "Measure a diagonal across a rectangle to check it is square."
-   ],
-   "task": "Mark and cut a board to exactly 30cm long.",
-   "challenge": "Cut three boards to the same length with no gaps between them.",
-   "quiz": [
+  "days": [
     {
-     "q": "What should you do first when you pick up a saw?",
-     "options": [
-      "Cut as fast as you can",
-      "Check the area is clear, wear safety glasses and clamp the wood",
-      "Oil the blade",
-      "Stand on one foot"
-     ],
-     "answer": 1,
-     "explain": "Safety comes first: glasses on, wood clamped, hands clear of the blade."
+      "day": 1,
+      "week": 1,
+      "title": "Wood, Tools and Safety",
+      "goal": "Know the main wood types and the safety rules for every tool.",
+      "video": {
+        "youtube_id": "y7gLvEYoBu0",
+        "title": "What Kind of Wood Should You Build With? | WOODWORKING BASICS",
+        "channel": "Woodworking for Mere Mortals"
+      },
+      "steps": [
+        "Lay out a saw, hammer, tape measure, square, drill and sandpaper and name each one.",
+        "Feel pine, plywood and hardwood and note which is soft, light or heavy.",
+        "Put on safety glasses and learn the rule: never cut toward your body.",
+        "Sweep your work area and set up a steady bench or table."
+      ],
+      "task": "Make a tool list with the job each tool does.",
+      "challenge": "Name every tool on your bench without looking at the list.",
+      "quiz": [
+        {
+          "q": "What should you do first when you pick up a saw?",
+          "options": [
+            "Cut as fast as you can",
+            "Check the area is clear, wear safety glasses and clamp the wood",
+            "Oil the blade",
+            "Stand on one foot"
+          ],
+          "answer": 1,
+          "explain": "Safety comes first: glasses on, wood clamped, hands clear of the blade."
+        },
+        {
+          "q": "Which wood is soft and easy for a beginner to cut?",
+          "options": [
+            "Pine",
+            "Ironwood",
+            "Teak",
+            "Mahogany"
+          ],
+          "answer": 0,
+          "explain": "Pine is soft, light and cheap, so it is the best wood to learn on."
+        },
+        {
+          "q": "What does the grain of wood mean?",
+          "options": [
+            "The colour of the wood",
+            "The direction the wood fibres run",
+            "The price of the board",
+            "The smell of the wood"
+          ],
+          "answer": 1,
+          "explain": "Grain is the direction of the fibres; you cut and sand along it."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "Which wood is soft and easy for a beginner to cut?",
-     "options": [
-      "Pine",
-      "Ironwood",
-      "Teak",
-      "Mahogany"
-     ],
-     "answer": 0,
-     "explain": "Pine is soft, light and cheap, so it is the best wood to learn on."
+      "day": 2,
+      "week": 1,
+      "title": "Measure and Mark Like a Pro",
+      "goal": "Measure twice and mark wood so your cuts come out right.",
+      "video": {
+        "youtube_id": "y7gLvEYoBu0",
+        "title": "What Kind of Wood Should You Build With? | WOODWORKING BASICS",
+        "channel": "Woodworking for Mere Mortals"
+      },
+      "steps": [
+        "Measure a board three times and write the number down each time.",
+        "Mark a cut line with a pencil and a square so the line is straight.",
+        "Mark an X on the waste side so you cut on the right side of the line.",
+        "Measure a diagonal across a rectangle to check it is square."
+      ],
+      "task": "Mark and cut a board to exactly 30cm long.",
+      "challenge": "Cut three boards to the same length with no gaps between them.",
+      "quiz": [
+        {
+          "q": "How many times should you measure a board?",
+          "options": [
+            "Three times, writing the number down each time",
+            "Once",
+            "Never",
+            "Ten times"
+          ],
+          "answer": 0,
+          "explain": "Measure a board three times and write the number down each time."
+        },
+        {
+          "q": "How do you mark a straight cut line?",
+          "options": [
+            "With a pencil and a square",
+            "Freehand",
+            "With a pen only",
+            "With a saw"
+          ],
+          "answer": 0,
+          "explain": "Mark a cut line with a pencil and a square so the line is straight."
+        },
+        {
+          "q": "What does the X on the board mean?",
+          "options": [
+            "The waste side, so you cut on the right side of the line",
+            "The middle of the board",
+            "A mistake",
+            "The best side"
+          ],
+          "answer": 0,
+          "explain": "Mark an X on the waste side so you cut on the right side of the line. Measure a diagonal across a rectangle to check it is square."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "What does the grain of wood mean?",
-     "options": [
-      "The colour of the wood",
-      "The direction the wood fibres run",
-      "The price of the board",
-      "The smell of the wood"
-     ],
-     "answer": 1,
-     "explain": "Grain is the direction of the fibres; you cut and sand along it."
+      "day": 3,
+      "week": 1,
+      "title": "Sawing Straight by Hand",
+      "goal": "Cut wood straight with a hand saw.",
+      "video": {
+        "youtube_id": "y7gLvEYoBu0",
+        "title": "What Kind of Wood Should You Build With? | WOODWORKING BASICS",
+        "channel": "Woodworking for Mere Mortals"
+      },
+      "steps": [
+        "Clamp the board firmly so it cannot move.",
+        "Start the cut with short gentle pulls, then use long smooth strokes.",
+        "Watch the line, not the blade, and keep the saw straight.",
+        "Sand the cut edge smooth with sandpaper."
+      ],
+      "task": "Cut a board straight along a marked line with no wobble.",
+      "challenge": "Cut a board so straight it needs no sanding.",
+      "quiz": [
+        {
+          "q": "What should you do before you start sawing?",
+          "options": [
+            "Clamp the board firmly so it cannot move",
+            "Hold it with your hand",
+            "Saw as fast as you can",
+            "Oil the board"
+          ],
+          "answer": 0,
+          "explain": "Clamp the board firmly so it cannot move."
+        },
+        {
+          "q": "How should you start the cut?",
+          "options": [
+            "With short gentle pulls, then long smooth strokes",
+            "With hard fast pushes",
+            "With one big push",
+            "From the middle"
+          ],
+          "answer": 0,
+          "explain": "Start the cut with short gentle pulls, then use long smooth strokes."
+        },
+        {
+          "q": "What should you watch while sawing?",
+          "options": [
+            "The line, not the blade",
+            "The blade, not the line",
+            "Your hands",
+            "The floor"
+          ],
+          "answer": 0,
+          "explain": "Watch the line, not the blade, and keep the saw straight. Sand the cut edge smooth with sandpaper."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Pocket-Hole Joints Made Easy",
+      "goal": "Join two boards with a pocket hole, a strong hidden screw joint.",
+      "video": {
+        "youtube_id": "mvO6zaIUO18",
+        "title": "Beginner's Guide to Pocket Hole Joinery",
+        "channel": "Woodworking for Mere Mortals"
+      },
+      "steps": [
+        "A pocket hole is a hole drilled at an angle so a screw can join two boards.",
+        "Clamp the pocket-hole jig (a guide that holds the drill at the right angle) to the board.",
+        "Drill the pocket holes, then drive screws through them into the second board.",
+        "Check the joint is tight and the screw heads sit hidden inside the holes."
+      ],
+      "task": "Join two boards at a right angle with pocket holes.",
+      "challenge": "Join two boards so the joint holds when you lift it by one end.",
+      "quiz": [
+        {
+          "q": "What is a pocket hole?",
+          "options": [
+            "A hole for your pocket",
+            "A hole drilled at an angle so a screw can join two boards",
+            "A hole for a hinge",
+            "A knot in the wood"
+          ],
+          "answer": 1,
+          "explain": "A pocket hole lets a screw pull two boards together from a hidden angle."
+        },
+        {
+          "q": "Why use pocket holes?",
+          "options": [
+            "They are faster to drill",
+            "They hide the screws and make a strong joint",
+            "They use less wood",
+            "They need no glue"
+          ],
+          "answer": 1,
+          "explain": "Pocket-hole screws sit inside the hole, so the joint is strong and the screws stay hidden."
+        },
+        {
+          "q": "What does the pocket-hole jig do?",
+          "options": [
+            "It cuts the wood",
+            "It holds the drill at the right angle",
+            "It sands the edge",
+            "It measures the board"
+          ],
+          "answer": 1,
+          "explain": "The jig is a guide that keeps the drill bit at the correct angle for the pocket hole."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Drilling Clean Holes",
+      "goal": "Drill straight, clean holes without splitting the wood.",
+      "video": {
+        "youtube_id": "mvO6zaIUO18",
+        "title": "Beginner's Guide to Pocket Hole Joinery",
+        "channel": "Woodworking for Mere Mortals"
+      },
+      "steps": [
+        "Mark the hole spot with a pencil cross.",
+        "Start the drill slowly so the bit does not wander.",
+        "Drill straight down and pull the bit out often to clear the dust.",
+        "Put a scrap board underneath so the back does not split."
+      ],
+      "task": "Drill six clean holes in a row with no splitting.",
+      "challenge": "Drill a hole exactly where you marked it, first try.",
+      "quiz": [
+        {
+          "q": "How do you mark where to drill?",
+          "options": [
+            "With a pencil cross",
+            "With a pen circle",
+            "With a hammer",
+            "You do not need to mark it"
+          ],
+          "answer": 0,
+          "explain": "Mark the hole spot with a pencil cross."
+        },
+        {
+          "q": "Why start the drill slowly?",
+          "options": [
+            "So the bit does not wander",
+            "To save power",
+            "To make it quieter",
+            "To drill faster"
+          ],
+          "answer": 0,
+          "explain": "Start the drill slowly so the bit does not wander."
+        },
+        {
+          "q": "Why put a scrap board underneath?",
+          "options": [
+            "So the back of the wood does not split",
+            "To make the hole bigger",
+            "To catch the dust",
+            "To hold the drill"
+          ],
+          "answer": 0,
+          "explain": "Put a scrap board underneath so the back does not split. Pull the bit out often to clear the dust."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Screws, Glue and Clamps",
+      "goal": "Hold wood together with screws, glue and clamps the right way.",
+      "video": {
+        "youtube_id": "mvO6zaIUO18",
+        "title": "Beginner's Guide to Pocket Hole Joinery",
+        "channel": "Woodworking for Mere Mortals"
+      },
+      "steps": [
+        "Spread a thin even layer of wood glue on one joining face.",
+        "Press the boards together and wipe off glue that squeezes out.",
+        "Add screws while the glue is wet, then clamp the joint tight.",
+        "Leave the clamp on until the glue dries fully."
+      ],
+      "task": "Glue and screw two boards together and test the joint the next day.",
+      "challenge": "Glue a joint with no glue mess on the outside.",
+      "quiz": [
+        {
+          "q": "How much glue should you spread on a joint?",
+          "options": [
+            "A thin even layer",
+            "A very thick blob",
+            "None at all",
+            "Only on the screws"
+          ],
+          "answer": 0,
+          "explain": "Spread a thin even layer of wood glue on one joining face."
+        },
+        {
+          "q": "When do you add the screws?",
+          "options": [
+            "While the glue is wet, then clamp the joint tight",
+            "After the glue dries",
+            "Before the glue",
+            "Never"
+          ],
+          "answer": 0,
+          "explain": "Add screws while the glue is wet, then clamp the joint tight."
+        },
+        {
+          "q": "When can you take the clamp off?",
+          "options": [
+            "When the glue has dried fully",
+            "Straight away",
+            "After five minutes",
+            "Before you add screws"
+          ],
+          "answer": 0,
+          "explain": "Leave the clamp on until the glue dries fully. Wipe off glue that squeezes out."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project: Build a Small Wooden Box",
+      "goal": "Build a small open wooden box with glued and screwed joints.",
+      "video": {
+        "youtube_id": "TPEvpVoE7h0",
+        "title": "Wood Joinery Basics",
+        "channel": "WoodSkills"
+      },
+      "steps": [
+        "Cut four sides and a bottom from one board.",
+        "Glue and screw the sides into a rectangle, checking the corners are square.",
+        "Fix the bottom on with screws from underneath.",
+        "Sand every edge smooth and check the box sits flat."
+      ],
+      "task": "Finish a small wooden box that sits flat and holds its shape.",
+      "challenge": "Build the box with all four corners perfectly square.",
+      "quiz": [
+        {
+          "q": "What parts do you cut for the small box?",
+          "options": [
+            "Four sides and a bottom",
+            "Four sides only",
+            "A lid only",
+            "Two sides and a top"
+          ],
+          "answer": 0,
+          "explain": "Cut four sides and a bottom from one board."
+        },
+        {
+          "q": "How do you fix the bottom on?",
+          "options": [
+            "With screws from underneath",
+            "With glue only",
+            "With nails from the top",
+            "It just sits there"
+          ],
+          "answer": 0,
+          "explain": "Fix the bottom on with screws from underneath."
+        },
+        {
+          "q": "What should you check when the box is done?",
+          "options": [
+            "That it sits flat and every edge is smooth",
+            "That it is heavy",
+            "That it has a lid",
+            "That it is painted"
+          ],
+          "answer": 0,
+          "explain": "Sand every edge smooth and check the box sits flat."
+        }
+      ],
+      "project": {
+        "title": "Build a Small Wooden Box",
+        "brief": "Build a small open box with glued and screwed joints, sanded smooth.",
+        "checks": [
+          "Parts cut to size",
+          "Corners square",
+          "Joints glued and screwed",
+          "Bottom fixed firmly",
+          "Edges sanded smooth",
+          "Box sits flat"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Sanding Smooth",
+      "goal": "Sand wood through the grits until it feels smooth.",
+      "video": {
+        "youtube_id": "TPEvpVoE7h0",
+        "title": "Wood Joinery Basics",
+        "channel": "WoodSkills"
+      },
+      "steps": [
+        "Sandpaper grit is the roughness number: low numbers are rough, high numbers are fine.",
+        "Start with rough 80-grit paper, then 120, then 220.",
+        "Sand with the grain (the direction the wood lines run), never across it.",
+        "Wipe the dust off with a cloth and feel the surface with your hand."
+      ],
+      "task": "Sand one board smooth enough to run your hand over with no roughness.",
+      "challenge": "Sand a box inside and out with no rough spots left.",
+      "quiz": [
+        {
+          "q": "What does sandpaper grit mean?",
+          "options": [
+            "The roughness number: low numbers are rough, high numbers are fine",
+            "The size of the paper",
+            "The colour of the paper",
+            "The price of the paper"
+          ],
+          "answer": 0,
+          "explain": "Sandpaper grit is the roughness number: low numbers are rough, high numbers are fine."
+        },
+        {
+          "q": "Which grits do you use, in order?",
+          "options": [
+            "80, then 120, then 220",
+            "220, then 120, then 80",
+            "Only 80",
+            "Only 220"
+          ],
+          "answer": 0,
+          "explain": "Start with rough 80-grit paper, then 120, then 220."
+        },
+        {
+          "q": "Which way should you sand?",
+          "options": [
+            "With the grain, never across it",
+            "Across the grain",
+            "In circles",
+            "Any way you like"
+          ],
+          "answer": 0,
+          "explain": "Sand with the grain (the direction the wood lines run), never across it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Joints: Butt, Lap and Mitre",
+      "goal": "Make three basic joints and know when to use each one.",
+      "video": {
+        "youtube_id": "TPEvpVoE7h0",
+        "title": "Wood Joinery Basics",
+        "channel": "WoodSkills"
+      },
+      "steps": [
+        "A butt joint is two boards pushed end to face; glue and screw it.",
+        "A lap joint overlaps two boards halfway; cut a notch in each one.",
+        "A mitre joint joins two boards cut at 45 degrees, like a picture frame.",
+        "Glue all three joints and test which one is strongest."
+      ],
+      "task": "Make one of each joint and label them.",
+      "challenge": "Make a mitre joint with no gap at the corner.",
+      "quiz": [
+        {
+          "q": "What is a butt joint?",
+          "options": [
+            "Two boards pushed end to face and fixed",
+            "Two boards joined at 45 degrees",
+            "Two boards overlapped halfway",
+            "Two boards glued edge to edge"
+          ],
+          "answer": 0,
+          "explain": "A butt joint is two boards pushed end to face; glue and screw it."
+        },
+        {
+          "q": "What is a lap joint?",
+          "options": [
+            "Two boards overlapped halfway with a notch cut in each",
+            "Two boards cut at 45 degrees",
+            "Two boards pushed end to face",
+            "Two boards glued flat"
+          ],
+          "answer": 0,
+          "explain": "A lap joint overlaps two boards halfway; cut a notch in each one."
+        },
+        {
+          "q": "What is a mitre joint?",
+          "options": [
+            "Two boards cut at 45 degrees, like a picture frame",
+            "Two boards nailed together",
+            "Two boards glued flat",
+            "A joint with a hinge"
+          ],
+          "answer": 0,
+          "explain": "A mitre joint joins two boards cut at 45 degrees, like a picture frame."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Plan an End Table",
+      "goal": "Draw a simple plan for a small end table with measurements.",
+      "video": {
+        "youtube_id": "huv_yOtp3gQ",
+        "title": "How to Build an Easy End Table",
+        "channel": "Woodworkweb"
+      },
+      "steps": [
+        "Sketch the table from the front and the side.",
+        "Write the length, width and height of every part.",
+        "List the boards you need and how many of each.",
+        "Check the height works next to a real chair or sofa."
+      ],
+      "task": "Draw a measured plan for an end table.",
+      "challenge": "Plan a table using only boards you already have.",
+      "quiz": [
+        {
+          "q": "What should you sketch for the end table plan?",
+          "options": [
+            "The table from the front and the side",
+            "Only the top",
+            "Only the legs",
+            "The tools"
+          ],
+          "answer": 0,
+          "explain": "Sketch the table from the front and the side."
+        },
+        {
+          "q": "What sizes should you write on the plan?",
+          "options": [
+            "The length, width and height of every part",
+            "Only the height",
+            "Only the top",
+            "Only the legs"
+          ],
+          "answer": 0,
+          "explain": "Write the length, width and height of every part."
+        },
+        {
+          "q": "What should you check about the table height?",
+          "options": [
+            "That it works next to a real chair or sofa",
+            "That it is as tall as you",
+            "That it is very low",
+            "That it matches the wall"
+          ],
+          "answer": 0,
+          "explain": "Check the height works next to a real chair or sofa. List the boards you need and how many of each."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Cut the Table Parts",
+      "goal": "Cut all the parts for your end table accurately.",
+      "video": {
+        "youtube_id": "huv_yOtp3gQ",
+        "title": "How to Build an Easy End Table",
+        "channel": "Woodworkweb"
+      },
+      "steps": [
+        "Cut the four legs to the same length first.",
+        "Cut the top, apron and shelf pieces from your plan.",
+        "Label every piece with its name and pencil marks.",
+        "Lay all the parts out on the floor like the finished table."
+      ],
+      "task": "Cut every part for the end table, labelled and ready.",
+      "challenge": "Cut all four legs exactly the same length.",
+      "quiz": [
+        {
+          "q": "What should you cut first for the table?",
+          "options": [
+            "The four legs, all the same length",
+            "The top",
+            "The shelf",
+            "The apron"
+          ],
+          "answer": 0,
+          "explain": "Cut the four legs to the same length first."
+        },
+        {
+          "q": "What should you write on every piece?",
+          "options": [
+            "Its name and pencil marks",
+            "The price",
+            "Your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Label every piece with its name and pencil marks."
+        },
+        {
+          "q": "What should you do after cutting all the parts?",
+          "options": [
+            "Lay them out on the floor like the finished table",
+            "Glue them straight away",
+            "Put them in a box",
+            "Throw the small pieces away"
+          ],
+          "answer": 0,
+          "explain": "Lay all the parts out on the floor like the finished table."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Assemble the End Table",
+      "goal": "Join the table parts into a steady, level table.",
+      "video": {
+        "youtube_id": "huv_yOtp3gQ",
+        "title": "How to Build an Easy End Table",
+        "channel": "Woodworkweb"
+      },
+      "steps": [
+        "Join the legs to the apron (the frame under the top) with pocket holes or screws.",
+        "Check the frame is square by measuring both diagonals.",
+        "Fix the top on with screws from underneath.",
+        "Stand the table up and check it does not wobble."
+      ],
+      "task": "Assemble an end table that stands level and steady.",
+      "challenge": "Fix a wobbly table by trimming one leg.",
+      "quiz": [
+        {
+          "q": "How do you join the legs to the apron?",
+          "options": [
+            "With pocket holes or screws",
+            "With glue only",
+            "With nails only",
+            "They just sit together"
+          ],
+          "answer": 0,
+          "explain": "Join the legs to the apron (the frame under the top) with pocket holes or screws."
+        },
+        {
+          "q": "How do you check the frame is square?",
+          "options": [
+            "Measure both diagonals",
+            "Count the corners",
+            "Weigh the frame",
+            "Look at it from far away"
+          ],
+          "answer": 0,
+          "explain": "Check the frame is square by measuring both diagonals."
+        },
+        {
+          "q": "How do you fix the top on?",
+          "options": [
+            "With screws from underneath",
+            "With screws from the top",
+            "With glue only",
+            "With tape"
+          ],
+          "answer": 0,
+          "explain": "Fix the top on with screws from underneath. Stand the table up and check it does not wobble."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Small Boxes: Measure Twice",
+      "goal": "Plan a small lidded box with careful measurements.",
+      "video": {
+        "youtube_id": "icsfbKfS9Ck",
+        "title": "Woodworking Basics for Beginners: Make a Beautiful Wooden Jewelry Box from Wood Scrap",
+        "channel": "Wood and Food"
+      },
+      "steps": [
+        "Decide what the box will hold and measure that item first.",
+        "Draw the box with its lid and write every size.",
+        "Choose thin boards so the box is light, not heavy.",
+        "List the hinges and screws you need for the lid."
+      ],
+      "task": "Draw a measured plan for a lidded box.",
+      "challenge": "Plan a box that fits a phone, keys and wallet exactly.",
+      "quiz": [
+        {
+          "q": "What should you measure first when planning a small box?",
+          "options": [
+            "The item the box will hold",
+            "The lid only",
+            "The hinges",
+            "The table"
+          ],
+          "answer": 0,
+          "explain": "Decide what the box will hold and measure that item first."
+        },
+        {
+          "q": "Why choose thin boards for a small box?",
+          "options": [
+            "So the box is light, not heavy",
+            "So it is cheaper only",
+            "So it looks bigger",
+            "So it needs no glue"
+          ],
+          "answer": 0,
+          "explain": "Choose thin boards so the box is light, not heavy."
+        },
+        {
+          "q": "What should you list for the lid?",
+          "options": [
+            "The hinges and screws you need",
+            "Only the wood",
+            "Only the paint",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Draw the box with its lid and write every size. List the hinges and screws you need for the lid."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Project: Build a Small Box with a Lid",
+      "goal": "Build a small wooden box with a hinged lid.",
+      "video": {
+        "youtube_id": "icsfbKfS9Ck",
+        "title": "Woodworking Basics for Beginners: Make a Beautiful Wooden Jewelry Box from Wood Scrap",
+        "channel": "Wood and Food"
+      },
+      "steps": [
+        "Cut the sides, bottom and lid from thin boards.",
+        "Join the sides with glue and small screws or nails.",
+        "Fit two small hinges to the lid and the back.",
+        "Sand the box inside and out and test the lid opens and closes."
+      ],
+      "task": "Finish a lidded box that opens and closes smoothly.",
+      "challenge": "Fit hinges so the lid sits flat when closed.",
+      "quiz": [
+        {
+          "q": "How do you join the sides of the lidded box?",
+          "options": [
+            "With glue and small screws or nails",
+            "With tape",
+            "With big bolts",
+            "They just sit together"
+          ],
+          "answer": 0,
+          "explain": "Join the sides with glue and small screws or nails."
+        },
+        {
+          "q": "How many hinges does the lid need?",
+          "options": [
+            "Two small hinges",
+            "One big hinge",
+            "Four hinges",
+            "No hinges"
+          ],
+          "answer": 0,
+          "explain": "Fit two small hinges to the lid and the back."
+        },
+        {
+          "q": "What should you test when the box is done?",
+          "options": [
+            "That the lid opens and closes well",
+            "That it is heavy",
+            "That it is painted",
+            "That it has no bottom"
+          ],
+          "answer": 0,
+          "explain": "Sand the box inside and out and test the lid opens and closes."
+        }
+      ],
+      "project": {
+        "title": "Build a Small Box with a Lid",
+        "brief": "Build a lidded box with hinges that open and close smoothly.",
+        "checks": [
+          "Sides joined cleanly",
+          "Lid fits the box",
+          "Hinges fitted and working",
+          "Lid sits flat when closed",
+          "Inside and outside sanded",
+          "Box opens and closes smoothly"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Hinges and Lids",
+      "goal": "Fit hinges so a lid or door opens straight and stays shut.",
+      "video": {
+        "youtube_id": "icsfbKfS9Ck",
+        "title": "Woodworking Basics for Beginners: Make a Beautiful Wooden Jewelry Box from Wood Scrap",
+        "channel": "Wood and Food"
+      },
+      "steps": [
+        "Mark the hinge spots on the lid and the box.",
+        "Chisel or cut a shallow recess (a flat dip) so the hinge sits flush.",
+        "Screw the hinge leaves in place, one side at a time.",
+        "Test the lid and adjust the screws if it sticks."
+      ],
+      "task": "Fit a pair of hinges that open and close without sticking.",
+      "challenge": "Fit a hinge so you cannot see it when the lid is closed.",
+      "quiz": [
+        {
+          "q": "Why cut a shallow recess for a hinge?",
+          "options": [
+            "So the hinge sits flush with the wood",
+            "To make the hinge stronger",
+            "To hide the screws",
+            "To make the lid heavier"
+          ],
+          "answer": 0,
+          "explain": "Chisel or cut a shallow recess (a flat dip) so the hinge sits flush."
+        },
+        {
+          "q": "How should you screw the hinge in?",
+          "options": [
+            "One side at a time",
+            "Both sides at once",
+            "Only one screw",
+            "Without marking first"
+          ],
+          "answer": 0,
+          "explain": "Screw the hinge leaves in place, one side at a time."
+        },
+        {
+          "q": "What should you do if the lid sticks?",
+          "options": [
+            "Adjust the screws",
+            "Force it open",
+            "Remove the hinges",
+            "Add more glue"
+          ],
+          "answer": 0,
+          "explain": "Test the lid and adjust the screws if it sticks."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Build with 2x4 Timber",
+      "goal": "Use cheap 2x4 timber (thick square-edged boards) for strong simple builds.",
+      "video": {
+        "youtube_id": "9IdUawuDnWY",
+        "title": "Three Easy 2x4 Projects For Beginners",
+        "channel": "Specific Love Creations"
+      },
+      "steps": [
+        "Pick straight 2x4 boards with no big bends or twists.",
+        "Cut the boards to length for a simple shelf or rack.",
+        "Join them with pocket holes or screws.",
+        "Sand the edges so no one gets splinters."
+      ],
+      "task": "Build one small item from 2x4 timber.",
+      "challenge": "Pick the straightest boards from a pile of ten.",
+      "quiz": [
+        {
+          "q": "What does 2x4 mean?",
+          "options": [
+            "Two boards, four nails",
+            "A board about 2 inches by 4 inches",
+            "Two feet by four feet",
+            "A type of screw"
+          ],
+          "answer": 1,
+          "explain": "2x4 is the size name for a common thick board, about 2 by 4 inches."
+        },
+        {
+          "q": "Why are 2x4 projects good for beginners?",
+          "options": [
+            "The wood is free",
+            "The wood is cheap, strong and easy to cut and join",
+            "They need no tools",
+            "They never need sanding"
+          ],
+          "answer": 1,
+          "explain": "2x4 timber is cheap and forgiving, so beginners can build real furniture with it."
+        },
+        {
+          "q": "What should you check before buying 2x4 boards?",
+          "options": [
+            "The colour only",
+            "That the boards are straight with no big bends",
+            "The brand name",
+            "The weight only"
+          ],
+          "answer": 1,
+          "explain": "Bent or twisted boards make wobbly furniture, so pick straight ones."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "A Simple Display Shelf",
+      "goal": "Build a small wall shelf from 2x4 offcuts.",
+      "video": {
+        "youtube_id": "9IdUawuDnWY",
+        "title": "Three Easy 2x4 Projects For Beginners",
+        "channel": "Specific Love Creations"
+      },
+      "steps": [
+        "Cut two side pieces and three shelves to the same length.",
+        "Join the shelves between the sides with screws.",
+        "Check the shelf is square before the glue dries.",
+        "Sand it and hang it level on a wall."
+      ],
+      "task": "Build and hang a small display shelf.",
+      "challenge": "Hang the shelf perfectly level first try.",
+      "quiz": [
+        {
+          "q": "What pieces do you cut for the display shelf?",
+          "options": [
+            "Two side pieces and three shelves",
+            "Four legs and a top",
+            "One big board",
+            "Six shelves"
+          ],
+          "answer": 0,
+          "explain": "Cut two side pieces and three shelves to the same length."
+        },
+        {
+          "q": "When should you check the shelf is square?",
+          "options": [
+            "Before the glue dries",
+            "After it is on the wall",
+            "Never",
+            "After painting"
+          ],
+          "answer": 0,
+          "explain": "Check the shelf is square before the glue dries."
+        },
+        {
+          "q": "How should you hang the shelf?",
+          "options": [
+            "Level on a wall",
+            "Slanted",
+            "Upside down",
+            "On the floor"
+          ],
+          "answer": 0,
+          "explain": "Sand it and hang it level on a wall."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "A Wall Storage Rack",
+      "goal": "Build a rack that holds things on a wall and keeps them tidy.",
+      "video": {
+        "youtube_id": "9IdUawuDnWY",
+        "title": "Three Easy 2x4 Projects For Beginners",
+        "channel": "Specific Love Creations"
+      },
+      "steps": [
+        "Measure the space on the wall and the items the rack will hold.",
+        "Cut uprights and cross pieces to size.",
+        "Join the frame, then add hooks or pegs.",
+        "Fix the rack to the wall with strong screws and plugs."
+      ],
+      "task": "Build and fix a wall storage rack.",
+      "challenge": "Build a rack that holds 10kg without pulling off the wall.",
+      "quiz": [
+        {
+          "q": "What should you measure first for a wall rack?",
+          "options": [
+            "The space on the wall and the items it will hold",
+            "Only the wall",
+            "Only the hooks",
+            "The floor"
+          ],
+          "answer": 0,
+          "explain": "Measure the space on the wall and the items the rack will hold."
+        },
+        {
+          "q": "What do you add to the frame?",
+          "options": [
+            "Hooks or pegs",
+            "A lid",
+            "Legs",
+            "A shelf top"
+          ],
+          "answer": 0,
+          "explain": "Join the frame, then add hooks or pegs."
+        },
+        {
+          "q": "How do you fix the rack to the wall?",
+          "options": [
+            "With strong screws and plugs",
+            "With glue only",
+            "With tape",
+            "With small nails only"
+          ],
+          "answer": 0,
+          "explain": "Fix the rack to the wall with strong screws and plugs."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Plan a Storage Crate",
+      "goal": "Plan a wooden crate from a single board.",
+      "video": {
+        "youtube_id": "nTEdojO1zzI",
+        "title": "Wooden Crate From A Single Board",
+        "channel": "Casual Builds"
+      },
+      "steps": [
+        "Draw the crate with its slats and handles.",
+        "Work out how many pieces you can cut from one board.",
+        "Mark the handle holes on the side panels.",
+        "List the glue, nails and sandpaper you need."
+      ],
+      "task": "Draw a plan for a crate that uses one board only.",
+      "challenge": "Plan a crate that holds books without the bottom sagging.",
+      "quiz": [
+        {
+          "q": "What should you draw for the crate plan?",
+          "options": [
+            "The crate with its slats and handles",
+            "Only the handles",
+            "Only the base",
+            "The tools"
+          ],
+          "answer": 0,
+          "explain": "Draw the crate with its slats and handles."
+        },
+        {
+          "q": "What should you work out from one board?",
+          "options": [
+            "How many pieces you can cut from it",
+            "How much it weighs",
+            "How old it is",
+            "How many nails it needs"
+          ],
+          "answer": 0,
+          "explain": "Work out how many pieces you can cut from one board."
+        },
+        {
+          "q": "What should you mark on the side panels?",
+          "options": [
+            "The handle holes",
+            "The price",
+            "Your name",
+            "The date"
+          ],
+          "answer": 0,
+          "explain": "Mark the handle holes on the side panels. List the glue, nails and sandpaper you need."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Cut and Glue the Crate Panels",
+      "goal": "Cut crate panels and glue them into flat sides.",
+      "video": {
+        "youtube_id": "nTEdojO1zzI",
+        "title": "Wooden Crate From A Single Board",
+        "channel": "Casual Builds"
+      },
+      "steps": [
+        "Cut the board into equal lengths for the sides.",
+        "Glue two pieces edge to edge for each side panel and clamp them.",
+        "Leave the glue to dry overnight before you cut further.",
+        "Trim the glued panels square."
+      ],
+      "task": "Glue up two flat side panels for the crate.",
+      "challenge": "Glue a panel with no gaps between the boards.",
+      "quiz": [
+        {
+          "q": "How do you make one side panel?",
+          "options": [
+            "Glue two pieces edge to edge and clamp them",
+            "Use one thick board",
+            "Nail pieces on top of each other",
+            "Cut one piece in half"
+          ],
+          "answer": 0,
+          "explain": "Glue two pieces edge to edge for each side panel and clamp them."
+        },
+        {
+          "q": "How long should the glued panels dry?",
+          "options": [
+            "Overnight",
+            "Five minutes",
+            "One hour",
+            "One week"
+          ],
+          "answer": 0,
+          "explain": "Leave the glue to dry overnight before you cut further."
+        },
+        {
+          "q": "What should you do after the panels dry?",
+          "options": [
+            "Trim them square",
+            "Paint them",
+            "Glue them again",
+            "Throw them away"
+          ],
+          "answer": 0,
+          "explain": "Trim the glued panels square."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Project: Build a Wooden Storage Crate",
+      "goal": "Assemble the crate with slats, handles and a strong base.",
+      "video": {
+        "youtube_id": "nTEdojO1zzI",
+        "title": "Wooden Crate From A Single Board",
+        "channel": "Casual Builds"
+      },
+      "steps": [
+        "Cut the slats and side panels to your plan.",
+        "Join the sides to the base with glue and nails.",
+        "Cut handle holes in the side panels and round the edges.",
+        "Sand the whole crate and test it carries a full load of books."
+      ],
+      "task": "Finish a wooden crate that carries books without bending.",
+      "challenge": "Build the crate using only one board, as planned.",
+      "quiz": [
+        {
+          "q": "How do you join the crate sides to the base?",
+          "options": [
+            "With glue and nails",
+            "With tape",
+            "With screws only",
+            "They just sit together"
+          ],
+          "answer": 0,
+          "explain": "Join the sides to the base with glue and nails."
+        },
+        {
+          "q": "What should you do to the handle holes?",
+          "options": [
+            "Cut them and round the edges",
+            "Leave them sharp",
+            "Fill them with glue",
+            "Paint them black"
+          ],
+          "answer": 0,
+          "explain": "Cut handle holes in the side panels and round the edges."
+        },
+        {
+          "q": "How do you test the finished crate?",
+          "options": [
+            "Check it carries a full load of books",
+            "Drop it from a height",
+            "Fill it with water",
+            "Stand on it"
+          ],
+          "answer": 0,
+          "explain": "Sand the whole crate and test it carries a full load of books."
+        }
+      ],
+      "project": {
+        "title": "Build a Wooden Storage Crate",
+        "brief": "Build a crate with slats, handles and a strong base from one board.",
+        "checks": [
+          "Made from one board as planned",
+          "Sides square and strong",
+          "Handle holes cut and smoothed",
+          "Base holds a full load",
+          "Sanded with no splinters",
+          "Crate carries books without bending"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Stools: Legs and Angles",
+      "goal": "Understand splayed legs (legs that angle outward) and why they make stools steady.",
+      "video": {
+        "youtube_id": "WIHHCJF6G9s",
+        "title": "I Built a Wooden Stool \u2014 Easy DIY Anyone Can Make",
+        "channel": "Scott's Place"
+      },
+      "steps": [
+        "Cut a leg at an 8-degree angle and see how it leans.",
+        "Mark the same angle on all four legs.",
+        "Dry-fit the legs to the top without glue to check the angles.",
+        "Learn why angled legs stop a stool tipping over."
+      ],
+      "task": "Cut four legs with matching angles.",
+      "challenge": "Explain to a friend why splayed legs are steadier.",
+      "quiz": [
+        {
+          "q": "What are splayed legs?",
+          "options": [
+            "Legs that angle outward from the top",
+            "Legs that are broken",
+            "Legs that are too long",
+            "Legs made of metal"
+          ],
+          "answer": 0,
+          "explain": "Splayed legs are legs that angle outward."
+        },
+        {
+          "q": "What angle do you cut the stool legs at?",
+          "options": [
+            "8 degrees",
+            "45 degrees",
+            "90 degrees",
+            "30 degrees"
+          ],
+          "answer": 0,
+          "explain": "Cut a leg at an 8-degree angle and see how it leans. Mark the same angle on all four legs."
+        },
+        {
+          "q": "Why do angled legs make a stool steady?",
+          "options": [
+            "They stop the stool tipping over",
+            "They make it taller",
+            "They look better",
+            "They use less wood"
+          ],
+          "answer": 0,
+          "explain": "Learn why angled legs stop a stool tipping over. Dry-fit the legs to the top without glue to check the angles."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Build a Wooden Stool",
+      "goal": "Build a sturdy wooden stool with splayed legs.",
+      "video": {
+        "youtube_id": "WIHHCJF6G9s",
+        "title": "I Built a Wooden Stool \u2014 Easy DIY Anyone Can Make",
+        "channel": "Scott's Place"
+      },
+      "steps": [
+        "Cut the legs, top and corner blocks from your plan.",
+        "Fix the legs to the corner blocks under the top.",
+        "Add stretchers (bars between the legs) to stop wobble.",
+        "Sand, stain or oil the stool and test it by sitting on it."
+      ],
+      "task": "Build a stool you can sit on safely.",
+      "challenge": "Build a stool that does not wobble on a flat floor.",
+      "quiz": [
+        {
+          "q": "What holds the stool legs under the top?",
+          "options": [
+            "Corner blocks",
+            "Glue only",
+            "The stretchers",
+            "The floor"
+          ],
+          "answer": 0,
+          "explain": "Fix the legs to the corner blocks under the top."
+        },
+        {
+          "q": "What are stretchers on a stool?",
+          "options": [
+            "Bars between the legs that stop wobble",
+            "The seat",
+            "The legs",
+            "The tools"
+          ],
+          "answer": 0,
+          "explain": "Add stretchers (bars between the legs) to stop wobble."
+        },
+        {
+          "q": "How do you test the finished stool?",
+          "options": [
+            "Sit on it",
+            "Drop it",
+            "Weigh it",
+            "Paint it"
+          ],
+          "answer": 0,
+          "explain": "Sand, stain or oil the stool and test it by sitting on it."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Stretchers and Strength",
+      "goal": "Add stretchers and check a stool or table for strength.",
+      "video": {
+        "youtube_id": "WIHHCJF6G9s",
+        "title": "I Built a Wooden Stool \u2014 Easy DIY Anyone Can Make",
+        "channel": "Scott's Place"
+      },
+      "steps": [
+        "Measure the gaps between the legs for the stretcher bars.",
+        "Cut stretchers to fit snugly between the legs.",
+        "Glue and screw them in place.",
+        "Rock the stool hard and check nothing moves."
+      ],
+      "task": "Fit stretchers that make a stool rock-solid.",
+      "challenge": "Fix a wobbly stool by adding one stretcher.",
+      "quiz": [
+        {
+          "q": "What should you measure for the stretcher bars?",
+          "options": [
+            "The gaps between the legs",
+            "The height of the stool",
+            "The seat size",
+            "The floor"
+          ],
+          "answer": 0,
+          "explain": "Measure the gaps between the legs for the stretcher bars."
+        },
+        {
+          "q": "How should the stretchers fit?",
+          "options": [
+            "Snugly between the legs",
+            "Loosely",
+            "Only on one side",
+            "Above the seat"
+          ],
+          "answer": 0,
+          "explain": "Cut stretchers to fit snugly between the legs. Glue and screw them in place."
+        },
+        {
+          "q": "How do you test the stool's strength?",
+          "options": [
+            "Rock it hard and check nothing moves",
+            "Sit on it gently",
+            "Look at it",
+            "Weigh it"
+          ],
+          "answer": 0,
+          "explain": "Rock the stool hard and check nothing moves."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Plan a Dining Table",
+      "goal": "Plan a dining table: top, legs and apron, with real measurements.",
+      "video": {
+        "youtube_id": "GuBXYHIUUag",
+        "title": "How to Build a DIY Dining Table",
+        "channel": "Rockler"
+      },
+      "steps": [
+        "Measure the space and decide how many people it must seat.",
+        "Draw the top, legs and apron with sizes.",
+        "Choose boards wide enough for the top.",
+        "Work out the cost of the wood before you buy."
+      ],
+      "task": "Draw a measured plan for a dining table.",
+      "challenge": "Plan a table that seats six in a small room.",
+      "quiz": [
+        {
+          "q": "What should you decide first when planning a dining table?",
+          "options": [
+            "How many people it must seat",
+            "The colour only",
+            "The price only",
+            "The wood type only"
+          ],
+          "answer": 0,
+          "explain": "Measure the space and decide how many people it must seat."
+        },
+        {
+          "q": "What parts should your drawing show with sizes?",
+          "options": [
+            "The top, legs and apron",
+            "Only the top",
+            "Only the legs",
+            "Only the apron"
+          ],
+          "answer": 0,
+          "explain": "Draw the top, legs and apron with sizes."
+        },
+        {
+          "q": "What should you work out before you buy the wood?",
+          "options": [
+            "The cost of the wood",
+            "The colour of the stain",
+            "The name of the shop",
+            "The delivery day"
+          ],
+          "answer": 0,
+          "explain": "Choose boards wide enough for the top. Work out the cost of the wood before you buy."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Tabletop and Legs",
+      "goal": "Join boards into a wide tabletop and fix strong legs.",
+      "video": {
+        "youtube_id": "GuBXYHIUUag",
+        "title": "How to Build a DIY Dining Table",
+        "channel": "Rockler"
+      },
+      "steps": [
+        "Glue boards edge to edge for the top and clamp them flat.",
+        "Leave the top to dry overnight, then sand it flat.",
+        "Fix the legs to the apron frame with strong joints.",
+        "Join the top to the frame with screws from below."
+      ],
+      "task": "Join a tabletop with no gaps between boards.",
+      "challenge": "Make a tabletop flat enough that a glass does not rock.",
+      "quiz": [
+        {
+          "q": "How do you join boards into a wide tabletop?",
+          "options": [
+            "Nail them on top of each other",
+            "Glue them edge to edge and clamp them flat",
+            "Screw them to the legs only",
+            "Stack them"
+          ],
+          "answer": 1,
+          "explain": "Edge-gluing boards side by side makes one wide flat top."
+        },
+        {
+          "q": "Why clamp a tabletop while the glue dries?",
+          "options": [
+            "To keep it warm",
+            "To hold the boards flat and tight so the top has no gaps",
+            "To make it dry faster",
+            "To change the shape"
+          ],
+          "answer": 1,
+          "explain": "Clamps press the boards together and keep them flat while the glue sets."
+        },
+        {
+          "q": "Why screw the top on from underneath?",
+          "options": [
+            "It is faster",
+            "So no screw heads show on the top surface",
+            "It uses fewer screws",
+            "It is easier to reach"
+          ],
+          "answer": 1,
+          "explain": "Screws from below keep the tabletop smooth and clean on top."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Finish a Tabletop",
+      "goal": "Stain and seal a tabletop so it looks good and resists spills.",
+      "video": {
+        "youtube_id": "GuBXYHIUUag",
+        "title": "How to Build a DIY Dining Table",
+        "channel": "Rockler"
+      },
+      "steps": [
+        "Sand the top smooth up to 220-grit paper.",
+        "Wipe on stain evenly and let it dry.",
+        "Brush or wipe on a clear sealer in thin coats.",
+        "Sand lightly between coats and add a second coat."
+      ],
+      "task": "Finish a tabletop with an even stain and smooth sealer.",
+      "challenge": "Fix a patchy stain by sanding back and starting again.",
+      "quiz": [
+        {
+          "q": "How smooth should you sand a tabletop before staining?",
+          "options": [
+            "Up to 220-grit paper",
+            "Only 80-grit",
+            "Not at all",
+            "Up to 40-grit"
+          ],
+          "answer": 0,
+          "explain": "Sand the top smooth up to 220-grit paper."
+        },
+        {
+          "q": "How should you put the sealer on?",
+          "options": [
+            "In thin coats",
+            "In one thick coat",
+            "Only on the edges",
+            "Without sanding first"
+          ],
+          "answer": 0,
+          "explain": "Brush or wipe on a clear sealer in thin coats."
+        },
+        {
+          "q": "What should you do between coats of sealer?",
+          "options": [
+            "Sand lightly and add a second coat",
+            "Paint over it",
+            "Leave it rough",
+            "Wash it with water"
+          ],
+          "answer": 0,
+          "explain": "Sand lightly between coats and add a second coat."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Farmhouse Style Basics",
+      "goal": "Know the farmhouse look: chunky legs, wide planks and a warm finish.",
+      "video": {
+        "youtube_id": "zdnJgb_k2gg",
+        "title": "How to Build a Farmhouse Kitchen Table",
+        "channel": "The Rehab Life"
+      },
+      "steps": [
+        "Look at farmhouse tables and note the thick legs and wide top.",
+        "Choose a warm stain colour that suits the style.",
+        "Learn how an apron under the top adds strength and looks.",
+        "Sketch your own farmhouse table."
+      ],
+      "task": "Sketch a farmhouse table with labels for each part.",
+      "challenge": "Name three things that make a table look farmhouse style.",
+      "quiz": [
+        {
+          "q": "What makes a table look farmhouse style?",
+          "options": [
+            "Chunky legs, wide planks and a warm finish",
+            "Thin metal legs",
+            "A glass top",
+            "Bright paint"
+          ],
+          "answer": 0,
+          "explain": "The farmhouse look is chunky legs, wide planks and a warm finish."
+        },
+        {
+          "q": "What does the apron do on a farmhouse table?",
+          "options": [
+            "It adds strength and looks good",
+            "It holds the tablecloth",
+            "It covers the floor",
+            "It holds the plates"
+          ],
+          "answer": 0,
+          "explain": "An apron under the top adds strength and looks."
+        },
+        {
+          "q": "What kind of stain suits the farmhouse style?",
+          "options": [
+            "A warm stain colour",
+            "A cold blue stain",
+            "Black paint",
+            "No stain at all"
+          ],
+          "answer": 0,
+          "explain": "Choose a warm stain colour that suits the style."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Capstone Planning",
+      "goal": "Choose your capstone build, buy the wood and cut the parts.",
+      "video": {
+        "youtube_id": "zdnJgb_k2gg",
+        "title": "How to Build a Farmhouse Kitchen Table",
+        "channel": "The Rehab Life"
+      },
+      "steps": [
+        "Pick a table or shelf that shows your best skills.",
+        "Buy or gather all the wood, screws and glue.",
+        "Cut and label every part in build order.",
+        "Write a two-day build plan with drying time."
+      ],
+      "task": "Have all capstone parts cut, labelled and ready.",
+      "challenge": "Plan a capstone build that uses joints, glue and a finish.",
+      "quiz": [
+        {
+          "q": "What should your capstone build show?",
+          "options": [
+            "Your best skills",
+            "Only one skill",
+            "Your fastest work",
+            "Your cheapest work"
+          ],
+          "answer": 0,
+          "explain": "Pick a table or shelf that shows your best skills."
+        },
+        {
+          "q": "What should you do with every part you cut?",
+          "options": [
+            "Label it in build order",
+            "Paint it",
+            "Hide it",
+            "Throw the small ones away"
+          ],
+          "answer": 0,
+          "explain": "Cut and label every part in build order."
+        },
+        {
+          "q": "What should your build plan include?",
+          "options": [
+            "Drying time for the glue",
+            "Only the first day",
+            "No drying time",
+            "Only the shopping list"
+          ],
+          "answer": 0,
+          "explain": "Write a two-day build plan with drying time."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone: Build and Present",
+      "goal": "Build your capstone piece, finish it and present it.",
+      "video": {
+        "youtube_id": "zdnJgb_k2gg",
+        "title": "How to Build a Farmhouse Kitchen Table",
+        "channel": "The Rehab Life"
+      },
+      "steps": [
+        "Build the piece following your plan, checking it is square.",
+        "Sand and finish it, then check it is level and strong.",
+        "Photograph it from four angles in good light.",
+        "Present it with your costing sheet and care note."
+      ],
+      "task": "Present a finished capstone piece with photos and costing.",
+      "challenge": "Finish the piece early enough for a full final sand and polish.",
+      "quiz": [
+        {
+          "q": "What should you check while building the capstone piece?",
+          "options": [
+            "That it is square",
+            "That it is heavy",
+            "That it is painted",
+            "That it is big"
+          ],
+          "answer": 0,
+          "explain": "Build the piece following your plan, checking it is square."
+        },
+        {
+          "q": "How should you photograph the finished piece?",
+          "options": [
+            "From four angles in good light",
+            "From one angle only",
+            "In the dark",
+            "With a flash only"
+          ],
+          "answer": 0,
+          "explain": "Photograph it from four angles in good light."
+        },
+        {
+          "q": "What should you present with the piece?",
+          "options": [
+            "Your costing sheet and care note",
+            "Only the piece",
+            "Only a photo",
+            "The tools you used"
+          ],
+          "answer": 0,
+          "explain": "Present it with your costing sheet and care note."
+        }
+      ],
+      "project": null
     }
-   ],
-   "project": null
-  },
-  {
-   "day": 3,
-   "week": 1,
-   "title": "Sawing Straight by Hand",
-   "goal": "Cut wood straight with a hand saw.",
-   "video": {
-    "youtube_id": "y7gLvEYoBu0",
-    "title": "What Kind of Wood Should You Build With? | WOODWORKING BASICS",
-    "channel": "Woodworking for Mere Mortals"
-   },
-   "steps": [
-    "Clamp the board firmly so it cannot move.",
-    "Start the cut with short gentle pulls, then use long smooth strokes.",
-    "Watch the line, not the blade, and keep the saw straight.",
-    "Sand the cut edge smooth with sandpaper."
-   ],
-   "task": "Cut a board straight along a marked line with no wobble.",
-   "challenge": "Cut a board so straight it needs no sanding.",
-   "quiz": [
-    {
-     "q": "What should you do first when you pick up a saw?",
-     "options": [
-      "Cut as fast as you can",
-      "Check the area is clear, wear safety glasses and clamp the wood",
-      "Oil the blade",
-      "Stand on one foot"
-     ],
-     "answer": 1,
-     "explain": "Safety comes first: glasses on, wood clamped, hands clear of the blade."
-    },
-    {
-     "q": "Which wood is soft and easy for a beginner to cut?",
-     "options": [
-      "Pine",
-      "Ironwood",
-      "Teak",
-      "Mahogany"
-     ],
-     "answer": 0,
-     "explain": "Pine is soft, light and cheap, so it is the best wood to learn on."
-    },
-    {
-     "q": "What does the grain of wood mean?",
-     "options": [
-      "The colour of the wood",
-      "The direction the wood fibres run",
-      "The price of the board",
-      "The smell of the wood"
-     ],
-     "answer": 1,
-     "explain": "Grain is the direction of the fibres; you cut and sand along it."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 4,
-   "week": 1,
-   "title": "Pocket-Hole Joints Made Easy",
-   "goal": "Join two boards with a pocket hole, a strong hidden screw joint.",
-   "video": {
-    "youtube_id": "mvO6zaIUO18",
-    "title": "Beginner's Guide to Pocket Hole Joinery",
-    "channel": "Woodworking for Mere Mortals"
-   },
-   "steps": [
-    "A pocket hole is a hole drilled at an angle so a screw can join two boards.",
-    "Clamp the pocket-hole jig (a guide that holds the drill at the right angle) to the board.",
-    "Drill the pocket holes, then drive screws through them into the second board.",
-    "Check the joint is tight and the screw heads sit hidden inside the holes."
-   ],
-   "task": "Join two boards at a right angle with pocket holes.",
-   "challenge": "Join two boards so the joint holds when you lift it by one end.",
-   "quiz": [
-    {
-     "q": "What is a pocket hole?",
-     "options": [
-      "A hole for your pocket",
-      "A hole drilled at an angle so a screw can join two boards",
-      "A hole for a hinge",
-      "A knot in the wood"
-     ],
-     "answer": 1,
-     "explain": "A pocket hole lets a screw pull two boards together from a hidden angle."
-    },
-    {
-     "q": "Why use pocket holes?",
-     "options": [
-      "They are faster to drill",
-      "They hide the screws and make a strong joint",
-      "They use less wood",
-      "They need no glue"
-     ],
-     "answer": 1,
-     "explain": "Pocket-hole screws sit inside the hole, so the joint is strong and the screws stay hidden."
-    },
-    {
-     "q": "What does the pocket-hole jig do?",
-     "options": [
-      "It cuts the wood",
-      "It holds the drill at the right angle",
-      "It sands the edge",
-      "It measures the board"
-     ],
-     "answer": 1,
-     "explain": "The jig is a guide that keeps the drill bit at the correct angle for the pocket hole."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 5,
-   "week": 1,
-   "title": "Drilling Clean Holes",
-   "goal": "Drill straight, clean holes without splitting the wood.",
-   "video": {
-    "youtube_id": "mvO6zaIUO18",
-    "title": "Beginner's Guide to Pocket Hole Joinery",
-    "channel": "Woodworking for Mere Mortals"
-   },
-   "steps": [
-    "Mark the hole spot with a pencil cross.",
-    "Start the drill slowly so the bit does not wander.",
-    "Drill straight down and pull the bit out often to clear the dust.",
-    "Put a scrap board underneath so the back does not split."
-   ],
-   "task": "Drill six clean holes in a row with no splitting.",
-   "challenge": "Drill a hole exactly where you marked it, first try.",
-   "quiz": [
-    {
-     "q": "What is a pocket hole?",
-     "options": [
-      "A hole for your pocket",
-      "A hole drilled at an angle so a screw can join two boards",
-      "A hole for a hinge",
-      "A knot in the wood"
-     ],
-     "answer": 1,
-     "explain": "A pocket hole lets a screw pull two boards together from a hidden angle."
-    },
-    {
-     "q": "Why use pocket holes?",
-     "options": [
-      "They are faster to drill",
-      "They hide the screws and make a strong joint",
-      "They use less wood",
-      "They need no glue"
-     ],
-     "answer": 1,
-     "explain": "Pocket-hole screws sit inside the hole, so the joint is strong and the screws stay hidden."
-    },
-    {
-     "q": "What does the pocket-hole jig do?",
-     "options": [
-      "It cuts the wood",
-      "It holds the drill at the right angle",
-      "It sands the edge",
-      "It measures the board"
-     ],
-     "answer": 1,
-     "explain": "The jig is a guide that keeps the drill bit at the correct angle for the pocket hole."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 6,
-   "week": 1,
-   "title": "Screws, Glue and Clamps",
-   "goal": "Hold wood together with screws, glue and clamps the right way.",
-   "video": {
-    "youtube_id": "mvO6zaIUO18",
-    "title": "Beginner's Guide to Pocket Hole Joinery",
-    "channel": "Woodworking for Mere Mortals"
-   },
-   "steps": [
-    "Spread a thin even layer of wood glue on one joining face.",
-    "Press the boards together and wipe off glue that squeezes out.",
-    "Add screws while the glue is wet, then clamp the joint tight.",
-    "Leave the clamp on until the glue dries fully."
-   ],
-   "task": "Glue and screw two boards together and test the joint the next day.",
-   "challenge": "Glue a joint with no glue mess on the outside.",
-   "quiz": [
-    {
-     "q": "What is a pocket hole?",
-     "options": [
-      "A hole for your pocket",
-      "A hole drilled at an angle so a screw can join two boards",
-      "A hole for a hinge",
-      "A knot in the wood"
-     ],
-     "answer": 1,
-     "explain": "A pocket hole lets a screw pull two boards together from a hidden angle."
-    },
-    {
-     "q": "Why use pocket holes?",
-     "options": [
-      "They are faster to drill",
-      "They hide the screws and make a strong joint",
-      "They use less wood",
-      "They need no glue"
-     ],
-     "answer": 1,
-     "explain": "Pocket-hole screws sit inside the hole, so the joint is strong and the screws stay hidden."
-    },
-    {
-     "q": "What does the pocket-hole jig do?",
-     "options": [
-      "It cuts the wood",
-      "It holds the drill at the right angle",
-      "It sands the edge",
-      "It measures the board"
-     ],
-     "answer": 1,
-     "explain": "The jig is a guide that keeps the drill bit at the correct angle for the pocket hole."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 7,
-   "week": 1,
-   "title": "Project: Build a Small Wooden Box",
-   "goal": "Build a small open wooden box with glued and screwed joints.",
-   "video": {
-    "youtube_id": "TPEvpVoE7h0",
-    "title": "Wood Joinery Basics",
-    "channel": "WoodSkills"
-   },
-   "steps": [
-    "Cut four sides and a bottom from one board.",
-    "Glue and screw the sides into a rectangle, checking the corners are square.",
-    "Fix the bottom on with screws from underneath.",
-    "Sand every edge smooth and check the box sits flat."
-   ],
-   "task": "Finish a small wooden box that sits flat and holds its shape.",
-   "challenge": "Build the box with all four corners perfectly square.",
-   "quiz": [
-    {
-     "q": "What is a butt joint?",
-     "options": [
-      "Two boards joined at 45 degrees",
-      "Two boards pushed end to face and fixed",
-      "Two boards overlapped halfway",
-      "Two boards glued edge to edge"
-     ],
-     "answer": 1,
-     "explain": "A butt joint is the simplest joint: the end of one board meets the face of another."
-    },
-    {
-     "q": "What is a mitre joint?",
-     "options": [
-      "Two boards cut at 45 degrees and joined at a corner",
-      "Two boards nailed together",
-      "Two boards glued flat",
-      "A joint with a hinge"
-     ],
-     "answer": 0,
-     "explain": "Mitre joints meet at 45 degrees, like the corners of a picture frame."
-    },
-    {
-     "q": "Why use wood glue as well as screws?",
-     "options": [
-      "Glue is cheaper",
-      "Glue spreads the load and makes the joint much stronger",
-      "Screws rust",
-      "Glue dries fast"
-     ],
-     "answer": 1,
-     "explain": "Glue bonds the whole joining face, so the joint is stronger than screws alone."
-    }
-   ],
-   "project": {
-    "title": "Build a Small Wooden Box",
-    "brief": "Build a small open box with glued and screwed joints, sanded smooth.",
-    "checks": [
-     "Parts cut to size",
-     "Corners square",
-     "Joints glued and screwed",
-     "Bottom fixed firmly",
-     "Edges sanded smooth",
-     "Box sits flat"
-    ]
-   }
-  },
-  {
-   "day": 8,
-   "week": 2,
-   "title": "Sanding Smooth",
-   "goal": "Sand wood through the grits until it feels smooth.",
-   "video": {
-    "youtube_id": "TPEvpVoE7h0",
-    "title": "Wood Joinery Basics",
-    "channel": "WoodSkills"
-   },
-   "steps": [
-    "Sandpaper grit is the roughness number: low numbers are rough, high numbers are fine.",
-    "Start with rough 80-grit paper, then 120, then 220.",
-    "Sand with the grain (the direction the wood lines run), never across it.",
-    "Wipe the dust off with a cloth and feel the surface with your hand."
-   ],
-   "task": "Sand one board smooth enough to run your hand over with no roughness.",
-   "challenge": "Sand a box inside and out with no rough spots left.",
-   "quiz": [
-    {
-     "q": "What is a butt joint?",
-     "options": [
-      "Two boards joined at 45 degrees",
-      "Two boards pushed end to face and fixed",
-      "Two boards overlapped halfway",
-      "Two boards glued edge to edge"
-     ],
-     "answer": 1,
-     "explain": "A butt joint is the simplest joint: the end of one board meets the face of another."
-    },
-    {
-     "q": "What is a mitre joint?",
-     "options": [
-      "Two boards cut at 45 degrees and joined at a corner",
-      "Two boards nailed together",
-      "Two boards glued flat",
-      "A joint with a hinge"
-     ],
-     "answer": 0,
-     "explain": "Mitre joints meet at 45 degrees, like the corners of a picture frame."
-    },
-    {
-     "q": "Why use wood glue as well as screws?",
-     "options": [
-      "Glue is cheaper",
-      "Glue spreads the load and makes the joint much stronger",
-      "Screws rust",
-      "Glue dries fast"
-     ],
-     "answer": 1,
-     "explain": "Glue bonds the whole joining face, so the joint is stronger than screws alone."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 9,
-   "week": 2,
-   "title": "Joints: Butt, Lap and Mitre",
-   "goal": "Make three basic joints and know when to use each one.",
-   "video": {
-    "youtube_id": "TPEvpVoE7h0",
-    "title": "Wood Joinery Basics",
-    "channel": "WoodSkills"
-   },
-   "steps": [
-    "A butt joint is two boards pushed end to face; glue and screw it.",
-    "A lap joint overlaps two boards halfway; cut a notch in each one.",
-    "A mitre joint joins two boards cut at 45 degrees, like a picture frame.",
-    "Glue all three joints and test which one is strongest."
-   ],
-   "task": "Make one of each joint and label them.",
-   "challenge": "Make a mitre joint with no gap at the corner.",
-   "quiz": [
-    {
-     "q": "What is a butt joint?",
-     "options": [
-      "Two boards joined at 45 degrees",
-      "Two boards pushed end to face and fixed",
-      "Two boards overlapped halfway",
-      "Two boards glued edge to edge"
-     ],
-     "answer": 1,
-     "explain": "A butt joint is the simplest joint: the end of one board meets the face of another."
-    },
-    {
-     "q": "What is a mitre joint?",
-     "options": [
-      "Two boards cut at 45 degrees and joined at a corner",
-      "Two boards nailed together",
-      "Two boards glued flat",
-      "A joint with a hinge"
-     ],
-     "answer": 0,
-     "explain": "Mitre joints meet at 45 degrees, like the corners of a picture frame."
-    },
-    {
-     "q": "Why use wood glue as well as screws?",
-     "options": [
-      "Glue is cheaper",
-      "Glue spreads the load and makes the joint much stronger",
-      "Screws rust",
-      "Glue dries fast"
-     ],
-     "answer": 1,
-     "explain": "Glue bonds the whole joining face, so the joint is stronger than screws alone."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 10,
-   "week": 2,
-   "title": "Plan an End Table",
-   "goal": "Draw a simple plan for a small end table with measurements.",
-   "video": {
-    "youtube_id": "huv_yOtp3gQ",
-    "title": "How to Build an Easy End Table",
-    "channel": "Woodworkweb"
-   },
-   "steps": [
-    "Sketch the table from the front and the side.",
-    "Write the length, width and height of every part.",
-    "List the boards you need and how many of each.",
-    "Check the height works next to a real chair or sofa."
-   ],
-   "task": "Draw a measured plan for an end table.",
-   "challenge": "Plan a table using only boards you already have.",
-   "quiz": [
-    {
-     "q": "What is the apron of a table?",
-     "options": [
-      "The tablecloth",
-      "The frame under the tabletop that joins the legs",
-      "The top surface",
-      "A tool"
-     ],
-     "answer": 1,
-     "explain": "The apron is the frame below the top; it holds the legs together and stops wobble."
-    },
-    {
-     "q": "Why check the diagonals of a frame?",
-     "options": [
-      "To count the corners",
-      "To check the frame is square",
-      "To measure the wood",
-      "To find the centre"
-     ],
-     "answer": 1,
-     "explain": "If both diagonals are equal, the frame is square; if not, it is leaning."
-    },
-    {
-     "q": "How do you stop a table wobbling?",
-     "options": [
-      "Add more glue",
-      "Check it is square and trim the long leg",
-      "Paint it",
-      "Turn it over"
-     ],
-     "answer": 1,
-     "explain": "A wobble usually means one leg is longer; trimming it levels the table."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 11,
-   "week": 2,
-   "title": "Cut the Table Parts",
-   "goal": "Cut all the parts for your end table accurately.",
-   "video": {
-    "youtube_id": "huv_yOtp3gQ",
-    "title": "How to Build an Easy End Table",
-    "channel": "Woodworkweb"
-   },
-   "steps": [
-    "Cut the four legs to the same length first.",
-    "Cut the top, apron and shelf pieces from your plan.",
-    "Label every piece with its name and pencil marks.",
-    "Lay all the parts out on the floor like the finished table."
-   ],
-   "task": "Cut every part for the end table, labelled and ready.",
-   "challenge": "Cut all four legs exactly the same length.",
-   "quiz": [
-    {
-     "q": "What is the apron of a table?",
-     "options": [
-      "The tablecloth",
-      "The frame under the tabletop that joins the legs",
-      "The top surface",
-      "A tool"
-     ],
-     "answer": 1,
-     "explain": "The apron is the frame below the top; it holds the legs together and stops wobble."
-    },
-    {
-     "q": "Why check the diagonals of a frame?",
-     "options": [
-      "To count the corners",
-      "To check the frame is square",
-      "To measure the wood",
-      "To find the centre"
-     ],
-     "answer": 1,
-     "explain": "If both diagonals are equal, the frame is square; if not, it is leaning."
-    },
-    {
-     "q": "How do you stop a table wobbling?",
-     "options": [
-      "Add more glue",
-      "Check it is square and trim the long leg",
-      "Paint it",
-      "Turn it over"
-     ],
-     "answer": 1,
-     "explain": "A wobble usually means one leg is longer; trimming it levels the table."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 12,
-   "week": 2,
-   "title": "Assemble the End Table",
-   "goal": "Join the table parts into a steady, level table.",
-   "video": {
-    "youtube_id": "huv_yOtp3gQ",
-    "title": "How to Build an Easy End Table",
-    "channel": "Woodworkweb"
-   },
-   "steps": [
-    "Join the legs to the apron (the frame under the top) with pocket holes or screws.",
-    "Check the frame is square by measuring both diagonals.",
-    "Fix the top on with screws from underneath.",
-    "Stand the table up and check it does not wobble."
-   ],
-   "task": "Assemble an end table that stands level and steady.",
-   "challenge": "Fix a wobbly table by trimming one leg.",
-   "quiz": [
-    {
-     "q": "What is the apron of a table?",
-     "options": [
-      "The tablecloth",
-      "The frame under the tabletop that joins the legs",
-      "The top surface",
-      "A tool"
-     ],
-     "answer": 1,
-     "explain": "The apron is the frame below the top; it holds the legs together and stops wobble."
-    },
-    {
-     "q": "Why check the diagonals of a frame?",
-     "options": [
-      "To count the corners",
-      "To check the frame is square",
-      "To measure the wood",
-      "To find the centre"
-     ],
-     "answer": 1,
-     "explain": "If both diagonals are equal, the frame is square; if not, it is leaning."
-    },
-    {
-     "q": "How do you stop a table wobbling?",
-     "options": [
-      "Add more glue",
-      "Check it is square and trim the long leg",
-      "Paint it",
-      "Turn it over"
-     ],
-     "answer": 1,
-     "explain": "A wobble usually means one leg is longer; trimming it levels the table."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 13,
-   "week": 2,
-   "title": "Small Boxes: Measure Twice",
-   "goal": "Plan a small lidded box with careful measurements.",
-   "video": {
-    "youtube_id": "icsfbKfS9Ck",
-    "title": "Woodworking Basics for Beginners: Make a Beautiful Wooden Jewelry Box from Wood Scrap",
-    "channel": "Wood and Food"
-   },
-   "steps": [
-    "Decide what the box will hold and measure that item first.",
-    "Draw the box with its lid and write every size.",
-    "Choose thin boards so the box is light, not heavy.",
-    "List the hinges and screws you need for the lid."
-   ],
-   "task": "Draw a measured plan for a lidded box.",
-   "challenge": "Plan a box that fits a phone, keys and wallet exactly.",
-   "quiz": [
-    {
-     "q": "Why start with scrap wood for a first box?",
-     "options": [
-      "Scrap is free",
-      "Mistakes cost nothing and you learn the steps",
-      "Scrap looks better",
-      "New wood is too hard"
-     ],
-     "answer": 1,
-     "explain": "Scrap wood lets you practise measuring, cutting and joining without wasting good boards."
-    },
-    {
-     "q": "What does a 45-degree mitre joint give a box?",
-     "options": [
-      "A round corner",
-      "A neat corner with no end grain showing",
-      "A stronger bottom",
-      "A lid"
-     ],
-     "answer": 1,
-     "explain": "Mitre corners hide the end grain, so the box looks clean and neat."
-    },
-    {
-     "q": "Why sand between coats of finish?",
-     "options": [
-      "To waste time",
-      "To smooth small bumps so the next coat sticks well",
-      "To change the colour",
-      "To dry it faster"
-     ],
-     "answer": 1,
-     "explain": "A light sand between coats removes dust and bumps for a smooth finish."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 14,
-   "week": 2,
-   "title": "Project: Build a Small Box with a Lid",
-   "goal": "Build a small wooden box with a hinged lid.",
-   "video": {
-    "youtube_id": "icsfbKfS9Ck",
-    "title": "Woodworking Basics for Beginners: Make a Beautiful Wooden Jewelry Box from Wood Scrap",
-    "channel": "Wood and Food"
-   },
-   "steps": [
-    "Cut the sides, bottom and lid from thin boards.",
-    "Join the sides with glue and small screws or nails.",
-    "Fit two small hinges to the lid and the back.",
-    "Sand the box inside and out and test the lid opens and closes."
-   ],
-   "task": "Finish a lidded box that opens and closes smoothly.",
-   "challenge": "Fit hinges so the lid sits flat when closed.",
-   "quiz": [
-    {
-     "q": "Why start with scrap wood for a first box?",
-     "options": [
-      "Scrap is free",
-      "Mistakes cost nothing and you learn the steps",
-      "Scrap looks better",
-      "New wood is too hard"
-     ],
-     "answer": 1,
-     "explain": "Scrap wood lets you practise measuring, cutting and joining without wasting good boards."
-    },
-    {
-     "q": "What does a 45-degree mitre joint give a box?",
-     "options": [
-      "A round corner",
-      "A neat corner with no end grain showing",
-      "A stronger bottom",
-      "A lid"
-     ],
-     "answer": 1,
-     "explain": "Mitre corners hide the end grain, so the box looks clean and neat."
-    },
-    {
-     "q": "Why sand between coats of finish?",
-     "options": [
-      "To waste time",
-      "To smooth small bumps so the next coat sticks well",
-      "To change the colour",
-      "To dry it faster"
-     ],
-     "answer": 1,
-     "explain": "A light sand between coats removes dust and bumps for a smooth finish."
-    }
-   ],
-   "project": {
-    "title": "Build a Small Box with a Lid",
-    "brief": "Build a lidded box with hinges that open and close smoothly.",
-    "checks": [
-     "Sides joined cleanly",
-     "Lid fits the box",
-     "Hinges fitted and working",
-     "Lid sits flat when closed",
-     "Inside and outside sanded",
-     "Box opens and closes smoothly"
-    ]
-   }
-  },
-  {
-   "day": 15,
-   "week": 3,
-   "title": "Hinges and Lids",
-   "goal": "Fit hinges so a lid or door opens straight and stays shut.",
-   "video": {
-    "youtube_id": "icsfbKfS9Ck",
-    "title": "Woodworking Basics for Beginners: Make a Beautiful Wooden Jewelry Box from Wood Scrap",
-    "channel": "Wood and Food"
-   },
-   "steps": [
-    "Mark the hinge spots on the lid and the box.",
-    "Chisel or cut a shallow recess (a flat dip) so the hinge sits flush.",
-    "Screw the hinge leaves in place, one side at a time.",
-    "Test the lid and adjust the screws if it sticks."
-   ],
-   "task": "Fit a pair of hinges that open and close without sticking.",
-   "challenge": "Fit a hinge so you cannot see it when the lid is closed.",
-   "quiz": [
-    {
-     "q": "Why start with scrap wood for a first box?",
-     "options": [
-      "Scrap is free",
-      "Mistakes cost nothing and you learn the steps",
-      "Scrap looks better",
-      "New wood is too hard"
-     ],
-     "answer": 1,
-     "explain": "Scrap wood lets you practise measuring, cutting and joining without wasting good boards."
-    },
-    {
-     "q": "What does a 45-degree mitre joint give a box?",
-     "options": [
-      "A round corner",
-      "A neat corner with no end grain showing",
-      "A stronger bottom",
-      "A lid"
-     ],
-     "answer": 1,
-     "explain": "Mitre corners hide the end grain, so the box looks clean and neat."
-    },
-    {
-     "q": "Why sand between coats of finish?",
-     "options": [
-      "To waste time",
-      "To smooth small bumps so the next coat sticks well",
-      "To change the colour",
-      "To dry it faster"
-     ],
-     "answer": 1,
-     "explain": "A light sand between coats removes dust and bumps for a smooth finish."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 16,
-   "week": 3,
-   "title": "Build with 2x4 Timber",
-   "goal": "Use cheap 2x4 timber (thick square-edged boards) for strong simple builds.",
-   "video": {
-    "youtube_id": "9IdUawuDnWY",
-    "title": "Three Easy 2x4 Projects For Beginners",
-    "channel": "Specific Love Creations"
-   },
-   "steps": [
-    "Pick straight 2x4 boards with no big bends or twists.",
-    "Cut the boards to length for a simple shelf or rack.",
-    "Join them with pocket holes or screws.",
-    "Sand the edges so no one gets splinters."
-   ],
-   "task": "Build one small item from 2x4 timber.",
-   "challenge": "Pick the straightest boards from a pile of ten.",
-   "quiz": [
-    {
-     "q": "What does 2x4 mean?",
-     "options": [
-      "Two boards, four nails",
-      "A board about 2 inches by 4 inches",
-      "Two feet by four feet",
-      "A type of screw"
-     ],
-     "answer": 1,
-     "explain": "2x4 is the size name for a common thick board, about 2 by 4 inches."
-    },
-    {
-     "q": "Why are 2x4 projects good for beginners?",
-     "options": [
-      "The wood is free",
-      "The wood is cheap, strong and easy to cut and join",
-      "They need no tools",
-      "They never need sanding"
-     ],
-     "answer": 1,
-     "explain": "2x4 timber is cheap and forgiving, so beginners can build real furniture with it."
-    },
-    {
-     "q": "What should you check before buying 2x4 boards?",
-     "options": [
-      "The colour only",
-      "That the boards are straight with no big bends",
-      "The brand name",
-      "The weight only"
-     ],
-     "answer": 1,
-     "explain": "Bent or twisted boards make wobbly furniture, so pick straight ones."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 17,
-   "week": 3,
-   "title": "A Simple Display Shelf",
-   "goal": "Build a small wall shelf from 2x4 offcuts.",
-   "video": {
-    "youtube_id": "9IdUawuDnWY",
-    "title": "Three Easy 2x4 Projects For Beginners",
-    "channel": "Specific Love Creations"
-   },
-   "steps": [
-    "Cut two side pieces and three shelves to the same length.",
-    "Join the shelves between the sides with screws.",
-    "Check the shelf is square before the glue dries.",
-    "Sand it and hang it level on a wall."
-   ],
-   "task": "Build and hang a small display shelf.",
-   "challenge": "Hang the shelf perfectly level first try.",
-   "quiz": [
-    {
-     "q": "What does 2x4 mean?",
-     "options": [
-      "Two boards, four nails",
-      "A board about 2 inches by 4 inches",
-      "Two feet by four feet",
-      "A type of screw"
-     ],
-     "answer": 1,
-     "explain": "2x4 is the size name for a common thick board, about 2 by 4 inches."
-    },
-    {
-     "q": "Why are 2x4 projects good for beginners?",
-     "options": [
-      "The wood is free",
-      "The wood is cheap, strong and easy to cut and join",
-      "They need no tools",
-      "They never need sanding"
-     ],
-     "answer": 1,
-     "explain": "2x4 timber is cheap and forgiving, so beginners can build real furniture with it."
-    },
-    {
-     "q": "What should you check before buying 2x4 boards?",
-     "options": [
-      "The colour only",
-      "That the boards are straight with no big bends",
-      "The brand name",
-      "The weight only"
-     ],
-     "answer": 1,
-     "explain": "Bent or twisted boards make wobbly furniture, so pick straight ones."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 18,
-   "week": 3,
-   "title": "A Wall Storage Rack",
-   "goal": "Build a rack that holds things on a wall and keeps them tidy.",
-   "video": {
-    "youtube_id": "9IdUawuDnWY",
-    "title": "Three Easy 2x4 Projects For Beginners",
-    "channel": "Specific Love Creations"
-   },
-   "steps": [
-    "Measure the space on the wall and the items the rack will hold.",
-    "Cut uprights and cross pieces to size.",
-    "Join the frame, then add hooks or pegs.",
-    "Fix the rack to the wall with strong screws and plugs."
-   ],
-   "task": "Build and fix a wall storage rack.",
-   "challenge": "Build a rack that holds 10kg without pulling off the wall.",
-   "quiz": [
-    {
-     "q": "What does 2x4 mean?",
-     "options": [
-      "Two boards, four nails",
-      "A board about 2 inches by 4 inches",
-      "Two feet by four feet",
-      "A type of screw"
-     ],
-     "answer": 1,
-     "explain": "2x4 is the size name for a common thick board, about 2 by 4 inches."
-    },
-    {
-     "q": "Why are 2x4 projects good for beginners?",
-     "options": [
-      "The wood is free",
-      "The wood is cheap, strong and easy to cut and join",
-      "They need no tools",
-      "They never need sanding"
-     ],
-     "answer": 1,
-     "explain": "2x4 timber is cheap and forgiving, so beginners can build real furniture with it."
-    },
-    {
-     "q": "What should you check before buying 2x4 boards?",
-     "options": [
-      "The colour only",
-      "That the boards are straight with no big bends",
-      "The brand name",
-      "The weight only"
-     ],
-     "answer": 1,
-     "explain": "Bent or twisted boards make wobbly furniture, so pick straight ones."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 19,
-   "week": 3,
-   "title": "Plan a Storage Crate",
-   "goal": "Plan a wooden crate from a single board.",
-   "video": {
-    "youtube_id": "nTEdojO1zzI",
-    "title": "Wooden Crate From A Single Board",
-    "channel": "Casual Builds"
-   },
-   "steps": [
-    "Draw the crate with its slats and handles.",
-    "Work out how many pieces you can cut from one board.",
-    "Mark the handle holes on the side panels.",
-    "List the glue, nails and sandpaper you need."
-   ],
-   "task": "Draw a plan for a crate that uses one board only.",
-   "challenge": "Plan a crate that holds books without the bottom sagging.",
-   "quiz": [
-    {
-     "q": "How many boards can a crate from one board use?",
-     "options": [
-      "As many as you like",
-      "Only the pieces cut from that one board",
-      "Two boards",
-      "Half a board"
-     ],
-     "answer": 1,
-     "explain": "The challenge is to plan every piece from a single board with nothing wasted."
-    },
-    {
-     "q": "Why glue panels edge to edge?",
-     "options": [
-      "To make them heavier",
-      "To make a wide flat panel from narrow boards",
-      "To change the colour",
-      "To hide nails"
-     ],
-     "answer": 1,
-     "explain": "Gluing narrow boards edge to edge makes a wide panel for the crate sides."
-    },
-    {
-     "q": "Why cut handle holes in a crate?",
-     "options": [
-      "For decoration",
-      "So you can lift and carry it easily",
-      "To let air in",
-      "To save wood"
-     ],
-     "answer": 1,
-     "explain": "Handle holes let you grip and carry a heavy crate with both hands."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 20,
-   "week": 3,
-   "title": "Cut and Glue the Crate Panels",
-   "goal": "Cut crate panels and glue them into flat sides.",
-   "video": {
-    "youtube_id": "nTEdojO1zzI",
-    "title": "Wooden Crate From A Single Board",
-    "channel": "Casual Builds"
-   },
-   "steps": [
-    "Cut the board into equal lengths for the sides.",
-    "Glue two pieces edge to edge for each side panel and clamp them.",
-    "Leave the glue to dry overnight before you cut further.",
-    "Trim the glued panels square."
-   ],
-   "task": "Glue up two flat side panels for the crate.",
-   "challenge": "Glue a panel with no gaps between the boards.",
-   "quiz": [
-    {
-     "q": "How many boards can a crate from one board use?",
-     "options": [
-      "As many as you like",
-      "Only the pieces cut from that one board",
-      "Two boards",
-      "Half a board"
-     ],
-     "answer": 1,
-     "explain": "The challenge is to plan every piece from a single board with nothing wasted."
-    },
-    {
-     "q": "Why glue panels edge to edge?",
-     "options": [
-      "To make them heavier",
-      "To make a wide flat panel from narrow boards",
-      "To change the colour",
-      "To hide nails"
-     ],
-     "answer": 1,
-     "explain": "Gluing narrow boards edge to edge makes a wide panel for the crate sides."
-    },
-    {
-     "q": "Why cut handle holes in a crate?",
-     "options": [
-      "For decoration",
-      "So you can lift and carry it easily",
-      "To let air in",
-      "To save wood"
-     ],
-     "answer": 1,
-     "explain": "Handle holes let you grip and carry a heavy crate with both hands."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 21,
-   "week": 3,
-   "title": "Project: Build a Wooden Storage Crate",
-   "goal": "Assemble the crate with slats, handles and a strong base.",
-   "video": {
-    "youtube_id": "nTEdojO1zzI",
-    "title": "Wooden Crate From A Single Board",
-    "channel": "Casual Builds"
-   },
-   "steps": [
-    "Cut the slats and side panels to your plan.",
-    "Join the sides to the base with glue and nails.",
-    "Cut handle holes in the side panels and round the edges.",
-    "Sand the whole crate and test it carries a full load of books."
-   ],
-   "task": "Finish a wooden crate that carries books without bending.",
-   "challenge": "Build the crate using only one board, as planned.",
-   "quiz": [
-    {
-     "q": "How many boards can a crate from one board use?",
-     "options": [
-      "As many as you like",
-      "Only the pieces cut from that one board",
-      "Two boards",
-      "Half a board"
-     ],
-     "answer": 1,
-     "explain": "The challenge is to plan every piece from a single board with nothing wasted."
-    },
-    {
-     "q": "Why glue panels edge to edge?",
-     "options": [
-      "To make them heavier",
-      "To make a wide flat panel from narrow boards",
-      "To change the colour",
-      "To hide nails"
-     ],
-     "answer": 1,
-     "explain": "Gluing narrow boards edge to edge makes a wide panel for the crate sides."
-    },
-    {
-     "q": "Why cut handle holes in a crate?",
-     "options": [
-      "For decoration",
-      "So you can lift and carry it easily",
-      "To let air in",
-      "To save wood"
-     ],
-     "answer": 1,
-     "explain": "Handle holes let you grip and carry a heavy crate with both hands."
-    }
-   ],
-   "project": {
-    "title": "Build a Wooden Storage Crate",
-    "brief": "Build a crate with slats, handles and a strong base from one board.",
-    "checks": [
-     "Made from one board as planned",
-     "Sides square and strong",
-     "Handle holes cut and smoothed",
-     "Base holds a full load",
-     "Sanded with no splinters",
-     "Crate carries books without bending"
-    ]
-   }
-  },
-  {
-   "day": 22,
-   "week": 4,
-   "title": "Stools: Legs and Angles",
-   "goal": "Understand splayed legs (legs that angle outward) and why they make stools steady.",
-   "video": {
-    "youtube_id": "WIHHCJF6G9s",
-    "title": "I Built a Wooden Stool — Easy DIY Anyone Can Make",
-    "channel": "Scott's Place"
-   },
-   "steps": [
-    "Cut a leg at an 8-degree angle and see how it leans.",
-    "Mark the same angle on all four legs.",
-    "Dry-fit the legs to the top without glue to check the angles.",
-    "Learn why angled legs stop a stool tipping over."
-   ],
-   "task": "Cut four legs with matching angles.",
-   "challenge": "Explain to a friend why splayed legs are steadier.",
-   "quiz": [
-    {
-     "q": "What are splayed legs?",
-     "options": [
-      "Legs that are broken",
-      "Legs that angle outward from the top",
-      "Legs that are too long",
-      "Legs made of metal"
-     ],
-     "answer": 1,
-     "explain": "Splayed legs angle outward, which makes a stool much harder to tip over."
-    },
-    {
-     "q": "What do stretchers do on a stool?",
-     "options": [
-      "Hold the seat up",
-      "Bars between the legs that stop wobble and add strength",
-      "Decorate the legs",
-      "Make it taller"
-     ],
-     "answer": 1,
-     "explain": "Stretchers tie the legs together so the stool stays stiff and steady."
-    },
-    {
-     "q": "How do you test a stool you just built?",
-     "options": [
-      "Paint it",
-      "Sit on it and rock it gently to check it is strong and steady",
-      "Weigh it",
-      "Drop it"
-     ],
-     "answer": 1,
-     "explain": "Sitting and rocking tests the joints under real weight before anyone else uses it."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 23,
-   "week": 4,
-   "title": "Build a Wooden Stool",
-   "goal": "Build a sturdy wooden stool with splayed legs.",
-   "video": {
-    "youtube_id": "WIHHCJF6G9s",
-    "title": "I Built a Wooden Stool — Easy DIY Anyone Can Make",
-    "channel": "Scott's Place"
-   },
-   "steps": [
-    "Cut the legs, top and corner blocks from your plan.",
-    "Fix the legs to the corner blocks under the top.",
-    "Add stretchers (bars between the legs) to stop wobble.",
-    "Sand, stain or oil the stool and test it by sitting on it."
-   ],
-   "task": "Build a stool you can sit on safely.",
-   "challenge": "Build a stool that does not wobble on a flat floor.",
-   "quiz": [
-    {
-     "q": "What are splayed legs?",
-     "options": [
-      "Legs that are broken",
-      "Legs that angle outward from the top",
-      "Legs that are too long",
-      "Legs made of metal"
-     ],
-     "answer": 1,
-     "explain": "Splayed legs angle outward, which makes a stool much harder to tip over."
-    },
-    {
-     "q": "What do stretchers do on a stool?",
-     "options": [
-      "Hold the seat up",
-      "Bars between the legs that stop wobble and add strength",
-      "Decorate the legs",
-      "Make it taller"
-     ],
-     "answer": 1,
-     "explain": "Stretchers tie the legs together so the stool stays stiff and steady."
-    },
-    {
-     "q": "How do you test a stool you just built?",
-     "options": [
-      "Paint it",
-      "Sit on it and rock it gently to check it is strong and steady",
-      "Weigh it",
-      "Drop it"
-     ],
-     "answer": 1,
-     "explain": "Sitting and rocking tests the joints under real weight before anyone else uses it."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 24,
-   "week": 4,
-   "title": "Stretchers and Strength",
-   "goal": "Add stretchers and check a stool or table for strength.",
-   "video": {
-    "youtube_id": "WIHHCJF6G9s",
-    "title": "I Built a Wooden Stool — Easy DIY Anyone Can Make",
-    "channel": "Scott's Place"
-   },
-   "steps": [
-    "Measure the gaps between the legs for the stretcher bars.",
-    "Cut stretchers to fit snugly between the legs.",
-    "Glue and screw them in place.",
-    "Rock the stool hard and check nothing moves."
-   ],
-   "task": "Fit stretchers that make a stool rock-solid.",
-   "challenge": "Fix a wobbly stool by adding one stretcher.",
-   "quiz": [
-    {
-     "q": "What are splayed legs?",
-     "options": [
-      "Legs that are broken",
-      "Legs that angle outward from the top",
-      "Legs that are too long",
-      "Legs made of metal"
-     ],
-     "answer": 1,
-     "explain": "Splayed legs angle outward, which makes a stool much harder to tip over."
-    },
-    {
-     "q": "What do stretchers do on a stool?",
-     "options": [
-      "Hold the seat up",
-      "Bars between the legs that stop wobble and add strength",
-      "Decorate the legs",
-      "Make it taller"
-     ],
-     "answer": 1,
-     "explain": "Stretchers tie the legs together so the stool stays stiff and steady."
-    },
-    {
-     "q": "How do you test a stool you just built?",
-     "options": [
-      "Paint it",
-      "Sit on it and rock it gently to check it is strong and steady",
-      "Weigh it",
-      "Drop it"
-     ],
-     "answer": 1,
-     "explain": "Sitting and rocking tests the joints under real weight before anyone else uses it."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 25,
-   "week": 4,
-   "title": "Plan a Dining Table",
-   "goal": "Plan a dining table: top, legs and apron, with real measurements.",
-   "video": {
-    "youtube_id": "GuBXYHIUUag",
-    "title": "How to Build a DIY Dining Table",
-    "channel": "Rockler"
-   },
-   "steps": [
-    "Measure the space and decide how many people it must seat.",
-    "Draw the top, legs and apron with sizes.",
-    "Choose boards wide enough for the top.",
-    "Work out the cost of the wood before you buy."
-   ],
-   "task": "Draw a measured plan for a dining table.",
-   "challenge": "Plan a table that seats six in a small room.",
-   "quiz": [
-    {
-     "q": "How do you join boards into a wide tabletop?",
-     "options": [
-      "Nail them on top of each other",
-      "Glue them edge to edge and clamp them flat",
-      "Screw them to the legs only",
-      "Stack them"
-     ],
-     "answer": 1,
-     "explain": "Edge-gluing boards side by side makes one wide flat top."
-    },
-    {
-     "q": "Why clamp a tabletop while the glue dries?",
-     "options": [
-      "To keep it warm",
-      "To hold the boards flat and tight so the top has no gaps",
-      "To make it dry faster",
-      "To change the shape"
-     ],
-     "answer": 1,
-     "explain": "Clamps press the boards together and keep them flat while the glue sets."
-    },
-    {
-     "q": "Why screw the top on from underneath?",
-     "options": [
-      "It is faster",
-      "So no screw heads show on the top surface",
-      "It uses fewer screws",
-      "It is easier to reach"
-     ],
-     "answer": 1,
-     "explain": "Screws from below keep the tabletop smooth and clean on top."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 26,
-   "week": 4,
-   "title": "Tabletop and Legs",
-   "goal": "Join boards into a wide tabletop and fix strong legs.",
-   "video": {
-    "youtube_id": "GuBXYHIUUag",
-    "title": "How to Build a DIY Dining Table",
-    "channel": "Rockler"
-   },
-   "steps": [
-    "Glue boards edge to edge for the top and clamp them flat.",
-    "Leave the top to dry overnight, then sand it flat.",
-    "Fix the legs to the apron frame with strong joints.",
-    "Join the top to the frame with screws from below."
-   ],
-   "task": "Join a tabletop with no gaps between boards.",
-   "challenge": "Make a tabletop flat enough that a glass does not rock.",
-   "quiz": [
-    {
-     "q": "How do you join boards into a wide tabletop?",
-     "options": [
-      "Nail them on top of each other",
-      "Glue them edge to edge and clamp them flat",
-      "Screw them to the legs only",
-      "Stack them"
-     ],
-     "answer": 1,
-     "explain": "Edge-gluing boards side by side makes one wide flat top."
-    },
-    {
-     "q": "Why clamp a tabletop while the glue dries?",
-     "options": [
-      "To keep it warm",
-      "To hold the boards flat and tight so the top has no gaps",
-      "To make it dry faster",
-      "To change the shape"
-     ],
-     "answer": 1,
-     "explain": "Clamps press the boards together and keep them flat while the glue sets."
-    },
-    {
-     "q": "Why screw the top on from underneath?",
-     "options": [
-      "It is faster",
-      "So no screw heads show on the top surface",
-      "It uses fewer screws",
-      "It is easier to reach"
-     ],
-     "answer": 1,
-     "explain": "Screws from below keep the tabletop smooth and clean on top."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 27,
-   "week": 4,
-   "title": "Finish a Tabletop",
-   "goal": "Stain and seal a tabletop so it looks good and resists spills.",
-   "video": {
-    "youtube_id": "GuBXYHIUUag",
-    "title": "How to Build a DIY Dining Table",
-    "channel": "Rockler"
-   },
-   "steps": [
-    "Sand the top smooth up to 220-grit paper.",
-    "Wipe on stain evenly and let it dry.",
-    "Brush or wipe on a clear sealer in thin coats.",
-    "Sand lightly between coats and add a second coat."
-   ],
-   "task": "Finish a tabletop with an even stain and smooth sealer.",
-   "challenge": "Fix a patchy stain by sanding back and starting again.",
-   "quiz": [
-    {
-     "q": "How do you join boards into a wide tabletop?",
-     "options": [
-      "Nail them on top of each other",
-      "Glue them edge to edge and clamp them flat",
-      "Screw them to the legs only",
-      "Stack them"
-     ],
-     "answer": 1,
-     "explain": "Edge-gluing boards side by side makes one wide flat top."
-    },
-    {
-     "q": "Why clamp a tabletop while the glue dries?",
-     "options": [
-      "To keep it warm",
-      "To hold the boards flat and tight so the top has no gaps",
-      "To make it dry faster",
-      "To change the shape"
-     ],
-     "answer": 1,
-     "explain": "Clamps press the boards together and keep them flat while the glue sets."
-    },
-    {
-     "q": "Why screw the top on from underneath?",
-     "options": [
-      "It is faster",
-      "So no screw heads show on the top surface",
-      "It uses fewer screws",
-      "It is easier to reach"
-     ],
-     "answer": 1,
-     "explain": "Screws from below keep the tabletop smooth and clean on top."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 28,
-   "week": 4,
-   "title": "Farmhouse Style Basics",
-   "goal": "Know the farmhouse look: chunky legs, wide planks and a warm finish.",
-   "video": {
-    "youtube_id": "zdnJgb_k2gg",
-    "title": "How to Build a Farmhouse Kitchen Table",
-    "channel": "The Rehab Life"
-   },
-   "steps": [
-    "Look at farmhouse tables and note the thick legs and wide top.",
-    "Choose a warm stain colour that suits the style.",
-    "Learn how an apron under the top adds strength and looks.",
-    "Sketch your own farmhouse table."
-   ],
-   "task": "Sketch a farmhouse table with labels for each part.",
-   "challenge": "Name three things that make a table look farmhouse style.",
-   "quiz": [
-    {
-     "q": "What makes a table look farmhouse style?",
-     "options": [
-      "Thin metal legs",
-      "Chunky legs, wide planks and a warm stain",
-      "Glass top",
-      "Bright paint"
-     ],
-     "answer": 1,
-     "explain": "Farmhouse tables use thick legs, wide boards and warm wood tones."
-    },
-    {
-     "q": "What does the apron do on a farmhouse table?",
-     "options": [
-      "Holds the tablecloth",
-      "Joins the legs and strengthens the frame",
-      "Covers the floor",
-      "Holds the plates"
-     ],
-     "answer": 1,
-     "explain": "The apron is the frame under the top that ties the legs together."
-    },
-    {
-     "q": "Why sand a tabletop up to 220-grit paper?",
-     "options": [
-      "To make it thinner",
-      "To get a very smooth surface ready for stain",
-      "To remove the stain",
-      "To make it waterproof"
-     ],
-     "answer": 1,
-     "explain": "Fine 220-grit sanding leaves the top smooth enough for an even stain."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 29,
-   "week": 5,
-   "title": "Capstone Planning",
-   "goal": "Choose your capstone build, buy the wood and cut the parts.",
-   "video": {
-    "youtube_id": "zdnJgb_k2gg",
-    "title": "How to Build a Farmhouse Kitchen Table",
-    "channel": "The Rehab Life"
-   },
-   "steps": [
-    "Pick a table or shelf that shows your best skills.",
-    "Buy or gather all the wood, screws and glue.",
-    "Cut and label every part in build order.",
-    "Write a two-day build plan with drying time."
-   ],
-   "task": "Have all capstone parts cut, labelled and ready.",
-   "challenge": "Plan a capstone build that uses joints, glue and a finish.",
-   "quiz": [
-    {
-     "q": "What makes a table look farmhouse style?",
-     "options": [
-      "Thin metal legs",
-      "Chunky legs, wide planks and a warm stain",
-      "Glass top",
-      "Bright paint"
-     ],
-     "answer": 1,
-     "explain": "Farmhouse tables use thick legs, wide boards and warm wood tones."
-    },
-    {
-     "q": "What does the apron do on a farmhouse table?",
-     "options": [
-      "Holds the tablecloth",
-      "Joins the legs and strengthens the frame",
-      "Covers the floor",
-      "Holds the plates"
-     ],
-     "answer": 1,
-     "explain": "The apron is the frame under the top that ties the legs together."
-    },
-    {
-     "q": "Why sand a tabletop up to 220-grit paper?",
-     "options": [
-      "To make it thinner",
-      "To get a very smooth surface ready for stain",
-      "To remove the stain",
-      "To make it waterproof"
-     ],
-     "answer": 1,
-     "explain": "Fine 220-grit sanding leaves the top smooth enough for an even stain."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 30,
-   "week": 5,
-   "title": "Capstone: Build and Present",
-   "goal": "Build your capstone piece, finish it and present it.",
-   "video": {
-    "youtube_id": "zdnJgb_k2gg",
-    "title": "How to Build a Farmhouse Kitchen Table",
-    "channel": "The Rehab Life"
-   },
-   "steps": [
-    "Build the piece following your plan, checking it is square.",
-    "Sand and finish it, then check it is level and strong.",
-    "Photograph it from four angles in good light.",
-    "Present it with your costing sheet and care note."
-   ],
-   "task": "Present a finished capstone piece with photos and costing.",
-   "challenge": "Finish the piece early enough for a full final sand and polish.",
-   "quiz": [
-    {
-     "q": "What makes a table look farmhouse style?",
-     "options": [
-      "Thin metal legs",
-      "Chunky legs, wide planks and a warm stain",
-      "Glass top",
-      "Bright paint"
-     ],
-     "answer": 1,
-     "explain": "Farmhouse tables use thick legs, wide boards and warm wood tones."
-    },
-    {
-     "q": "What does the apron do on a farmhouse table?",
-     "options": [
-      "Holds the tablecloth",
-      "Joins the legs and strengthens the frame",
-      "Covers the floor",
-      "Holds the plates"
-     ],
-     "answer": 1,
-     "explain": "The apron is the frame under the top that ties the legs together."
-    },
-    {
-     "q": "Why sand a tabletop up to 220-grit paper?",
-     "options": [
-      "To make it thinner",
-      "To get a very smooth surface ready for stain",
-      "To remove the stain",
-      "To make it waterproof"
-     ],
-     "answer": 1,
-     "explain": "Fine 220-grit sanding leaves the top smooth enough for an even stain."
-    }
-   ],
-   "project": null
-  }
- ],
- "capstone": {
-  "title": "Build a Small Table or Shelf for a Real Home",
-  "brief": "Design and build a small table or shelf for a real room in a home, finished, level and strong, and present it with a costing sheet.",
-  "checks": [
-   "Piece designed from real measurements of the room",
-   "Joints clean, square and strong",
-   "Piece stands level with no wobble",
-   "Sanded smooth with no splinters or rough spots",
-   "Finish even: stain or sealer applied neatly",
-   "Photos taken from four angles",
-   "Costing sheet shows wood, screws, glue, time and selling price"
   ],
-  "deliverables": [
-   "Finished table or shelf, level and strong",
-   "Measured drawing of the piece",
-   "Costing and pricing sheet",
-   "Four photos: front, side, back and top",
-   "Care note for the owner"
-  ]
- }
+  "capstone": {
+    "title": "Build a Small Table or Shelf for a Real Home",
+    "brief": "Design and build a small table or shelf for a real room in a home, finished, level and strong, and present it with a costing sheet.",
+    "checks": [
+      "Piece designed from real measurements of the room",
+      "Joints clean, square and strong",
+      "Piece stands level with no wobble",
+      "Sanded smooth with no splinters or rough spots",
+      "Finish even: stain or sealer applied neatly",
+      "Photos taken from four angles",
+      "Costing sheet shows wood, screws, glue, time and selling price"
+    ],
+    "deliverables": [
+      "Finished table or shelf, level and strong",
+      "Measured drawing of the piece",
+      "Costing and pricing sheet",
+      "Four photos: front, side, back and top",
+      "Care note for the owner"
+    ]
+  }
 }

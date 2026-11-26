@@ -30,23 +30,23 @@
           "q": "What is a step sequencer?",
           "options": [
             "A grid where you place drum sounds on beats",
-            "A type of speaker",
-            "A kind of microphone",
-            "A music streaming app"
+            "A volume control for the drums",
+            "A microphone for recording",
+            "A list of songs to play"
           ],
           "answer": 0,
           "explain": "A step sequencer is a grid. You tap squares to place kicks, snares and hi-hats on the beat."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Meet your beat app\"?",
+          "q": "What is the first thing you do in the app?",
           "options": [
-            "Finish a beat with drums only.",
-            "Make a beat without loops.",
-            "Balance the volume of each sound.",
-            "Open a beat-making app and know the main parts."
+            "Start a new project",
+            "Export an MP3",
+            "Add a bass line",
+            "Mix the beat"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Open a beat-making app and know the main parts."
+          "answer": 0,
+          "explain": "Open the app and start a new project."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -86,22 +86,22 @@
           "options": [
             "Beats per minute, the speed of a beat",
             "A type of drum",
-            "A file format",
-            "A kind of speaker"
+            "How loud the beat is",
+            "The number of sounds in a beat"
           ],
           "answer": 0,
           "explain": "BPM means beats per minute. A higher BPM means a faster beat."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make your first drum pattern\"?",
+          "q": "How many kicks do you place in your first drum pattern?",
           "options": [
-            "Finish a full beat.",
-            "Add reverb or delay to your beat.",
-            "Make a simple drum beat.",
-            "Add a low bass sound to your beat."
+            "Four, one on each beat",
+            "One",
+            "Two",
+            "Eight"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Make a simple drum beat."
+          "answer": 0,
+          "explain": "Place four kicks, one on each beat."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -140,23 +140,23 @@
           "q": "What is a step sequencer?",
           "options": [
             "A grid where you place drum sounds on beats",
-            "A type of speaker",
-            "A kind of microphone",
-            "A music streaming app"
+            "A volume control for the drums",
+            "A microphone for recording",
+            "A list of songs to play"
           ],
           "answer": 0,
           "explain": "A step sequencer is a grid. You tap squares to place kicks, snares and hi-hats on the beat."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Add hi-hats\"?",
+          "q": "Where do you place the hi-hats first?",
           "options": [
-            "Make three beats in one style.",
-            "Add hi-hats to your beat.",
-            "Add a simple melody to your beat.",
-            "Make a full beat in the Afrobeats style."
+            "On every beat",
+            "Only on beat 1",
+            "Only at the end",
+            "On no beats"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Add hi-hats to your beat."
+          "answer": 0,
+          "explain": "Place hi-hats on every beat. Try placing them twice as fast."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -196,22 +196,22 @@
           "options": [
             "Beats per minute, the speed of a beat",
             "A type of drum",
-            "A file format",
-            "A kind of speaker"
+            "How loud the beat is",
+            "The number of sounds in a beat"
           ],
           "answer": 0,
           "explain": "BPM means beats per minute. A higher BPM means a faster beat."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Add a snare\"?",
+          "q": "Where does the snare go in your beat?",
           "options": [
-            "Add a snare to your beat.",
-            "Change the speed of your beat.",
-            "Make a full beat in the hip-hop style.",
-            "Make a beat with space for a voice."
+            "On beats 2 and 4",
+            "On beats 1 and 3",
+            "On every beat",
+            "Only on beat 1"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Add a snare to your beat."
+          "explain": "Place the snare on beats 2 and 4. The snare should hit with the clap."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -250,23 +250,23 @@
           "q": "What is a step sequencer?",
           "options": [
             "A grid where you place drum sounds on beats",
-            "A type of speaker",
-            "A kind of microphone",
-            "A music streaming app"
+            "A volume control for the drums",
+            "A microphone for recording",
+            "A list of songs to play"
           ],
           "answer": 0,
           "explain": "A step sequencer is a grid. You tap squares to place kicks, snares and hi-hats on the beat."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make an Afrobeats drum pattern\"?",
+          "q": "What tempo do you set for an Afrobeats drum pattern?",
           "options": [
-            "Build a beat from loops.",
-            "Make a full beat in the trap style.",
-            "Fix a beat that sounds crowded.",
-            "Make a drum pattern in the Afrobeats style."
+            "About 100 BPM",
+            "About 60 BPM",
+            "About 200 BPM",
+            "About 30 BPM"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Make a drum pattern in the Afrobeats style."
+          "answer": 0,
+          "explain": "Set the tempo to about 100 BPM."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -306,22 +306,22 @@
           "options": [
             "Beats per minute, the speed of a beat",
             "A type of drum",
-            "A file format",
-            "A kind of speaker"
+            "How loud the beat is",
+            "The number of sounds in a beat"
           ],
           "answer": 0,
           "explain": "BPM means beats per minute. A higher BPM means a faster beat."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a hip-hop drum pattern\"?",
+          "q": "What tempo do you set for a hip-hop drum pattern?",
           "options": [
-            "Add a recorded sound to your beat.",
-            "Find the style you love to make.",
-            "Make a drum pattern in the hip-hop style.",
-            "Arrange a beat into sections."
+            "About 90 BPM",
+            "About 140 BPM",
+            "About 200 BPM",
+            "About 50 BPM"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Make a drum pattern in the hip-hop style."
+          "answer": 0,
+          "explain": "Set the tempo to about 90 BPM."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -360,23 +360,23 @@
           "q": "What is a step sequencer?",
           "options": [
             "A grid where you place drum sounds on beats",
-            "A type of speaker",
-            "A kind of microphone",
-            "A music streaming app"
+            "A volume control for the drums",
+            "A microphone for recording",
+            "A list of songs to play"
           ],
           "answer": 0,
           "explain": "A step sequencer is a grid. You tap squares to place kicks, snares and hi-hats on the beat."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a trap drum pattern\"?",
+          "q": "What tempo do you set for a trap drum pattern?",
           "options": [
-            "Make one beat a day for three days.",
-            "Make a drum pattern in the trap style.",
-            "Make a beat without loops.",
-            "Balance the volume of each sound."
+            "About 140 BPM",
+            "About 90 BPM",
+            "About 60 BPM",
+            "About 100 BPM"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Make a drum pattern in the trap style."
+          "answer": 0,
+          "explain": "Set the tempo to about 140 BPM."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -426,23 +426,23 @@
           "q": "What is a snare in a beat?",
           "options": [
             "The sharp clap sound that usually hits on beats 2 and 4",
-            "A type of melody",
-            "A kind of speaker",
-            "A file format"
+            "The low thump on the main beats",
+            "A quiet ticking sound",
+            "The bass melody"
           ],
           "answer": 0,
           "explain": "A snare is the sharp crack sound. In most beats it hits on beats 2 and 4."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Finish your first beat\"?",
+          "q": "How does your first beat start?",
           "options": [
-            "Finish a beat with drums only.",
-            "Finish a full beat.",
-            "Add reverb or delay to your beat.",
-            "Pick your best beats."
+            "With a simple intro of just hi-hats",
+            "With the full drums",
+            "With a bass solo",
+            "With silence"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Finish a beat with drums only."
+          "explain": "Add a simple intro with just hi-hats. Add the full drums for the rest."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -481,23 +481,23 @@
           "q": "What is a kick in a beat?",
           "options": [
             "The low drum sound that hits on the beat",
-            "A type of melody",
-            "A kind of speaker",
-            "A file format"
+            "The sharp clap on beats 2 and 4",
+            "A quiet ticking sound",
+            "The bass melody"
           ],
           "answer": 0,
           "explain": "A kick is the deep thump in a beat. It usually lands on the main beats."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Add a bass line\"?",
+          "q": "How many low notes do you play for the bass line?",
           "options": [
-            "Make a full beat in the Afrobeats style.",
-            "Make three beats in one style.",
-            "Make a full beat fast.",
-            "Add a low bass sound to your beat."
+            "Three",
+            "Ten",
+            "One",
+            "Twenty"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Add a low bass sound to your beat."
+          "answer": 0,
+          "explain": "Play three low notes that fit your drums."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -536,23 +536,23 @@
           "q": "What is a snare in a beat?",
           "options": [
             "The sharp clap sound that usually hits on beats 2 and 4",
-            "A type of melody",
-            "A kind of speaker",
-            "A file format"
+            "The low thump on the main beats",
+            "A quiet ticking sound",
+            "The bass melody"
           ],
           "answer": 0,
           "explain": "A snare is the sharp crack sound. In most beats it hits on beats 2 and 4."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Add a melody\"?",
+          "q": "How many notes do you play for a simple melody?",
           "options": [
-            "Make a beat with space for a voice.",
-            "Pick your best work and say why it works.",
-            "Add a simple melody to your beat.",
-            "Make a full beat in the hip-hop style."
+            "Five notes that sound good together",
+            "One note",
+            "Fifty notes",
+            "No notes"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Add a simple melody to your beat."
+          "answer": 0,
+          "explain": "Play five notes that sound good together."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -591,23 +591,23 @@
           "q": "What is a kick in a beat?",
           "options": [
             "The low drum sound that hits on the beat",
-            "A type of melody",
-            "A kind of speaker",
-            "A file format"
+            "The sharp clap on beats 2 and 4",
+            "A quiet ticking sound",
+            "The bass melody"
           ],
           "answer": 0,
           "explain": "A kick is the deep thump in a beat. It usually lands on the main beats."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Learn about tempo\"?",
+          "q": "What happens when you raise the tempo from 90 to 120 BPM?",
           "options": [
-            "Write a simple plan to keep getting better.",
-            "Change the speed of your beat.",
-            "Make a full beat in the trap style.",
-            "Fix a beat that sounds crowded."
+            "The beat gets faster",
+            "The beat gets slower",
+            "The beat gets louder",
+            "Nothing changes"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Change the speed of your beat."
+          "answer": 0,
+          "explain": "Set it to 90 BPM and listen. Set it to 120 BPM and listen."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -646,23 +646,23 @@
           "q": "What is a snare in a beat?",
           "options": [
             "The sharp clap sound that usually hits on beats 2 and 4",
-            "A type of melody",
-            "A kind of speaker",
-            "A file format"
+            "The low thump on the main beats",
+            "A quiet ticking sound",
+            "The bass melody"
           ],
           "answer": 0,
           "explain": "A snare is the sharp crack sound. In most beats it hits on beats 2 and 4."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Use loops\"?",
+          "q": "Where do you find loops in your app?",
           "options": [
-            "Build a beat from loops.",
-            "Add a recorded sound to your beat.",
-            "Find the style you love to make.",
-            "Open a beat-making app and know the main parts."
+            "In the loop library",
+            "In the mixer",
+            "In the export menu",
+            "In the settings"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Build a beat from loops."
+          "explain": "Find the loop library in your app."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -701,23 +701,23 @@
           "q": "What is a kick in a beat?",
           "options": [
             "The low drum sound that hits on the beat",
-            "A type of melody",
-            "A kind of speaker",
-            "A file format"
+            "The sharp clap on beats 2 and 4",
+            "A quiet ticking sound",
+            "The bass melody"
           ],
           "answer": 0,
           "explain": "A kick is the deep thump in a beat. It usually lands on the main beats."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Arrange your beat\"?",
+          "q": "What is in the intro of your arranged beat?",
           "options": [
-            "Balance the volume of each sound.",
-            "Make one beat a day for three days.",
-            "Make a simple drum beat.",
-            "Arrange a beat into sections."
+            "Just the melody",
+            "Everything at once",
+            "Only the drums",
+            "Only the bass"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Arrange a beat into sections."
+          "answer": 0,
+          "explain": "Make an intro with just the melody."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -756,23 +756,23 @@
           "q": "What is a snare in a beat?",
           "options": [
             "The sharp clap sound that usually hits on beats 2 and 4",
-            "A type of melody",
-            "A kind of speaker",
-            "A file format"
+            "The low thump on the main beats",
+            "A quiet ticking sound",
+            "The bass melody"
           ],
           "answer": 0,
           "explain": "A snare is the sharp crack sound. In most beats it hits on beats 2 and 4."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a beat from scratch\"?",
+          "q": "How do you make a beat from scratch?",
           "options": [
-            "Pick your best beats.",
-            "Add hi-hats to your beat.",
-            "Make a beat without loops.",
-            "Add reverb or delay to your beat."
+            "Play the drums yourself, one sound at a time",
+            "Use only loops",
+            "Copy someone else's beat",
+            "Use only the intro"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Make a beat without loops."
+          "answer": 0,
+          "explain": "Start a new project. Play the drums yourself, one sound at a time."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -822,23 +822,23 @@
           "q": "What is a hi-hat?",
           "options": [
             "A light metal cymbal sound that keeps time in a beat",
-            "A type of bass",
-            "A kind of speaker",
-            "A file format"
+            "A deep drum sound",
+            "A long melody",
+            "A loud clap sound"
           ],
           "answer": 0,
           "explain": "A hi-hat is the light ticking sound. It keeps the beat moving."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Your first finished beat\"?",
+          "q": "What do you balance before you export your finished beat?",
           "options": [
-            "Add a snare to your beat.",
-            "Finish a full beat.",
-            "Make three beats in one style.",
-            "Make a full beat fast."
+            "The volume of each track",
+            "The tempo only",
+            "The file name only",
+            "The screen brightness"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Finish a full beat."
+          "answer": 0,
+          "explain": "Balance the volume of each track. Export it as an MP3."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -877,23 +877,23 @@
           "q": "What is a loop?",
           "options": [
             "A short sound that repeats over and over",
-            "A type of microphone",
-            "A kind of speaker",
-            "A song ending"
+            "A sound that plays only once",
+            "The end of a song",
+            "A very long song"
           ],
           "answer": 0,
           "explain": "A loop is a short piece of music that repeats. Loops are building blocks for beats."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make an Afrobeats beat\"?",
+          "q": "What tempo do you set for a full Afrobeats beat?",
           "options": [
-            "Make a full beat in the Afrobeats style.",
-            "Make a beat with space for a voice.",
-            "Pick your best work and say why it works.",
-            "Make a drum pattern in the Afrobeats style."
+            "About 100 BPM",
+            "About 140 BPM",
+            "About 60 BPM",
+            "About 200 BPM"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Make a full beat in the Afrobeats style."
+          "explain": "Set the tempo to about 100 BPM."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -932,23 +932,23 @@
           "q": "What is a hi-hat?",
           "options": [
             "A light metal cymbal sound that keeps time in a beat",
-            "A type of bass",
-            "A kind of speaker",
-            "A file format"
+            "A deep drum sound",
+            "A long melody",
+            "A loud clap sound"
           ],
           "answer": 0,
           "explain": "A hi-hat is the light ticking sound. It keeps the beat moving."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a hip-hop beat\"?",
+          "q": "What melody do you add to a hip-hop beat?",
           "options": [
-            "Fix a beat that sounds crowded.",
-            "Write a simple plan to keep getting better.",
-            "Make a drum pattern in the hip-hop style.",
-            "Make a full beat in the hip-hop style."
+            "A piano melody",
+            "A violin solo",
+            "A drum solo",
+            "No melody"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Make a full beat in the hip-hop style."
+          "answer": 0,
+          "explain": "Add a piano melody and export it."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -987,23 +987,23 @@
           "q": "What is a loop?",
           "options": [
             "A short sound that repeats over and over",
-            "A type of microphone",
-            "A kind of speaker",
-            "A song ending"
+            "A sound that plays only once",
+            "The end of a song",
+            "A very long song"
           ],
           "answer": 0,
           "explain": "A loop is a short piece of music that repeats. Loops are building blocks for beats."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a trap beat\"?",
+          "q": "What kind of melody fits a trap beat?",
           "options": [
-            "Open a beat-making app and know the main parts.",
-            "Make a drum pattern in the trap style.",
-            "Make a full beat in the trap style.",
-            "Find the style you love to make."
+            "A dark melody",
+            "A happy children's song",
+            "A soft lullaby",
+            "No melody"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Make a full beat in the trap style."
+          "answer": 0,
+          "explain": "Add a dark melody and export it."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1042,23 +1042,23 @@
           "q": "What is a hi-hat?",
           "options": [
             "A light metal cymbal sound that keeps time in a beat",
-            "A type of bass",
-            "A kind of speaker",
-            "A file format"
+            "A deep drum sound",
+            "A long melody",
+            "A loud clap sound"
           ],
           "answer": 0,
           "explain": "A hi-hat is the light ticking sound. It keeps the beat moving."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Use a sample\"?",
+          "q": "What can you record to use as a sample?",
           "options": [
-            "Finish a beat with drums only.",
-            "Add a recorded sound to your beat.",
-            "Make one beat a day for three days.",
-            "Make a simple drum beat."
+            "A sound like clapping or a voice",
+            "A full song",
+            "Silence",
+            "A photo"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Add a recorded sound to your beat."
+          "answer": 0,
+          "explain": "Record a sound, like clapping or a voice. Import it into your app."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1097,23 +1097,23 @@
           "q": "What is a loop?",
           "options": [
             "A short sound that repeats over and over",
-            "A type of microphone",
-            "A kind of speaker",
-            "A song ending"
+            "A sound that plays only once",
+            "The end of a song",
+            "A very long song"
           ],
           "answer": 0,
           "explain": "A loop is a short piece of music that repeats. Loops are building blocks for beats."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Mix your beat\"?",
+          "q": "What do you do if the bass is too loud?",
           "options": [
-            "Balance the volume of each sound.",
-            "Pick your best beats.",
-            "Add hi-hats to your beat.",
-            "Add a low bass sound to your beat."
+            "Turn the bass down",
+            "Turn everything up",
+            "Delete the bass",
+            "Turn the drums down"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Balance the volume of each sound."
+          "explain": "Turn the bass down if it is too loud."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1152,23 +1152,23 @@
           "q": "What is a hi-hat?",
           "options": [
             "A light metal cymbal sound that keeps time in a beat",
-            "A type of bass",
-            "A kind of speaker",
-            "A file format"
+            "A deep drum sound",
+            "A long melody",
+            "A loud clap sound"
           ],
           "answer": 0,
           "explain": "A hi-hat is the light ticking sound. It keeps the beat moving."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Add effects\"?",
+          "q": "What does reverb do to a sound?",
           "options": [
-            "Make a full beat fast.",
-            "Add a snare to your beat.",
-            "Add a simple melody to your beat.",
-            "Add reverb or delay to your beat."
+            "It makes the sound feel bigger",
+            "It makes it quieter",
+            "It makes it faster",
+            "It deletes it"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Add reverb or delay to your beat."
+          "answer": 0,
+          "explain": "Add a reverb effect. Listen. The sound should feel bigger."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1226,15 +1226,15 @@
           "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a beat pack\"?",
+          "q": "How many beats are in a beat pack?",
           "options": [
-            "Make a drum pattern in the Afrobeats style.",
-            "Change the speed of your beat.",
-            "Make three beats in one style.",
-            "Pick your best work and say why it works."
+            "Three beats in one style",
+            "One beat",
+            "Ten beats",
+            "Thirty beats"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Make three beats in one style."
+          "answer": 0,
+          "explain": "Make three beats in one style."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1273,23 +1273,23 @@
           "q": "What is a bass line?",
           "options": [
             "A low melody that supports the drums",
-            "A type of speaker",
-            "A kind of microphone",
-            "A song title"
+            "A fast drum pattern",
+            "A high singing voice",
+            "The name of a beat"
           ],
           "answer": 0,
           "explain": "A bass line is a low melody. It gives the beat its weight and groove."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a beat for a singer\"?",
+          "q": "What should you leave in the melody when making a beat for a singer?",
           "options": [
-            "Build a beat from loops.",
-            "Make a beat with space for a voice.",
-            "Write a simple plan to keep getting better.",
-            "Make a drum pattern in the hip-hop style."
+            "Space for a voice",
+            "More notes",
+            "A louder melody",
+            "No space at all"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Make a beat with space for a voice."
+          "answer": 0,
+          "explain": "Leave space in the melody for a voice. Turn the melody down a little."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1336,15 +1336,15 @@
           "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Fix a messy beat\"?",
+          "q": "How do you fix a beat that sounds crowded?",
           "options": [
-            "Fix a beat that sounds crowded.",
-            "Open a beat-making app and know the main parts.",
-            "Make a drum pattern in the trap style.",
-            "Arrange a beat into sections."
+            "Remove one sound at a time",
+            "Add more sounds",
+            "Turn everything up",
+            "Make it faster"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Fix a beat that sounds crowded."
+          "explain": "Remove one sound at a time. Keep only the sounds that matter."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1383,23 +1383,23 @@
           "q": "What is a bass line?",
           "options": [
             "A low melody that supports the drums",
-            "A type of speaker",
-            "A kind of microphone",
-            "A song title"
+            "A fast drum pattern",
+            "A high singing voice",
+            "The name of a beat"
           ],
           "answer": 0,
           "explain": "A bass line is a low melody. It gives the beat its weight and groove."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Build your beat style\"?",
+          "q": "How do you find the beat style you love?",
           "options": [
-            "Make a simple drum beat.",
-            "Finish a beat with drums only.",
-            "Make a beat without loops.",
-            "Find the style you love to make."
+            "Pick the three beats you love most and write down what they have in common",
+            "Copy someone else's beats",
+            "Use only one drum sound",
+            "Make beats faster"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Find the style you love to make."
+          "answer": 0,
+          "explain": "Pick the three you love most. Write down what they have in common."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1446,15 +1446,15 @@
           "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a beat every day\"?",
+          "q": "How long do you give yourself to make one beat a day?",
           "options": [
-            "Add a low bass sound to your beat.",
-            "Finish a full beat.",
-            "Make one beat a day for three days.",
-            "Add hi-hats to your beat."
+            "30 minutes",
+            "5 minutes",
+            "3 hours",
+            "All day"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Make one beat a day for three days."
+          "answer": 0,
+          "explain": "Set a timer for 30 minutes. Make a beat from start to finish."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1493,23 +1493,23 @@
           "q": "What is a bass line?",
           "options": [
             "A low melody that supports the drums",
-            "A type of speaker",
-            "A kind of microphone",
-            "A song title"
+            "A fast drum pattern",
+            "A high singing voice",
+            "The name of a beat"
           ],
           "answer": 0,
           "explain": "A bass line is a low melody. It gives the beat its weight and groove."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Your portfolio\"?",
+          "q": "How many of your best beats go in your portfolio?",
           "options": [
-            "Make a full beat in the Afrobeats style.",
-            "Pick your best beats.",
-            "Add a snare to your beat.",
-            "Add a simple melody to your beat."
+            "Five",
+            "One",
+            "Three",
+            "Twenty"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Pick your best beats."
+          "answer": 0,
+          "explain": "Pick your best five. Save them in a folder called Portfolio."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1556,15 +1556,15 @@
           "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a beat in 15 minutes\"?",
+          "q": "How long do you give yourself to make a full beat fast?",
           "options": [
-            "Make a full beat fast.",
-            "Make a drum pattern in the Afrobeats style.",
-            "Change the speed of your beat.",
-            "Make a full beat in the hip-hop style."
+            "15 minutes",
+            "1 hour",
+            "5 minutes",
+            "All day"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Make a full beat fast."
+          "explain": "Set a timer for 15 minutes."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1603,23 +1603,23 @@
           "q": "What is a bass line?",
           "options": [
             "A low melody that supports the drums",
-            "A type of speaker",
-            "A kind of microphone",
-            "A song title"
+            "A fast drum pattern",
+            "A high singing voice",
+            "The name of a beat"
           ],
           "answer": 0,
           "explain": "A bass line is a low melody. It gives the beat its weight and groove."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "q": "How many of your best beats do you pick for review?",
           "options": [
-            "Make a drum pattern in the hip-hop style.",
-            "Build a beat from loops.",
-            "Make a full beat in the trap style.",
-            "Pick your best work and say why it works."
+            "Three",
+            "One",
+            "Ten",
+            "All of them"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Pick your best work and say why it works."
+          "answer": 0,
+          "explain": "Pick your best three beats. Write one sentence about why each one works."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1666,15 +1666,15 @@
           "explain": "Arranging means building your beat into parts, so it has a start, a middle and an end."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "q": "What is the first step in your plan to keep getting better?",
           "options": [
-            "Arrange a beat into sections.",
-            "Add a recorded sound to your beat.",
-            "Write a simple plan to keep getting better.",
-            "Make a drum pattern in the trap style."
+            "Write down the one skill you want to improve most",
+            "Buy a new app",
+            "Delete your old beats",
+            "Stop making beats"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a simple plan to keep getting better."
+          "answer": 0,
+          "explain": "Write down the one skill you want to improve most."
         },
         {
           "q": "What is the first step in today's lesson?",

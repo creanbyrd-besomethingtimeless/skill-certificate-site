@@ -1,1714 +1,1714 @@
 {
- "course": {
-  "id": "candle-making",
-  "title": "Candle Making",
-  "level": "Beginner",
-  "tagline": "Make scented candles at home, from wax and wicks to a sellable product.",
-  "duration_days": 30
- },
- "days": [
-  {
-   "day": 1,
-   "week": 1,
-   "title": "Candle Making Basics",
-   "goal": "Know the parts of a candle: wax, wick, scent and container.",
-   "video": {
-    "youtube_id": "Hir66vEC2MI",
-    "title": "Learn How to Make Scented Soy Wax Candles for Beginners",
-    "channel": "CandleScience"
-   },
-   "steps": [
-    "Lay out soy wax, wicks, fragrance oil, jars and a thermometer.",
-    "Learn that the wick is the string that burns and melts the wax.",
-    "Learn that fragrance oil gives the candle its smell.",
-    "Set up a clean heat-proof work area."
-   ],
-   "task": "Label every candle supply on your bench.",
-   "challenge": "Name the four parts of a candle without looking.",
-   "quiz": [
-    {
-     "q": "What are the four parts of a candle?",
-     "options": [
-      "Wax, wick, scent and container",
-      "Wax, water, wick and glass",
-      "Oil, wick, jar and lid",
-      "Wax, dye, wick and box"
-     ],
-     "answer": 0,
-     "explain": "A candle needs wax to burn, a wick to light, scent to smell and a container to hold it."
-    },
-    {
-     "q": "What does the wick do?",
-     "options": [
-      "Holds the wax",
-      "Burns and melts the wax so the candle gives light and scent",
-      "Adds colour",
-      "Keeps it cool"
-     ],
-     "answer": 1,
-     "explain": "The wick is the string that burns and melts wax around it."
-    },
-    {
-     "q": "Why use a thermometer when melting wax?",
-     "options": [
-      "For fun",
-      "So the wax never gets hot enough to catch fire",
-      "To save time",
-      "To mix the scent"
-     ],
-     "answer": 1,
-     "explain": "Wax can catch fire if it overheats, so you must watch the temperature."
-    }
-   ],
-   "project": null
+  "course": {
+    "id": "candle-making",
+    "title": "Candle Making",
+    "level": "Beginner",
+    "tagline": "Make scented candles at home, from wax and wicks to a sellable product.",
+    "duration_days": 30
   },
-  {
-   "day": 2,
-   "week": 1,
-   "title": "Wax Types: Soy, Paraffin and Beeswax",
-   "goal": "Tell soy, paraffin and beeswax apart and know what each does.",
-   "video": {
-    "youtube_id": "Hir66vEC2MI",
-    "title": "Learn How to Make Scented Soy Wax Candles for Beginners",
-    "channel": "CandleScience"
-   },
-   "steps": [
-    "Hold soy wax flakes, paraffin and a beeswax block.",
-    "Learn that soy is easy for beginners and burns clean.",
-    "Learn that paraffin holds scent strongly.",
-    "Learn that beeswax is natural and smells of honey."
-   ],
-   "task": "Label three waxes with their name and one strength each.",
-   "challenge": "Pick the best wax for a beginner and explain why.",
-   "quiz": [
+  "days": [
     {
-     "q": "What are the four parts of a candle?",
-     "options": [
-      "Wax, wick, scent and container",
-      "Wax, water, wick and glass",
-      "Oil, wick, jar and lid",
-      "Wax, dye, wick and box"
-     ],
-     "answer": 0,
-     "explain": "A candle needs wax to burn, a wick to light, scent to smell and a container to hold it."
+      "day": 1,
+      "week": 1,
+      "title": "Candle Making Basics",
+      "goal": "Know the parts of a candle: wax, wick, scent and container.",
+      "video": {
+        "youtube_id": "Hir66vEC2MI",
+        "title": "Learn How to Make Scented Soy Wax Candles for Beginners",
+        "channel": "CandleScience"
+      },
+      "steps": [
+        "Lay out soy wax, wicks, fragrance oil, jars and a thermometer.",
+        "Learn that the wick is the string that burns and melts the wax.",
+        "Learn that fragrance oil gives the candle its smell.",
+        "Set up a clean heat-proof work area."
+      ],
+      "task": "Label every candle supply on your bench.",
+      "challenge": "Name the four parts of a candle without looking.",
+      "quiz": [
+        {
+          "q": "What are the four parts of a candle?",
+          "options": [
+            "Wax, wick, scent and container",
+            "Wax, water, wick and glass",
+            "Oil, wick, jar and lid",
+            "Wax, dye, wick and box"
+          ],
+          "answer": 0,
+          "explain": "A candle needs wax to burn, a wick to light, scent to smell and a container to hold it."
+        },
+        {
+          "q": "What does the wick do?",
+          "options": [
+            "Holds the wax",
+            "Burns and melts the wax so the candle gives light and scent",
+            "Adds colour",
+            "Keeps it cool"
+          ],
+          "answer": 1,
+          "explain": "The wick is the string that burns and melts wax around it."
+        },
+        {
+          "q": "Why use a thermometer when melting wax?",
+          "options": [
+            "For fun",
+            "So the wax never gets hot enough to catch fire",
+            "To save time",
+            "To mix the scent"
+          ],
+          "answer": 1,
+          "explain": "Wax can catch fire if it overheats, so you must watch the temperature."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "What does the wick do?",
-     "options": [
-      "Holds the wax",
-      "Burns and melts the wax so the candle gives light and scent",
-      "Adds colour",
-      "Keeps it cool"
-     ],
-     "answer": 1,
-     "explain": "The wick is the string that burns and melts wax around it."
+      "day": 2,
+      "week": 1,
+      "title": "Wax Types: Soy, Paraffin and Beeswax",
+      "goal": "Tell soy, paraffin and beeswax apart and know what each does.",
+      "video": {
+        "youtube_id": "Hir66vEC2MI",
+        "title": "Learn How to Make Scented Soy Wax Candles for Beginners",
+        "channel": "CandleScience"
+      },
+      "steps": [
+        "Hold soy wax flakes, paraffin and a beeswax block.",
+        "Learn that soy is easy for beginners and burns clean.",
+        "Learn that paraffin holds scent strongly.",
+        "Learn that beeswax is natural and smells of honey."
+      ],
+      "task": "Label three waxes with their name and one strength each.",
+      "challenge": "Pick the best wax for a beginner and explain why.",
+      "quiz": [
+        {
+          "q": "Which wax is easiest for a beginner?",
+          "options": [
+            "Beeswax",
+            "Soy wax",
+            "Paraffin",
+            "Gel wax"
+          ],
+          "answer": 1,
+          "explain": "Soy wax is easy to melt, pour and clean, and burns cleanly."
+        },
+        {
+          "q": "What is paraffin wax good for?",
+          "options": [
+            "Burning clean",
+            "Holding scent strongly",
+            "Smelling of honey",
+            "Melting fast"
+          ],
+          "answer": 1,
+          "explain": "Paraffin holds fragrance strongly, so candles smell powerful."
+        },
+        {
+          "q": "What does beeswax smell of?",
+          "options": [
+            "Nothing",
+            "Honey",
+            "Flowers",
+            "Smoke"
+          ],
+          "answer": 1,
+          "explain": "Beeswax has a natural sweet honey smell."
+        }
+      ],
+      "project": null
     },
     {
-     "q": "Why use a thermometer when melting wax?",
-     "options": [
-      "For fun",
-      "So the wax never gets hot enough to catch fire",
-      "To save time",
-      "To mix the scent"
-     ],
-     "answer": 1,
-     "explain": "Wax can catch fire if it overheats, so you must watch the temperature."
+      "day": 3,
+      "week": 1,
+      "title": "Safety: Hot Wax Rules",
+      "goal": "Work safely with hot wax and never leave it alone.",
+      "video": {
+        "youtube_id": "Hir66vEC2MI",
+        "title": "Learn How to Make Scented Soy Wax Candles for Beginners",
+        "channel": "CandleScience"
+      },
+      "steps": [
+        "Never leave melting wax alone on the heat.",
+        "Use a thermometer: wax can catch fire if it gets too hot.",
+        "Keep water away from hot wax.",
+        "Wear gloves and old clothes."
+      ],
+      "task": "Write your own five hot-wax safety rules.",
+      "challenge": "Melt wax safely with a thermometer in view.",
+      "quiz": [
+        {
+          "q": "What should you never do with melting wax?",
+          "options": [
+            "Leave it alone on the heat",
+            "Stir it",
+            "Check the temperature",
+            "Wear gloves"
+          ],
+          "answer": 0,
+          "explain": "Never leave melting wax alone on the heat."
+        },
+        {
+          "q": "Why use a thermometer with hot wax?",
+          "options": [
+            "Wax can catch fire if it gets too hot",
+            "To make it smell stronger",
+            "To cool it down",
+            "To change the colour"
+          ],
+          "answer": 0,
+          "explain": "Use a thermometer: wax can catch fire if it gets too hot."
+        },
+        {
+          "q": "Why keep water away from hot wax?",
+          "options": [
+            "Water in hot wax can splash and cause burns",
+            "It cools the wax",
+            "It changes the colour",
+            "It wastes water"
+          ],
+          "answer": 0,
+          "explain": "Keep water away from hot wax. Wear gloves and old clothes."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Melt Wax the Right Way",
+      "goal": "Melt wax slowly in a double boiler (a pot inside a pot of water).",
+      "video": {
+        "youtube_id": "LiLrIjz_2ac",
+        "title": "How to Make Your First Scented Candle",
+        "channel": "Craftovator"
+      },
+      "steps": [
+        "Fill a large pot with a little water.",
+        "Put the wax in a pouring jug inside the pot.",
+        "Heat gently and stir until the wax is fully liquid.",
+        "Check the temperature with a thermometer."
+      ],
+      "task": "Melt wax fully with no lumps and no overheating.",
+      "challenge": "Melt wax to the right temperature first try.",
+      "quiz": [
+        {
+          "q": "What is a double boiler?",
+          "options": [
+            "A pot inside a pot of water for gentle melting",
+            "Two pots",
+            "A kettle",
+            "A microwave"
+          ],
+          "answer": 0,
+          "explain": "Melt wax slowly in a double boiler (a pot inside a pot of water)."
+        },
+        {
+          "q": "Where do you put the wax to melt it?",
+          "options": [
+            "In a pouring jug inside the pot",
+            "Straight in the water",
+            "In the oven",
+            "On a plate"
+          ],
+          "answer": 0,
+          "explain": "Put the wax in a pouring jug inside the pot."
+        },
+        {
+          "q": "How should you heat the wax?",
+          "options": [
+            "Gently, stirring until it is fully liquid",
+            "On the highest heat",
+            "Without stirring",
+            "Until it boils"
+          ],
+          "answer": 0,
+          "explain": "Heat gently and stir until the wax is fully liquid. Check the temperature with a thermometer."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Wicks: Size and Type",
+      "goal": "Pick the right wick size for your jar.",
+      "video": {
+        "youtube_id": "LiLrIjz_2ac",
+        "title": "How to Make Your First Scented Candle",
+        "channel": "Craftovator"
+      },
+      "steps": [
+        "Learn that a wick too small makes a small melt pool and tunnels.",
+        "Learn that a wick too big makes a big flame and smoke.",
+        "Use a wick guide from a candle shop to match wick to jar size.",
+        "Test one wick size in your jar."
+      ],
+      "task": "Pick the right wick for three jar sizes.",
+      "challenge": "Explain what tunnelling means in plain words.",
+      "quiz": [
+        {
+          "q": "What happens if the wick is too small?",
+          "options": [
+            "The melt pool is small and the candle tunnels",
+            "The candle burns too fast",
+            "The candle smokes",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A wick too small makes a small melt pool and tunnels."
+        },
+        {
+          "q": "What happens if the wick is too big?",
+          "options": [
+            "The flame is big and the candle smokes",
+            "The candle smells weak",
+            "The candle tunnels",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "A wick too big makes a big flame and smoke."
+        },
+        {
+          "q": "How do you pick the right wick size for your jar?",
+          "options": [
+            "Use a wick guide and test one size in your jar",
+            "Guess any size",
+            "Always use the biggest wick",
+            "Always use the smallest wick"
+          ],
+          "answer": 0,
+          "explain": "Use a wick guide from a candle shop to match wick to jar size. Test one wick size in your jar."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Centre the Wick",
+      "goal": "Set a wick straight in the middle of a jar.",
+      "video": {
+        "youtube_id": "LiLrIjz_2ac",
+        "title": "How to Make Your First Scented Candle",
+        "channel": "Craftovator"
+      },
+      "steps": [
+        "Stick the wick to the bottom of the jar with a wick sticker.",
+        "Hold it straight with a wick bar (a stick across the jar top).",
+        "Check the wick is in the centre from above.",
+        "Keep it straight while you pour."
+      ],
+      "task": "Set three wicks dead centre in three jars.",
+      "challenge": "Set a wick straight without a wick bar.",
+      "quiz": [
+        {
+          "q": "How do you stick the wick to the jar?",
+          "options": [
+            "With a wick sticker on the bottom",
+            "With glue on the side",
+            "With tape on the top",
+            "It just sits there"
+          ],
+          "answer": 0,
+          "explain": "Stick the wick to the bottom of the jar with a wick sticker."
+        },
+        {
+          "q": "What holds the wick straight while you pour?",
+          "options": [
+            "A wick bar across the top of the jar",
+            "Your hand only",
+            "The fragrance oil",
+            "The lid"
+          ],
+          "answer": 0,
+          "explain": "Hold it straight with a wick bar (a stick across the jar top)."
+        },
+        {
+          "q": "How do you check the wick is centred?",
+          "options": [
+            "Look from above to see it is in the middle",
+            "Shake the jar",
+            "Measure the wax",
+            "Smell the candle"
+          ],
+          "answer": 0,
+          "explain": "Check the wick is in the centre from above. Keep it straight while you pour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Project: Make Your First Mason Jar Candle",
+      "goal": "Make your first scented candle in a mason jar.",
+      "video": {
+        "youtube_id": "vVlmkfF_PRk",
+        "title": "How to Make Mason Jar Soy Candles",
+        "channel": "Artful Homemaking"
+      },
+      "steps": [
+        "Melt soy wax to 80 degrees.",
+        "Add fragrance oil and stir for two minutes.",
+        "Let the wax cool to 55 degrees, then pour into the jar.",
+        "Leave the candle to set overnight, then trim the wick."
+      ],
+      "task": "Finish a mason jar candle that burns evenly.",
+      "challenge": "Pour a candle with a smooth top and no holes.",
+      "quiz": [
+        {
+          "q": "What temperature do you melt soy wax to for this candle?",
+          "options": [
+            "80 degrees",
+            "55 degrees",
+            "100 degrees",
+            "30 degrees"
+          ],
+          "answer": 0,
+          "explain": "Melt soy wax to 80 degrees."
+        },
+        {
+          "q": "How long do you stir after adding fragrance oil?",
+          "options": [
+            "Two minutes",
+            "Ten seconds",
+            "Ten minutes",
+            "One hour"
+          ],
+          "answer": 0,
+          "explain": "Add fragrance oil and stir for two minutes."
+        },
+        {
+          "q": "What do you do after pouring the candle?",
+          "options": [
+            "Leave it to set overnight, then trim the wick",
+            "Burn it straight away",
+            "Put it in the fridge",
+            "Pour more wax on top"
+          ],
+          "answer": 0,
+          "explain": "Let the wax cool to 55 degrees, then pour into the jar. Leave the candle to set overnight, then trim the wick."
+        }
+      ],
+      "project": {
+        "title": "Make Your First Mason Jar Candle",
+        "brief": "Make a scented candle in a mason jar from melt to set.",
+        "checks": [
+          "Wax melted to the right temperature",
+          "Scent added and stirred well",
+          "Wick centred",
+          "Poured at the right temperature",
+          "Top smooth with no holes",
+          "Burns evenly on test"
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Fragrance Oils: How Much to Add",
+      "goal": "Add the right amount of scent so the candle smells strong.",
+      "video": {
+        "youtube_id": "vVlmkfF_PRk",
+        "title": "How to Make Mason Jar Soy Candles",
+        "channel": "Artful Homemaking"
+      },
+      "steps": [
+        "Learn that most candles use 6 to 10 percent fragrance oil by weight.",
+        "Weigh the wax, then weigh the fragrance oil.",
+        "Add the oil at the right temperature (about 70 degrees for soy).",
+        "Stir for two minutes so the scent mixes in fully."
+      ],
+      "task": "Make a candle with the right amount of scent.",
+      "challenge": "Work out the fragrance amount for 500g of wax.",
+      "quiz": [
+        {
+          "q": "How much fragrance oil do most candles use?",
+          "options": [
+            "1 percent",
+            "6 to 10 percent of the wax weight",
+            "50 percent",
+            "A few drops"
+          ],
+          "answer": 1,
+          "explain": "Most candles use 6 to 10 percent fragrance oil by weight for a good scent."
+        },
+        {
+          "q": "When do you add fragrance oil to soy wax?",
+          "options": [
+            "At the start",
+            "At about 70 degrees, then stir for two minutes",
+            "After pouring",
+            "When it is cold"
+          ],
+          "answer": 1,
+          "explain": "Adding oil at the right temperature and stirring mixes the scent in fully."
+        },
+        {
+          "q": "Why weigh fragrance oil instead of guessing?",
+          "options": [
+            "It is faster",
+            "So every candle smells the same strength",
+            "It saves money",
+            "It is the law"
+          ],
+          "answer": 1,
+          "explain": "Weighing keeps the scent strength the same in every batch."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Pouring Temperature",
+      "goal": "Pour wax at the right temperature for a smooth top.",
+      "video": {
+        "youtube_id": "vVlmkfF_PRk",
+        "title": "How to Make Mason Jar Soy Candles",
+        "channel": "Artful Homemaking"
+      },
+      "steps": [
+        "Learn that pouring too hot makes sinkholes and cracks.",
+        "Learn that pouring too cool makes a rough lumpy top.",
+        "Pour soy wax at about 55 degrees.",
+        "Check the temperature every time before you pour."
+      ],
+      "task": "Pour three candles with smooth tops.",
+      "challenge": "Pour a candle with no sinkholes.",
+      "quiz": [
+        {
+          "q": "What happens if you pour wax too hot?",
+          "options": [
+            "Sinkholes and cracks form",
+            "It sets faster",
+            "It smells stronger",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Pouring too hot makes sinkholes and cracks."
+        },
+        {
+          "q": "What happens if you pour wax too cool?",
+          "options": [
+            "A rough lumpy top",
+            "A smooth top",
+            "A stronger scent",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Pouring too cool makes a rough lumpy top."
+        },
+        {
+          "q": "What temperature do you pour soy wax at?",
+          "options": [
+            "About 55 degrees",
+            "80 degrees",
+            "100 degrees",
+            "30 degrees"
+          ],
+          "answer": 0,
+          "explain": "Pour soy wax at about 55 degrees. Check the temperature every time before you pour."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Cooling and Setting",
+      "goal": "Let candles cool slowly so they set smooth and even.",
+      "video": {
+        "youtube_id": "nRmaBZe2eZc",
+        "title": "How to Make Soy Candles the Easy Way",
+        "channel": "Soy Candle Tutorials"
+      },
+      "steps": [
+        "Leave candles to cool at room temperature, not in a fridge.",
+        "Do not move them while they set.",
+        "Wait at least 24 hours before you burn a new candle.",
+        "Check the top: it should be smooth and flat."
+      ],
+      "task": "Cool three candles with smooth flat tops.",
+      "challenge": "Cool a candle with no wet spots on the sides.",
+      "quiz": [
+        {
+          "q": "Where should candles cool?",
+          "options": [
+            "At room temperature, not in a fridge",
+            "In the fridge",
+            "In the freezer",
+            "In the oven"
+          ],
+          "answer": 0,
+          "explain": "Leave candles to cool at room temperature, not in a fridge."
+        },
+        {
+          "q": "How long should you wait before burning a new candle?",
+          "options": [
+            "At least 24 hours",
+            "One hour",
+            "Ten minutes",
+            "One week"
+          ],
+          "answer": 0,
+          "explain": "Wait at least 24 hours before you burn a new candle."
+        },
+        {
+          "q": "What should the top of a set candle look like?",
+          "options": [
+            "Smooth and flat",
+            "Rough and lumpy",
+            "Cracked",
+            "Sunken in the middle"
+          ],
+          "answer": 0,
+          "explain": "Check the top: it should be smooth and flat. Do not move candles while they set."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Soy Candles the Easy Way",
+      "goal": "Make a simple soy candle with a clean method.",
+      "video": {
+        "youtube_id": "nRmaBZe2eZc",
+        "title": "How to Make Soy Candles the Easy Way",
+        "channel": "Soy Candle Tutorials"
+      },
+      "steps": [
+        "Melt soy wax and add scent at 70 degrees.",
+        "Pour at 55 degrees into a warm jar.",
+        "Centre the wick and leave to set.",
+        "Trim the wick to 5mm before lighting."
+      ],
+      "task": "Make a soy candle with a smooth top and even burn.",
+      "challenge": "Make a soy candle that smells strong when lit.",
+      "quiz": [
+        {
+          "q": "At what temperature do you add scent to soy wax?",
+          "options": [
+            "70 degrees",
+            "55 degrees",
+            "80 degrees",
+            "100 degrees"
+          ],
+          "answer": 0,
+          "explain": "Melt soy wax and add scent at 70 degrees."
+        },
+        {
+          "q": "What kind of jar should you pour into?",
+          "options": [
+            "A warm jar",
+            "A cold jar from the fridge",
+            "A wet jar",
+            "A cracked jar"
+          ],
+          "answer": 0,
+          "explain": "Pour at 55 degrees into a warm jar."
+        },
+        {
+          "q": "How long should the wick be before lighting?",
+          "options": [
+            "Trimmed to 5mm",
+            "Left as long as possible",
+            "Trimmed to 5cm",
+            "Cut off completely"
+          ],
+          "answer": 0,
+          "explain": "Trim the wick to 5mm before lighting."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Test Burn Your Candle",
+      "goal": "Burn a candle properly to test it before you sell it.",
+      "video": {
+        "youtube_id": "nRmaBZe2eZc",
+        "title": "How to Make Soy Candles the Easy Way",
+        "channel": "Soy Candle Tutorials"
+      },
+      "steps": [
+        "Light the candle and let it burn until the top melts fully across.",
+        "Check the flame is steady and not too tall.",
+        "Burn for 2 to 3 hours, then blow it out.",
+        "Write down what you saw: melt pool, scent and smoke."
+      ],
+      "task": "Test burn a candle and record the results.",
+      "challenge": "Test a candle and fix a tunnelling problem.",
+      "quiz": [
+        {
+          "q": "How long should you let a test candle burn?",
+          "options": [
+            "Until the top melts fully across",
+            "For five minutes",
+            "Until the wax is gone",
+            "For a whole day"
+          ],
+          "answer": 0,
+          "explain": "Light the candle and let it burn until the top melts fully across."
+        },
+        {
+          "q": "What should the flame look like?",
+          "options": [
+            "Steady and not too tall",
+            "Very tall and flickering",
+            "Very small and weak",
+            "Smoky"
+          ],
+          "answer": 0,
+          "explain": "Check the flame is steady and not too tall. Burn for 2 to 3 hours, then blow it out."
+        },
+        {
+          "q": "What should you write down after a test burn?",
+          "options": [
+            "The melt pool, scent and smoke",
+            "Only the price",
+            "Only the colour",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Write down what you saw: melt pool, scent and smoke."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Fix a Tunnelling Candle",
+      "goal": "Fix a candle that burns down the middle only.",
+      "video": {
+        "youtube_id": "EpTyHwWDowY",
+        "title": "How to Make Citronella Candles",
+        "channel": "Craftovator"
+      },
+      "steps": [
+        "Tunnelling means the wax melts only in the middle, leaving a ring.",
+        "Fix it by burning longer so the top melts fully across.",
+        "Or use a bigger wick next time.",
+        "Trim the wick before every burn."
+      ],
+      "task": "Fix a tunnelling candle so it melts fully across.",
+      "challenge": "Explain tunnelling to a customer in plain words.",
+      "quiz": [
+        {
+          "q": "What is tunnelling in a candle?",
+          "options": [
+            "A hole in the jar",
+            "The wax melting only in the middle, leaving a ring",
+            "A broken wick",
+            "A crack"
+          ],
+          "answer": 1,
+          "explain": "Tunnelling happens when the melt pool never reaches the jar edges."
+        },
+        {
+          "q": "How do you fix a tunnelling candle?",
+          "options": [
+            "Throw it away",
+            "Burn it longer so the top melts fully across",
+            "Add more wax",
+            "Use a smaller wick"
+          ],
+          "answer": 1,
+          "explain": "A longer burn melts the full top and fixes the tunnel."
+        },
+        {
+          "q": "Why trim the wick before every burn?",
+          "options": [
+            "For looks",
+            "A long wick makes a big smoky flame",
+            "It saves wax",
+            "It is the law"
+          ],
+          "answer": 1,
+          "explain": "A trimmed wick burns cleanly with a steady flame."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Citronella Candles",
+      "goal": "Make a citronella candle that keeps insects away.",
+      "video": {
+        "youtube_id": "EpTyHwWDowY",
+        "title": "How to Make Citronella Candles",
+        "channel": "Craftovator"
+      },
+      "steps": [
+        "Use citronella fragrance oil made for candles.",
+        "Melt wax and add the oil at the right temperature.",
+        "Pour into a jar or tin.",
+        "Label it clearly: citronella candles are for outdoors."
+      ],
+      "task": "Make a citronella candle for outdoor use.",
+      "challenge": "Make a citronella candle that smells strong outdoors.",
+      "quiz": [
+        {
+          "q": "What is a citronella candle for?",
+          "options": [
+            "Keeping insects away",
+            "Lighting a room",
+            "Smelling like flowers",
+            "Heating a room"
+          ],
+          "answer": 0,
+          "explain": "Make a citronella candle that keeps insects away."
+        },
+        {
+          "q": "What kind of citronella oil should you use?",
+          "options": [
+            "Fragrance oil made for candles",
+            "Any oil from the kitchen",
+            "Cooking oil",
+            "Perfume"
+          ],
+          "answer": 0,
+          "explain": "Use citronella fragrance oil made for candles."
+        },
+        {
+          "q": "What should the label say?",
+          "options": [
+            "That citronella candles are for outdoors",
+            "That they are for eating",
+            "That they never burn out",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Label it clearly: citronella candles are for outdoors."
+        }
+      ],
+      "project": {
+        "title": "Make a Set of Three Scented Candles",
+        "brief": "Make three scented candles in different scents, labelled and tested.",
+        "checks": [
+          "Three different scents",
+          "Wax, scent and wick correct in each",
+          "Jars labelled with scent and date",
+          "Tops smooth",
+          "One test burned and recorded",
+          "Set looks like a range"
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Project: Make a Set of Three Scented Candles",
+      "goal": "Make three scented candles in different scents.",
+      "video": {
+        "youtube_id": "EpTyHwWDowY",
+        "title": "How to Make Citronella Candles",
+        "channel": "Craftovator"
+      },
+      "steps": [
+        "Pick three scents that go well together.",
+        "Make each candle with the right wax, scent and wick.",
+        "Label each jar with its scent and the date made.",
+        "Test burn one and record the results."
+      ],
+      "task": "Finish three scented candles, labelled and tested.",
+      "challenge": "Make three candles with three different scents, all burning well.",
+      "quiz": [
+        {
+          "q": "How many scented candles do you make in this project?",
+          "options": [
+            "Three, in different scents",
+            "One",
+            "Five",
+            "Ten"
+          ],
+          "answer": 0,
+          "explain": "Make three scented candles in different scents."
+        },
+        {
+          "q": "What should you write on each jar label?",
+          "options": [
+            "Its scent and the date made",
+            "Only the price",
+            "Only your name",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Label each jar with its scent and the date made."
+        },
+        {
+          "q": "What should you do after making the three candles?",
+          "options": [
+            "Test burn one and record the results",
+            "Sell them all at once",
+            "Burn all three together",
+            "Throw one away"
+          ],
+          "answer": 0,
+          "explain": "Test burn one and record the results."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Coffee and Clove Candle",
+      "goal": "Make a warm coffee and clove scented candle.",
+      "video": {
+        "youtube_id": "MJWzZpHN9xk",
+        "title": "How to Make a Coffee and Clove Candle",
+        "channel": "Candle Making Tutorials"
+      },
+      "steps": [
+        "Pick coffee and clove fragrance oils.",
+        "Melt wax and blend the two scents.",
+        "Pour into a jar and set the wick straight.",
+        "Test burn and adjust the scent next time if needed."
+      ],
+      "task": "Make a coffee and clove candle that smells warm and rich.",
+      "challenge": "Blend two scents that work well together.",
+      "quiz": [
+        {
+          "q": "Which two scents do you blend in this candle?",
+          "options": [
+            "Coffee and clove",
+            "Coffee and lemon",
+            "Clove and mint",
+            "Coffee and vanilla"
+          ],
+          "answer": 0,
+          "explain": "Pick coffee and clove fragrance oils."
+        },
+        {
+          "q": "What do you do with the two scents?",
+          "options": [
+            "Melt wax and blend them together",
+            "Pour them in layers",
+            "Use only one of them",
+            "Add them after pouring"
+          ],
+          "answer": 0,
+          "explain": "Melt wax and blend the two scents."
+        },
+        {
+          "q": "What should you do after the test burn?",
+          "options": [
+            "Adjust the scent next time if needed",
+            "Throw the candle away",
+            "Add more scent to the finished candle",
+            "Change the jar"
+          ],
+          "answer": 0,
+          "explain": "Test burn and adjust the scent next time if needed."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Layered and Two-Tone Candles",
+      "goal": "Make a candle with two layers of colour.",
+      "video": {
+        "youtube_id": "MJWzZpHN9xk",
+        "title": "How to Make a Coffee and Clove Candle",
+        "channel": "Candle Making Tutorials"
+      },
+      "steps": [
+        "Pour the first colour and let it set fully.",
+        "Pour the second colour on top.",
+        "Keep the wick straight through both layers.",
+        "Check the layers are even and clean."
+      ],
+      "task": "Make a two-tone candle with clean layers.",
+      "challenge": "Make a layered candle with no mixing between layers.",
+      "quiz": [
+        {
+          "q": "What must you do before pouring the second colour?",
+          "options": [
+            "Let the first colour set fully",
+            "Pour it straight away",
+            "Stir the first colour",
+            "Remove the wick"
+          ],
+          "answer": 0,
+          "explain": "Pour the first colour and let it set fully."
+        },
+        {
+          "q": "Where does the second colour go?",
+          "options": [
+            "On top of the first colour",
+            "Under the first colour",
+            "Beside the jar",
+            "Mixed into the first colour"
+          ],
+          "answer": 0,
+          "explain": "Pour the second colour on top."
+        },
+        {
+          "q": "What should you check on the finished candle?",
+          "options": [
+            "The layers are even and clean",
+            "The layers are mixed together",
+            "The wick is bent",
+            "The jar is cracked"
+          ],
+          "answer": 0,
+          "explain": "Keep the wick straight through both layers. Check the layers are even and clean."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Fix Candle Mistakes",
+      "goal": "Fix the common mistakes that spoil soy candles.",
+      "video": {
+        "youtube_id": "MJWzZpHN9xk",
+        "title": "How to Make a Coffee and Clove Candle",
+        "channel": "Candle Making Tutorials"
+      },
+      "steps": [
+        "Learn the big mistakes: wrong temperature, wrong wick, too much scent.",
+        "Fix wet spots (patches where wax pulls from the jar) by warming the jar first.",
+        "Fix sinkholes by poking and topping up with wax.",
+        "Write a fix list for five mistakes."
+      ],
+      "task": "List five candle mistakes and how to fix each.",
+      "challenge": "Fix a candle with sinkholes so the top is smooth.",
+      "quiz": [
+        {
+          "q": "What are the big mistakes that spoil soy candles?",
+          "options": [
+            "Wrong temperature, wrong wick, too much scent",
+            "Wrong jar colour",
+            "Wrong label",
+            "Wrong room"
+          ],
+          "answer": 0,
+          "explain": "Learn the big mistakes: wrong temperature, wrong wick, too much scent."
+        },
+        {
+          "q": "How do you fix wet spots on a candle?",
+          "options": [
+            "Warm the jar first before pouring",
+            "Pour colder wax",
+            "Use less wax",
+            "Use a bigger wick"
+          ],
+          "answer": 0,
+          "explain": "Fix wet spots (patches where wax pulls from the jar) by warming the jar first."
+        },
+        {
+          "q": "How do you fix a sinkhole?",
+          "options": [
+            "Poke it and top it up with wax",
+            "Throw the candle away",
+            "Add more scent",
+            "Use a bigger jar"
+          ],
+          "answer": 0,
+          "explain": "Fix sinkholes by poking and topping up with wax."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Why Your Soy Candle Is Not Perfect",
+      "goal": "Understand the flaws that show up in soy candles and how to fix them.",
+      "video": {
+        "youtube_id": "Bv2WRAkOGp4",
+        "title": "Why Your Soy Candle Isn't Perfect",
+        "channel": "Candle Business Boss"
+      },
+      "steps": [
+        "Learn that soy wax can frost (white marks) and that is normal.",
+        "Learn that sinkholes come from pouring too hot.",
+        "Learn that weak scent often means too little oil or wrong temperature.",
+        "Test one fix at a time and record the result."
+      ],
+      "task": "Fix one flaw in your candles and prove it worked.",
+      "challenge": "Explain soy frosting to a customer in plain words.",
+      "quiz": [
+        {
+          "q": "What is frosting on soy wax?",
+          "options": [
+            "White marks that are normal in soy wax",
+            "Ice",
+            "A flaw to throw away",
+            "Mould"
+          ],
+          "answer": 0,
+          "explain": "Soy wax can frost (white marks) and that is normal."
+        },
+        {
+          "q": "What causes sinkholes in candles?",
+          "options": [
+            "Pouring too hot",
+            "Pouring too cold",
+            "Too much scent",
+            "A small wick"
+          ],
+          "answer": 0,
+          "explain": "Sinkholes come from pouring too hot."
+        },
+        {
+          "q": "What often causes a weak scent?",
+          "options": [
+            "Too little oil or the wrong temperature",
+            "Too much oil",
+            "A jar that is too big",
+            "A wick that is too long"
+          ],
+          "answer": 0,
+          "explain": "Weak scent often means too little oil or wrong temperature. Test one fix at a time and record the result."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Project: Fix and Remake a Flawed Batch",
+      "goal": "Take a flawed batch, find the cause and remake it right.",
+      "video": {
+        "youtube_id": "Bv2WRAkOGp4",
+        "title": "Why Your Soy Candle Isn't Perfect",
+        "channel": "Candle Business Boss"
+      },
+      "steps": [
+        "Look at the flawed candles and name each flaw.",
+        "Work out the cause: temperature, wick or scent amount.",
+        "Remake the batch with the fix applied.",
+        "Test burn the new batch and compare."
+      ],
+      "task": "Remake a flawed batch so the new candles burn well.",
+      "challenge": "Find the cause of a flaw from the candle alone.",
+      "quiz": [
+        {
+          "q": "What should you do first with a flawed batch?",
+          "options": [
+            "Look at the candles and name each flaw",
+            "Throw them all away",
+            "Sell them quickly",
+            "Melt them all down at once"
+          ],
+          "answer": 0,
+          "explain": "Look at the flawed candles and name each flaw."
+        },
+        {
+          "q": "What are the likely causes of the flaws?",
+          "options": [
+            "Temperature, wick or scent amount",
+            "The jar colour",
+            "The label",
+            "The room"
+          ],
+          "answer": 0,
+          "explain": "Work out the cause: temperature, wick or scent amount."
+        },
+        {
+          "q": "What should you do after remaking the batch?",
+          "options": [
+            "Test burn the new batch and compare",
+            "Sell it straight away",
+            "Throw the old batch away",
+            "Change the scent completely"
+          ],
+          "answer": 0,
+          "explain": "Remake the batch with the fix applied. Test burn the new batch and compare."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Adhesion Problems",
+      "goal": "Fix wax that pulls away from the jar (adhesion problems).",
+      "video": {
+        "youtube_id": "Bv2WRAkOGp4",
+        "title": "Why Your Soy Candle Isn't Perfect",
+        "channel": "Candle Business Boss"
+      },
+      "steps": [
+        "Adhesion means the wax sticks to the jar.",
+        "Warm the jars before you pour so wax sticks better.",
+        "Pour at the right temperature, not too cool.",
+        "Check the sides after cooling: no gaps or wet spots."
+      ],
+      "task": "Pour candles with no wet spots on the sides.",
+      "challenge": "Fix a candle with wet spots by warming the jar.",
+      "quiz": [
+        {
+          "q": "What are wet spots on a candle?",
+          "options": [
+            "Water drops",
+            "Patches where wax pulls away from the jar",
+            "Mould",
+            "Dye marks"
+          ],
+          "answer": 1,
+          "explain": "Wet spots are places where the wax shrinks away from the glass."
+        },
+        {
+          "q": "How do you stop wet spots?",
+          "options": [
+            "Pour colder",
+            "Warm the jars before pouring",
+            "Use less wax",
+            "Use a bigger wick"
+          ],
+          "answer": 1,
+          "explain": "Warm jars help the wax stick to the glass as it cools."
+        },
+        {
+          "q": "What is adhesion in candle making?",
+          "options": [
+            "The scent sticking",
+            "Wax sticking to the jar",
+            "The label sticking",
+            "The wick sticking"
+          ],
+          "answer": 1,
+          "explain": "Adhesion is how well the wax bonds to the container."
+        }
+      ],
+      "project": {
+        "title": "Fix and Remake a Flawed Batch",
+        "brief": "Find the flaws in a batch, fix the cause and remake it.",
+        "checks": [
+          "Flaws named correctly",
+          "Cause found for each flaw",
+          "Batch remade with the fix",
+          "New batch burns well",
+          "Old and new compared",
+          "Fix written down for next time"
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Dye and Colour",
+      "goal": "Colour candles safely with candle dye.",
+      "video": {
+        "youtube_id": "hwcrDSD_Az4",
+        "title": "Candle Adhesion Problems and How to Fix Them",
+        "channel": "Suffolk Candles"
+      },
+      "steps": [
+        "Use dye made for candles, not food colouring.",
+        "Add a tiny amount and stir well.",
+        "Test the colour in a small pour first.",
+        "Learn that too much dye can clog the wick."
+      ],
+      "task": "Colour a candle evenly with no streaks.",
+      "challenge": "Colour three candles in three shades.",
+      "quiz": [
+        {
+          "q": "What kind of dye should you use for candles?",
+          "options": [
+            "Dye made for candles",
+            "Food colouring",
+            "Paint",
+            "Ink"
+          ],
+          "answer": 0,
+          "explain": "Use dye made for candles, not food colouring."
+        },
+        {
+          "q": "How much dye should you add?",
+          "options": [
+            "A tiny amount, stirred well",
+            "A whole bottle",
+            "Half the jar",
+            "As much as you like"
+          ],
+          "answer": 0,
+          "explain": "Add a tiny amount and stir well."
+        },
+        {
+          "q": "What can too much dye do?",
+          "options": [
+            "Clog the wick",
+            "Make the scent stronger",
+            "Make the wax melt faster",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Too much dye can clog the wick. Test the colour in a small pour first."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Labels and Packaging",
+      "goal": "Label candles legally and package them nicely.",
+      "video": {
+        "youtube_id": "hwcrDSD_Az4",
+        "title": "Candle Adhesion Problems and How to Fix Them",
+        "channel": "Suffolk Candles"
+      },
+      "steps": [
+        "A label needs the scent name, weight and safety warnings.",
+        "Add a warning: never leave a burning candle alone.",
+        "Wrap candles in tissue and a box for selling.",
+        "Keep a record of every batch you make."
+      ],
+      "task": "Label and box three candles ready to sell.",
+      "challenge": "Write a full safety label for one candle.",
+      "quiz": [
+        {
+          "q": "What must a candle label include?",
+          "options": [
+            "Scent name, weight and safety warnings",
+            "Only the scent name",
+            "Your name only",
+            "The price only"
+          ],
+          "answer": 0,
+          "explain": "A label needs the scent name, weight and safety warnings."
+        },
+        {
+          "q": "What warning should be on the label?",
+          "options": [
+            "Never leave a burning candle alone",
+            "Keep it in the sun",
+            "Burn it all day",
+            "Leave it near curtains"
+          ],
+          "answer": 0,
+          "explain": "Add a warning: never leave a burning candle alone."
+        },
+        {
+          "q": "How should you package candles for selling?",
+          "options": [
+            "Wrap in tissue and a box",
+            "Loose in a bag",
+            "Without any wrapping",
+            "In a wet cloth"
+          ],
+          "answer": 0,
+          "explain": "Wrap candles in tissue and a box for selling. Keep a record of every batch you make."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Candle Business Basics",
+      "goal": "Learn how a small candle business works.",
+      "video": {
+        "youtube_id": "hwcrDSD_Az4",
+        "title": "Candle Adhesion Problems and How to Fix Them",
+        "channel": "Suffolk Candles"
+      },
+      "steps": [
+        "Work out the cost of one candle: wax, wick, scent, jar and label.",
+        "Add your time and a fair profit.",
+        "Learn where to sell: markets, online and gift shops.",
+        "Keep a simple sales record."
+      ],
+      "task": "Work out the cost and price of one candle.",
+      "challenge": "List three places you could sell candles.",
+      "quiz": [
+        {
+          "q": "What goes into the cost of one candle?",
+          "options": [
+            "Wax, wick, scent, jar and label",
+            "Only the wax",
+            "Only the jar",
+            "Only your time"
+          ],
+          "answer": 0,
+          "explain": "Work out the cost of one candle: wax, wick, scent, jar and label."
+        },
+        {
+          "q": "What should you add after the costs?",
+          "options": [
+            "Your time and a fair profit",
+            "Nothing",
+            "A free candle",
+            "A discount always"
+          ],
+          "answer": 0,
+          "explain": "Add your time and a fair profit."
+        },
+        {
+          "q": "Where can you sell candles?",
+          "options": [
+            "Markets, online and gift shops",
+            "Only at home",
+            "Only to friends",
+            "Only at school"
+          ],
+          "answer": 0,
+          "explain": "Learn where to sell: markets, online and gift shops. Keep a simple sales record."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Price Your Candles",
+      "goal": "Price candles so the business pays.",
+      "video": {
+        "youtube_id": "XeCNURX11fk",
+        "title": "How to Make Soy Candles \u2014 Candle Making Business",
+        "channel": "Candle Making Business"
+      },
+      "steps": [
+        "Add up all costs for one candle.",
+        "Add your time at a fair hourly rate.",
+        "Add profit and round to a clean price.",
+        "Compare your price with candles in shops."
+      ],
+      "task": "Price three candle types with costs shown.",
+      "challenge": "Price a gift set of three candles.",
+      "quiz": [
+        {
+          "q": "What should you add to the costs when pricing a candle?",
+          "options": [
+            "Your time at a fair hourly rate",
+            "Only the wax",
+            "Nothing else",
+            "Only the label"
+          ],
+          "answer": 0,
+          "explain": "Add your time at a fair hourly rate."
+        },
+        {
+          "q": "What should you do after adding profit?",
+          "options": [
+            "Round to a clean price",
+            "Keep the odd number",
+            "Double it again",
+            "Hide the price"
+          ],
+          "answer": 0,
+          "explain": "Add profit and round to a clean price."
+        },
+        {
+          "q": "Why compare your price with candles in shops?",
+          "options": [
+            "To check your price is fair",
+            "To copy their scents",
+            "To sell cheaper always",
+            "To avoid selling at markets"
+          ],
+          "answer": 0,
+          "explain": "Compare your price with candles in shops."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Raw Materials and Suppliers",
+      "goal": "Know where to buy wax, wicks and scents, and what to check.",
+      "video": {
+        "youtube_id": "XeCNURX11fk",
+        "title": "How to Make Soy Candles \u2014 Candle Making Business",
+        "channel": "Candle Making Business"
+      },
+      "steps": [
+        "Buy wax in bulk to cut the cost per candle.",
+        "Check wick sizes match your jars before you buy.",
+        "Test a small amount of a new scent before a big order.",
+        "Keep a list of trusted suppliers."
+      ],
+      "task": "List your suppliers and what you buy from each.",
+      "challenge": "Work out how much you save buying wax in bulk.",
+      "quiz": [
+        {
+          "q": "Why buy wax in bulk?",
+          "options": [
+            "To cut the cost per candle",
+            "To make candles faster",
+            "To make them smell stronger",
+            "To use less scent"
+          ],
+          "answer": 0,
+          "explain": "Buy wax in bulk to cut the cost per candle."
+        },
+        {
+          "q": "What should you check before buying wicks?",
+          "options": [
+            "That the wick sizes match your jars",
+            "Only the colour",
+            "Only the price",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Check wick sizes match your jars before you buy."
+        },
+        {
+          "q": "What should you do before a big order of a new scent?",
+          "options": [
+            "Test a small amount first",
+            "Order as much as you can",
+            "Skip testing",
+            "Mix it with an old scent"
+          ],
+          "answer": 0,
+          "explain": "Test a small amount of a new scent before a big order. Keep a list of trusted suppliers."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Sell Candles at a Market",
+      "goal": "Set up a market stall and sell your candles.",
+      "video": {
+        "youtube_id": "XeCNURX11fk",
+        "title": "How to Make Soy Candles \u2014 Candle Making Business",
+        "channel": "Candle Making Business"
+      },
+      "steps": [
+        "Pick your best candles and price them clearly.",
+        "Set up a clean table with your candles on display.",
+        "Let customers smell the candles.",
+        "Keep a record of every sale."
+      ],
+      "task": "Set up a market stall display for your candles.",
+      "challenge": "Sell your first candle at a market.",
+      "quiz": [
+        {
+          "q": "What should you let customers do at your stall?",
+          "options": [
+            "Smell the candles",
+            "Take candles for free",
+            "Light every candle",
+            "Set their own price"
+          ],
+          "answer": 0,
+          "explain": "Let customers smell the candles."
+        },
+        {
+          "q": "How should your market table look?",
+          "options": [
+            "Clean, with your candles on display",
+            "Messy and full",
+            "Empty",
+            "Covered with a cloth only"
+          ],
+          "answer": 0,
+          "explain": "Set up a clean table with your candles on display."
+        },
+        {
+          "q": "What should you keep a record of?",
+          "options": [
+            "Every sale",
+            "Only the big sales",
+            "Only the customers' names",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explain": "Keep a record of every sale."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Buy Wax in Bulk",
+      "goal": "Buy candle wax in bulk to cut your costs.",
+      "video": {
+        "youtube_id": "STRbzKUZTpA",
+        "title": "Candle Raw Material Wholesale | Best Candle Wax For Beginners",
+        "channel": "Creative Glut"
+      },
+      "steps": [
+        "Work out how much wax you use in a month.",
+        "Compare prices from two or three suppliers.",
+        "Buy in bulk and store the wax in a dry place.",
+        "Work out your new cost per candle."
+      ],
+      "task": "Compare bulk wax prices from two suppliers.",
+      "challenge": "Work out how much you save buying wax in bulk.",
+      "quiz": [
+        {
+          "q": "What should you work out before buying wax in bulk?",
+          "options": [
+            "How much wax you use in a month",
+            "How many candles you own",
+            "The colour of the wax",
+            "The size of your shop"
+          ],
+          "answer": 0,
+          "explain": "Work out how much wax you use in a month."
+        },
+        {
+          "q": "How many suppliers should you compare?",
+          "options": [
+            "Two or three",
+            "Only one",
+            "Ten",
+            "None"
+          ],
+          "answer": 0,
+          "explain": "Compare prices from two or three suppliers."
+        },
+        {
+          "q": "Where should you store bulk wax?",
+          "options": [
+            "In a dry place",
+            "In a wet place",
+            "Outside in the rain",
+            "Near the heat"
+          ],
+          "answer": 0,
+          "explain": "Buy in bulk and store the wax in a dry place. Work out your new cost per candle."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Capstone Planning",
+      "goal": "Choose your capstone candle range, buy supplies and plan the days.",
+      "video": {
+        "youtube_id": "STRbzKUZTpA",
+        "title": "Candle Raw Material Wholesale | Best Candle Wax For Beginners",
+        "channel": "Creative Glut"
+      },
+      "steps": [
+        "Pick three candles that show your best skills.",
+        "Buy all wax, wicks, scents and jars.",
+        "Plan the making days and the test burn day.",
+        "Design labels for the range."
+      ],
+      "task": "Have all capstone supplies bought and labels designed.",
+      "challenge": "Plan a capstone range of three candles.",
+      "quiz": [
+        {
+          "q": "How many candles should your capstone range have?",
+          "options": [
+            "Three",
+            "One",
+            "Five",
+            "Ten"
+          ],
+          "answer": 0,
+          "explain": "Pick three candles that show your best skills."
+        },
+        {
+          "q": "What should you buy before you start?",
+          "options": [
+            "All wax, wicks, scents and jars",
+            "Only the wax",
+            "Only the jars",
+            "Nothing yet"
+          ],
+          "answer": 0,
+          "explain": "Buy all wax, wicks, scents and jars."
+        },
+        {
+          "q": "What should you plan besides the making days?",
+          "options": [
+            "A test burn day and labels for the range",
+            "A party",
+            "A holiday",
+            "A new shop"
+          ],
+          "answer": 0,
+          "explain": "Plan the making days and the test burn day. Design labels for the range."
+        }
+      ],
+      "project": null
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Capstone: Make and Present a Candle Range",
+      "goal": "Make a range of three candles, test them and present them.",
+      "video": {
+        "youtube_id": "STRbzKUZTpA",
+        "title": "Candle Raw Material Wholesale | Best Candle Wax For Beginners",
+        "channel": "Creative Glut"
+      },
+      "steps": [
+        "Make the three candles following your plan.",
+        "Test burn one of each and record the results.",
+        "Label and box the range neatly.",
+        "Present the range with costing and safety labels."
+      ],
+      "task": "Present a finished candle range, tested and boxed.",
+      "challenge": "Finish the range with time left for test burns.",
+      "quiz": [
+        {
+          "q": "What should you do with each candle in the range?",
+          "options": [
+            "Test burn one of each and record the results",
+            "Sell them without testing",
+            "Burn them all at once",
+            "Skip the test burn"
+          ],
+          "answer": 0,
+          "explain": "Test burn one of each and record the results."
+        },
+        {
+          "q": "How should you present the range?",
+          "options": [
+            "Label and box it neatly",
+            "Loose in a bag",
+            "Without labels",
+            "On the floor"
+          ],
+          "answer": 0,
+          "explain": "Label and box the range neatly."
+        },
+        {
+          "q": "What should you present with the range?",
+          "options": [
+            "Costing and safety labels",
+            "Only the price",
+            "Only a photo",
+            "Nothing else"
+          ],
+          "answer": 0,
+          "explain": "Present the range with costing and safety labels."
+        }
+      ],
+      "project": null
     }
-   ],
-   "project": null
-  },
-  {
-   "day": 3,
-   "week": 1,
-   "title": "Safety: Hot Wax Rules",
-   "goal": "Work safely with hot wax and never leave it alone.",
-   "video": {
-    "youtube_id": "Hir66vEC2MI",
-    "title": "Learn How to Make Scented Soy Wax Candles for Beginners",
-    "channel": "CandleScience"
-   },
-   "steps": [
-    "Never leave melting wax alone on the heat.",
-    "Use a thermometer: wax can catch fire if it gets too hot.",
-    "Keep water away from hot wax.",
-    "Wear gloves and old clothes."
-   ],
-   "task": "Write your own five hot-wax safety rules.",
-   "challenge": "Melt wax safely with a thermometer in view.",
-   "quiz": [
-    {
-     "q": "What are the four parts of a candle?",
-     "options": [
-      "Wax, wick, scent and container",
-      "Wax, water, wick and glass",
-      "Oil, wick, jar and lid",
-      "Wax, dye, wick and box"
-     ],
-     "answer": 0,
-     "explain": "A candle needs wax to burn, a wick to light, scent to smell and a container to hold it."
-    },
-    {
-     "q": "What does the wick do?",
-     "options": [
-      "Holds the wax",
-      "Burns and melts the wax so the candle gives light and scent",
-      "Adds colour",
-      "Keeps it cool"
-     ],
-     "answer": 1,
-     "explain": "The wick is the string that burns and melts wax around it."
-    },
-    {
-     "q": "Why use a thermometer when melting wax?",
-     "options": [
-      "For fun",
-      "So the wax never gets hot enough to catch fire",
-      "To save time",
-      "To mix the scent"
-     ],
-     "answer": 1,
-     "explain": "Wax can catch fire if it overheats, so you must watch the temperature."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 4,
-   "week": 1,
-   "title": "Melt Wax the Right Way",
-   "goal": "Melt wax slowly in a double boiler (a pot inside a pot of water).",
-   "video": {
-    "youtube_id": "LiLrIjz_2ac",
-    "title": "How to Make Your First Scented Candle",
-    "channel": "Craftovator"
-   },
-   "steps": [
-    "Fill a large pot with a little water.",
-    "Put the wax in a pouring jug inside the pot.",
-    "Heat gently and stir until the wax is fully liquid.",
-    "Check the temperature with a thermometer."
-   ],
-   "task": "Melt wax fully with no lumps and no overheating.",
-   "challenge": "Melt wax to the right temperature first try.",
-   "quiz": [
-    {
-     "q": "Which wax is easiest for a beginner?",
-     "options": [
-      "Beeswax",
-      "Soy wax",
-      "Paraffin",
-      "Gel wax"
-     ],
-     "answer": 1,
-     "explain": "Soy wax is easy to melt, pour and clean, and burns cleanly."
-    },
-    {
-     "q": "What is paraffin wax good for?",
-     "options": [
-      "Burning clean",
-      "Holding scent strongly",
-      "Smelling of honey",
-      "Melting fast"
-     ],
-     "answer": 1,
-     "explain": "Paraffin holds fragrance strongly, so candles smell powerful."
-    },
-    {
-     "q": "What does beeswax smell of?",
-     "options": [
-      "Nothing",
-      "Honey",
-      "Flowers",
-      "Smoke"
-     ],
-     "answer": 1,
-     "explain": "Beeswax has a natural sweet honey smell."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 5,
-   "week": 1,
-   "title": "Wicks: Size and Type",
-   "goal": "Pick the right wick size for your jar.",
-   "video": {
-    "youtube_id": "LiLrIjz_2ac",
-    "title": "How to Make Your First Scented Candle",
-    "channel": "Craftovator"
-   },
-   "steps": [
-    "Learn that a wick too small makes a small melt pool and tunnels.",
-    "Learn that a wick too big makes a big flame and smoke.",
-    "Use a wick guide from a candle shop to match wick to jar size.",
-    "Test one wick size in your jar."
-   ],
-   "task": "Pick the right wick for three jar sizes.",
-   "challenge": "Explain what tunnelling means in plain words.",
-   "quiz": [
-    {
-     "q": "Which wax is easiest for a beginner?",
-     "options": [
-      "Beeswax",
-      "Soy wax",
-      "Paraffin",
-      "Gel wax"
-     ],
-     "answer": 1,
-     "explain": "Soy wax is easy to melt, pour and clean, and burns cleanly."
-    },
-    {
-     "q": "What is paraffin wax good for?",
-     "options": [
-      "Burning clean",
-      "Holding scent strongly",
-      "Smelling of honey",
-      "Melting fast"
-     ],
-     "answer": 1,
-     "explain": "Paraffin holds fragrance strongly, so candles smell powerful."
-    },
-    {
-     "q": "What does beeswax smell of?",
-     "options": [
-      "Nothing",
-      "Honey",
-      "Flowers",
-      "Smoke"
-     ],
-     "answer": 1,
-     "explain": "Beeswax has a natural sweet honey smell."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 6,
-   "week": 1,
-   "title": "Centre the Wick",
-   "goal": "Set a wick straight in the middle of a jar.",
-   "video": {
-    "youtube_id": "LiLrIjz_2ac",
-    "title": "How to Make Your First Scented Candle",
-    "channel": "Craftovator"
-   },
-   "steps": [
-    "Stick the wick to the bottom of the jar with a wick sticker.",
-    "Hold it straight with a wick bar (a stick across the jar top).",
-    "Check the wick is in the centre from above.",
-    "Keep it straight while you pour."
-   ],
-   "task": "Set three wicks dead centre in three jars.",
-   "challenge": "Set a wick straight without a wick bar.",
-   "quiz": [
-    {
-     "q": "Which wax is easiest for a beginner?",
-     "options": [
-      "Beeswax",
-      "Soy wax",
-      "Paraffin",
-      "Gel wax"
-     ],
-     "answer": 1,
-     "explain": "Soy wax is easy to melt, pour and clean, and burns cleanly."
-    },
-    {
-     "q": "What is paraffin wax good for?",
-     "options": [
-      "Burning clean",
-      "Holding scent strongly",
-      "Smelling of honey",
-      "Melting fast"
-     ],
-     "answer": 1,
-     "explain": "Paraffin holds fragrance strongly, so candles smell powerful."
-    },
-    {
-     "q": "What does beeswax smell of?",
-     "options": [
-      "Nothing",
-      "Honey",
-      "Flowers",
-      "Smoke"
-     ],
-     "answer": 1,
-     "explain": "Beeswax has a natural sweet honey smell."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 7,
-   "week": 1,
-   "title": "Project: Make Your First Mason Jar Candle",
-   "goal": "Make your first scented candle in a mason jar.",
-   "video": {
-    "youtube_id": "vVlmkfF_PRk",
-    "title": "How to Make Mason Jar Soy Candles",
-    "channel": "Artful Homemaking"
-   },
-   "steps": [
-    "Melt soy wax to 80 degrees.",
-    "Add fragrance oil and stir for two minutes.",
-    "Let the wax cool to 55 degrees, then pour into the jar.",
-    "Leave the candle to set overnight, then trim the wick."
-   ],
-   "task": "Finish a mason jar candle that burns evenly.",
-   "challenge": "Pour a candle with a smooth top and no holes.",
-   "quiz": [
-    {
-     "q": "What is a double boiler?",
-     "options": [
-      "Two pots",
-      "A pot inside a pot of water for gentle melting",
-      "A kettle",
-      "A microwave"
-     ],
-     "answer": 1,
-     "explain": "A double boiler melts wax gently in a jug sitting in hot water."
-    },
-    {
-     "q": "Why never leave melting wax alone?",
-     "options": [
-      "It cools down",
-      "It can overheat and catch fire",
-      "It smells bad",
-      "It wastes power"
-     ],
-     "answer": 1,
-     "explain": "Unattended wax can overheat fast and start a fire."
-    },
-    {
-     "q": "Why keep water away from hot wax?",
-     "options": [
-      "It cools the wax",
-      "Water in hot wax can splash and cause burns",
-      "It changes the colour",
-      "It wastes water"
-     ],
-     "answer": 1,
-     "explain": "Water in hot wax splashes violently and can burn you."
-    }
-   ],
-   "project": {
-    "title": "Make Your First Mason Jar Candle",
-    "brief": "Make a scented candle in a mason jar from melt to set.",
-    "checks": [
-     "Wax melted to the right temperature",
-     "Scent added and stirred well",
-     "Wick centred",
-     "Poured at the right temperature",
-     "Top smooth with no holes",
-     "Burns evenly on test"
-    ]
-   }
-  },
-  {
-   "day": 8,
-   "week": 2,
-   "title": "Fragrance Oils: How Much to Add",
-   "goal": "Add the right amount of scent so the candle smells strong.",
-   "video": {
-    "youtube_id": "vVlmkfF_PRk",
-    "title": "How to Make Mason Jar Soy Candles",
-    "channel": "Artful Homemaking"
-   },
-   "steps": [
-    "Learn that most candles use 6 to 10 percent fragrance oil by weight.",
-    "Weigh the wax, then weigh the fragrance oil.",
-    "Add the oil at the right temperature (about 70 degrees for soy).",
-    "Stir for two minutes so the scent mixes in fully."
-   ],
-   "task": "Make a candle with the right amount of scent.",
-   "challenge": "Work out the fragrance amount for 500g of wax.",
-   "quiz": [
-    {
-     "q": "What is a double boiler?",
-     "options": [
-      "Two pots",
-      "A pot inside a pot of water for gentle melting",
-      "A kettle",
-      "A microwave"
-     ],
-     "answer": 1,
-     "explain": "A double boiler melts wax gently in a jug sitting in hot water."
-    },
-    {
-     "q": "Why never leave melting wax alone?",
-     "options": [
-      "It cools down",
-      "It can overheat and catch fire",
-      "It smells bad",
-      "It wastes power"
-     ],
-     "answer": 1,
-     "explain": "Unattended wax can overheat fast and start a fire."
-    },
-    {
-     "q": "Why keep water away from hot wax?",
-     "options": [
-      "It cools the wax",
-      "Water in hot wax can splash and cause burns",
-      "It changes the colour",
-      "It wastes water"
-     ],
-     "answer": 1,
-     "explain": "Water in hot wax splashes violently and can burn you."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 9,
-   "week": 2,
-   "title": "Pouring Temperature",
-   "goal": "Pour wax at the right temperature for a smooth top.",
-   "video": {
-    "youtube_id": "vVlmkfF_PRk",
-    "title": "How to Make Mason Jar Soy Candles",
-    "channel": "Artful Homemaking"
-   },
-   "steps": [
-    "Learn that pouring too hot makes sinkholes and cracks.",
-    "Learn that pouring too cool makes a rough lumpy top.",
-    "Pour soy wax at about 55 degrees.",
-    "Check the temperature every time before you pour."
-   ],
-   "task": "Pour three candles with smooth tops.",
-   "challenge": "Pour a candle with no sinkholes.",
-   "quiz": [
-    {
-     "q": "What is a double boiler?",
-     "options": [
-      "Two pots",
-      "A pot inside a pot of water for gentle melting",
-      "A kettle",
-      "A microwave"
-     ],
-     "answer": 1,
-     "explain": "A double boiler melts wax gently in a jug sitting in hot water."
-    },
-    {
-     "q": "Why never leave melting wax alone?",
-     "options": [
-      "It cools down",
-      "It can overheat and catch fire",
-      "It smells bad",
-      "It wastes power"
-     ],
-     "answer": 1,
-     "explain": "Unattended wax can overheat fast and start a fire."
-    },
-    {
-     "q": "Why keep water away from hot wax?",
-     "options": [
-      "It cools the wax",
-      "Water in hot wax can splash and cause burns",
-      "It changes the colour",
-      "It wastes water"
-     ],
-     "answer": 1,
-     "explain": "Water in hot wax splashes violently and can burn you."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 10,
-   "week": 2,
-   "title": "Cooling and Setting",
-   "goal": "Let candles cool slowly so they set smooth and even.",
-   "video": {
-    "youtube_id": "nRmaBZe2eZc",
-    "title": "How to Make Soy Candles the Easy Way",
-    "channel": "Soy Candle Tutorials"
-   },
-   "steps": [
-    "Leave candles to cool at room temperature, not in a fridge.",
-    "Do not move them while they set.",
-    "Wait at least 24 hours before you burn a new candle.",
-    "Check the top: it should be smooth and flat."
-   ],
-   "task": "Cool three candles with smooth flat tops.",
-   "challenge": "Cool a candle with no wet spots on the sides.",
-   "quiz": [
-    {
-     "q": "What happens if the wick is too small?",
-     "options": [
-      "The candle burns too fast",
-      "The melt pool is small and the candle tunnels",
-      "The candle smokes",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "A small wick cannot melt the full surface, so the candle tunnels down the middle."
-    },
-    {
-     "q": "What happens if the wick is too big?",
-     "options": [
-      "The candle smells weak",
-      "The flame is big and the candle smokes",
-      "The candle tunnels",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "A big wick makes a tall smoky flame and burns the candle too fast."
-    },
-    {
-     "q": "How do you centre a wick?",
-     "options": [
-      "Guess",
-      "Stick it to the bottom and hold it straight with a wick bar",
-      "Pour fast",
-      "Use a bigger jar"
-     ],
-     "answer": 1,
-     "explain": "A wick sticker and a bar across the jar keep the wick centred."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 11,
-   "week": 2,
-   "title": "Soy Candles the Easy Way",
-   "goal": "Make a simple soy candle with a clean method.",
-   "video": {
-    "youtube_id": "nRmaBZe2eZc",
-    "title": "How to Make Soy Candles the Easy Way",
-    "channel": "Soy Candle Tutorials"
-   },
-   "steps": [
-    "Melt soy wax and add scent at 70 degrees.",
-    "Pour at 55 degrees into a warm jar.",
-    "Centre the wick and leave to set.",
-    "Trim the wick to 5mm before lighting."
-   ],
-   "task": "Make a soy candle with a smooth top and even burn.",
-   "challenge": "Make a soy candle that smells strong when lit.",
-   "quiz": [
-    {
-     "q": "What happens if the wick is too small?",
-     "options": [
-      "The candle burns too fast",
-      "The melt pool is small and the candle tunnels",
-      "The candle smokes",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "A small wick cannot melt the full surface, so the candle tunnels down the middle."
-    },
-    {
-     "q": "What happens if the wick is too big?",
-     "options": [
-      "The candle smells weak",
-      "The flame is big and the candle smokes",
-      "The candle tunnels",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "A big wick makes a tall smoky flame and burns the candle too fast."
-    },
-    {
-     "q": "How do you centre a wick?",
-     "options": [
-      "Guess",
-      "Stick it to the bottom and hold it straight with a wick bar",
-      "Pour fast",
-      "Use a bigger jar"
-     ],
-     "answer": 1,
-     "explain": "A wick sticker and a bar across the jar keep the wick centred."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 12,
-   "week": 2,
-   "title": "Test Burn Your Candle",
-   "goal": "Burn a candle properly to test it before you sell it.",
-   "video": {
-    "youtube_id": "nRmaBZe2eZc",
-    "title": "How to Make Soy Candles the Easy Way",
-    "channel": "Soy Candle Tutorials"
-   },
-   "steps": [
-    "Light the candle and let it burn until the top melts fully across.",
-    "Check the flame is steady and not too tall.",
-    "Burn for 2 to 3 hours, then blow it out.",
-    "Write down what you saw: melt pool, scent and smoke."
-   ],
-   "task": "Test burn a candle and record the results.",
-   "challenge": "Test a candle and fix a tunnelling problem.",
-   "quiz": [
-    {
-     "q": "What happens if the wick is too small?",
-     "options": [
-      "The candle burns too fast",
-      "The melt pool is small and the candle tunnels",
-      "The candle smokes",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "A small wick cannot melt the full surface, so the candle tunnels down the middle."
-    },
-    {
-     "q": "What happens if the wick is too big?",
-     "options": [
-      "The candle smells weak",
-      "The flame is big and the candle smokes",
-      "The candle tunnels",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "A big wick makes a tall smoky flame and burns the candle too fast."
-    },
-    {
-     "q": "How do you centre a wick?",
-     "options": [
-      "Guess",
-      "Stick it to the bottom and hold it straight with a wick bar",
-      "Pour fast",
-      "Use a bigger jar"
-     ],
-     "answer": 1,
-     "explain": "A wick sticker and a bar across the jar keep the wick centred."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 13,
-   "week": 2,
-   "title": "Fix a Tunnelling Candle",
-   "goal": "Fix a candle that burns down the middle only.",
-   "video": {
-    "youtube_id": "EpTyHwWDowY",
-    "title": "How to Make Citronella Candles",
-    "channel": "Craftovator"
-   },
-   "steps": [
-    "Tunnelling means the wax melts only in the middle, leaving a ring.",
-    "Fix it by burning longer so the top melts fully across.",
-    "Or use a bigger wick next time.",
-    "Trim the wick before every burn."
-   ],
-   "task": "Fix a tunnelling candle so it melts fully across.",
-   "challenge": "Explain tunnelling to a customer in plain words.",
-   "quiz": [
-    {
-     "q": "How much fragrance oil do most candles use?",
-     "options": [
-      "1 percent",
-      "6 to 10 percent of the wax weight",
-      "50 percent",
-      "A few drops"
-     ],
-     "answer": 1,
-     "explain": "Most candles use 6 to 10 percent fragrance oil by weight for a good scent."
-    },
-    {
-     "q": "When do you add fragrance oil to soy wax?",
-     "options": [
-      "At the start",
-      "At about 70 degrees, then stir for two minutes",
-      "After pouring",
-      "When it is cold"
-     ],
-     "answer": 1,
-     "explain": "Adding oil at the right temperature and stirring mixes the scent in fully."
-    },
-    {
-     "q": "Why weigh fragrance oil instead of guessing?",
-     "options": [
-      "It is faster",
-      "So every candle smells the same strength",
-      "It saves money",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Weighing keeps the scent strength the same in every batch."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 14,
-   "week": 2,
-   "title": "Citronella Candles",
-   "goal": "Make a citronella candle that keeps insects away.",
-   "video": {
-    "youtube_id": "EpTyHwWDowY",
-    "title": "How to Make Citronella Candles",
-    "channel": "Craftovator"
-   },
-   "steps": [
-    "Use citronella fragrance oil made for candles.",
-    "Melt wax and add the oil at the right temperature.",
-    "Pour into a jar or tin.",
-    "Label it clearly: citronella candles are for outdoors."
-   ],
-   "task": "Make a citronella candle for outdoor use.",
-   "challenge": "Make a citronella candle that smells strong outdoors.",
-   "quiz": [
-    {
-     "q": "How much fragrance oil do most candles use?",
-     "options": [
-      "1 percent",
-      "6 to 10 percent of the wax weight",
-      "50 percent",
-      "A few drops"
-     ],
-     "answer": 1,
-     "explain": "Most candles use 6 to 10 percent fragrance oil by weight for a good scent."
-    },
-    {
-     "q": "When do you add fragrance oil to soy wax?",
-     "options": [
-      "At the start",
-      "At about 70 degrees, then stir for two minutes",
-      "After pouring",
-      "When it is cold"
-     ],
-     "answer": 1,
-     "explain": "Adding oil at the right temperature and stirring mixes the scent in fully."
-    },
-    {
-     "q": "Why weigh fragrance oil instead of guessing?",
-     "options": [
-      "It is faster",
-      "So every candle smells the same strength",
-      "It saves money",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Weighing keeps the scent strength the same in every batch."
-    }
-   ],
-   "project": {
-    "title": "Make a Set of Three Scented Candles",
-    "brief": "Make three scented candles in different scents, labelled and tested.",
-    "checks": [
-     "Three different scents",
-     "Wax, scent and wick correct in each",
-     "Jars labelled with scent and date",
-     "Tops smooth",
-     "One test burned and recorded",
-     "Set looks like a range"
-    ]
-   }
-  },
-  {
-   "day": 15,
-   "week": 3,
-   "title": "Project: Make a Set of Three Scented Candles",
-   "goal": "Make three scented candles in different scents.",
-   "video": {
-    "youtube_id": "EpTyHwWDowY",
-    "title": "How to Make Citronella Candles",
-    "channel": "Craftovator"
-   },
-   "steps": [
-    "Pick three scents that go well together.",
-    "Make each candle with the right wax, scent and wick.",
-    "Label each jar with its scent and the date made.",
-    "Test burn one and record the results."
-   ],
-   "task": "Finish three scented candles, labelled and tested.",
-   "challenge": "Make three candles with three different scents, all burning well.",
-   "quiz": [
-    {
-     "q": "How much fragrance oil do most candles use?",
-     "options": [
-      "1 percent",
-      "6 to 10 percent of the wax weight",
-      "50 percent",
-      "A few drops"
-     ],
-     "answer": 1,
-     "explain": "Most candles use 6 to 10 percent fragrance oil by weight for a good scent."
-    },
-    {
-     "q": "When do you add fragrance oil to soy wax?",
-     "options": [
-      "At the start",
-      "At about 70 degrees, then stir for two minutes",
-      "After pouring",
-      "When it is cold"
-     ],
-     "answer": 1,
-     "explain": "Adding oil at the right temperature and stirring mixes the scent in fully."
-    },
-    {
-     "q": "Why weigh fragrance oil instead of guessing?",
-     "options": [
-      "It is faster",
-      "So every candle smells the same strength",
-      "It saves money",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Weighing keeps the scent strength the same in every batch."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 16,
-   "week": 3,
-   "title": "Coffee and Clove Candle",
-   "goal": "Make a warm coffee and clove scented candle.",
-   "video": {
-    "youtube_id": "MJWzZpHN9xk",
-    "title": "How to Make a Coffee and Clove Candle",
-    "channel": "Candle Making Tutorials"
-   },
-   "steps": [
-    "Pick coffee and clove fragrance oils.",
-    "Melt wax and blend the two scents.",
-    "Pour into a jar and set the wick straight.",
-    "Test burn and adjust the scent next time if needed."
-   ],
-   "task": "Make a coffee and clove candle that smells warm and rich.",
-   "challenge": "Blend two scents that work well together.",
-   "quiz": [
-    {
-     "q": "What temperature do you pour soy wax at?",
-     "options": [
-      "80 degrees",
-      "About 55 degrees",
-      "100 degrees",
-      "30 degrees"
-     ],
-     "answer": 1,
-     "explain": "Pouring soy at about 55 degrees gives a smooth top."
-    },
-    {
-     "q": "What happens if you pour wax too hot?",
-     "options": [
-      "It sets faster",
-      "Sinkholes and cracks form as it cools",
-      "It smells stronger",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Very hot wax shrinks as it cools and leaves sinkholes."
-    },
-    {
-     "q": "Why let candles cool at room temperature?",
-     "options": [
-      "It is faster",
-      "Slow cooling gives a smooth even top",
-      "It saves power",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Cooling too fast, like in a fridge, causes cracks and wet spots."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 17,
-   "week": 3,
-   "title": "Layered and Two-Tone Candles",
-   "goal": "Make a candle with two layers of colour.",
-   "video": {
-    "youtube_id": "MJWzZpHN9xk",
-    "title": "How to Make a Coffee and Clove Candle",
-    "channel": "Candle Making Tutorials"
-   },
-   "steps": [
-    "Pour the first colour and let it set fully.",
-    "Pour the second colour on top.",
-    "Keep the wick straight through both layers.",
-    "Check the layers are even and clean."
-   ],
-   "task": "Make a two-tone candle with clean layers.",
-   "challenge": "Make a layered candle with no mixing between layers.",
-   "quiz": [
-    {
-     "q": "What temperature do you pour soy wax at?",
-     "options": [
-      "80 degrees",
-      "About 55 degrees",
-      "100 degrees",
-      "30 degrees"
-     ],
-     "answer": 1,
-     "explain": "Pouring soy at about 55 degrees gives a smooth top."
-    },
-    {
-     "q": "What happens if you pour wax too hot?",
-     "options": [
-      "It sets faster",
-      "Sinkholes and cracks form as it cools",
-      "It smells stronger",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Very hot wax shrinks as it cools and leaves sinkholes."
-    },
-    {
-     "q": "Why let candles cool at room temperature?",
-     "options": [
-      "It is faster",
-      "Slow cooling gives a smooth even top",
-      "It saves power",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Cooling too fast, like in a fridge, causes cracks and wet spots."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 18,
-   "week": 3,
-   "title": "Fix Candle Mistakes",
-   "goal": "Fix the common mistakes that spoil soy candles.",
-   "video": {
-    "youtube_id": "MJWzZpHN9xk",
-    "title": "How to Make a Coffee and Clove Candle",
-    "channel": "Candle Making Tutorials"
-   },
-   "steps": [
-    "Learn the big mistakes: wrong temperature, wrong wick, too much scent.",
-    "Fix wet spots (patches where wax pulls from the jar) by warming the jar first.",
-    "Fix sinkholes by poking and topping up with wax.",
-    "Write a fix list for five mistakes."
-   ],
-   "task": "List five candle mistakes and how to fix each.",
-   "challenge": "Fix a candle with sinkholes so the top is smooth.",
-   "quiz": [
-    {
-     "q": "What temperature do you pour soy wax at?",
-     "options": [
-      "80 degrees",
-      "About 55 degrees",
-      "100 degrees",
-      "30 degrees"
-     ],
-     "answer": 1,
-     "explain": "Pouring soy at about 55 degrees gives a smooth top."
-    },
-    {
-     "q": "What happens if you pour wax too hot?",
-     "options": [
-      "It sets faster",
-      "Sinkholes and cracks form as it cools",
-      "It smells stronger",
-      "Nothing"
-     ],
-     "answer": 1,
-     "explain": "Very hot wax shrinks as it cools and leaves sinkholes."
-    },
-    {
-     "q": "Why let candles cool at room temperature?",
-     "options": [
-      "It is faster",
-      "Slow cooling gives a smooth even top",
-      "It saves power",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "Cooling too fast, like in a fridge, causes cracks and wet spots."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 19,
-   "week": 3,
-   "title": "Why Your Soy Candle Is Not Perfect",
-   "goal": "Understand the flaws that show up in soy candles and how to fix them.",
-   "video": {
-    "youtube_id": "Bv2WRAkOGp4",
-    "title": "Why Your Soy Candle Isn't Perfect",
-    "channel": "Candle Business Boss"
-   },
-   "steps": [
-    "Learn that soy wax can frost (white marks) and that is normal.",
-    "Learn that sinkholes come from pouring too hot.",
-    "Learn that weak scent often means too little oil or wrong temperature.",
-    "Test one fix at a time and record the result."
-   ],
-   "task": "Fix one flaw in your candles and prove it worked.",
-   "challenge": "Explain soy frosting to a customer in plain words.",
-   "quiz": [
-    {
-     "q": "What is tunnelling in a candle?",
-     "options": [
-      "A hole in the jar",
-      "The wax melting only in the middle, leaving a ring",
-      "A broken wick",
-      "A crack"
-     ],
-     "answer": 1,
-     "explain": "Tunnelling happens when the melt pool never reaches the jar edges."
-    },
-    {
-     "q": "How do you fix a tunnelling candle?",
-     "options": [
-      "Throw it away",
-      "Burn it longer so the top melts fully across",
-      "Add more wax",
-      "Use a smaller wick"
-     ],
-     "answer": 1,
-     "explain": "A longer burn melts the full top and fixes the tunnel."
-    },
-    {
-     "q": "Why trim the wick before every burn?",
-     "options": [
-      "For looks",
-      "A long wick makes a big smoky flame",
-      "It saves wax",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "A trimmed wick burns cleanly with a steady flame."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 20,
-   "week": 3,
-   "title": "Project: Fix and Remake a Flawed Batch",
-   "goal": "Take a flawed batch, find the cause and remake it right.",
-   "video": {
-    "youtube_id": "Bv2WRAkOGp4",
-    "title": "Why Your Soy Candle Isn't Perfect",
-    "channel": "Candle Business Boss"
-   },
-   "steps": [
-    "Look at the flawed candles and name each flaw.",
-    "Work out the cause: temperature, wick or scent amount.",
-    "Remake the batch with the fix applied.",
-    "Test burn the new batch and compare."
-   ],
-   "task": "Remake a flawed batch so the new candles burn well.",
-   "challenge": "Find the cause of a flaw from the candle alone.",
-   "quiz": [
-    {
-     "q": "What is tunnelling in a candle?",
-     "options": [
-      "A hole in the jar",
-      "The wax melting only in the middle, leaving a ring",
-      "A broken wick",
-      "A crack"
-     ],
-     "answer": 1,
-     "explain": "Tunnelling happens when the melt pool never reaches the jar edges."
-    },
-    {
-     "q": "How do you fix a tunnelling candle?",
-     "options": [
-      "Throw it away",
-      "Burn it longer so the top melts fully across",
-      "Add more wax",
-      "Use a smaller wick"
-     ],
-     "answer": 1,
-     "explain": "A longer burn melts the full top and fixes the tunnel."
-    },
-    {
-     "q": "Why trim the wick before every burn?",
-     "options": [
-      "For looks",
-      "A long wick makes a big smoky flame",
-      "It saves wax",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "A trimmed wick burns cleanly with a steady flame."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 21,
-   "week": 3,
-   "title": "Adhesion Problems",
-   "goal": "Fix wax that pulls away from the jar (adhesion problems).",
-   "video": {
-    "youtube_id": "Bv2WRAkOGp4",
-    "title": "Why Your Soy Candle Isn't Perfect",
-    "channel": "Candle Business Boss"
-   },
-   "steps": [
-    "Adhesion means the wax sticks to the jar.",
-    "Warm the jars before you pour so wax sticks better.",
-    "Pour at the right temperature, not too cool.",
-    "Check the sides after cooling: no gaps or wet spots."
-   ],
-   "task": "Pour candles with no wet spots on the sides.",
-   "challenge": "Fix a candle with wet spots by warming the jar.",
-   "quiz": [
-    {
-     "q": "What is tunnelling in a candle?",
-     "options": [
-      "A hole in the jar",
-      "The wax melting only in the middle, leaving a ring",
-      "A broken wick",
-      "A crack"
-     ],
-     "answer": 1,
-     "explain": "Tunnelling happens when the melt pool never reaches the jar edges."
-    },
-    {
-     "q": "How do you fix a tunnelling candle?",
-     "options": [
-      "Throw it away",
-      "Burn it longer so the top melts fully across",
-      "Add more wax",
-      "Use a smaller wick"
-     ],
-     "answer": 1,
-     "explain": "A longer burn melts the full top and fixes the tunnel."
-    },
-    {
-     "q": "Why trim the wick before every burn?",
-     "options": [
-      "For looks",
-      "A long wick makes a big smoky flame",
-      "It saves wax",
-      "It is the law"
-     ],
-     "answer": 1,
-     "explain": "A trimmed wick burns cleanly with a steady flame."
-    }
-   ],
-   "project": {
-    "title": "Fix and Remake a Flawed Batch",
-    "brief": "Find the flaws in a batch, fix the cause and remake it.",
-    "checks": [
-     "Flaws named correctly",
-     "Cause found for each flaw",
-     "Batch remade with the fix",
-     "New batch burns well",
-     "Old and new compared",
-     "Fix written down for next time"
-    ]
-   }
-  },
-  {
-   "day": 22,
-   "week": 4,
-   "title": "Dye and Colour",
-   "goal": "Colour candles safely with candle dye.",
-   "video": {
-    "youtube_id": "hwcrDSD_Az4",
-    "title": "Candle Adhesion Problems and How to Fix Them",
-    "channel": "Suffolk Candles"
-   },
-   "steps": [
-    "Use dye made for candles, not food colouring.",
-    "Add a tiny amount and stir well.",
-    "Test the colour in a small pour first.",
-    "Learn that too much dye can clog the wick."
-   ],
-   "task": "Colour a candle evenly with no streaks.",
-   "challenge": "Colour three candles in three shades.",
-   "quiz": [
-    {
-     "q": "What is frosting on soy wax?",
-     "options": [
-      "Ice",
-      "White marks that are normal in soy wax",
-      "A flaw to throw away",
-      "Mould"
-     ],
-     "answer": 1,
-     "explain": "Frosting is a natural white pattern in soy wax and does not affect the burn."
-    },
-    {
-     "q": "What causes sinkholes in candles?",
-     "options": [
-      "Cold wax",
-      "Pouring too hot or air trapped as wax cools",
-      "Too much scent",
-      "A small wick"
-     ],
-     "answer": 1,
-     "explain": "Hot pouring and trapped air leave holes as the wax shrinks."
-    },
-    {
-     "q": "How do you fix a sinkhole?",
-     "options": [
-      "Throw the candle away",
-      "Poke the hole and top it up with melted wax",
-      "Add more scent",
-      "Use a bigger jar"
-     ],
-     "answer": 1,
-     "explain": "Poking and topping up fills the hole for a smooth top."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 23,
-   "week": 4,
-   "title": "Labels and Packaging",
-   "goal": "Label candles legally and package them nicely.",
-   "video": {
-    "youtube_id": "hwcrDSD_Az4",
-    "title": "Candle Adhesion Problems and How to Fix Them",
-    "channel": "Suffolk Candles"
-   },
-   "steps": [
-    "A label needs the scent name, weight and safety warnings.",
-    "Add a warning: never leave a burning candle alone.",
-    "Wrap candles in tissue and a box for selling.",
-    "Keep a record of every batch you make."
-   ],
-   "task": "Label and box three candles ready to sell.",
-   "challenge": "Write a full safety label for one candle.",
-   "quiz": [
-    {
-     "q": "What is frosting on soy wax?",
-     "options": [
-      "Ice",
-      "White marks that are normal in soy wax",
-      "A flaw to throw away",
-      "Mould"
-     ],
-     "answer": 1,
-     "explain": "Frosting is a natural white pattern in soy wax and does not affect the burn."
-    },
-    {
-     "q": "What causes sinkholes in candles?",
-     "options": [
-      "Cold wax",
-      "Pouring too hot or air trapped as wax cools",
-      "Too much scent",
-      "A small wick"
-     ],
-     "answer": 1,
-     "explain": "Hot pouring and trapped air leave holes as the wax shrinks."
-    },
-    {
-     "q": "How do you fix a sinkhole?",
-     "options": [
-      "Throw the candle away",
-      "Poke the hole and top it up with melted wax",
-      "Add more scent",
-      "Use a bigger jar"
-     ],
-     "answer": 1,
-     "explain": "Poking and topping up fills the hole for a smooth top."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 24,
-   "week": 4,
-   "title": "Candle Business Basics",
-   "goal": "Learn how a small candle business works.",
-   "video": {
-    "youtube_id": "hwcrDSD_Az4",
-    "title": "Candle Adhesion Problems and How to Fix Them",
-    "channel": "Suffolk Candles"
-   },
-   "steps": [
-    "Work out the cost of one candle: wax, wick, scent, jar and label.",
-    "Add your time and a fair profit.",
-    "Learn where to sell: markets, online and gift shops.",
-    "Keep a simple sales record."
-   ],
-   "task": "Work out the cost and price of one candle.",
-   "challenge": "List three places you could sell candles.",
-   "quiz": [
-    {
-     "q": "What is frosting on soy wax?",
-     "options": [
-      "Ice",
-      "White marks that are normal in soy wax",
-      "A flaw to throw away",
-      "Mould"
-     ],
-     "answer": 1,
-     "explain": "Frosting is a natural white pattern in soy wax and does not affect the burn."
-    },
-    {
-     "q": "What causes sinkholes in candles?",
-     "options": [
-      "Cold wax",
-      "Pouring too hot or air trapped as wax cools",
-      "Too much scent",
-      "A small wick"
-     ],
-     "answer": 1,
-     "explain": "Hot pouring and trapped air leave holes as the wax shrinks."
-    },
-    {
-     "q": "How do you fix a sinkhole?",
-     "options": [
-      "Throw the candle away",
-      "Poke the hole and top it up with melted wax",
-      "Add more scent",
-      "Use a bigger jar"
-     ],
-     "answer": 1,
-     "explain": "Poking and topping up fills the hole for a smooth top."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 25,
-   "week": 4,
-   "title": "Price Your Candles",
-   "goal": "Price candles so the business pays.",
-   "video": {
-    "youtube_id": "XeCNURX11fk",
-    "title": "How to Make Soy Candles — Candle Making Business",
-    "channel": "Candle Making Business"
-   },
-   "steps": [
-    "Add up all costs for one candle.",
-    "Add your time at a fair hourly rate.",
-    "Add profit and round to a clean price.",
-    "Compare your price with candles in shops."
-   ],
-   "task": "Price three candle types with costs shown.",
-   "challenge": "Price a gift set of three candles.",
-   "quiz": [
-    {
-     "q": "What are wet spots on a candle?",
-     "options": [
-      "Water drops",
-      "Patches where wax pulls away from the jar",
-      "Mould",
-      "Dye marks"
-     ],
-     "answer": 1,
-     "explain": "Wet spots are places where the wax shrinks away from the glass."
-    },
-    {
-     "q": "How do you stop wet spots?",
-     "options": [
-      "Pour colder",
-      "Warm the jars before pouring",
-      "Use less wax",
-      "Use a bigger wick"
-     ],
-     "answer": 1,
-     "explain": "Warm jars help the wax stick to the glass as it cools."
-    },
-    {
-     "q": "What is adhesion in candle making?",
-     "options": [
-      "The scent sticking",
-      "Wax sticking to the jar",
-      "The label sticking",
-      "The wick sticking"
-     ],
-     "answer": 1,
-     "explain": "Adhesion is how well the wax bonds to the container."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 26,
-   "week": 4,
-   "title": "Raw Materials and Suppliers",
-   "goal": "Know where to buy wax, wicks and scents, and what to check.",
-   "video": {
-    "youtube_id": "XeCNURX11fk",
-    "title": "How to Make Soy Candles — Candle Making Business",
-    "channel": "Candle Making Business"
-   },
-   "steps": [
-    "Buy wax in bulk to cut the cost per candle.",
-    "Check wick sizes match your jars before you buy.",
-    "Test a small amount of a new scent before a big order.",
-    "Keep a list of trusted suppliers."
-   ],
-   "task": "List your suppliers and what you buy from each.",
-   "challenge": "Work out how much you save buying wax in bulk.",
-   "quiz": [
-    {
-     "q": "What are wet spots on a candle?",
-     "options": [
-      "Water drops",
-      "Patches where wax pulls away from the jar",
-      "Mould",
-      "Dye marks"
-     ],
-     "answer": 1,
-     "explain": "Wet spots are places where the wax shrinks away from the glass."
-    },
-    {
-     "q": "How do you stop wet spots?",
-     "options": [
-      "Pour colder",
-      "Warm the jars before pouring",
-      "Use less wax",
-      "Use a bigger wick"
-     ],
-     "answer": 1,
-     "explain": "Warm jars help the wax stick to the glass as it cools."
-    },
-    {
-     "q": "What is adhesion in candle making?",
-     "options": [
-      "The scent sticking",
-      "Wax sticking to the jar",
-      "The label sticking",
-      "The wick sticking"
-     ],
-     "answer": 1,
-     "explain": "Adhesion is how well the wax bonds to the container."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 27,
-   "week": 4,
-   "title": "Sell Candles at a Market",
-   "goal": "Set up a market stall and sell your candles.",
-   "video": {
-    "youtube_id": "XeCNURX11fk",
-    "title": "How to Make Soy Candles — Candle Making Business",
-    "channel": "Candle Making Business"
-   },
-   "steps": [
-    "Pick your best candles and price them clearly.",
-    "Set up a clean table with your candles on display.",
-    "Let customers smell the candles.",
-    "Keep a record of every sale."
-   ],
-   "task": "Set up a market stall display for your candles.",
-   "challenge": "Sell your first candle at a market.",
-   "quiz": [
-    {
-     "q": "What are wet spots on a candle?",
-     "options": [
-      "Water drops",
-      "Patches where wax pulls away from the jar",
-      "Mould",
-      "Dye marks"
-     ],
-     "answer": 1,
-     "explain": "Wet spots are places where the wax shrinks away from the glass."
-    },
-    {
-     "q": "How do you stop wet spots?",
-     "options": [
-      "Pour colder",
-      "Warm the jars before pouring",
-      "Use less wax",
-      "Use a bigger wick"
-     ],
-     "answer": 1,
-     "explain": "Warm jars help the wax stick to the glass as it cools."
-    },
-    {
-     "q": "What is adhesion in candle making?",
-     "options": [
-      "The scent sticking",
-      "Wax sticking to the jar",
-      "The label sticking",
-      "The wick sticking"
-     ],
-     "answer": 1,
-     "explain": "Adhesion is how well the wax bonds to the container."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 28,
-   "week": 4,
-   "title": "Buy Wax in Bulk",
-   "goal": "Buy candle wax in bulk to cut your costs.",
-   "video": {
-    "youtube_id": "STRbzKUZTpA",
-    "title": "Candle Raw Material Wholesale | Best Candle Wax For Beginners",
-    "channel": "Creative Glut"
-   },
-   "steps": [
-    "Work out how much wax you use in a month.",
-    "Compare prices from two or three suppliers.",
-    "Buy in bulk and store the wax in a dry place.",
-    "Work out your new cost per candle."
-   ],
-   "task": "Compare bulk wax prices from two suppliers.",
-   "challenge": "Work out how much you save buying wax in bulk.",
-   "quiz": [
-    {
-     "q": "What should a candle label include?",
-     "options": [
-      "Only the scent name",
-      "Scent name, weight and safety warnings",
-      "Your name only",
-      "The price only"
-     ],
-     "answer": 1,
-     "explain": "Labels need the scent, weight and safety warnings by law in many places."
-    },
-    {
-     "q": "Why keep a record of every batch?",
-     "options": [
-      "For fun",
-      "So you can repeat a good batch and fix a bad one",
-      "It is the law everywhere",
-      "To show friends"
-     ],
-     "answer": 1,
-     "explain": "Batch records let you repeat what worked and find what went wrong."
-    },
-    {
-     "q": "What should a candle price cover?",
-     "options": [
-      "Only the wax",
-      "Wax, wick, scent, jar, label, time and profit",
-      "The jar only",
-      "Your time only"
-     ],
-     "answer": 1,
-     "explain": "A real price covers all materials, your time and a fair profit."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 29,
-   "week": 5,
-   "title": "Capstone Planning",
-   "goal": "Choose your capstone candle range, buy supplies and plan the days.",
-   "video": {
-    "youtube_id": "STRbzKUZTpA",
-    "title": "Candle Raw Material Wholesale | Best Candle Wax For Beginners",
-    "channel": "Creative Glut"
-   },
-   "steps": [
-    "Pick three candles that show your best skills.",
-    "Buy all wax, wicks, scents and jars.",
-    "Plan the making days and the test burn day.",
-    "Design labels for the range."
-   ],
-   "task": "Have all capstone supplies bought and labels designed.",
-   "challenge": "Plan a capstone range of three candles.",
-   "quiz": [
-    {
-     "q": "What should a candle label include?",
-     "options": [
-      "Only the scent name",
-      "Scent name, weight and safety warnings",
-      "Your name only",
-      "The price only"
-     ],
-     "answer": 1,
-     "explain": "Labels need the scent, weight and safety warnings by law in many places."
-    },
-    {
-     "q": "Why keep a record of every batch?",
-     "options": [
-      "For fun",
-      "So you can repeat a good batch and fix a bad one",
-      "It is the law everywhere",
-      "To show friends"
-     ],
-     "answer": 1,
-     "explain": "Batch records let you repeat what worked and find what went wrong."
-    },
-    {
-     "q": "What should a candle price cover?",
-     "options": [
-      "Only the wax",
-      "Wax, wick, scent, jar, label, time and profit",
-      "The jar only",
-      "Your time only"
-     ],
-     "answer": 1,
-     "explain": "A real price covers all materials, your time and a fair profit."
-    }
-   ],
-   "project": null
-  },
-  {
-   "day": 30,
-   "week": 5,
-   "title": "Capstone: Make and Present a Candle Range",
-   "goal": "Make a range of three candles, test them and present them.",
-   "video": {
-    "youtube_id": "STRbzKUZTpA",
-    "title": "Candle Raw Material Wholesale | Best Candle Wax For Beginners",
-    "channel": "Creative Glut"
-   },
-   "steps": [
-    "Make the three candles following your plan.",
-    "Test burn one of each and record the results.",
-    "Label and box the range neatly.",
-    "Present the range with costing and safety labels."
-   ],
-   "task": "Present a finished candle range, tested and boxed.",
-   "challenge": "Finish the range with time left for test burns.",
-   "quiz": [
-    {
-     "q": "What should a candle label include?",
-     "options": [
-      "Only the scent name",
-      "Scent name, weight and safety warnings",
-      "Your name only",
-      "The price only"
-     ],
-     "answer": 1,
-     "explain": "Labels need the scent, weight and safety warnings by law in many places."
-    },
-    {
-     "q": "Why keep a record of every batch?",
-     "options": [
-      "For fun",
-      "So you can repeat a good batch and fix a bad one",
-      "It is the law everywhere",
-      "To show friends"
-     ],
-     "answer": 1,
-     "explain": "Batch records let you repeat what worked and find what went wrong."
-    },
-    {
-     "q": "What should a candle price cover?",
-     "options": [
-      "Only the wax",
-      "Wax, wick, scent, jar, label, time and profit",
-      "The jar only",
-      "Your time only"
-     ],
-     "answer": 1,
-     "explain": "A real price covers all materials, your time and a fair profit."
-    }
-   ],
-   "project": null
-  }
- ],
- "capstone": {
-  "title": "Make and Present a Candle Range",
-  "brief": "Make a range of three scented candles, test burn them, label and box them, and present the range with costing and safety labels.",
-  "checks": [
-   "Three candles in different scents",
-   "Wax, scent and wick correct in each",
-   "Tops smooth with no sinkholes or wet spots",
-   "Test burns recorded for each candle",
-   "Labels complete with scent, weight and warnings",
-   "Candles boxed neatly as a range",
-   "Costing sheet shows materials, time and price"
   ],
-  "deliverables": [
-   "Range of three candles, boxed",
-   "Test burn record for each candle",
-   "Labels with scent, weight and warnings",
-   "Costing and pricing sheet",
-   "Photos of the range"
-  ]
- }
+  "capstone": {
+    "title": "Make and Present a Candle Range",
+    "brief": "Make a range of three scented candles, test burn them, label and box them, and present the range with costing and safety labels.",
+    "checks": [
+      "Three candles in different scents",
+      "Wax, scent and wick correct in each",
+      "Tops smooth with no sinkholes or wet spots",
+      "Test burns recorded for each candle",
+      "Labels complete with scent, weight and warnings",
+      "Candles boxed neatly as a range",
+      "Costing sheet shows materials, time and price"
+    ],
+    "deliverables": [
+      "Range of three candles, boxed",
+      "Test burn record for each candle",
+      "Labels with scent, weight and warnings",
+      "Costing and pricing sheet",
+      "Photos of the range"
+    ]
+  }
 }

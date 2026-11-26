@@ -38,15 +38,15 @@
           "explain": "A hook is the start of your writing. It grabs the reader and makes them stay."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Meet content writing\"?",
+          "q": "What do good blog posts start with?",
           "options": [
-            "Write a short post for social media.",
-            "Write a description that sells a product.",
-            "Write a script for a short video.",
-            "Learn what content writing is."
+            "A hook",
+            "A long list",
+            "A photo only",
+            "A price"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Learn what content writing is."
+          "answer": 0,
+          "explain": "Notice how they start with a hook."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -93,15 +93,15 @@
           "explain": "Short paragraphs are easy to scan. Long blocks of text make readers leave."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write your first paragraph\"?",
+          "q": "How many sentences should your first paragraph have?",
           "options": [
-            "Write three pieces in different styles.",
-            "Write your best piece yet.",
-            "Write a short paragraph.",
-            "Write a caption for a photo."
+            "3 to 5 sentences",
+            "1 sentence",
+            "20 sentences",
+            "50 sentences"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a short paragraph."
+          "answer": 0,
+          "explain": "Write one clear idea in 3 to 5 sentences."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -148,15 +148,15 @@
           "explain": "A hook is the start of your writing. It grabs the reader and makes them stay."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a headline\"?",
+          "q": "How long should each headline be?",
           "options": [
-            "Follow a short brief.",
-            "Write a headline people will click.",
-            "Write a short story.",
-            "Edit a piece you wrote."
+            "Under 10 words",
+            "Over 50 words",
+            "Exactly 20 words",
+            "One word only"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write a headline people will click."
+          "answer": 0,
+          "explain": "Keep each one under 10 words."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -203,15 +203,15 @@
           "explain": "Short paragraphs are easy to scan. Long blocks of text make readers leave."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Know your reader\"?",
+          "q": "Who should you write for?",
           "options": [
-            "Write for one person.",
-            "Write a clear email.",
-            "Rewrite a hard paragraph in simple words.",
-            "Plan four posts for one month."
+            "One person, like a friend",
+            "Everyone at once",
+            "Nobody",
+            "Only experts"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write for one person."
+          "explain": "Pick a reader, like a friend. Write a paragraph just for them."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -258,15 +258,15 @@
           "explain": "A hook is the start of your writing. It grabs the reader and makes them stay."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a blog post outline\"?",
+          "q": "How many main points go in your blog post outline?",
           "options": [
-            "Write a short newsletter.",
-            "Write an article with a list.",
-            "Find the writing style you love.",
-            "Plan a blog post."
+            "Three",
+            "Ten",
+            "One",
+            "Twenty"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Plan a blog post."
+          "answer": 0,
+          "explain": "Write three main points."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -313,15 +313,15 @@
           "explain": "Short paragraphs are easy to scan. Long blocks of text make readers leave."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write your first blog post\"?",
+          "q": "How many words should your first blog post be?",
           "options": [
-            "Write a review of something you used.",
-            "Write a 1000-word article.",
-            "Write a full blog post.",
-            "Write a guide that teaches one thing."
+            "300 to 500 words",
+            "50 words",
+            "5000 words",
+            "10 words"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a full blog post."
+          "answer": 0,
+          "explain": "Write 300 to 500 words."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -368,15 +368,15 @@
           "explain": "A hook is the start of your writing. It grabs the reader and makes them stay."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a blog post\"?",
+          "q": "What should you add to your blog post besides words?",
           "options": [
-            "Pick your best pieces.",
-            "Write and publish a blog post.",
-            "Write a description that sells a product.",
-            "Write a script for a short video."
+            "A headline and subheadings",
+            "A price list",
+            "A photo only",
+            "Nothing"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write and publish a blog post."
+          "answer": 0,
+          "explain": "Add a headline and subheadings."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -434,15 +434,15 @@
           "explain": "A headline is the title. It tells readers what the piece is about and makes them click."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a social media post\"?",
+          "q": "How long should a social media post be?",
           "options": [
-            "Write a short post for social media.",
-            "Write three pieces in different styles.",
-            "Write your best piece yet.",
-            "Write a pitch to a client."
+            "Under 50 words",
+            "Over 500 words",
+            "Exactly 200 words",
+            "One word"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write a short post for social media."
+          "explain": "Write it in under 50 words."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -489,15 +489,15 @@
           "explain": "An outline is a plan. It lists your headline, main points and ending before you write."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a caption\"?",
+          "q": "What should you add at the end of a caption?",
           "options": [
-            "Edit a piece you wrote.",
-            "Follow a short brief.",
-            "Write a post for someone else's blog.",
-            "Write a caption for a photo."
+            "A question or a call to action",
+            "A price",
+            "A long story",
+            "Nothing"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Write a caption for a photo."
+          "answer": 0,
+          "explain": "Add a question or a call to action."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -544,15 +544,15 @@
           "explain": "A headline is the title. It tells readers what the piece is about and makes them click."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Tell a story\"?",
+          "q": "How many parts should your short story have?",
           "options": [
-            "Plan four posts for one month.",
-            "Pick your best work and say why it works.",
-            "Write a short story.",
-            "Rewrite a hard paragraph in simple words."
+            "Three: start, middle, end",
+            "One part",
+            "Ten parts",
+            "No parts"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a short story."
+          "answer": 0,
+          "explain": "Write it in three parts: start, middle, end."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -599,15 +599,15 @@
           "explain": "An outline is a plan. It lists your headline, main points and ending before you write."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write an email\"?",
+          "q": "What should your email end with?",
           "options": [
-            "Write a simple plan to keep getting better.",
-            "Write a clear email.",
-            "Write an article with a list.",
-            "Find the writing style you love."
+            "A clear next step",
+            "A long goodbye",
+            "A photo",
+            "Nothing"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write a clear email."
+          "answer": 0,
+          "explain": "End with a clear next step."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -654,15 +654,15 @@
           "explain": "A headline is the title. It tells readers what the piece is about and makes them click."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a newsletter\"?",
+          "q": "How many things should you share in a short newsletter?",
           "options": [
-            "Write a short newsletter.",
-            "Write a review of something you used.",
-            "Write a 1000-word article.",
-            "Learn what content writing is."
+            "Three",
+            "One",
+            "Twenty",
+            "Fifty"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write a short newsletter."
+          "explain": "Pick three things to share. Write one paragraph for each."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -709,15 +709,15 @@
           "explain": "An outline is a plan. It lists your headline, main points and ending before you write."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a how-to guide\"?",
+          "q": "How should you write the steps in a how-to guide?",
           "options": [
-            "Write a script for a short video.",
-            "Pick your best pieces.",
-            "Write a short paragraph.",
-            "Write a guide that teaches one thing."
+            "In order, with numbers for each step",
+            "In any order",
+            "Without numbers",
+            "Backwards"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Write a guide that teaches one thing."
+          "answer": 0,
+          "explain": "Write the steps in order. Use numbers for each step."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -764,15 +764,15 @@
           "explain": "A headline is the title. It tells readers what the piece is about and makes them click."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a product description\"?",
+          "q": "How long should a product description be?",
           "options": [
-            "Write a pitch to a client.",
-            "Write a headline people will click.",
-            "Write a description that sells a product.",
-            "Write your best piece yet."
+            "Under 100 words",
+            "Over 1000 words",
+            "Exactly 500 words",
+            "One word"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a description that sells a product."
+          "answer": 0,
+          "explain": "Keep it under 100 words."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -830,15 +830,15 @@
           "explain": "Knowing your reader helps you pick the right words and topics. Write for one person, not everyone."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Your first writing set\"?",
+          "q": "How many pieces are in your first writing set?",
           "options": [
-            "Write for one person.",
-            "Write three pieces in different styles.",
-            "Follow a short brief.",
-            "Write a post for someone else's blog."
+            "Three pieces in different styles",
+            "One piece",
+            "Ten pieces",
+            "Thirty pieces"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write three pieces in different styles."
+          "answer": 0,
+          "explain": "Write a blog post, a social media post, and a product description."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -885,15 +885,15 @@
           "explain": "Editing is fixing your draft. You cut extra words, fix mistakes and make it clear."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Edit your writing\"?",
+          "q": "What should you cut when you edit?",
           "options": [
-            "Edit a piece you wrote.",
-            "Plan four posts for one month.",
-            "Pick your best work and say why it works.",
-            "Plan a blog post."
+            "Any sentence that is not needed",
+            "The headline",
+            "Every long word",
+            "The whole ending"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Edit a piece you wrote."
+          "explain": "Cut any sentence that is not needed."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -940,15 +940,15 @@
           "explain": "Knowing your reader helps you pick the right words and topics. Write for one person, not everyone."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write with simple words\"?",
+          "q": "What should you do with hard words?",
           "options": [
-            "Find the writing style you love.",
-            "Write a simple plan to keep getting better.",
-            "Write a full blog post.",
-            "Rewrite a hard paragraph in simple words."
+            "Replace each one with a simple word",
+            "Keep them all",
+            "Delete the whole paragraph",
+            "Add more hard words"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Rewrite a hard paragraph in simple words."
+          "answer": 0,
+          "explain": "Replace each hard word with a simple one."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -995,15 +995,15 @@
           "explain": "Editing is fixing your draft. You cut extra words, fix mistakes and make it clear."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a list article\"?",
+          "q": "How many tips go in your list article?",
           "options": [
-            "Learn what content writing is.",
-            "Write and publish a blog post.",
-            "Write an article with a list.",
-            "Write a 1000-word article."
+            "Five tips",
+            "One tip",
+            "Fifty tips",
+            "No tips"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write an article with a list."
+          "answer": 0,
+          "explain": "Write five tips. Write one sentence for each tip."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1050,15 +1050,15 @@
           "explain": "Knowing your reader helps you pick the right words and topics. Write for one person, not everyone."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a review\"?",
+          "q": "What score do you give in your review?",
           "options": [
-            "Write a short post for social media.",
-            "Write a review of something you used.",
-            "Pick your best pieces.",
-            "Write a short paragraph."
+            "A score out of 5",
+            "A score out of 100",
+            "No score",
+            "A score out of 3"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write a review of something you used."
+          "answer": 0,
+          "explain": "Give it a score out of 5."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1105,15 +1105,15 @@
           "explain": "Editing is fixing your draft. You cut extra words, fix mistakes and make it clear."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a script\"?",
+          "q": "What should your video script start with?",
           "options": [
-            "Write a script for a short video.",
-            "Write a pitch to a client.",
-            "Write a headline people will click.",
-            "Write a caption for a photo."
+            "A hook",
+            "A long story",
+            "A price",
+            "The ending"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write a script for a short video."
+          "explain": "Write a hook. Write three main points. Write a short ending."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1160,15 +1160,15 @@
           "explain": "Knowing your reader helps you pick the right words and topics. Write for one person, not everyone."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a portfolio piece\"?",
+          "q": "How many words is your best portfolio piece?",
           "options": [
-            "Write a post for someone else's blog.",
-            "Write for one person.",
-            "Write a short story.",
-            "Write your best piece yet."
+            "500 words",
+            "50 words",
+            "5000 words",
+            "100 words"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Write your best piece yet."
+          "answer": 0,
+          "explain": "Write 500 words. Edit it twice."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1226,15 +1226,15 @@
           "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write for a client\"?",
+          "q": "What is the brief for your client piece?",
           "options": [
-            "Plan a blog post.",
-            "Write a clear email.",
-            "Follow a short brief.",
-            "Pick your best work and say why it works."
+            "A blog post about a coffee shop",
+            "A novel",
+            "A song",
+            "A sales email"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Follow a short brief."
+          "answer": 0,
+          "explain": "Read this brief: a blog post about a coffee shop."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1281,15 +1281,15 @@
           "explain": "A call to action asks readers to do something, like comment, share or buy."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a month of posts\"?",
+          "q": "How many posts do you plan for one month?",
           "options": [
-            "Write a short newsletter.",
-            "Plan four posts for one month.",
-            "Write a simple plan to keep getting better.",
-            "Write a full blog post."
+            "Four posts, one for each week",
+            "One post",
+            "Thirty posts",
+            "No posts"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Plan four posts for one month."
+          "answer": 0,
+          "explain": "Plan one post for each week. Write all four posts."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1336,15 +1336,15 @@
           "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Build your style\"?",
+          "q": "How do you find the writing style you love?",
           "options": [
-            "Find the writing style you love.",
-            "Learn what content writing is.",
-            "Write and publish a blog post.",
-            "Write a guide that teaches one thing."
+            "Pick the three pieces you love most and write down what they have in common",
+            "Copy someone else's style",
+            "Write faster",
+            "Use hard words"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Find the writing style you love."
+          "explain": "Pick the three you love most. Write down what they have in common."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1391,15 +1391,15 @@
           "explain": "A call to action asks readers to do something, like comment, share or buy."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a long article\"?",
+          "q": "How many words is your long article?",
           "options": [
-            "Write a short paragraph.",
-            "Write a short post for social media.",
-            "Write a description that sells a product.",
-            "Write a 1000-word article."
+            "1000 words",
+            "100 words",
+            "500 words",
+            "10000 words"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Write a 1000-word article."
+          "answer": 0,
+          "explain": "Write 1000 words. Edit it and share it."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1446,15 +1446,15 @@
           "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Make a writing portfolio\"?",
+          "q": "How many of your best pieces go in your portfolio?",
           "options": [
-            "Write a caption for a photo.",
-            "Write three pieces in different styles.",
-            "Pick your best pieces.",
-            "Write a headline people will click."
+            "Five",
+            "One",
+            "Three",
+            "Twenty"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Pick your best pieces."
+          "answer": 0,
+          "explain": "Pick your best five. Save them in a folder called Portfolio."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1501,15 +1501,15 @@
           "explain": "A call to action asks readers to do something, like comment, share or buy."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Pitch a client\"?",
+          "q": "What should you include when you pitch a client?",
           "options": [
-            "Edit a piece you wrote.",
-            "Write a pitch to a client.",
-            "Write for one person.",
-            "Write a short story."
+            "A link to your portfolio",
+            "A photo of yourself",
+            "A long story",
+            "Nothing"
           ],
-          "answer": 1,
-          "explain": "Today's goal is: Write a pitch to a client."
+          "answer": 0,
+          "explain": "Include a link to your portfolio."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1556,15 +1556,15 @@
           "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Write a guest post\"?",
+          "q": "What should you read before writing a guest post?",
           "options": [
-            "Write a post for someone else's blog.",
-            "Plan a blog post.",
-            "Write a clear email.",
-            "Rewrite a hard paragraph in simple words."
+            "Two posts from that blog",
+            "The whole internet",
+            "Nothing",
+            "Your own old posts only"
           ],
           "answer": 0,
-          "explain": "Today's goal is: Write a post for someone else's blog."
+          "explain": "Read two of its posts. Write a post in the same style."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1611,15 +1611,15 @@
           "explain": "A call to action asks readers to do something, like comment, share or buy."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Review your best work\"?",
+          "q": "How many of your best pieces do you pick for review?",
           "options": [
-            "Write a full blog post.",
-            "Write a short newsletter.",
-            "Write an article with a list.",
-            "Pick your best work and say why it works."
+            "Three",
+            "One",
+            "Ten",
+            "All of them"
           ],
-          "answer": 3,
-          "explain": "Today's goal is: Pick your best work and say why it works."
+          "answer": 0,
+          "explain": "Pick your best three pieces. Write one sentence about why each one works."
         },
         {
           "q": "What is the first step in today's lesson?",
@@ -1666,15 +1666,15 @@
           "explain": "A portfolio is your best work in one place. Clients read it to decide if they want to hire you."
         },
         {
-          "q": "What is the main goal of today's lesson, \"Plan your next 30 days\"?",
+          "q": "What is the first step in your plan to keep getting better?",
           "options": [
-            "Write a guide that teaches one thing.",
-            "Write a review of something you used.",
-            "Write a simple plan to keep getting better.",
-            "Write and publish a blog post."
+            "Write down the one skill you want to improve most",
+            "Buy a new app",
+            "Delete your old work",
+            "Stop writing"
           ],
-          "answer": 2,
-          "explain": "Today's goal is: Write a simple plan to keep getting better."
+          "answer": 0,
+          "explain": "Write down the one skill you want to improve most."
         },
         {
           "q": "What is the first step in today's lesson?",

@@ -42,9 +42,9 @@
           "q": "Which tool do you need most for a fade?",
           "options": [
             "Clipper with guards",
-            "Round brush",
-            "Hair dryer",
-            "Flat iron"
+            "Trimmer",
+            "Barber comb",
+            "Foil shaver"
           ],
           "answer": 0,
           "explain": "A clipper with guards is the main tool for fading. You change guards to blend the hair from short to long."
@@ -53,7 +53,7 @@
           "q": "What should you always do between clients?",
           "options": [
             "Disinfect your clippers",
-            "Use a hot iron on wet hair",
+            "Cut hair without putting a cape on the client",
             "Skip cleaning to save time",
             "Use the same cape without shaking it out"
           ],
@@ -84,37 +84,37 @@
       "challenge": "Do know your tools two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on know your tools?",
+          "q": "What does a foil shaver do?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A foil shaver cuts hair closest to the skin for a clean skin finish.",
-            "Using dirty tools gives the same result as clean ones."
+            "It cuts hair closest to the skin for a clean skin finish",
+            "It dries the hair with hot air",
+            "It combs the hair into place",
+            "It sprays water on the hair"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A foil shaver cuts hair closest to the skin for a clean skin finish."
         },
         {
-          "q": "Which tool is most essential for know your tools?",
+          "q": "Which tool cleans up sharp edges and lines?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "flat iron",
-            "trimmer"
+            "Clipper with guards",
+            "Barber comb",
+            "Spray bottle",
+            "Trimmer"
           ],
           "answer": 3,
-          "explain": "The trimmer is the essential tool for this work."
+          "explain": "The trimmer is the tool for sharp edges and clean lines."
         },
         {
-          "q": "What should you always do when working on know your tools?",
+          "q": "What must you check before you start cutting?",
           "options": [
-            "never cut broken skin",
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "If the client has cuts or broken skin",
+            "If the client likes loud music",
+            "If the shop door is open",
+            "If the mirror is clean"
           ],
           "answer": 0,
-          "explain": "Never cut broken skin."
+          "explain": "Always check the client for cuts before starting. Never cut broken skin."
         }
       ],
       "project": null
@@ -140,37 +140,37 @@
       "challenge": "Do hygiene and safety two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on hygiene and safety?",
+          "q": "How often must you disinfect clipper blades?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Clipper blades must be disinfected between every client."
+            "Between every client",
+            "Once a month",
+            "Once a year",
+            "Only when they look dirty"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Clipper blades must be disinfected between every client."
         },
         {
-          "q": "Which tool is most essential for hygiene and safety?",
+          "q": "Which one do you use to kill germs on clipper blades?",
           "options": [
-            "foil shaver",
-            "round brush",
-            "hair dryer",
-            "flat iron"
+            "Clipper spray",
+            "Hair oil",
+            "Shampoo",
+            "Water"
           ],
           "answer": 0,
-          "explain": "The foil shaver is the essential tool for this work."
+          "explain": "Clipper spray kills germs on blades and keeps every client safe."
         },
         {
-          "q": "What should you always do when working on hygiene and safety?",
+          "q": "What should you do with your tools after each client?",
           "options": [
-            "always use heat protectant before hot tools",
-            "check the client for cuts before starting",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "Wipe them with disinfectant",
+            "Put them away dirty",
+            "Share them without cleaning",
+            "Rinse them with water only"
           ],
-          "answer": 1,
-          "explain": "You should always check the client for cuts before starting."
+          "answer": 0,
+          "explain": "Wipe tools with disinfectant after each client. Clean tools keep every client safe."
         }
       ],
       "project": null
@@ -196,37 +196,37 @@
       "challenge": "Do holding the clipper two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on holding the clipper?",
+          "q": "Which way should you cut for an even cut?",
           "options": [
-            "Cut the opposite way the hair grows for an even cut.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "Cut the opposite way the hair grows",
+            "Cut the same way the hair grows",
+            "Cut in circles",
+            "Cut only from the top down"
           ],
           "answer": 0,
           "explain": "Cut the opposite way the hair grows for an even cut."
         },
         {
-          "q": "Which tool is most essential for holding the clipper?",
+          "q": "Which tool do you hold when you practise steady upward strokes?",
           "options": [
-            "round brush",
-            "barber comb",
-            "hair dryer",
-            "flat iron"
-          ],
-          "answer": 1,
-          "explain": "The barber comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on holding the clipper?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "disinfect your clippers between clients",
-            "test the iron temperature on a strand first"
+            "Trimmer",
+            "Foil shaver",
+            "Clipper",
+            "Barber comb"
           ],
           "answer": 2,
-          "explain": "You should always disinfect your clippers between clients."
+          "explain": "You hold the clipper firmly, thumb on top, for steady upward strokes."
+        },
+        {
+          "q": "What should you do after each try with the clipper?",
+          "options": [
+            "Check your work in a mirror",
+            "Rush to the next part",
+            "Skip checking until the end",
+            "Put the clipper down"
+          ],
+          "answer": 0,
+          "explain": "Check your work in a mirror or a photo after each try so the cut stays even."
         }
       ],
       "project": null
@@ -252,37 +252,37 @@
       "challenge": "Do clipper guards explained two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on clipper guards explained?",
+          "q": "How much hair does a guard 2 leave behind?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "Guard 2 leaves about 6mm of hair.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "About 6mm",
+            "About 3mm",
+            "About 13mm",
+            "No hair at all"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Guard 2 leaves about 6mm of hair."
         },
         {
-          "q": "Which tool is most essential for clipper guards explained?",
+          "q": "Which tool controls how much hair is left behind?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "clipper with guards",
-            "flat iron"
-          ],
-          "answer": 2,
-          "explain": "The clipper with guards is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on clipper guards explained?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first",
-            "never cut broken skin"
+            "Trimmer",
+            "Foil shaver",
+            "Barber comb",
+            "Clipper with guards"
           ],
           "answer": 3,
-          "explain": "Never cut broken skin."
+          "explain": "Clipper guards control the length. A higher guard leaves more hair behind."
+        },
+        {
+          "q": "Which guard should you start with?",
+          "options": [
+            "Start long, then go shorter",
+            "Start with the shortest guard",
+            "Start with no guard",
+            "Start with any guard"
+          ],
+          "answer": 0,
+          "explain": "Start long, then go shorter. You can always cut more off, but you cannot put hair back."
         }
       ],
       "project": null
@@ -308,37 +308,37 @@
       "challenge": "Do sectioning the head two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on sectioning the head?",
+          "q": "Why do you section the head before cutting?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Sectioning keeps each area of the cut even and controlled.",
-            "The best result comes from skipping the preparation step."
+            "Sectioning keeps each area of the cut even and controlled",
+            "It makes the cut take longer",
+            "It hides mistakes",
+            "It uses less water"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Sectioning keeps each area of the cut even and controlled."
         },
         {
-          "q": "Which tool is most essential for sectioning the head?",
+          "q": "Which tool holds the hair in sections while you cut?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "flat iron",
-            "trimmer"
+            "Trimmer",
+            "Foil shaver",
+            "Hair clips",
+            "Spray bottle"
           ],
-          "answer": 3,
-          "explain": "The trimmer is the essential tool for this work."
+          "answer": 2,
+          "explain": "Hair clips hold each section in place so every zone is cut cleanly."
         },
         {
-          "q": "What should you always do when working on sectioning the head?",
+          "q": "What should you do before you start cutting a section?",
           "options": [
-            "check the client for cuts before starting",
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "Clip the other sections out of the way",
+            "Cut all sections at once",
+            "Skip sectioning to save time",
+            "Wet the whole head"
           ],
           "answer": 0,
-          "explain": "You should always check the client for cuts before starting."
+          "explain": "Clip each section out of the way so you cut one clean zone at a time."
         }
       ],
       "project": null
@@ -364,37 +364,37 @@
       "challenge": "Do the all-over buzz cut two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on the all-over buzz cut?",
+          "q": "What is an all-over buzz cut?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A buzz cut uses one guard length over the whole head."
+            "One guard length over the whole head",
+            "A different guard on every part",
+            "No guard at all",
+            "A cut done with scissors only"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "A buzz cut uses one guard length over the whole head."
         },
         {
-          "q": "Which tool is most essential for the all-over buzz cut?",
+          "q": "Which tool do you use for a buzz cut?",
           "options": [
-            "foil shaver",
-            "round brush",
-            "hair dryer",
-            "flat iron"
+            "Foil shaver",
+            "Trimmer",
+            "Clipper with guards",
+            "Barber comb"
           ],
-          "answer": 0,
-          "explain": "The foil shaver is the essential tool for this work."
+          "answer": 2,
+          "explain": "A buzz cut is done with clippers and one guard over the whole head."
         },
         {
-          "q": "What should you always do when working on the all-over buzz cut?",
+          "q": "What should you clean after a buzz cut?",
           "options": [
-            "always use heat protectant before hot tools",
-            "disinfect your clippers between clients",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "The neckline and edges",
+            "Only the floor",
+            "Only the cape",
+            "Nothing at all"
           ],
-          "answer": 1,
-          "explain": "You should always disinfect your clippers between clients."
+          "answer": 0,
+          "explain": "After a buzz cut, clean the neckline and edges so the cut looks sharp."
         }
       ],
       "project": {
@@ -431,37 +431,37 @@
       "challenge": "Do week 1 project: your first buzz cut two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 1 project: your first buzz cut?",
+          "q": "How do you know a buzz cut is finished well?",
           "options": [
-            "A finished buzz cut looks even from the front, sides and back.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "It looks even from the front, sides and back",
+            "It is done in under one minute",
+            "The client did not move at all",
+            "The floor is clean"
           ],
           "answer": 0,
           "explain": "A finished buzz cut looks even from the front, sides and back."
         },
         {
-          "q": "Which tool is most essential for week 1 project: your first buzz cut?",
+          "q": "Which tool does most of the work in a buzz cut?",
           "options": [
-            "round brush",
-            "barber comb",
-            "hair dryer",
-            "flat iron"
-          ],
-          "answer": 1,
-          "explain": "The barber comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on week 1 project: your first buzz cut?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "never cut broken skin",
-            "test the iron temperature on a strand first"
+            "Trimmer",
+            "Barber comb",
+            "Clipper with guards",
+            "Foil shaver"
           ],
           "answer": 2,
-          "explain": "Never cut broken skin."
+          "explain": "The clipper with guards does the main work in a buzz cut."
+        },
+        {
+          "q": "What should you do after a buzz cut project?",
+          "options": [
+            "Photograph it from four angles",
+            "Hide the photos",
+            "Skip the photos",
+            "Photograph only the front"
+          ],
+          "answer": 0,
+          "explain": "Photograph the buzz cut from four angles so you can see it is even all round."
         }
       ],
       "project": null
@@ -487,37 +487,37 @@
       "challenge": "Do clipper over comb two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on clipper over comb?",
+          "q": "What does clipper over comb do?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Clipper over comb blends the sides into the top smoothly.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "It blends the sides into the top smoothly",
+            "It makes the hair longer",
+            "It dries the hair",
+            "It colours the hair"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Clipper over comb blends the sides into the top smoothly."
         },
         {
-          "q": "Which tool is most essential for clipper over comb?",
+          "q": "Which two tools do you use for clipper over comb?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "clipper with guards",
-            "flat iron"
+            "Trimmer and foil shaver",
+            "Clipper and barber comb",
+            "Scissors and spray bottle",
+            "Foil shaver and cape"
           ],
-          "answer": 2,
-          "explain": "The clipper with guards is the essential tool for this work."
+          "answer": 1,
+          "explain": "Clipper over comb uses the clipper and a flat barber comb together."
         },
         {
-          "q": "What should you always do when working on clipper over comb?",
+          "q": "How should you hold the comb for clipper over comb?",
           "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first",
-            "check the client for cuts before starting"
+            "Hold it flat and lift the hair",
+            "Hold it upside down",
+            "Hold it by the teeth",
+            "Hold it with one finger"
           ],
-          "answer": 3,
-          "explain": "You should always check the client for cuts before starting."
+          "answer": 0,
+          "explain": "Hold the comb flat, lift the hair, and glide the clipper along the comb to blend."
         }
       ],
       "project": null
@@ -543,37 +543,37 @@
       "challenge": "Do setting a guideline two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on setting a guideline?",
+          "q": "What does the fade guideline do?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "The fade guideline sets the lowest line of the fade.",
-            "You should always use the strongest product available."
+            "It sets the lowest line of the fade",
+            "It marks where the hair is longest",
+            "It shows where to stop cutting the top",
+            "It tells you the price of the cut"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "The fade guideline sets the lowest line of the fade."
         },
         {
-          "q": "Which tool is most essential for setting a guideline?",
+          "q": "Which tool draws the guideline?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "flat iron",
-            "trimmer"
+            "Foil shaver",
+            "Clipper with guards",
+            "Trimmer",
+            "Barber comb"
           ],
-          "answer": 3,
-          "explain": "The trimmer is the essential tool for this work."
+          "answer": 2,
+          "explain": "You draw the guideline with the trimmer before you start the fade."
         },
         {
-          "q": "What should you always do when working on setting a guideline?",
+          "q": "What should you do if the guideline is not straight?",
           "options": [
-            "disinfect your clippers between clients",
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "Wipe it off and draw it again",
+            "Cut over it anyway",
+            "Ignore it",
+            "Draw a second line next to it"
           ],
           "answer": 0,
-          "explain": "You should always disinfect your clippers between clients."
+          "explain": "If the guideline is not straight, wipe it off and draw it again before you fade."
         }
       ],
       "project": null
@@ -599,37 +599,37 @@
       "challenge": "Do low fade basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on low fade basics?",
+          "q": "Where does a low fade sit?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A low fade sits just above the ear and neckline."
+            "Just above the ear and neckline",
+            "Near the crown of the head",
+            "Around the temple",
+            "On the top of the head"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "A low fade sits just above the ear and neckline."
         },
         {
-          "q": "Which tool is most essential for low fade basics?",
+          "q": "Which tool builds the low fade?",
           "options": [
-            "foil shaver",
-            "round brush",
-            "hair dryer",
-            "flat iron"
+            "Foil shaver",
+            "Trimmer",
+            "Clipper with guards",
+            "Barber comb"
           ],
-          "answer": 0,
-          "explain": "The foil shaver is the essential tool for this work."
+          "answer": 2,
+          "explain": "You build a low fade with clippers, working guards 0, 0.5, 1 and 1.5 upward."
         },
         {
-          "q": "What should you always do when working on low fade basics?",
+          "q": "How should you move the clipper in a low fade?",
           "options": [
-            "always use heat protectant before hot tools",
-            "never cut broken skin",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "In short flicking strokes upward",
+            "In long fast strokes downward",
+            "In circles",
+            "In one hard push"
           ],
-          "answer": 1,
-          "explain": "Never cut broken skin."
+          "answer": 0,
+          "explain": "Work the guards upward in short flicking strokes for a smooth low fade."
         }
       ],
       "project": null
@@ -655,37 +655,37 @@
       "challenge": "Do mid fade basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on mid fade basics?",
+          "q": "Where does the guideline sit for a mid fade?",
           "options": [
-            "A mid fade guideline sits around temple height.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Around temple height",
+            "At the neckline",
+            "Near the crown",
+            "On the forehead"
           ],
           "answer": 0,
           "explain": "A mid fade guideline sits around temple height."
         },
         {
-          "q": "Which tool is most essential for mid fade basics?",
+          "q": "Which tool blends a mid fade?",
           "options": [
-            "round brush",
-            "barber comb",
-            "hair dryer",
-            "flat iron"
+            "Barber comb",
+            "Trimmer",
+            "Foil shaver",
+            "Clipper with guards"
           ],
-          "answer": 1,
-          "explain": "The barber comb is the essential tool for this work."
+          "answer": 3,
+          "explain": "You blend a mid fade with clippers, working the guard steps upward."
         },
         {
-          "q": "What should you always do when working on mid fade basics?",
+          "q": "What should you check after blending a mid fade?",
           "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "check the client for cuts before starting",
-            "test the iron temperature on a strand first"
+            "That there are no visible lines",
+            "That the floor is clean",
+            "That the client is asleep",
+            "That the mirror is dirty"
           ],
-          "answer": 2,
-          "explain": "You should always check the client for cuts before starting."
+          "answer": 0,
+          "explain": "Check that the blend has no visible lines between the guard steps."
         }
       ],
       "project": null
@@ -711,37 +711,37 @@
       "challenge": "Do high fade basics two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on high fade basics?",
+          "q": "Where does a high fade start?",
           "options": [
-            "You should rush through the technique to save time.",
-            "A high fade starts high, near the crown of the head.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "High, near the crown of the head",
+            "Just above the ear",
+            "At the neckline",
+            "On the forehead"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "A high fade starts high, near the crown of the head."
         },
         {
-          "q": "Which tool is most essential for high fade basics?",
+          "q": "Which tool does most of the work in a high fade?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "clipper with guards",
-            "flat iron"
-          ],
-          "answer": 2,
-          "explain": "The clipper with guards is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on high fade basics?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first",
-            "disinfect your clippers between clients"
+            "Trimmer",
+            "Foil shaver",
+            "Barber comb",
+            "Clipper with guards"
           ],
           "answer": 3,
-          "explain": "You should always disinfect your clippers between clients."
+          "explain": "The clipper with guards does most of the work in a high fade."
+        },
+        {
+          "q": "What should you check from every angle in a high fade?",
+          "options": [
+            "The shape of the fade",
+            "The colour of the cape",
+            "The brand of the clipper",
+            "The time on the clock"
+          ],
+          "answer": 0,
+          "explain": "Check the shape of a high fade from every angle so it looks right all round."
         }
       ],
       "project": null
@@ -752,9 +752,9 @@
       "title": "Skin Fade Technique",
       "goal": "By the end of today you can explain and practise: Use a foil shaver below the zero line, then blend 0, 0.5 and 1 guards upward.",
       "video": {
-        "youtube_id": "GRiAhPJk26M",
-        "title": "How to Cut My Dad's Hair from Home",
-        "channel": "Nvenn Hair and Beauty"
+        "youtube_id": "j-8RSH2fA84",
+        "title": "How To Fade Like A Master",
+        "channel": "London School of Barbering"
       },
       "steps": [
         "Get your tools ready: clipper with guards, trimmer and foil shaver.",
@@ -767,37 +767,37 @@
       "challenge": "Do skin fade technique two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on skin fade technique?",
+          "q": "How far down does a skin fade go?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A skin fade goes right down to bare skin at the bottom.",
-            "Using dirty tools gives the same result as clean ones."
+            "Right down to bare skin at the bottom",
+            "Down to the ears only",
+            "Halfway up the head",
+            "To the top of the head"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A skin fade goes right down to bare skin at the bottom."
         },
         {
-          "q": "Which tool is most essential for skin fade technique?",
+          "q": "Which tool shaves below the zero line in a skin fade?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "flat iron",
-            "trimmer"
+            "Trimmer",
+            "Clipper with guards",
+            "Barber comb",
+            "Foil shaver"
           ],
           "answer": 3,
-          "explain": "The trimmer is the essential tool for this work."
+          "explain": "A foil shaver cuts closest to the skin, so it is used below the zero line."
         },
         {
-          "q": "What should you always do when working on skin fade technique?",
+          "q": "What should you check after a skin fade?",
           "options": [
-            "never cut broken skin",
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "That the skin is smooth with no nicks",
+            "That the hair is long on top",
+            "That the cape is clean",
+            "That the mirror is straight"
           ],
           "answer": 0,
-          "explain": "Never cut broken skin."
+          "explain": "Check the skin is smooth and clean after a skin fade, with no nicks or red marks."
         }
       ],
       "project": {
@@ -834,37 +834,37 @@
       "challenge": "Do week 2 project: a clean mid fade two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 2 project: a clean mid fade?",
+          "q": "What makes a mid fade look clean?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A clean mid fade has no visible lines between guard steps."
+            "No visible lines between guard steps",
+            "A bright light in the shop",
+            "Cutting very fast",
+            "Using only one guard"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "A clean mid fade has no visible lines between guard steps."
         },
         {
-          "q": "Which tool is most essential for week 2 project: a clean mid fade?",
+          "q": "Which tool does most of the work in a mid fade?",
           "options": [
-            "foil shaver",
-            "round brush",
-            "hair dryer",
-            "flat iron"
+            "Foil shaver",
+            "Trimmer",
+            "Clipper with guards",
+            "Barber comb"
           ],
-          "answer": 0,
-          "explain": "The foil shaver is the essential tool for this work."
+          "answer": 2,
+          "explain": "The clipper with guards does most of the work in a mid fade."
         },
         {
-          "q": "What should you always do when working on week 2 project: a clean mid fade?",
+          "q": "What should you time in the week 2 project?",
           "options": [
-            "always use heat protectant before hot tools",
-            "check the client for cuts before starting",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "How long the mid fade takes",
+            "How long the client sleeps",
+            "How long the floor takes to sweep",
+            "How long the cape takes to wash"
           ],
-          "answer": 1,
-          "explain": "You should always check the client for cuts before starting."
+          "answer": 0,
+          "explain": "Time yourself cutting a full mid fade with a line-up so you learn to work at a good pace."
         }
       ],
       "project": null
@@ -890,37 +890,37 @@
       "challenge": "Do taper fade two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on taper fade?",
+          "q": "Where is a taper fade shortest?",
           "options": [
-            "A taper fade is shortest at the sideburns and the back of the neck.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "At the sideburns and the back of the neck",
+            "On the top of the head",
+            "At the crown",
+            "All over the head"
           ],
           "answer": 0,
           "explain": "A taper fade is shortest at the sideburns and the back of the neck."
         },
         {
-          "q": "Which tool is most essential for taper fade?",
+          "q": "Which tool cuts a taper fade?",
           "options": [
-            "round brush",
-            "barber comb",
-            "hair dryer",
-            "flat iron"
+            "Foil shaver",
+            "Barber comb",
+            "Trimmer",
+            "Clipper with guards"
           ],
-          "answer": 1,
-          "explain": "The barber comb is the essential tool for this work."
+          "answer": 3,
+          "explain": "A taper fade is cut with clippers, keeping it short only at the sideburns and nape."
         },
         {
-          "q": "What should you always do when working on taper fade?",
+          "q": "What should you leave longer in a taper fade?",
           "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "disinfect your clippers between clients",
-            "test the iron temperature on a strand first"
+            "The rest of the hair, except the sideburns and nape",
+            "The sideburns",
+            "The back of the neck",
+            "All of the hair"
           ],
-          "answer": 2,
-          "explain": "You should always disinfect your clippers between clients."
+          "answer": 0,
+          "explain": "A taper is short only at the sideburns and nape. Leave the rest longer."
         }
       ],
       "project": null
@@ -946,37 +946,37 @@
       "challenge": "Do drop fade two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on drop fade?",
+          "q": "What shape does a drop fade make?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "A drop fade curves down behind the ear.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "It curves down behind the ear",
+            "It goes straight across the head",
+            "It circles the top",
+            "It stops at the temple"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "A drop fade curves down behind the ear."
         },
         {
-          "q": "Which tool is most essential for drop fade?",
+          "q": "Which tool cuts a drop fade?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "clipper with guards",
-            "flat iron"
-          ],
-          "answer": 2,
-          "explain": "The clipper with guards is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on drop fade?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first",
-            "never cut broken skin"
+            "Trimmer",
+            "Foil shaver",
+            "Barber comb",
+            "Clipper with guards"
           ],
           "answer": 3,
-          "explain": "Never cut broken skin."
+          "explain": "A drop fade is cut with clippers, curving the fade line down behind the ear."
+        },
+        {
+          "q": "What should you check after a drop fade?",
+          "options": [
+            "That the curve drops evenly on both sides",
+            "That the top is flat",
+            "That the cape is clean",
+            "That the client is happy with the price"
+          ],
+          "answer": 0,
+          "explain": "Check the drop curve is even on both sides so the fade looks balanced."
         }
       ],
       "project": null
@@ -1002,37 +1002,37 @@
       "challenge": "Do burst fade two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on burst fade?",
+          "q": "What shape does a burst fade make?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A burst fade circles the ear and keeps the back longer.",
-            "The best result comes from skipping the preparation step."
+            "It circles the ear and keeps the back longer",
+            "It goes straight across the back",
+            "It covers the whole head",
+            "It stops at the sideburns"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A burst fade circles the ear and keeps the back longer."
         },
         {
-          "q": "Which tool is most essential for burst fade?",
+          "q": "Which tool cuts a burst fade?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "flat iron",
-            "trimmer"
+            "Barber comb",
+            "Trimmer",
+            "Foil shaver",
+            "Clipper with guards"
           ],
           "answer": 3,
-          "explain": "The trimmer is the essential tool for this work."
+          "explain": "A burst fade is cut with clippers, fading in a circle around the ear."
         },
         {
-          "q": "What should you always do when working on burst fade?",
+          "q": "What should you check after a burst fade?",
           "options": [
-            "check the client for cuts before starting",
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "That the circle around each ear looks the same",
+            "That the top is very short",
+            "That the back is shaved",
+            "That the neckline is high"
           ],
           "answer": 0,
-          "explain": "You should always check the client for cuts before starting."
+          "explain": "Check the burst circle looks the same around each ear."
         }
       ],
       "project": null
@@ -1058,37 +1058,37 @@
       "challenge": "Do line-up and shape-up two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on line-up and shape-up?",
+          "q": "What tool do you use for a line-up?",
           "options": [
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A line-up uses a trimmer to sharpen the hairline."
+            "A trimmer to sharpen the hairline",
+            "A cape to cover the client",
+            "A comb to part the hair",
+            "A spray bottle to wet it"
+          ],
+          "answer": 0,
+          "explain": "A line-up uses a trimmer to sharpen the hairline."
+        },
+        {
+          "q": "Which tool sharpens the hairline in a line-up?",
+          "options": [
+            "Foil shaver",
+            "Clipper with guards",
+            "Barber comb",
+            "Trimmer"
           ],
           "answer": 3,
           "explain": "A line-up uses a trimmer to sharpen the hairline."
         },
         {
-          "q": "Which tool is most essential for line-up and shape-up?",
+          "q": "What do you need for a crisp line-up?",
           "options": [
-            "foil shaver",
-            "round brush",
-            "hair dryer",
-            "flat iron"
+            "A steady hand and a trimmer",
+            "A shaky hand and a clipper",
+            "A comb and a spray bottle",
+            "A spray bottle and a cape"
           ],
           "answer": 0,
-          "explain": "The foil shaver is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on line-up and shape-up?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "disinfect your clippers between clients",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
-          ],
-          "answer": 1,
-          "explain": "You should always disinfect your clippers between clients."
+          "explain": "Use a trimmer with a steady hand to draw a crisp hairline."
         }
       ],
       "project": null
@@ -1114,37 +1114,37 @@
       "challenge": "Do cutting the top with scissors two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on cutting the top with scissors?",
+          "q": "What does scissor work on top do?",
           "options": [
-            "Scissor work on top keeps length while removing bulk.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones."
+            "It keeps length while removing bulk",
+            "It makes the hair much shorter",
+            "It dries the hair",
+            "It colours the hair"
           ],
           "answer": 0,
           "explain": "Scissor work on top keeps length while removing bulk."
         },
         {
-          "q": "Which tool is most essential for cutting the top with scissors?",
+          "q": "Which tool cuts the top of the hair?",
           "options": [
-            "round brush",
-            "barber comb",
-            "hair dryer",
-            "flat iron"
-          ],
-          "answer": 1,
-          "explain": "The barber comb is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on cutting the top with scissors?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "never cut broken skin",
-            "test the iron temperature on a strand first"
+            "Trimmer",
+            "Barber comb",
+            "Shears",
+            "Foil shaver"
           ],
           "answer": 2,
-          "explain": "Never cut broken skin."
+          "explain": "Shears cut the top. You lift sections with a comb and cut with the points down."
+        },
+        {
+          "q": "How should you cut the top with scissors?",
+          "options": [
+            "Lift sections with a comb, cut with points down",
+            "Cut straight across with no comb",
+            "Cut from the back only",
+            "Cut with the scissors closed"
+          ],
+          "answer": 0,
+          "explain": "Lift sections with a comb, cut with points down, and check the length from the front."
         }
       ],
       "project": null
@@ -1170,37 +1170,37 @@
       "challenge": "Do week 3 project: fade plus line-up two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on week 3 project: fade plus line-up?",
+          "q": "What does a full service cut combine?",
           "options": [
-            "You never need to check your work until the very end.",
-            "A full service cut combines fade, line-up and top work.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service."
+            "Fade, line-up and top work",
+            "Only a buzz cut",
+            "Only a beard trim",
+            "Only a shampoo"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "A full service cut combines fade, line-up and top work."
         },
         {
-          "q": "Which tool is most essential for week 3 project: fade plus line-up?",
+          "q": "Which tool does most of the work in a fade plus line-up?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "clipper with guards",
-            "flat iron"
-          ],
-          "answer": 2,
-          "explain": "The clipper with guards is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on week 3 project: fade plus line-up?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first",
-            "check the client for cuts before starting"
+            "Foil shaver",
+            "Barber comb",
+            "Trimmer",
+            "Clipper with guards"
           ],
           "answer": 3,
-          "explain": "You should always check the client for cuts before starting."
+          "explain": "The clipper with guards does most of the fading work in a full service cut."
+        },
+        {
+          "q": "What should you do last in a full service cut?",
+          "options": [
+            "Check the whole cut from every angle",
+            "Start cutting again",
+            "Skip the line-up",
+            "Leave the top uncut"
+          ],
+          "answer": 0,
+          "explain": "After the fade, line-up and top work, check the whole cut from every angle."
         }
       ],
       "project": {
@@ -1237,37 +1237,37 @@
       "challenge": "Do textured crop two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on textured crop?",
+          "q": "How do you create texture on a crop?",
           "options": [
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "Cutting with the tips of the scissors creates texture on the top of a crop.",
-            "You should always use the strongest product available."
+            "Cut with the tips of the scissors",
+            "Cut with the flat of the scissors",
+            "Comb the hair flat",
+            "Use a trimmer"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "Cutting with the tips of the scissors creates texture on the top of a crop."
         },
         {
-          "q": "Which tool is most essential for textured crop?",
+          "q": "Which tool creates texture on a crop?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "flat iron",
-            "trimmer"
+            "Trimmer",
+            "Foil shaver",
+            "Clipper with guards",
+            "Shears"
           ],
           "answer": 3,
-          "explain": "The trimmer is the essential tool for this work."
+          "explain": "You cut texture with the tips of the shears for a messy finish."
         },
         {
-          "q": "What should you always do when working on textured crop?",
+          "q": "What gives a crop its messy finish?",
           "options": [
-            "disinfect your clippers between clients",
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "Point cutting with the tips of the scissors",
+            "Combing the hair flat",
+            "Using a trimmer",
+            "Cutting all the hair the same length"
           ],
           "answer": 0,
-          "explain": "You should always disinfect your clippers between clients."
+          "explain": "Point cutting with the tips of the scissors gives a crop its messy, textured finish."
         }
       ],
       "project": null
@@ -1293,37 +1293,37 @@
       "challenge": "Do waves and curl work two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on waves and curl work?",
+          "q": "How do you train waves?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "Waves are trained by brushing the hair in one direction daily."
+            "Brush the hair in one direction daily",
+            "Wash the hair once a month",
+            "Cut the hair very short",
+            "Never brush the hair"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "Waves are trained by brushing the hair in one direction daily."
         },
         {
-          "q": "Which tool is most essential for waves and curl work?",
+          "q": "Which tool trains waves in the hair?",
           "options": [
-            "foil shaver",
-            "round brush",
-            "hair dryer",
-            "flat iron"
-          ],
-          "answer": 0,
-          "explain": "The foil shaver is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on waves and curl work?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never cut broken skin",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "Foil shaver",
+            "Wave brush",
+            "Trimmer",
+            "Clipper with guards"
           ],
           "answer": 1,
-          "explain": "Never cut broken skin."
+          "explain": "A wave brush trains waves by brushing the hair in one direction daily."
+        },
+        {
+          "q": "What should you finish waves with?",
+          "options": [
+            "A sponge for definition",
+            "A trimmer on the top",
+            "A foil shaver",
+            "A barber comb"
+          ],
+          "answer": 0,
+          "explain": "Finish waves with a sponge for definition after brushing daily."
         }
       ],
       "project": null
@@ -1349,37 +1349,37 @@
       "challenge": "Do beard trimming and shaping two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on beard trimming and shaping?",
+          "q": "Where does the beard neckline sit?",
           "options": [
-            "The beard neckline sits just above the Adam's apple.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "The best result comes from skipping the preparation step."
+            "Just above the Adam's apple",
+            "On the chin",
+            "Below the collar",
+            "On the cheek"
           ],
           "answer": 0,
           "explain": "The beard neckline sits just above the Adam's apple."
         },
         {
-          "q": "Which tool is most essential for beard trimming and shaping?",
+          "q": "Which tool trims and shapes a beard?",
           "options": [
-            "round brush",
-            "barber comb",
-            "hair dryer",
-            "flat iron"
+            "Barber comb",
+            "Foil shaver",
+            "Clipper with guards",
+            "Trimmer"
           ],
-          "answer": 1,
-          "explain": "The barber comb is the essential tool for this work."
+          "answer": 3,
+          "explain": "The trimmer shapes the beard, lines the cheek and defines the neckline."
         },
         {
-          "q": "What should you always do when working on beard trimming and shaping?",
+          "q": "What should you comb first when shaping a beard?",
           "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "check the client for cuts before starting",
-            "test the iron temperature on a strand first"
+            "Comb the beard down",
+            "Comb the beard up",
+            "Comb the beard sideways",
+            "Do not comb it at all"
           ],
-          "answer": 2,
-          "explain": "You should always check the client for cuts before starting."
+          "answer": 0,
+          "explain": "Comb the beard down, then trim stray hairs and line the cheek and neckline."
         }
       ],
       "project": null
@@ -1405,37 +1405,37 @@
       "challenge": "Do kids' haircuts two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on kids' haircuts?",
+          "q": "How are kids' cuts different?",
           "options": [
-            "You should rush through the technique to save time.",
-            "Kids' cuts use longer guards and a calm, quick approach.",
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end."
+            "Kids' cuts use longer guards and a calm, quick approach",
+            "Kids' cuts use the shortest guard",
+            "Kids' cuts take much longer",
+            "Kids' cuts need no guard at all"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "Kids' cuts use longer guards and a calm, quick approach."
         },
         {
-          "q": "Which tool is most essential for kids' haircuts?",
+          "q": "Which tool does most of the work in a kid's cut?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "clipper with guards",
-            "flat iron"
-          ],
-          "answer": 2,
-          "explain": "The clipper with guards is the essential tool for this work."
-        },
-        {
-          "q": "What should you always do when working on kids' haircuts?",
-          "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first",
-            "disinfect your clippers between clients"
+            "Foil shaver",
+            "Trimmer",
+            "Barber comb",
+            "Clipper with guards"
           ],
           "answer": 3,
-          "explain": "You should always disinfect your clippers between clients."
+          "explain": "A kid's cut is done with clippers and a longer guard."
+        },
+        {
+          "q": "How should you cut a child's hair?",
+          "options": [
+            "Fast and calm, with a longer guard",
+            "Slow and loud, with the shortest guard",
+            "Without a cape",
+            "Without telling the child what you are doing"
+          ],
+          "answer": 0,
+          "explain": "Use a longer guard, keep the child still with a cape and mirror, and cut fast and calm."
         }
       ],
       "project": null
@@ -1461,37 +1461,37 @@
       "challenge": "Do fixing mistakes two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on fixing mistakes?",
+          "q": "How do you fix a dark line in a fade?",
           "options": [
-            "The best result comes from skipping the preparation step.",
-            "You never need to check your work until the very end.",
-            "A dark line is fixed by blending with the next guard up, lever open.",
-            "Using dirty tools gives the same result as clean ones."
+            "Blend with the next guard up, lever open",
+            "Cut the line with scissors",
+            "Shave the whole head",
+            "Leave the line as it is"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A dark line is fixed by blending with the next guard up, lever open."
         },
         {
-          "q": "Which tool is most essential for fixing mistakes?",
+          "q": "Which tool fixes a dark line in a fade?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "flat iron",
-            "trimmer"
+            "Trimmer",
+            "Foil shaver",
+            "Barber comb",
+            "Clipper with guards"
           ],
           "answer": 3,
-          "explain": "The trimmer is the essential tool for this work."
+          "explain": "You fix a dark line with the clipper, blending with the next guard up, lever open."
         },
         {
-          "q": "What should you always do when working on fixing mistakes?",
+          "q": "What should you do after you fix a mistake?",
           "options": [
-            "never cut broken skin",
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "Check the blend from every angle",
+            "Start the cut again",
+            "Hide the mistake with product",
+            "Tell the client it was on purpose"
           ],
           "answer": 0,
-          "explain": "Never cut broken skin."
+          "explain": "After fixing a mistake, check the blend from every angle to be sure it is smooth."
         }
       ],
       "project": null
@@ -1517,37 +1517,37 @@
       "challenge": "Do client consultation two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on client consultation?",
+          "q": "What does a consultation do?",
           "options": [
-            "You never need to check your work until the very end.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "A consultation agrees the cut before any hair is cut."
+            "It agrees the cut before any hair is cut",
+            "It sets the price after the cut",
+            "It cleans the tools",
+            "It books the next client"
           ],
-          "answer": 3,
+          "answer": 0,
           "explain": "A consultation agrees the cut before any hair is cut."
         },
         {
-          "q": "Which tool is most essential for client consultation?",
+          "q": "What should you ask first in a consultation?",
           "options": [
-            "foil shaver",
-            "round brush",
-            "hair dryer",
-            "flat iron"
+            "What length, fade height and finish they want",
+            "What shampoo they use at home",
+            "What car they drive",
+            "What they had for lunch"
           ],
           "answer": 0,
-          "explain": "The foil shaver is the essential tool for this work."
+          "explain": "Ask the client what length, fade height and finish they want before you pick up a clipper."
         },
         {
-          "q": "What should you always do when working on client consultation?",
+          "q": "What should you do if the client is not sure what cut they want?",
           "options": [
-            "always use heat protectant before hot tools",
-            "check the client for cuts before starting",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "Show them photos and talk through the options",
+            "Pick any cut for them",
+            "Cut the shortest style",
+            "Tell them to come back tomorrow"
           ],
-          "answer": 1,
-          "explain": "You should always check the client for cuts before starting."
+          "answer": 0,
+          "explain": "If a client is unsure, show them photos and talk through the options before you cut."
         }
       ],
       "project": null
@@ -1573,37 +1573,37 @@
       "challenge": "Do pricing and booking two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on pricing and booking?",
+          "q": "How should you charge for beard work and designs?",
           "options": [
-            "Beard work and designs are charged as extras on top of a cut.",
-            "Using dirty tools gives the same result as clean ones.",
-            "The client's comfort does not matter during the service.",
-            "You should always use the strongest product available."
+            "As extras on top of a cut",
+            "Free with every cut",
+            "At the same price as a full cut",
+            "Only if the client asks twice"
           ],
           "answer": 0,
           "explain": "Beard work and designs are charged as extras on top of a cut."
         },
         {
-          "q": "Which tool is most essential for pricing and booking?",
+          "q": "What should you keep to run your bookings well?",
           "options": [
-            "round brush",
-            "barber comb",
-            "hair dryer",
-            "flat iron"
+            "A booking list",
+            "A dirty cape",
+            "A broken clipper",
+            "An empty chair"
           ],
-          "answer": 1,
-          "explain": "The barber comb is the essential tool for this work."
+          "answer": 0,
+          "explain": "Keep a booking list so you know who is coming and what they are paying for."
         },
         {
-          "q": "What should you always do when working on pricing and booking?",
+          "q": "Why keep a booking list?",
           "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "disinfect your clippers between clients",
-            "test the iron temperature on a strand first"
+            "So you know who is coming and when",
+            "So the shop looks busy",
+            "So clients pay more",
+            "So you can skip cuts"
           ],
-          "answer": 2,
-          "explain": "You should always disinfect your clippers between clients."
+          "answer": 0,
+          "explain": "A booking list keeps your day in order so no client is missed."
         }
       ],
       "project": null
@@ -1614,9 +1614,9 @@
       "title": "Shop Etiquette and Aftercare",
       "goal": "By the end of today you can explain and practise: Sweep the floor, wipe the chair, and tell the client how to keep the fade fresh.",
       "video": {
-        "youtube_id": "GRiAhPJk26M",
-        "title": "How to Cut My Dad's Hair from Home",
-        "channel": "Nvenn Hair and Beauty"
+        "youtube_id": "uu8t7lBctn8",
+        "title": "How I Maintain My Haircut (Bald Fade Tutorial)",
+        "channel": "Michael Mitole"
       },
       "steps": [
         "Get your tools ready: clipper with guards, trimmer and foil shaver.",
@@ -1629,37 +1629,37 @@
       "challenge": "Do shop etiquette and aftercare two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on shop etiquette and aftercare?",
+          "q": "What keeps clients coming back to your shop?",
           "options": [
-            "The client's comfort does not matter during the service.",
-            "A clean station and aftercare advice keep clients returning.",
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time."
+            "A clean station and aftercare advice",
+            "A dirty floor and chair",
+            "No advice after the cut",
+            "Rushing every cut"
           ],
-          "answer": 1,
+          "answer": 0,
           "explain": "A clean station and aftercare advice keep clients returning."
         },
         {
-          "q": "Which tool is most essential for shop etiquette and aftercare?",
+          "q": "What should you tell the client after the cut?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "clipper with guards",
-            "flat iron"
+            "How to keep the fade fresh",
+            "To wash with hot water every day",
+            "To skip the next appointment",
+            "To use any product they find"
           ],
-          "answer": 2,
-          "explain": "The clipper with guards is the essential tool for this work."
+          "answer": 0,
+          "explain": "Tell the client how to keep the fade fresh so the cut lasts longer."
         },
         {
-          "q": "What should you always do when working on shop etiquette and aftercare?",
+          "q": "What should you do after the client leaves the chair?",
           "options": [
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first",
-            "never cut broken skin"
+            "Sweep the floor and wipe the chair",
+            "Leave the hair on the floor",
+            "Leave the chair dirty",
+            "Wait until the end of the day"
           ],
-          "answer": 3,
-          "explain": "Never cut broken skin."
+          "answer": 0,
+          "explain": "Sweep the floor and wipe the chair after every client so the station stays clean."
         }
       ],
       "project": null
@@ -1685,37 +1685,37 @@
       "challenge": "Do capstone week: your first paying client two times today. Make the second try neater than the first.",
       "quiz": [
         {
-          "q": "What is the key point of today's lesson on capstone week: your first paying client?",
+          "q": "What does a paying client booking cover?",
           "options": [
-            "You should always use the strongest product available.",
-            "You should rush through the technique to save time.",
-            "A paying client booking covers consultation, cut, finish and payment.",
-            "The best result comes from skipping the preparation step."
+            "Consultation, cut, finish and payment",
+            "Only the cut",
+            "Only the payment",
+            "Only the photo"
           ],
-          "answer": 2,
+          "answer": 0,
           "explain": "A paying client booking covers consultation, cut, finish and payment."
         },
         {
-          "q": "Which tool is most essential for capstone week: your first paying client?",
+          "q": "What is the first step of a paying appointment?",
           "options": [
-            "round brush",
-            "hair dryer",
-            "flat iron",
-            "trimmer"
+            "Cut the hair straight away",
+            "Take the payment first",
+            "Consult the client about the cut",
+            "Photograph the client"
           ],
-          "answer": 3,
-          "explain": "The trimmer is the essential tool for this work."
+          "answer": 2,
+          "explain": "A full appointment starts with a consultation, then the cut, finish and payment."
         },
         {
-          "q": "What should you always do when working on capstone week: your first paying client?",
+          "q": "What should you do at the end of a paying appointment?",
           "options": [
-            "check the client for cuts before starting",
-            "always use heat protectant before hot tools",
-            "never use a hot tool on soaking wet hair",
-            "test the iron temperature on a strand first"
+            "Take the payment and photograph the cut",
+            "Skip the payment",
+            "Forget the photo",
+            "Leave without saying goodbye"
           ],
           "answer": 0,
-          "explain": "You should always check the client for cuts before starting."
+          "explain": "Run the full appointment: consult, cut, finish, photograph and take payment."
         }
       ],
       "project": null
